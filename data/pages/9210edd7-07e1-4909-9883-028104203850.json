@@ -1,0 +1,65 @@
+{
+  "id": "9210edd7-07e1-4909-9883-028104203850",
+  "slug": "journey-quest",
+  "title": "Journey/Quest",
+  "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "4231da41-594a-42e5-b414-229c0a16aa23",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/9210edd707e149099883028104203850",
+  "createdTime": 1652036411254,
+  "lastEditedTime": 1681313508210,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Concept"
+      ]
+    ],
+    "title": [
+      [
+        "Journey/Quest"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "dd04a456-e836-4328-ba84-c46ea1e2adb3",
+      "type": "divider"
+    },
+    {
+      "id": "6b3e509b-be57-4e65-bd5a-3192e901f3d4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "506c2449-4365-4597-9eca-cf5ace7085d6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5c924838-3765-4e3b-b5fb-e2c6a45fc14c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e914b8c1-b90e-438e-844e-b471278d6cb9",
+      "type": "divider"
+    },
+    {
+      "id": "27c60735-fce9-4892-a92c-594397a5d19d",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "02e8c74b-ff7d-435c-99d4-dff0c69a5bc4",
+      "type": "paragraph",
+      "html": "<a href=\"#/quests\">Quests</a> (<em>book</em>)"
+    }
+  ]
+}

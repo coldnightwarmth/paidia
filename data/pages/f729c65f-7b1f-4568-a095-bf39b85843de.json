@@ -1,0 +1,127 @@
+{
+  "id": "f729c65f-7b1f-4568-a095-bf39b85843de",
+  "slug": "the-hunger-games",
+  "title": "The Hunger Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Hunger-Games-f729c65f7b1f4568a095bf39b85843de?pvs=21",
+  "createdTime": 1651856770797,
+  "lastEditedTime": 1681314125695,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Hunger Games"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6d428bb077ef.webp",
+  "blocks": [
+    {
+      "id": "7807440b-cd57-4743-8b19-3578486948c5",
+      "type": "divider"
+    },
+    {
+      "id": "ae49f0de-b428-44f0-96bb-d8ceb87392fb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bdd2bd36-ba09-45bd-9553-71448c05421b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fd721213-c7bf-4c92-a593-437e91b5cc8b",
+          "type": "column",
+          "children": [
+            {
+              "id": "c24c8550-ce5f-43d3-a552-e984293653ac",
+              "type": "paragraph",
+              "html": "<em><strong>The Hunger Games </strong></em>was written by Suzanne Collins, published by Scholastic Press, September 14, 2008."
+            },
+            {
+              "id": "21df92c0-26d2-4ad1-bc17-0e0ff6c5ebba",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "91855326-e367-4b34-8568-a77772a3b068",
+              "type": "quote",
+              "html": "<em>Winning means fame and fortune. Losing means certain death. The Hunger Games have begun. . . . In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV. Sixteen-year-old Katniss Everdeen regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss has been close to dead before-and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weigh survival against humanity and life against love.</em>"
+            },
+            {
+              "id": "0168ac4b-a75d-40b3-a77f-4471e920a69b",
+              "type": "alias_link",
+              "targetId": null,
+              "title": "Linked page"
+            }
+          ]
+        },
+        {
+          "id": "9cc85eb2-ebc9-46b4-b041-cdeeb0a6597a",
+          "type": "column",
+          "children": [
+            {
+              "id": "c9604c46-c9fb-463d-a057-85829d5764f0",
+              "type": "image",
+              "src": "./assets/images/untitled-6d428bb077ef.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "550cccde-8e06-4e82-b94d-298609865913",
+      "type": "divider"
+    },
+    {
+      "id": "dde505f7-d9e8-49fe-aba6-41cab913fc1c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a2bbec79-6ac7-4b2c-bf0f-4660f22910c8",
+          "type": "column",
+          "children": [
+            {
+              "id": "376de431-a662-4fa9-bd5c-bbb5224f5a50",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "65df519b-3dd9-4aae-a2a8-fb8437ae62cb",
+          "type": "column",
+          "children": [
+            {
+              "id": "27a8efcb-b253-4842-864d-466f10021a47",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3qfmLCK\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe861145-680d-4f32-a34d-ebc0353afb53",
+      "type": "divider"
+    }
+  ]
+}

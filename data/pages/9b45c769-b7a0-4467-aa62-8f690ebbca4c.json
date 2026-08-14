@@ -1,0 +1,131 @@
+{
+  "id": "9b45c769-b7a0-4467-aa62-8f690ebbca4c",
+  "slug": "sports-spectators",
+  "title": "Sports Spectators",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/9b45c769b7a04467aa628f690ebbca4c",
+  "createdTime": 1657229474986,
+  "lastEditedTime": 1681313978127,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Sports Spectators",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-aee76bded59c.webp",
+  "blocks": [
+    {
+      "id": "fcfed27d-048c-4990-936c-599bbff0889c",
+      "type": "divider"
+    },
+    {
+      "id": "21fdadad-139f-42b6-aa4d-1957d06a85aa",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1bf573cd-e50f-45a6-a9ed-e844e6cc3ba6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "870813c7-bdc7-473b-bfba-05d692591820",
+          "type": "column",
+          "children": [
+            {
+              "id": "c76efc18-68f9-4848-8e90-d461127011c1",
+              "type": "paragraph",
+              "html": "<em><strong>Sports Spectators</strong></em> was written by Allen Guttmann, published by Columbia University Press, October 15, 1986."
+            },
+            {
+              "id": "6df53b21-3090-4e90-adbf-1becf52a9e81",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e9955458-e4b5-4a11-9f9f-bd838dfed868",
+              "type": "quote",
+              "html": "<em>Sketches the history of spectator sports, examines the behavior and characteristics of spectators through the ages, discusses the psychology of hooliganism, and describes the American sports industry.</em>"
+            },
+            {
+              "id": "97c1c811-f944-4ede-bb44-5e7cf69d9f02",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "57d3d10d-fde5-4c3d-8a81-956e316f46d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "8bacc900-c120-456c-93ce-7468cc6af943",
+              "type": "image",
+              "src": "./assets/images/untitled-aee76bded59c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6e554a6e-73c3-4b2e-94f9-46a1d3056618",
+      "type": "divider"
+    },
+    {
+      "id": "dcb126b1-3bc6-444d-9f85-ffac92f28ac7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a709d25e-f762-4632-9f41-7f209f34cfa6",
+          "type": "column",
+          "children": [
+            {
+              "id": "eb22a3f5-3d5e-4ff2-b575-8c253b4fd031",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "870ee8a4-bfd8-4a61-9bd8-58cde527a99b",
+          "type": "column",
+          "children": [
+            {
+              "id": "357bfe0d-6588-46bf-932b-bb48979d6c92",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NRXMPg\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e6525d4a-e201-4f98-8194-2b15171c0eab",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "908f8492-50cf-4913-a768-c3af17027d1f",
+  "slug": "learning",
+  "title": "Learning",
+  "icon": "🎓",
+  "cover": "",
+  "type": "page",
+  "parentId": "623df8c7-5945-4ac6-a849-e31a2387c11a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/908f849250cf4913a768c3af17027d1f",
+  "createdTime": 1711198564306,
+  "lastEditedTime": 1711198564306,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Learning"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "80a3ccf3-a6a6-438b-927c-815b6b5ca0f9",
+      "type": "callout",
+      "html": "A collection of learning resources recommended by the community.",
+      "icon": "ℹ️",
+      "children": []
+    },
+    {
+      "id": "062a03b7-6f76-4fd8-ad3f-334a29022ed6",
+      "type": "collection_view",
+      "collectionId": "eac32274-7911-40e2-a025-f443a024faf3",
+      "viewIds": [
+        "f9504687-40fe-450f-a5e0-1957293c7af4"
+      ],
+      "title": ""
+    },
+    {
+      "id": "a84f2b02-50c4-4c81-a613-8a8d66ad599a",
+      "type": "collection_view",
+      "collectionId": "b2a261d8-d596-43f9-9e5f-0beb4d6631ad",
+      "viewIds": [
+        "1a772f70-3fbf-410e-a8f5-dcfa55e59c1f",
+        "011b138c-5bce-4049-94dd-0576f22a969a",
+        "d2778d5e-791d-4bd2-b918-7a608fa33c2d",
+        "dd9c50eb-b783-4668-b993-2fb235639535",
+        "f450b1f0-9a93-4c72-b598-dd617d735a5e",
+        "b53d616f-db4a-4be1-b7c8-c7b47599fe84"
+      ],
+      "title": ""
+    },
+    {
+      "id": "847a8357-bfd2-47ba-bb40-b71cd0aadcfe",
+      "type": "collection_view",
+      "collectionId": "acf18062-c0fc-41c4-ac8a-c5bb99024297",
+      "viewIds": [
+        "85c9d33b-2287-49e5-8ee4-c265f30247c3",
+        "44222b0f-d230-4d2e-8f76-0bae0dffc1cf",
+        "8bc7b436-a006-4921-9788-d5d078744e48",
+        "24f31057-b425-4a07-98dc-dbc97ce0ac17",
+        "23763fd8-2aba-47e0-b79e-6abfce14ab1d"
+      ],
+      "title": ""
+    },
+    {
+      "id": "bd2d1ad7-9680-4571-9975-4083c9d42d93",
+      "type": "collection_view",
+      "collectionId": "7d7393f4-c61c-43d4-8d5d-9f58daee50a2",
+      "viewIds": [
+        "6726087b-11d9-4797-bc92-b23005686410"
+      ],
+      "title": ""
+    },
+    {
+      "id": "50be415d-df3f-4597-b8c7-1b4fdfc031e4",
+      "type": "collection_view",
+      "collectionId": "39f93ccb-1f9c-4a2c-acc8-243d209c4592",
+      "viewIds": [
+        "b43b9d11-e60d-4bc3-b083-5ccd8b9d5e10"
+      ],
+      "title": ""
+    },
+    {
+      "id": "5b0a6498-1e9d-4edf-8fcd-4e1d9137e9f7",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

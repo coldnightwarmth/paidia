@@ -1,0 +1,126 @@
+{
+  "id": "063f61d8-885c-4735-92c0-20bf35542ad9",
+  "slug": "a-mind-at-play",
+  "title": "A Mind at Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/A-Mind-at-Play-063f61d8885c473592c020bf35542ad9?pvs=21",
+  "createdTime": 1651709780326,
+  "lastEditedTime": 1681310261495,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A Mind at Play"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/91fqbkt9j0l-8e650dc9252f.webp",
+  "blocks": [
+    {
+      "id": "34d61fe7-5e63-43d7-a04f-1e3115db5d48",
+      "type": "divider"
+    },
+    {
+      "id": "7f497b4e-9c49-4b1e-a371-f5e170112642",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ba346465-c269-4708-967d-f5be4fdf0c95",
+      "type": "columns",
+      "children": [
+        {
+          "id": "de952d23-a451-46ed-a831-aa0c1fa18771",
+          "type": "column",
+          "children": [
+            {
+              "id": "aa27f29c-10b9-4737-9ed8-e74790c79f22",
+              "type": "paragraph",
+              "html": "<em><strong>A Mind at Play: How Claude Shannon Invented the Information Age</strong></em> was written by Jimmy Soni &amp; Rob Goodman, published by Simon &amp; Schuster, July 17, 2018."
+            },
+            {
+              "id": "9358336a-244a-44df-8179-900c025eba74",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1dd20f1c-239d-4ae0-bd01-e154c88f6bde",
+              "type": "quote",
+              "html": "<em>In their second collaboration, biographers Jimmy Soni and Rob Goodman present the story of Claude Shannon—one of the foremost intellects of the twentieth century and the architect of the Information Age, whose insights stand behind every computer built, email sent, video streamed, and webpage loaded. Claude Shannon was a groundbreaking polymath, a brilliant tinkerer, and a digital pioneer. He constructed the first wearable computer, outfoxed Vegas casinos, and built juggling robots. He also wrote the seminal text of the digital revolution, which has been called “the Magna Carta of the Information Age.” In this elegantly written, exhaustively researched biography, Soni and Goodman reveal Claude Shannon’s full story for the first time. With unique access to Shannon’s family and friends, </em>A Mind at Play<em> brings this singular innovator and always playful genius to life.</em>"
+            },
+            {
+              "id": "68db2da0-2ed4-4c74-a814-5acdb8ded992",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e6905b0a-0d09-45c3-b275-5e0629fc7af4",
+          "type": "column",
+          "children": [
+            {
+              "id": "86535f6e-6b9d-4a4b-b025-85986f218f56",
+              "type": "image",
+              "src": "./assets/images/91fqbkt9j0l-8e650dc9252f.webp",
+              "caption": "",
+              "alt": "91fqbKT9j0L.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e8b670a-950f-40b4-b1f9-88e4d80d7b22",
+      "type": "divider"
+    },
+    {
+      "id": "51a0bef0-a78c-4bc8-ae50-fb3a84bce321",
+      "type": "columns",
+      "children": [
+        {
+          "id": "183e66d8-4de2-40fc-8b57-d961aee683d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "4636acd7-582a-4e7f-b8c3-4b2e915a0569",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "70b5b7bf-aa6c-4cf7-a10c-a7a4076a5320",
+          "type": "column",
+          "children": [
+            {
+              "id": "987ced48-b53d-4d6c-8314-243a5c5ec729",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OxwyPb\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c8daa37e-7511-47e6-b29b-df5145d0fc8c",
+      "type": "divider"
+    }
+  ]
+}

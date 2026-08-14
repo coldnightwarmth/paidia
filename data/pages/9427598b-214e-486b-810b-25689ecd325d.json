@@ -1,0 +1,131 @@
+{
+  "id": "9427598b-214e-486b-810b-25689ecd325d",
+  "slug": "touch-screen-theory",
+  "title": "Touch Screen Theory",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Touch-Screen-Theory-9427598b214e486b810b25689ecd325d?pvs=21",
+  "createdTime": 1668808769627,
+  "lastEditedTime": 1681312374767,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Touch Screen Theory",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-349178066f8e.webp",
+  "blocks": [
+    {
+      "id": "2f46d5e7-8e57-4ef1-bbc0-267bd666c7bc",
+      "type": "divider"
+    },
+    {
+      "id": "9e7c673c-119c-4b3c-996a-cb867db14bb3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6f7d0151-3283-4b80-8c58-fd41dc7c5e7f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "40f91d3d-57ca-4b32-be49-077c8370524d",
+          "type": "column",
+          "children": [
+            {
+              "id": "450cd752-40c5-49fc-82bd-149204b78741",
+              "type": "paragraph",
+              "html": "<em><strong>Touch Screen Theory: Digital Devices &amp; Feelings</strong></em> was written by Michele White, published by The MIT Press, October 25, 2022."
+            },
+            {
+              "id": "a8fa0bd2-7c73-44b5-a7a1-26bd43f5a917",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e66d3102-5c57-4f45-91d6-0d499ce4912f",
+              "type": "quote",
+              "html": "<em><strong>Technology companies claim to connect people through touchscreens, but by conflating physical contact with emotional sentiments, they displace the constructed aspects of devices and women and other oppressed individuals’ critiques of how such technologies function.<br><br></strong></em><em>Technology companies and device designers correlate touchscreens and online sites with physical contact and emotional sentiments, promising unmediated experiences in which the screen falls away in favor of visceral materiality and connections. While touchscreens are key elements of most people’s everyday lives, critical frameworks for understanding the embodied experiences of using them are wanting. In </em>Touch Screen Theory<em>, Michele White focuses on the relation between physically touching and emotionally feeling to recenter the bodies and identities that are empowered, produced, and displaced by these digital technologies and settings. Drawing on detailed cases and humanities methods, White shows how and why gender, race, and sexuality should be further analyzed in relation to touchscreen use and design. <br><br>White delves into such details as how women are informed that their bodies and fingernails are not a fit for iPhones, how cellphone surfaces are correlated with skin and understood as erotic, the ways social networks use heart buttons and icons to seem to physically and emotionally connect with individuals, how online references to feminine and queer feelings are resisted by many men, and how women producers of autonomous sensory meridian response (ASMR) videos use tactile strategies and touch screens to emotionally bond with viewers. Proposing critical methods for studying touchscreens and digital engagement, </em>Touch Screen Theory <em>expands a variety of research areas, including digital and internet cultures, hardware, interfaces, media and screens, and popular culture.</em>"
+            },
+            {
+              "id": "e5327d7c-4651-4e99-a474-0e427cc980ef",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "383a575a-b197-414d-994a-56f2ea34ad40",
+          "type": "column",
+          "children": [
+            {
+              "id": "50a3f4c0-54a0-42cd-867b-8c4134dbbb7e",
+              "type": "image",
+              "src": "./assets/images/untitled-349178066f8e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbc3ef3f-c99b-4a39-bdb4-9b21e49c83d6",
+      "type": "divider"
+    },
+    {
+      "id": "026209f8-d70c-4209-a06c-add4468d1060",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fbd5b20a-39ee-4af0-963a-cc681b60d54e",
+          "type": "column",
+          "children": [
+            {
+              "id": "2233ce36-fb53-4566-ae6b-a94f6d3a0abb",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "80cba39f-d723-4fde-b146-16d8f03cbea8",
+          "type": "column",
+          "children": [
+            {
+              "id": "9c8541f3-64c8-4058-9f4e-256dafac7dd4",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Touch-Screen-Theory-Digital-Feelings/dp/0262544687/ref=sr_1_1?crid=FLLQPDQ66M59&amp;keywords=touch+screen+theory&amp;qid=1666900202&amp;qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=touch+screen+theory%2Cstripbooks%2C96&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56076347-c4cb-4399-b12c-5fd88e762cf9",
+      "type": "divider"
+    }
+  ]
+}

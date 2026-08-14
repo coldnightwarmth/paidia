@@ -1,0 +1,131 @@
+{
+  "id": "cb621667-d99d-4f00-92ac-5653942c8fe6",
+  "slug": "baseball-in-the-garden-of-eden",
+  "title": "Baseball in the Garden of Eden",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Baseball-in-the-Garden-of-Eden-cb621667d99d4f0092ac5653942c8fe6?pvs=21",
+  "createdTime": 1659422471385,
+  "lastEditedTime": 1681311108700,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Baseball in the Garden of Eden",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-bbdd2c51baa7.webp",
+  "blocks": [
+    {
+      "id": "cde64305-2257-480f-907a-bd3e5481ed6e",
+      "type": "divider"
+    },
+    {
+      "id": "ce8b2318-f935-466f-9cdf-7090447750c9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0fb2df8a-0f1f-434b-866f-d52a8056e4df",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ab64681a-bcd4-44dc-8224-e8703b134997",
+          "type": "column",
+          "children": [
+            {
+              "id": "86295416-b63a-410c-9d0a-9a61dbc0aedc",
+              "type": "paragraph",
+              "html": "<em><strong>Baseball in the Garden of Eden: The Secret History of the Early Game</strong></em> was written by John Thorn, published by Simon &amp; Schuster, March 15, 2011."
+            },
+            {
+              "id": "cf99d2b8-5c49-480b-bc4e-e3db1e4f742b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "00fb9605-8dab-4b1b-be5c-c5b9d99d1543",
+              "type": "quote",
+              "html": "<em><strong>By the Official Historian of Major League Baseball.<br></strong></em>"
+            },
+            {
+              "id": "f6dd938a-b9e1-4af6-8b59-0ffb19b642d5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "3a1c1606-f8ad-4a9b-a979-9e435d8f96df",
+          "type": "column",
+          "children": [
+            {
+              "id": "01d7bfce-a56c-48ab-a5a9-df01e23431ca",
+              "type": "image",
+              "src": "./assets/images/untitled-bbdd2c51baa7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c206aeb-4976-452f-9603-a29376bd63c1",
+      "type": "divider"
+    },
+    {
+      "id": "25c1bcdf-3856-4ff1-81e1-c57077d9e26d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "30980465-c108-4e46-8edf-913e68c18258",
+          "type": "column",
+          "children": [
+            {
+              "id": "85e76b61-7dea-43ba-a93b-395a561b377e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b24d6f4f-b6b9-4db7-9147-2c81e8cf7377",
+          "type": "column",
+          "children": [
+            {
+              "id": "f1212fc5-da0a-44be-baab-f154e96963b5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zq3a75\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "141f50c2-2f59-41a9-8664-7f0331333aeb",
+      "type": "divider"
+    }
+  ]
+}

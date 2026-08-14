@@ -1,0 +1,119 @@
+{
+  "id": "e3eefbac-6d78-413e-8435-614510d47806",
+  "slug": "other-people-e3eefbac",
+  "title": "Other People",
+  "icon": "./assets/images/profile-blue-c34cf97ee44b.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1d3cc3fe-9fc1-4b6a-adb9-9ba3cf47bbc1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/e3eefbac6d78413e8435614510d47806",
+  "createdTime": 1704597936418,
+  "lastEditedTime": 1704903614857,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Other People"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "338f35cd-223c-4701-b8aa-71b4c31ee7ad",
+      "type": "header",
+      "html": "   Other People",
+      "anchorId": "other-people"
+    },
+    {
+      "id": "2ca21606-4157-4643-afa9-0045b1e4053b",
+      "type": "paragraph",
+      "html": "<em>       notable explorers &amp; commentators of play</em>"
+    },
+    {
+      "id": "24ee9d3b-5253-4c2f-a1b7-6ffd8644657a",
+      "type": "divider"
+    },
+    {
+      "id": "2b329da1-9f7f-43a2-b1ea-7b5f2892f126",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9c382ee0-eb80-4b9b-a0a8-1d47da44d241",
+          "type": "column",
+          "children": [
+            {
+              "id": "8f2f04bc-bea7-4d3a-ac11-53011e12cbc3",
+              "type": "synced_block",
+              "sourceBlockId": "1d3cc3fe-9fc1-4b6a-adb9-9ba3cf47bbc1",
+              "children": [
+                {
+                  "id": "41835304-6ea6-49de-8f70-369ac35dd6f9",
+                  "type": "page_link",
+                  "targetId": "41835304-6ea6-49de-8f70-369ac35dd6f9",
+                  "title": "Writers & Scholars",
+                  "notionType": "page"
+                },
+                {
+                  "id": "ef69fc12-e7b6-4e3b-a523-374e42213e38",
+                  "type": "page_link",
+                  "targetId": "ef69fc12-e7b6-4e3b-a523-374e42213e38",
+                  "title": "Gamedevs & Artists",
+                  "notionType": "page"
+                },
+                {
+                  "id": "e3eefbac-6d78-413e-8435-614510d47806",
+                  "type": "page_link",
+                  "targetId": "e3eefbac-6d78-413e-8435-614510d47806",
+                  "title": "Other People",
+                  "notionType": "page"
+                },
+                {
+                  "id": "34ed739a-d07d-487f-ab38-00a7f47c8b78",
+                  "type": "page_link",
+                  "targetId": "34ed739a-d07d-487f-ab38-00a7f47c8b78",
+                  "title": "Groups",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "024abe78-6f11-4c18-9275-9a0cf82a090e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "15c3520a-fc8e-4058-bdb3-055e081f8bda",
+          "type": "column",
+          "children": [
+            {
+              "id": "60d44746-ef5f-43e7-9be0-54dde029d76b",
+              "type": "collection_view",
+              "collectionId": "f03347c2-ef85-4d40-be97-8ab828f8f61e",
+              "viewIds": [
+                "78009176-028d-4921-9f55-6d39a509e4d0"
+              ],
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ffa5505-7d7b-4af8-b999-4223b40b0e11",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

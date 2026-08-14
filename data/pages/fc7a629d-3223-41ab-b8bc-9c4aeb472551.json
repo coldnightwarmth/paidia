@@ -1,0 +1,126 @@
+{
+  "id": "fc7a629d-3223-41ab-b8bc-9c4aeb472551",
+  "slug": "aretism",
+  "title": "Aretism",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Aretism-fc7a629d322341abb8bc9c4aeb472551?pvs=21",
+  "createdTime": 1652119178952,
+  "lastEditedTime": 1681310919363,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Aretism"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a53404ecd943.webp",
+  "blocks": [
+    {
+      "id": "0ad80467-39c0-4e88-8344-46e9310af9b6",
+      "type": "divider"
+    },
+    {
+      "id": "66cdc504-8ece-42c6-91e9-f6206ad48b3b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3ad36a96-9a34-4aa6-ac89-845387b1a435",
+      "type": "columns",
+      "children": [
+        {
+          "id": "45843dc0-4ca5-4169-a461-4c7005f78e5a",
+          "type": "column",
+          "children": [
+            {
+              "id": "da11db3a-6285-4f0e-9437-02058808df59",
+              "type": "paragraph",
+              "html": "<em><strong>Aretism: An Ancient Sports Philosophy for the Modern Sports World</strong></em> was written by Mark Holowchak &amp; Heather Reid, published by Lexington Books, May 31, 2011."
+            },
+            {
+              "id": "c5f57f4b-255e-4ed4-a82a-0126837554f6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c288f022-d91f-42a1-9657-5e2e87c35994",
+              "type": "quote",
+              "html": "Aretism: An Ancient Sports Philosophy for the Modern Sports World <em>applies a robust ancient ethic to the widely-acknowledged problems faced by modern sports. Aretism―from the Greek word arete (&quot;excellence&quot;)―draws a balance between the hard commercialism of modern sports culture and the soft playfulness of recreational models to recover the value of sport for individuals, education, and society at large. The authors' approach proposes practical strategies for athletes, coaches, and physical educators to use when facing ethical challenges in the modern world.<br><br>Holowchak and Reid present Aretism as a tripartite model of athletic excellence focused on personal, civic, and global integration. They reject the personal and social separation characteristics of much of contemporary moral reasoning. Aretism creates a critical and normative framework within which athletic agents can aim for spirited, but morally sensitive, competition by seeking the betterment not only of themselves, through athletic competition, but also of their teammates, fellow competitors, and even their communities.<br><br>Holowchak and Reid also present a historical overview of sport and a critique of two traditional models―the martial/commercial model and the aesthetic/recreational model. This book is most applicable to students and academics concerned with the philosophy of sport, but will be of interest to all those in sports professions, including coaches, trainers, and athletes.</em>"
+            },
+            {
+              "id": "ca406f8c-5000-49ff-ba9f-5cf467dbb2cd",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "3eff5bba-5791-447d-82a9-f59694ab864d",
+          "type": "column",
+          "children": [
+            {
+              "id": "87b69786-b443-4ed7-97fd-a0a5ea5e5a56",
+              "type": "image",
+              "src": "./assets/images/untitled-a53404ecd943.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74c53b70-615d-446a-91d5-50862baa8362",
+      "type": "divider"
+    },
+    {
+      "id": "11c4c038-c434-47c1-809c-2380a5d4cb0e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ac44f937-b29a-484d-bfd7-0ddccd65a3b8",
+          "type": "column",
+          "children": [
+            {
+              "id": "a56979bb-3cc4-4ff9-ad95-46fee0829ab9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "dc38ab33-d434-427c-add5-77a936adeef5",
+          "type": "column",
+          "children": [
+            {
+              "id": "1671195e-80d2-42d3-ae65-f814a0ac4bf6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bbh30f\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "589f815d-171b-460e-9bd8-6190cf0b4e66",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "c2898ebe-ba0e-4b38-8082-f530e1ee7eff",
+  "slug": "writing-for-games",
+  "title": "Writing for Games",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Writing-for-Games-c2898ebeba0e4b388082f530e1ee7eff?pvs=21",
+  "createdTime": 1657867356258,
+  "lastEditedTime": 1681313546542,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Writing for Games",
+        [
+          [
+            "b"
+          ],
+          [
+            "i"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f07e5d0ddaf1.webp",
+  "blocks": [
+    {
+      "id": "70bd97a7-20ce-42dd-9dee-dfc2e940cc7d",
+      "type": "divider"
+    },
+    {
+      "id": "3d94b418-ffc0-474b-9399-f8d3d5c09687",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fa8fd214-5f38-4130-83e8-a0a95309de38",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ad4b4f1d-c78e-44de-bc37-b82c3cabd5f5",
+          "type": "column",
+          "children": [
+            {
+              "id": "26de7531-07ba-4d7e-ab9c-2141a5463774",
+              "type": "paragraph",
+              "html": "<em><strong>Writing for Games: Theory &amp; Practice</strong></em><strong> </strong>was written by Hannah Nicklin, published by CRC Press, May 24, 2022. There is also a supporting <a href=\"https://www.writingfor.games/\" target=\"_blank\" rel=\"noreferrer\">website you can visit here</a>."
+            },
+            {
+              "id": "be7e8fc1-d443-4fdd-a934-25034fe80d27",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e86cc27c-780b-46b7-b24e-1c261ea3b7f8",
+              "type": "quote",
+              "html": "<em>Focussing on the independent videogames sector, this book provides readers with a vocabulary to articulate and build their games writing practice; whether studying games or coming to games from another storytelling discipline. Writing for Games offers resources for communication, collaboration, reflection, and advocacy, inviting the reader to situate their practice in a centuries-long heritage of storytelling, as well as considering the material affordances of videogames, and the practical realities of working in game development processes.<br><br>Structured into three parts, Theory considers the craft of both games and writing from a theoretical perspective, covering vocabulary for both game and story practices. Case Studies uses three case studies to explore the theory explored in Part 1. The Practical Workbook offers a series of provocations, tools and exercises that give the reader the means to refine and develop their writing, not just for now, but as a part of a life-long practice.</em>"
+            },
+            {
+              "id": "1162fb48-790e-41eb-b3d7-c76b365c63c3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b44e2f5e-b558-4f6a-a493-73a513e52839",
+          "type": "column",
+          "children": [
+            {
+              "id": "ae3a26b8-86e6-4028-bebd-bb6b0e0206d7",
+              "type": "image",
+              "src": "./assets/images/untitled-f07e5d0ddaf1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24ef8ce6-c3ce-4f01-b2b3-b054a5946bcf",
+      "type": "divider"
+    },
+    {
+      "id": "c2e8d399-eb19-4b52-b59d-650a1424e425",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8044c123-9e2a-4d4d-9a6f-89de39d0ab70",
+          "type": "column",
+          "children": [
+            {
+              "id": "b7708452-a40d-4c9d-9cf1-13563906a998",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0ff9df12-f5ed-4f5e-9252-b6252d893906",
+          "type": "column",
+          "children": [
+            {
+              "id": "03de78eb-5eb1-4777-9371-7564de1ee810",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Ptbol5\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5ec3dd5-7f73-4661-a575-b20727da2374",
+      "type": "divider"
+    }
+  ]
+}

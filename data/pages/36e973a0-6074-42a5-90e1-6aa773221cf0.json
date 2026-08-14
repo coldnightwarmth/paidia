@@ -1,0 +1,136 @@
+{
+  "id": "36e973a0-6074-42a5-90e1-6aa773221cf0",
+  "slug": "jumanji",
+  "title": "Jumanji",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Jumanji-36e973a0607442a590e16aa773221cf0?pvs=21",
+  "createdTime": 1658274629717,
+  "lastEditedTime": 1681314124489,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Jumanji",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8e304951f5bd.webp",
+  "blocks": [
+    {
+      "id": "1bb7a02b-2a93-4b97-b1b2-3365014db1ac",
+      "type": "divider"
+    },
+    {
+      "id": "5098a92d-7ca1-4888-9c5d-495b90c893b0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fcb688f5-83c6-409a-a511-35584ceed4a1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a46479d0-0dbb-4b40-ab39-359537b2b0de",
+          "type": "column",
+          "children": [
+            {
+              "id": "205cefbf-5500-495b-bd5d-94d7bbe9d781",
+              "type": "paragraph",
+              "html": "<em><strong>Jumanji</strong></em><strong> </strong>was written by Chris Van Allsburg, published by Houghton Mifflin in 1981."
+            },
+            {
+              "id": "16e4e1bc-f7c1-40c8-b55f-5e137b6446f7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "105666b3-0fd2-40a8-b19c-b68da4e25fe4",
+              "type": "quote",
+              "html": "<em><strong>Roll the dice, make your move, and plunge into one of the most imaginative stories of our time!<br><br></strong></em><em>The game under the tree looked like a hundred others Peters and Judy had at home. But they were searching for something interesting to do, so they decided to give Jumanji a try. Little did they know when they unfolded its ordinary-looking playing board that they were about to be launched into the most exciting and bizarre adventure of their lives...<br><br>This picture book classic from Chris Van Allsburg has been honored with many awards, including the Caldecott Medal. The surreal story also became the basis of multiple blockbuster film adaptations.<br><br>This story about a game that comes startlingly to life is a family favorite that inspires imagination and explores the ever-shifting line between fantasy and reality.</em>"
+            },
+            {
+              "id": "2e587154-8dba-4e27-b4ac-9902c1c24886",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7f21345f-50bb-4152-87e1-90c3de703f17",
+          "type": "column",
+          "children": [
+            {
+              "id": "8c746ccc-abdb-444d-8344-03f27021f995",
+              "type": "image",
+              "src": "./assets/images/untitled-8e304951f5bd.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "155896e0-328b-45b1-a9e2-21efb706f35a",
+      "type": "divider"
+    },
+    {
+      "id": "da227099-32ee-4e11-b69c-da8c90083b9c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0b9fded1-8261-4a82-b1b4-0f8f5cf44052",
+          "type": "column",
+          "children": [
+            {
+              "id": "faf4ab43-4b08-4277-b15c-90c9ba6493b2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bd2e08ea-e287-46fe-9668-3ee6f9c43d14",
+          "type": "column",
+          "children": [
+            {
+              "id": "e5ed80ed-0cd4-44f1-a9a0-93b51405bc0e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Pm0OwJ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baee14dd-fe0b-44c4-ac68-8c1f31ebe4cf",
+      "type": "divider"
+    },
+    {
+      "id": "153cf01a-327a-41b5-95ab-37f3318c5703",
+      "type": "paragraph",
+      "html": "see also:<br><a href=\"#/zathura\">Zathura</a> (<em>book</em>)"
+    }
+  ]
+}

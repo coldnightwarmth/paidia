@@ -1,0 +1,141 @@
+{
+  "id": "0b2bcc87-bfee-4674-982b-c0c8cf2db766",
+  "slug": "ludotopia",
+  "title": "Ludotopia",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "16515e7c-ec2f-4d98-9fec-861099f13e9d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/0b2bcc87bfee4674982bc0c8cf2db766",
+  "createdTime": 1653071248530,
+  "lastEditedTime": 1681313358549,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ludotopia",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-76e66619f712.webp",
+  "blocks": [
+    {
+      "id": "95490cb8-79c1-4a96-8980-39e65727f193",
+      "type": "divider"
+    },
+    {
+      "id": "908729d3-96d6-4528-88d5-b709ab1b8ab3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a398af6d-89b3-4e73-a44a-5fe0afbaf8e6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d15c6fa5-36be-49fc-bb53-d572e64064ab",
+          "type": "column",
+          "children": [
+            {
+              "id": "fedf4f88-2e2a-4698-a746-d2d31f010444",
+              "type": "paragraph",
+              "html": "<em><strong>Ludotopia</strong></em> was written by <a href=\"#/espen-aarseth\">Espen Aarseth</a>, published by transcript publishing, February 4, 2020."
+            },
+            {
+              "id": "0db8f0fc-b3c2-453c-8449-1d1fb8fe10ea",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e546a0b7-05b2-44a8-b2cb-ecf2a3f44a68",
+              "type": "quote",
+              "html": "<em>Where do computer games »happen«? The articles collected in this pioneering volume explore the categories of »space«, »place« and »territory« featuring in most general theories of space to lay the groundwork for the study of spatiality in games. Shifting the focus away from earlier debates on, e.g., the narrative nature of games, this collection proposes, instead, that thorough attention be given to the tension between experienced spaces and narrated places as well as to the mapping of both of these.</em>"
+            }
+          ]
+        },
+        {
+          "id": "3e3df886-4fde-43cc-aef6-17656cf10993",
+          "type": "column",
+          "children": [
+            {
+              "id": "a96fb1b5-6150-45c4-a554-a75e4ede2c7f",
+              "type": "image",
+              "src": "./assets/images/untitled-76e66619f712.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17a52285-c235-477c-825c-dd1bc18ae967",
+      "type": "divider"
+    },
+    {
+      "id": "daadea62-0f29-4ccb-9cbd-2b09c3050964",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3187594b-406e-4e7a-b1b5-f5795ca1d196",
+          "type": "column",
+          "children": [
+            {
+              "id": "ba74a90d-3f3b-4398-b4ee-1d6e6cdd3ffe",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bea968ad-e95d-4397-aae1-7d19f1350fe2",
+          "type": "column",
+          "children": [
+            {
+              "id": "99b104e2-b90d-4213-859b-df7e4cbc1918",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NnYu6Y\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e7f52ab-9fdd-43aa-806c-a5d3f7b6128f",
+      "type": "divider"
+    },
+    {
+      "id": "e01d4969-fed2-4b51-9dfb-e8ddd8e19de4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0a8202f0-967c-4559-b49a-c18e4cd373b2",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "474794ab-a6fe-4e19-ade7-fb635f893847",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

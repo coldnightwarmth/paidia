@@ -1,0 +1,121 @@
+{
+  "id": "dc8d048b-1c13-42b5-bc49-738c8fa4ed2a",
+  "slug": "the-works-of-fumito-ueda",
+  "title": "The Works of Fumito Ueda",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Works-of-Fumito-Ueda-dc8d048b1c1342b5bc49738c8fa4ed2a?pvs=21",
+  "createdTime": 1651684521292,
+  "lastEditedTime": 1681313921359,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Works of Fumito Ueda"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/91xs7npzvgl-f8e8e97adaa5.webp",
+  "blocks": [
+    {
+      "id": "f6ac80bd-2a4d-487c-af92-1c8e6863ce24",
+      "type": "divider"
+    },
+    {
+      "id": "2494d5d6-e265-4aec-802d-0719649d4465",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bd743681-4e9c-43e2-b031-039120c6e492",
+      "type": "columns",
+      "children": [
+        {
+          "id": "076821af-3b23-4528-9f80-b6924846b4b1",
+          "type": "column",
+          "children": [
+            {
+              "id": "2d425fe8-16c3-423e-bb19-48aefd3ccaed",
+              "type": "paragraph",
+              "html": "<em><strong>The Works of Fumito Ueda: A Different Perspective on Video Games</strong></em> was written by Damien Mecheri, published by Third Editions, April 15, 2019."
+            },
+            {
+              "id": "a6aa1f8e-fd95-4125-8132-9f67f4078515",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ec354b55-7656-4630-b4f3-9eee0d3f2381",
+              "type": "quote",
+              "html": "<em>An emblematic question that has been fueling debates for years, the question of the artistic essence of video games continues to be debated today. If it appears essential for the recognition of the cultural value of the medium, this subject actually creak many teeth.<br><br>Among the games that fuel the debate, a trilogy stands out particularly, signed by the Japanese developer </em><a href=\"#/fumito-ueda\"><em>Fumito Ueda</em></a><em> whose approach to creation -propose something that did not exist elsewhere - has inhabited the making of each of its productions: </em>ICO, Shadow of the Colossus,<em> and </em>The Last Guardian<em>.</em>"
+            }
+          ]
+        },
+        {
+          "id": "1f42ae60-b0d9-4b62-8232-a44eab413dc5",
+          "type": "column",
+          "children": [
+            {
+              "id": "a877879a-3e11-4fc4-926c-8b0e46a77b69",
+              "type": "image",
+              "src": "./assets/images/91xs7npzvgl-f8e8e97adaa5.webp",
+              "caption": "",
+              "alt": "91XS7NPZVgL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f9f54ed4-3fa8-4279-9253-a29c5d1248b1",
+      "type": "divider"
+    },
+    {
+      "id": "01b2626e-5f88-44a1-bf51-283fb931eaae",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0dcc5f06-f035-4e35-8db9-3beecb6c2611",
+          "type": "column",
+          "children": [
+            {
+              "id": "42649174-1339-4111-b265-55329863eb29",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e24578a9-6b3d-4704-9d01-0a807b04ef5c",
+          "type": "column",
+          "children": [
+            {
+              "id": "35eccf55-f5bd-4f33-b91e-09a74bad6fa2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3U0VXmZ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6886774-1ca0-4222-aadc-f2b3f7bddb4d",
+      "type": "divider"
+    }
+  ]
+}

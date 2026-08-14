@@ -1,0 +1,126 @@
+{
+  "id": "95c7cfa3-2356-4f6b-8b9f-7163e89dae1e",
+  "slug": "fun-and-software",
+  "title": "Fun & Software",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Fun-Software-95c7cfa323564f6b8b9f7163e89dae1e?pvs=21",
+  "createdTime": 1651689118891,
+  "lastEditedTime": 1681314177053,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Fun & Software"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f2bc9f4f2ef3.webp",
+  "blocks": [
+    {
+      "id": "f4f115de-d1f5-44a3-9c13-3620c1ca1f01",
+      "type": "divider"
+    },
+    {
+      "id": "108482f1-95fd-4c33-a124-f982ac66494b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "96a7ec80-66aa-49cc-9d2e-d590c2bb9d80",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b28da616-16b9-4565-a5e4-fda673b4b49c",
+          "type": "column",
+          "children": [
+            {
+              "id": "dea476b0-8147-45a3-b3d0-e4f60a63ab47",
+              "type": "paragraph",
+              "html": "<em><strong>Fun &amp; Software: Exploring Pleasure, Paradox &amp; Pain in Computing </strong></em>is a collection of essays edited by Olga Goriunova, published by Bloomsbury Academic, August 28, 2014."
+            },
+            {
+              "id": "60097b20-4a08-44ca-af81-9164b4e96852",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "151fd218-d2ee-46bf-9aee-570bfb26714c",
+              "type": "quote",
+              "html": "Fun and Software<em> offers the untold story of fun as constitutive of the culture and aesthetics of computing. Fun in computing is a mode of thinking, making and experiencing. It invokes and convolutes the question of rationalism and logical reason, addresses the sensibilities and experience of computation and attests to its creative drives. By exploring topics as diverse as the pleasure and pain of the programmer, geek wit, affects of play and coding as a bodily pursuit of the unique in recursive structures, </em>Fun and Software<em> helps construct a different point of entry to the understanding of software as culture. Fun is a form of production that touches on the foundations of formal logic and precise notation as well as rhetoric, exhibiting connections between computing and paradox, politics and aesthetics. From the formation of the discipline of programming as an outgrowth of pure mathematics to its manifestation in contemporary and contradictory forms such as gaming, data analysis and art, fun is a powerful force that continues to shape our life with software as it becomes the key mechanism of contemporary society.<br><br>Including chapters from leading scholars, programmers and artists, Fun and Software makes a major contribution to the field of software studies and opens the topic of software to some of the most pressing concerns in contemporary theory.</em>"
+            },
+            {
+              "id": "9a9b4789-ab88-4e20-88be-d649c49109e5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a59d52cf-9111-4189-a309-dbe306983cb2",
+          "type": "column",
+          "children": [
+            {
+              "id": "385d9de4-93eb-419a-afc2-9fb9717b379f",
+              "type": "image",
+              "src": "./assets/images/untitled-f2bc9f4f2ef3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fcd24a90-a88d-45f7-bea9-08f32a9f5901",
+      "type": "divider"
+    },
+    {
+      "id": "3eef5a35-e03b-467d-8a70-56566982bcd6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f7532d89-4b1e-4796-a2f7-ed30d1939e88",
+          "type": "column",
+          "children": [
+            {
+              "id": "d2bfe915-e954-4a69-8f77-07fe1d7a5f25",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "82c4d988-c20e-4040-bc09-a73f169217bf",
+          "type": "column",
+          "children": [
+            {
+              "id": "321921d0-ac3c-4fc2-9c7b-b33c489b8e52",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3QFGXK4\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "941e68f4-c3e9-4fe5-bdbc-0cdd35a01fa4",
+      "type": "divider"
+    }
+  ]
+}

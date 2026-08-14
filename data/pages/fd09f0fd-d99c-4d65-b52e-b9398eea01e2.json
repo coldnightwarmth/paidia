@@ -1,0 +1,137 @@
+{
+  "id": "fd09f0fd-d99c-4d65-b52e-b9398eea01e2",
+  "slug": "competition-in-the-ancient-world",
+  "title": "Competition in the Ancient World",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Competition-in-the-Ancient-World-fd09f0fdd99c4d65b52eb9398eea01e2?pvs=21",
+  "createdTime": 1653492499382,
+  "lastEditedTime": 1681313831180,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Competition in the Ancient World",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0db7e5515657.webp",
+  "blocks": [
+    {
+      "id": "799492f9-100e-41ec-a3f9-beaf1661b07e",
+      "type": "divider"
+    },
+    {
+      "id": "73689bec-19f4-409d-8dab-720d70f9eb4f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "78089918-ccb6-4534-aa3a-46b7aee46ea7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5083e02f-c878-43e4-8a1f-b9a9f326e68b",
+          "type": "column",
+          "children": [
+            {
+              "id": "034b4fd7-f1e3-4d35-b84f-8f8bad8606dc",
+              "type": "paragraph",
+              "html": "<em><strong>Competition in the Ancient World</strong></em> is a collection of essays edited by Nick Fisher &amp; Hans can Wes, published by Classical Press of Wales, November 28, 2010."
+            },
+            {
+              "id": "fe6f8295-95f6-41ba-8bb9-a714874be747",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a14307b5-4a76-4106-a8b2-832fab1bbddd",
+              "type": "quote",
+              "html": "<em>Ancient peoples, like modern, spent much of their lives engaged in and thinking about competitions: both organised competitions with rules, audiences and winners, such as Olympic and gladiatorial games, and informal, indefinite, often violent, competition for fundamental goals such as power, wealth and honour. The varied papers in this book form a case for viewing competition for superiority as a major force in ancient history, including the earliest human societies and the Assyrian and Aztec empires. Papers on Greek history explore the idea of competitiveness as peculiarly Greek, the intense and complex quarrel at the heart of Homer's</em> Iliad<em>, and the importance of formal competitions in the creation of new political and social identities in archaic Sicyon and classical Athens. Papers on the Roman world shed fresh light on Republican elections, through a telling parallel from Renaissance Venice, on modes of competitive display of wealth and power evident in elite villas in Italy in the imperial period, and on the ambiguities in the competitive self-representations of athletes, sophists and emperors.</em>"
+            },
+            {
+              "id": "19d76a75-b737-4bf5-a52d-2915a6c01206",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bfbb15ef-e3ff-45cd-a8f2-8fdc91a4e2ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "9abb1458-8df1-49b3-a75c-ba464d7f36a9",
+              "type": "image",
+              "src": "./assets/images/untitled-0db7e5515657.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d29ef15c-a602-48ba-ae4b-cea4062cc643",
+      "type": "divider"
+    },
+    {
+      "id": "44792290-f180-46d3-ad57-95303e3f6beb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7e150739-8ee9-4f02-941f-21ab9d22f7b8",
+          "type": "column",
+          "children": [
+            {
+              "id": "8a60e59c-7094-479e-82fb-eca10854f94e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b83307b3-6d10-47dc-b352-54a0777108c9",
+          "type": "column",
+          "children": [
+            {
+              "id": "cc00f29f-d709-4e64-8b85-a05cadbb068d",
+              "type": "callout",
+              "html": "",
+              "icon": "📕",
+              "children": [
+                {
+                  "id": "00ae7813-2269-418c-a031-c540eaca6522",
+                  "type": "paragraph",
+                  "html": "<a href=\"https://amzn.to/3Nyfg3l\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "94f28ee5-f77d-4cd4-a50d-47ade40c8144",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "875c5e0a-00dc-4fb4-b68f-a90d9e5f058b",
+  "slug": "from-ritual-to-theatre",
+  "title": "From Ritual to Theatre",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/875c5e0a00dc4fb4b68fa90d9e5f058b",
+  "createdTime": 1651688163046,
+  "lastEditedTime": 1681314314935,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "From Ritual to Theatre"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-71996d8db646.webp",
+  "blocks": [
+    {
+      "id": "b7b0c1c5-772c-4bc0-8eef-95fdba8fa83c",
+      "type": "divider"
+    },
+    {
+      "id": "7fbe3195-c07b-4414-8ae5-e13bd030125f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "244891a0-8216-4d46-8018-fbb7fa5d7bb3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1433fc66-4419-442f-90e3-d3be0c16c9a6",
+          "type": "column",
+          "children": [
+            {
+              "id": "6629d480-5656-4608-b044-d1d49ab4346e",
+              "type": "paragraph",
+              "html": "<em><strong>From Ritual to Theatre: The Human Seriousness of Play</strong></em> was written by Victor Turner, published by PAJ Publications, June 1, 1982."
+            },
+            {
+              "id": "db240736-2071-48fd-91ea-f887e5b1c307",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5f2f8b8c-c0ba-4be4-a158-8e9cfef69e6c",
+              "type": "quote",
+              "html": "<em>How is social action related to </em><a href=\"#/the-aesthetic-of-play\"><em>aesthetics</em></a><em>, and anthropology to theatre? What is the meaning of such concepts as &quot;</em><a href=\"#/the-gamework\"><em>work</em></a><em>,&quot; &quot;play, &quot;liminal,&quot; and &quot;</em><a href=\"#/flow\"><em>flow</em></a><em>&quot;? In this highly influential book, Turner elaborates on ritual and theatre, persona and individual, role-playing and performing, taking examples from American, European, and African societies for a greater understanding of culture and its symbols.</em>"
+            }
+          ]
+        },
+        {
+          "id": "50112472-3f71-47b1-8b81-a0a55664c254",
+          "type": "column",
+          "children": [
+            {
+              "id": "810cd651-e75e-44b6-a80a-0c57879542d0",
+              "type": "image",
+              "src": "./assets/images/untitled-71996d8db646.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf5dfc71-8655-4bf4-819f-1fba917f8ec3",
+      "type": "divider"
+    },
+    {
+      "id": "417eb106-44db-4e59-a455-6c6e561a3be6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dfefab51-2136-4523-b18e-b6ce45e155a8",
+          "type": "column",
+          "children": [
+            {
+              "id": "70b46bdf-db2d-4b7a-9dbb-081f8160e890",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c28d56c3-d2c1-4150-8057-4e2d6930eeff",
+          "type": "column",
+          "children": [
+            {
+              "id": "2fb42f74-e635-4ba5-a137-6bed665995df",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NdNatR\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1dc14624-9727-42fa-b0b3-7956f56243aa",
+      "type": "divider"
+    },
+    {
+      "id": "dfad0617-9dbf-4856-94b7-865a0f6779d1",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "b51fc508-5759-4150-9388-f2612c72eed1",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-anthropology-of-performance\">The Anthropology of Performance</a> (<em>book</em>)"
+    }
+  ]
+}

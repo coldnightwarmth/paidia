@@ -1,0 +1,129 @@
+{
+  "id": "40e11fe2-22de-405b-89d3-73f87aeda803",
+  "slug": "conquest-of-the-useless",
+  "title": "Conquest of the Useless",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Conquest-of-the-Useless-40e11fe222de405b89d373f87aeda803?pvs=21",
+  "createdTime": 1651856157646,
+  "lastEditedTime": 1681314250681,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Conquest of the Useless",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-56ca8c13a01a.webp",
+  "blocks": [
+    {
+      "id": "5494b3dc-9fa7-42a7-804c-5bdd9782b3d2",
+      "type": "divider"
+    },
+    {
+      "id": "d508ed38-ed51-4910-9b58-3fc7f502bb5a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "297d92fb-037c-4512-bf62-3b94a69aba71",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e7ae6c8e-72b2-4651-8062-b85cbaf8414f",
+          "type": "column",
+          "children": [
+            {
+              "id": "ea1b7a8a-da59-4bef-8753-96bee251558f",
+              "type": "paragraph",
+              "html": "<em><strong>Conquest of the Useless</strong></em> was written by Werner Herzog, published by Ecco, June 30, 2009."
+            },
+            {
+              "id": "ae00ac28-fbbe-4dd6-acc1-fbf29ca59481",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "82cc2508-0d86-45f8-b034-31f4eddb5e54",
+              "type": "quote",
+              "html": "<em>Werner Herzog (Grizzly Man) is one of the most revered and enigmatic filmmakers of our time, and </em>Fitzcarraldo<em><br> is one of his most honored and admired films. More than just Herzog’s journal of the making of the monumental, problematical motion picture, which involved, among other things, major cast changes and reshoots, and the hauling (without the use of special effects) of a 360-ton steamship over a mountain, </em>Conquest of the Useless<em> is a work of art unto itself, an Amazonian fever dream that emerged from the delirium of the jungle. With fascinating observations about crew and players—including Herzog’s lead, the somewhat demented internationally renowned star Klaus Kinski—and breathtaking insights into the filmmaking process that are uniquely Werner Herzog, </em>Conquest of the Useless<em> is an eye-opening look into the mind of a cinematic master.</em>"
+            }
+          ]
+        },
+        {
+          "id": "62921863-a63f-4f52-b775-453126eba42c",
+          "type": "column",
+          "children": [
+            {
+              "id": "0b048a03-6392-4382-9a22-80fb09ba19c9",
+              "type": "image",
+              "src": "./assets/images/untitled-56ca8c13a01a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17723fce-113b-45f8-932d-85c6d300d792",
+      "type": "divider"
+    },
+    {
+      "id": "916771bf-6233-4bee-ba73-f133f39b8e10",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2034646d-4fa1-4bae-8587-eb0a5533d93c",
+          "type": "column",
+          "children": [
+            {
+              "id": "d5ace521-8dbb-437c-bca1-3971e2614dbc",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d950b8b7-36f8-4eca-98ae-96e53f7fe6c2",
+          "type": "column",
+          "children": [
+            {
+              "id": "4adc0479-db8f-4c6f-844d-844795492c38",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3GehLW2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fcb9f1d6-2acc-4c04-b64d-5dd59c6eaf34",
+      "type": "divider"
+    }
+  ]
+}

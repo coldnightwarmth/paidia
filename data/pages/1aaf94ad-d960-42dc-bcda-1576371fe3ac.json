@@ -1,0 +1,126 @@
+{
+  "id": "1aaf94ad-d960-42dc-bcda-1576371fe3ac",
+  "slug": "indie-games-in-the-digital-age",
+  "title": "Indie Games in the Digital Age",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Indie-Games-in-the-Digital-Age-1aaf94add96042dcbcda1576371fe3ac?pvs=21",
+  "createdTime": 1657235668224,
+  "lastEditedTime": 1681313955081,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Indie Games in the Digital Age",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f8d23d8d73e3.webp",
+  "blocks": [
+    {
+      "id": "7e824565-b55f-4aa4-8ee8-8930dfd52b4a",
+      "type": "divider"
+    },
+    {
+      "id": "fe854273-a6d4-4817-a639-4832c0eda565",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b508fa8e-e1f7-48e6-afa1-a1e69f19997e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a9e9d7ed-208d-48d1-ae86-6bdca918f145",
+          "type": "column",
+          "children": [
+            {
+              "id": "2c150604-2b93-461d-af65-ffae2fd7d4bc",
+              "type": "paragraph",
+              "html": "<em><strong>Indie Games in the Digital Age</strong></em> is a collection of essays edited by M.J. Clarke &amp; Cynthia Wang, published by Bloomsbury Academic, April 16, 2020."
+            },
+            {
+              "id": "ecebe84f-9870-4857-81f2-5c0cab5ca89e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "78fdcae9-2c55-43cc-9b22-37d891172702",
+              "type": "quote",
+              "html": "<em>A host of digital affordances, including reduced cost production tools, open distribution platforms, and ubiquitous connectivity, have engendered the growth of indie games among makers and users, forcing critics to reconsider the question of who makes games and why. Taking seriously this new mode of cultural produciton compells analysts to reconsider the blurred boundaries and relations of makers, users and texts as well as their respective relationship to cultural power and hierarchy. The contributions to </em>Indie Games in the Digital Age<em> consider these questions and examine a series of firms, makers, games and scenes, ranging from giants like Nintendo and Microsoft to grassroots games like </em>Cards Against Humanity<em> and </em>Stardew Valley<em>, to chart more precisely the productive and instructive disruption that this new site of cultural production offers.</em>"
+            }
+          ]
+        },
+        {
+          "id": "a33f1046-9820-44fa-aa09-89b4f885e3e1",
+          "type": "column",
+          "children": [
+            {
+              "id": "5c2a493a-d8cb-4fa3-8c92-e6b98eab6113",
+              "type": "image",
+              "src": "./assets/images/untitled-f8d23d8d73e3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7057cdbe-0cf4-47b3-9076-93110753392b",
+      "type": "divider"
+    },
+    {
+      "id": "14915c32-ad09-47ac-9b42-16a592831020",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1e39c8cf-c5f1-41bf-ba4f-b789396af4bf",
+          "type": "column",
+          "children": [
+            {
+              "id": "eab4f2a2-61cb-4f9d-9c0a-77e66328c747",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8f5dc6c9-7d9e-488a-92a1-0000378beecf",
+          "type": "column",
+          "children": [
+            {
+              "id": "c975cf71-d385-464a-914b-7be8f1153653",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3AvZB1j\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7c2d387-aa72-4b47-8781-807947817a52",
+      "type": "divider"
+    }
+  ]
+}

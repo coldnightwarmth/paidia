@@ -1,0 +1,143 @@
+{
+  "id": "54d07dd3-8bb8-46ac-bb85-b4cfc5cdceae",
+  "slug": "speedrun",
+  "title": "Speedrun",
+  "icon": "./assets/images/gear-gray-0ec377f45914.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "5ee61c40-debd-4ed3-91d7-538153258c59",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/54d07dd38bb846acbb85b4cfc5cdceae",
+  "createdTime": 1651853706474,
+  "lastEditedTime": 1681313196452,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Concept"
+      ]
+    ],
+    "title": [
+      [
+        "Speedrun"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-af6b95bcd397.webp",
+  "blocks": [
+    {
+      "id": "707a90fd-2ce1-4281-adcb-bf44fe25a521",
+      "type": "divider"
+    },
+    {
+      "id": "f7281825-390c-4904-bc3e-1fa0d734d9d6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "14e32f1a-6bf1-4ee3-a217-2ee82909c926",
+      "type": "columns",
+      "children": [
+        {
+          "id": "437d6b3a-8968-4979-8d5a-288a1cdae7ed",
+          "type": "column",
+          "children": [
+            {
+              "id": "d8e22bae-5fbf-40d9-a798-81a0ec54dcd1",
+              "type": "paragraph",
+              "html": "A <strong>speedrun</strong> is a playthrough of a video game or a specific segment thereof, with the primary goal of completing it as quickly as possible. Speedruns challenge players to push the limits of their <a href=\"#/skill\">skills</a>, knowledge, and understanding of the game, often employing unconventional <a href=\"#/strategy\">strategies</a>, shortcuts, and even exploiting <a href=\"#/glitch\">glitches</a> to achieve the fastest <a href=\"#/routing\">route</a> from start to finish. The speedrunning community has emerged as a vibrant subculture within the broader gaming landscape, with players sharing their techniques, hosting large <a href=\"#/livestreaming\">streams</a>, competing against one another, and organizing events such as charity marathons."
+            }
+          ]
+        },
+        {
+          "id": "89602286-8ab1-4b80-abd8-c33a81d9288a",
+          "type": "column",
+          "children": [
+            {
+              "id": "734dfd2f-9bdc-4df8-85e3-f885bbce7d9d",
+              "type": "image",
+              "src": "./assets/images/untitled-af6b95bcd397.webp",
+              "caption": "Screenshot of Niftski beating <a href=\"#/super-mario\"><em>Super Mario Bros.</em></a> with a world record time of 4:54.948",
+              "alt": "Untitled"
+            },
+            {
+              "id": "241e1114-14f0-4c37-9654-7124a1c9a3bd",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4a3a104-f47b-4521-92b3-4c768353f8d9",
+      "type": "paragraph",
+      "html": "Speedrunning can be seen as an example of <a href=\"#/metagame\">meta-play</a>, in which players develop their own set of <a href=\"#/rules-da0708b1\">rules</a> and objectives that extend beyond the game's original design. This form of play encourages creativity, experimentation, and <a href=\"#/collaboration-co-op\">collaboration</a>, as players work together to discover new strategies and <a href=\"#/min-max\">optimize</a> their performance. Speedrunning also highlights the importance of mastery and the intrinsic rewards of play, as players invest significant time and effort into honing their skills and achieving personal bests. The practice of speedrunning exemplifies the diverse ways in which individuals and communities engage with games, redefining the boundaries and possibilities of play."
+    },
+    {
+      "id": "3ce15114-5a02-4bbb-b417-ca4e419a8f3f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "aa4b1ece-278e-4a98-9b47-4e7ab53a4c5a",
+      "type": "divider"
+    },
+    {
+      "id": "29da886e-d92b-48b6-bf1a-992792e91953",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c6d2a16e-8e1d-4357-843c-195ddfe3c381",
+          "type": "column",
+          "children": [
+            {
+              "id": "f7af3f22-3944-44d3-8747-552f0a46b5a3",
+              "type": "paragraph",
+              "html": "<em>related reading:</em>"
+            },
+            {
+              "id": "02294875-c598-459d-9782-91486d9efa43",
+              "type": "paragraph",
+              "html": "<a href=\"#/speedrunning\">Speedrunning</a> (<em><em><em><em>book</em></em></em></em>)"
+            },
+            {
+              "id": "95c0dd23-f9ea-4eca-8b49-ba7e9f717066",
+              "type": "paragraph",
+              "html": "<a href=\"#/twere-well-it-were-done-quickly-what-belongs-in-a-glitchless-speedrun\">“Twere Will it Were Done Quickly” - What Belongs in a Glitchless Speedrun</a> (<em><em><em><em><em><em><em>article</em></em></em></em></em></em></em>)"
+            }
+          ]
+        },
+        {
+          "id": "a7fe2d79-9e20-4cb2-b23c-183bb77540bb",
+          "type": "column",
+          "children": [
+            {
+              "id": "b826a8ed-0a06-48f5-bb23-e0f51bcb9a22",
+              "type": "paragraph",
+              "html": "<em>see also:</em>"
+            },
+            {
+              "id": "e36cde7b-c502-47e7-80a0-270cb8fd9324",
+              "type": "paragraph",
+              "html": "<a href=\"#/shmovement\">Shmovement</a> (<em><em><em><em><em><em><em>concept</em></em></em></em></em></em></em>)"
+            },
+            {
+              "id": "bbe6ddc7-fbd0-4298-b56f-88764199ab74",
+              "type": "paragraph",
+              "html": "<a href=\"#/godlike\">“Godlike”</a> (<em><em><em><em><em><em><em><em><em>concept</em></em></em></em></em></em></em></em></em>)"
+            },
+            {
+              "id": "5bd11a5f-fbbb-418f-a354-27ddab6914cc",
+              "type": "paragraph",
+              "html": "<a href=\"#/new-game\">New Game+</a> (<em><em><em><em><em><em><em>concept</em></em></em></em></em></em></em>)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

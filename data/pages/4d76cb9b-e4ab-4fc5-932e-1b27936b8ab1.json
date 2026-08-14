@@ -1,0 +1,126 @@
+{
+  "id": "4d76cb9b-e4ab-4fc5-932e-1b27936b8ab1",
+  "slug": "electronic-monuments",
+  "title": "Electronic Monuments",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Electronic-Monuments-4d76cb9be4ab4fc5932e1b27936b8ab1?pvs=21",
+  "createdTime": 1651684894162,
+  "lastEditedTime": 1681314226665,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Electronic Monuments"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-936ba9339731.webp",
+  "blocks": [
+    {
+      "id": "d5158e36-a92f-4fb4-af69-9071e408d3e6",
+      "type": "divider"
+    },
+    {
+      "id": "a34f26c9-1df2-45b5-808b-58936de6496a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "106c17e9-757e-415c-bb95-d23eadb404d5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e2e6121f-b0e1-49bb-bc0c-297bb618f0e4",
+          "type": "column",
+          "children": [
+            {
+              "id": "27da197e-3f86-4527-867b-6a6d2be1ebd1",
+              "type": "paragraph",
+              "html": "<em><strong>Electronic Monuments</strong></em> was written by Gregory L. Ulmer, published by University Of Minnesota Press, November 25, 2005."
+            },
+            {
+              "id": "36ad1e17-413e-462d-8118-b512788005f4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "56a10300-a290-4b56-81fc-6416c7fc0b5a",
+              "type": "quote",
+              "html": "<em>While corporations, governmental groups, and public relations firms debated the best way to memorialize the event of 9/11, sites of commemoration could be seen across the country and especially on the Internet. Greg Ulmer suggests that this reality points us to a new sense of monumentality, one that is collaborative in nature rather than iconic.<br><br>From a do-it-yourself Mount Rushmore to an automated tribute to the devastating annual toll of traffic deaths in the United States, </em>Electronic Monuments<em> describes commemoration as a fundamental experience, joining individual and collective identity, and adapting both to the emerging apparatus of “electracy,” or digital literacy. Concerns about the destruction of civic life caused by the society of the spectacle are refocused on the question of how a collectivity remembers who or what it is.<br><br>Ulmer proposes that the Internet makes it possible for monumentality to become a primary site of self-knowledge, one that supports a new politics, ethics, and dimension of education. The Internet thus holds the promise of bringing citizens back into the political equation as witnesses and monitors.</em>"
+            },
+            {
+              "id": "70502e9f-a715-4d42-bdf5-383e037ee3c1",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "1fcb10cd-7a94-4cd6-a365-602216071857",
+          "type": "column",
+          "children": [
+            {
+              "id": "f2d6352b-f87a-4b02-b85b-44adcc491fe4",
+              "type": "image",
+              "src": "./assets/images/untitled-936ba9339731.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1b02efca-b5c7-43b8-b4c3-b887cd38eab6",
+      "type": "divider"
+    },
+    {
+      "id": "b20fe86a-b612-45ec-8750-349929d1bf00",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9fd3e47d-0583-4834-b471-915c9c76b572",
+          "type": "column",
+          "children": [
+            {
+              "id": "cc06d954-75ff-4c42-8563-73d0f6f7c016",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ec6f8e51-8ed4-43a8-8bf2-f98a23216b1a",
+          "type": "column",
+          "children": [
+            {
+              "id": "d640c367-6d58-41d2-9224-f006e1fcea6c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yjhpex\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5bedba4b-0e19-4d6d-8ef1-02b7dafef0cd",
+      "type": "divider"
+    }
+  ]
+}

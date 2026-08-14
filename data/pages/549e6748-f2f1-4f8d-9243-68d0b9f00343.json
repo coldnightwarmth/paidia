@@ -1,0 +1,94 @@
+{
+  "id": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "slug": "games-549e6748",
+  "title": "Games",
+  "icon": "🎲",
+  "cover": "./assets/images/a-group-of-tibetan-herders-play-billiards-on-the-pasture-nea-40ba1b0def06.webp",
+  "type": "page",
+  "parentId": "9510bf90-3ac9-4424-974b-7424f3b33683",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/549e6748f2f14f8d924368d0b9f00343",
+  "createdTime": 1651681920000,
+  "lastEditedTime": 1704852251182,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Games"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "260ff129-c52f-4074-948c-13c9c87a1646",
+      "type": "paragraph",
+      "html": "<em>     notable games in the discourse of play</em>"
+    },
+    {
+      "id": "98a48cfe-f829-4022-8b68-bf36c2abff33",
+      "type": "divider"
+    },
+    {
+      "id": "3fdc2dba-85cc-4ba2-aa5c-f0dcc6d3e41e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "04c3c774-896b-4035-ba29-3e11ffb0a4a7",
+          "type": "column",
+          "children": [
+            {
+              "id": "28565453-030e-4ef0-902b-711c38f035e0",
+              "type": "page_link",
+              "targetId": "28565453-030e-4ef0-902b-711c38f035e0",
+              "title": "Sports",
+              "notionType": "page"
+            },
+            {
+              "id": "70aaf802-4e58-4f10-b89b-e11ce8160ac2",
+              "type": "page_link",
+              "targetId": "70aaf802-4e58-4f10-b89b-e11ce8160ac2",
+              "title": "Tabletop Games",
+              "notionType": "page"
+            },
+            {
+              "id": "05f8dc7a-3411-4896-ba6a-b02e65928607",
+              "type": "page_link",
+              "targetId": "05f8dc7a-3411-4896-ba6a-b02e65928607",
+              "title": "Other Games & Toys",
+              "notionType": "page"
+            },
+            {
+              "id": "aa2cd643-9ed3-4093-a1e2-c6122ee034ba",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "dc43d5ea-8b70-407b-b6e0-9f1e077c29b0",
+          "type": "column",
+          "children": [
+            {
+              "id": "0c863b12-3ac6-403d-8d97-eff13fef46f8",
+              "type": "collection_view",
+              "collectionId": "a91c429c-121f-4a12-8320-bd15cea4b1a3",
+              "viewIds": [
+                "3f87aa4e-f6f9-43f0-a1a3-e14fc33ff584"
+              ],
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

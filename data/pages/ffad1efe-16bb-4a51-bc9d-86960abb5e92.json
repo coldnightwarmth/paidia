@@ -1,0 +1,145 @@
+{
+  "id": "ffad1efe-16bb-4a51-bc9d-86960abb5e92",
+  "slug": "the-art-of-game-design",
+  "title": "The Art of Game Design",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Art-of-Game-Design-ffad1efe16bb4a51bc9d86960abb5e92?pvs=21",
+  "createdTime": 1651684521701,
+  "lastEditedTime": 1681313877741,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "T",
+        [
+          [
+            "a",
+            "https://www.librarything.com/work/7511327/book/209521471"
+          ]
+        ]
+      ],
+      [
+        "he Art of Game Design"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fad114ae286c.webp",
+  "blocks": [
+    {
+      "id": "d5c9e9ab-1da4-42bb-b137-87f54ed2afec",
+      "type": "divider"
+    },
+    {
+      "id": "9ef32a01-ebac-4973-822d-479d6a4c2a11",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "12985f55-8b1e-4aad-a5b0-544256d373d7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "759d096d-41a4-4360-9a9d-6d1811401564",
+          "type": "column",
+          "children": [
+            {
+              "id": "52e52d75-90dd-495b-b8c1-45f8e8fdd6fb",
+              "type": "paragraph",
+              "html": "<em><strong>The Art of Game Design: A Book of Lenses</strong></em><strong> </strong>was written by Jesse Schell, originally published by CRC Press, August 4, 2008."
+            },
+            {
+              "id": "57be2287-f956-4948-8754-bcce53f0903e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "bebfb63d-1af0-4caf-b31b-9c82753e4a3a",
+              "type": "quote",
+              "html": "<em>Presents over 100 sets of questions, or different lenses, for viewing a game’s design. Written by one of the world's top game designers, this book describes the deepest and most fundamental principles of game design, demonstrating how tactics used in board, card, and athletic games also work in video games. It provides practical instruction on creating world-class games that will be played again and again. New to this edition: many great examples from new VR and AR platforms as well as examples from modern games such as </em>Uncharted 4<em> and </em>The Last of Us<em>, Free to Play games, hybrid games, transformational games, and more.</em>"
+            },
+            {
+              "id": "079f9252-5836-4b57-9a72-4832b90ca4f9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e1c02bdf-20a4-4936-a88c-663d48c9a107",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e28ac5e3-57c5-4bbe-8404-4616f36064e8",
+          "type": "column",
+          "children": [
+            {
+              "id": "db7b9fb2-5da8-4060-a811-52c459faaf3f",
+              "type": "image",
+              "src": "./assets/images/untitled-fad114ae286c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3163a5d-20a4-4346-9c88-102cedc51387",
+      "type": "divider"
+    },
+    {
+      "id": "51fa1ea4-c72f-45a7-848a-f2adf633407a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "426cf612-6549-4a5d-8cd3-edd4005a48f5",
+          "type": "column",
+          "children": [
+            {
+              "id": "cd0ecb07-2be2-430c-9b7e-78d6a9e6c35c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f8f0ed12-8d90-4a02-9e3b-e4993be0d66e",
+          "type": "column",
+          "children": [
+            {
+              "id": "ced79e84-240d-488c-b719-d4136e36603e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3wUAV0l\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4645358a-04f4-40e5-b71f-2d73c8be5abb",
+      "type": "divider"
+    },
+    {
+      "id": "f36e9385-7388-4492-900c-9838866f8a36",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

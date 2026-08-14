@@ -1,0 +1,126 @@
+{
+  "id": "93ddb558-7af8-4257-8268-0f0fa4232ad3",
+  "slug": "myst-and-riven",
+  "title": "Myst & Riven",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "19047757-e48b-472e-b41b-acb5119065f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Myst-Riven-93ddb5587af8425782680f0fa4232ad3?pvs=21",
+  "createdTime": 1651694328097,
+  "lastEditedTime": 1681313951816,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Myst & Riven",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d7fac7db7ffb.webp",
+  "blocks": [
+    {
+      "id": "8402dec7-6809-4fad-afb3-a1bed7978589",
+      "type": "divider"
+    },
+    {
+      "id": "4787562e-b4e6-4bef-922c-27382cf373ec",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cc8b0484-4561-4c7b-adb9-017ed771aff8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "df4a26cc-1a08-4df3-99cb-919b2cacda19",
+          "type": "column",
+          "children": [
+            {
+              "id": "277f8d56-9151-494f-bd0e-87585277518e",
+              "type": "paragraph",
+              "html": "<em><strong>Myst and Riven: The World of the D'ni</strong></em> was written by Mark J. P. Wolf, published by U OF M DIGT CULT BOOKS, May 26, 2011."
+            },
+            {
+              "id": "9c36d208-6aa6-472d-858d-88bad6ccdef9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a387feb8-8a42-4c0c-9ce1-e9ed05a446d9",
+              "type": "quote",
+              "html": "<em>Video games have become a major cultural force, and within their history, </em>Myst <em>and its sequel </em>Riven<em> stand out as influential examples. </em>Myst and Riven: The World of the D’ni <em>is a close analysis of two of the most popular and significant video games in the history of the genre, investigating in detail their design, their functionality, and the gameplay experience they provide players. While scholarly close analysis has been applied to films for some time now, it has only rarely been applied at this level to video games. Mark J. P. Wolf uses elements such as graphics and sound, the games’ mood and atmosphere and how they are generated, the geography and design of the digital worlds, and the narrative structures of the games to examine their appeal to both critical and general audiences, their legacy, and what made them great.</em>"
+            }
+          ]
+        },
+        {
+          "id": "356ef452-9051-446b-b785-d71ab15bc449",
+          "type": "column",
+          "children": [
+            {
+              "id": "366f7e77-17a9-4f49-ac96-e22a82885142",
+              "type": "image",
+              "src": "./assets/images/untitled-d7fac7db7ffb.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "898d9bdb-788d-4ab3-9a35-96490ff11db1",
+      "type": "divider"
+    },
+    {
+      "id": "f7456046-553a-48fb-a363-7330991f372a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ac0897a8-ccf3-429b-aac1-f9f1c1608be3",
+          "type": "column",
+          "children": [
+            {
+              "id": "65ac9625-356f-4c14-82fc-39aaab0b9b80",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a18af8c7-d817-43f4-b03f-236127614e41",
+          "type": "column",
+          "children": [
+            {
+              "id": "e5d3dcd8-cac4-4b7f-ad94-6b7a950f7930",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Ui5F4b\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01b2b7aa-2aba-4879-8286-121c00feede9",
+      "type": "divider"
+    }
+  ]
+}

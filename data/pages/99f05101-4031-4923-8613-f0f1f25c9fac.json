@@ -1,0 +1,131 @@
+{
+  "id": "99f05101-4031-4923-8613-f0f1f25c9fac",
+  "slug": "man-at-play",
+  "title": "Man at Play",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/99f05101403149238613f0f1f25c9fac",
+  "createdTime": 1651686692716,
+  "lastEditedTime": 1681314298081,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Man at Play"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f632976cc3f2.webp",
+  "blocks": [
+    {
+      "id": "688db303-20f1-447e-8d29-c2c6c1344468",
+      "type": "divider"
+    },
+    {
+      "id": "fabea942-6c57-4dee-8863-5e08665132b3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a87f90a3-371a-48ae-a547-9a9c601e5605",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ef54f830-9576-4015-8641-951114e159ee",
+          "type": "column",
+          "children": [
+            {
+              "id": "f322c319-6629-4722-9e59-d5f996db00d2",
+              "type": "paragraph",
+              "html": "<em><strong>Man at Play</strong></em> was written by Fr. <a href=\"#/hugo-rahner\">Hugo Rahner</a>, published by Herder &amp; Herder in 1963."
+            },
+            {
+              "id": "93326ad0-ead7-4e64-9b42-2017ce46b3fe",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d973c42a-1281-4e9e-948e-12a159448fc8",
+              "type": "quote",
+              "html": "Man at Play<em> is a theological and religious interpretation of play and its place in culture and society. Hugo Rahner examines play as a means of participation in the life of God himself—an activity which is both serious and joyous. Appreciating the complexity of the fallen world, Rahner does not shy away from the role of tragedy in the human experience, nor does he subscribe to a belittling or superficial view of the Christian who must “become like a child.” Instead, aided by the teachings of the Church Fathers and other theologians, philosophers, and poets, Rahner lucidly locates the play of nature within the </em><a href=\"#/the-grace-of-playing\"><em>play of grace</em></a><em>. Finding inspiration from </em><a href=\"#/johan-huizinga\"><em>Huizinga</em></a><em>, Buytendijk, and von Kujawa, Rahner both develops and complements their work with his rich understanding of antiquity and Catholic theology. Spontaneous and insightful, </em>Man at Play<em> is a book worth many happy returns.</em>"
+            }
+          ]
+        },
+        {
+          "id": "5a971533-a917-42b7-add8-950996d2d69b",
+          "type": "column",
+          "children": [
+            {
+              "id": "70829b05-8177-4a02-909e-06358e46f4e3",
+              "type": "image",
+              "src": "./assets/images/untitled-f632976cc3f2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86f034a9-4183-47a2-be25-359281a4756c",
+      "type": "divider"
+    },
+    {
+      "id": "79128f3b-64ed-4e50-96d3-5910b0b53354",
+      "type": "columns",
+      "children": [
+        {
+          "id": "851e36c2-00c0-4577-895d-2b3001d6988c",
+          "type": "column",
+          "children": [
+            {
+              "id": "aba32660-ad67-480c-bed7-6ecccede93e7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7020d173-de6e-4933-b15e-3585fc9446c4",
+          "type": "column",
+          "children": [
+            {
+              "id": "a0031024-9df9-4480-850c-3b7d604d95a0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3w8jcln\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbfc029c-2a07-4b35-a4c6-5b8224897fc2",
+      "type": "divider"
+    },
+    {
+      "id": "9b510d9d-d942-4199-888c-56515e21fce5",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "4d2007b1-a137-4681-a658-6f63fd6a6ac7",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-parable-of-the-children-s-game\">The parable of the children’s game</a> (<em>article</em>) "
+    }
+  ]
+}

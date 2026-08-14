@@ -1,0 +1,114 @@
+{
+  "id": "f5020171-90e9-498b-a606-af42b595b3a4",
+  "slug": "maria-montessori",
+  "title": "Maria Montessori",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "366cc82f-2e46-4a02-92ec-406eb3394f24",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/f502017190e9498ba606af42b595b3a4",
+  "createdTime": 1667396928159,
+  "lastEditedTime": 1681329261752,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Maria Montessori",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-55a5d1a9d80a.webp",
+  "blocks": [
+    {
+      "id": "c5f613cf-d281-43e4-93a1-adb403e3407c",
+      "type": "divider"
+    },
+    {
+      "id": "72652a3c-dacd-43be-b90c-bc7fd085ddda",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "061ebedf-3f8e-40ab-a1d2-3d4f876f5792",
+      "type": "columns",
+      "children": [
+        {
+          "id": "279cc1da-ba49-4583-9b06-05b78aabbc2a",
+          "type": "column",
+          "children": [
+            {
+              "id": "975f5b4f-29f9-492e-bab5-7d6171005320",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2a3eb09c-72ca-4293-9c1a-dd0855ee974e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "19af6723-7cc7-457b-a8ad-7a760ce80dbc",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b81894ea-481f-4c9b-936b-0b349dd9559d",
+          "type": "column",
+          "children": [
+            {
+              "id": "b3c48b63-4306-447d-84f2-666052c88622",
+              "type": "image",
+              "src": "./assets/images/untitled-55a5d1a9d80a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37e9c6d5-0d99-43bd-94d7-67a15fb3fb38",
+      "type": "divider"
+    },
+    {
+      "id": "1cc09dc0-ad9f-4a46-872f-1b6f2bfabe01",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "f49f2d02-a11d-4b6a-bf28-cb4bfaf3e28c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2770111a-1cea-4201-9a40-4c623ab081ca",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "111f3283-98ab-4344-9164-7d526982158a",
+      "type": "divider"
+    },
+    {
+      "id": "28c65cf1-49c2-444a-8789-892fcbd4261c",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

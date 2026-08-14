@@ -1,0 +1,129 @@
+{
+  "id": "a322f30e-8cef-4380-812d-f0634c5588bd",
+  "slug": "plato",
+  "title": "Plato",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "350879b3-a25b-4db5-8dae-34d54f50d8e6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/a322f30e8cef4380812df0634c5588bd",
+  "createdTime": 1651955416857,
+  "lastEditedTime": 1681329031197,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Plato"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-eaa501a0a693.webp",
+  "blocks": [
+    {
+      "id": "a9364024-0db9-46d4-a04e-8f9a562510f6",
+      "type": "divider"
+    },
+    {
+      "id": "2ab1a328-4679-4a4f-91fb-6812018af797",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0352c4c9-5fc8-4c66-9918-a225ace04244",
+      "type": "columns",
+      "children": [
+        {
+          "id": "99967ef2-575f-4b9f-8af9-45bfbcebbc7f",
+          "type": "column",
+          "children": [
+            {
+              "id": "bb997e25-a0a4-4f08-ba1d-52d673427272",
+              "type": "paragraph",
+              "html": "<strong>Author  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "f18ea8fd-8ce6-4e64-98d5-93f1d36af2fe",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4d6d1f78-5df0-40a7-a681-f855b2702de7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1279d6fc-ad2b-4d49-a194-ed6a2aa1e598",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ab86b348-30f4-4b31-94b5-ced62018bc80",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "320f292e-58f4-4fad-bbf3-fa389005bff1",
+          "type": "column",
+          "children": [
+            {
+              "id": "2f928399-fa80-4c18-aafe-d29f46db53aa",
+              "type": "image",
+              "src": "./assets/images/untitled-eaa501a0a693.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ce65f9c-9545-479b-97dc-e2953173377d",
+      "type": "divider"
+    },
+    {
+      "id": "d50a161b-7ab4-4298-91d5-3ef448fe2c0d",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "bf82691e-7acd-4276-9901-1f6a6af43f8a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9e4da954-9772-40b0-96ef-228156074b62",
+      "type": "divider"
+    },
+    {
+      "id": "656e7dca-4f2c-4b17-9ce6-914d4a1aac99",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "47057550-fcff-404e-b4e6-f1a4efdae443",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "42c18680-1b3b-4410-8236-f13ebac559df",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "e9ed64bd-01f0-41d4-8c31-f1fae185ef12",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

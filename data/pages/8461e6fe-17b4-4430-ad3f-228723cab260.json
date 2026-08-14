@@ -1,0 +1,131 @@
+{
+  "id": "8461e6fe-17b4-4430-ad3f-228723cab260",
+  "slug": "the-elusive-shift",
+  "title": "The Elusive Shift",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Elusive-Shift-8461e6fe17b44430ad3f228723cab260?pvs=21",
+  "createdTime": 1651688836583,
+  "lastEditedTime": 1681313849403,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Elusive Shift"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7c3461cb2910.webp",
+  "blocks": [
+    {
+      "id": "65dd1690-3944-473b-954d-2029fd680f76",
+      "type": "divider"
+    },
+    {
+      "id": "dd4ea88d-1f19-4e51-8494-0a7626e41674",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9ab2364e-918e-4c6c-ade3-14708a562944",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c2dafafe-4919-4918-bec3-cb978be7a591",
+          "type": "column",
+          "children": [
+            {
+              "id": "93dbd046-df99-4d6d-a00d-a85f980bc889",
+              "type": "paragraph",
+              "html": "<em><strong>The Elusive Shift: How Role-Playing Games Forged Their Identity</strong></em> was written by Jon Peterson, published by The MIT Press, December 22, 2020."
+            },
+            {
+              "id": "d5546d46-db7b-4bbb-8f3d-67cb49f5529c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6b3cff17-6496-4543-b710-f8bcd665662e",
+              "type": "quote",
+              "html": "<strong><em>How the early </em></strong><strong>Dungeons &amp; Dragons</strong><strong><em> community grappled with the nature of role-playing games, theorizing a new game genre.<br></em></strong><em><br>When </em>Dungeons &amp; Dragons<em> made its debut in the mid-1970s, followed shortly thereafter by other, similar tabletop games, it sparked a renaissance in game design and critical thinking about games. </em>D&amp;D<em> is now popularly considered to be the first role-playing game. But in the original rules, the term “role-playing” is nowhere to be found; </em>D&amp;D <em>was marketed as a wargame. In </em>The Elusive Shift<em>, Jon Peterson describes how players and scholars in the </em>D&amp;D<em> community began to apply the term to </em>D&amp;D <em>and similar games—and by doing so, established a new genre of games.<br><br>Peterson examines key essays by </em>D&amp;D <em>early adopters, rescuing from obscurity many first published in now-defunct fanzines. He traces the evolution of </em>D&amp;D<em> theorizing, as writers attempted to frame problems, define terms, and engage with prior literature. He describes the two cultures of wargames and science fiction fandom that provided </em>D&amp;D'<em>s first players; examines the dialogue at the core of the game; explains how game design began to accommodate role-playing; and considers the purpose of the referee or gamesmaster. By 1977, game scholars and critics began to theorize more systematically, and Peterson explores their discussions of the transformative nature of role-playing games, their responsibility to a mass audience, and other topics. Peterson finds that the foundational concepts defined in the 1970s helped theorize role-playing, laying the foundation for the genre's shift into maturity in the 1980s.</em>"
+            },
+            {
+              "id": "c8536b4a-3d39-422a-92e6-dff6c32cfce0",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5e8bd08f-9b61-4f25-ae21-28549b499064",
+          "type": "column",
+          "children": [
+            {
+              "id": "7d3de633-6c5b-4c1a-a50c-19d50b222335",
+              "type": "image",
+              "src": "./assets/images/untitled-7c3461cb2910.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b93261c6-26da-4c15-8b89-2c4e06fdb61d",
+      "type": "divider"
+    },
+    {
+      "id": "58f39e18-018a-47ca-aead-62c4e0eb6e27",
+      "type": "columns",
+      "children": [
+        {
+          "id": "60dacc75-4184-4d3c-bfc0-1ff4532361f3",
+          "type": "column",
+          "children": [
+            {
+              "id": "26c3c270-8262-4829-8fa8-930285faaee2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c587d051-94b9-421c-9134-012c73d82385",
+          "type": "column",
+          "children": [
+            {
+              "id": "314270e7-cd9d-49ef-a93e-0a2256d7fc59",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3URRRys\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99988f0c-69a2-46c7-ae5d-1513c2383219",
+      "type": "divider"
+    },
+    {
+      "id": "a6df1ea5-95e2-4e49-ab6d-31d485712581",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

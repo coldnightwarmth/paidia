@@ -1,0 +1,126 @@
+{
+  "id": "b3334ced-9c23-424e-b255-51748edb46ff",
+  "slug": "the-success-equation",
+  "title": "The Success Equation",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Success-Equation-b3334ced9c23424eb25551748edb46ff?pvs=21",
+  "createdTime": 1664079370062,
+  "lastEditedTime": 1681313010792,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Success Equation",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ad2735eb1904.webp",
+  "blocks": [
+    {
+      "id": "e3c3e1a2-1a8e-4a6a-8737-2a1d33b2df79",
+      "type": "divider"
+    },
+    {
+      "id": "dd916835-2d05-4550-bf76-bedf74dca795",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a8f70e02-0e06-4b10-baf9-a762261a4a7a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "44477ccf-2f92-4df2-8d28-12da76913938",
+          "type": "column",
+          "children": [
+            {
+              "id": "ffac7d90-2c1e-4a01-915a-d4564aac15fa",
+              "type": "paragraph",
+              "html": "<em><strong>The Success Equation: Untangling Skill &amp; Luck in Business, Sports, and Investing</strong></em> was written by Michael J. Mauboussin, published by Harvard Business Review Press, October 16, 2012."
+            },
+            {
+              "id": "6d360ebb-adfc-41f1-b075-fc29e619d1e1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4b6c874b-a95d-460f-8bcf-9a033d1c6a5b",
+              "type": "quote",
+              "html": "<em>The trick, of course, is figuring out just how many of our successes (and failures) can be attributed to each—and how we can learn to tell the difference ahead of time.<br><br>In most domains of life, skill and luck seem hopelessly entangled. Different levels of skill and varying degrees of good and bad luck are the realities that shape our lives—yet few of us are adept at accurately distinguishing between the two. Imagine what we could accomplish if we were able to tease out these two threads, examine them, and use the resulting knowledge to make better decisions.<br><br>In this provocative book, Michael Mauboussin helps to untangle these intricate strands to offer the structure needed to analyze the relative importance of skill and luck. He offers concrete suggestions for making these insights work to your advantage. Once we understand the extent to which skill and luck contribute to our achievements, we can learn to deal with them in making decisions.</em>"
+            }
+          ]
+        },
+        {
+          "id": "f8688a6b-189d-4cd6-9e04-2e0e094a6dcc",
+          "type": "column",
+          "children": [
+            {
+              "id": "83c5e82d-c8c4-418e-a831-a643606e2afc",
+              "type": "image",
+              "src": "./assets/images/untitled-ad2735eb1904.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ac6af92d-1350-4b2c-bd89-2c0462846e03",
+      "type": "divider"
+    },
+    {
+      "id": "85624b28-fc27-4ca4-9f3a-89866505a343",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f0438fd1-b400-42e6-9837-bf922aa91312",
+          "type": "column",
+          "children": [
+            {
+              "id": "fcece03e-1e49-4643-b182-df1b9c05105b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "735d85e1-8945-4f57-94f0-a9237ec27d5a",
+          "type": "column",
+          "children": [
+            {
+              "id": "b1c45314-1cea-4242-84d0-cde80b4eef76",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Rk0ZJe\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c3c9adb-7423-4e7e-aa5f-9f8ba5f8eb70",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "959b61a2-8470-4ca8-9c13-c8901b5f5d15",
+  "slug": "disrupting-the-game",
+  "title": "Disrupting the Game",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Disrupting-the-Game-959b61a284704ca89c13c8901b5f5d15?pvs=21",
+  "createdTime": 1651696471297,
+  "lastEditedTime": 1681313570842,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Disrupting the Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81yi01ahqil-24219ef4c39b.webp",
+  "blocks": [
+    {
+      "id": "c3168e36-20c0-4dc5-b95b-77bc96260482",
+      "type": "divider"
+    },
+    {
+      "id": "a9d26881-6db4-44f6-b9c7-029b3d18a4e4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e565472b-105c-4cd6-82a1-4950533fd734",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fb9e71fe-3cc1-4973-b7a8-140f83c4df82",
+          "type": "column",
+          "children": [
+            {
+              "id": "0106c708-9b9b-4c50-ac9f-9d3881a25873",
+              "type": "paragraph",
+              "html": "<em><strong>Disrupting the Game: From the Bronx to the Top of Nintendo</strong></em> was written by Reggie Fils-Aimé, published by HarperCollins Leadership, May 3, 2022."
+            },
+            {
+              "id": "6d444d9d-07de-4238-8268-3fd85a063b3f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6b113393-0276-4733-a1de-34a6506f8c43",
+              "type": "quote",
+              "html": "<em>Although he’s best known as Nintendo's iconic President of the Americas-immortalized for opening Nintendo’s 2004 E3 presentation with, “My name is Reggie, I'm about kicking ass, I'm about taking names, and we're about making games”-Reggie Fils-Aimé’s story is the ultimate gameplan for anyone looking to beat the odds and achieve success.<br><br>Learn from Reggie how to leverage disruptive thinking to pinpoint the life choices that will make you truly happy, conquer negative perceptions from those who underestimate or outright dismiss you, and master the grit, perseverance, and resilience it takes to dominate in the business world and to reach your professional dreams.</em>"
+            },
+            {
+              "id": "90195452-65a2-44f2-b4fa-325dc7f9e77e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fa2ddfe0-01da-4fc1-be57-3541cf2338fb",
+          "type": "column",
+          "children": [
+            {
+              "id": "8486012e-909f-4c0a-ba48-d4a1012088ca",
+              "type": "image",
+              "src": "./assets/images/81yi01ahqil-24219ef4c39b.webp",
+              "caption": "",
+              "alt": "81Yi01AHqiL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d009fe64-c261-47e5-8968-857404fd891f",
+      "type": "divider"
+    },
+    {
+      "id": "37f8ee81-5b0e-4676-b352-5ec6655625a9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "57de46c7-9376-4265-99da-e3f1f758a4e2",
+          "type": "column",
+          "children": [
+            {
+              "id": "6151f506-d38d-4f66-ac83-aa63f454cdaf",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b895fba2-d073-4575-bb5f-acae4f803900",
+          "type": "column",
+          "children": [
+            {
+              "id": "6e5604c5-4687-47fd-b232-804bc4c928a9",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3V2oGsy\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12977c4f-16f6-429c-bc60-8a09837ec04f",
+      "type": "divider"
+    }
+  ]
+}

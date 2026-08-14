@@ -1,0 +1,131 @@
+{
+  "id": "32a427fd-935c-486b-9ed5-b883f67fdd63",
+  "slug": "synthetic-worlds",
+  "title": "Synthetic Worlds",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/32a427fd935c486b9ed5b883f67fdd63",
+  "createdTime": 1653172846435,
+  "lastEditedTime": 1681313924651,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Synthetic Worlds",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6934262d14d3.webp",
+  "blocks": [
+    {
+      "id": "9c4c86ac-1af1-47b7-976d-3369bb057ead",
+      "type": "divider"
+    },
+    {
+      "id": "d69c5740-5432-4366-a6fd-dcd8a454f3cd",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f87cef5e-420a-458a-abfe-32d2716488fd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f30d78f4-bed4-4fc5-b9dc-83d87fd710bd",
+          "type": "column",
+          "children": [
+            {
+              "id": "6668ffe1-9926-499c-9bf5-3d22dbff7074",
+              "type": "paragraph",
+              "html": "<em><strong>Synthetic Worlds: The Business and Culture of Online Games</strong></em> was written by Edward Castronova, published by University of Chicago Press, November 13, 2005."
+            },
+            {
+              "id": "16aed9b3-8fc6-4ab3-928e-712e31d27c77",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e926f98d-ccd0-4577-b3fc-d6e7637a2506",
+              "type": "quote",
+              "html": "<em>From </em>EverQuest<em> to </em>World of Warcraft<em>, online games have evolved from the exclusive domain of computer geeks into an extraordinarily lucrative staple of the entertainment industry. People of all ages and from all walks of life now spend thousands of hours—and dollars—partaking in this popular new brand of escapism. But the line between fantasy and reality is starting to blur. Players have created virtual societies with governments and economies of their own whose currencies now trade against the dollar on eBay at rates higher than the yen. And the players who inhabit these synthetic worlds are starting to spend more time online than at their day jobs.<br><br>In </em>Synthetic Worlds<em>, Edward Castronova offers the first comprehensive look at the online game industry, exploring its implications for business and culture alike. He starts with the players, giving us a revealing look into the everyday lives of the gamers—outlining what they do in their synthetic worlds and why. He then describes the economies inside these worlds to show how they might dramatically affect real world financial systems, from potential disruptions of markets to new business horizons. Ultimately, he explores the long-term social consequences of online games: If players can inhabit worlds that are more alluring and gratifying than reality, then how can the real world ever compete? Will a day ever come when we spend more time in these synthetic worlds than in our own? Or even more startling, will a day ever come when such questions no longer sound alarmist but instead seem obsolete?<br><br>With more than ten million active players worldwide—and with Microsoft and Sony pouring hundreds of millions of dollars into video game development—online games have become too big to ignore. </em>Synthetic Worlds<em> spearheads our efforts to come to terms with this virtual reality and its concrete effects.</em>"
+            },
+            {
+              "id": "09086c0c-9100-4b48-845c-2be8497add19",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "1bc7cb97-6228-43d6-bad8-64e3f25175fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "783979f9-72a7-4e47-b0b8-44b99bd5f9ec",
+              "type": "image",
+              "src": "./assets/images/untitled-6934262d14d3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7efd0df-512d-475e-af56-13190bd81b16",
+      "type": "divider"
+    },
+    {
+      "id": "51153f5a-4358-4541-a2c4-75e12a212e07",
+      "type": "columns",
+      "children": [
+        {
+          "id": "59389bc0-e19c-4ba1-aee5-727955001e38",
+          "type": "column",
+          "children": [
+            {
+              "id": "a603d048-8bf6-4688-bb92-0a3326697de5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "329863df-957c-4a26-9221-f199972a4edc",
+          "type": "column",
+          "children": [
+            {
+              "id": "5de5fe6b-caab-4b33-a34d-be611e0f8dac",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3T0UaNs\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c3222b0-3fbc-4b60-9f50-a40238bb6b25",
+      "type": "divider"
+    }
+  ]
+}

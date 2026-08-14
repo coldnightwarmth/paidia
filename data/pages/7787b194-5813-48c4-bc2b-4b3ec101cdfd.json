@@ -1,0 +1,317 @@
+{
+  "id": "7787b194-5813-48c4-bc2b-4b3ec101cdfd",
+  "slug": "ui-tests",
+  "title": "UI Tests",
+  "icon": "💪🏽",
+  "cover": "",
+  "type": "page",
+  "parentId": "7b5f9f3f-f702-41d5-8d48-54aa0a367ce9",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/7787b194581348c4bc2b4b3ec101cdfd",
+  "createdTime": 1711198564308,
+  "lastEditedTime": 1711198564308,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "UI Tests"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "c3496db3-5404-45dc-885f-cf2bc27f79e5",
+      "type": "subheader",
+      "html": "🏋️About UI Tests.",
+      "anchorId": "about-ui-tests"
+    },
+    {
+      "id": "e6749576-aa3a-4421-ac63-26ef3f754e6d",
+      "type": "divider"
+    },
+    {
+      "id": "88517507-c286-48c3-b339-b27d0857060c",
+      "type": "quote",
+      "html": "Some companies may invite you to complete a test as part of your application process. Although there will be differences from studio to studio, you can generally expect certain similarities across organisations."
+    },
+    {
+      "id": "82e14383-5cd4-478e-91b0-37ef77ecfc2f",
+      "type": "subsubheader",
+      "html": "What are UI Tests used for?",
+      "anchorId": "what-are-ui-tests-used-for"
+    },
+    {
+      "id": "b870142f-7fd7-4d71-b613-7b8a9727be4b",
+      "type": "paragraph",
+      "html": "They are typically used to gauge several aspects of an applicant:"
+    },
+    {
+      "id": "782abe0a-481e-4781-9a44-6650f87dc51c",
+      "type": "bulleted_list",
+      "html": "To validate the authenticity of the skills showcased in a portfolio, and/or to validate authenticity of CV experience."
+    },
+    {
+      "id": "728f382e-e672-4630-a050-7c8a47b15dfa",
+      "type": "bulleted_list",
+      "html": "To evaluate capabilites related to the particular company, role, or project requirements."
+    },
+    {
+      "id": "dd0609ba-6f1d-4ffc-9402-6b6a52a35de1",
+      "type": "bulleted_list",
+      "html": "To evaluate new problem-solving skills."
+    },
+    {
+      "id": "7c1d7f2c-eb64-4d0d-85a0-47de545b5e83",
+      "type": "bulleted_list",
+      "html": "To be used as a direct baseline comparison to other candidates who have been asked to complete the same test."
+    },
+    {
+      "id": "5478852a-780d-4fe6-8cc8-37b9c64bf256",
+      "type": "paragraph",
+      "html": "Furthermore, on your side of things, a stellar UI Test result can prove to be an incredibly powerful piece of collateral in the later stages of ‣, especially as a tool to significantly raise your profile prior to ‣ negotations."
+    },
+    {
+      "id": "c69a982c-ca59-4879-92a5-f85f1fcb4e5b",
+      "type": "subsubheader",
+      "html": "What does a UI Test typically look like?",
+      "anchorId": "what-does-a-ui-test-typically-look-like"
+    },
+    {
+      "id": "ea687452-1cb5-402b-9695-5d561946809b",
+      "type": "paragraph",
+      "html": "UI Tests usually come in two forms:"
+    },
+    {
+      "id": "b8bfafa2-aa3c-4243-a56a-da7d6278103b",
+      "type": "bulleted_list",
+      "html": "The 'On-Site' Test."
+    },
+    {
+      "id": "4319c391-d03c-45e9-96d8-2e3103635983",
+      "type": "bulleted_list",
+      "html": "The 'Take-Home' Test."
+    },
+    {
+      "id": "bd2e8420-0bd3-4abc-a62a-955ad423063d",
+      "type": "subsubheader",
+      "html": "What will an 'On-Site' Test involve?",
+      "anchorId": "what-will-an-on-site-test-involve"
+    },
+    {
+      "id": "5f0e10eb-d0c5-446f-ab6b-87999a383eeb",
+      "type": "paragraph",
+      "html": "These are also commonly called 'Whiteboard Exercises', and will typically involve you ideating and solving a selection of given problems, on the spot. "
+    },
+    {
+      "id": "8a5e0eec-1dac-4ea6-863b-0aee52b870a4",
+      "type": "paragraph",
+      "html": "You will likely be run through various exercises in which you will be asked to demonstrate your thinking process by drawing and/or writing on a whiteboard in front of the interviewer(s). You can expect there to be some back-and-forth during this, as the interviewer(s) may challenge you, or add additional twists as you work."
+    },
+    {
+      "id": "511ca931-5816-483c-9d75-be70297a29d0",
+      "type": "subsubheader",
+      "html": "What will a 'Take-Home' Test involve?",
+      "anchorId": "what-will-a-take-home-test-involve"
+    },
+    {
+      "id": "b74e885b-db58-4643-b3e3-0aac920f9e44",
+      "type": "paragraph",
+      "html": "You will typically receive a package including:"
+    },
+    {
+      "id": "372e5a72-9e0f-4b29-886a-8186b7407f68",
+      "type": "bulleted_list",
+      "html": "A brief with instructions, and context on the task(s) to perform."
+    },
+    {
+      "id": "c703cef1-f295-46fe-8b40-a09dda51c5d1",
+      "type": "bulleted_list",
+      "html": "An explanation of what exactly the test will be evaluated on (UX, Art Style, Creativity, etc...)."
+    },
+    {
+      "id": "9dd3d212-65d9-4152-a1b1-3204430b9bef",
+      "type": "bulleted_list",
+      "html": "A list of specific deliverables you will expected to send back upon completion."
+    },
+    {
+      "id": "f32dc49c-c0a4-4c84-bcaa-a621563ad2b0",
+      "type": "bulleted_list",
+      "html": "In some cases, a collection of assets to use (eg: icons or key art)."
+    },
+    {
+      "id": "c94e8a1c-95b3-44fd-a818-fbcfd34923e7",
+      "type": "bulleted_list",
+      "html": "In some cases, a collection of assets to reference as a starting point (eg: Wireframes, Styleframes, etc...)."
+    },
+    {
+      "id": "d746f893-fa17-4f1f-b2ec-e7d95c06d95a",
+      "type": "paragraph",
+      "html": "In most cases, a UI Test will ask you to make a single feature (such as a specific screen), according to a set of requirements and constraints outlined in the brief."
+    },
+    {
+      "id": "028d45bd-70e4-4a92-80b3-3cbab5b32b02",
+      "type": "paragraph",
+      "html": "For UI Programmers in particular, you may be asked to create a bite-sized game project (such as a command line text-based adventure game in C++)."
+    },
+    {
+      "id": "84326ab1-4e74-42d5-ae5e-4e25688de39a",
+      "type": "subsubheader",
+      "html": "How long should a 'Take-Home' UI Test take to complete?",
+      "anchorId": "how-long-should-a-take-home-ui-test-take-to-complete"
+    },
+    {
+      "id": "369b9ecd-9d62-4a67-923f-75e9a3b15495",
+      "type": "paragraph",
+      "html": "You will typically be given a timeline upon being invited to take on a test."
+    },
+    {
+      "id": "83352b71-dd2b-4f03-9e9d-09b695ad46af",
+      "type": "paragraph",
+      "html": "It is important to clarify the following concepts when discussing how much time should be spent:"
+    },
+    {
+      "id": "6ece90f0-40c7-4376-8625-1207b424bb76",
+      "type": "bulleted_list",
+      "html": "When do I <em>need</em> to have this in by? (<em>Hard Deadline</em>)"
+    },
+    {
+      "id": "41a43b89-743f-43b5-84cd-708ff5893705",
+      "type": "bulleted_list",
+      "html": "How long am I <em>allowed</em> to spend on this? (<em>Equal Playing Field Rules</em>)"
+    },
+    {
+      "id": "a7c36748-a017-4279-a4a7-71af834414ec",
+      "type": "bulleted_list",
+      "html": "How long <em>should</em> I be spending on this? (<em>Setting Quality Expectations</em>)"
+    },
+    {
+      "id": "4300f35f-842c-4dab-816d-fcaa3e1ed2e8",
+      "type": "paragraph",
+      "html": "As a rule of thumb, a test should be able to be completed over a weekend, generally requiring anything between 2 and 20 hours of work. Anything above that, and you should proceed with some caution."
+    },
+    {
+      "id": "e43e6c23-09ea-4572-9921-596ae7ff1d27",
+      "type": "paragraph",
+      "html": "It is entirely possible, upon delivery of a test, to receive back a round of unsolicited feedback and to be invited to perform a second-pass of potentially equal length to the first pass. This 'double-or-nothing' approach can be both positive and negative as you may succeed with your second pass, but if you still do not meet expectations, it will equate to further time invested for naught."
+    },
+    {
+      "id": "36c47058-9215-4b7f-b805-218f003d5a20",
+      "type": "subsubheader",
+      "html": "Are 'Take-Home' UI Tests compensated?",
+      "anchorId": "are-take-home-ui-tests-compensated"
+    },
+    {
+      "id": "599f7b8a-e497-4f6d-8594-23e22ee70980",
+      "type": "paragraph",
+      "html": "Unfortunately, it is still not a widespread standard to be compensated for your time completing a test."
+    },
+    {
+      "id": "adcbbe92-9322-4756-b997-0e122107345f",
+      "type": "paragraph",
+      "html": "However, some companies <u>will</u> offer to pay you for your time, and this can generally be regarded as a very positve indicator of good company culture. "
+    },
+    {
+      "id": "009bed5a-e9be-40f4-b16a-c704e0dbac58",
+      "type": "paragraph",
+      "html": "You should not under any circumstance decline this payment if offered."
+    },
+    {
+      "id": "eaaea77f-3da2-431e-bb74-3a46d412fb60",
+      "type": "subsubheader",
+      "html": "Can I refuse to complete a 'Take Home' UI Test?",
+      "anchorId": "can-i-refuse-to-complete-a-take-home-ui-test"
+    },
+    {
+      "id": "e5d6171e-2e4b-4411-a5ff-ee765db8b704",
+      "type": "paragraph",
+      "html": "Absolutely. However, it is important to be aware that this is a roll of the dice in a lot of cases, and depending on your stature and negotiating power, some studios may not be willing to proceed further following a refusal."
+    },
+    {
+      "id": "0c112727-8240-44e8-adce-9cd1b0c653ea",
+      "type": "subsubheader",
+      "html": "Will I get feedback if my test didn't meet expectations?",
+      "anchorId": "will-i-get-feedback-if-my-test-didn-t-meet-expectations"
+    },
+    {
+      "id": "808cdca8-09e1-486f-9938-53437d77602c",
+      "type": "paragraph",
+      "html": "Generally, you will not receive detailed feedback if the studio decides not to proceed further."
+    },
+    {
+      "id": "ac61163a-1871-4085-b815-d31d1dbc36a3",
+      "type": "paragraph",
+      "html": "With that said, it is entirely within your right to ask for specific feedback on how you can improve. However, a response is not guaranteed in most cases."
+    },
+    {
+      "id": "cee65e1d-d8b1-48a6-9011-f82c85030b49",
+      "type": "paragraph",
+      "html": "If you receive detailed feedback on your result (whether solicited or unsolicited), this can generally be considered a very positive indicator of good company culture, and it might be worth trying again in the future."
+    },
+    {
+      "id": "60ba5a58-b097-4580-99ba-11f563150fa2",
+      "type": "subsubheader",
+      "html": "Can I publish my test result to my Portfolio?",
+      "anchorId": "can-i-publish-my-test-result-to-my-portfolio"
+    },
+    {
+      "id": "7b0c9923-5118-4f22-b79f-612c685d564c",
+      "type": "paragraph",
+      "html": "Regardless of whether you 'got the job' or not, if you performed the test without compensation, and if the test does not contain any content under NDA, it is generally considered safe to do so. (It's the least the company can do in return for you working for them for free!)"
+    },
+    {
+      "id": "ed5c1d95-e750-4754-ad45-16c6a98af872",
+      "type": "paragraph",
+      "html": "If you were compensated for your work, and the test did not contain any confidential material, you should ask for permission to publish your test result to your Portfolio."
+    },
+    {
+      "id": "29277b9b-18db-48ba-98cc-c5e8a21f61ea",
+      "type": "paragraph",
+      "html": "If the test contained content under NDA, you will absolutely need to get prior approval before publishing your test result to your portfolio."
+    },
+    {
+      "id": "9a511af3-03d8-4566-ba2b-348a322fce56",
+      "type": "subsubheader",
+      "html": "What are some red flags to watch out for?",
+      "anchorId": "what-are-some-red-flags-to-watch-out-for"
+    },
+    {
+      "id": "d2499013-63d8-45c0-acd9-318f1060f7cf",
+      "type": "paragraph",
+      "html": "The following are generally frowned-upon, and could be an indicator of poor company ethics, and/or could be an indicator that the 'test' could in fact be '<a href=\"https://www.nospec.com/\" target=\"_blank\" rel=\"noreferrer\">Spec Work</a>' in disguise. "
+    },
+    {
+      "id": "07cd6089-6524-4618-98a5-113595a22c1d",
+      "type": "paragraph",
+      "html": "The more of the following signs you see, the more it might be worth reconsidering pursual of the position:"
+    },
+    {
+      "id": "1e94f237-cdd3-441c-bb8a-882ad1f45c1c",
+      "type": "bulleted_list",
+      "html": "Any test that requires over 40 hours of work."
+    },
+    {
+      "id": "9c599189-873d-4b82-9864-619bae527725",
+      "type": "bulleted_list",
+      "html": "Any tests that contain more than 2 rounds of feedback."
+    },
+    {
+      "id": "c57cda56-3d02-4869-97d2-fc77097f4f85",
+      "type": "bulleted_list",
+      "html": "Any tests that require you to create content for a product the studio is currently working on."
+    },
+    {
+      "id": "98fc462c-13d7-4c38-94dc-ff020080a276",
+      "type": "bulleted_list",
+      "html": "Any tests that require you to create content for confidential IP."
+    },
+    {
+      "id": "42d80fe8-b436-4d0b-8853-97460005b056",
+      "type": "bulleted_list",
+      "html": "Any company which does not permit you to publish the results of your unpaid test."
+    }
+  ]
+}

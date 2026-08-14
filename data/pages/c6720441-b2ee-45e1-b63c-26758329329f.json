@@ -1,0 +1,131 @@
+{
+  "id": "c6720441-b2ee-45e1-b63c-26758329329f",
+  "slug": "the-children-s-culture-reader",
+  "title": "The Children's Culture Reader",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Children-s-Culture-Reader-c6720441b2ee45e1b63c26758329329f?pvs=21",
+  "createdTime": 1668711862212,
+  "lastEditedTime": 1681312478025,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Children's Culture Reader",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-566f93f3ce86.webp",
+  "blocks": [
+    {
+      "id": "6a644c36-be18-4634-974b-82338e3749b5",
+      "type": "divider"
+    },
+    {
+      "id": "21083593-1d04-434e-a2d2-134e2b17aa41",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "dbcf17cc-8402-4882-a9bc-9aa0866b2475",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9c548b3f-4aff-4a7c-8be3-a7f613056a32",
+          "type": "column",
+          "children": [
+            {
+              "id": "adbd0db6-4ce4-488a-82b2-cc9c471f8d61",
+              "type": "paragraph",
+              "html": "<em><strong>The Children's Culture Reader</strong></em> is a collection of essays edited by Henry Jenkins, published by NYU Press, October 1, 1998."
+            },
+            {
+              "id": "72d61d9e-4212-461c-8dd0-63aa09ad6547",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ffa41dea-6404-46f1-8656-c6ec3502d414",
+              "type": "quote",
+              "html": "<em><strong>Examines children as creative and critical thinkers who shape society even as it shapes them<br><br></strong></em><em>Every major political and social dispute of the twentieth century has been fought on the backs of our children, from the economic reforms of the progressive era through the social readjustments of civil rights era and on to the current explosion of anxieties about everything from the national debt to the digital revolution. Far from noncombatants whom we seek to protect from the contamination posed by adult knowledge, children form the very basis on which we fight over the nature and values of our society, and over our hopes and fears for the future.<br><br>Unfortunately, our understanding of childhood and children has not kept pace with their crucial and rapidly changing roles in our culture. Pulling together a range of different thinkers who have rethought the myths of childhood innocence, </em>The Children's Culture Reader<em> develops a profile of children as creative and critical thinkers who shape society even as it shapes them. Representing a range of thinking from history, psychology, anthropology, sociology, economics, women's studies, literature, and media studies, </em>The Children's Culture Reader<em> focuses on issues of parent-child relations, child labor, education, play, and especially the relationship of children to mass media and consumer culture. The contributors include Martha Wolfenstein, Philippe Aries, Jacqueline Rose, James Kincaid, Lynn Spigel, Valerie Walkerdine, Ellen Seiter, Annette Kuhn, Eve Sedgwick, Henry Giroux, and Nancy Scheper-Hughes.<br><br>Including a groundbreaking introduction by the editor and a sourcebook section which excerpts a range of material from popular magazines to child rearing guides from the past 75 years, </em>The Children's Culture Reader<em> will propel our understanding of children and childhood into the next century.</em>"
+            },
+            {
+              "id": "0ec0d247-f7f5-4419-8940-83568a11d838",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d7ef84ae-4eea-49f9-b227-988d3a408475",
+          "type": "column",
+          "children": [
+            {
+              "id": "08afe77d-4161-4164-9b19-30e8fd65652f",
+              "type": "image",
+              "src": "./assets/images/untitled-566f93f3ce86.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bb989613-828d-4f3d-90ad-27e10a2ab412",
+      "type": "divider"
+    },
+    {
+      "id": "16b66a00-e6e7-4664-8444-0d4ab80c7578",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8f328cad-83df-4148-82d9-8ed2fbcfa048",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf235a92-0ba2-4d8a-9f89-3d7403a4df0d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4bf1294a-4000-4cdd-9f86-50f133d64f3a",
+          "type": "column",
+          "children": [
+            {
+              "id": "ef9e3bd4-b68b-4060-adae-d86d7d2f958b",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Childrens-Culture-Reader-Henry-Jenkins/dp/0814742327/\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32439ecd-aeba-43e5-b21c-190f619537d7",
+      "type": "divider"
+    }
+  ]
+}

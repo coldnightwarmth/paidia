@@ -1,0 +1,116 @@
+{
+  "id": "34482841-daf5-4ad2-8a86-7e3e42f7166f",
+  "slug": "introduction-to-battle-gaming",
+  "title": "Introduction to Battle Gaming",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Introduction-to-Battle-Gaming-34482841daf54ad28a867e3e42f7166f?pvs=21",
+  "createdTime": 1664463673708,
+  "lastEditedTime": 1681312951613,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Introduction to Battle Gaming",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/51srrq6qltl-sx372-bo1204203200-3fccaf4b2682.webp",
+  "blocks": [
+    {
+      "id": "ab568525-a37d-4f96-85d2-b73f8a22820a",
+      "type": "divider"
+    },
+    {
+      "id": "090b4a14-fe0d-4ca4-9846-1fd46b780d60",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "afb09bfc-0077-466a-97b4-a3fd2b1e2da9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0d30355c-56e7-439e-8178-924eca912734",
+          "type": "column",
+          "children": [
+            {
+              "id": "01775ee8-5e62-4f3c-87f3-d725dab16d7b",
+              "type": "paragraph",
+              "html": "<em><strong>Introduction to Battle Gaming</strong></em> was written by Terence Wise, published by Model &amp; Allied Publications, January 1, 1969."
+            }
+          ]
+        },
+        {
+          "id": "b59ae229-31b0-4d8d-975c-42845dd6e69b",
+          "type": "column",
+          "children": [
+            {
+              "id": "2b1a21e3-688a-4df7-b8a0-a0ffb7e05f2b",
+              "type": "image",
+              "src": "./assets/images/51srrq6qltl-sx372-bo1204203200-3fccaf4b2682.webp",
+              "caption": "",
+              "alt": "51sRRq6QltL._SX372_BO1,204,203,200_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a62fe32-df34-43cb-b0b3-de16c0dc3fac",
+      "type": "divider"
+    },
+    {
+      "id": "313b2d46-5df3-42b3-92d6-4994eeaf81e5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "505e99ce-b8f0-49dc-a192-937b8c73dc57",
+          "type": "column",
+          "children": [
+            {
+              "id": "f0dbc563-ddcf-4af4-9889-5331ae5240ee",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "88faf41d-ca0a-44ef-ab2a-9170694f1a81",
+          "type": "column",
+          "children": [
+            {
+              "id": "ed478f02-f3de-4b99-9dcf-fc56797c88c0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fuCYSa\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cbc5e06-8c9a-4190-a854-7cf60772ff2f",
+      "type": "divider"
+    }
+  ]
+}

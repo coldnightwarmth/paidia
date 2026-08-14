@@ -1,0 +1,131 @@
+{
+  "id": "6dd074f9-0acd-4b16-b5d8-3353c37d9aa2",
+  "slug": "olympic-dreams",
+  "title": "Olympic Dreams",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2f2b48d3-00ef-46fe-b6f4-4b813ad7bd6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Olympic-Dreams-6dd074f90acd4b16b5d83353c37d9aa2?pvs=21",
+  "createdTime": 1673370700305,
+  "lastEditedTime": 1681312100710,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Olympic Dreams",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fdf02453e0d3.webp",
+  "blocks": [
+    {
+      "id": "8c50cd0a-7caf-4aa1-85ed-d4a0863f4135",
+      "type": "divider"
+    },
+    {
+      "id": "40e612f2-93e7-48fc-a051-d6802ae85fcf",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b01d9723-2016-4252-bf46-095f20504eea",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a4319dcb-6b29-47a8-8027-375bdb7aec12",
+          "type": "column",
+          "children": [
+            {
+              "id": "40f3b7d9-60f9-459d-a63b-64c5188b42e5",
+              "type": "paragraph",
+              "html": "<em><strong>Olympic Dreams: China &amp; Sports, 1895–2008</strong></em> was written by Guoqi Xu, published by Harvard University Press, May 31, 2008."
+            },
+            {
+              "id": "b61c16cf-ef10-43c8-934b-87d94ec4f62c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2b3f9abd-aa00-4fb0-ac85-b91481d8aba4",
+              "type": "quote",
+              "html": "<em>Already the world has seen the political, economic, and cultural significance of hosting the 2008 Olympics in Beijing―in policies instituted and altered, positions softened, projects undertaken. But will the Olympics make a lasting difference? This book approaches questions about the nature and future of China through the lens of sports―particularly as sports finds its utmost international expression in the Olympics.<br><br>Drawing on newly available archival sources to analyze a hundred-year perspective on sports in China, </em>Olympic Dreams<em> explores why the country became obsessed with Western sports at the turn of the twentieth century, and how it relates to China’s search for a national and international identity. Through case studies of ping-pong diplomacy and the Chinese handling of various sporting events, the book offers unexpected details and unusual insight into the patterns and processes of China’s foreign policymaking―insights that will help readers understand China’s interactions with the rest of the world.<br><br>Among the questions Xu Guoqi brings to the fore are: Why did Mao Zedong choose competitive ping-pong to manipulate world politics? How did the two-China issue nearly kill the 1976 Montreal Olympic Games? And why do the 2008 Olympics present Beijing with unprecedented dangers and opportunities? In exploring these questions, Xu brilliantly articulates a fresh and surprising perspective on China as an international sport superpower as well as a new “sick man of East Asia.” In </em>Olympic Dreams<em>, he presents an eloquent argument that in the deeply unsettled China of today, sport, as a focus of popular interest, has the capacity to bring about major social changes.</em>"
+            },
+            {
+              "id": "b545cbb1-89a7-4c0f-8c15-f18ec59171c4",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f0f6cebe-5953-4632-a1e1-efd9130b9523",
+          "type": "column",
+          "children": [
+            {
+              "id": "245c2e7e-5a5e-4087-b417-831de61fd415",
+              "type": "image",
+              "src": "./assets/images/untitled-fdf02453e0d3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ee0a7b6d-d73e-49fe-a69f-c3037c5a6f54",
+      "type": "divider"
+    },
+    {
+      "id": "821cc4b1-8410-4a01-9b88-6e61442c7d95",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1334dead-3a55-4dfc-a90c-7b9c8b4868b6",
+          "type": "column",
+          "children": [
+            {
+              "id": "8af181c1-fd30-4a17-aecb-7801ff68c8aa",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "13a60cb8-cba4-49fd-8189-2cd82c8c46a8",
+          "type": "column",
+          "children": [
+            {
+              "id": "40d665c4-7a86-4814-8334-869a4b0d9b07",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Olympic-Dreams-China-Sports-1895-2008/dp/0674028406\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f359f8d1-a323-49fe-88c4-5794b2c9d728",
+      "type": "divider"
+    }
+  ]
+}

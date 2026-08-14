@@ -1,0 +1,131 @@
+{
+  "id": "681ba07a-e586-4746-9e8e-f975a885b521",
+  "slug": "the-world-of-scary-video-games",
+  "title": "The World of Scary Video Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-World-of-Scary-Video-Games-681ba07ae58647469e8ef975a885b521?pvs=21",
+  "createdTime": 1651974658972,
+  "lastEditedTime": 1681313915915,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The World of Scary Video Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7e92b6c1f97a.webp",
+  "blocks": [
+    {
+      "id": "132818cb-1503-4bbb-8783-9390e32bd2df",
+      "type": "divider"
+    },
+    {
+      "id": "9842aae3-b435-4167-bd9d-2817d23c65ce",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "38b70e80-06ad-4376-a3c7-e6381b32d9d3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "765861ac-00d3-49e3-9736-2584e3d1d4dc",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f25887f-d76e-4eb7-8717-55785f73c773",
+              "type": "paragraph",
+              "html": "<em><strong>The World of Scary Video Games: A Study in Videoludic Horror</strong></em> was written by Bernard Perron, published by Bloomsbury Academic, May 31, 2018."
+            },
+            {
+              "id": "8df4605a-3f3a-45ab-9d83-1e628a1a4d1e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "af7720e2-9872-4ee3-8d6e-f91e8a941e87",
+              "type": "quote",
+              "html": "<em>As for film and literature, the horror genre has been very popular in the video game. </em>The World of Scary Video Games<em> provides a comprehensive overview of the videoludic horror, dealing with the games labelled as “survival horror” as well as the mainstream and independent works associated with the genre. It examines the ways in which video games have elicited horror, terror and fear since </em>Haunted House<em> (1981). Bernard Perron combines an historical account with a theoretical approach in order to offer a broad history of the genre, outline its formal singularities and explore its principal issues. It studies the most important games and game series, from </em>Haunted House<em> (1981) to </em>Alone in the Dark <em>(1992- ), </em>Resident Evil<em> (1996-present), </em>Silent Hill<em> (1999-present), </em>Fatal Frame<em> (2001-present), </em>Dead Space<em> (2008-2013), </em>Amnesia: the Dark Descent <em>(2010), and </em>The Evil Within<em> (2014). Accessibly written, </em>The World of Scary Video Games<em> helps the reader to trace the history of an important genre of the video game.</em>"
+            },
+            {
+              "id": "887df279-3ed1-44d1-891f-6123d97256b2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d62bd923-674d-4105-abe5-4cfe39798a95",
+          "type": "column",
+          "children": [
+            {
+              "id": "6b8ba3c1-08fe-4043-945f-9020e7557fdc",
+              "type": "image",
+              "src": "./assets/images/untitled-7e92b6c1f97a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "686dcf2b-dbee-4be4-97f9-74b18ecd0c26",
+      "type": "divider"
+    },
+    {
+      "id": "909e5159-f88c-4a6c-b6d7-b977f2b2e117",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6b36e206-61aa-4044-b860-10fc32eaef0f",
+          "type": "column",
+          "children": [
+            {
+              "id": "bd60b718-5f3c-46c4-8ac2-260e1c1a1018",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "274bb260-b888-4a63-b805-30d40b65d5ea",
+          "type": "column",
+          "children": [
+            {
+              "id": "7c0aba23-fc2c-494c-992e-b6aa60cc9bec",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3WpxBF1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46b7b421-f76e-4582-b868-4fedfa498485",
+      "type": "divider"
+    }
+  ]
+}

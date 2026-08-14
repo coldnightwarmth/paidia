@@ -1,0 +1,136 @@
+{
+  "id": "8aa5228b-7007-4e95-8f06-96a0a67930cf",
+  "slug": "genius-at-play",
+  "title": "Genius At Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Genius-At-Play-8aa5228b70074e958f0696a0a67930cf?pvs=21",
+  "createdTime": 1652722564650,
+  "lastEditedTime": 1681313817928,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Genius At Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-cae5e9d42088.webp",
+  "blocks": [
+    {
+      "id": "a28a46c1-2f72-46ba-81d2-8a80227c72a7",
+      "type": "divider"
+    },
+    {
+      "id": "aa6cba2f-12bf-49dc-a475-a21fdb5e9c6e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e9d765b9-cf40-41bf-a05a-272f3fd5c3b6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "179df3fc-c8bd-4c13-ae91-b2af73f4e61b",
+          "type": "column",
+          "children": [
+            {
+              "id": "46c35a78-e8b8-43e9-8662-1447852e404f",
+              "type": "paragraph",
+              "html": "<em><strong>Genius At Play: The Curious Mind of John Horton Conway</strong></em> was written by Siobhan Roberts, published by Bloomsbury USA, July 14, 2015."
+            },
+            {
+              "id": "b1ce9f94-9fba-4f6f-84d7-591b76d4c53e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "12b7eeef-9f6e-47d8-aac2-57bf7650dfe0",
+              "type": "quote",
+              "html": "<em>John Horton Conway is a singular mathematician with a lovely loopy brain. He is Archimedes, Mick Jagger, Salvador Dali, and Richard Feynman all rolled into one--he boasts a rock star’s charisma, a slyly bent sense of humor, a polymath’s promiscuous curiosity, and an insatiable compulsion to explain everything about the world to everyone in it. At Cambridge, Conway wrestled with &quot;Monstrous Moonshine,&quot; discovered the aptly named surreal numbers, and invented the cult classic Game of Life--more than just a cool fad, Life demonstrates how simplicity generates complexity and provides an analogy for mathematics and the entire universe. As a &quot;mathemagician&quot; at Princeton, he used ropes, dice, pennies, coat hangers, even the occasional Slinky, as props to extend his winning imagination and share his many nerdish delights. He granted Roberts full access to his idiosyncrasies and intellect both, though not without the occasional grumble: &quot;Oh hell,&quot; he’d say. &quot;You’re not going to put that in the book. Are you?!?”</em>"
+            },
+            {
+              "id": "61769ffc-e9d0-4744-95fa-11148907c68d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "13b4abd3-1d2e-4c74-9783-51ea45f180ae",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd8a4a55-b7b9-4727-9e62-7b9be75e06c1",
+              "type": "image",
+              "src": "./assets/images/untitled-cae5e9d42088.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adfdf718-59b6-4b77-b542-91545aa859a1",
+      "type": "divider"
+    },
+    {
+      "id": "9292591c-4c0e-4d6a-bd08-a14f42587221",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3c68b0b3-53a8-4862-8129-42897b8bd72e",
+          "type": "column",
+          "children": [
+            {
+              "id": "fce94554-5e3a-4c92-9e9b-67857717dae1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2a573e47-0dbe-4173-858b-aabf4fe67799",
+          "type": "column",
+          "children": [
+            {
+              "id": "f05f2ebf-6de7-4076-945c-9acba9d64655",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3tTI2DY\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "397526af-4e5a-4e23-9c17-0e3fea95234f",
+      "type": "divider"
+    },
+    {
+      "id": "904c348d-e047-412c-a919-bff71c65da50",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

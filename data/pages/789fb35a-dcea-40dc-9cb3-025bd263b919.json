@@ -1,0 +1,131 @@
+{
+  "id": "789fb35a-dcea-40dc-9cb3-025bd263b919",
+  "slug": "leisure-and-ancient-rome",
+  "title": "Leisure & Ancient Rome",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Leisure-Ancient-Rome-789fb35adcea40dc9cb3025bd263b919?pvs=21",
+  "createdTime": 1667275041550,
+  "lastEditedTime": 1681312685909,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Leisure & Ancient Rome",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3a31bee6c8e8.webp",
+  "blocks": [
+    {
+      "id": "ae8df475-4c0f-4587-911a-112b41591f09",
+      "type": "divider"
+    },
+    {
+      "id": "e4420855-b6fd-49f6-9490-72ab6ad9179c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c70e6eab-6d18-4e7f-ade7-a59d3e382f71",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b2ad5f88-7c34-4298-baec-ce77b5f916e1",
+          "type": "column",
+          "children": [
+            {
+              "id": "43be3aaa-beba-4c80-bd74-322b42e7fd8c",
+              "type": "paragraph",
+              "html": "<em><strong>Leisure &amp; Ancient Rome</strong></em> was written by J. P. Toner, published by Polity, October 15, 1998."
+            },
+            {
+              "id": "88c0f451-8b0b-4de1-9440-648d7f163bfb",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c5599916-c21a-45fb-b955-651ab69d972d",
+              "type": "quote",
+              "html": "<em>In this book Toner offers a new way of looking at Roman society at all levels, not just among the elite, by examining the imperial games and the baths as well as gambling, the taverns, theatre and carnivals.</em>"
+            },
+            {
+              "id": "89bd4ddb-59ed-439c-9157-34812c21bd92",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "29742c8f-ab7d-4a0c-a30c-fd6121d42efa",
+          "type": "column",
+          "children": [
+            {
+              "id": "701d4e26-84c0-479c-8bd7-cc6eb67534c7",
+              "type": "image",
+              "src": "./assets/images/untitled-3a31bee6c8e8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "866640be-2125-4322-b9b3-a30909cb430f",
+      "type": "divider"
+    },
+    {
+      "id": "a8326bed-59d5-4915-bc93-40763e0c3370",
+      "type": "columns",
+      "children": [
+        {
+          "id": "df7ce74f-645b-4534-9226-2159b7b76496",
+          "type": "column",
+          "children": [
+            {
+              "id": "6b5ae091-21c2-4795-8bd6-d92c227a0e0c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b88d884f-1872-4b16-b295-6221cdccf46c",
+          "type": "column",
+          "children": [
+            {
+              "id": "d7fc0fd0-a9a7-474b-a897-96deb8811358",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FxNRxH\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b9b63897-8346-4c0c-ad92-a81aa19c135d",
+      "type": "divider"
+    }
+  ]
+}

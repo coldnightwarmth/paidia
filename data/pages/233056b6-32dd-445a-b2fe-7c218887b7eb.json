@@ -1,0 +1,95 @@
+{
+  "id": "233056b6-32dd-445a-b2fe-7c218887b7eb",
+  "slug": "boxx-manifesto",
+  "title": "BOXX Manifesto",
+  "icon": "./assets/images/document-gray-7f1467ecac3d.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/233056b632dd445ab2fe7c218887b7eb",
+  "createdTime": 1651710893074,
+  "lastEditedTime": 1681311310877,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Essay/Article"
+      ]
+    ],
+    "title": [
+      [
+        "BOXX Manifesto"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ef4afbdb86d5.webp",
+  "blocks": [
+    {
+      "id": "3c4233ac-6bab-4b92-9dd3-bc597f7d0133",
+      "type": "divider"
+    },
+    {
+      "id": "bfb624cf-d1d5-47bb-9593-517357ce07e9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "39492008-e7c8-4122-ab8c-4b90e530ea94",
+      "type": "columns",
+      "children": [
+        {
+          "id": "82aef47e-e012-43be-8fcb-3edbcb75be27",
+          "type": "column",
+          "children": [
+            {
+              "id": "33b2b466-6900-43fe-89ce-d69a9704abaf",
+              "type": "paragraph",
+              "html": "The <em><strong>BOXX Manifesto</strong></em> was writen by <a href=\"#/aziz-hax-al-yami\">Aziz “Hax” Al-Yami</a>, published on his own website- linked below- April 16, 2018."
+            }
+          ]
+        },
+        {
+          "id": "96b78b96-feba-41a0-b1e6-f6501550b905",
+          "type": "column",
+          "children": [
+            {
+              "id": "ef74d37b-8ba2-4e89-aeb8-210e4734e7e3",
+              "type": "image",
+              "src": "./assets/images/untitled-ef4afbdb86d5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3cdfe398-3dd3-4294-a479-d8dd46336b98",
+      "type": "divider"
+    },
+    {
+      "id": "c21e4e91-aa4a-435c-8316-7efc510829f9",
+      "type": "bookmark",
+      "src": "",
+      "title": "Resources"
+    },
+    {
+      "id": "067faf1f-efe3-4605-ad8a-337a122bce0f",
+      "type": "divider"
+    },
+    {
+      "id": "56b28627-7b8e-4afa-902a-fe56f4670e05",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "06de021b-b0d0-4a0b-9d68-49bf5fbd81cd",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-last-hope-for-gamecube-controllers\">THE LAST HOPE FOR GAMECUBE CONTROLLERS</a> (<em>video</em>)"
+    }
+  ]
+}

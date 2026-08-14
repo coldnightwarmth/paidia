@@ -1,0 +1,97 @@
+{
+  "id": "7d17f8a0-7fae-468b-9a6c-44c1036f42fb",
+  "slug": "other-sites-7d17f8a0",
+  "title": "Other Sites",
+  "icon": "🌐",
+  "cover": "",
+  "type": "page",
+  "parentId": "21f9f4de-9266-4660-a20a-a2b5c1051777",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/7d17f8a07fae468b9a6c44c1036f42fb",
+  "createdTime": 1704852380670,
+  "lastEditedTime": 1704854251107,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "List"
+      ]
+    ],
+    "title": [
+      [
+        "Other Sites"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/animated-silver-dog-chain-8cef006b0380.webp",
+  "blocks": [
+    {
+      "id": "bfbd2ef5-0dbb-475e-8729-15a2daa1bc82",
+      "type": "paragraph",
+      "html": "<em>master list of selected websites relevant to the study of games/play::</em>"
+    },
+    {
+      "id": "1fabe34e-0ae7-4491-a62e-7fcdc7859c80",
+      "type": "divider"
+    },
+    {
+      "id": "3583c157-e39b-4bc7-8eec-7bc9d3d23263",
+      "type": "image",
+      "src": "./assets/images/animated-silver-dog-chain-8cef006b0380.webp",
+      "caption": "",
+      "alt": "animated_silver_dog_chain.gif"
+    },
+    {
+      "id": "42061f42-f656-4a4a-a174-1b201c110875",
+      "type": "collection_view",
+      "collectionId": "4ca7996e-5ae7-4655-863f-cdbfc36b676b",
+      "viewIds": [
+        "dbf9eaa6-70a0-4473-9064-7e959fd90b81",
+        "3dae6106-9a49-4c11-b2d4-d6120a816af8"
+      ],
+      "title": ""
+    },
+    {
+      "id": "13ef82b6-0dc6-4abb-b787-fe124d55c70a",
+      "type": "divider"
+    },
+    {
+      "id": "2c9a4e2c-d124-40a1-8dea-eaa7a37baf49",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "cf1a0cd1-077c-4fbb-886d-09f1b7aecff6",
+      "type": "paragraph",
+      "html": "‣ "
+    },
+    {
+      "id": "c55a9c22-957e-46bf-a033-af9b3cbe3dba",
+      "type": "paragraph",
+      "html": "‣ "
+    },
+    {
+      "id": "bf53d2b5-fe62-4db1-9b8b-b4e92c0aa47b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ab17a241-2df9-4d68-869f-e5eeaff86d20",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "650f9261-572c-4343-8447-0d9a7862d427",
+      "type": "paragraph",
+      "html": "<a href=\"#/lists\">☜Lists</a>"
+    },
+    {
+      "id": "084b7b82-9c80-4e3b-b441-d918aecd7e7e",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

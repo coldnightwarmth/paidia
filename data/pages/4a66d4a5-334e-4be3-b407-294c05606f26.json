@@ -1,0 +1,131 @@
+{
+  "id": "4a66d4a5-334e-4be3-b407-294c05606f26",
+  "slug": "basic-rockcraft",
+  "title": "Basic Rockcraft",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Basic-Rockcraft-4a66d4a5334e4be3b407294c05606f26?pvs=21",
+  "createdTime": 1671549054698,
+  "lastEditedTime": 1681311115232,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Basic Rockcraft",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e6c7dd7d64c5.webp",
+  "blocks": [
+    {
+      "id": "68f4c86c-80a5-4999-a681-a75410410a75",
+      "type": "divider"
+    },
+    {
+      "id": "b255ab7f-d4c0-4156-88dd-da686e55ed2e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "00df3b4f-d3d6-44fb-96d3-0de21e395ac4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8783055c-7fee-4fe2-800c-940f34e142ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "990f754e-e150-47f7-b0f2-8b16ec862814",
+              "type": "paragraph",
+              "html": "<em><strong>Basic Rockcraft</strong></em> was written by Royal Robbins, published by LA Siesta Press in 1994."
+            },
+            {
+              "id": "be7c2ec0-d34e-4dbf-b17a-1751b2709339",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "243e7f0e-228d-492c-a306-51226de29949",
+              "type": "quote",
+              "html": "<em>Royal Robbins' accomplishments as rock climber and adventurer are legendary. An early advocate of boltless, pitonless clean climbing, he did much to transform the climbing culture to minimize the human impact on the vertical wilderness and protect its natural features. As a rock-climbing pioneer, he broke through existing standards to create wholly new skill and difficulty levels. In the 50's, 60's and into the 70's, Robbins established one daring new climb after another, among them many revered classics on Yosemite's Half Dome and El Capitan.</em>"
+            },
+            {
+              "id": "ae365ca9-f70f-46eb-b999-48c7dc94f483",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "788a1861-e2f7-4ba9-87e3-9105e8da71ac",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b8b8767-a1a0-4ffd-a90c-488ff447810d",
+              "type": "image",
+              "src": "./assets/images/untitled-e6c7dd7d64c5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0b6bccfc-8f18-49d2-bfd8-905477e9ec2b",
+      "type": "divider"
+    },
+    {
+      "id": "73b69879-cdcc-4974-9685-fc79105e4e0f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a63bd33e-2362-4758-a1d8-34f8bf081dec",
+          "type": "column",
+          "children": [
+            {
+              "id": "8c78463a-0258-4163-978d-7c595ac89f50",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "65646d53-ef5a-4d48-b907-4690873b6b8a",
+          "type": "column",
+          "children": [
+            {
+              "id": "6135af7c-71dd-461f-94d2-297445f4b410",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Basic-Rockcraft-Royal-Robbins/dp/0910856346/ref=sr_1_1?crid=265LI1FATZGM6&amp;keywords=Basic+Rockcraft%2C+Royal+Robbins&amp;qid=1666814201&amp;qu=eyJxc2MiOiIwLjg2IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=basic+rockcraft%2C+royal+robbins%2Cstripbooks%2C77&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7b2a524b-21cb-410b-ac57-981caf9413c0",
+      "type": "divider"
+    }
+  ]
+}

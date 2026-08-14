@@ -1,0 +1,195 @@
+{
+  "id": "c299b845-22b0-4918-936a-79c52212739e",
+  "slug": "videogames-c299b845",
+  "title": "Videogames",
+  "icon": "🎮",
+  "cover": "",
+  "type": "page",
+  "parentId": "9bebc86d-bfe2-4440-9d8e-cece28416d33",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/c299b84522b04918936a79c52212739e",
+  "createdTime": 1704852582564,
+  "lastEditedTime": 1718690602231,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Videogames"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "495829ca-9f02-49aa-9ba6-5aafc4eead03",
+      "type": "paragraph",
+      "html": "<em>master list of collected relevant, notable videogames &amp; franchises::</em>"
+    },
+    {
+      "id": "54dbe7f5-c962-47a1-83fb-95c20e76c161",
+      "type": "paragraph",
+      "html": "<strong>[UNDER CONSTRUCTION]</strong>"
+    },
+    {
+      "id": "74f83168-0467-4be1-b7dd-dd7c1a97526a",
+      "type": "divider"
+    },
+    {
+      "id": "b8cdf773-45ed-4dd9-bb03-5b8062866915",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0bfc2cbd-9c32-4ac2-a9f8-866d04a6ab38",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1f9ec576-60e7-4a31-a1a6-de44d005ad4a",
+          "type": "column",
+          "children": [
+            {
+              "id": "581cb0a0-0048-4f71-97ec-aa843d550229",
+              "type": "toggle",
+              "html": "<strong>Action</strong> [32]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "16efc05e-6e20-4581-afe7-a4dbba2b213c",
+          "type": "column",
+          "children": [
+            {
+              "id": "10c8f651-3f57-42d3-abd5-79106f2c01a1",
+              "type": "toggle",
+              "html": "<strong>Systemic</strong> [30]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "95ceef80-a804-47b0-8bcc-b0f56825664a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "06902f20-99e6-4e97-a7b6-c1ac524696aa",
+          "type": "column",
+          "children": [
+            {
+              "id": "b3ce22cf-f530-4ef3-96b6-6479cb2fcbf2",
+              "type": "toggle",
+              "html": "<strong>Mystery</strong> [17]",
+              "children": []
+            },
+            {
+              "id": "c0aa6711-ef74-4bb2-b031-7114a88a87fa",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "47d5572b-91a0-4bc9-bda5-1ca3d6b4b7ef",
+          "type": "column",
+          "children": [
+            {
+              "id": "8cf480db-3ce7-4b32-a8b2-aee8dca48011",
+              "type": "toggle",
+              "html": "<strong>Art/Experimental</strong> [7]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db6da9aa-bacf-47ab-ab2a-2e02d789cc71",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b1a912c5-5a04-4b38-ac97-ec0e814951d7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "13b49f48-ef20-43e4-a7e8-d0e8e09f13f9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2f61dd65-5c7a-4f43-8bb3-2fe088e4dc81",
+          "type": "column",
+          "children": [
+            {
+              "id": "13eb8f31-b084-46ec-bf76-376470abd2e4",
+              "type": "paragraph",
+              "html": "<em>total:86</em>"
+            }
+          ]
+        },
+        {
+          "id": "f94644bb-4a9e-4c5e-acf7-529d0f0aacfa",
+          "type": "column",
+          "children": [
+            {
+              "id": "68cfa98b-dc08-49e1-8645-c0fc930fda6d",
+              "type": "paragraph",
+              "html": "<em>green</em><em> = franchise</em>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b2d825f-86bc-4744-993a-2ddf900e099c",
+      "type": "paragraph",
+      "html": "<em>note:: these are currently just games that are mentioned in the descriptions of the books in our collection, that seemed the most useful way to get started with a list like this</em>"
+    },
+    {
+      "id": "9801fa73-767a-4a74-bcc5-45d2a0be94e4",
+      "type": "divider"
+    },
+    {
+      "id": "afc8eacc-351d-4176-9442-6423cac4a078",
+      "type": "paragraph",
+      "html": "see also:"
+    },
+    {
+      "id": "2204e9fe-6760-40e3-96c9-71e1139ced8d",
+      "type": "page_link",
+      "targetId": "2204e9fe-6760-40e3-96c9-71e1139ced8d",
+      "title": "Themed Videogames Lists",
+      "notionType": "page"
+    },
+    {
+      "id": "dc0ef1d2-db12-47e8-a1a3-eb14916b2c09",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "052ff8ec-f4c0-45d3-b14f-61d2e15ba293",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9bafddea-93cc-458c-91c3-27e35860f31e",
+      "type": "paragraph",
+      "html": "<a href=\"#/games-549e6748\"><u>☜</u></a><a href=\"#/games-549e6748\"><strong><u>Games</u></strong></a>"
+    },
+    {
+      "id": "9335eaaa-8d22-4276-811b-2274bc8571eb",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

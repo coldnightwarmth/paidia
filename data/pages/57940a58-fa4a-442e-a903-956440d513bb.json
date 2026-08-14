@@ -1,0 +1,131 @@
+{
+  "id": "57940a58-fa4a-442e-a903-956440d513bb",
+  "slug": "unboxed",
+  "title": "Unboxed",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Unboxed-57940a58fa4a442ea903956440d513bb?pvs=21",
+  "createdTime": 1652118069938,
+  "lastEditedTime": 1681313551900,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Unboxed",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c71945f54782.webp",
+  "blocks": [
+    {
+      "id": "8af8da05-7fff-4d31-98f2-c0430cd22997",
+      "type": "divider"
+    },
+    {
+      "id": "ea106b74-6a81-4d07-8708-32a11c5ff84c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b913fe1c-ce9d-4b66-9fb7-6e9f6f6b9219",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2bdbd6d3-0d34-4817-86b3-89e7931a4a4d",
+          "type": "column",
+          "children": [
+            {
+              "id": "0298e7c7-d3ce-4f26-84a1-de2083bf692f",
+              "type": "paragraph",
+              "html": "<em><strong>Unboxed: Board Game Experience &amp; Design</strong></em> was written by Gordon Calleja, published by The MIT Press, October 4, 2022."
+            },
+            {
+              "id": "9172cbf9-21ff-4a23-8d4c-5297180cc6eb",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2f5b5be4-eaa2-4e45-a499-8350d4809953",
+              "type": "quote",
+              "html": "<em>In </em>Unboxed<em>, Gordon Calleja explores the experience of playing board games and how game designers shape that experience. Calleja examines key aspects of board game experience—the nature of play, attention, rules, sociality, imagination, narrative, materiality, and immersion—to offer a theory of board game experience and a model for understanding game involvement that is relevant to the analysis, criticism, and design of board games. Drawing on interviews with thirty-two leading board game designers and critics, Calleja—himself a board game designer—provides the set of conceptual tools that board game design has thus far lacked.<br><br>After considering different conceptions of play, Calleja discusses the nature and role of attention and goes on to outline the key forms of involvement that make up the board game playing experience. In subsequent chapters, Calleja explores each of these forms of involvement, considering both the experience itself and the design considerations that bring it into being. Calleja brings this analysis together in a chapter that maps how these forms of involvement come together in the moment of gameplay, and how their combination shapes the flow of player affect. By tracing the processes by which players experience these moments of rule-mediated, imagination-fueled sociality, Calleja helps us understand the richness of the gameplay experience packed into the humble board game box.</em>"
+            },
+            {
+              "id": "04d5fb20-b957-4db7-9a46-3c7e645472f1",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d50b59df-8722-4541-a039-d1d0538a2389",
+          "type": "column",
+          "children": [
+            {
+              "id": "b54e9a50-bb37-46d2-a0f6-88e473cebdff",
+              "type": "image",
+              "src": "./assets/images/untitled-c71945f54782.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01d75bd-cc71-4696-b5d6-044c7f5f8a8c",
+      "type": "divider"
+    },
+    {
+      "id": "fbacc5f2-eae7-4bb0-bc0d-9e2cb133d73d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8289b302-98c0-4ef6-94f2-9e190002a1cc",
+          "type": "column",
+          "children": [
+            {
+              "id": "0dc5dc60-464a-4ad5-861c-655d9aa19730",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "464667d5-3b03-4418-83ab-7c71281a69e8",
+          "type": "column",
+          "children": [
+            {
+              "id": "206ec5fa-aaa1-4670-b6d5-d4e2abec0d82",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OHkFFW\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37f607ad-c53d-4e73-970e-130c65d0a167",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "b68008fc-ea30-4bba-9bcc-c9417e2af547",
+  "slug": "children-s-play-in-child-care-settings",
+  "title": "Children's Play in Child Care Settings",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "941cc77c-8e6e-4869-a86c-9aaae44d9333",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Children-s-Play-in-Child-Care-Settings-b68008fcea304bba9bccc9417e2af547?pvs=21",
+  "createdTime": 1653073932497,
+  "lastEditedTime": 1681311529396,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Children's Play in Child Care Settings",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-458696147414.webp",
+  "blocks": [
+    {
+      "id": "fdac90bb-9c66-4807-a39a-d18f91ad9270",
+      "type": "divider"
+    },
+    {
+      "id": "43b5132d-64ca-43d0-beb4-0ddcdb68d736",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ec540e15-0d41-4bab-857c-0c70ba1b94fb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ebcb26e7-8088-4a90-87c0-086325ddbd56",
+          "type": "column",
+          "children": [
+            {
+              "id": "8701fb08-d142-420c-8029-d44bda9d9954",
+              "type": "paragraph",
+              "html": "<em><strong>Children's Play in Child Care Settings</strong></em> is a collection of essays edited by Hillel Goelman, published by SUNY Press, February 8, 1994."
+            },
+            {
+              "id": "ee61e2a1-63f9-49bd-82ff-a46c11bcdc27",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "806bde3d-b69d-4ce5-bb34-bb349d8564f3",
+              "type": "quote",
+              "html": "<em>How do children play in different kinds of child care settings? How do child care environments influence their play? How do special-needs children play in integrated and in segregated child care settings? How do adults influence play in child care environments? And what are the long term effects of children’s play in child care? These are among the questions addressed by the psychologists and educators who have contributed to this book.<br><br>Researchers will find </em>Children’s Play in Child Care Settings <em>to be a valuable review of current theory and research in this area. Practitioners will better understand the ways in which early childhood environments and early childhood educators can facilitate the play of young children in child care settings. And administrators will be able to draw upon the book in designing and implementing early childhood programs for special needs and non-special needs children.</em>"
+            }
+          ]
+        },
+        {
+          "id": "15dfc8e0-0ea2-4bb3-adb3-683a1bf76e68",
+          "type": "column",
+          "children": [
+            {
+              "id": "83187f65-a6b2-45d7-b7bf-818f264b7da1",
+              "type": "image",
+              "src": "./assets/images/untitled-458696147414.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c75494b-6232-4c48-af00-b4667a24fd14",
+      "type": "divider"
+    },
+    {
+      "id": "ef68e805-5b74-4c60-b93a-7a23daf493ad",
+      "type": "columns",
+      "children": [
+        {
+          "id": "87790dcf-b7d0-429f-864c-e8f7a1a03e17",
+          "type": "column",
+          "children": [
+            {
+              "id": "601934f0-436c-4dc2-b854-0c4c355226eb",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "22fd9069-13c1-44ef-ae64-3cc5804d0831",
+          "type": "column",
+          "children": [
+            {
+              "id": "94030ca0-cd4c-43c3-8291-5a8d00e935dd",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3UC8NZy\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fdd7d061-492a-4168-bc72-1abcdb564348",
+      "type": "divider"
+    },
+    {
+      "id": "81451601-b4e8-49c8-a704-41af4a77fb06",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

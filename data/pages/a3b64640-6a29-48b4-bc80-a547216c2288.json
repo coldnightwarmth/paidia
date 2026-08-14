@@ -1,0 +1,126 @@
+{
+  "id": "a3b64640-6a29-48b4-bc80-a547216c2288",
+  "slug": "i-am-error",
+  "title": "I Am Error",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "46177b24-2d03-4a55-945a-07bf7464a995",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/I-Am-Error-a3b646406a2948b4bc80a547216c2288?pvs=21",
+  "createdTime": 1651704088433,
+  "lastEditedTime": 1681313938266,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "I Am Error"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-224f8b36ac8b.webp",
+  "blocks": [
+    {
+      "id": "ae32d113-e97a-4da2-aefa-bf4d715e1b94",
+      "type": "divider"
+    },
+    {
+      "id": "16e166ec-2500-4209-8d4c-ad5625d3d505",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e87d2e00-7f98-4cd6-922e-b7059bf35831",
+      "type": "columns",
+      "children": [
+        {
+          "id": "82130543-1d0a-43e5-9867-7b9e4515fec9",
+          "type": "column",
+          "children": [
+            {
+              "id": "88f1d1ee-5be0-41e6-bd97-ae77400d54f5",
+              "type": "paragraph",
+              "html": "<em><strong>I Am Error: The Nintendo Family Computer / Entertainment System Platform</strong></em> was written by Nathan Altice, published by The MIT Press, May 1, 2015."
+            },
+            {
+              "id": "5fe3bad8-8ea7-430a-982a-bb9927c35eeb",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "310121b5-c274-4759-be03-297257b2693e",
+              "type": "quote",
+              "html": "<strong><em>The complex material histories of the Nintendo Entertainment System platform, from code to silicon, focusing on its technical constraints and its expressive affordances.</em></strong><em><br><br>In the 1987 Nintendo Entertainment System videogame </em>Zelda II: The Adventure of Link<em>, a character famously declared: I AM ERROR. Puzzled players assumed that this cryptic mesage was a programming flaw, but it was actually a clumsy Japanese-English translation of “My Name is Error,” a benign programmer's joke. In </em>I AM ERROR<em> Nathan Altice explores the complex material histories of the Nintendo Entertainment System (and its Japanese predecessor, the Family Computer), offering a detailed analysis of its programming and engineering, its expressive affordances, and its cultural significance.<br><br>Nintendo games were rife with mistranslated texts, but, as Altice explains, Nintendo's translation challenges were not just linguistic but also material, with consequences beyond simple misinterpretation. Emphasizing the technical and material evolution of Nintendo's first cartridge-based platform, Altice describes the development of the Family Computer (or Famicom) and its computational architecture; the “translation” problems faced while adapting the Famicom for the U.S. videogame market as the redesigned Entertainment System; Nintendo's breakthrough console title </em>Super Mario Bros.<em> and its remarkable software innovations; the introduction of Nintendo's short-lived proprietary disk format and the design repercussions on </em>The Legend of Zelda<em>; Nintendo's efforts to extend their console's lifespan through cartridge augmentations; the Famicom's Audio Processing Unit (APU) and its importance for the chiptunes genre; and the emergence of software emulators and the new kinds of play they enabled.</em>"
+            },
+            {
+              "id": "2d18717f-68d6-4b77-8de3-a419b279cd6a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "22189e97-e224-45f7-a013-b653fb84fbe3",
+          "type": "column",
+          "children": [
+            {
+              "id": "acbe3de6-944b-4152-864d-c78346ac63af",
+              "type": "image",
+              "src": "./assets/images/untitled-224f8b36ac8b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c62336ef-2140-4095-8fc2-0ed9e999e09f",
+      "type": "divider"
+    },
+    {
+      "id": "b02289ff-3f23-483f-a090-26f6f82e5e18",
+      "type": "columns",
+      "children": [
+        {
+          "id": "208d53df-a8c0-460c-b6b9-e4d475273b9a",
+          "type": "column",
+          "children": [
+            {
+              "id": "c8a81bfc-9adb-451a-8ff3-4840094ec2e9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f6682080-4487-4723-a56a-77e5e4357436",
+          "type": "column",
+          "children": [
+            {
+              "id": "654c971a-3d44-4931-b9cc-6d4d575cd962",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SPvQhm\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10e30e47-2663-49fe-b30b-912cc597954d",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "51443417-7cc7-4c81-8340-ff9d7c08927d",
+  "slug": "game-history-and-the-local",
+  "title": "Game History & the Local",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Game-History-the-Local-514434177cc74c818340ff9d7c08927d?pvs=21",
+  "createdTime": 1652115963263,
+  "lastEditedTime": 1681314047545,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Game History & the Local",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a7b0bfede395.webp",
+  "blocks": [
+    {
+      "id": "79230d38-dc88-41fb-bac2-6b86063388a2",
+      "type": "divider"
+    },
+    {
+      "id": "b061a8d0-2741-4c4d-9688-57e40ae55b9a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "548ae25a-1387-4338-84be-d9263bf0ec85",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f9d05813-75f5-42e5-b17f-21ca6cca18df",
+          "type": "column",
+          "children": [
+            {
+              "id": "568c2dfc-b449-4411-8e73-07401ef127a4",
+              "type": "paragraph",
+              "html": "<em><strong>Game History &amp; the Local </strong></em>is a collection of essays edited by Melanie Swalwell, published by Palgrave Macmillan, May 25, 2021."
+            },
+            {
+              "id": "c4cd7213-9b10-423a-bb24-cb20afe44821",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "29f42097-b9c9-474d-a8ff-d0edcf9b17e0",
+              "type": "quote",
+              "html": "<em>This book brings together essays on game history and historiography that reflect on the significance of locality. Game history did not unfold uniformly and the particularities of space and place matter, yet most digital game and software histories are silent with respect to geography. Topics covered include: hyper-local games; temporal anomalies in platform arrival and obsolescence; national videogame workforces; player memories of the places of gameplay; comparative reception studies of a platform; the erasure of cultural markers; the localization of games; and perspectives on the future development of ‘local’ game history.</em>"
+            }
+          ]
+        },
+        {
+          "id": "d3b629f8-65e7-49d5-a40e-e7faed67e3f5",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd80a4de-e868-4d71-bf9a-9b726d4cb192",
+              "type": "image",
+              "src": "./assets/images/untitled-a7b0bfede395.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6c046d9f-8797-49fb-9e4b-5243b6fe88af",
+      "type": "divider"
+    },
+    {
+      "id": "ab7d1f9f-f9ef-4be6-8817-3218b66abe72",
+      "type": "columns",
+      "children": [
+        {
+          "id": "435ab944-6ecd-44da-a0b5-9511e047e5f5",
+          "type": "column",
+          "children": [
+            {
+              "id": "fb148bb1-d6d8-4f1e-8395-6df6c1e10bb2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "491e27d1-09de-4c72-b7dd-931ff13731d6",
+          "type": "column",
+          "children": [
+            {
+              "id": "c1fc277b-7ee2-4387-b6c5-3882ead90dda",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Ntoe31\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4bbb7a0f-cf2e-4bcc-8455-1aa3b882926b",
+      "type": "divider"
+    },
+    {
+      "id": "469ee311-8bd0-4822-9fa7-a14997c65590",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

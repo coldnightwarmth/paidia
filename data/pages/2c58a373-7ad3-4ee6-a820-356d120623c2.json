@@ -1,0 +1,131 @@
+{
+  "id": "2c58a373-7ad3-4ee6-a820-356d120623c2",
+  "slug": "once-upon-atari",
+  "title": "Once Upon Atari",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Once-Upon-Atari-2c58a3737ad34ee6a820356d120623c2?pvs=21",
+  "createdTime": 1651703949120,
+  "lastEditedTime": 1681313807951,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Once Upon Atari",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-64caf83e7cd2.webp",
+  "blocks": [
+    {
+      "id": "542cfb39-434f-4241-9ac4-9e845fdab34f",
+      "type": "divider"
+    },
+    {
+      "id": "66d1754c-f641-4424-b7db-533733f0194e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "87f6fe6c-9286-46f8-83eb-2625df4aa07e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d9b3780f-2cc0-4b0a-b3d1-282f35614393",
+          "type": "column",
+          "children": [
+            {
+              "id": "cfbe3cf3-2ecd-4fee-bdaf-235e9efceb7b",
+              "type": "paragraph",
+              "html": "<em><strong>Once Upon Atari: How I Made History by Killing an Industry</strong></em> was written by Howard Scott Warshaw, published by Scott West Productions, December 14, 2020."
+            },
+            {
+              "id": "6c5d4887-54b4-4878-87a1-3899aa6ec24e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "dc1a5465-1a1e-4f56-9374-a6ad5db4e817",
+              "type": "quote",
+              "html": "<em>How much fun can you have inventing video games in a creative paradise? What behind-the-scenes intrigue went on while launching a new medium? What really caused the video game crash of 1983?<br><br></em>ONCE UPON ATARI<em> is an intimate view into the dramatic rise and fall of the early video game industry, and how it shaped the life of one of its key players. This book offers eye-opening details and insights, delivered in a creative style that mirrors the industry it reveals. An innovative work from one of the industry's original innovators. This is a detailed look behind the scenes of the early days of video games, with particular attention to the causative factors leading up to the video game crash of the early 1980s. It is also the journey of one industry pioneer, and how his experience creating some of the world's most noted pieces of interactive entertainment reverberates throughout his life. It is a compelling tale of innocence, joy, greed, devastation and ultimately redemption, told in a fresh voice and unorthodox style.</em>"
+            },
+            {
+              "id": "f207f51b-1ad5-46bb-b509-e1de79a869c3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "280ca256-5d64-4d3c-a868-765bea40642b",
+          "type": "column",
+          "children": [
+            {
+              "id": "6bd4b62b-37c9-49b6-b755-9150f40bc7ea",
+              "type": "image",
+              "src": "./assets/images/untitled-64caf83e7cd2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71de7e6b-2733-458b-a6d0-ace986b756da",
+      "type": "divider"
+    },
+    {
+      "id": "94c8d3a6-19f5-4c1c-8d00-0a48a69cd68a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7f87698b-62a1-44c6-ae7c-27584591a824",
+          "type": "column",
+          "children": [
+            {
+              "id": "07b15f46-e51e-492d-8c29-355492e4ebd4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6629d0b3-10b1-4568-98f7-3981383f4cd3",
+          "type": "column",
+          "children": [
+            {
+              "id": "6c283dc3-4ab2-49de-956e-7a38b3e6bd1e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DseQbt\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cccb949-54e6-43e9-a60c-e09a3ffd0ed7",
+      "type": "divider"
+    }
+  ]
+}

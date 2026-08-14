@@ -1,0 +1,100 @@
+{
+  "id": "0e9ad3d8-a45f-42a0-b542-4452b1a6f9cf",
+  "slug": "h-g-wells",
+  "title": "H.G. Wells",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "350879b3-a25b-4db5-8dae-34d54f50d8e6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/0e9ad3d8a45f42a0b5424452b1a6f9cf",
+  "createdTime": 1667272346831,
+  "lastEditedTime": 1681329089306,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "H.G. Wells"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ab09e4b7255a.webp",
+  "blocks": [
+    {
+      "id": "385c73f9-7815-4150-866b-86fc904d08af",
+      "type": "divider"
+    },
+    {
+      "id": "7fef59a2-5dcb-4ed0-b0aa-102119327a2c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "511ea627-d1d0-4f0f-901e-55baf5f2cb1e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "54d89966-a18a-4f7d-97de-87d58d47a902",
+          "type": "column",
+          "children": [
+            {
+              "id": "e041f175-a7d9-48e5-8fcc-64bb883dd880",
+              "type": "paragraph",
+              "html": "<strong>Author  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "7e5188c8-e209-4033-ad0d-f4bade0b7976",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4e874607-00f2-4019-ac4c-45f073aaad16",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "98f7a675-22a4-453a-8895-95d9919374f2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "74ebaba4-70e9-4b65-966c-7c5541c873c8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a3c87721-f07e-455a-ad94-a7411652c0a6",
+          "type": "column",
+          "children": [
+            {
+              "id": "371b57e2-cfa9-4aa0-a953-335c1a4b0223",
+              "type": "image",
+              "src": "./assets/images/untitled-ab09e4b7255a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3625f6e-8a3b-4d5d-86eb-a6816f61fe52",
+      "type": "divider"
+    },
+    {
+      "id": "4072d20e-05c5-4edd-aabc-dcd5ae318162",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    }
+  ]
+}

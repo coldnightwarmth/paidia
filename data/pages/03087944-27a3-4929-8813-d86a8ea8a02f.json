@@ -1,0 +1,145 @@
+{
+  "id": "03087944-27a3-4929-8813-d86a8ea8a02f",
+  "slug": "puritans-at-play",
+  "title": "Puritans at Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Puritans-at-Play-0308794427a349298813d86a8ea8a02f?pvs=21",
+  "createdTime": 1651684520511,
+  "lastEditedTime": 1681314045460,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "P",
+        [
+          [
+            "a",
+            "https://www.librarything.com/work/39321/book/209521864"
+          ]
+        ]
+      ],
+      [
+        "uritans at Play"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-59a4d43410b7.webp",
+  "blocks": [
+    {
+      "id": "d0f1d3ff-5b5c-4787-a207-37f171b76400",
+      "type": "divider"
+    },
+    {
+      "id": "e80bbfb0-d46e-4db3-bac2-055799e6fd51",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bb4e4d11-d7ac-44c3-a0e9-e74fa845bbc5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1c530e15-cd1a-452f-a0df-c4713759958f",
+          "type": "column",
+          "children": [
+            {
+              "id": "ad1cddd9-d793-4440-92cf-b4c34153079e",
+              "type": "paragraph",
+              "html": "<em><strong>Puritans at Play: Leisure &amp; Recreation in Colonial New England</strong></em> was written by Bruce C. Daniels, published by Palgrave Macmillan January 1, 1995."
+            },
+            {
+              "id": "70806765-55fe-4b56-850f-68cc13f8a68d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "764008f1-1169-4c2a-a33c-ff6535bf6abd",
+              "type": "quote",
+              "html": "<em>For over four centuries, &quot;Puritan&quot; has been a synonym for dour, joyless, and repressed. In the tenth anniversary edition of </em>Puritans at Play<em>, Bruce Daniels reappraises the accuracy of this grim portrait by examining leisure and recreation in Colonial and Revolutionary New England. Chapters on music, dinner parties, dancing, sex, alcohol, taverns, and sports are presented in a lively style that makes this book as entertaining as it is illuminating.</em>"
+            }
+          ]
+        },
+        {
+          "id": "2b80d4be-791b-45b6-b81a-2017271aa82c",
+          "type": "column",
+          "children": [
+            {
+              "id": "0876e22a-f1c8-40fd-8263-a0d9210416af",
+              "type": "image",
+              "src": "./assets/images/untitled-59a4d43410b7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "63b56f7b-d892-42fb-9981-a7680e64d464",
+      "type": "divider"
+    },
+    {
+      "id": "e00e37bf-5f42-4621-b858-630bb63b9bb4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f36225ba-9177-4cea-ac9e-95ba771ff064",
+          "type": "column",
+          "children": [
+            {
+              "id": "1c51d7ef-e532-4994-be51-daf1298a51d3",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b869c6de-7a7b-4178-8a8f-12efd85792be",
+          "type": "column",
+          "children": [
+            {
+              "id": "63ea27cb-def7-43f4-9ee3-5e800395857c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3l1Vscx\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "078e6f3d-3929-4f4e-afc2-9565c6b4529a",
+      "type": "divider"
+    },
+    {
+      "id": "b7084e7e-cd40-4ce0-80d5-49466b71858b",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "bf804b91-f17f-451d-9042-66682d36df94",
+      "type": "paragraph",
+      "html": "<a href=\"#/a-sport-loving-society\">A Sport-Loving Society</a> (<em>book</em>)"
+    },
+    {
+      "id": "0f4fe7c3-7da3-4448-bb77-326f961d4de3",
+      "type": "paragraph",
+      "html": "<a href=\"/18d10a8db2814a278d6cf251b559e62d\" target=\"_blank\" rel=\"noreferrer\">Games pilgrims play</a> (<em>article</em>)"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "9dfde2f0-8d08-43a1-8e09-504f377e37ef",
+  "slug": "mental-health-atmospheres-video-games",
+  "title": "Mental Health Atmospheres Video Games",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Mental-Health-Atmospheres-Video-Games-9dfde2f08d0843a18e09504f377e37ef?pvs=21",
+  "createdTime": 1665083628714,
+  "lastEditedTime": 1681312910581,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Mental Health Atmospheres Video Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-885e9b35c544.webp",
+  "blocks": [
+    {
+      "id": "e032daa1-20d2-4ad9-902c-2902135cd001",
+      "type": "divider"
+    },
+    {
+      "id": "c29f407c-5ce1-4e62-af0b-f198d0501259",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "09f8060e-bd9d-49a8-9e3a-096021edef3f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "129a3c66-67d1-45ac-88be-d7c83de30b2a",
+          "type": "column",
+          "children": [
+            {
+              "id": "61dee100-2b5f-4b65-8f8f-a8f524ee0a87",
+              "type": "paragraph",
+              "html": "<em><strong>Mental Health | Atmospheres | Video Games: New Directions in Game Research</strong></em> was edited by Jimena Aguilar Rodríguez, Federico Alvarez Igarzábal, Michael S. Debus, et al., published by transcript publishing, October 27, 2022."
+            },
+            {
+              "id": "5f7ae365-a9ad-4ad7-8030-17f9f30b9434",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7e0618be-026d-468c-a25f-d793e6736097",
+              "type": "quote",
+              "html": "<em>Gaming has never been disconnected from reality. When we engage with ever more lavish virtual worlds, something happens to us. The game imposes itself on us and influences how we feel about it, the world, and ourselves. How do games accomplish this and to what end? The contributors explore the video game as an atmospheric medium of hitherto unimagined potential. Is the medium too powerful, too influential? A danger to our mental health or an ally through even the darkest of times? This volume compiles papers from the Young Academics Workshop at the Clash of Realities conferences of 2019 and 2020 to provide answers to these questions.</em>"
+            }
+          ]
+        },
+        {
+          "id": "c973bf7c-4dc9-4f49-abe6-ea2b18290323",
+          "type": "column",
+          "children": [
+            {
+              "id": "7ba23032-5add-4576-bb81-17749cc8ba84",
+              "type": "image",
+              "src": "./assets/images/untitled-885e9b35c544.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cca0fc1f-bf70-4998-affc-d430a70c1d77",
+      "type": "divider"
+    },
+    {
+      "id": "608c77d5-84e1-4e59-b4da-c34ecab3ebce",
+      "type": "columns",
+      "children": [
+        {
+          "id": "276c81c1-a283-4125-878c-98b6752b7aed",
+          "type": "column",
+          "children": [
+            {
+              "id": "29ef8306-037e-4f72-899d-8d3b483a1bc4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "acdbf402-aad6-4be6-a859-f8858b8a14b5",
+          "type": "column",
+          "children": [
+            {
+              "id": "1d7c3155-fbdf-411e-abcf-7beb3447a5b2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3T0M8Vg\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8b833a16-90a3-4e57-9f47-41c5b3f8fc52",
+      "type": "divider"
+    }
+  ]
+}

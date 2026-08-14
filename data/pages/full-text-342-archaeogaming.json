@@ -1,0 +1,78 @@
+{
+  "id": "full-text-342-archaeogaming",
+  "slug": "archaeogaming",
+  "title": "Archaeogaming",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8b00db95-6902-4675-93fb-bd8023cf5614",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "",
+  "createdTime": null,
+  "lastEditedTime": null,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Archaeogaming"
+      ]
+    ],
+    "Full Text Database Row": [
+      [
+        "342"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Andrew Reinhard"
+      ]
+    ],
+    "Tags": [
+      [
+        "Anthropology, Architecture, History, Videogames"
+      ]
+    ],
+    "Released": [
+      [
+        "2018"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Berghahn Books"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "full-text-342-archaeogaming-divider",
+      "type": "divider"
+    },
+    {
+      "id": "full-text-342-archaeogaming-metadata",
+      "type": "paragraph",
+      "html": "<strong>Archaeogaming</strong>, by Andrew Reinhard, Berghahn Books, 2018."
+    },
+    {
+      "id": "full-text-342-archaeogaming-tags",
+      "type": "paragraph",
+      "html": "<em>Tags:</em> Anthropology, Architecture, History, Videogames"
+    },
+    {
+      "id": "full-text-342-archaeogaming-note",
+      "type": "callout",
+      "html": "This spreadsheet row did not include a Notion source URL, so this local page was generated from the Full Text Database CSV metadata.",
+      "icon": "🗃️",
+      "children": []
+    }
+  ]
+}

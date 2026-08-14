@@ -1,0 +1,131 @@
+{
+  "id": "181c7f6f-e4c1-4949-b277-67e80d53e9b2",
+  "slug": "mogworld",
+  "title": "Mogworld",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Mogworld-181c7f6fe4c14949b27767e80d53e9b2?pvs=21",
+  "createdTime": 1653173047408,
+  "lastEditedTime": 1681314106136,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Mogworld",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-18d923a1ec15.webp",
+  "blocks": [
+    {
+      "id": "be50eb92-5169-4901-b4b1-2dfc6a58cebc",
+      "type": "divider"
+    },
+    {
+      "id": "035959b7-6112-4089-9946-fe29b77afe09",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d425dbe6-1ac5-4c31-8328-97d6008ae9e3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c0dac384-a46a-4194-99a0-4cd6bc757d87",
+          "type": "column",
+          "children": [
+            {
+              "id": "d06246bb-76d9-4529-a301-a7bda929a2fd",
+              "type": "paragraph",
+              "html": "<em><strong>Mogworld</strong></em> was written by Yahtzee Croshaw, published by Dark Horse Books, April 22, 2008."
+            },
+            {
+              "id": "6b43e8ab-1e53-4ec5-b572-6b9a6809f1ed",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "464ba306-77b3-4e84-af27-a0cd27ebe8a5",
+              "type": "quote",
+              "html": "<em>This humorous parody of the fantasy genre and the world of MMORPG comes a story about the death and resurrection of a minor video game character by </em>Zero Punctuation<em> writer Yahtzee Croshaw (</em>Will Save the Galaxy for Food, Jam<em>)<br><br>In a world full to bursting with would-be heroes, Jim couldn't be less interested in saving the day. His fireballs fizzle. He's awfully grumpy. Plus, he's been dead for about sixty years. When a renegade necromancer wrenches him from eternal slumber and into a world gone terribly, bizarrely wrong, all Jim wants is to find a way to die properly, once and for all.<br><br>On his side, he's got a few shambling corpses, an inept thief, and a powerful death wish. But he's up against tough odds: angry mobs of adventurers, a body falling apart at the seams--and a team of programmers racing a deadline to hammer out the last few bugs in their AI.</em>"
+            }
+          ]
+        },
+        {
+          "id": "76a3353c-cf4e-4c46-8654-d0629ec02ee6",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd2776c4-7dd8-427c-a920-f1cdac6a7e80",
+              "type": "image",
+              "src": "./assets/images/untitled-18d923a1ec15.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "426c01e2-8490-4a8b-b85b-c6c866362f31",
+      "type": "divider"
+    },
+    {
+      "id": "811df01e-993f-48c9-821a-529d1fa61a73",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5844f3e5-722d-4811-889a-fa04bb1ca83e",
+          "type": "column",
+          "children": [
+            {
+              "id": "ff9686ba-119f-41aa-a6e1-55bad648dad0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "77893c9f-3589-41fb-940c-5edfaeb7193b",
+          "type": "column",
+          "children": [
+            {
+              "id": "cce3154e-1710-4380-b9bc-c064f7b72621",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SoYoyE\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5597b307-5380-4935-83b7-b3984c5a46c9",
+      "type": "divider"
+    },
+    {
+      "id": "0fb2b9a0-e848-4a90-bd65-67a051aeb10e",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "e7958cdb-4771-4749-9c97-10cab93e9271",
+  "slug": "the-psychology-of-video-games",
+  "title": "The Psychology of Video Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Psychology-of-Video-Games-e7958cdb477147499c9710cab93e9271?pvs=21",
+  "createdTime": 1653074459840,
+  "lastEditedTime": 1681314183364,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Psychology of Video Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fb9982411c09.webp",
+  "blocks": [
+    {
+      "id": "033605a2-feb7-455d-bff9-454b3d6a38d6",
+      "type": "divider"
+    },
+    {
+      "id": "61b01b00-b81e-462b-b49c-6ef9bafb3e14",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9b704370-2e5a-4486-9f2d-16a30f3bc684",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2b1432e8-c13e-4ebb-ae86-b1df62acd07a",
+          "type": "column",
+          "children": [
+            {
+              "id": "2205d712-280a-46a5-a918-af05210bab52",
+              "type": "paragraph",
+              "html": "<em><strong>The Psychology of Video Games</strong></em> was written by Celia Hodent, published by Routledge, October 8, 2020."
+            },
+            {
+              "id": "60e0c7a2-e8d7-4118-95dd-0e0126726b1b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a1278227-3ddc-4b2e-be10-9d11e3d54905",
+              "type": "quote",
+              "html": "<em>What impact can video games have on us as players? How does psychology influence video game creation? Why do some games become cultural phenomena?<br><br></em>The Psychology of Video Games<em> introduces the curious reader to the relationship between psychology and video games from the perspective of both game makers and players. Assuming no specialist knowledge, this concise, approachable guide is a starter book for anyone intrigued by what makes video games engaging and what is their psychological impact on gamers. It digests the research exploring the benefits gaming can have on players in relation to education and healthcare, considers the concerns over potential negative impacts such as pathological gaming, and concludes with some ethics considerations.<br><br>With gaming being one of the most popular forms of entertainment today,</em> The Psychology of Video Games<em> shows the importance of understanding the human brain and its mental processes to foster ethical and inclusive video games.</em>"
+            },
+            {
+              "id": "ad0d308c-60b8-402d-ae34-09ca5097e9f4",
+              "type": "alias_link",
+              "targetId": null,
+              "title": "Linked page"
+            },
+            {
+              "id": "64494ac7-685f-4cb3-bb3d-7a3023221fa8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "094577e7-5826-479c-9044-ce3824de8005",
+          "type": "column",
+          "children": [
+            {
+              "id": "0caa110c-e06d-4854-a2ce-50969d791772",
+              "type": "image",
+              "src": "./assets/images/untitled-fb9982411c09.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa302c1b-108b-4ac6-aacc-e2da1f18b708",
+      "type": "divider"
+    },
+    {
+      "id": "dda56626-5e95-4c2e-874d-86e260eba3ce",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1a940082-7a6b-4dd4-a60a-1098c9e0f673",
+          "type": "column",
+          "children": [
+            {
+              "id": "2e5bbede-2695-41cd-8e3e-c52d05b29e08",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "df0fb9e2-04da-4f54-b230-d4bdb2e6c80d",
+          "type": "column",
+          "children": [
+            {
+              "id": "a8d9a83e-9672-4c57-9218-515cd30f4a20",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Psychology-Video-Games-Everything/dp/0367493136/ref=sr_1_1?crid=LQCYNBOHBG3K&amp;keywords=The+Psychology+of+Video+Games&amp;qid=1668446427&amp;s=books&amp;sprefix=the+psychology+of+video+games%2Cstripbooks%2C114&amp;sr=1-1&amp;ufe=app_do%3Aamzn1.fos.fa474cd8-6dfc-4bad-a280-890f5a4e2f90\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b89db478-2268-4def-a44a-8cb063439cf4",
+      "type": "divider"
+    }
+  ]
+}

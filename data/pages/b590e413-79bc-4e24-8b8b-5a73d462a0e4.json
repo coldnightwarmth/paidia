@@ -1,0 +1,131 @@
+{
+  "id": "b590e413-79bc-4e24-8b8b-5a73d462a0e4",
+  "slug": "the-legend-of-zelda-and-philosophy",
+  "title": "The Legend of Zelda & Philosophy",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/b590e41379bc4e248b8b5a73d462a0e4",
+  "createdTime": 1651706847601,
+  "lastEditedTime": 1681313950676,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Legend of Zelda & Philosophy",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-145ae1c7aec0.webp",
+  "blocks": [
+    {
+      "id": "10f64bf0-3750-4961-9bb4-0cf5c0b0589e",
+      "type": "divider"
+    },
+    {
+      "id": "bc77bf9d-5b3a-4a79-bc1d-7bdf3affd01d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b1ce8cf3-ee96-4040-96c8-ad5388957992",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4d9dc040-5e01-44d7-b130-09ee726ab64e",
+          "type": "column",
+          "children": [
+            {
+              "id": "905ffb0b-1783-4dcb-8a4c-f6e53e44067c",
+              "type": "paragraph",
+              "html": "<em><strong>The Legend of Zelda &amp; Philosophy: I Link Therefore I Am</strong></em> is a collection of essays edited by Luke Cuddy, published by Open Court, November 25, 2008."
+            },
+            {
+              "id": "22599d49-2d43-4a09-980c-3cc40a40406f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "50d378b0-e494-4a74-a12f-fd0d32dfc21c",
+              "type": "quote",
+              "html": "<em>With both young and adult gamers as loyal fans, </em>The Legend of Zelda<em> is one of the most beloved video game series ever created. The contributors to this volume consider the following questions and more: What is the nature of the gamer’s connection to Link? Does Link have a will, or do gamers project their wills onto him? How does the gamer experience the game? Do the rules of logic apply in the game world? How is space created and distributed in Hyrule (the fictional land in which the game takes place)? How does time function? Is Zelda art? Can Hyrule be seen as an ideal society? Can the game be enjoyable without winning? </em>The Legend of Zelda &amp; Philosophy<em> not only appeals to </em>Zelda <em>fans and philosophers but also puts video games on the philosophical map as a serious area of study.</em>"
+            },
+            {
+              "id": "66503236-0097-4eac-8d13-7b1ec99ab8ee",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a1e07f74-6c3b-4889-bc8d-e4a9884bb709",
+          "type": "column",
+          "children": [
+            {
+              "id": "d92d29a4-a523-4149-89b3-2931a77b8d4a",
+              "type": "image",
+              "src": "./assets/images/untitled-145ae1c7aec0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d2b0748d-b20e-4d41-a37a-75384922e982",
+      "type": "divider"
+    },
+    {
+      "id": "2b94acea-9018-4017-a174-a761c1ba79ca",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c54f001f-7c6b-451e-b517-45b304aa9a7a",
+          "type": "column",
+          "children": [
+            {
+              "id": "242fab07-df2c-4f48-b8bf-374fa0f8b37f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3fd216a1-c761-440d-8448-ba2f95e07014",
+          "type": "column",
+          "children": [
+            {
+              "id": "617bb06b-ee93-4f2e-a7f4-1ad1a5647ef0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fmEnL0\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f79dd9db-bc79-43f9-b566-6df2f187f36f",
+      "type": "divider"
+    }
+  ]
+}

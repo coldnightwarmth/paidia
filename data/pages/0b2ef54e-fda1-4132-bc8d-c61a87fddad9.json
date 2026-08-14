@@ -1,0 +1,131 @@
+{
+  "id": "0b2ef54e-fda1-4132-bc8d-c61a87fddad9",
+  "slug": "characteristics-of-games",
+  "title": "Characteristics of Games",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Characteristics-of-Games-0b2ef54efda14132bc8dc61a87fddad9?pvs=21",
+  "createdTime": 1651709250494,
+  "lastEditedTime": 1681311387736,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Characteristics of Games"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9ae3d56d7350.webp",
+  "blocks": [
+    {
+      "id": "56805a7a-0f85-4c6b-a460-bac814f6b14d",
+      "type": "divider"
+    },
+    {
+      "id": "db4ba164-b2d5-41db-a2c8-eed2a0e5ec09",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4d819530-b1da-4782-ab65-b0d74ca51cdc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d3a190e0-0445-4d10-a311-8ac3e1a63e1d",
+          "type": "column",
+          "children": [
+            {
+              "id": "0800d8fb-50d2-4531-973c-89193ab72f41",
+              "type": "paragraph",
+              "html": "<em><strong>Characteristics of Games</strong></em> was written by George Skaaf Elias, Richard Garfield, &amp; K. Robert Gutschera, published by The MIT Press August 24, 2012."
+            },
+            {
+              "id": "085cf626-f453-4993-8ba5-68195c8ffbad",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "02258399-9c42-4893-a471-8e34050508ed",
+              "type": "quote",
+              "html": "Characteristics of Games<em> offers a new way to understand games: by focusing on certain traits―including number of players, rules, degrees of luck and skill needed, and reward/effort ratio―and using these characteristics as basic points of comparison and analysis. These issues are often discussed by game players and designers but seldom written about in any formal way. This book fills that gap. By emphasizing these player-centric basic concepts, the book provides a framework for game analysis from the viewpoint of a game designer. The book shows what all genres of games―board games, card games, computer games, and sports―have to teach each other. Today's game designers may find solutions to design problems when they look at classic games that have evolved over years of playing.<br><br></em>Characteristics of Games<em>―written by three of the most prominent game designers working today―will serve as an essential reference for game designers and game players curious about the inner workings of games. It includes exercises (which can also serve as the basis for discussions) and examples chosen from a wide variety of games. There are occasional mathematical digressions, but these can be skipped with no loss of continuity. Appendixes offer supplementary material, including a brief survey of the two main branches of mathematical game theory and a descriptive listing of each game referred to in the text.</em>"
+            },
+            {
+              "id": "ec6dee63-0025-4dfc-a8c0-f7a78dc51d33",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "667702e0-b278-4264-90de-6fe1b8243b3e",
+          "type": "column",
+          "children": [
+            {
+              "id": "780ef1e8-6fa9-403c-ae59-f07d78167239",
+              "type": "image",
+              "src": "./assets/images/untitled-9ae3d56d7350.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "659bd558-460f-499b-993c-cadf3f66177e",
+      "type": "divider"
+    },
+    {
+      "id": "d0a63c4d-1c74-42a7-b8d7-adf2c647f4f2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d6d778c8-f930-4c77-b8ee-2812a8d5632a",
+          "type": "column",
+          "children": [
+            {
+              "id": "5951c53c-ad2f-4971-93d9-ca570f76d76f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c8dc5838-093d-4370-a557-49057ca1415f",
+          "type": "column",
+          "children": [
+            {
+              "id": "e0cb19ff-0e50-4554-9cca-45eb8e2b99fc",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/38JDHw7\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f093697-c3c4-4fe3-8c19-de9dd733de46",
+      "type": "divider"
+    },
+    {
+      "id": "9d906933-faae-4159-8840-12956174e6a8",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

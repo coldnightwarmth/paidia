@@ -1,0 +1,105 @@
+{
+  "id": "f8a61d16-ef23-4a6f-b1b4-fb8fc0673e1d",
+  "slug": "mark-j-p-wolf",
+  "title": "Mark J.P. Wolf",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "350879b3-a25b-4db5-8dae-34d54f50d8e6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/f8a61d16ef234a6fb1b4fb8fc0673e1d",
+  "createdTime": 1673987969844,
+  "lastEditedTime": 1681329091912,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Mark J.P. Wolf"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/markwolf-7944-2-48027b2ff802.webp",
+  "blocks": [
+    {
+      "id": "64fb8845-d3be-4ead-acc3-5e4f7bb9ff54",
+      "type": "divider"
+    },
+    {
+      "id": "bdba4153-332a-4217-8e7d-9ea30ef77d3e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b633a01e-9a4b-45ed-baa1-e1865ec31e3a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "eccbc3f2-f51f-4636-b92b-0e07715f3751",
+          "type": "column",
+          "children": [
+            {
+              "id": "97395b1c-ff2b-47a9-b28c-1bb4c57977ea",
+              "type": "paragraph",
+              "html": "<strong>Mark J.P. Wolf  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "4967f342-d9db-419d-a5f4-55c9d9d17bdd",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "cc24a625-f84a-48a1-b420-2fc7808f8fb1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3bf550df-200a-4c6d-a20f-39aea030905e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0cb49997-edb7-412a-92c8-17fde5ce6721",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7cdd3fdf-7c47-4eec-8ab8-fb54375f0ed3",
+          "type": "column",
+          "children": [
+            {
+              "id": "7ca69b10-1b3b-4686-850f-c6bfcaade402",
+              "type": "image",
+              "src": "./assets/images/markwolf-7944-2-48027b2ff802.webp",
+              "caption": "",
+              "alt": "MarkWolf-7944-2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cda7770c-cc1d-4523-8f45-a66649eb9365",
+      "type": "divider"
+    },
+    {
+      "id": "284e8832-e8b0-4e8f-85a9-2d5c9a1ef8a5",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "b991f1bb-5222-44e5-929a-a3e4fed1d74e",
+      "type": "paragraph",
+      "html": "<a href=\"#/world-builders-on-world-building\">World-Builders on World-Building</a> (2021) (<em><em><em><em>book</em></em></em></em>)"
+    }
+  ]
+}

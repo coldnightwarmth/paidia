@@ -1,0 +1,225 @@
+{
+  "id": "2a4c4f77-c131-435e-8d64-6ee3615277a4",
+  "slug": "feature-template",
+  "title": "Feature template",
+  "icon": "💖",
+  "cover": "",
+  "type": "page",
+  "parentId": "01323835-74dd-4c2d-bff5-d14e3a90761c",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/2a4c4f77c131435e8d646ee3615277a4",
+  "createdTime": 1645269230764,
+  "lastEditedTime": 1673378160081,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Feature template"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "79b38d23-865f-43b9-b5bf-30b045cb924e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "32313075-bb90-41b1-853c-d832378db393",
+          "type": "column",
+          "children": [
+            {
+              "id": "b38c4567-1f35-4415-a433-744687309dfd",
+              "type": "callout",
+              "html": "<strong>Design owner<br></strong>Name of designer",
+              "icon": "🎲",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f3bd8672-e3ec-419c-9c30-291a4b246e74",
+          "type": "column",
+          "children": [
+            {
+              "id": "9b3a9a62-59a9-4b19-9ad1-c5885d0896e1",
+              "type": "callout",
+              "html": "<strong>Tech owner<br></strong>Name of engineer",
+              "icon": "🔧",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "14cbdd21-2f27-4233-a011-ae98443de17d",
+          "type": "column",
+          "children": [
+            {
+              "id": "e9f6a022-22b4-473a-9cf0-879e564f0cb0",
+              "type": "callout",
+              "html": "<strong>Status</strong><br>WIP/in review/etc.",
+              "icon": "⌛",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0cb27502-bcf5-42ff-8144-f9d73ccc5058",
+      "type": "header",
+      "html": "Context",
+      "anchorId": "context"
+    },
+    {
+      "id": "6905651b-8607-40bf-a576-ff2ee6130700",
+      "type": "paragraph",
+      "html": "Write a sentence or two about why this feature is necessary and how it came to be."
+    },
+    {
+      "id": "4f26ab84-339a-48c1-b5e6-418ed227ac09",
+      "type": "subheader",
+      "html": "Hypothesis",
+      "anchorId": "hypothesis"
+    },
+    {
+      "id": "1e9d9e1d-9328-4822-a02c-e339e813e996",
+      "type": "paragraph",
+      "html": "What is the impact this feature is going to have on the player? How does it link to your design pillars?"
+    },
+    {
+      "id": "dee20d7e-c7e8-4a8e-a167-a16754eb1067",
+      "type": "subheader",
+      "html": "Measuring success",
+      "anchorId": "measuring-success"
+    },
+    {
+      "id": "f21003fc-e524-45f7-a6ec-be978be12352",
+      "type": "paragraph",
+      "html": "Write down how you are going to test that this feature works. What metrics are you looking out for (if you’re using analytics)? What behaviour are you expecting (if you’re doing playtesting)?"
+    },
+    {
+      "id": "ed0167a0-6974-4415-9657-44bad88d4905",
+      "type": "header",
+      "html": "Design",
+      "anchorId": "design"
+    },
+    {
+      "id": "33aef686-6b48-4afa-a716-dbd2cee83e95",
+      "type": "subheader",
+      "html": "Summary",
+      "anchorId": "summary"
+    },
+    {
+      "id": "bdee89ba-d79c-4e0a-8cca-76b8656f450c",
+      "type": "paragraph",
+      "html": "Write down a summary of how the feature works. Include images or sketches if you have any."
+    },
+    {
+      "id": "a1aae278-4828-4b9e-883c-6673aeea9e20",
+      "type": "subheader",
+      "html": "User journey",
+      "anchorId": "user-journey"
+    },
+    {
+      "id": "e029ae69-72e3-4e3b-932f-17a9196b87e7",
+      "type": "paragraph",
+      "html": "Sketch out screens of what the player will see and do, step by step."
+    },
+    {
+      "id": "60889898-3063-4a8d-ab59-add877273994",
+      "type": "subheader",
+      "html": "Flow",
+      "anchorId": "flow"
+    },
+    {
+      "id": "ff4528fa-c43e-4e18-bdde-14d76f97d512",
+      "type": "paragraph",
+      "html": "Create a flow diagram of how the feature works."
+    },
+    {
+      "id": "5dc44cfe-1708-4ffa-9975-2a047c7c9856",
+      "type": "subheader",
+      "html": "Values",
+      "anchorId": "values"
+    },
+    {
+      "id": "6cf92edb-d585-4d2b-95e9-fd996bae0f06",
+      "type": "paragraph",
+      "html": "If this is a feature that has values attached to it then define them here."
+    },
+    {
+      "id": "1e97a4a3-41ea-4328-b24c-a9bb110c9e0c",
+      "type": "paragraph",
+      "html": "Add a link to your <a href=\"https://machinations.io/\" target=\"_blank\" rel=\"noreferrer\">machinations</a> diagram if you have one."
+    },
+    {
+      "id": "23b61835-80e8-4c12-9b1e-e42142366f13",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e5c00ae0-c4cd-4e8c-a1db-72bbdb292a63",
+      "type": "paragraph",
+      "html": "For example:"
+    },
+    {
+      "id": "c5b3e82f-131e-4b3f-95c6-d9032ca23c91",
+      "type": "collection_view",
+      "collectionId": "e3c1010d-5575-4b4b-b08c-47166ed03e15",
+      "viewIds": [
+        "4fda3183-df4e-405e-a449-2e3c1708ecc0"
+      ],
+      "title": ""
+    },
+    {
+      "id": "dd0a2939-5f38-42cf-8b5e-d3953390eae8",
+      "type": "subheader",
+      "html": "Edge cases",
+      "anchorId": "edge-cases"
+    },
+    {
+      "id": "c2076d59-0871-4e99-9995-3abce8f9a959",
+      "type": "paragraph",
+      "html": "Are there any situations where this feature needs to behave a little bit differently?"
+    },
+    {
+      "id": "1ed55d94-b6cb-4c74-bac0-dd824c92a1e5",
+      "type": "header",
+      "html": "Research and testing",
+      "anchorId": "research-and-testing"
+    },
+    {
+      "id": "5b8a8099-6482-4c79-8d84-53fbb11442ee",
+      "type": "paragraph",
+      "html": "How are you going to test this feature at different stages of development?"
+    },
+    {
+      "id": "428109a9-6543-4466-bb0c-8ae46d5980ff",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2798e461-d8e2-430c-97a0-76d39ddb1892",
+      "type": "paragraph",
+      "html": "For example:"
+    },
+    {
+      "id": "f46f61cf-099b-4d9b-bdda-ffa75677f0be",
+      "type": "collection_view",
+      "collectionId": "3a8b1021-ca08-45c0-84ad-9c6276bccdb5",
+      "viewIds": [
+        "8e86ab5d-43b8-44f6-ba02-26cd5c737c2c"
+      ],
+      "title": ""
+    },
+    {
+      "id": "638f92df-383d-450e-9167-2b4b3f213e59",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

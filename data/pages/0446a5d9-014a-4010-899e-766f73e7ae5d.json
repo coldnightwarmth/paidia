@@ -1,0 +1,131 @@
+{
+  "id": "0446a5d9-014a-4010-899e-766f73e7ae5d",
+  "slug": "the-kingdom-of-childhood",
+  "title": "The Kingdom of Childhood",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Kingdom-of-Childhood-0446a5d9014a4010899e766f73e7ae5d?pvs=21",
+  "createdTime": 1659568404565,
+  "lastEditedTime": 1681313078570,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Kingdom of Childhood",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9da858433b64.webp",
+  "blocks": [
+    {
+      "id": "ffe184c2-9693-49a1-b8a1-17631eed9178",
+      "type": "divider"
+    },
+    {
+      "id": "1f8b2715-143f-4450-85df-a21cf2df0609",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0455b5b7-5831-4a41-a50a-fc02ef914625",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e80ab8a9-cb63-41b9-8073-66a8320f3c79",
+          "type": "column",
+          "children": [
+            {
+              "id": "72578ea3-e328-48ea-bfff-4718851e0ad7",
+              "type": "paragraph",
+              "html": "<em><strong><strong>The Kingdom of Childhood: Introductory Talks on Waldorf Education</strong></strong></em><em> </em>was written by Rudolf Steiner, originally published by Rudolf Steiner Press, 1949."
+            },
+            {
+              "id": "1b15dc97-637c-4255-b19d-8002733e75be",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ad088081-c1c1-415c-bb92-1fb53363f1cd",
+              "type": "quote",
+              "html": "<em>Perhaps because they were given to pioneers dedicated to opening a new Waldorf school, these talks have been considered one of the best introductions to Waldorf education. Steiner shows how essential it is for teachers to work first upon themselves to transfrom their inherent gifts, and to use humour to keep their teaching lively and imaginative. Above all, he stresses the tremendous importance of doing everything with the knowledge that the child is a citizen of both the spiritual and earthly worlds. Throughout, he returns to the practical value of Waldorf education.</em>"
+            },
+            {
+              "id": "6b928b11-b0ba-4834-8b2b-e43b2beef67d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "47e1b44a-1d96-41d7-bd1a-6ae6fa1b83c6",
+          "type": "column",
+          "children": [
+            {
+              "id": "e4291a0e-aabc-460a-867e-676888fbf5db",
+              "type": "image",
+              "src": "./assets/images/untitled-9da858433b64.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06d25761-f5ea-4e16-8e5c-48a730a3ccbc",
+      "type": "divider"
+    },
+    {
+      "id": "bab7cfce-5455-4df6-866e-771a5f1f2198",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7bcbe609-916d-43c0-b2e4-740e80c25648",
+          "type": "column",
+          "children": [
+            {
+              "id": "5e91e53f-b7f7-4ed3-b4e6-847d4297acd1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "161322f2-bf7c-42d4-9764-a05ec1fecb9f",
+          "type": "column",
+          "children": [
+            {
+              "id": "36416164-0e2b-4d68-b58b-2ed170f44f8e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3oQGfg3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b86e79be-9f6e-42d0-8051-a8ab5c29194e",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "cda18c14-91d7-4dbf-abc3-277675074bc0",
+  "slug": "the-glass-bead-game",
+  "title": "The Glass Bead Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/cda18c1491d74dbfabc3277675074bc0",
+  "createdTime": 1665084403476,
+  "lastEditedTime": 1681312907440,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Glass Bead Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-84a8a536d3bb.webp",
+  "blocks": [
+    {
+      "id": "b97690c8-033e-4f2c-9d54-c412fbd0b499",
+      "type": "divider"
+    },
+    {
+      "id": "0c363a35-b5d5-49cd-82fd-4b3fae1ab3e5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "043f2231-4f66-44e2-8bf3-1ec73d970dbe",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dc85a96b-60a1-4938-b5b9-4356273e2db7",
+          "type": "column",
+          "children": [
+            {
+              "id": "8d4d172d-b108-46fe-849a-ea19a8d68b25",
+              "type": "paragraph",
+              "html": "<em><strong>The Glass Bead Game</strong></em> was written by Paul Pilkington, published in three parts (Part 1: <em>A Basic Form of Play, Genealogy, &amp; Examples</em>, Part 2: <em>Mercury &amp; Hazel</em>, &amp; Part 3: <em>Wardancing</em>) by Abime Publications, April 4, 2011."
+            },
+            {
+              "id": "b37f41d6-81d4-4317-a89d-27837edd325c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "912be567-a805-4821-a4d3-00de949e6318",
+              "type": "quote",
+              "html": "<em>n 1943, </em><a href=\"#/hermann-hesse\"><em>Hermann Hesse</em></a><em> published his novel </em><a href=\"#/ludi-magister\">Das Glasperlenspiel (The Glass Bead Game)</a><em>. The game itself is a central theme of the novel. He gave only a sketch of how it might be played in practice, but made it clear that it is a game of comparisons and analogies across different subject areas, in the tradition of Pythagoras, Lull, Kepler, Kircher and others who searched for the unifying principles of all knowledge. The history of the development of the game in the novel demonstrates a direct analogy with the history of mathematics in the seventeenth century, as shaped by mathematicians with a deep interest in music theory. Paul Pilkington has brought the Glass Bead Game to life in an ongoing series of books. His version of the Glass Bead Game can be played at many levels of complexity. Its moves can be deeply technical, or conversationally playful. A move in a game about music and astronomy might ask: If the solar year in astronomy is like the octave in music, what is the equivalent of a lunar month in music? A more playful game about music and fashion asks: If Alexander McQueen is the Jimi Hendrix of fashion, what is his Purple Haze? Another asks: Who is the Napoleon of football, and what was his Waterloo? A more intimate game enquires: Where is your Ithaca? This third volume explores connections between war, poetry, dance and cookery from before the dawn of man to the present day, through ideas of rhythm, order and what makes us human. There are two other volumes currently available, and a forthcoming volume will collect notable examples of glass bead game moves from literature, the media, and other diverse sources, and will put into play a range of opening gambits intended to inspire further exploration and elaboration of the form by others, especially in more informal contexts. Paul is sharing the ongoing work at his Twitter account @JustKnecht. Playfully using the language of the game itself: in bringing the concept of the dreamer into reality, these volumes do for </em>Glasperlenspiel<em> what </em><a href=\"#/videogames-and-the-gothic\"><em>Gothic</em></a><em> architecture did for the light-drenched </em>Enneads<em> of Plotinus, what the Bolshevik revolution did for </em>Capital <em>by Marx, and what the World Wide Web did for </em>Neuromancer<em> by Gibson.</em>"
+            },
+            {
+              "id": "34cf70c0-d2dd-4b42-8e3a-f2b62cd7dda3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "72a5f09c-4a3a-434b-bda0-bf988355f2c1",
+          "type": "column",
+          "children": [
+            {
+              "id": "1e023b06-5d9a-40b5-8d4a-7032484de2fc",
+              "type": "image",
+              "src": "./assets/images/untitled-84a8a536d3bb.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "981a9bf0-9137-459e-af5b-c8b031f36e64",
+      "type": "divider"
+    },
+    {
+      "id": "5ce8cc71-8d5b-41d7-95bc-a7394087535f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4d77e104-6bee-4515-902c-ac2477c76975",
+          "type": "column",
+          "children": [
+            {
+              "id": "b6b1a867-2ac4-40b2-9390-34277e274830",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2bdf8d6b-91d5-400c-8e2e-1f6be6364b74",
+          "type": "column",
+          "children": [
+            {
+              "id": "7950b1f5-08fe-457f-8271-c07e5a4bd13e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3T0Ijz7\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06f71345-e868-4d28-b3ff-73004183afad",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "2800982f-6c6d-4017-b9a5-b4c08c85c3c3",
+  "slug": "playing-at-the-world",
+  "title": "Playing at the World",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Playing-at-the-World-2800982f6c6d4017b9a5b4c08c85c3c3?pvs=21",
+  "createdTime": 1651696592142,
+  "lastEditedTime": 1681313846322,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playing at the World"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-acbf15d65e8b.webp",
+  "blocks": [
+    {
+      "id": "37b6cfaf-ee6e-4686-a2b9-0489c656424a",
+      "type": "divider"
+    },
+    {
+      "id": "0bd39d89-7e58-46f2-b2ec-3b0449e2c2aa",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cff2687f-ca35-4356-9906-546b3601f7e7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "faba7ebe-ce58-4598-9a74-941942c688cc",
+          "type": "column",
+          "children": [
+            {
+              "id": "13c2cc58-90de-4029-b033-2f021ed14199",
+              "type": "paragraph",
+              "html": "<em><strong>Playing at the World: A History of Simulating Wars, People &amp;  Fantastic Adventures, from Chess to Role-Playing Games</strong></em> was written by Jon Peterson, published by Unreason Press in 2012."
+            },
+            {
+              "id": "8232179e-94d3-4e5a-80e3-fe8559e1ee46",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0e8d7c73-95e6-4041-a22a-d9b095e09533",
+              "type": "quote",
+              "html": "<em>Explore the conceptual origins of wargames and role-playing games in this unprecedented history of simulating the real and the impossible. From a vast survey of primary sources ranging from eighteenth-century strategists to modern hobbyists, Playing at the World distills the story of how gamers first decided fictional battles with boards and dice, and how they moved from simulating wars to simulating people. The invention of role-playing games serves as a touchstone for exploring the ways that the literary concept of character, the lure of fantastic adventure and the principles of gaming combined into the signature cultural innovation of the late twentieth century.</em>"
+            },
+            {
+              "id": "e0b84bb8-40a7-4af6-81fd-1424a37a1710",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "07a44829-9309-406a-9e25-1b061c3d27f5",
+          "type": "column",
+          "children": [
+            {
+              "id": "48e3a30c-bdfa-41af-9009-fcf7f51935b1",
+              "type": "image",
+              "src": "./assets/images/untitled-acbf15d65e8b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1a6688a-1092-49dd-bb1c-4df5844f01fd",
+      "type": "divider"
+    },
+    {
+      "id": "d5a3c24c-b638-4b6f-889c-d51adf57582e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "48554a9c-e90a-4bc4-a440-cf2459bea51f",
+          "type": "column",
+          "children": [
+            {
+              "id": "3c863a0b-6a02-4995-bd66-385653fc71b1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "025ce16a-27a2-4e63-a0f8-f509df2a8d5b",
+          "type": "column",
+          "children": [
+            {
+              "id": "e129c688-20c8-4ae1-98c9-874bcb05f9a2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SMqqUU\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c11a85a-783f-45b7-a644-2d8f4a5be59b",
+      "type": "divider"
+    }
+  ]
+}

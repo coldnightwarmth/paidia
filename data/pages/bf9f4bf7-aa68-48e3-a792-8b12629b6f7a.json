@@ -1,0 +1,131 @@
+{
+  "id": "bf9f4bf7-aa68-48e3-a792-8b12629b6f7a",
+  "slug": "the-history-of-nintendo-1980-1991",
+  "title": "The History of Nintendo 1980-1991",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/bf9f4bf7aa6848e3a7928b12629b6f7a",
+  "createdTime": 1673371914677,
+  "lastEditedTime": 1681312096137,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The History of Nintendo 1980-1991",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-473f54fa47d3.webp",
+  "blocks": [
+    {
+      "id": "2a98eadc-bec8-4ce0-b932-8b2d45355282",
+      "type": "divider"
+    },
+    {
+      "id": "a2b4a5c9-6d31-4263-b4e9-2a5d389c926e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a2a590a6-63d4-4fe4-9473-0bb5b718145f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cee70e4d-f836-49ef-8f12-dfee5d2e43f3",
+          "type": "column",
+          "children": [
+            {
+              "id": "49977481-463b-44a1-b0f2-66baeeb89861",
+              "type": "paragraph",
+              "html": "<em><strong>The History of Nintendo 1980-1991</strong></em> was written by Florent Gorges, published by Les Editions Pix'N Love, November 20, 2012."
+            },
+            {
+              "id": "60dc936e-7c01-4a7e-99e7-e536a6bc920e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "13538de6-d5fd-4e3a-bc59-e0f0a769b8c6",
+              "type": "quote",
+              "html": "<em>The second volume of </em>The History of Nintendo<em> is dedicated entirely to the fabulous </em>Game &amp; Watch<em> games, a famous line of electronic LCD games which was very popular in the early 80's. You'll find the detailed and exclusive chronicles of how this invention, which revolutionized the whole entertainment industry, came to be. You'll also uncover the difficulties encountered during their development, the secrets behind this new concept at the time, and dozens of unexpected documents.</em>"
+            },
+            {
+              "id": "aefa1acf-0ba7-446c-a60e-1670a0253ba1",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "9274e222-1617-4206-bb78-d2aa668a7757",
+          "type": "column",
+          "children": [
+            {
+              "id": "479cee47-5f48-41a4-824f-2dcb2bb823ef",
+              "type": "image",
+              "src": "./assets/images/untitled-473f54fa47d3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "346e8c8a-7298-456c-817e-790ade11576b",
+      "type": "divider"
+    },
+    {
+      "id": "4b3cebd1-77a8-47ca-b6ed-bc0872746ca8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9a64a67a-d574-474b-8a22-2607ea7812b7",
+          "type": "column",
+          "children": [
+            {
+              "id": "e8230543-f082-4842-87a3-078b50e9a221",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "89c5ddff-f182-4a5e-aa4c-69876f5a82a8",
+          "type": "column",
+          "children": [
+            {
+              "id": "28cb6068-e88f-4876-b4ee-3d8dcd3cd7ec",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/History-Nintendo-1980-1991-Florent-Gorges/dp/2918272353\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9e2af1a-0577-4adc-8a54-b7f9090b0b48",
+      "type": "divider"
+    }
+  ]
+}

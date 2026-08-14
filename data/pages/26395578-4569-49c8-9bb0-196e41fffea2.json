@@ -1,0 +1,126 @@
+{
+  "id": "26395578-4569-49c8-9bb0-196e41fffea2",
+  "slug": "digital-play",
+  "title": "Digital Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Digital-Play-26395578456949c89bb0196e41fffea2?pvs=21",
+  "createdTime": 1651684360976,
+  "lastEditedTime": 1681314227730,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Digital Play"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ecf047ae364b.webp",
+  "blocks": [
+    {
+      "id": "6a7b62f3-23c2-40bd-9825-69d4b27e88db",
+      "type": "divider"
+    },
+    {
+      "id": "bba10817-d305-45be-a9a6-04311d400f39",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ab148640-7264-4c69-828b-54dbc6040ad0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "394bef0e-d1c5-4100-9905-84a65489f751",
+          "type": "column",
+          "children": [
+            {
+              "id": "d5575201-a484-4af2-935b-aa973d7a302d",
+              "type": "paragraph",
+              "html": "<em><strong>Digital Play: The Interaction of Technology, Culture, &amp; Marketing </strong></em>was written by Stephen Kline, Nick Dyer-Witherford, Greig de Pueter, published by McGill-Queen's University Press, May 26, 2003."
+            },
+            {
+              "id": "b0451c9c-3677-4210-b5e3-d601e3de5c22",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7de4e6f2-4a6c-490a-9af5-afd94b426434",
+              "type": "quote",
+              "html": "<em>Digital Play offers a critical analysis of interactive media. Inspired by the work of Raymond Williams, the book traces the development of video gaming from its humble origins in hacker circles to its current status as a $20 billion global cultural industry. Stephen Kline, Nick Dyer-Witheford, and Greig de Peuter systematically debunk cyber-guru optimism about globally networked digital communications by analysing the management practices of the corporations that designed and marketed video games to youthful audiences. They reveal that the ascent of this new communications industry has been anything but smooth and inevitable. From Atari to Microsoft, Space Invaders to The Sims, the authors uncover the successive crises that forced game makers, faced with constant instabilities in the global entertainment sector, to become increasingly innovative. </em>"
+            },
+            {
+              "id": "569c5504-ce9a-4174-bfe9-31460b23189a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "90a00ca4-404f-4c97-8ada-7c889057bb42",
+          "type": "column",
+          "children": [
+            {
+              "id": "ba730a60-ef01-4724-817c-665936f79100",
+              "type": "image",
+              "src": "./assets/images/untitled-ecf047ae364b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71067b4c-1c0e-4545-a60d-fae32303d2d3",
+      "type": "divider"
+    },
+    {
+      "id": "3601ca9d-a8fd-4821-9016-8b6832ab9e0c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b3bbac41-9f57-46de-8ab6-f158fd230234",
+          "type": "column",
+          "children": [
+            {
+              "id": "e0375229-c7d7-437b-bf0c-92ead5597451",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "45cc7272-a4d2-48ab-af83-a32db5c6a01c",
+          "type": "column",
+          "children": [
+            {
+              "id": "d57dec9a-785a-478f-93d4-40563396dee7",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xRseD2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "df43c6d0-630f-43a2-8eb7-05bb866f68b0",
+      "type": "divider"
+    }
+  ]
+}

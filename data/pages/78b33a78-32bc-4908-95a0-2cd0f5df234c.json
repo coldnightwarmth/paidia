@@ -1,0 +1,131 @@
+{
+  "id": "78b33a78-32bc-4908-95a0-2cd0f5df234c",
+  "slug": "unlimited-replays",
+  "title": "Unlimited Replays",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Unlimited-Replays-78b33a7832bc490895a02cd0f5df234c?pvs=21",
+  "createdTime": 1657306580200,
+  "lastEditedTime": 1681314196700,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Unlimited Replays",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9881ae45a180.webp",
+  "blocks": [
+    {
+      "id": "e2bc6f1a-dd90-4ac6-8ef7-ce4599dead90",
+      "type": "divider"
+    },
+    {
+      "id": "d2fd6141-e8a2-4933-9232-57dfae5d34d7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4408e059-1812-48fb-a8aa-38bcb70eb3d0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "de619e73-312f-4391-994f-99519baa1603",
+          "type": "column",
+          "children": [
+            {
+              "id": "f39d9570-6804-4af6-8d02-6eef032656f6",
+              "type": "paragraph",
+              "html": "<em><strong>Unlimited Replays: Video Games &amp; Classical Music</strong></em> was written by William Gibbons, published by Oxford University Press, May 1, 2018."
+            },
+            {
+              "id": "5951b65d-0f36-4d88-87ec-319f1c7f4dfc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "bd753dae-a180-4844-b021-b7bb584e213d",
+              "type": "quote",
+              "html": "<em>Classical music is everywhere in video games. Works by composers like Bach and Mozart fill the soundtracks of games ranging from arcade classics, to indie titles, to major franchises like </em>BioShock, Civilization<em>, and </em>Fallout<em>. Children can learn about classical works and their histories from interactive iPad games. World-renowned classical orchestras frequently perform concerts of game music to sold-out audiences. But what do such combinations of art and entertainment reveal about the cultural value we place on these media? Can classical music ever be video game music, and can game music ever be classical? Delving into the shifting and often contradictory cultural definitions that emerge when classical music meets video games, </em>Unlimited Replays<em> offers a new perspective on the possibilities and challenges of trying to distinguish between art and pop culture in contemporary society.</em>"
+            },
+            {
+              "id": "ed1591d3-29d7-4f8d-8b8b-38331df0fffe",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5b792618-cfa3-4a1f-a203-000efddd04d7",
+          "type": "column",
+          "children": [
+            {
+              "id": "0aeea21d-aa45-46d7-8b6c-afd66f59b05f",
+              "type": "image",
+              "src": "./assets/images/untitled-9881ae45a180.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e3fbc416-d4e0-4101-9514-a438ca07ef44",
+      "type": "divider"
+    },
+    {
+      "id": "6f45ee46-03b9-4350-a414-d2824d4953aa",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5ee8099c-13c3-4091-824f-cfb1314fabb7",
+          "type": "column",
+          "children": [
+            {
+              "id": "df0f7bba-e2ab-4fb3-b9b0-27aa18b4d26f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "129322b7-b0c2-49ee-951d-aa1e42700e42",
+          "type": "column",
+          "children": [
+            {
+              "id": "3b4c0fdd-cb44-4c91-8c00-4386bf9e3c18",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3uzKHmF\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "557e0ac4-76d3-4f38-9cef-7ac05b017446",
+      "type": "divider"
+    }
+  ]
+}

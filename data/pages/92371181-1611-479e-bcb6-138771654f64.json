@@ -1,0 +1,131 @@
+{
+  "id": "92371181-1611-479e-bcb6-138771654f64",
+  "slug": "gaming-as-art",
+  "title": "Gaming as Art",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Gaming-as-Art-923711811611479ebcb6138771654f64?pvs=21",
+  "createdTime": 1654843814319,
+  "lastEditedTime": 1681313566381,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gaming as Art",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9b3fda445ede.webp",
+  "blocks": [
+    {
+      "id": "1c7e349c-6e08-4c45-af39-39cdedb9d629",
+      "type": "divider"
+    },
+    {
+      "id": "88b88408-2d0b-4d48-8bbb-6cfd643eafff",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "05e966e3-40f9-4693-89ec-610f5a3512f6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9dd5ab9d-24d0-4093-8ed8-4a30b3f17e1c",
+          "type": "column",
+          "children": [
+            {
+              "id": "624800c6-06bb-4c08-8ca6-97bd06651c68",
+              "type": "paragraph",
+              "html": "<em><strong>Gaming as Art: A Communication-Oriented Perspective on the Relationship between Gaming &amp; the Art</strong></em> was written by Frank G. Bosman &amp; Archibald L.H.M. van Wieringen, published by De Gruyter Oldenbourg, November 13, 2022."
+            },
+            {
+              "id": "d160646b-0d9f-419e-919b-01659227880a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "06cfc0ab-3a92-4651-bb6a-4b3744827a14",
+              "type": "quote",
+              "html": "<em>Video games are a relative late arrival on the cultural stage. While the academic discipline of game studies has evolved quickly since the nineties of the last century, the academia is only beginning to grasp the intellectual, philosophical, aesthetical, and existential potency of the new medium. The same applies to the question whether video games are (or are not) art in and on themselves. Based on the Communication-Oriented Analysis, the authors assess the plausibility of games-as-art and define the domains associted with this question.</em>"
+            }
+          ]
+        },
+        {
+          "id": "d44766a4-428f-458e-a26d-37554f7dce5d",
+          "type": "column",
+          "children": [
+            {
+              "id": "0e8f35da-a537-4b83-aed1-0134145555c4",
+              "type": "image",
+              "src": "./assets/images/untitled-9b3fda445ede.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e0e4a82e-5f15-4569-a442-5aab9ad17e36",
+      "type": "divider"
+    },
+    {
+      "id": "b0d37d2c-a2b2-4dc7-b009-a25adbaa8c15",
+      "type": "columns",
+      "children": [
+        {
+          "id": "06ec4223-84ea-4a5e-8ccd-f874755d485f",
+          "type": "column",
+          "children": [
+            {
+              "id": "0dfa579a-0b1e-4f28-892a-bcaf504fc622",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7bae8413-25ac-4380-95aa-05b684e8c95d",
+          "type": "column",
+          "children": [
+            {
+              "id": "b62fbd52-1880-45b6-aba1-227ab5fe044b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3HdQbJe\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5a5ed7d-8a1e-4ee9-9958-5468a4276bd4",
+      "type": "divider"
+    },
+    {
+      "id": "716b1940-3890-4e79-b272-9dfef30a9dcc",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

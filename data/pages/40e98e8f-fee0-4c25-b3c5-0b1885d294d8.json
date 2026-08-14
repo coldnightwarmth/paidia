@@ -1,0 +1,136 @@
+{
+  "id": "40e98e8f-fee0-4c25-b3c5-0b1885d294d8",
+  "slug": "the-olympic-games",
+  "title": "The Olympic Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2f2b48d3-00ef-46fe-b6f4-4b813ad7bd6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/40e98e8ffee04c25b3c50b1885d294d8",
+  "createdTime": 1651709967359,
+  "lastEditedTime": 1681313820725,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Olympic Games"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9518453cac2f.webp",
+  "blocks": [
+    {
+      "id": "62c2c217-4069-44ce-9e0b-c522e3c9ba1f",
+      "type": "divider"
+    },
+    {
+      "id": "88c36e90-fb0f-4288-a272-27bf25c99d23",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b60d7b99-4131-4723-b02f-020af2ef7ee6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b064346c-ca52-4b87-b731-097b283ab890",
+          "type": "column",
+          "children": [
+            {
+              "id": "71191531-01d9-42a1-a043-de923ee6c09a",
+              "type": "paragraph",
+              "html": "<em><strong>The Olympic Games: The First Thousand Years</strong></em> was written by M. I. Finley &amp; H. W. Pleket, originally published in 1968."
+            },
+            {
+              "id": "62cb0b1b-c637-49d5-8146-14b36d823f36",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4c4ed3dd-970d-4433-a475-e42e78277ef4",
+              "type": "quote",
+              "html": "<em>A definitive survey of the Olympic games, from 776 B.C. to A.D. 261, this scholarly, yet immensely readable account of Olympic athletes in ancient times takes a highly realistic view of these fabled contests. Transporting readers back to the eighth century b.c., Professor M. I. Finley and Dr. H. W. Pleket draw upon their extensive knowledge of the ancient world to explain in absorbing detail the various sporting events and their historical, social, and religious context. They also detail the similarities and differences between ancient and modern games.<br><br>Through their examination of ancient documents, the authors conclude that today's audiences would be astonished by the brutality exhibited in many of the Olympic events. The ferocity of boxing and wrestling matches, for example, is unparalleled in modern games. No event today could match the spectacle or excitement of the four-horse chariot races in which thirty to forty teams competed. Of special interest were the demands made by the victors, who expected, insisted upon, and procured material rewards for their victories, regardless of class or personal fortune.<br><br>Richly illustrated with rare artwork, this authoritative account of one thousand years of early Olympic history will appeal not only to classical scholars but to all those interested in sports and athletic events.</em>"
+            },
+            {
+              "id": "581684a5-359a-459e-998c-5b1ca2665882",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "64bcade5-34f9-4cc5-8411-dc51580a6de8",
+          "type": "column",
+          "children": [
+            {
+              "id": "71188fa2-0b8c-4b76-947a-9d5894b0d552",
+              "type": "image",
+              "src": "./assets/images/untitled-9518453cac2f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9457473-e014-4fd5-a63f-aa7e34fcfbc0",
+      "type": "divider"
+    },
+    {
+      "id": "bc881d5a-2e99-44b5-bc42-233ffd6daddc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "57f60796-ddec-45ee-bc46-13bdb8c857cb",
+          "type": "column",
+          "children": [
+            {
+              "id": "6e0860fb-ac86-4961-b679-f3ea79a1d991",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "185db429-2548-47af-97c2-71f0d2fc6861",
+          "type": "column",
+          "children": [
+            {
+              "id": "d372b43f-c519-4362-9f94-5ce1e6b08d85",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OrW33Q\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7180a87-3a1d-442f-8964-f8f61ca431b2",
+      "type": "divider"
+    },
+    {
+      "id": "84a77187-5ab0-448c-afa7-70ebc3a481a0",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "8840085a-bf57-4121-b6bd-7e0f65680283",
+      "type": "paragraph",
+      "html": "<a href=\"#/every-videogame-theme-featured-in-the-tokyo-2020-olympics-opening-ceremony\">Every Videogame Theme Featured in the Tokyo 2020 Olympics Opening Ceremony</a> (<em>playlist</em>)"
+    }
+  ]
+}

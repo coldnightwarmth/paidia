@@ -1,0 +1,131 @@
+{
+  "id": "56d5ce0e-fcbf-483e-8192-927f33725694",
+  "slug": "kaboom",
+  "title": "KaBOOM!",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/KaBOOM-56d5ce0efcbf483e8192927f33725694?pvs=21",
+  "createdTime": 1659567697767,
+  "lastEditedTime": 1681313082603,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "KaBOOM!",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0bb122167212.webp",
+  "blocks": [
+    {
+      "id": "48da902b-52d9-4bfa-b230-3096d595e146",
+      "type": "divider"
+    },
+    {
+      "id": "aa349865-e37b-43fe-aca8-e2291058a59c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cf08288e-a7e6-47d3-a790-d6a62e7bb4b2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c3e9e2a9-62f9-45ff-8a32-53fe4a903d27",
+          "type": "column",
+          "children": [
+            {
+              "id": "f10c2681-af73-46cd-bde2-8428ff2c1195",
+              "type": "paragraph",
+              "html": "<em><strong>KaBOOM!: A Movement to Save Play</strong></em> was written by Darell Hammond, published by Rodale Books, April 26, 2011."
+            },
+            {
+              "id": "7682ffaf-8090-461a-98d0-d92164ebe6e2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7b8b5530-d5cc-411a-940a-3a73a2a96604",
+              "type": "quote",
+              "html": "KaBOOM!<em> is the powerful, uplifting journey of a man who grew up in a group home with his seven brothers and sisters and went on to build a world-class nonprofit that harnesses the power of community to improve the lives of children.<br><br>In 1995, Darell Hammond read an article in the </em>Washington Post<em> about an unthinkable tragedy: Two young children suffocated in a car on a hot summer day in southeast Washington, DC. The story indicated that the children had nowhere to play; in the absence of a playground, they had climbed into an abandoned car. Reading the article fueled Hammond's sense of injustice, and his life's mission came into focus. Hammond founded KaBOOM!, a national nonprofit that provides communities with tools, resources, and guidance to build and renovate playgrounds and playspaces.<br><br>In some of the toughest and poorest neighborhoods in North America, 2,000 barren spaces have been transformed by KaBOOM! and more than a million volunteers and community members into kid-designed, fun, and imaginative places to play. This is the story of a man with a vision, a man who believes that play is the best natural resource in a creative economy and that kids need more of it. Play is not a luxury but a necessity for their lives. Through hard work, commitment, and the conviction that access to a safe play environment is the fundamental right of all children, Hammond built an organization that has touched the lives of countless children and families.<br><br>Hammond's story demonstrates how one idealist can change the world and how small, civic-minded steps create a ripple effect that can transform communities and eventually the world at large.</em>"
+            },
+            {
+              "id": "62459e1d-235a-4ba3-aae2-571348c02472",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "46a6cbc8-b256-45dd-8f3d-80eee488e433",
+          "type": "column",
+          "children": [
+            {
+              "id": "bcd26732-e5cb-4e3a-ba28-026a90a9e733",
+              "type": "image",
+              "src": "./assets/images/untitled-0bb122167212.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07b5bd60-fc18-4497-8e15-316195241fda",
+      "type": "divider"
+    },
+    {
+      "id": "a180c3c1-e1be-4498-9862-8d82ad799e93",
+      "type": "columns",
+      "children": [
+        {
+          "id": "582edc19-7afa-486b-96f0-4d6d4e0a3864",
+          "type": "column",
+          "children": [
+            {
+              "id": "df1a8acb-1138-4679-a274-c2d52ee0037d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2713b7d8-0807-4f88-9568-b11a7a8fc110",
+          "type": "column",
+          "children": [
+            {
+              "id": "80deb5eb-65f4-43f2-893e-778602b0855b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3BARsZX\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b278b93-2d1e-401f-8946-59f33b696191",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title>Paidiasophia</title>
+    <meta
+      name="description"
+      content="A research wiki dedicated to the study of play."
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="174x174"
+      href="./assets/favicon.png?v=20260814-nesting-doll-proportional"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="174x174"
+      href="./assets/favicon.png?v=20260814-nesting-doll-proportional"
+    />
+    <link rel="stylesheet" href="./src/styles.css?v=20260814-crisp-shortform-icons" />
+  </head>
+  <body class="page--spreadsheet">
+    <div class="site-shell">
+      <aside class="sidebar" id="sidebar">
+        <div class="sidebar__brand">
+          <p class="sidebar__eyebrow">research wiki</p>
+          <h1><a class="sidebar__home" id="site-home-link" href="./">Paidiasophia</a></h1>
+        </div>
+        <nav class="sidebar__nav" id="site-nav"></nav>
+        <div class="sidebar__status" id="site-status"></div>
+      </aside>
+      <button
+        class="sidebar-backdrop"
+        id="sidebar-backdrop"
+        type="button"
+        aria-label="Close menu"
+      ></button>
+
+      <main class="page">
+        <header class="page__header">
+          <button class="page__menu" id="menu-toggle" type="button">
+            menu
+          </button>
+          <div class="page__breadcrumbs" id="breadcrumbs"></div>
+        </header>
+
+        <section class="hero" id="page-hero"></section>
+        <article class="page__content" id="page-content"></article>
+      </main>
+
+      <aside
+        class="book-preview-panel"
+        id="book-preview-panel"
+        aria-label="Book preview"
+        aria-hidden="true"
+      >
+        <header class="book-preview-panel__header">
+          <button
+            class="book-preview-panel__close"
+            id="book-preview-close"
+            type="button"
+            aria-label="Close book preview"
+            title="Close book preview"
+          >
+            <svg aria-hidden="true" viewBox="0 0 24 24">
+              <path d="m7 7 10 10"></path>
+              <path d="m17 7-10 10"></path>
+            </svg>
+          </button>
+        </header>
+        <section class="hero book-preview-panel__hero" id="book-preview-hero"></section>
+        <article
+          class="page__content page__content--book book-preview-panel__content"
+          id="book-preview-content"
+          aria-live="polite"
+        ></article>
+      </aside>
+    </div>
+
+    <template id="page-card-template">
+      <a class="page-card">
+        <span class="page-card__icon"></span>
+        <span class="page-card__body">
+          <span class="page-card__title"></span>
+          <span class="page-card__meta">open page</span>
+        </span>
+      </a>
+    </template>
+
+    <script type="module" src="./src/app.js?v=20260814-home-links-quotes-restored"></script>
+  </body>
+</html>

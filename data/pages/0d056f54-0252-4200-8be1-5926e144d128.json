@@ -1,0 +1,136 @@
+{
+  "id": "0d056f54-0252-4200-8be1-5926e144d128",
+  "slug": "playtexts",
+  "title": "Playtexts",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Playtexts-0d056f54025242008be15926e144d128?pvs=21",
+  "createdTime": 1667309082367,
+  "lastEditedTime": 1681312678806,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playtexts",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c5423645f027.webp",
+  "blocks": [
+    {
+      "id": "838476e1-2069-4336-9298-042230bfabd9",
+      "type": "divider"
+    },
+    {
+      "id": "e1ac83eb-4b0c-4416-8880-a0a998ab7935",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "16e17351-7f16-4435-bf92-b8ea7c5d6e1f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a675d326-ead2-4f38-bec1-83da02946879",
+          "type": "column",
+          "children": [
+            {
+              "id": "337f6102-cadb-4a6e-953d-d390d098bc99",
+              "type": "paragraph",
+              "html": "<em><strong>Playtexts: Ludics in Contemporary Literature</strong></em> was written by Warren Motte Jr., published by University of Nebraska Press, April 28, 1995."
+            },
+            {
+              "id": "33922529-6b37-4718-805c-4f5f0899d9c3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7d2e4e8e-756d-417b-899f-2fee3d1ffdf1",
+              "type": "quote",
+              "html": "<em>“Not hubris but the ever self-renewing impulse to play calls new worlds into being.”—Nietzsche Parents and politicians have always taken play seriously. Its formative powers, its focus, its energy, and its ability to signify other things have drawn the attention of writers from Plato and Schiller to Wittgenstein, Nabokov, and Eco. The ease with which an election becomes perceived as a race, a political crisis as a football game, or an argument as a tennis match readily proves how much play means to contemporary life. Just how play confers meaning, however, is best revealed in literature, where meaning is perpetually at stake. “At stake” itself, the risk of a gamble, is only one intersection between play and life. Playtexts reveals numerous junctures where literary playfulness—seemingly so diverting and irrelevant—instead opens the most profound questions about creativity, community, value, and belief. How do authors play with their words and readers? Can literature proceed at all unless a reader is willing and able to play? No moralizing monologue, Playtexts is all for exuberance and creative surge: Breton’s construction of an antinovel, Gombrowicz’s struggle with adult formalities, Nabokov’s swats at the humorless, Sarrazin’s seductive notes, Eco’s recasting of spy and detective fiction, Reyes’s carnal metaphorics.</em>"
+            },
+            {
+              "id": "ba87adad-9696-4bb6-b3d7-13b01399ddf8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "173d1c9a-47df-48fd-85b5-7fb8fc6d07b9",
+          "type": "column",
+          "children": [
+            {
+              "id": "a13f5d7e-b7d7-4af6-883e-8427ff21dcf6",
+              "type": "image",
+              "src": "./assets/images/untitled-c5423645f027.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6cb34150-eba7-43b5-8693-b8a4bc77c946",
+      "type": "divider"
+    },
+    {
+      "id": "9d843f2e-288a-48ce-8054-86b7240040b7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5ba9baf6-fd3b-4650-acb5-e1b7f1d24472",
+          "type": "column",
+          "children": [
+            {
+              "id": "b0c4aaad-0152-4124-99c6-02a1d5078410",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7042dfab-367a-4e20-b993-80d1785e9507",
+          "type": "column",
+          "children": [
+            {
+              "id": "26a3536c-a2e5-4c94-8e7b-a0a180edacc4",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SOGJ37\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e37ae7a0-95ae-4911-b84f-8fc1f907895e",
+      "type": "divider"
+    },
+    {
+      "id": "c5874892-796c-4b5f-9b7d-2167ebc15e42",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

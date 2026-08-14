@@ -1,0 +1,133 @@
+{
+  "id": "50eae52d-e10e-4677-a195-6f45f609aa5d",
+  "slug": "shortform-writing",
+  "title": "Shortform Writing",
+  "icon": "🖊️",
+  "cover": "./assets/images/shape-terminal-4c9fe7096ee7.webp",
+  "type": "page",
+  "parentId": "9510bf90-3ac9-4424-974b-7424f3b33683",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/50eae52de10e4677a1956f45f609aa5d",
+  "createdTime": 1651756140000,
+  "lastEditedTime": 1681313241306,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Shortform Writing"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "1a217bdf-192d-46b4-a518-ebe52fb82cd0",
+      "type": "divider"
+    },
+    {
+      "id": "a339f7ad-c0b5-4846-a7fe-8f1ca4f5c1d3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "91360ccf-dd79-43c3-bd15-ce289be7f207",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7352b562-68c8-49d4-8638-f67dcfbcefdf",
+          "type": "column",
+          "children": [
+            {
+              "id": "71160b13-261c-43b4-9e7a-80771fb8debc",
+              "type": "page_link",
+              "targetId": "71160b13-261c-43b4-9e7a-80771fb8debc",
+              "title": "Essays, Articles, & Blogposts",
+              "notionType": "page"
+            }
+          ]
+        },
+        {
+          "id": "e2bb7067-ebca-4210-9eca-0eae38e4f7d3",
+          "type": "column",
+          "children": [
+            {
+              "id": "f7a6ae5b-b1de-47e8-a0d3-7551c3a5399f",
+              "type": "page_link",
+              "targetId": "f7a6ae5b-b1de-47e8-a0d3-7551c3a5399f",
+              "title": "Poems & Short Stories",
+              "notionType": "page"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20439b71-a53b-4f69-832b-defd2fad9f0c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f85f21f3-7634-4062-8396-808b6d52152a",
+          "type": "column",
+          "children": [
+            {
+              "id": "cad5026f-e82f-4c30-a749-4075707d3408",
+              "type": "page_link",
+              "targetId": "cad5026f-e82f-4c30-a749-4075707d3408",
+              "title": "Tweets & Threads",
+              "notionType": "page"
+            }
+          ]
+        },
+        {
+          "id": "2de46533-82f6-4e7d-a326-e2ce6e7a04c1",
+          "type": "column",
+          "children": [
+            {
+              "id": "acdbe162-4be9-4364-84c8-723885cda789",
+              "type": "alias_link",
+              "targetId": "2b9dc0d1-2d66-4aeb-b050-fb9835b1338a",
+              "title": "Linked page"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0fdd6f55-cae0-439b-9e25-78d0dd66249a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "04a17218-102b-4f85-900e-ac101a534a2a",
+      "type": "divider"
+    },
+    {
+      "id": "fb968884-d073-4680-8d09-a3f5ac750dc7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "74795323-cfdb-4a81-96fa-d074fc3a66df",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "00cde50b-2198-4887-b501-d0aafb9f5215",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    },
+    {
+      "id": "2bc198ea-8091-461e-b960-fba6c148ccf1",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

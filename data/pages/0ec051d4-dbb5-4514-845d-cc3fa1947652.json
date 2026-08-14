@@ -1,0 +1,131 @@
+{
+  "id": "0ec051d4-dbb5-4514-845d-cc3fa1947652",
+  "slug": "serious-games-2009",
+  "title": "Serious Games (2009)",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/0ec051d4dbb54514845dcc3fa1947652",
+  "createdTime": 1651972348182,
+  "lastEditedTime": 1681313222696,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Serious Games (2009)",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9a4c56fca173.webp",
+  "blocks": [
+    {
+      "id": "86988c68-b96a-4052-8e78-22e11acf548d",
+      "type": "divider"
+    },
+    {
+      "id": "742da0ba-a0f5-471f-a164-9979219f7e55",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4747952e-bc11-46a1-b13e-e67d0810ed30",
+      "type": "columns",
+      "children": [
+        {
+          "id": "24ee86df-b294-4528-aafa-5c0996a747e3",
+          "type": "column",
+          "children": [
+            {
+              "id": "a0c213f1-bcd1-4f7e-857a-d00771780530",
+              "type": "paragraph",
+              "html": "<em><strong>Serious Games: Mechanisms &amp; Effects</strong></em> is a collection of essays edited by Ute Ritterfeld, Michael Cody, &amp; Peter Vorderer, published by Routledge, August 7, 2009."
+            },
+            {
+              "id": "49d4263c-7e8c-4e0b-8bc4-ba3c7713a1d1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "abf43dc6-b544-4c00-9594-98d81fba2b5c",
+              "type": "quote",
+              "html": "Serious Games <em>provides a thorough exploration of the claim that playing games can provide learning that is deep, sustained and transferable to the real world. &quot;Serious games&quot; is defined herein as any form of interactive computer-based game software for one or multiple players to be used on any platform and that has been developed to provide more than entertainment to players. With this volume, the editors address the gap in exisiting scholarship on gaming, providing an academic overview on the mechanisms and effects of serious games. Contributors investigate the psychological mechanisms that take place not only during gaming, but also in game selection, persistent play, and gaming impact.<br><br>Anchored primarily in social science research, the reader will be introduced to approaches that focus on the gaming process and the users’ experiences. Additional perspectives will be provided in the concluding chapters, written from non-social science approaches by experts in academic game design and representatives of the gaming industry. The editors acknowledge the necessity for a broader interdisciplinary study of the phenomena and work to overcome the methodological divide in games research to look ahead to a more integrated and interdisciplinary study of digital games.</em>"
+            },
+            {
+              "id": "4c93ed5a-79d1-4bb7-a879-d302ce82d1bb",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d3a4fc4b-f2e6-49f9-afad-58f960d91cc1",
+          "type": "column",
+          "children": [
+            {
+              "id": "568bf684-1fda-43b7-9bb0-ec31b6404834",
+              "type": "image",
+              "src": "./assets/images/untitled-9a4c56fca173.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc4ad432-aac2-491e-b811-9b1946de9f93",
+      "type": "divider"
+    },
+    {
+      "id": "cf69fec1-3f92-4033-8945-10d1dfd921d2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "36d89092-7dda-4acb-8599-f427b73e275c",
+          "type": "column",
+          "children": [
+            {
+              "id": "bbbbcc59-c845-462c-b698-24b7c3f65ac2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6ff4e6e9-7c9d-43af-b891-4e74e952c1fe",
+          "type": "column",
+          "children": [
+            {
+              "id": "219a7ffd-ef30-447d-8a7e-a9fe8184cad2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3HRUxFV\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3419641c-5bfc-4227-9e68-403f7d1938d3",
+      "type": "divider"
+    }
+  ]
+}

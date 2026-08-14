@@ -1,0 +1,131 @@
+{
+  "id": "0b6906e7-2bf3-48fc-aa67-be517aede605",
+  "slug": "playstation",
+  "title": "Playstation",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Playstation-0b6906e72bf348fcaa67be517aede605?pvs=21",
+  "createdTime": 1664473798104,
+  "lastEditedTime": 1681312917958,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playstation",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled2-7e500613d98a.webp",
+  "blocks": [
+    {
+      "id": "c33216e2-2dfa-4304-88ea-0d90d7a23654",
+      "type": "divider"
+    },
+    {
+      "id": "d7411cfd-3ecc-4593-a778-4b802b6c1910",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f97b8dbb-a4d9-4efc-960c-dfd0988a3840",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c107b81b-d1c7-4af2-a0f0-e2d474927d3e",
+          "type": "column",
+          "children": [
+            {
+              "id": "b0110976-a4c0-47db-baf9-9aa37551f14c",
+              "type": "paragraph",
+              "html": "<em><strong>Playstation: A Retrospective</strong></em> was edited by Jeremy Parish, published by Press Run, coming soon."
+            },
+            {
+              "id": "60cd2e0d-12a8-4756-8275-dfa250c66fae",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a777228d-68f2-4f11-90b5-d0ce73a7ed83",
+              "type": "quote",
+              "html": "<em>More than a quarter-century after its 1994 debut in Japan, the PlayStation remains one of the single most important game systems of all time. Sony had been a player in the video games industry for years before the PlayStation debut, but the system catapulted the electronics giant into a force of nature, redefining what a video game could be and drawing an entirely new audience of grownups into what had previously been dismissed as a pastime for kids.<br><br>PlayStation’s true strength ultimately came from its vast library of games, some of which ranked among the greatest of all time. This book explores more than 100 of those games through in-depth essays and brief overviews, with comprehensive retrospectives and critical commentaries alike. Let this volume be your handbook, a guide to the good, the great, and the best-avoided of Sony’s first-generation console.</em>"
+            },
+            {
+              "id": "433694bd-f4fc-40ce-81b9-3c508f7b9d72",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5c100893-7b0d-4e67-b0da-87399eaf1104",
+          "type": "column",
+          "children": [
+            {
+              "id": "253c7f8b-0719-465e-88cb-7fb8a8903824",
+              "type": "image",
+              "src": "./assets/images/untitled2-7e500613d98a.webp",
+              "caption": "",
+              "alt": "Untitled2.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "285bd953-6b81-4809-b6e1-885aa23f6c9b",
+      "type": "divider"
+    },
+    {
+      "id": "bba721c2-a202-483b-ba25-5c1ff839fb83",
+      "type": "columns",
+      "children": [
+        {
+          "id": "13560160-07f0-4fc0-833d-baafe5f563bb",
+          "type": "column",
+          "children": [
+            {
+              "id": "30cc11eb-e182-4ea5-a871-a9134ad1a479",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "44058f61-32d7-4ca4-adcc-0f8b68ac9fea",
+          "type": "column",
+          "children": [
+            {
+              "id": "9589a447-aed2-4b0e-b3b8-c3bb3b0ae4e1",
+              "type": "callout",
+              "html": "<a href=\"https://limitedrungames.com/collections/books/products/playstation-a-retrospective-paperback\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4bb24d2b-0f19-4b59-8d29-cc162d7d6dbc",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "e8d36bca-cb23-4fce-b3f0-e1b91e85f2ea",
+  "slug": "unique-words-in-sports",
+  "title": "Unique Words in Sports",
+  "icon": "🏅",
+  "cover": "",
+  "type": "page",
+  "parentId": "0405bd6e-931c-4875-a3a4-6dc9de1d5eb2",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/e8d36bcacb234fceb3f0e1b91e85f2ea",
+  "createdTime": 1666978292860,
+  "lastEditedTime": 1681312743562,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "List"
+      ]
+    ],
+    "title": [
+      [
+        "Unique Words in Sports"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "de978744-8cd1-4395-9ae9-a994d7d39674",
+      "type": "paragraph",
+      "html": "<strong>[UNDER CONSTRUCTION]</strong>"
+    },
+    {
+      "id": "c54b82e5-ad1d-4a54-95d9-bc16c29c371d",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "d46af5bd-e7f3-49b8-baf6-98f1072c7dfb",
+      "type": "subheader",
+      "html": "<strong>Mountain Climbing</strong>",
+      "anchorId": "mountain-climbing"
+    },
+    {
+      "id": "e3179a04-aa2a-4b5a-b567-95f5473c27a0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "724a92c2-c280-42c2-964f-f979d254f4b5",
+          "type": "column",
+          "children": [
+            {
+              "id": "131ec915-25df-4802-a109-3423ca758614",
+              "type": "paragraph",
+              "html": "<em>Beta</em>"
+            }
+          ]
+        },
+        {
+          "id": "5258087a-1b8f-4fa9-9d85-0bfb51aa3e94",
+          "type": "column",
+          "children": [
+            {
+              "id": "64271d77-db77-4d63-828b-128331a0ff63",
+              "type": "paragraph",
+              "html": "<em>Big Wall</em>"
+            }
+          ]
+        },
+        {
+          "id": "40f1f422-21a2-4705-8088-691852877b9b",
+          "type": "column",
+          "children": [
+            {
+              "id": "d1e30aab-6402-4fd9-9e20-084105b85980",
+              "type": "paragraph",
+              "html": "<em><a href=\"#/ugly-climbing\">Ugly Climbing</a></em>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f77b6b0-15ae-4c20-9a85-2300e1dbc2f6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7ab4b289-3308-4624-b522-05962493b266",
+      "type": "divider"
+    },
+    {
+      "id": "4ec8040d-b6a2-4719-a850-ec24f7e09f2d",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "6ee950ca-a997-4490-acfc-4001ab6702d8",
+      "type": "alias_link",
+      "targetId": "06fab234-721e-48d5-a0a1-5bc744ea4f8d",
+      "title": "Linked page"
+    },
+    {
+      "id": "752c1bd1-c4fd-4668-8b18-376c06fef572",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b0bd01f2-cea5-4bfa-98ac-9cbc99a7ed7b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "880a6c97-e998-4c1c-8719-61c03904a20c",
+      "type": "paragraph",
+      "html": "<a href=\"#/lists-256bd3bc\">☜Lists</a>"
+    },
+    {
+      "id": "6044fc99-f178-4c54-9720-0ddca9f258a0",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

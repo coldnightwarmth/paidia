@@ -1,0 +1,131 @@
+{
+  "id": "618fb4b5-8bb2-4eec-b3f6-206d202064b1",
+  "slug": "free-to-learn",
+  "title": "Free to Learn",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Free-to-Learn-618fb4b58bb24eecb3f6206d202064b1?pvs=21",
+  "createdTime": 1659564717707,
+  "lastEditedTime": 1681313085275,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Free to Learn",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9a9f63fe7165.webp",
+  "blocks": [
+    {
+      "id": "37b9f51c-8ae7-428f-a999-0fc41907251d",
+      "type": "divider"
+    },
+    {
+      "id": "ba2b8367-d261-42a3-8371-afee04f96987",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0434a573-a1df-436c-bae1-3d22189a5146",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a6a646ac-e9f2-4c91-bb63-998d9c5c8a6c",
+          "type": "column",
+          "children": [
+            {
+              "id": "314fcee0-a5e7-47c5-b423-1319a93e485b",
+              "type": "paragraph",
+              "html": "<em><strong>Free to Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, &amp; Better Students for Life</strong></em> was written by Peter Gray, published by Basic Books, March 5, 2013."
+            },
+            {
+              "id": "ab18ea5e-ff41-441c-833b-55b263a32ea4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c8a34ebc-1754-4094-9a58-dba685a321b2",
+              "type": "quote",
+              "html": "<em><strong>A leading expert in childhood development makes the case for why self-directed learning -- &quot;unschooling&quot; -- is the best way to get kids to learn.<br><br></strong></em><em>In </em>Free to Learn<em>, developmental psychologist Peter Gray argues that in order to foster children who will thrive in today's constantly changing world, we must entrust them to steer their own learning and development. Drawing on evidence from anthropology, psychology, and history, he demonstrates that free play is the primary means by which children learn to control their lives, solve problems, get along with peers, and become emotionally resilient. A brave, counterintuitive proposal for freeing our children from the shackles of the curiosity-killing institution we call school, </em>Free to Learn<em> suggests that it's time to stop asking what's wrong with our children, and start asking what's wrong with the system. It shows how we can act—both as parents and as members of society—to improve children's lives and to promote their happiness and learning.</em>"
+            },
+            {
+              "id": "23d8d310-3ed9-4ba5-9059-3a128f832ad0",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "81bd096c-f677-43df-9c6b-9391f82bf8cf",
+          "type": "column",
+          "children": [
+            {
+              "id": "27e4e658-a208-49a6-af1d-6244c53281be",
+              "type": "image",
+              "src": "./assets/images/untitled-9a9f63fe7165.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4dec926-7b63-4fb4-9843-bdce1ca5c627",
+      "type": "divider"
+    },
+    {
+      "id": "87bf9165-d861-4c59-b1a1-6cd2675397d8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6ab6b7a4-9bbb-4bb3-b71f-903e4406d584",
+          "type": "column",
+          "children": [
+            {
+              "id": "7998fefe-daa2-459e-b5ba-b7ba0250d5d7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "98eb0ea5-5d47-4684-a6d4-f48afedbdc4a",
+          "type": "column",
+          "children": [
+            {
+              "id": "ed93c5d7-db74-4d1f-a245-2fa692916ae3",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3BKa7Tj\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a546c45-f1b2-485b-9ae6-ac3bcf16abde",
+      "type": "divider"
+    }
+  ]
+}

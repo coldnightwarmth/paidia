@@ -1,0 +1,136 @@
+{
+  "id": "d5c7743d-1611-42df-ad9e-752d6083616f",
+  "slug": "ludopolitics",
+  "title": "Ludopolitics",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Ludopolitics-d5c7743d161142dfad9e752d6083616f?pvs=21",
+  "createdTime": 1651862501284,
+  "lastEditedTime": 1681314296670,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ludopolitics",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-48376329e009.webp",
+  "blocks": [
+    {
+      "id": "54853327-3d13-4930-825b-a24ba2c5b0b0",
+      "type": "divider"
+    },
+    {
+      "id": "f152b724-8518-4fae-8a35-2130ec333deb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "879042b4-5f4c-4148-b0dc-fb2706f17b9c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "913acd03-b489-459a-a8bd-d834e503cb44",
+          "type": "column",
+          "children": [
+            {
+              "id": "dffd5f58-6490-4f62-8f74-2d8fbdc99841",
+              "type": "paragraph",
+              "html": "<em><strong>Ludopolitics: Videogames against Control </strong></em>was written by Liam Mitchell, published by Zero Books, December 14, 2018."
+            },
+            {
+              "id": "c102ee4a-f7c2-4126-acbc-d2d3ec4f068e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "259f5cd6-a9f1-405e-be59-1055e6ae4ed6",
+              "type": "quote",
+              "html": "<em>What can videogames tell us about the politics of contemporary technoculture, and how are designers and players responding to its impositions? To what extent do the technical features of videogames index our assumptions about what exists and what is denied that status? And how can we use games to identify and shift those assumptions without ever putting down the controller? Ludopolitics responds to these questions with a critique of one of the defining features of modern technology: the fantasy of control. Videogames promise players the opportunity to map and master worlds, offering closed systems that are perfect in principle if not in practice. In their numerical, rule-bound, and goal-oriented form, they express assumptions about both the technological world and the world as such. More importantly, they can help us identify these assumptions and challenge them. Games like </em>Spec Ops: The Line, Braid, Undertale<em>, and </em>Bastion<em>, as well as play practices like speedrunning, theorycrafting, and myth-making provide an aesthetic means of mounting a political critique of the pursuit and valorization of technological control.</em>"
+            },
+            {
+              "id": "f09586d6-9e9c-49ac-9c73-372ec385a37d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0ab137ec-82a8-4e45-a0b0-fcf16a69306a",
+          "type": "column",
+          "children": [
+            {
+              "id": "1b2b2943-29cf-4717-b194-d2eacb6b293c",
+              "type": "image",
+              "src": "./assets/images/untitled-48376329e009.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "988e8653-9cb1-4053-9b35-d1f8ea3500a3",
+      "type": "divider"
+    },
+    {
+      "id": "21414973-1494-40c0-879d-ef1d673ae0cd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "31a0881d-20f1-4638-a65d-d2b5156c0002",
+          "type": "column",
+          "children": [
+            {
+              "id": "bb5c25c4-a793-4fc8-bf4a-84932caf03d6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "27c2893c-4eb8-4476-b31b-45a0b353af4f",
+          "type": "column",
+          "children": [
+            {
+              "id": "c3c07e32-e528-4e2b-8fd9-bf124d8f46a1",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3rin1RI\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24983a83-3cea-412a-b9d1-89773dfd63fb",
+      "type": "divider"
+    },
+    {
+      "id": "70ff67fe-5377-41a0-8803-d1db383fe86c",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "c37b732b-a4ee-4b1a-b2ec-f158da484fcf",
+  "name": "People",
+  "schema": {
+    ";^|~": {
+      "id": ";^|~",
+      "name": "Last edited by",
+      "type": "last_edited_time",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "=ybk": {
+      "id": "=ybk",
+      "name": "Email",
+      "type": "email",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "@Jn}": {
+      "id": "@Jn}",
+      "name": "Portfolio",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "E{YR": {
+      "id": "E{YR",
+      "name": "Twitter",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "`nwo": {
+      "id": "`nwo",
+      "name": "Company - To be changed to Relation Field",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "uXrV": {
+      "id": "uXrV",
+      "name": "LinkedIn",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "1adcbc57-b4dc-41b3-bf1f-e6c046914b93",
+      "collectionId": "c37b732b-a4ee-4b1a-b2ec-f158da484fcf",
+      "type": "table",
+      "name": "Contacts",
+      "pagePointerId": null,
+      "pageSort": [
+        "3bee8cba-1013-472f-ba09-923a6ac8206f",
+        "4284d961-e141-42aa-8d3e-e8bfcf4fb7b1",
+        "0cb52361-be9e-4f8c-9050-6499d6cff248",
+        "3cd1c587-2106-4e87-ada4-78e255328cec",
+        "ae8d9c25-f486-4521-9715-a399fb6cc6e1",
+        "357b87c7-8ccc-4891-a9d3-60c1516000a6",
+        "890606d8-3935-4fce-8d61-3706587f1f95",
+        "45f0a175-876c-4092-a2c8-ef0ed649752b",
+        "16f2880d-e9b2-4fb4-a838-3b19253e488d",
+        "4c4fcfbc-1dd9-46fb-8668-ae002e888af2",
+        "02619393-5284-4231-9b15-8cad5b067f71",
+        "6f44c5fa-534b-4daf-975b-a5da4f9ded60",
+        "60881014-21f0-4c41-9ec4-35fc72412bc2",
+        "92b5c646-087b-4fcf-8c66-cf419bfdcd7c",
+        "334a36ce-0040-4287-bbe6-bbf4b248f3ec",
+        "39f8af31-649b-4388-b209-a5a368fb9475",
+        "c533a308-f365-404c-af3d-73e29c5c6ab4",
+        "900238db-7f7e-4f42-8137-880aba0e7df1",
+        "17e42285-dcac-466c-a95a-bb8cec919f63",
+        "92a7ebcd-61a1-465b-a27b-7c1046335945",
+        "5b868e4c-8799-4c0a-b474-80e57c40e1ce",
+        "17a63db0-2847-4ee4-9a42-36b84c92ce6b",
+        "002e8cca-3544-4859-9561-e292467d8cae",
+        "d96f36d0-1333-45e4-9cb7-01dfe7c7fd58",
+        "f8a04dd3-0626-49ef-8a6b-77d504a0fec9",
+        "1926889a-f098-4a97-ad08-05c963daad04",
+        "62abce58-d70c-4661-9400-732aa39b4e02",
+        "a63d56ca-4f9f-4369-890b-6bb81033198a",
+        "670dd430-7362-4b8b-bdc9-31a54351be90",
+        "33ca9b9b-5992-4e10-a085-9d0bde114e20",
+        "a126a7ed-76e5-4165-bf06-bc1f789c0171",
+        "540bbc8f-e6b5-4ab8-b6c9-f64bac0d99f5",
+        "8b1ccc97-e416-4d06-ac8c-eda44b91ac93"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 184
+        },
+        {
+          "property": "`nwo",
+          "visible": true,
+          "width": 354
+        },
+        {
+          "property": "=ybk",
+          "visible": true,
+          "width": 103
+        },
+        {
+          "property": "@Jn}",
+          "visible": true,
+          "width": 119
+        },
+        {
+          "property": "E{YR",
+          "visible": true,
+          "width": 112
+        },
+        {
+          "property": "uXrV",
+          "visible": true,
+          "width": 129
+        },
+        {
+          "property": ";^|~",
+          "visible": false,
+          "width": 200
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

@@ -1,0 +1,126 @@
+{
+  "id": "c61fa6a1-f350-462d-9c8c-dd64d4736bc4",
+  "slug": "the-legend-of-the-10-elemental-masters",
+  "title": "The Legend of the 10 Elemental Masters",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Legend-of-the-10-Elemental-Masters-c61fa6a1f350462d9c8cdd64d4736bc4?pvs=21",
+  "createdTime": 1651685556565,
+  "lastEditedTime": 1681314126827,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Legend of the 10 Elemental Masters"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-162bd9028454.webp",
+  "blocks": [
+    {
+      "id": "e5ef21b8-a347-4424-8b29-fa73bb428d1c",
+      "type": "divider"
+    },
+    {
+      "id": "aa755e0a-bc22-4713-995e-def9f30a3492",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b081bb19-4f72-4781-a144-f04c8cf08a0a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e940f992-ef10-4bfb-b96d-8671adf33e68",
+          "type": "column",
+          "children": [
+            {
+              "id": "3e353e11-0a30-406e-9a7c-000d357af38a",
+              "type": "paragraph",
+              "html": "<em><strong>The Legend of the 10 Elemental Masters </strong></em>was written by ulillillia (Nick Smith), self-published, September 23, 2009."
+            },
+            {
+              "id": "f0424ba6-8cbe-4d58-8bd6-72480f4a188c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3f4be610-502e-4e63-bf3a-6bb9487ac7a4",
+              "type": "quote",
+              "html": "<em>What begins as an investigation into the cause of a series of unusual and unexplained events turns into a battle to save the Earth from elemental destruction. A mysterious, powerful, and persistent evil force seeks the masters of the elements that control and balance each element from an Earth entirely of that element. Earth's only hope is a powerful, spell-casting alien who has the dream of making three ordinary humans become like him. What hideous act does the evil force have planned? Immerse yourself into a deep, twisting plot that feels like you're playing a role playing game instead of reading. The unique script-like format reads like a classic role playing game. The in-depth, extreme character statistics and numbers popping out of objects further immerse you into the play.</em>"
+            }
+          ]
+        },
+        {
+          "id": "09bab499-f70d-439d-aa62-a48c3e34bf16",
+          "type": "column",
+          "children": [
+            {
+              "id": "5d9763f6-5fda-4371-863f-37ffa97fdb51",
+              "type": "image",
+              "src": "./assets/images/untitled-162bd9028454.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e285a6cb-3685-4040-9c99-639f08bcfa6c",
+      "type": "divider"
+    },
+    {
+      "id": "b801ead0-adea-442a-aa65-18dc01602399",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a152b930-a5a7-4089-9904-0985e00758e1",
+          "type": "column",
+          "children": [
+            {
+              "id": "aceb257b-1b8c-4473-88b8-2f6845eb3750",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7fb6a3b0-95f2-4c7b-bc42-fd2b70ac290d",
+          "type": "column",
+          "children": [
+            {
+              "id": "1282630a-7970-41ec-86fe-23edb2158521",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DRSSjW\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "639881b9-878a-4afe-af7e-f8c6d825ea43",
+      "type": "divider"
+    },
+    {
+      "id": "7f8cd65b-0bd9-468b-a60a-5ebcc516bc0a",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

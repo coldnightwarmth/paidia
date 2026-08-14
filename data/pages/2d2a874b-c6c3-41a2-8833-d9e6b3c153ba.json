@@ -1,0 +1,136 @@
+{
+  "id": "2d2a874b-c6c3-41a2-8833-d9e6b3c153ba",
+  "slug": "the-theory-of-the-leisure-class",
+  "title": "The Theory of the Leisure Class",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/2d2a874bc6c341a28833d9e6b3c153ba",
+  "createdTime": 1651711273847,
+  "lastEditedTime": 1681314281042,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Theory of the Leisure Class"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a2d4172f19b0.webp",
+  "blocks": [
+    {
+      "id": "7345395c-28f6-41ee-9042-ae7716af99f2",
+      "type": "divider"
+    },
+    {
+      "id": "c4059cd3-0b5e-4021-b6f8-b95772b912e2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "606a3729-0ac9-4e1a-aaac-d61fee245755",
+      "type": "columns",
+      "children": [
+        {
+          "id": "167617d4-093a-456b-b697-565f2bb1266f",
+          "type": "column",
+          "children": [
+            {
+              "id": "aadd019e-58b9-4e0b-b8bc-9ab79fdba4e8",
+              "type": "paragraph",
+              "html": "<em><strong>The Theory of the Leisure Class</strong></em> was written by Thorstein Veblen, originally published in 1899."
+            },
+            {
+              "id": "c18d7a34-394a-45b5-9dd2-e99d940fbfb7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a04d90d2-b727-4191-b47e-1b134b6555bf",
+              "type": "quote",
+              "html": "<em>In his scathing </em>The Theory of the Leisure Class<em>, Thorstein Veblen produced a landmark study of affluent American society that exposes, with brilliant ruthlessness, the habits of production and waste that link </em><a href=\"#/games-people-play\"><em>invidious business tactics</em></a><em> and barbaric social behavior. Veblen's analysis of the evolutionary process sees greed as the overriding motive in the modern economy, and with an impartial gaze he examines the human cost paid when social institutions exploit the consumption of unessential goods for the sake of personal profit. Fashion, beauty, animals, sports, the home, the clergy,<br>scholars--all are assessed for their true usefulness and found wanting. Indeed, Veblen's critique covers all aspects of modern life from dress, class, the position of women, home decoration, industry, business, and sport, to religion, scholarship, and education. The targets of Veblen's coruscating satire are as evident today as they were a century ago, and his book still has the power to shock and enlighten.</em>"
+            }
+          ]
+        },
+        {
+          "id": "4c3926eb-e366-49a0-a077-451d6aaaaafb",
+          "type": "column",
+          "children": [
+            {
+              "id": "3674b280-71b4-48fb-bfd9-53961a804ff5",
+              "type": "image",
+              "src": "./assets/images/untitled-a2d4172f19b0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72aeef24-56dd-4a0f-b109-a77e29982b05",
+      "type": "divider"
+    },
+    {
+      "id": "e8225ea0-7659-4062-a2bf-58f670eace52",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9e8b3c70-e410-4edf-87c6-7cf747b11955",
+          "type": "column",
+          "children": [
+            {
+              "id": "c0e2a006-3b09-4b44-8856-2ffe6dbebce8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c6a238f7-293a-4c89-9bdc-d814048b9906",
+          "type": "column",
+          "children": [
+            {
+              "id": "e6fddc8f-a695-4ae3-a663-f07bb5b63960",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yyAXMf\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eb6b0c2a-c29a-4ae0-9deb-94e611816c76",
+      "type": "divider"
+    },
+    {
+      "id": "22eeaf35-668b-4f26-a337-e65ca7f4f060",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "ebfac853-5541-45a1-b208-7ad21fccd8fd",
+      "type": "paragraph",
+      "html": "<a href=\"#/leisure-the-basis-of-culture\">Leisure, The Basis of Society</a> (<em>book</em>)"
+    },
+    {
+      "id": "bff8bd91-7ac8-4f25-8bb4-11333a7d32fa",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-art-of-leisure\">The Art of Leisure</a> (<em>book</em>)"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "9eb2f375-cdbc-4ea7-86ff-1fb194d36617",
+  "slug": "the-trickster",
+  "title": "The Trickster",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Trickster-9eb2f375cdbc4ea786ff1fb194d36617?pvs=21",
+  "createdTime": 1651689118564,
+  "lastEditedTime": 1681314040053,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Trickster"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0974f3611378.webp",
+  "blocks": [
+    {
+      "id": "90a70046-a5db-4a55-b77a-d76c3d565e8d",
+      "type": "divider"
+    },
+    {
+      "id": "8c696d0c-fef0-47b1-90fc-fca584e421b1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6fec8d77-7943-449c-b068-0218dd54b65a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1ac806ec-7f0e-4055-b5b0-5451593e978d",
+          "type": "column",
+          "children": [
+            {
+              "id": "6faa9f8d-64a7-400f-9cee-fac4abb8fb15",
+              "type": "paragraph",
+              "html": "<em><strong>The Trickster: A Study in American Indian Mythology</strong></em> was written by Paul Radin, published by Schocken, January 1, 1988."
+            },
+            {
+              "id": "755984c2-ed0a-46e4-90b4-e4c2635127e0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1cf2121e-ce99-4780-a2ac-7b06deba288e",
+              "type": "quote",
+              "html": "<em>The myth of the Trickster—ambiguous creator and destroyer, cheater and cheated, subhuman and superhuman—is one of the earliest and most universal expressions of mankind. Nowhere does it survive in more starkly archaic form than in the voraciously uninhibited episodes of the Winnebago Trickster Cycle, recorded here is full. Anthropological and psychological analyses by Radin, Kerényi, and Jung reveal with Trickster as filling a twofold role: on the one hand he is &quot;an archetypal psychic structure&quot; that harks back to &quot;an absolutely undifferentiated human consciousness, corresponding to a psyche that has hardly left the animal level&quot; (Jung); on the other hand, his myth is a present-day outlet for the most unashamed and liberating satire of the onerous obligation of social order, religion, and ritual.<br><br>With commentaries by Karl Kerényi and C. G. Jung</em>"
+            },
+            {
+              "id": "3f846ac7-7420-4af4-9c91-e384946bc0d8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c9b0ac57-4e9e-4cdb-8e6d-dfd38a73c07f",
+          "type": "column",
+          "children": [
+            {
+              "id": "33379fcf-9fcb-43f1-b08e-fc2a3c16754a",
+              "type": "image",
+              "src": "./assets/images/untitled-0974f3611378.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71e0f3ca-e9c9-478d-9362-c31ef43c593f",
+      "type": "divider"
+    },
+    {
+      "id": "6b38cf25-5e02-4e08-b1ba-d250951a6388",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d16a9859-cd0a-43b1-bfd4-3ed499dd7de5",
+          "type": "column",
+          "children": [
+            {
+              "id": "6be6e728-cbc5-43ff-96f2-85e751427d56",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1fef7661-6b6b-4b4b-800f-a0775be0e36a",
+          "type": "column",
+          "children": [
+            {
+              "id": "5878e00e-95a0-487a-9e79-37c88314333d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3gV6l0P\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a8efcfff-228a-4d87-a663-dca3a459f54a",
+      "type": "divider"
+    }
+  ]
+}

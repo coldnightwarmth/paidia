@@ -1,0 +1,161 @@
+{
+  "id": "1d2e767e-2cf9-4c8e-967a-fc499ceacc08",
+  "slug": "the-adventure",
+  "title": "The Adventure",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/1d2e767e2cf94c8e967afc499ceacc08",
+  "createdTime": 1651694341869,
+  "lastEditedTime": 1681313425426,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Adventure",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/91hsk3sfmdl-781c05c4993a.webp",
+  "blocks": [
+    {
+      "id": "2b037af7-0e69-4774-8ea4-81fb5a27e552",
+      "type": "divider"
+    },
+    {
+      "id": "3e676333-e99f-4c7e-9c23-18c7f54e2a46",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "dc618e2e-52b5-47b6-8060-c6dcf7bb94e5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "188e6bd1-29f3-40f5-88aa-9aef92898681",
+          "type": "column",
+          "children": [
+            {
+              "id": "6320c0ab-eb7e-4c4d-afa1-d74e6772a3ce",
+              "type": "paragraph",
+              "html": "<em><strong>The Adventure</strong></em> was written by Giorgio Agamben, published by The MIT Press, March 9, 2018."
+            },
+            {
+              "id": "8b702d9f-a9b4-43da-8646-a9bf3c4eca82",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "580dd7d7-1e8b-4b4e-81a3-8179cb106f0d",
+              "type": "quote",
+              "html": "<em>Agamben charts a journey that ranges from poems of chivalry to philosophy, from Yvain to Hegel, from Beatrice to Heidegger.<br><br>An ancient legend identifies Demon, Chance, Love, and Necessity as the four gods who preside over the birth of every human being. We must all pay tribute to these deities and should not try to elude or dupe them. To accept them, Giorgio Agamben suggests, is to live one's life as an adventure—not in the trivial sense of the term, with lightness and disenchantment, but with the understanding that adventure, as a specific way of being, is the most profound experience in our human existence. In this pithy, poetic, and compelling book, Agamben maps a journey from poems of chivalry to philosophy, from Yvain to Hegel, from Beatrice to Heidegger. The four gods of legend are joined at the end by a goddess, the most elusive and mysterious of all: Elpis, Hope. In Greek mythology, Hope remains in Pandora's box, not because it postpones its fulfillment to an invisible beyond but because somehow it has always been already satisfied. Here, Agamben presents Hope as the ultimate gift of the human adventure on Earth.</em>"
+            },
+            {
+              "id": "74a74db9-7fbf-41e3-97ed-7346dd2a6a93",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a899c84f-a28c-4c22-9a02-377ee8b78472",
+          "type": "column",
+          "children": [
+            {
+              "id": "99eed18f-2daa-4a87-89c3-17ec5ac0e985",
+              "type": "image",
+              "src": "./assets/images/91hsk3sfmdl-781c05c4993a.webp",
+              "caption": "",
+              "alt": "91hSk3SFMdL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dafc8025-508d-4c67-8611-24b4421f3690",
+      "type": "divider"
+    },
+    {
+      "id": "ccf91084-1131-4173-81b5-e82cb80422ed",
+      "type": "columns",
+      "children": [
+        {
+          "id": "722b9c1f-2cec-45cb-b354-aabf546d4609",
+          "type": "column",
+          "children": [
+            {
+              "id": "46730db0-e226-4ac7-b923-a3af6886d76d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "212c9aaf-5384-4219-839c-b7cfd168d46d",
+          "type": "column",
+          "children": [
+            {
+              "id": "59546353-8a3e-41b4-aa88-7f51711f6bcb",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xQQmFP\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "853358b9-ae9a-4a8b-adf0-fd798b2c904e",
+      "type": "divider"
+    },
+    {
+      "id": "05e93a13-a354-46ef-8e60-0fba4395a9f2",
+      "type": "paragraph",
+      "html": "<em><em><em><em><em><em><em><em><em>see also:</em></em></em></em></em></em></em></em></em>"
+    },
+    {
+      "id": "57e56961-7495-4229-8f7d-327274a97673",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-adventurer\">The Adventurer</a> (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "2fc58d05-8390-4ec6-918a-76b254c43dfd",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "17733f54-3cc4-483c-8978-606d02697901",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1ed11141-c3da-480f-8109-3d316391b77c",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "bce740a2-dac4-4689-8d5a-e616e8169953",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

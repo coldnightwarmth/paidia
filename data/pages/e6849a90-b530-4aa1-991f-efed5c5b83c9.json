@@ -1,0 +1,166 @@
+{
+  "id": "e6849a90-b530-4aa1-991f-efed5c5b83c9",
+  "slug": "ambient-play",
+  "title": "Ambient Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "bf0fc28b-8783-4d50-a66c-1c7d7c3ddb6d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Ambient-Play-e6849a90b5304aa1991fefed5c5b83c9?pvs=21",
+  "createdTime": 1651770236179,
+  "lastEditedTime": 1681310825517,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ambient Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6f5ec0bcb9c4.webp",
+  "blocks": [
+    {
+      "id": "6efc9956-8b0b-49e4-80a6-785cdb4c23f5",
+      "type": "divider"
+    },
+    {
+      "id": "f9823358-eed6-4135-b496-a7e98ec3a2b8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d7ebca93-47ee-49ba-a8e7-89937a029805",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4de7a448-3e9b-489f-bac5-264a2908f57f",
+          "type": "column",
+          "children": [
+            {
+              "id": "63683132-4a0d-4a3c-a5d4-755e49683144",
+              "type": "paragraph",
+              "html": "<em><strong>Ambient Play</strong></em> was written by Larissa Hjorth &amp; Ingrid Richardson, published by The MIT Press, September 15, 2020."
+            },
+            {
+              "id": "73453b3c-6bd1-4daf-8b9a-0618f64cedb1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d059e1a6-0437-480a-81ae-9bb5cd0f1821",
+              "type": "quote",
+              "html": "<strong><em>An engaging look at how </em></strong><a href=\"#/mobile-gaming\"><strong><em>mobile games</em></strong></a><strong><em> are increasingly part of our day-to-day lives and the ways that we interact across real as well as digital landscapes.<br></em></strong><em><br>We often play games on our mobile devices when we have some time to kill--waiting in line, pausing between tasks, stuck on a bus. We play in solitude or in company, alone in a bedroom or with others in the family room. In </em>Ambient Play<em>, Larissa Hjorth and Ingrid Richardson examine how mobile gameplay fits into our day-to-day lives. They show that as mobile games spread across different </em><a href=\"#/genre\"><em>genres</em></a><em>, </em><a href=\"#/hardware\"><em>platforms</em></a><em>, practices, and contexts, they become an important way of experiencing and navigating a digitally saturated world. We are digital wayfarers, moving constantly among digital, social, and social worlds.</em>"
+            },
+            {
+              "id": "55437f25-a44c-4728-99fd-4bb1ae5b65f0",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "269d61f0-fced-4bff-b906-bd0fa57888aa",
+          "type": "column",
+          "children": [
+            {
+              "id": "39f8a2de-474c-4959-ad57-fcb87fc08bcf",
+              "type": "image",
+              "src": "./assets/images/untitled-6f5ec0bcb9c4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ade600e-8f4f-48f6-b6c2-7e2eff759587",
+      "type": "divider"
+    },
+    {
+      "id": "e18d797d-8ec8-4df2-a7e7-2265e227ebc0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fba4e509-7340-4bf4-acb9-ead3e3c2a7fd",
+          "type": "column",
+          "children": [
+            {
+              "id": "6c1125cd-f1e3-47f7-94d0-21d353ef3def",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "69e28377-bfac-4109-8465-2cad5fb57d79",
+          "type": "column",
+          "children": [
+            {
+              "id": "224a55f0-bd61-4957-9789-5a3efc8561ef",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fszIHt\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7290e533-5a5b-478b-b93e-85f1fb44222b",
+      "type": "divider"
+    },
+    {
+      "id": "07eeaf28-08f9-48c5-bc2f-a3b903d4001e",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "b5ef4450-7501-4796-b03e-602a7d2bc559",
+      "type": "paragraph",
+      "html": "<a href=\"#/touch-screen-theory\">Touch Screen Theory</a> (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "8be2999e-13c5-4ddf-821b-dd6e68550151",
+      "type": "paragraph",
+      "html": "<a href=\"#/technosocialization\">Technosocialization</a> (<em>concept</em>)"
+    },
+    {
+      "id": "b828baf8-2d11-4265-b2f2-a661a94be3ac",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7f2be3dd-f448-43a7-954f-37cd5d563bd9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "817392d7-8865-4f9a-82cf-fc0c69d637f1",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "f307f3c5-8500-4a22-aaa5-e30fd5546b88",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

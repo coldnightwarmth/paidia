@@ -1,0 +1,134 @@
+{
+  "id": "7b77065b-8003-4b1b-b284-3702b7cb5b3e",
+  "name": "tasks",
+  "schema": {
+    "T|pY": {
+      "id": "T|pY",
+      "name": "status",
+      "type": "status",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "d3566b7e-5542-48ee-8a0b-6bf63a9997a2",
+          "value": "Not started",
+          "color": "default"
+        },
+        {
+          "id": "56b68700-960b-4e10-b22a-a7bc42417afb",
+          "value": "In progress",
+          "color": "blue"
+        },
+        {
+          "id": "6d29504c-e21e-4bee-88c8-9dc4222d43fa",
+          "value": "Done",
+          "color": "green"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "task",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "f6ffe71d-5239-4655-b1d1-3a91bddd9a32",
+      "collectionId": "7b77065b-8003-4b1b-b284-3702b7cb5b3e",
+      "type": "table",
+      "name": "list",
+      "pagePointerId": null,
+      "pageSort": [
+        "ad4d8572-3387-47e2-95e6-f74b6fc0543c",
+        "af2bee16-56ff-4767-8af5-2fdd95bd8a89",
+        "d6c788c8-b8ef-4b87-958f-ee70f15c0e3a",
+        "777393bc-e670-46aa-a4eb-84d5e1be5bcc",
+        "68366c38-1fa7-4e8b-a15b-0a1f7c3473da",
+        "ed81d00c-5362-4c82-ac25-3834ce7a381e",
+        "92692bc3-0a00-48dc-a4b8-ba9ac176fad2",
+        "751fe9fc-bc60-4016-8e7c-abf41e0354c0",
+        "5ae5af22-2c47-429c-89fd-938d694c5d67",
+        "ff121623-7279-446f-917a-795b2dca63c9",
+        "5f79073c-efe7-46aa-80c5-3233310e5eb3"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 790
+        },
+        {
+          "property": "T|pY",
+          "visible": true,
+          "width": 156
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [
+        {
+          "property": "T|pY",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        }
+      ],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "a9d1b54e-1bec-4bc3-8a91-8d425b1d476a",
+      "collectionId": "7b77065b-8003-4b1b-b284-3702b7cb5b3e",
+      "type": "board",
+      "name": "status board",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [
+        {
+          "property": "T|pY",
+          "hidden": false,
+          "valueType": "status",
+          "option": "Not started"
+        },
+        {
+          "property": "T|pY",
+          "hidden": false,
+          "valueType": "status",
+          "option": "In progress"
+        },
+        {
+          "property": "T|pY",
+          "hidden": true,
+          "valueType": "status",
+          "option": "Done"
+        }
+      ],
+      "boardColumnsBy": {
+        "property": "T|pY",
+        "type": "multi_select",
+        "sortType": "manual"
+      },
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

@@ -1,0 +1,126 @@
+{
+  "id": "6e660192-46c8-4321-abbc-da304d872b06",
+  "slug": "cultural-code",
+  "title": "Cultural Code",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Cultural-Code-6e66019246c84321abbcda304d872b06?pvs=21",
+  "createdTime": 1651688479521,
+  "lastEditedTime": 1681313968345,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Cultural Code"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-aefa23058fa1.webp",
+  "blocks": [
+    {
+      "id": "271fa702-ae91-43d1-a093-4795ce4e1e9f",
+      "type": "divider"
+    },
+    {
+      "id": "153e2336-6a55-4cca-923a-9e0d719436be",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "74fe14c6-154a-4670-8c4f-6fe71fc1f762",
+      "type": "columns",
+      "children": [
+        {
+          "id": "880468fa-6cd0-4168-9345-4aca1dd3542f",
+          "type": "column",
+          "children": [
+            {
+              "id": "e911bf59-f7ee-4b64-87eb-96d933c3747a",
+              "type": "paragraph",
+              "html": "<em><strong>Cultural Code: Video Games &amp; Latin America</strong></em> was written by Phillip Penix-Tadsen, published by The MIT Press, February 12, 2016."
+            },
+            {
+              "id": "ba2f57fc-d334-4ed1-b435-7072d1efb95e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5e0d5bfa-c91f-4c24-91ed-af9d63fdd645",
+              "type": "quote",
+              "html": "<strong><em>How culture uses games and how games use culture: an examination of Latin America's gaming practices and the representation of the region's cultures in games.</em></strong><em><br><br>Video games are becoming an ever more ubiquitous element of daily life, played by millions on devices that range from smart phones to desktop computers. An examination of this phenomenon reveals that video games are increasingly being converted into cultural currency. For video game designers, culture is a resource that can be incorporated into games; for players, local gaming practices and specific social contexts can affect their playing experiences. In </em>Cultural Code<em>, Phillip Penix-Tadsen shows how culture uses games and how games use culture, looking at examples related to Latin America. Both static code and subjective play have been shown to contribute to the meaning of games; Penix-Tadsen introduces culture as a third level of creating meaning.<br><br>Penix-Tadsen focuses first on how culture uses games, looking at the diverse practices of play in Latin America, the ideological and intellectual uses of games, and the creative and economic possibilities opened up by video games in Latin America—the evolution of regional game design and development. Examining how games use culture, Penix-Tadsen discusses in-game cultural representations of Latin America in a range of popular titles (pointing out, for example, appearances of Rio de Janeiro's Christ the Redeemer statue in games from </em>Call of Duty<em> to the tourism-promoting </em>Brasil Quest<em>). He analyzes this through semiotics, the signifying systems of video games and the specific signifiers of Latin American culture; space, how culture is incorporated into different types of game environments; and simulation, the ways that cultural meaning is conveyed procedurally and algorithmically through gameplay mechanics.</em>"
+            },
+            {
+              "id": "145563a6-ef97-48ad-8e32-13a725f2741e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d0943c49-f9e9-4061-9e99-b61852aad8e7",
+          "type": "column",
+          "children": [
+            {
+              "id": "ad34c8d4-ffbe-42fc-8f4d-1e662ff2ce98",
+              "type": "image",
+              "src": "./assets/images/untitled-aefa23058fa1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5b26eeb-3382-442d-b50d-f1d21dba89d8",
+      "type": "divider"
+    },
+    {
+      "id": "28e2e239-69c9-4c17-bd88-7f2d6a27aa35",
+      "type": "columns",
+      "children": [
+        {
+          "id": "de5e4109-ca84-4a1b-a250-231c986e157a",
+          "type": "column",
+          "children": [
+            {
+              "id": "2b49d58f-1c3b-425f-a7b7-e4b2a5598ad4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7ad474fd-97c1-4948-8afd-bac6361f8a5a",
+          "type": "column",
+          "children": [
+            {
+              "id": "28678800-18e0-4dab-99e7-98c235923fd8",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3gZmaDA\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e700fd2-dd90-47d0-a299-66bee46c7c8d",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "7a814dc1-451d-4067-b464-b38161d65aac",
+  "slug": "playing-the-martyr",
+  "title": "Playing the Martyr",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Playing-the-Martyr-7a814dc1451d4067b464b38161d65aac?pvs=21",
+  "createdTime": 1652725988265,
+  "lastEditedTime": 1681313505211,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playing the Martyr",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-072ac14ba803.webp",
+  "blocks": [
+    {
+      "id": "3540c798-2cce-4076-a6d4-625a69e610be",
+      "type": "divider"
+    },
+    {
+      "id": "6b162f85-a003-4f96-9084-efa443a7e5f1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "521edbf0-b8a5-4262-97bf-482d29bdd42c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3f086666-0f57-4931-82fc-41f504ab61b0",
+          "type": "column",
+          "children": [
+            {
+              "id": "4b5c1b83-cbef-4efe-af6f-85fb4bf67962",
+              "type": "paragraph",
+              "html": "<em><strong>Playing the Martyr: Theatre &amp; Theology in Early Modern France </strong></em>was written by Christopher Smek, published by Bucknell University Press, January 6, 2017."
+            },
+            {
+              "id": "ebb2d7e3-6d49-4b4f-ac06-8527e74f3ff8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c698e04f-a363-40c5-90b7-5839e5e6c8a1",
+              "type": "quote",
+              "html": "Playing the Martyr<em> is a book about the interplay between theater and religion in early modern France. Challenging the standard narrative of modernity as a process of increased secularization Christopher Semk demonstrates the centrality of religious thought and practices to the development of neoclassical poetics. Engaging with a broad corpus of religious plays, poetic treatises, devotional literature, and contemporary theory, Semk shows that religion was a vital interlocutor in early modern discussions concerning the definition of verisimilitude, the nature and purpose of spectacle, the mechanics of acting, and the position of the </em><a href=\"#/spectacle\"><em>spectator</em></a><em>. Well researched and persuasively argued</em>, Playing the Martyr<em> makes the case for a more complicated approach to the relationship between religion and literature, namely, one that does not treat religion as a theme deployed within literary works, but as an active player in literary invention. Indeed, it makes the case for a serious reconsideration of the role that religion plays in the development of modern, secular literary forms.</em>"
+            }
+          ]
+        },
+        {
+          "id": "906b5cdf-d8fd-4352-ae58-263487210662",
+          "type": "column",
+          "children": [
+            {
+              "id": "528bc0dc-5a2d-4993-99f7-382ac5feed9c",
+              "type": "image",
+              "src": "./assets/images/untitled-072ac14ba803.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9b3f7f74-c49e-477d-9502-58d5745d28dc",
+      "type": "divider"
+    },
+    {
+      "id": "38021541-07d4-4e0d-8da4-178216ea14ff",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a0341cfe-2a1d-441d-a1e9-fbd53bd134b6",
+          "type": "column",
+          "children": [
+            {
+              "id": "13b341e9-4ae4-4947-8a13-e7e3555a3988",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9a44632c-65eb-4dc7-8980-36a8474c7b2a",
+          "type": "column",
+          "children": [
+            {
+              "id": "96bacba3-3d86-4a64-a3af-6280a46f126f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3wEUpEI\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5046ff2b-83c0-468a-8de6-acdd6985740b",
+      "type": "divider"
+    },
+    {
+      "id": "e4a82daf-7d70-48d7-af37-5cd516d9d1cb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4f44449b-9c26-4206-bc9a-9d19e76b5d10",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "f5ec9051-f9a4-4825-93a0-7367c26d2ec1",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

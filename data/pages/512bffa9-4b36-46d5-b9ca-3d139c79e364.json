@@ -1,0 +1,627 @@
+{
+  "id": "512bffa9-4b36-46d5-b9ca-3d139c79e364",
+  "slug": "music",
+  "title": "Music",
+  "icon": "./assets/images/music-gray-c20c46058378.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e6db2488-fc43-4ce9-9a18-2927327264c2",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/512bffa94b3646d5b9ca3d139c79e364",
+  "createdTime": 1701372693997,
+  "lastEditedTime": 1701392574462,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Music"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/book-3f543773a60c.webp",
+  "blocks": [
+    {
+      "id": "019f1c91-85e7-4c03-9522-cc46d93743e6",
+      "type": "paragraph",
+      "html": "     <em>master list of collected paidiosophical texts</em>"
+    },
+    {
+      "id": "68a4e9f7-d21b-4c90-a639-d333e9958169",
+      "type": "divider"
+    },
+    {
+      "id": "fe59b191-307e-470f-bb54-af1e57360a1f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b5db1dbe-db10-4c01-9d26-782c69dfdd28",
+          "type": "column",
+          "children": [
+            {
+              "id": "76679891-4b91-4797-87b4-99fe7b6c3b4d",
+              "type": "synced_block",
+              "sourceBlockId": "e6db2488-fc43-4ce9-9a18-2927327264c2",
+              "children": [
+                {
+                  "id": "3bf14c17-04e2-4eb5-8f97-050d226973b8",
+                  "type": "paragraph",
+                  "html": "<strong><u>Tags:</u></strong>"
+                },
+                {
+                  "id": "6b9deb0d-0761-4da2-a2f3-0a56941b586b",
+                  "type": "page_link",
+                  "targetId": "6b9deb0d-0761-4da2-a2f3-0a56941b586b",
+                  "title": "AI",
+                  "notionType": "page"
+                },
+                {
+                  "id": "85f6ecd3-fef3-44b7-936a-6b1d59e5b9ca",
+                  "type": "page_link",
+                  "targetId": "85f6ecd3-fef3-44b7-936a-6b1d59e5b9ca",
+                  "title": "Animals",
+                  "notionType": "page"
+                },
+                {
+                  "id": "5c4388c1-1002-4cf3-b143-dd03aed0e167",
+                  "type": "page_link",
+                  "targetId": "5c4388c1-1002-4cf3-b143-dd03aed0e167",
+                  "title": "Anthropology",
+                  "notionType": "page"
+                },
+                {
+                  "id": "cf58c3e6-0bf4-4c94-b272-2c59ab3f5a1c",
+                  "type": "page_link",
+                  "targetId": "cf58c3e6-0bf4-4c94-b272-2c59ab3f5a1c",
+                  "title": "Arcade",
+                  "notionType": "page"
+                },
+                {
+                  "id": "0eeadb6b-c455-4934-b4f3-3d71b12c592d",
+                  "type": "page_link",
+                  "targetId": "0eeadb6b-c455-4934-b4f3-3d71b12c592d",
+                  "title": "Architecture",
+                  "notionType": "page"
+                },
+                {
+                  "id": "82e8c20f-0327-45c1-a526-5b264ab132cc",
+                  "type": "page_link",
+                  "targetId": "82e8c20f-0327-45c1-a526-5b264ab132cc",
+                  "title": "Art",
+                  "notionType": "page"
+                },
+                {
+                  "id": "71673a35-bcf1-4470-9329-4e3020609053",
+                  "type": "page_link",
+                  "targetId": "71673a35-bcf1-4470-9329-4e3020609053",
+                  "title": "Biology",
+                  "notionType": "page"
+                },
+                {
+                  "id": "90864725-3ec0-4e29-802e-f17e5384a491",
+                  "type": "page_link",
+                  "targetId": "90864725-3ec0-4e29-802e-f17e5384a491",
+                  "title": "Chess",
+                  "notionType": "page"
+                },
+                {
+                  "id": "1b1473b5-daef-48e6-a3b5-930ab0f23e2b",
+                  "type": "page_link",
+                  "targetId": "1b1473b5-daef-48e6-a3b5-930ab0f23e2b",
+                  "title": "Children",
+                  "notionType": "page"
+                },
+                {
+                  "id": "b2f3f13e-0f92-4d2d-a8b1-cdf0781849bd",
+                  "type": "page_link",
+                  "targetId": "b2f3f13e-0f92-4d2d-a8b1-cdf0781849bd",
+                  "title": "Competition",
+                  "notionType": "page"
+                },
+                {
+                  "id": "2bdfc3f9-922f-4993-9fd4-2cd45dad7620",
+                  "type": "page_link",
+                  "targetId": "2bdfc3f9-922f-4993-9fd4-2cd45dad7620",
+                  "title": "Computers",
+                  "notionType": "page"
+                },
+                {
+                  "id": "eea561bc-948b-4405-a56d-4fbc57a44c42",
+                  "type": "page_link",
+                  "targetId": "eea561bc-948b-4405-a56d-4fbc57a44c42",
+                  "title": "Consoles",
+                  "notionType": "page"
+                },
+                {
+                  "id": "62804167-b563-42af-a875-85c445283cbe",
+                  "type": "page_link",
+                  "targetId": "62804167-b563-42af-a875-85c445283cbe",
+                  "title": "Design",
+                  "notionType": "page"
+                },
+                {
+                  "id": "b667775f-e055-4265-90df-1789bee25024",
+                  "type": "page_link",
+                  "targetId": "b667775f-e055-4265-90df-1789bee25024",
+                  "title": "Divination",
+                  "notionType": "page"
+                },
+                {
+                  "id": "07c7419e-38c2-4874-9a0e-32a1ac10883d",
+                  "type": "page_link",
+                  "targetId": "07c7419e-38c2-4874-9a0e-32a1ac10883d",
+                  "title": "Economics",
+                  "notionType": "page"
+                },
+                {
+                  "id": "ecc0839c-c5f6-4a4d-9d0c-e5303564f14e",
+                  "type": "page_link",
+                  "targetId": "ecc0839c-c5f6-4a4d-9d0c-e5303564f14e",
+                  "title": "Education",
+                  "notionType": "page"
+                },
+                {
+                  "id": "c1fc9cd7-61ea-4613-a6ad-6dd9198de15d",
+                  "type": "page_link",
+                  "targetId": "c1fc9cd7-61ea-4613-a6ad-6dd9198de15d",
+                  "title": "Esoteric",
+                  "notionType": "page"
+                },
+                {
+                  "id": "7b254992-6d1e-4092-bc34-80a477266051",
+                  "type": "page_link",
+                  "targetId": "7b254992-6d1e-4092-bc34-80a477266051",
+                  "title": "Ethography",
+                  "notionType": "page"
+                },
+                {
+                  "id": "bc90d4c4-7bd3-4837-bbfc-00e745295ce2",
+                  "type": "page_link",
+                  "targetId": "bc90d4c4-7bd3-4837-bbfc-00e745295ce2",
+                  "title": "Festival",
+                  "notionType": "page"
+                },
+                {
+                  "id": "6ede462b-e54b-4c4b-b74c-aa33c10bbd17",
+                  "type": "page_link",
+                  "targetId": "6ede462b-e54b-4c4b-b74c-aa33c10bbd17",
+                  "title": "Film/TV",
+                  "notionType": "page"
+                },
+                {
+                  "id": "80b22dc2-d478-44af-b394-a0b03ce9dee5",
+                  "type": "page_link",
+                  "targetId": "80b22dc2-d478-44af-b394-a0b03ce9dee5",
+                  "title": "Gardening",
+                  "notionType": "page"
+                },
+                {
+                  "id": "6a2e81f6-e47d-4a27-b634-9ccb0a376985",
+                  "type": "page_link",
+                  "targetId": "6a2e81f6-e47d-4a27-b634-9ccb0a376985",
+                  "title": "Hacking",
+                  "notionType": "page"
+                },
+                {
+                  "id": "63c1e587-97fe-4e7c-ba58-11d64a0f7bc5",
+                  "type": "page_link",
+                  "targetId": "63c1e587-97fe-4e7c-ba58-11d64a0f7bc5",
+                  "title": "History",
+                  "notionType": "page"
+                },
+                {
+                  "id": "ea1abb1f-de7f-467e-8ca6-5951447150a1",
+                  "type": "page_link",
+                  "targetId": "ea1abb1f-de7f-467e-8ca6-5951447150a1",
+                  "title": "Humor",
+                  "notionType": "page"
+                },
+                {
+                  "id": "85beb415-4774-46a1-a45f-1c68c2f55a48",
+                  "type": "page_link",
+                  "targetId": "85beb415-4774-46a1-a45f-1c68c2f55a48",
+                  "title": "Indie",
+                  "notionType": "page"
+                },
+                {
+                  "id": "f934ec3d-c443-4607-8db8-19506c5f6913",
+                  "type": "page_link",
+                  "targetId": "f934ec3d-c443-4607-8db8-19506c5f6913",
+                  "title": "Industry",
+                  "notionType": "page"
+                },
+                {
+                  "id": "a403a3c6-6dc9-4b79-ad7e-377240c9e0a5",
+                  "type": "page_link",
+                  "targetId": "a403a3c6-6dc9-4b79-ad7e-377240c9e0a5",
+                  "title": "Internet",
+                  "notionType": "page"
+                },
+                {
+                  "id": "ec52c9cd-df39-473b-a0f1-91bce2e47edb",
+                  "type": "page_link",
+                  "targetId": "ec52c9cd-df39-473b-a0f1-91bce2e47edb",
+                  "title": "Language",
+                  "notionType": "page"
+                },
+                {
+                  "id": "d485c92e-6ad4-46c3-9d4b-e27baa418f0f",
+                  "type": "page_link",
+                  "targetId": "d485c92e-6ad4-46c3-9d4b-e27baa418f0f",
+                  "title": "Leisure",
+                  "notionType": "page"
+                },
+                {
+                  "id": "b9448df7-7e90-4e95-a9c4-681cfb47b448",
+                  "type": "page_link",
+                  "targetId": "b9448df7-7e90-4e95-a9c4-681cfb47b448",
+                  "title": "Literature",
+                  "notionType": "page"
+                },
+                {
+                  "id": "ede791db-b99b-4e6c-b5a1-bcc6ef1d47b3",
+                  "type": "page_link",
+                  "targetId": "ede791db-b99b-4e6c-b5a1-bcc6ef1d47b3",
+                  "title": "Mathematics",
+                  "notionType": "page"
+                },
+                {
+                  "id": "b84e74e4-e6d0-44be-a9a2-568d4aedf3b2",
+                  "type": "page_link",
+                  "targetId": "b84e74e4-e6d0-44be-a9a2-568d4aedf3b2",
+                  "title": "Media",
+                  "notionType": "page"
+                },
+                {
+                  "id": "e5de12ce-57a8-4fb0-8b15-8d7c61517e30",
+                  "type": "page_link",
+                  "targetId": "e5de12ce-57a8-4fb0-8b15-8d7c61517e30",
+                  "title": "Memoir/Biography",
+                  "notionType": "page"
+                },
+                {
+                  "id": "512bffa9-4b36-46d5-b9ca-3d139c79e364",
+                  "type": "page_link",
+                  "targetId": "512bffa9-4b36-46d5-b9ca-3d139c79e364",
+                  "title": "Music",
+                  "notionType": "page"
+                },
+                {
+                  "id": "6563ba78-8100-4295-9940-2a852bcabbe4",
+                  "type": "page_link",
+                  "targetId": "6563ba78-8100-4295-9940-2a852bcabbe4",
+                  "title": "Myth",
+                  "notionType": "page"
+                },
+                {
+                  "id": "44231f54-ea2c-4a30-9b4e-1ae0341cbdd0",
+                  "type": "page_link",
+                  "targetId": "44231f54-ea2c-4a30-9b4e-1ae0341cbdd0",
+                  "title": "Narrative",
+                  "notionType": "page"
+                },
+                {
+                  "id": "b47f5492-f47a-412f-9dfc-cce0055a9c73",
+                  "type": "page_link",
+                  "targetId": "b47f5492-f47a-412f-9dfc-cce0055a9c73",
+                  "title": "Nature/Outdoors",
+                  "notionType": "page"
+                },
+                {
+                  "id": "8f5a642d-4faf-4dbf-a67c-7970801a574a",
+                  "type": "page_link",
+                  "targetId": "8f5a642d-4faf-4dbf-a67c-7970801a574a",
+                  "title": "Novels",
+                  "notionType": "page"
+                },
+                {
+                  "id": "a5d2208f-2364-4e62-8c2c-364786102598",
+                  "type": "page_link",
+                  "targetId": "a5d2208f-2364-4e62-8c2c-364786102598",
+                  "title": "Performance",
+                  "notionType": "page"
+                },
+                {
+                  "id": "b62ad008-6278-4280-944a-57ca9d9b0c5e",
+                  "type": "page_link",
+                  "targetId": "b62ad008-6278-4280-944a-57ca9d9b0c5e",
+                  "title": "Play",
+                  "notionType": "page"
+                },
+                {
+                  "id": "3c71fe4d-c205-4fb1-944d-8f9e969e13e7",
+                  "type": "page_link",
+                  "targetId": "3c71fe4d-c205-4fb1-944d-8f9e969e13e7",
+                  "title": "Playable",
+                  "notionType": "page"
+                },
+                {
+                  "id": "8bd22271-e8ea-4f10-8ad3-a3b7e3444b57",
+                  "type": "page_link",
+                  "targetId": "8bd22271-e8ea-4f10-8ad3-a3b7e3444b57",
+                  "title": "Poetry",
+                  "notionType": "page"
+                },
+                {
+                  "id": "7f22f5c2-1b50-4a0f-9e4a-5a0f07be04f6",
+                  "type": "page_link",
+                  "targetId": "7f22f5c2-1b50-4a0f-9e4a-5a0f07be04f6",
+                  "title": "Political",
+                  "notionType": "page"
+                },
+                {
+                  "id": "7f5707e7-c007-4f70-ae29-f57ef5c80443",
+                  "type": "page_link",
+                  "targetId": "7f5707e7-c007-4f70-ae29-f57ef5c80443",
+                  "title": "Puzzles",
+                  "notionType": "page"
+                },
+                {
+                  "id": "d5dea2f8-183c-44d5-9608-e2fc6a58b7e2",
+                  "type": "page_link",
+                  "targetId": "d5dea2f8-183c-44d5-9608-e2fc6a58b7e2",
+                  "title": "Psychology",
+                  "notionType": "page"
+                },
+                {
+                  "id": "ced5d204-50bd-4874-a975-fff478109c5a",
+                  "type": "page_link",
+                  "targetId": "ced5d204-50bd-4874-a975-fff478109c5a",
+                  "title": "Reference",
+                  "notionType": "page"
+                },
+                {
+                  "id": "83d46ce1-c5e8-4c6f-a2dd-3c65af980baf",
+                  "type": "page_link",
+                  "targetId": "83d46ce1-c5e8-4c6f-a2dd-3c65af980baf",
+                  "title": "Religion",
+                  "notionType": "page"
+                },
+                {
+                  "id": "e73ad2d0-85e0-4157-804d-f5f79955a8db",
+                  "type": "page_link",
+                  "targetId": "e73ad2d0-85e0-4157-804d-f5f79955a8db",
+                  "title": "Ritual",
+                  "notionType": "page"
+                },
+                {
+                  "id": "b7a89454-fb49-4112-b53c-8ccf00944ff4",
+                  "type": "page_link",
+                  "targetId": "b7a89454-fb49-4112-b53c-8ccf00944ff4",
+                  "title": "Role-playing",
+                  "notionType": "page"
+                },
+                {
+                  "id": "aaaf3cb2-8446-4f33-aaf0-8a4a921bf747",
+                  "type": "page_link",
+                  "targetId": "aaaf3cb2-8446-4f33-aaf0-8a4a921bf747",
+                  "title": "Self-help",
+                  "notionType": "page"
+                },
+                {
+                  "id": "0007a44d-fc2b-4773-be54-c85def35de1a",
+                  "type": "page_link",
+                  "targetId": "0007a44d-fc2b-4773-be54-c85def35de1a",
+                  "title": "Short Fiction",
+                  "notionType": "page"
+                },
+                {
+                  "id": "5f853e0c-e7bf-4900-adf8-77aa0f1bceec",
+                  "type": "page_link",
+                  "targetId": "5f853e0c-e7bf-4900-adf8-77aa0f1bceec",
+                  "title": "Social",
+                  "notionType": "page"
+                },
+                {
+                  "id": "2d706d47-87ba-4c04-adcf-8d4b0ba112d5",
+                  "type": "page_link",
+                  "targetId": "2d706d47-87ba-4c04-adcf-8d4b0ba112d5",
+                  "title": "Sports",
+                  "notionType": "page"
+                },
+                {
+                  "id": "230d9d31-a985-4994-a210-0e03590e9f5f",
+                  "type": "page_link",
+                  "targetId": "230d9d31-a985-4994-a210-0e03590e9f5f",
+                  "title": "Tabletop",
+                  "notionType": "page"
+                },
+                {
+                  "id": "f8596901-6e66-47e5-818a-ffd73a0ecd0f",
+                  "type": "page_link",
+                  "targetId": "f8596901-6e66-47e5-818a-ffd73a0ecd0f",
+                  "title": "Technology",
+                  "notionType": "page"
+                },
+                {
+                  "id": "5528ed36-d8f4-4f2a-a873-80ac533ef3fb",
+                  "type": "page_link",
+                  "targetId": "5528ed36-d8f4-4f2a-a873-80ac533ef3fb",
+                  "title": "Textbook",
+                  "notionType": "page"
+                },
+                {
+                  "id": "beab8946-6871-4046-8c41-71d26d689ffd",
+                  "type": "page_link",
+                  "targetId": "beab8946-6871-4046-8c41-71d26d689ffd",
+                  "title": "Theology",
+                  "notionType": "page"
+                },
+                {
+                  "id": "93f3b1b4-7654-4dc2-8341-411764fbe00e",
+                  "type": "page_link",
+                  "targetId": "93f3b1b4-7654-4dc2-8341-411764fbe00e",
+                  "title": "Theory",
+                  "notionType": "page"
+                },
+                {
+                  "id": "b5686b32-7aca-4c55-b15c-c4d58384907e",
+                  "type": "page_link",
+                  "targetId": "b5686b32-7aca-4c55-b15c-c4d58384907e",
+                  "title": "Toys",
+                  "notionType": "page"
+                },
+                {
+                  "id": "9a85395d-d264-412c-bfed-0e33b89f0d77",
+                  "type": "page_link",
+                  "targetId": "9a85395d-d264-412c-bfed-0e33b89f0d77",
+                  "title": "Urban",
+                  "notionType": "page"
+                },
+                {
+                  "id": "5d64c780-ab21-4092-a184-7286c9a8c36e",
+                  "type": "page_link",
+                  "targetId": "5d64c780-ab21-4092-a184-7286c9a8c36e",
+                  "title": "Virtual Life",
+                  "notionType": "page"
+                },
+                {
+                  "id": "62b6a8dd-6852-4796-b487-22daa0de041f",
+                  "type": "page_link",
+                  "targetId": "62b6a8dd-6852-4796-b487-22daa0de041f",
+                  "title": "Videogames",
+                  "notionType": "page"
+                },
+                {
+                  "id": "f6cfe185-b07e-40f9-b183-bda11e39070f",
+                  "type": "page_link",
+                  "targetId": "f6cfe185-b07e-40f9-b183-bda11e39070f",
+                  "title": "VR",
+                  "notionType": "page"
+                },
+                {
+                  "id": "559c3d91-0b22-41c3-8e5b-4d1c46b2dce6",
+                  "type": "page_link",
+                  "targetId": "559c3d91-0b22-41c3-8e5b-4d1c46b2dce6",
+                  "title": "Wargaming",
+                  "notionType": "page"
+                },
+                {
+                  "id": "a30463f8-b160-43bb-990d-5f1b40ff818f",
+                  "type": "page_link",
+                  "targetId": "a30463f8-b160-43bb-990d-5f1b40ff818f",
+                  "title": "Women",
+                  "notionType": "page"
+                },
+                {
+                  "id": "553cc17b-49b7-4433-a7d9-a216fcd250bb",
+                  "type": "paragraph",
+                  "html": ""
+                },
+                {
+                  "id": "ef454349-9b40-49ce-ac29-f63e04b148eb",
+                  "type": "toggle",
+                  "html": "<strong><u>Regions:</u></strong>",
+                  "children": []
+                },
+                {
+                  "id": "1a177e7b-ac80-4d7c-8bdf-77b8e65ad163",
+                  "type": "paragraph",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "id": "e3b0f8f3-2631-49e3-8352-5c563fa7d229",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b475d31f-f4d1-4847-8dfd-c1038a88ae50",
+              "type": "paragraph",
+              "html": "  "
+            },
+            {
+              "id": "34c1600d-18d0-46ea-a2b9-8f3dec74ecf5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c386255f-9a34-4e17-add6-1e8e8f132269",
+          "type": "column",
+          "children": [
+            {
+              "id": "61d956e3-65cb-4c3b-9b89-18d75deaa51e",
+              "type": "collection_view",
+              "collectionId": "e161c959-adf2-4e1f-bb82-738ffa756ae7",
+              "viewIds": [
+                "e28d69b9-9634-40cb-9ee5-992981aaf216"
+              ],
+              "title": ""
+            }
+          ]
+        },
+        {
+          "id": "eff865f7-e1bf-4d9e-b0cd-7b23105dfd79",
+          "type": "column",
+          "children": [
+            {
+              "id": "02b7063d-e7ea-4b51-b7a1-9121cef75589",
+              "type": "synced_block",
+              "sourceBlockId": "62ace8c3-0faa-4b45-a157-9ffaaaf4c0c8",
+              "children": [
+                {
+                  "id": "0a3e80a4-4160-4f26-a9af-fe03dde99da3",
+                  "type": "image",
+                  "src": "./assets/images/book-3f543773a60c.webp",
+                  "caption": "",
+                  "alt": "book.gif"
+                },
+                {
+                  "id": "6cfb7cc0-cef5-4bca-b893-ce598c2e5fdc",
+                  "type": "paragraph",
+                  "html": ""
+                },
+                {
+                  "id": "51ca6837-cd64-484e-81b3-e6749f417dd8",
+                  "type": "paragraph",
+                  "html": "<em>see also:</em>"
+                },
+                {
+                  "id": "a58b8bff-c0dc-4aaa-97f6-5ec9c2399487",
+                  "type": "paragraph",
+                  "html": "‣ "
+                },
+                {
+                  "id": "5c7b9eb5-983b-47be-a325-7e30ac1490c8",
+                  "type": "paragraph",
+                  "html": "‣ "
+                },
+                {
+                  "id": "9063b522-7df3-4c70-be93-b2523a3b81c4",
+                  "type": "paragraph",
+                  "html": "‣ "
+                },
+                {
+                  "id": "9ef3035f-a21f-4e75-b4cd-db4b05322691",
+                  "type": "paragraph",
+                  "html": ""
+                },
+                {
+                  "id": "deb21757-9427-409a-8829-7349a6be3d87",
+                  "type": "paragraph",
+                  "html": "<em>yellow icon</em><em> = librarian’s choice</em>"
+                },
+                {
+                  "id": "6b6498ca-21bf-4f35-8b69-4d5b6e0116ef",
+                  "type": "paragraph",
+                  "html": ""
+                },
+                {
+                  "id": "337db698-cf00-4477-bd88-0227dfbc7b73",
+                  "type": "toggle",
+                  "html": "<strong><u>Categories</u></strong>",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

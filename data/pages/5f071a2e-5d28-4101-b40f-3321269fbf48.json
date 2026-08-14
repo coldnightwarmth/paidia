@@ -1,0 +1,121 @@
+{
+  "id": "5f071a2e-5d28-4101-b40f-3321269fbf48",
+  "slug": "the-masks-of-god",
+  "title": "The Masks of God",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Masks-of-God-5f071a2e5d284101b40f3321269fbf48?pvs=21",
+  "createdTime": 1651706095999,
+  "lastEditedTime": 1681314291616,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Masks of God"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-747ee38295ad.webp",
+  "blocks": [
+    {
+      "id": "0bebca50-8531-4099-8c5f-d534cb41e355",
+      "type": "divider"
+    },
+    {
+      "id": "783a82b2-937d-4190-8d8e-300ff6ee22d4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a1d14e39-d2cb-455d-ada3-fca4f8338433",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4847d6f2-5fc4-4458-a032-18f01236f47e",
+          "type": "column",
+          "children": [
+            {
+              "id": "5bc82b37-f55e-424d-889a-9d8e71dc50a1",
+              "type": "paragraph",
+              "html": "<em><strong>The Masks of God</strong></em> is a series of 4 books written by Joseph Campbell, originally published by Penguin from 1959-1968."
+            },
+            {
+              "id": "96fea5a4-f509-4c8d-811a-23e5e14de0f2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ecd6bcda-b297-4d4f-9a00-c9a9115ede3f",
+              "type": "quote",
+              "html": "<em>This four-volume magnum opus was Campbell’s most comprehensive attempt to lay out his theories of the history of </em><a href=\"#/video-games-as-myth-reconstructions\"><em>myth</em></a><em> and religion.<br><br>Published between 1959 and 1968, Campbell’s </em>The Masks of God<em><br> covers mythology from around the world, from ancient to modern. Where </em>The Hero with A Thousand Faces <em>focused on the commonality of mythology (the “elementary ideas”), </em>The Masks of God<em> books focus upon historical and cultural variations the monomyth takes on (the “</em><a href=\"#/the-folkgames-of-children\"><em>folk ideas</em></a><em>”). In other words, where The Hero with a Thousand Faces draws perhaps more from psychology, the Masks of God books draw more from </em><a href=\"#/the-anthropology-of-performance\"><em>anthropology</em></a><em> and history.</em>"
+            }
+          ]
+        },
+        {
+          "id": "70c4a077-7fd6-4be7-94c2-f2e0baf0809d",
+          "type": "column",
+          "children": [
+            {
+              "id": "85a70eff-7f4d-421e-adb6-8e16e3d699bf",
+              "type": "image",
+              "src": "./assets/images/untitled-747ee38295ad.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ac550db-a7b5-4643-a47e-3fa2f5ed4888",
+      "type": "divider"
+    },
+    {
+      "id": "336d3858-2e2e-4cc3-839f-06023947268d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "726194ab-c88d-411d-a61b-61f530fc276d",
+          "type": "column",
+          "children": [
+            {
+              "id": "a9c47d61-78cb-4907-a6a3-0b8213ab9287",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "37f02895-13c0-4482-9a99-ed562feda7e9",
+          "type": "column",
+          "children": [
+            {
+              "id": "1de8bbda-0812-408e-be87-7d77eb7aad1a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3N83RXN\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c3daaeb-be8c-4374-84c3-54bdd3a72777",
+      "type": "divider"
+    }
+  ]
+}

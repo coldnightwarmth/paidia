@@ -1,0 +1,126 @@
+{
+  "id": "38daa0c7-1967-4b8e-ad26-b5149dc2452c",
+  "slug": "searching-for-bobby-fischer",
+  "title": "Searching for Bobby Fischer",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Searching-for-Bobby-Fischer-38daa0c719674b8ead26b5149dc2452c?pvs=21",
+  "createdTime": 1653175487153,
+  "lastEditedTime": 1681314000400,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Searching for Bobby Fischer",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/91gpzkjumal-f03e4e958779.webp",
+  "blocks": [
+    {
+      "id": "0bc46d1c-a260-4f46-a35c-e259e1cb805d",
+      "type": "divider"
+    },
+    {
+      "id": "a402ecb1-692a-4f1a-8da9-236e335a5eb3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5b507507-f4bc-4d3c-98a0-031a460b7b44",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8991d31a-bd15-4162-9332-731f1fc6f1ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "7a6e5936-f1a7-4654-afe7-a4b802b0d558",
+              "type": "paragraph",
+              "html": "<em><strong>Searching for Bobby Fischer: The Father of a Prodigy Observes the World of Chess</strong></em> was written by Fred Waitzkin, originally published by Vintage/Ebury, March 30, 1989."
+            },
+            {
+              "id": "4703d6e9-7fca-4ae2-8953-7de85d10b395",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "14b63de7-e63f-4b2e-81fb-4ac78bec0dd0",
+              "type": "quote",
+              "html": "<em>Fred Waitzkin was smitten with chess during the historic Fischer-Spassky championship in 1972. When Fisher disappeared from public view, Waitzkin's interest waned—until his own son Josh emerged as a chess prodigy.<br></em><br>Searching for Bobby Fischer<em> is the story of Fred Waitzkin and his son, from the moment six-year-old Josh first sits down at a chessboard until he competes for the national championship. Drawn into the insular, international network of chess, they must also navigate the difficult waters of their own relationship. All the while, Waitzskin searches for the elusive Bobby Fischer, whose myth still dominates the chess world and profoundly affects Waitzkin’s dreams for his son.</em>"
+            }
+          ]
+        },
+        {
+          "id": "081d05a0-74a2-4d61-ae6c-7cbd4aa085d4",
+          "type": "column",
+          "children": [
+            {
+              "id": "104d8acf-9b2d-498c-bcec-6e60a4d9076a",
+              "type": "image",
+              "src": "./assets/images/91gpzkjumal-f03e4e958779.webp",
+              "caption": "",
+              "alt": "91gpzKJUmaL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9387db9f-3d75-4f49-9779-14c888d3c77f",
+      "type": "divider"
+    },
+    {
+      "id": "c4c2032b-306f-4828-9d29-5528f1e69cfa",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e9b7befa-aa14-4bce-a8f9-cc97a6f76aa4",
+          "type": "column",
+          "children": [
+            {
+              "id": "a9806cb8-66db-4c35-866d-830e295cf078",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d87b3bd7-a56c-4e09-96bc-896eb465f31e",
+          "type": "column",
+          "children": [
+            {
+              "id": "1064f961-34cc-4422-b334-a2f150461c72",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zsvw11\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19945322-452d-45e5-ba9d-76a5cc3683d5",
+      "type": "divider"
+    }
+  ]
+}

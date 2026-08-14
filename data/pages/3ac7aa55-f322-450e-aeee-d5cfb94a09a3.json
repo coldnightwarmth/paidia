@@ -1,0 +1,99 @@
+{
+  "id": "3ac7aa55-f322-450e-aeee-d5cfb94a09a3",
+  "slug": "one-giant-leap-for-go",
+  "title": "One giant leap for go",
+  "icon": "https://www.notion.so/icons/document_gray.svg",
+  "cover": "",
+  "type": "page",
+  "parentId": "af054981-b0c6-4e9c-a996-596c7a902d38",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/3ac7aa55f322450eaeeed5cfb94a09a3",
+  "createdTime": 1680534467047,
+  "lastEditedTime": 1681311796987,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Essay/Article"
+      ]
+    ],
+    "title": [
+      [
+        "One giant leap for go",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "7ab03807-7e8e-445b-8aba-7d5061177d7c",
+      "type": "paragraph",
+      "html": "<em>by Mike Peng &amp; Mark Hall</em>"
+    },
+    {
+      "id": "9da5a2b0-3794-449e-ae03-ccf2066f95ac",
+      "type": "divider"
+    },
+    {
+      "id": "f93962a7-fe3f-42fe-ac9c-686c825fbfcc",
+      "type": "bookmark",
+      "src": "https://web.archive.org/web/20120304121705/http://homepage.mac.com/bjornwendsjo/go/2-96.pdf",
+      "title": ""
+    },
+    {
+      "id": "42fc22ba-7c3e-40fe-86c4-973c6bb531c2",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "861dce0d-7c17-4486-9598-241bae44e127",
+      "type": "file",
+      "kind": "pdf",
+      "src": "./assets/documents/one-giant-leap-for-go-d00664f0f0.pdf",
+      "title": "one giant leap for go, or astronauts find life in space.pdf",
+      "size": "169.5KB",
+      "downloadName": "one giant leap for go, or astronauts find life in space.pdf"
+    },
+    {
+      "id": "486f9ff1-d475-4441-927c-cf5732af50e6",
+      "type": "file",
+      "kind": "file",
+      "src": "./assets/documents/one-giant-leap-for-go-d00664f0f0.pdf",
+      "title": "one giant leap for go, or astronauts find life in space.pdf",
+      "size": "169.5KB",
+      "downloadName": "one giant leap for go, or astronauts find life in space.pdf"
+    },
+    {
+      "id": "8d94abc6-f41a-4fe6-a254-c26af61044fd",
+      "type": "divider"
+    },
+    {
+      "id": "dfa652f2-1a7e-4177-96f4-8602ab12516e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b334ab4b-e1a1-4d35-af5a-6f11aa05a659",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3cc02d6e-8702-4aac-a842-80ad4fa09eda",
+      "type": "paragraph",
+      "html": "<a href=\"#/essays-articles-and-blogposts\"><u>☜Written Essays &amp; Articles</u></a>"
+    },
+    {
+      "id": "3f6b9e7c-f31a-4c53-bf8d-e055b9acf7aa",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

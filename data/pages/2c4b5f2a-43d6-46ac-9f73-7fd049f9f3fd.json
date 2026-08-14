@@ -1,0 +1,88 @@
+{
+  "id": "2c4b5f2a-43d6-46ac-9f73-7fd049f9f3fd",
+  "slug": "bitcoin-white-paper",
+  "title": "Bitcoin white paper",
+  "icon": "https://www.notion.so/icons/document_gray.svg",
+  "cover": "",
+  "type": "page",
+  "parentId": "42c9ccd7-de42-47d1-810a-3178809881f3",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/2c4b5f2a43d646ac9f737fd049f9f3fd",
+  "createdTime": 1651762920000,
+  "lastEditedTime": 1681311187646,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Essay/Article"
+      ]
+    ],
+    "title": [
+      [
+        "Bitcoin white paper"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "26f67c99-59bc-4ed9-ae5b-5b12f03de323",
+      "type": "paragraph",
+      "html": "<em>by Satoshi Nakamoto</em>"
+    },
+    {
+      "id": "f92aa091-685c-4e5b-99e5-c268170ebb55",
+      "type": "divider"
+    },
+    {
+      "id": "aa65cced-7679-4ee5-8fd4-34578429da83",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "214a3b1b-8a54-4b26-9e23-22f5160e7030",
+      "type": "file",
+      "kind": "pdf",
+      "src": "./assets/documents/bitcoin-white-paper-ce3933ccb6.pdf",
+      "title": "bitcoin white paper.pdf",
+      "size": "217.6KB",
+      "downloadName": "bitcoin white paper.pdf"
+    },
+    {
+      "id": "5ac1d732-8c2e-498b-adb6-f5dfb08b9c09",
+      "type": "file",
+      "kind": "file",
+      "src": "./assets/documents/bitcoin-white-paper-ce3933ccb6.pdf",
+      "title": "bitcoin white paper.pdf",
+      "size": "217.6KB",
+      "downloadName": "bitcoin white paper.pdf"
+    },
+    {
+      "id": "dee4e0e4-4461-4a2c-88d1-29ffc5bebef9",
+      "type": "divider"
+    },
+    {
+      "id": "881eb898-0d62-4905-9f04-171235441d4e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f7c9a643-1097-42bc-8a52-c3354954ab88",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "aeaf7697-7a7c-400f-9848-56c8498d484c",
+      "type": "paragraph",
+      "html": "<a href=\"#/essays-articles-and-blogposts\"><u>☜Written Essays &amp; Articles</u></a>"
+    },
+    {
+      "id": "d77e2fff-2305-4d72-8e94-199fca875c68",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

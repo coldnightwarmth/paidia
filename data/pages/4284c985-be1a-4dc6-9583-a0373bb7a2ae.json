@@ -1,0 +1,102 @@
+{
+  "id": "4284c985-be1a-4dc6-9583-a0373bb7a2ae",
+  "slug": "games",
+  "title": "Games",
+  "icon": "🎲",
+  "cover": "./assets/images/a-group-of-tibetan-herders-play-billiards-on-the-pasture-nea-7994d0724a31.webp",
+  "type": "page",
+  "parentId": "aedae6cc-3de7-4c4b-8cb3-305b4e9b560a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/4284c985be1a4dc69583a0373bb7a2ae",
+  "createdTime": 1704852276682,
+  "lastEditedTime": 1704852869016,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Games"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "fc60801b-12c9-4d0c-b026-2644d913e680",
+      "type": "paragraph",
+      "html": "<em>     notable games in the discourse of play</em>"
+    },
+    {
+      "id": "03177059-6fc5-463d-93b5-e16acded05c7",
+      "type": "divider"
+    },
+    {
+      "id": "b89dc857-2321-4e70-bc21-e9d0347d9006",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9bebc86d-bfe2-4440-9d8e-cece28416d33",
+          "type": "column",
+          "children": [
+            {
+              "id": "45fed730-f689-455a-8504-0aa21710e4a0",
+              "type": "page_link",
+              "targetId": "45fed730-f689-455a-8504-0aa21710e4a0",
+              "title": "Sports",
+              "notionType": "page"
+            },
+            {
+              "id": "61222e79-49ae-4e4d-ab1d-f207cde346ee",
+              "type": "page_link",
+              "targetId": "61222e79-49ae-4e4d-ab1d-f207cde346ee",
+              "title": "Tabletop Games",
+              "notionType": "page"
+            },
+            {
+              "id": "c299b845-22b0-4918-936a-79c52212739e",
+              "type": "page_link",
+              "targetId": "c299b845-22b0-4918-936a-79c52212739e",
+              "title": "Videogames",
+              "notionType": "page"
+            },
+            {
+              "id": "aa20fc29-9024-4b5a-b718-7f792d60981a",
+              "type": "page_link",
+              "targetId": "aa20fc29-9024-4b5a-b718-7f792d60981a",
+              "title": "Other Games & Toys",
+              "notionType": "page"
+            },
+            {
+              "id": "a4b1d412-0e83-4b13-86cd-8893559efaba",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "002031f7-420d-419c-b5dc-d3a6c423c2b1",
+          "type": "column",
+          "children": [
+            {
+              "id": "3abb6799-20c8-4416-8de0-3721d462327f",
+              "type": "collection_view",
+              "collectionId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
+              "viewIds": [
+                "e2f7c94b-2b06-4ba0-9faf-e3d59f19d04b",
+                "0fb04775-5708-48b0-ba8e-c12571df27f9"
+              ],
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

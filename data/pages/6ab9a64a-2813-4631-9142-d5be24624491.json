@@ -1,0 +1,134 @@
+{
+  "id": "6ab9a64a-2813-4631-9142-d5be24624491",
+  "slug": "the-history-of-the-stealth-game",
+  "title": "The History of the Stealth Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-History-of-the-Stealth-Game-6ab9a64a281346319142d5be24624491?pvs=21",
+  "createdTime": 1657243534702,
+  "lastEditedTime": 1681314359602,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The History of the Stealth Game",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b4b4688175d5.webp",
+  "blocks": [
+    {
+      "id": "56d5b9aa-5753-404d-ac83-99f65b190b49",
+      "type": "divider"
+    },
+    {
+      "id": "a088363e-2fae-4184-86d7-4286105e8837",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "36f47688-9292-4315-94bb-ed18d8f00467",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3ddc7656-0b86-4271-b073-978408fef7a0",
+          "type": "column",
+          "children": [
+            {
+              "id": "418ae9b9-4b8c-4816-905c-6e5e0f7c2921",
+              "type": "paragraph",
+              "html": "<em><strong><strong>The History of the Stealth Game: From Metal Gear to Splinter Cell and Everything in Between</strong></strong></em> was written by Kirk McKeand, published by Routledge, March 20, 2017."
+            },
+            {
+              "id": "797da076-71fb-4bca-aa51-6bb3b428e1c9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3731c7d9-12bd-4f00-a8e2-6b656b7ade20",
+              "type": "quote",
+              "html": "<em>This book recounts the stories behind the biggest stealth video games through 16 exclusive firsthand interviews. The featured games include Deus Ex, Dishonored, Splinter Cell Blacklist, Assassin's Creed, Hitman, Metal Gear Solid and more. From development decisions and the difficulties implementing them, to pages from the Metal Gear Solid design doc - this book has you covered.</em>"
+            },
+            {
+              "id": "f6f3254c-ba54-43bb-b853-3fa66f3e9883",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "561c0f15-b176-4c99-808b-e4cc727b960d",
+          "type": "column",
+          "children": [
+            {
+              "id": "82c8976a-1d9a-492d-9217-ffc2b1174ab3",
+              "type": "image",
+              "src": "./assets/images/untitled-b4b4688175d5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4049fbc8-1ece-4b0b-b5da-43b69c5fdce0",
+      "type": "divider"
+    },
+    {
+      "id": "9896a396-f1d6-4a20-a461-7769e479c06e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2135feef-94d5-468e-9312-e8b3ce3c4ced",
+          "type": "column",
+          "children": [
+            {
+              "id": "f816f5a7-3523-43c7-8355-4ff1018739b9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "53b8ac25-c08a-44f0-9a9b-bb48205510db",
+          "type": "column",
+          "children": [
+            {
+              "id": "5a4da9f8-8ffa-430d-8469-4c28e0869ccc",
+              "type": "callout",
+              "html": "<a href=\"https://www.brownsbfs.co.uk/Product/McKeand-Kirk/The-History-of-the-Stealth-Game--From-Metal-Gear-to-Splin/9781399096911\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b215efb4-41c9-4459-af4e-86d2341f8c7b",
+      "type": "divider"
+    }
+  ]
+}

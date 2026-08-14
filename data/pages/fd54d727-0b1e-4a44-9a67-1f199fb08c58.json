@@ -1,0 +1,162 @@
+{
+  "id": "fd54d727-0b1e-4a44-9a67-1f199fb08c58",
+  "slug": "about-the-editor-fd54d727",
+  "title": "About the editor",
+  "icon": "🍃",
+  "cover": "./assets/images/birds-c125d06c9aa8.webp",
+  "type": "page",
+  "parentId": "b37eca90-4e08-4910-ae2b-d0c02487dd3f",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/fd54d7270b1e4a449a671f199fb08c58",
+  "createdTime": 1652094180000,
+  "lastEditedTime": 1681310343154,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page"
+      ]
+    ],
+    "title": [
+      [
+        "About the editor"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/mgs5-64e-42e71e76aa39.webp",
+  "blocks": [
+    {
+      "id": "69067c45-7c40-4d9a-883d-3054eadc0257",
+      "type": "divider"
+    },
+    {
+      "id": "06fe8b31-4b56-4797-a66e-036fe1e70fa0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "accd884a-592e-4c40-bf60-f4b36526f1ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "90ed3ac3-ed44-4372-8230-4829a1182f23",
+              "type": "image",
+              "src": "./assets/images/mgs5-64e-42e71e76aa39.webp",
+              "caption": "",
+              "alt": "mgs5 64e.png"
+            }
+          ]
+        },
+        {
+          "id": "31776a24-1ac4-4ba7-b825-2567a188a4bf",
+          "type": "column",
+          "children": [
+            {
+              "id": "a34a049b-87eb-4454-83f4-398973448856",
+              "type": "paragraph",
+              "html": "<a href=\"http://kyl.neocities.org\" target=\"_blank\" rel=\"noreferrer\"><em>kyl</em></a><em> is a gamer </em>currently playing:<em> </em>Game Studies (1938)<em>. hermitic librarian knight gazing out upon the internet &amp; treasuring it up for pondering.</em> 🕂  🂮   🍃"
+            },
+            {
+              "id": "0c177518-3ff6-40b1-8965-21977b8f41f2",
+              "type": "toggle",
+              "html": "<strong>cv</strong>: ",
+              "children": []
+            },
+            {
+              "id": "85c169f0-f1e1-4251-83db-67eed3e6c58d",
+              "type": "paragraph",
+              "html": "〜˚✛｡〜⋄〜˚✛｡〜⋄〜˚✛｡〜⋄〜˚✛｡〜⋄〜˚✛｡〜⋄〜˚✛｡〜"
+            },
+            {
+              "id": "f4baee40-12b5-4d9f-a56d-715f98fd5211",
+              "type": "paragraph",
+              "html": "<em>me- i (k)no n(othin)g</em>"
+            },
+            {
+              "id": "36daf4c3-1d3d-4bcb-b51d-4b295ac650a5",
+              "type": "paragraph",
+              "html": "<em>me? i? no! n(othin)g.</em>"
+            },
+            {
+              "id": "cf0cffcb-1201-48ac-b7f3-d2c28bded987",
+              "type": "paragraph",
+              "html": "  ~❀"
+            },
+            {
+              "id": "0330ffcf-34e3-4b84-a005-8f4ec8808463",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c58564b1-2a04-45cf-b122-4eb506127562",
+              "type": "toggle",
+              "html": "favs&lt;3",
+              "children": []
+            },
+            {
+              "id": "28b56405-5498-4086-98b3-9d5e7334796d",
+              "type": "toggle",
+              "html": "social :)",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4dd3bc32-d7de-47c1-84a2-cf3fb957fa48",
+      "type": "embed",
+      "src": "https://kyl.neocities.org/",
+      "caption": ""
+    },
+    {
+      "id": "a33e3d24-d7dd-4fc1-bb19-edf5d4143ba5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "766a405a-1ab3-4a29-afa8-a1c41fa2370b",
+          "type": "column",
+          "children": [
+            {
+              "id": "3fc5eb5f-9ef7-4df4-a2ef-a24d41a3c166",
+              "type": "image",
+              "src": "./assets/images/farmer-074d6562db4b.webp",
+              "caption": "",
+              "alt": "farmer.jpg"
+            }
+          ]
+        },
+        {
+          "id": "192f1a21-0c38-427d-b87e-33d52e85fd08",
+          "type": "column",
+          "children": [
+            {
+              "id": "c8c07e89-d44b-411e-b0b9-cdf6b3d0a3cf",
+              "type": "image",
+              "src": "./assets/images/city-silhouette-2bcca6509d31.webp",
+              "caption": "",
+              "alt": "city silhouette.jpg"
+            },
+            {
+              "id": "5106512e-1d5c-4eb1-be20-eb5e42f4a599",
+              "type": "paragraph",
+              "html": "<em>take pixels, like clay<br>bent light, bent twice &amp; once more<br>made shapely in hand</em>"
+            },
+            {
+              "id": "8e82bfd0-53cc-4f57-8798-64f53e18641b",
+              "type": "paragraph",
+              "html": "<em>en virtual`d hands,<br>mov`d forth by an other mov`d<br>forth by another</em>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "edffeb7c-a805-40e1-8ff8-ff636250596b",
+      "type": "paragraph",
+      "html": "~"
+    }
+  ]
+}

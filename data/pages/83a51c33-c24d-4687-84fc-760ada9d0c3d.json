@@ -1,0 +1,139 @@
+{
+  "id": "83a51c33-c24d-4687-84fc-760ada9d0c3d",
+  "slug": "mary-flanagan",
+  "title": "Mary Flanagan",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "f9d064b5-05b3-4706-badb-4050ffd4d3cf",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/83a51c33c24d468784fc760ada9d0c3d",
+  "createdTime": 1666800942787,
+  "lastEditedTime": 1681328973612,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Mary Flanagan"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-33eb40329cdc.webp",
+  "blocks": [
+    {
+      "id": "80bfc318-02cb-474e-b265-5bb799f25c6c",
+      "type": "divider"
+    },
+    {
+      "id": "ceb1d423-ac38-4b4b-9334-9d828ea316d5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d89eb76a-98e9-4710-a260-969c60999785",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c2eb1a6d-7baa-493d-ad5b-6141f2ac9343",
+          "type": "column",
+          "children": [
+            {
+              "id": "e90f2c55-81d0-4a9f-ab46-df19e07cf2ea",
+              "type": "paragraph",
+              "html": "<strong>Mary Flanagan</strong> (<em>Born xx, xxxx – Died xx, xxxx</em>) was"
+            },
+            {
+              "id": "ae57dfa2-62ae-4abc-8947-c0d5b5061d21",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c5ac3fb8-2927-48a4-a264-8f55137b0509",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "eaa092e8-477a-4005-be7c-32945a0acfb7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "bb90a079-49a4-4a12-9534-d77728c3f1e8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e1aca29c-f0db-47a0-95e1-29afba83bd87",
+          "type": "column",
+          "children": [
+            {
+              "id": "fbf6d401-bef1-46d6-a80a-5699c90f3d69",
+              "type": "image",
+              "src": "./assets/images/untitled-33eb40329cdc.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68866a63-faa9-4ae2-8f43-0ff270933b8b",
+      "type": "divider"
+    },
+    {
+      "id": "47bef317-9cfe-4beb-9680-4a5ff00500fa",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "e87bfee6-f5cf-4591-a54c-b5390407eed8",
+      "type": "paragraph",
+      "html": "<a href=\"#/critical-play\">Critical Play</a> (2013) (<em>book</em>)"
+    },
+    {
+      "id": "3f41ac1b-d02b-401d-aef9-36604d5f1ec6",
+      "type": "paragraph",
+      "html": "<a href=\"#/values-at-play-in-digital-games\">Values at Play in Digital Games</a> (2014) (<em>book</em>)"
+    },
+    {
+      "id": "7260890a-8613-43c4-8311-bb5028795703",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5835ad1c-128f-495c-99dd-2d249ae4b481",
+      "type": "divider"
+    },
+    {
+      "id": "c3775ebe-cb40-4e85-855f-2a40d9e24098",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2c819ea7-563b-4035-a09d-1af2cc8c6f1d",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "cbcd6870-6da6-43cf-bd8a-ca990ed6bed1",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "6735b4ac-932c-4c34-988a-a1c6751352b9",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

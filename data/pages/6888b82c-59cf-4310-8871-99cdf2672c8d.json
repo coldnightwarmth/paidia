@@ -1,0 +1,131 @@
+{
+  "id": "6888b82c-59cf-4310-8871-99cdf2672c8d",
+  "slug": "hackers",
+  "title": "Hackers",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Hackers-6888b82c59cf4310887199cdf2672c8d?pvs=21",
+  "createdTime": 1657306228829,
+  "lastEditedTime": 1681314170853,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Hackers",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-05b90269777e.webp",
+  "blocks": [
+    {
+      "id": "72c1af6a-2317-4371-acfd-a0163098b7d4",
+      "type": "divider"
+    },
+    {
+      "id": "ad7be3f7-4a29-4b52-aef3-eccbb4c0f721",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7f65b15f-f4a7-46c7-a2a6-0fb6157187b3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "07f13bd7-5d57-4b83-ab92-b671fe7012fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "160cb6d5-efa9-42fe-b2a4-1e0af8538fd5",
+              "type": "paragraph",
+              "html": "<em><strong>Hackers: Heroes of the Computer Revolution</strong></em> was written by Steven Levy, originally published by Anchor Press/Doubleday, January 1, 1984."
+            },
+            {
+              "id": "dfe0800c-dda8-43dd-ab2d-349a91d35198",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "19632b0e-95c3-4c64-a590-e45fa4735965",
+              "type": "quote",
+              "html": "<em>Hackers: the undisputed masters of code who more than anyone are responsible for making computers widely available, splendidly useful, and fun. They are an astonishingly unique new breed of american hero, and Steven Levy has talked to the wildest brains among them to present the inside story of the computer revolution. What drove Ricky Greenblatt, Bill Gosper, and their friends to seize control of the multimillion-dollar computers at MIT in the fifties and sixties, so they could not only use them night after night but create, explore, and play on them? What drove Lee Felsenstein and his California hardware cohorts in the seventies to liberate the genie in the machine and give it to the people? What drove superstar game designer John Harris from the software company he had enriched in the Sierras in the eighties? It was a set of shared ideas and a vision they held in common – the Hacker Ethic. The Hacker Ethic was an idealistic and obsessive standard that led to weird lifestyles, to hilarious clashes with bureaucracies, and even to potential illegalities: in their urge to explore computers, hackers don’t necessarily care whose computer is being explored. But their hands-on, anti-authority Ethic, along with their technical brilliance, enabled them to triumph – as they do in scene after scene of this twenty-five-year epic of young American wizardry.</em>"
+            },
+            {
+              "id": "5f41ea57-8137-4b99-a05e-6207b0795c08",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "24187cf3-0a70-490f-ba9a-b427876835c1",
+          "type": "column",
+          "children": [
+            {
+              "id": "6b35d95e-c26e-4bb3-b6bc-3466818cbe59",
+              "type": "image",
+              "src": "./assets/images/untitled-05b90269777e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a797695-5d28-43fe-9e84-461d4f4cc1fa",
+      "type": "divider"
+    },
+    {
+      "id": "da9e1c54-193e-4d24-bc79-92aa0310fcda",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bf9acdcf-becb-4d36-80e9-652f3f197d92",
+          "type": "column",
+          "children": [
+            {
+              "id": "47f9de20-60b9-4f5d-939a-8c6341b937e1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "93999b48-1c57-4e25-934e-6164cb60aecc",
+          "type": "column",
+          "children": [
+            {
+              "id": "0c3c0dbf-bc9d-40b3-b027-40147bfa987d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OPDVBs\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1b7de063-4fd5-4346-b989-c20a170b1e6f",
+      "type": "divider"
+    }
+  ]
+}

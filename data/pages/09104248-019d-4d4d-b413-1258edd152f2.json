@@ -1,0 +1,131 @@
+{
+  "id": "09104248-019d-4d4d-b413-1258edd152f2",
+  "slug": "out-of-the-garden",
+  "title": "Out of the Garden",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Out-of-the-Garden-09104248019d4d4db4131258edd152f2?pvs=21",
+  "createdTime": 1670006582467,
+  "lastEditedTime": 1681312243682,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Out of the Garden",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-43a7ade84cb3.webp",
+  "blocks": [
+    {
+      "id": "7b80fb45-ca45-47d0-8a8c-d5a4781da835",
+      "type": "divider"
+    },
+    {
+      "id": "15bba84e-23f7-4b24-8a15-acd78ce441fa",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8b7d1df8-afe3-4f50-afe3-e8173b7611a3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4f86fb39-91da-4df1-829d-88cfb3950747",
+          "type": "column",
+          "children": [
+            {
+              "id": "83c0de01-ef17-4e6b-8499-7b0f51118af8",
+              "type": "paragraph",
+              "html": "<em><strong>Out of the Garden: Toys &amp; Children's Culture in the Age of TV Marketing</strong></em> was written by Stephen Kline, published by Verso, December 17, 1993."
+            },
+            {
+              "id": "26d737ed-b9ac-466a-ac8a-728fe6d38603",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3432e772-a0d6-4280-8bd4-18eed9685241",
+              "type": "quote",
+              "html": "<em>This timely and innovative book provides a detailed history of marketing to children, revealing the strategies that shape the design of toys and have a powerful impact on the way children play.<br><br>Stephen Kline looks at the history and development of children’s play culture and toys from the teddy bear to the Barbie doll, Care Bears and Teenage Mutant Ninja Turtles. He profiles the rise of children’s mass media—books, comics, film and television—and that of the specialty stores such as Toys ‘R’ Us, revealing how the opportunity to reach large audiences of children was a pivotal point in developing new approaches to advertising.<br><br>In a powerful re-examination of the debates about the cultural effects of mass media, and in particular television,</em> Out of the Garden <em>asks whether we should allow our children’s play culture to be primarily defined and created by marketing strategists, pointing to the unintended consequences of a situation in which images of real children have all but been eliminated from narratives about the young.</em>"
+            },
+            {
+              "id": "cd8ef936-7919-45de-80e2-41c2c78abf60",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "41b8d8f8-2b1b-47c5-890e-7a21ae39f691",
+          "type": "column",
+          "children": [
+            {
+              "id": "e41f9ccf-57c9-406a-a0c3-7312f7fa9266",
+              "type": "image",
+              "src": "./assets/images/untitled-43a7ade84cb3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e053230-073a-4810-8229-f519bd15c416",
+      "type": "divider"
+    },
+    {
+      "id": "c4ca6aac-a957-46f4-ace8-352dbfc06c0e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4115aee7-fce9-46f3-8605-e8efe56e6af7",
+          "type": "column",
+          "children": [
+            {
+              "id": "4612a301-7552-4fe5-a339-47f6805258af",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "44ccb32d-8c39-4665-abb7-10feec1ca21f",
+          "type": "column",
+          "children": [
+            {
+              "id": "f85b4182-38c2-42bf-b365-db621fe7c73c",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Out-Garden-Childrens-Marketing-Communication/dp/1859840590\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec00c3e9-aacf-45bd-8193-a942e8ad8f86",
+      "type": "divider"
+    }
+  ]
+}

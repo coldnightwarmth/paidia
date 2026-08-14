@@ -1,0 +1,146 @@
+{
+  "id": "00f56bca-8b04-440a-8619-31d19459d3f2",
+  "slug": "the-interactive-book",
+  "title": "The Interactive Book",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "16515e7c-ec2f-4d98-9fec-861099f13e9d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/00f56bca8b04440a861931d19459d3f2",
+  "createdTime": 1652624743439,
+  "lastEditedTime": 1681313369401,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Interactive Book",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c36c867945ab.webp",
+  "blocks": [
+    {
+      "id": "c4e041fb-c745-4d5e-844b-032b16ea28f9",
+      "type": "divider"
+    },
+    {
+      "id": "e11a79f8-fae3-48f2-aaa2-c3d1a18d99bd",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e4089fa3-c71d-4e0b-9c40-9d90a7bc11e2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2683ecaf-bd18-48e0-8be6-eb7e5f80efe4",
+          "type": "column",
+          "children": [
+            {
+              "id": "cd72a992-8b45-4e59-b4a2-f00714db2dd7",
+              "type": "paragraph",
+              "html": "<em><strong>The Interactive Book: A Guide to the Interactive Revolution</strong></em> was written by Celia Pearce, published by Macmillan, August 1, 1997."
+            },
+            {
+              "id": "aadc2cf8-f7be-4d24-ab96-2f9b01a5501a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6b325284-1e9a-4d34-b886-9b5025ca5cf7",
+              "type": "quote",
+              "html": "<em>The interactive book: a guide to the interactive revolution is a dynamic, nonlinear exploration of the social, cultural, and psychological impact of interactive media. Going beyond the high-tech hype, the interactive book is about people, not technology. It encompasses history, theory, practice, and anecdotes on a range of topics from the esoteric to the essential. Its pages are filled with interesting characters, discoveries and inventions, insight and practical guidance, as told from the point of view of a pioneer who has devoted her life to empowering people to create their own experience through interactive media.<br><br>The interactive book is for everyone - from the novice just getting online to the veteran interactive producer; from the computer literate to the technophobic; for students of interactivity to their professors; from the knowledgeable to the curious. The interactive book is for anyone concerned about the role of media in our lives.</em>"
+            },
+            {
+              "id": "bd2aa5af-957a-46da-8b5c-d783bb01499f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8675b263-9d2a-4c78-8666-0d9931cda3a2",
+          "type": "column",
+          "children": [
+            {
+              "id": "4ad2935e-864e-49f9-b2e3-2808fd24729e",
+              "type": "image",
+              "src": "./assets/images/untitled-c36c867945ab.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "209f66f6-8c12-4336-8a5a-96f382b33357",
+      "type": "divider"
+    },
+    {
+      "id": "d1965b20-ff37-4502-803b-0158cd191bce",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3441c235-6601-4c74-aa24-7dc485985af8",
+          "type": "column",
+          "children": [
+            {
+              "id": "15f43730-9a47-44c1-a9f4-9a7227ae220b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "44f9bd6a-94c7-4b3e-8029-ce3ad9c431f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "e5216c98-8bce-4d0c-af64-cc3bd32a8671",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Ss9nr8\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b9490395-7009-4253-a6fb-5f6a4fd94abe",
+      "type": "divider"
+    },
+    {
+      "id": "8433841a-9876-4f41-bdbf-5ff8434a20de",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "07987803-f188-4835-8a10-fd81369bbe78",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "9661b992-1643-422c-8d1b-02e01245f837",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

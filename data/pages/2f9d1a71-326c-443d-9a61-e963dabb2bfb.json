@@ -1,0 +1,558 @@
+{
+  "id": "2f9d1a71-326c-443d-9a61-e963dabb2bfb",
+  "slug": "prototyping-tools",
+  "title": "Prototyping tools",
+  "icon": "🖍️",
+  "cover": "",
+  "type": "page",
+  "parentId": "d02701b6-e3a0-42cc-aba7-e48629f57331",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/2f9d1a71326c443d9a61e963dabb2bfb",
+  "createdTime": 1664380054774,
+  "lastEditedTime": 1673355008089,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Prototyping tools"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "cc87bd1b-546b-49dc-8ec8-db65570f8654",
+      "type": "paragraph",
+      "html": "Prototyping is incredibly important since it helps designers validate an idea."
+    },
+    {
+      "id": "c1aea96d-553c-4188-81ab-fe89df4c4584",
+      "type": "paragraph",
+      "html": "Some studios will have technical game designers who’s whole job will be to prototype and validate ideas in engine. However, you do not need to know how to program in order to validate an idea. Prototyping can be done using simple, easy to use tools."
+    },
+    {
+      "id": "894f1e94-dacd-48cf-b2b8-e583f3940977",
+      "type": "paragraph",
+      "html": "First, have a think about the question you are trying to answer and the simplest version of the feature you could do that answers that question. Then select your tool from below!"
+    },
+    {
+      "id": "df2080a9-4396-4cef-832c-46f312a81d46",
+      "type": "subheader",
+      "html": "💃🏿 Paper prototyping 💃🏿",
+      "anchorId": "paper-prototyping"
+    },
+    {
+      "id": "fd24f2e2-fc0e-4e55-ac4a-f94cc4e28b1c",
+      "type": "paragraph",
+      "html": "Difficulty: 🍃"
+    },
+    {
+      "id": "ca71d223-e805-43ba-92d7-eab91b4dc4f3",
+      "type": "paragraph",
+      "html": "First of all consider if you even need a computer to test out an idea. Nine times out of ten you probably don’t!"
+    },
+    {
+      "id": "dad7e6ba-8b5a-4f26-9915-2891cc7e6ee4",
+      "type": "paragraph",
+      "html": "Here are some prototype ideas you could do that require no computers at all:"
+    },
+    {
+      "id": "d0b43b54-f993-4c88-b083-7766c16a08bb",
+      "type": "bulleted_list",
+      "html": "<a href=\"https://www.youtube.com/watch?v=dt1bQsZ68iw\" target=\"_blank\" rel=\"noreferrer\">Paper sketch</a>"
+    },
+    {
+      "id": "caea3cfe-3dd5-4e66-9558-b05594aa93e0",
+      "type": "bulleted_list",
+      "html": "Theatre or improv performance"
+    },
+    {
+      "id": "83345e41-db57-4a57-a92e-d6710adc82e6",
+      "type": "bulleted_list",
+      "html": "<a href=\"https://twitter.com/moreelen/status/1249690924155916289\" target=\"_blank\" rel=\"noreferrer\">Board or card game</a>"
+    },
+    {
+      "id": "2d30cfdb-eba1-4fcd-8df4-342c843dbe95",
+      "type": "bulleted_list",
+      "html": "DnD campaign"
+    },
+    {
+      "id": "fc634ba8-8d3f-4bf9-839b-d266883e23d5",
+      "type": "bulleted_list",
+      "html": "Paper or physical model"
+    },
+    {
+      "id": "37dddbcf-b9ab-41b0-9ad9-9d489d33c417",
+      "type": "subheader",
+      "html": "🎨 Flick Game 🎨",
+      "anchorId": "flick-game"
+    },
+    {
+      "id": "2b0f23a0-f747-4584-a83a-369de323c4d0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "44e4ee81-764c-49a4-b0a9-d23234f71805",
+          "type": "column",
+          "children": [
+            {
+              "id": "664fe08a-8aca-48d9-a777-d4a92ccbd02f",
+              "type": "bookmark",
+              "src": "",
+              "title": "flickgame.org"
+            }
+          ]
+        },
+        {
+          "id": "693873b7-0582-41b4-89f4-77ff37d2850d",
+          "type": "column",
+          "children": [
+            {
+              "id": "ede4256d-1025-4028-b59c-1bc01fe2cca1",
+              "type": "paragraph",
+              "html": "Difficulty: 🍃"
+            },
+            {
+              "id": "b9d646da-0c5d-4ea5-8ddc-8d366781107c",
+              "type": "paragraph",
+              "html": "Draw in browser or on mobile and link your drawings together."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daade852-b3db-44cc-b190-19a45321e8dd",
+      "type": "subheader",
+      "html": "🖍 Downpour 🖍",
+      "anchorId": "downpour"
+    },
+    {
+      "id": "8baf9350-70ae-42d9-bd2d-c7eb04e1ba50",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c5889371-241a-40ab-95c6-27468333ba97",
+          "type": "column",
+          "children": [
+            {
+              "id": "a96ae89d-9be1-4458-845d-d7f13602567d",
+              "type": "bookmark",
+              "src": "",
+              "title": "Downpour"
+            }
+          ]
+        },
+        {
+          "id": "041a590e-f493-4134-9e0a-8906c3a7a979",
+          "type": "column",
+          "children": [
+            {
+              "id": "c39e50df-db21-4c76-bf38-c1012e72b8f5",
+              "type": "paragraph",
+              "html": "Difficulty: 🍃"
+            },
+            {
+              "id": "29485ab7-fab9-4d5b-86b0-1ff94dfaabbc",
+              "type": "paragraph",
+              "html": "Take photos and link your photos together."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fed51771-0fb4-4ec4-829c-eca5f2a96a8e",
+      "type": "subheader",
+      "html": "🧶 Twine 🧶",
+      "anchorId": "twine"
+    },
+    {
+      "id": "674b5e1e-092c-4b83-bfc5-2b1779c60596",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2d3e2c68-d41d-414c-974b-394c08ee8d49",
+          "type": "column",
+          "children": [
+            {
+              "id": "15ec9799-b8a1-4c1c-a4cd-816b1b62038f",
+              "type": "bookmark",
+              "src": "",
+              "title": "Twine / An open-source tool for telling interactive, nonlinear stories"
+            }
+          ]
+        },
+        {
+          "id": "bc036c38-7e48-4891-9fed-da762f500d61",
+          "type": "column",
+          "children": [
+            {
+              "id": "a099e616-97a1-4a78-b1df-866f0405a188",
+              "type": "paragraph",
+              "html": "Difficulty: 🍃🌱"
+            },
+            {
+              "id": "3d2ff48b-f980-4b3a-8eac-8bfd920832a9",
+              "type": "paragraph",
+              "html": "Create interactive fiction. Was used by scriptwriters to prototype Bandersnatch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70bee63c-c69c-487b-9239-8ab5faa3dcc8",
+      "type": "subheader",
+      "html": "🐈‍⬛ Bitsy 🐈‍⬛",
+      "anchorId": "bitsy"
+    },
+    {
+      "id": "43e38a41-05dd-4233-8509-851e0fa1f264",
+      "type": "columns",
+      "children": [
+        {
+          "id": "701413ea-685f-40de-907e-e4b5d74922ea",
+          "type": "column",
+          "children": [
+            {
+              "id": "3d3b2fb2-9fb3-4067-92bc-95ddb8a6e5fd",
+              "type": "bookmark",
+              "src": "",
+              "title": "Bitsy"
+            }
+          ]
+        },
+        {
+          "id": "337a7dc0-b1ef-4d8a-9b76-a2a82ef8ccbc",
+          "type": "column",
+          "children": [
+            {
+              "id": "ced556bf-b57d-4415-a7e0-7419d286b8f6",
+              "type": "paragraph",
+              "html": "Difficulty: 🍃🌱"
+            },
+            {
+              "id": "a4154e39-d66c-4ca1-8c2e-188b371b0222",
+              "type": "paragraph",
+              "html": "Create pixel art interactive worlds. Has a vibrant community."
+            },
+            {
+              "id": "5ed27740-e56e-4144-b5ba-64c4075073b4",
+              "type": "paragraph",
+              "html": "<a href=\"https://discord.com/invite/9rAjhtr\" target=\"_blank\" rel=\"noreferrer\">https://discord.com/invite/9rAjhtr</a>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e0b9dfc-fd4d-4a33-85f0-d14f50df80d4",
+      "type": "subheader",
+      "html": "🐱 Scratch 🐱",
+      "anchorId": "scratch"
+    },
+    {
+      "id": "25a07ba7-e641-41a0-9b78-2ef5672100f0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7675154c-56d2-45aa-85e9-6883432de2db",
+          "type": "column",
+          "children": [
+            {
+              "id": "fc6d3686-ad64-4b94-875a-eedf6d66e207",
+              "type": "bookmark",
+              "src": "",
+              "title": "Scratch - Explore"
+            }
+          ]
+        },
+        {
+          "id": "8fe32830-754e-481c-8ff9-a140eba869f7",
+          "type": "column",
+          "children": [
+            {
+              "id": "7870ef87-5a05-46f7-b40d-050e8cfdba2b",
+              "type": "paragraph",
+              "html": "Difficulty: 🍃🌱🤔"
+            },
+            {
+              "id": "368cc570-2b02-472f-8da8-f802d5178e47",
+              "type": "paragraph",
+              "html": "A tool to learn programming but works well as a prototyping tool too."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "501b626b-0cbb-41fe-96ec-3b5c1ad62a5b",
+      "type": "subheader",
+      "html": "🖼️ Figma 🖼️",
+      "anchorId": "figma"
+    },
+    {
+      "id": "3591111a-05b9-4872-99b6-a7388f3511c8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5629e0ea-7c8a-467e-9da1-ee9cd82f06f3",
+          "type": "column",
+          "children": [
+            {
+              "id": "29fdc8b0-12a7-4270-9370-453de3b5c1cc",
+              "type": "bookmark",
+              "src": "",
+              "title": "Figma: the collaborative interface design tool."
+            }
+          ]
+        },
+        {
+          "id": "f70b0651-23fb-47f5-854a-8e97baa4368f",
+          "type": "column",
+          "children": [
+            {
+              "id": "04aa7d11-ecaa-490b-89e3-4683a3603865",
+              "type": "paragraph",
+              "html": "Difficulty: 🍃🌱🤔"
+            },
+            {
+              "id": "bd27c51a-92ca-454f-89a5-0e9eaeac4b9c",
+              "type": "paragraph",
+              "html": "Draw screens and link them together. Ideal for mobile games."
+            },
+            {
+              "id": "da762d97-453d-4c89-ab8d-53e7f13ade57",
+              "type": "paragraph",
+              "html": "Lost? Try these tools first:"
+            },
+            {
+              "id": "e3c0c84b-dc02-4765-b4cc-2e7e18eea519",
+              "type": "paragraph",
+              "html": "‣ "
+            },
+            {
+              "id": "454265e5-a72c-40fe-8781-47e0e41be004",
+              "type": "paragraph",
+              "html": "‣ "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6064736-c9fb-4500-8300-b2bc486979f1",
+      "type": "subheader",
+      "html": "⚔️ RPG Maker ⚔️",
+      "anchorId": "rpg-maker"
+    },
+    {
+      "id": "a7506f14-c53f-4233-b544-92fbe334e971",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d8bc7bcc-fa2f-4bed-bd22-7a4401243f46",
+          "type": "column",
+          "children": [
+            {
+              "id": "77ad19ab-5196-4550-b295-4384206873c8",
+              "type": "bookmark",
+              "src": "",
+              "title": "Make Your Own Game with RPG Maker"
+            }
+          ]
+        },
+        {
+          "id": "c773da96-6432-4942-8396-357ff33ad421",
+          "type": "column",
+          "children": [
+            {
+              "id": "056aa4d0-9607-4ba1-a35d-db6684d65ba9",
+              "type": "paragraph",
+              "html": "Difficulty: 🍃🌱🤔"
+            },
+            {
+              "id": "c31f8ef0-87c2-4a87-9cfc-deb4f62548aa",
+              "type": "paragraph",
+              "html": "Make RPG games quickly and simply."
+            },
+            {
+              "id": "4fe260f3-4bd2-419d-b82d-126427ce195a",
+              "type": "paragraph",
+              "html": "Lost? Try this tool first:"
+            },
+            {
+              "id": "ccef7fa7-2087-4b45-9f53-bdbaef1f0996",
+              "type": "paragraph",
+              "html": "‣ "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c510872e-9148-460f-b4ce-210b5e7738a9",
+      "type": "subheader",
+      "html": "🎲 Game Maker 🎲",
+      "anchorId": "game-maker"
+    },
+    {
+      "id": "490d96de-42e8-4fbe-ba8f-79e3b0c65855",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f62a4b95-2ed4-4e19-a08e-298438aa1aed",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf8a4d8e-5a1b-449c-a845-8087873891bc",
+              "type": "bookmark",
+              "src": "",
+              "title": "Make 2D Games With GameMaker | Free Video Game Maker"
+            }
+          ]
+        },
+        {
+          "id": "139c635e-942a-4c40-bcc7-6ff9dbf51f4f",
+          "type": "column",
+          "children": [
+            {
+              "id": "7f70870a-1048-49b9-98d9-437aa7014399",
+              "type": "paragraph",
+              "html": "Difficulty: 🍃🌱🤔🧠"
+            },
+            {
+              "id": "bedbbc00-41d8-41e9-8171-5067aa88fe00",
+              "type": "paragraph",
+              "html": "Make 2D games using visual scripting. Has great documentation."
+            },
+            {
+              "id": "c8b2acee-3544-4a53-ba6c-db4f87e91302",
+              "type": "paragraph",
+              "html": "Lost? Try this tool first:"
+            },
+            {
+              "id": "800d24c7-d0b9-44ed-a2da-60e729285532",
+              "type": "paragraph",
+              "html": "‣ "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8d88f62f-cbf3-46e9-a11e-6251889bf8b8",
+      "type": "subheader",
+      "html": "🧩 Construct 🧩",
+      "anchorId": "construct"
+    },
+    {
+      "id": "4c4884df-7880-4d71-8eba-ad4d0f765720",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6844fa6c-0b9e-43c9-b720-cc12e813f481",
+          "type": "column",
+          "children": [
+            {
+              "id": "26b8be18-0829-4cb2-9adf-8e4d9ca4911e",
+              "type": "bookmark",
+              "src": "",
+              "title": "Game Making Software - Construct 3 ★★★★★"
+            }
+          ]
+        },
+        {
+          "id": "a999695d-d2e4-4053-87c4-5773e0abd4c9",
+          "type": "column",
+          "children": [
+            {
+              "id": "468aa7ac-1093-493f-a195-4b9a6c0ff784",
+              "type": "paragraph",
+              "html": "Difficulty: 🍃🌱🤔🧠"
+            },
+            {
+              "id": "c0dae703-779f-459a-b40a-87b2858a6ebb",
+              "type": "paragraph",
+              "html": "Make 2D games using visual scripting."
+            },
+            {
+              "id": "7cddbaaa-ce13-4165-ac4d-ae3e888c9eff",
+              "type": "paragraph",
+              "html": "Lost? Try this tool first:"
+            },
+            {
+              "id": "acfcdc47-a88e-4093-b41c-7f744d32437b",
+              "type": "paragraph",
+              "html": "‣ "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e92ca6b-88e7-4c72-b44e-4e78bb667c7e",
+      "type": "subheader",
+      "html": "💙 Unreal with Blueprints 💙",
+      "anchorId": "unreal-with-blueprints"
+    },
+    {
+      "id": "036f7e03-aaf3-40d3-b475-ec67e54abbea",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dd42b57d-9c65-4ddc-9e3a-f19ad3c4cd38",
+          "type": "column",
+          "children": [
+            {
+              "id": "17778617-13da-4fe2-ac77-b605377df23c",
+              "type": "bookmark",
+              "src": "",
+              "title": "Unreal Engine 5"
+            }
+          ]
+        },
+        {
+          "id": "368fd468-b524-46eb-9fb4-dba47e0dea9a",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd775e85-7fb3-4a65-93c5-149e7fc613f6",
+              "type": "paragraph",
+              "html": "Difficulty: 🍃🌱🤔🧠🔥"
+            },
+            {
+              "id": "dc993bfb-8a19-48f2-8667-279aefa86b98",
+              "type": "paragraph",
+              "html": "Make games using visual scripting."
+            },
+            {
+              "id": "89dac2bc-f3d4-4580-a730-9655b1c25744",
+              "type": "paragraph",
+              "html": "Lost? Try these tools first:"
+            },
+            {
+              "id": "3b4c8eff-ce01-4e21-82e2-c6040029228c",
+              "type": "paragraph",
+              "html": "‣ "
+            },
+            {
+              "id": "df75aa32-3be4-44ab-940f-9e3ff956d74f",
+              "type": "paragraph",
+              "html": "‣ "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d447d6d7-2b49-4f1f-ad6c-5d08dc2fdab7",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

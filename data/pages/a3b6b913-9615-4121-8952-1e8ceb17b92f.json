@@ -1,0 +1,131 @@
+{
+  "id": "a3b6b913-9615-4121-8952-1e8ceb17b92f",
+  "slug": "a-history-of-pantomime",
+  "title": "A History of Pantomime",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/A-History-of-Pantomime-a3b6b9139615412189521e8ceb17b92f?pvs=21",
+  "createdTime": 1673371333659,
+  "lastEditedTime": 1681310240932,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A History of Pantomime",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b5436d0ab55d.webp",
+  "blocks": [
+    {
+      "id": "18893dc1-76a4-44a2-a2b0-24a4f2789a6c",
+      "type": "divider"
+    },
+    {
+      "id": "1cb2d6da-635a-48df-8e31-f08c7b0d8e8f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ba8c5799-420d-44bb-b131-d19f41bf5889",
+      "type": "columns",
+      "children": [
+        {
+          "id": "446496f9-ab78-459e-b724-5ba15f445a08",
+          "type": "column",
+          "children": [
+            {
+              "id": "2a70478e-730a-4b5e-9425-d15cefa2bfbe",
+              "type": "paragraph",
+              "html": "<em><strong>A History of Pantomime</strong></em> was written by R. J. Broadbent, published by Simpkin, Marshall, Hamilton, Kent &amp; co. ltd. in 1901."
+            },
+            {
+              "id": "7f845f25-07e0-4b93-a852-a2dc2f0f893d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f6523717-6a49-4879-96a8-c07092f70705",
+              "type": "quote",
+              "html": "<em>This volume examines the history of pantomime. Pantomime is the theatrical art of using movement and facial expressions rather than primarily the spoken word to communicate. Although pantomime has changed relatively little since Edwardian times, its current form is very different from its original origins. It is known to have existed among the Chinese, Persians, Hebrews, and Egyptians and has been observed in many other cultures. Pantomime was popular in ancient Rome, where it was often explained by songs or simple action. The traditional characters of pantomime take their origin in the Italian commedia dell'arte of the 16th century. English pantomime, originated by John Rich, was more pageant than pantomime, and in 1818, when J.R. Planche began his extravaganzas with &quot;speaking openings,&quot; pantomime in England became a dramatic spectacle with songs and speeches.</em>"
+            },
+            {
+              "id": "4f960196-0ae1-4ff4-a0b6-a3d6d93b6e9d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c6e50d66-abba-4b37-9c83-7b1ff73af0b6",
+          "type": "column",
+          "children": [
+            {
+              "id": "603ce20b-f76d-4449-85de-04d09a7d8da6",
+              "type": "image",
+              "src": "./assets/images/untitled-b5436d0ab55d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f946861-f36f-4043-b627-fb4ee430c9f3",
+      "type": "divider"
+    },
+    {
+      "id": "88ce12d5-ebb3-4125-84a1-5b8b813753b5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1159e457-3c9f-4ff3-a616-66a8132e4c00",
+          "type": "column",
+          "children": [
+            {
+              "id": "824aa04a-f7c0-49e5-bb5e-afd18e220b5a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "494679b8-d99e-40b2-ae54-635ea079ca12",
+          "type": "column",
+          "children": [
+            {
+              "id": "0334d531-d846-4975-bef4-f7112528824b",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/History-Pantomime-R-J-Broadbent/dp/1298540232/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=1669669249&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d953df50-cc90-4b8f-92f6-6031014ddb94",
+      "type": "divider"
+    }
+  ]
+}

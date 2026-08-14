@@ -1,0 +1,131 @@
+{
+  "id": "0ec6a6ce-715d-49c9-ab6e-876fa9a9e778",
+  "slug": "the-ecology-of-games",
+  "title": "The Ecology of Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Ecology-of-Games-0ec6a6ce715d49c9ab6e876fa9a9e778?pvs=21",
+  "createdTime": 1653399324098,
+  "lastEditedTime": 1681314097616,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Ecology of Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2971f839cfe2.webp",
+  "blocks": [
+    {
+      "id": "8bb0efe4-dc41-4fc6-97a6-b99f6cae1f7e",
+      "type": "divider"
+    },
+    {
+      "id": "d8afed2c-a242-4e66-b1d4-561b6b233b58",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ca73f5fd-595b-4d0f-9b45-29f675f89d73",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cc6013cc-7f0e-4370-9a18-37c037bf4403",
+          "type": "column",
+          "children": [
+            {
+              "id": "a5bdbd9a-e7b7-49bf-ac9c-281c36d9338e",
+              "type": "paragraph",
+              "html": "<em><strong>The Ecology of Games: Connecting Youth, Games, &amp; Learning</strong></em> is a collection of essays edited by Katie Salen, published by The MIT Press, November 30, 2007."
+            },
+            {
+              "id": "4f0e7755-444d-455b-bf74-bbfec438c81f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "50387317-a4ec-45ba-b678-b34f67380af9",
+              "type": "quote",
+              "html": "<em>In the many studies of games and young people's use of them, little has been written about an overall “ecology” of gaming, game design and play—mapping the ways that all the various elements, from coding to social practices to aesthetics, coexist in the game world. This volume looks at games as systems in which young users participate, as gamers, producers, and learners. </em>The Ecology of Games<em> (edited by </em><a href=\"#/rules-of-play\">Rules of Play</a><em> author Katie Salen) aims to expand upon and add nuance to the debate over the value of games—which so far has been vociferous but overly polemical and surprisingly shallow. Game play is credited with fostering new forms of social organization and new ways of thinking and interacting; the contributors work to situate this within a dynamic media ecology that has the participatory nature of gaming at its core. They look at the ways in which youth are empowered through their participation in the creation, uptake, and revision of games; emergent gaming literacies, including modding, world-building, and learning how to navigate a complex system; and how games act as points of departure for other forms of knowledge, literacy, and social organization.</em>"
+            },
+            {
+              "id": "fa6c45ec-e55d-41e4-8390-9197ae8b4de2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c50e833f-46ad-4745-a81d-9ab8d343d6b5",
+          "type": "column",
+          "children": [
+            {
+              "id": "d9d372a4-4da2-4a85-9f59-7dbff235e4e7",
+              "type": "image",
+              "src": "./assets/images/untitled-2971f839cfe2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b02cffb3-65c8-4157-bf56-a116680962e3",
+      "type": "divider"
+    },
+    {
+      "id": "eb27aa55-55e5-4f8c-9a7d-ab6d4bff82ba",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a9c7b73b-f1d2-4aa0-af67-cea8a84697be",
+          "type": "column",
+          "children": [
+            {
+              "id": "880355f7-035c-46bd-b685-43cfaeaf3111",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8ea4ec35-1666-43e1-80b6-483c39c49eac",
+          "type": "column",
+          "children": [
+            {
+              "id": "72b678b0-06db-474e-854f-452620c9eadd",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yiWF6C\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87554e4e-9a78-4838-95e2-4be486368cb6",
+      "type": "divider"
+    }
+  ]
+}

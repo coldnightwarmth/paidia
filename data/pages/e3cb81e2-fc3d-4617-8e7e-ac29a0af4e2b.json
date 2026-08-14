@@ -1,0 +1,139 @@
+{
+  "id": "e3cb81e2-fc3d-4617-8e7e-ac29a0af4e2b",
+  "slug": "educational-game-design-fundamentals",
+  "title": "Educational Game Design Fundamentals",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Educational-Game-Design-Fundamentals-e3cb81e2fc3d46178e7eac29a0af4e2b?pvs=21",
+  "createdTime": 1651972597078,
+  "lastEditedTime": 1681313543992,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Educational Game Design Fundamentals",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8e76474f9ddd.webp",
+  "blocks": [
+    {
+      "id": "ddf86d35-b9a3-4b9e-8487-74d701ebe64f",
+      "type": "divider"
+    },
+    {
+      "id": "6da474df-6e1f-4989-bfc0-926c3cb209f6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d89beed9-7237-46cb-9612-776165e35611",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1473fd03-63bc-41da-83e8-b401eb618aff",
+          "type": "column",
+          "children": [
+            {
+              "id": "91a8d012-3281-4983-acda-92728e39bf93",
+              "type": "paragraph",
+              "html": "<em><strong>Educational Game Design Fundamentals</strong></em><strong> </strong>was written by George Kalmpouritzis, published by A K Peters/CRC Press, July 16, 2018."
+            },
+            {
+              "id": "6aa14261-f5c7-4436-8581-70be77e073b4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b98b4d20-2cb9-427c-a838-7b375502a0e4",
+              "type": "quote",
+              "html": "<em>Can we learn through play? Can we really play while learning?<br><br>Of course! But how?!<br><br>We all learn and educate others in our own unique ways. Successful educational games adapt to the particular learning needs of their players and facilitate the learning objectives of their designers.<br><br></em>Educational Game Design Fundamentals<em> embarks on a journey to explore the necessary aspects to create games that are both fun and help players learn. This book examines the art of educational game design through various perspectives and presents real examples that will help readers make more informed decisions when creating their own games. In this way, readers can have a better idea of how to prepare for and organize the design of their educational games, as well as evaluate their ideas through several prisms, such as feasibility or learning and intrinsic values.<br><br>Everybody can become education game designers, no matter what their technical, artistic or pedagogic backgrounds. This book refers to educators and designers of all sorts: from kindergarten to lifelong learning, from corporate training to museum curators and from tabletop or video game designers to theme park creators!</em>"
+            },
+            {
+              "id": "69ab33b6-5e2c-490c-acde-379e3614fbdc",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0c486be8-27ea-4dbd-89ec-30a9ba1d9ca5",
+          "type": "column",
+          "children": [
+            {
+              "id": "d78ea361-1234-4735-9155-ccf4a0a27b3a",
+              "type": "image",
+              "src": "./assets/images/untitled-8e76474f9ddd.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b19e91fa-c2e6-4688-9b09-b0dec1244ed3",
+      "type": "divider"
+    },
+    {
+      "id": "7be9485f-5eb9-47c0-a963-8750fb997b46",
+      "type": "columns",
+      "children": [
+        {
+          "id": "69d76038-db34-4e8e-8fca-c5a550479626",
+          "type": "column",
+          "children": [
+            {
+              "id": "76426de6-2da9-49fa-8e4c-dd31a8f1e76e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2a8c1e7b-5169-42ea-83b3-06243458023e",
+          "type": "column",
+          "children": [
+            {
+              "id": "ddf93fc3-dcd0-4c6d-91b2-bfbd6860a1ef",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3lIAlfu\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5419a78d-91be-4407-9780-9e35ae1288f5",
+      "type": "divider"
+    },
+    {
+      "id": "e133c5f5-cfb6-46de-a73a-62f4425a66b7",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

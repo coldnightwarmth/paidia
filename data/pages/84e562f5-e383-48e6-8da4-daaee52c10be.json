@@ -1,0 +1,141 @@
+{
+  "id": "84e562f5-e383-48e6-8da4-daaee52c10be",
+  "slug": "the-christian-at-play",
+  "title": "The Christian at Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Christian-at-Play-84e562f5e38348e68da4daaee52c10be?pvs=21",
+  "createdTime": 1654705229072,
+  "lastEditedTime": 1681313536575,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Christian at Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0455db04863f.webp",
+  "blocks": [
+    {
+      "id": "265f5df7-001b-4465-8863-02e71decf645",
+      "type": "divider"
+    },
+    {
+      "id": "b1ba63cd-e48f-4c76-9e62-f3c30ae0350d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "35d68b9b-a36d-45b5-a3c6-221412ac34da",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d107a1af-0d02-4def-95ef-7f6959fe3343",
+          "type": "column",
+          "children": [
+            {
+              "id": "3924ed99-d456-4115-8fcc-b270185e1ef2",
+              "type": "paragraph",
+              "html": "<em><strong>The Christian at Play</strong></em> was written by Robert K. Johnston, originally published by W.B. Eerdmans, January 1, 1983."
+            },
+            {
+              "id": "737de410-983c-4c0c-8861-d5e4a71bc2a8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "63c2d807-9916-415e-8d61-90737896dda0",
+              "type": "quote",
+              "html": "<em>Play, as an event of the inventive human spirit, invites our most able Christian reflection. The person at play is expressing his or her God-given nature. Unable to understand our play as God-given, Christians are often inauthentic players. Johnston tries to help us to see that Christians are created to work and to play.</em>"
+            }
+          ]
+        },
+        {
+          "id": "b1bb8ec4-39a0-4922-b97e-67764bc04167",
+          "type": "column",
+          "children": [
+            {
+              "id": "24fc8b48-0941-436f-86f7-6de6413fd4cd",
+              "type": "image",
+              "src": "./assets/images/untitled-0455db04863f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d936e16d-efbe-47bf-9297-ccd4052398b1",
+      "type": "divider"
+    },
+    {
+      "id": "1447fafb-4eac-434a-ac8c-e3747f6b7c07",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c042701a-199c-4d63-8878-da71c72b5b29",
+          "type": "column",
+          "children": [
+            {
+              "id": "72083d56-db00-43bd-984d-68d6e08b98a6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4d395def-d53a-4395-8337-634741457073",
+          "type": "column",
+          "children": [
+            {
+              "id": "a8802ce9-acdf-43e9-a36c-c6e07cc993b5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3O0G2Bv\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9846a5d-2bb7-40e9-9992-0c45a32600f7",
+      "type": "divider"
+    },
+    {
+      "id": "6951f316-3d82-4eaa-b54f-f0e31ce62cca",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b4a44495-0f75-4d59-af8e-a31779751871",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "2ce77193-52c4-4bb6-9e7e-d664fc1dfa74",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "30c494c3-e582-48c7-b9a7-01bbea53418c",
+  "slug": "itchy-tasty",
+  "title": "Itchy, Tasty",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Itchy-Tasty-30c494c3e58248c7b9a701bbea53418c?pvs=21",
+  "createdTime": 1653079963793,
+  "lastEditedTime": 1681313576068,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Itchy, Tasty",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ec65c5902fb9.webp",
+  "blocks": [
+    {
+      "id": "28705272-96a6-4951-8c5b-9a7b75884e60",
+      "type": "divider"
+    },
+    {
+      "id": "fbed9d5c-8eb0-4577-a9be-593b66d7b6f8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "797bb57a-0bf6-4a6c-8b16-8f68e0209c3d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "51906c46-745b-4eb6-827c-c97c18b73b0a",
+          "type": "column",
+          "children": [
+            {
+              "id": "0ea3b9c5-09a1-416f-bcc3-004c8c72c868",
+              "type": "paragraph",
+              "html": "<em><strong>Itchy Tasty: An Unofficial History of Resident Evil</strong></em> was written by Alex Aniel, published by Unbound, April 4, 2023."
+            },
+            {
+              "id": "820679ec-4094-419e-9a6b-40e997f13162",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2781f498-1b99-49d4-892a-ff836730b1e5",
+              "type": "quote",
+              "html": "<em>This is the definitive behind-the-scenes account of Capcom’s horror video game series </em>Resident Evil<em> – one of the most popular, innovative and widely influential franchises of all time. Industry expert Alex Aniel spent two years interviewing key former members of Capcom staff, allowing him to tell the inside story of how </em>Resident Evil<em> was envisioned as early as the late 1980s, how its unexpected and unprecedented success saved the company from financial trouble, how the series struggled at the turn of the century and, eventually, how a new generation of creators was born after the release of </em>Resident Evil 4<em>. </em>Itchy, Tasty<em> narrates the development of each </em>Resident Evil <em>game released between 1996 and 2006, interspersed with fascinating commentary from the game creators themselves, offering unique insight into how the series became the world-conquering franchise it is today.</em>"
+            },
+            {
+              "id": "6015d3b9-86d2-47e6-b898-43453095f5e4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "018b5d47-5fe3-4f14-8a5d-09eb0bfeb65f",
+              "type": "alias_link",
+              "targetId": null,
+              "title": "Linked page"
+            }
+          ]
+        },
+        {
+          "id": "c070c0d8-e668-48c2-8293-61637312d1f3",
+          "type": "column",
+          "children": [
+            {
+              "id": "08edc181-648f-46ae-beee-a123ef18a17f",
+              "type": "image",
+              "src": "./assets/images/untitled-ec65c5902fb9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf5d043a-eec0-46f7-8092-1a599a918a4e",
+      "type": "divider"
+    },
+    {
+      "id": "20cddf09-d6ba-4c68-a51a-48866b3836d4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4352dc6b-8a09-4e20-8f4f-7f6da5508c3a",
+          "type": "column",
+          "children": [
+            {
+              "id": "6d5506a4-c906-4f45-96a0-20ef8d756e14",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fd2d730e-4712-4eaf-8e26-f6d9f7c5005c",
+          "type": "column",
+          "children": [
+            {
+              "id": "da1af015-5507-41ff-b8f1-601d0bb0e370",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zCykZF\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9abce721-cf37-4961-893e-a5daaceeaca4",
+      "type": "divider"
+    }
+  ]
+}

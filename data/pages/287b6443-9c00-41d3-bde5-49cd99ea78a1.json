@@ -1,0 +1,131 @@
+{
+  "id": "287b6443-9c00-41d3-bde5-49cd99ea78a1",
+  "slug": "joystick-soldiers",
+  "title": "Joystick Soldiers",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Joystick-Soldiers-287b64439c0041d3bde549cd99ea78a1?pvs=21",
+  "createdTime": 1657235849834,
+  "lastEditedTime": 1681314293438,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Joystick Soldiers",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3301720b81ff.webp",
+  "blocks": [
+    {
+      "id": "aeb34257-f2ae-40d9-b0b0-c893d2109490",
+      "type": "divider"
+    },
+    {
+      "id": "ef3383d9-631b-4484-ac16-46eeda0df155",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "59a4fcbc-5ec1-4f21-9640-ec3278e04b9b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "75875f4b-2d30-4370-a9f0-3f684498d693",
+          "type": "column",
+          "children": [
+            {
+              "id": "7542d690-e688-4234-afbe-d50ba22561c3",
+              "type": "paragraph",
+              "html": "<em><strong>Joystick Soldiers: The Politics of Play in Military Video Games</strong></em> is a collection of essays edited by Nina B. Huntemann &amp; Matthew Thomas Payne, published by Routledge, August 8, 2009."
+            },
+            {
+              "id": "623b383c-599c-49e6-be7f-62c1d008f779",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c6704c03-f46f-4c93-a8f2-b8f31b680c3d",
+              "type": "quote",
+              "html": "Joystick Soldiers<em> is the first anthology to examine the reciprocal relationship between militarism and video games. War has been an integral theme of the games industry since the invention of the first video game, </em>Spacewar!<em> in 1962.While war video games began as entertainment, military organizations soon saw their potential as combat simulation and recruitment tools. A profitable and popular relationship was established between the video game industry and the military, and continues today with video game franchises like </em>America’s Army<em>, which was developed by the U.S.Army as a public relations and recruitment tool.<br><br>This collection features all new essays that explore how modern warfare has been represented in and influenced by video games. The contributors explore the history and political economy of video games and the &quot;military-entertainment complex;&quot; present textual analyses of military-themed video games such as </em>Metal Gear Solid<em>; and offer reception studies of gamers, fandom, and political activism within online gaming.</em>"
+            },
+            {
+              "id": "cdfece13-7fdb-44f3-85ea-1b193d701964",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "1010efd1-b74f-40de-87e3-8eb73baf5211",
+          "type": "column",
+          "children": [
+            {
+              "id": "6e43b080-5e8a-45ee-99e3-8527d283c8c8",
+              "type": "image",
+              "src": "./assets/images/untitled-3301720b81ff.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81609a9f-15b8-42e1-979d-382653107166",
+      "type": "divider"
+    },
+    {
+      "id": "2c5294ba-b05d-47ba-9a6f-d3e11ff372ab",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fe1372df-f842-419e-bcde-d84a9448088f",
+          "type": "column",
+          "children": [
+            {
+              "id": "90ea3376-af41-4631-a43a-5557bdec9247",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "82a1653b-1428-4e0e-b4a8-d0c947a37328",
+          "type": "column",
+          "children": [
+            {
+              "id": "3f1a353a-0f95-4b96-a751-8ae1f5d4c627",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OTTbgD\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3dbd708b-b3c0-4346-9248-f8c14e7acb8e",
+      "type": "divider"
+    }
+  ]
+}

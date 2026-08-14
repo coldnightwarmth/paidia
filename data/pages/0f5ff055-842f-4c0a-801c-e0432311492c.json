@@ -1,0 +1,126 @@
+{
+  "id": "0f5ff055-842f-4c0a-801c-e0432311492c",
+  "slug": "the-sierra-adventure",
+  "title": "The Sierra Adventure",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Sierra-Adventure-0f5ff055842f4c0a801ce0432311492c?pvs=21",
+  "createdTime": 1653077896837,
+  "lastEditedTime": 1681313813442,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Sierra Adventure",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/61qts9mpbfl-29c8c83afb4c.webp",
+  "blocks": [
+    {
+      "id": "36bc3132-5528-41e3-9d58-b3c93a2b1acb",
+      "type": "divider"
+    },
+    {
+      "id": "59387830-52fd-4f7f-89cc-b486e90fda22",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "63e8114c-18bc-426b-b45f-cd932b9a8e51",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a29a7bcb-5cc5-4f4d-b1e7-8de7ced05de4",
+          "type": "column",
+          "children": [
+            {
+              "id": "56cbad79-3473-4dbf-a4e8-a5a549be3a50",
+              "type": "paragraph",
+              "html": "<em><strong>The Sierra Adventure: The Story of Sierra On-Line</strong></em> was written by Shawn Mills, self-published through Lulu.com, October 21, 2018."
+            },
+            {
+              "id": "7bcff37a-bf6a-456c-877d-8a8a829cfa28",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "29f82488-4b27-41dc-85f6-240ef9420f1c",
+              "type": "quote",
+              "html": "The Sierra Adventure<em> tells the story of legendary computer game company Sierra On-Line, developers of industry defining titles such as </em>King’s Quest, Quest for Glory<em>, and </em>Leisure Suit Larry<em>. Told through the words of the people who worked there, designers, artists, programmers, animators, musicians, marketting, and management, this is the story told in the words of those people who worked there.</em>"
+            }
+          ]
+        },
+        {
+          "id": "064eb10b-8153-4569-87c0-43192b1ee224",
+          "type": "column",
+          "children": [
+            {
+              "id": "b13ff909-25ff-4c0e-bf4e-69bf0084852f",
+              "type": "image",
+              "src": "./assets/images/61qts9mpbfl-29c8c83afb4c.webp",
+              "caption": "",
+              "alt": "61qtS9mPBFL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "519fa7f6-2f66-4c9e-aa47-61d6959a3ce7",
+      "type": "divider"
+    },
+    {
+      "id": "9685ef54-8247-4beb-9ea9-d4c068b5e559",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b9520fb5-7942-49de-97b6-8ba72cabda7d",
+          "type": "column",
+          "children": [
+            {
+              "id": "917c2473-3953-4c75-82bf-606ba9457cba",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "256dc377-218e-4c25-af5f-521284acca0d",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b1f76ca-ed5e-4450-b694-4c69fa5397fc",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Wkzt1W\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f7bd9c4-0987-4a04-bb7b-62200617cbd7",
+      "type": "divider"
+    }
+  ]
+}

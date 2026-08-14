@@ -1,0 +1,126 @@
+{
+  "id": "82a8ab0d-5dec-4bf5-9ac6-57f647b60d36",
+  "slug": "who-are-you",
+  "title": "Who Are You?",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "46177b24-2d03-4a55-945a-07bf7464a995",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Who-Are-You-82a8ab0d5dec4bf59ac657f647b60d36?pvs=21",
+  "createdTime": 1651689129035,
+  "lastEditedTime": 1681313930630,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Who Are You?"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fb6f2cddcafe.webp",
+  "blocks": [
+    {
+      "id": "fa3f3e22-74cd-47eb-88b3-1da9da8b16e1",
+      "type": "divider"
+    },
+    {
+      "id": "a085e776-6065-4ebb-9ff2-9dc77cdf7293",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "56ab2cf1-4aa3-4e3d-a461-0f5f57d2cbc0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6b6a894b-dd7a-48c5-9b45-96af748fa563",
+          "type": "column",
+          "children": [
+            {
+              "id": "3a9eb614-d08a-4cd0-9ae2-ddafe1b94c54",
+              "type": "paragraph",
+              "html": "<em><strong>Who Are You?: Nintendo's Game Boy Advance Platform</strong></em> was written by Alex Custodio, published by The MIT Press, October 13, 2020."
+            },
+            {
+              "id": "832276c4-2abd-415b-b971-0838f1bfd720",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e89b7239-905e-4c08-91bd-719da9660135",
+              "type": "quote",
+              "html": "<em>The Game Boy Advance platform as computational system and cultural artifact, from its 2001 release through hacks, mods, emulations, homebrew afterlives.<br><br>In 2002, Nintendo of America launched an international marketing campaign for the Game Boy Advance that revolved around the slogan “Who Are You?”—asking potential buyers which Nintendo character, game, or even device they identified with and attempting to sell a new product by exploiting players' nostalgic connections to earlier ones. Today, nearly two decades after its release, and despite the development of newer and more powerful systems, Nintendo's Game Boy Advance lives on, through a community that continues to hack, modify, emulate, make, break, remake, redesign, trade, use, love, and play with the platform. In this book Alex Custodio traces the network of hardware and software afterlives of the Game Boy Advance platform.<br><br>Each chapter considers a component of this network—hardware, software, peripheral, or practice—that illuminates the platform's unique features as a computational system and a cultural artifact. Examining the evolution of the design and architecture of Nintendo's handhelds and home consoles, and the constraints imposed on developers and players, for example, Custodio finds that Nintendo essentially embeds nostalgia into its hardware. She explores Nintendo's expansion of the platform through interoperability; physical and affective engagement with the Game Boy Advance; portability, private space, and social interaction; the platformization of nostalgia; fan-generated content including homebrew, hacking, and hardware modding; and e-waste—the final afterlife of consumer electronics. Although the Game Boy Advance is neither the most powerful nor the most popular of Nintendo's handhelds, Custodio argues, it is the platform that most fundamentally embodies Nintendo's reliance on the aesthetics and materiality of nostalgia.</em>"
+            },
+            {
+              "id": "ca037c3d-6092-4351-88bf-a3b8fa20a63e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "472e9265-7aab-4232-b9f9-d401a254b30a",
+          "type": "column",
+          "children": [
+            {
+              "id": "e23dc986-f8ff-451e-87c4-edd446116cb1",
+              "type": "image",
+              "src": "./assets/images/untitled-fb6f2cddcafe.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cefffe96-a69e-49fa-b401-cc9d89a05bc8",
+      "type": "divider"
+    },
+    {
+      "id": "d52f950a-0e6f-41bb-9aa2-1f9aa0b509dd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9b1cd4b4-21a4-44f0-8763-8bf2f13976f2",
+          "type": "column",
+          "children": [
+            {
+              "id": "a05c0842-c53d-4e27-a30a-471bd7f21d91",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b51f1071-753c-437a-8bc5-b75f79e5d2a7",
+          "type": "column",
+          "children": [
+            {
+              "id": "ca0a9c44-1e0b-4bae-ad33-db8763c93d01",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DoOZ49\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46225483-4a9a-4e22-b742-c7294534f39a",
+      "type": "divider"
+    }
+  ]
+}

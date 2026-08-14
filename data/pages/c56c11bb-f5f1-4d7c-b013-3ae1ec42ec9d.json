@@ -1,0 +1,139 @@
+{
+  "id": "c56c11bb-f5f1-4d7c-b013-3ae1ec42ec9d",
+  "slug": "jason-schreier",
+  "title": "Jason Schreier",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "350879b3-a25b-4db5-8dae-34d54f50d8e6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/c56c11bbf5f14d7cb0133ae1ec42ec9d",
+  "createdTime": 1669827644086,
+  "lastEditedTime": 1681329076610,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Jason Schreier"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-49bca761c066.webp",
+  "blocks": [
+    {
+      "id": "86bd2cd6-d39c-4f39-9b31-554bf75b2603",
+      "type": "divider"
+    },
+    {
+      "id": "595328ff-9cf1-41c6-96d1-aa208d942900",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4dc9479d-5525-45bd-89b8-ecee308f78ab",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5cc654ef-dba2-4581-8c0d-ddcec97f9981",
+          "type": "column",
+          "children": [
+            {
+              "id": "15faf6eb-072f-4525-aa62-deecb7606bad",
+              "type": "paragraph",
+              "html": "<strong>Jason Schreier </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "cf972a15-ad80-45ac-83d3-c9eca68158fc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "27e66194-a113-407c-9a05-51f007c32435",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0030d15f-7329-4472-b16e-705b6f868120",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "90eed04c-dfc0-429f-91e8-2d0dd65a5adb",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c939272f-15e6-4872-b703-313c5df02e74",
+          "type": "column",
+          "children": [
+            {
+              "id": "be6b762e-4008-4d08-b3ac-2ceadc79444a",
+              "type": "image",
+              "src": "./assets/images/untitled-49bca761c066.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0975ddc5-4d55-48d8-af5b-a19a0ee2e83c",
+      "type": "divider"
+    },
+    {
+      "id": "e1da9001-d3b9-4105-ae8e-9589b542c29a",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "ca9c0bc8-d1ee-410f-8293-ac51f0cd3091",
+      "type": "paragraph",
+      "html": "<a href=\"#/blood-sweat-and-pixels\">Blood, Sweat, &amp; Pixels</a> (2017) (<em><em>book</em></em>)"
+    },
+    {
+      "id": "ff3db8b7-aa14-4f20-a761-80a0b16f0cf8",
+      "type": "paragraph",
+      "html": "<a href=\"#/press-reset\">Press Reset</a> (2021) (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "bc9c07db-601f-4367-9a77-f6a41676203c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d07b2c22-0b37-4ab3-91c6-3cf0c09512d7",
+      "type": "divider"
+    },
+    {
+      "id": "04f38184-33ae-4f97-8e97-fe0c07a7f480",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "61e4b18c-6322-40a4-b6c8-3c7dfb33bbe6",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "158fa885-f5b5-4402-ade2-4a25b3efebd8",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "6906f9fd-206a-4c41-9fe8-b0fed7287c73",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

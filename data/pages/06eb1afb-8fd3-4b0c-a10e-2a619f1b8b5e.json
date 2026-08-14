@@ -1,0 +1,131 @@
+{
+  "id": "06eb1afb-8fd3-4b0c-a10e-2a619f1b8b5e",
+  "slug": "the-playful-citizen",
+  "title": "The Playful Citizen",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Playful-Citizen-06eb1afb8fd34b0ca10e2a619f1b8b5e?pvs=21",
+  "createdTime": 1673293657279,
+  "lastEditedTime": 1681312162593,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Playful Citizen",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c394a7417bd4.webp",
+  "blocks": [
+    {
+      "id": "f0c50851-c332-4c33-a159-7a68fe234f69",
+      "type": "divider"
+    },
+    {
+      "id": "1d8a8487-1f09-4413-959f-82a6db429138",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "db366414-3f31-4c9b-97bd-d939ae65710f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2301e8b4-7982-41e1-9aed-2585534c9c7d",
+          "type": "column",
+          "children": [
+            {
+              "id": "5a7b4d70-cce3-4ddc-8bb6-894e783b51e5",
+              "type": "paragraph",
+              "html": "<em><strong>The Playful Citizen: Civic Engagement in a Mediatized Culture</strong></em> is a collection of essayes edited by René Glas, Sybille Lammes, Michiel de Lange, et al., published by Amsterdam University Press, January 1, 2019."
+            },
+            {
+              "id": "3cafde7d-3b70-4577-9f05-019dd1dfc048",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "73d50148-3a04-457e-8e39-f9ce75a85cc0",
+              "type": "quote",
+              "html": "<em>In the last decade, digital media technologies and developments have given rise to exciting new forms of ludic, or playful, engagements of citizens in cultural and societal issues. From the Occupy movement to playful city-making to the gameful designs of the Obama 2008 and Trump 2016 presidential campaigns, and the rise of citizen science and ecological games, this book shows how play is a key theoretical, methodological, and practical principle for comprehending such new forms of civic engagement in a mediatized culture. </em>The Playful Citizen<em> explores how and through what media we are becoming more playful as citizens and how this manifests itself in our ways of doing, living, and thinking. We offer a pluralistic answer to such questions by bringing together scholars from different fields such as game and play studies, social sciences, and media and culture studies.</em>"
+            },
+            {
+              "id": "e0e43fc0-518e-46b3-b833-03c52ba16c5d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "810578fe-16af-42ce-9277-d5f0ddfd2619",
+          "type": "column",
+          "children": [
+            {
+              "id": "d154d657-9c68-4743-925a-5202ecae2e3c",
+              "type": "image",
+              "src": "./assets/images/untitled-c394a7417bd4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6aacfcd-e432-47ce-b224-ac55387fd9cf",
+      "type": "divider"
+    },
+    {
+      "id": "42b6f0f7-93c6-4572-aa97-fce46ac428d8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9a61c92b-8aae-457d-b49d-0b62246d6931",
+          "type": "column",
+          "children": [
+            {
+              "id": "56f5fce7-b2c0-4887-b873-41aecbeb6507",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "78d30b5a-98ad-49e4-9eed-ecd1c31f30c8",
+          "type": "column",
+          "children": [
+            {
+              "id": "3aa4a5aa-c61a-4a1a-ba44-9e8ea5715a72",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Playful-Citizen-Engagement-Mediatized-Culture/dp/9462984522/ref=sr_1_2?qid=1670042540&amp;refinements=p_27%3ARen%C3%A9+Glas&amp;s=books&amp;sr=1-2&amp;text=Ren%C3%A9+Glas&amp;ufe=app_do%3Aamzn1.fos.fa474cd8-6dfc-4bad-a280-890f5a4e2f90\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62169107-294c-45a1-b02a-ab8ec0278c81",
+      "type": "divider"
+    }
+  ]
+}

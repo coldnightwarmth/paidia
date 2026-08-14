@@ -1,0 +1,131 @@
+{
+  "id": "09bd7629-351a-4d18-aef2-48bae6d0abcb",
+  "slug": "reamde",
+  "title": "Reamde",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Reamde-09bd7629351a4d18aef248bae6d0abcb?pvs=21",
+  "createdTime": 1653173654503,
+  "lastEditedTime": 1681314104293,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Reamde",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7c4d52cd2fc1.webp",
+  "blocks": [
+    {
+      "id": "cc170d05-c8aa-4c8c-9097-382a4c99235c",
+      "type": "divider"
+    },
+    {
+      "id": "99117cfa-2d25-4fab-a7c0-859a60914a38",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "553053a7-11e7-4352-a9af-67daf007e561",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4db5cb0a-f55c-4b16-9088-c01d129905e3",
+          "type": "column",
+          "children": [
+            {
+              "id": "5ac6bdfe-bbd5-4b6e-9d37-0a0413f7eb05",
+              "type": "paragraph",
+              "html": "<em><strong>Reamde</strong></em> was written by Neal Stephenson, published by William Morrow, September 20, 2011."
+            },
+            {
+              "id": "b3b3ffca-b39b-4648-86b6-cc2da9e974fb",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "174b0d74-f8be-4ab9-86cb-7b053c3d1b0c",
+              "type": "quote",
+              "html": "<em>The #1 New York Times bestselling author of Anathem, Neal Stephenson is continually rocking the literary world with his brazen and brilliant fictional creations—whether he’s reimagining the past (The Baroque Cycle), inventing the future (</em>Snow Crash<em>), or both (</em>Cryptonomicon<em>). With</em> Reamde<em>, this visionary author whose mind-stretching fiction has been enthusiastically compared to the work of Thomas Pynchon, Don DeLillo, Kurt Vonnegut, and David Foster Wallace—not to mention William Gibson and Michael Crichton—once again blazes new ground with a high-stakes thriller that will enthrall his loyal audience, science and science fiction, and espionage fiction fans equally. The breathtaking tale of a wealthy tech entrepreneur caught in the very real crossfire of his own online fantasy war game, </em>Reamde<em> is a new high—and a new world—for the remarkable Neal Stephenson.</em>"
+            }
+          ]
+        },
+        {
+          "id": "c6e2099e-51b7-4871-ba9f-0be274e6416b",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd9c8999-c7e3-48a5-b101-7b3e65171a93",
+              "type": "image",
+              "src": "./assets/images/untitled-7c4d52cd2fc1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a02688a-20f9-48a5-bb2b-3ccbb6193b96",
+      "type": "divider"
+    },
+    {
+      "id": "ab0d598c-6b34-4168-b30e-586cb989bc87",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3944fa31-4a97-4f4b-8085-37b7ad1482a7",
+          "type": "column",
+          "children": [
+            {
+              "id": "b1ac7590-d4f2-4e3e-9b7d-2ac8a44027a9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "06231e51-36a1-41ff-b547-1ac485d42153",
+          "type": "column",
+          "children": [
+            {
+              "id": "60ad47f4-3004-4a88-8850-1f56ee5a3af0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DX1WEh\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88a4f4de-d09f-4c89-84f8-ae7d845c5b71",
+      "type": "divider"
+    },
+    {
+      "id": "1d8b499c-26ba-4d6c-aab4-6071e8d3c2e3",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

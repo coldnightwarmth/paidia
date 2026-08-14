@@ -1,0 +1,134 @@
+{
+  "id": "1a57bd0d-b6f1-4d86-9195-e1fb27d7a7ab",
+  "slug": "play-and-early-literacy-development",
+  "title": "Play & Early Literacy Development",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "941cc77c-8e6e-4869-a86c-9aaae44d9333",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Play-Early-Literacy-Development-1a57bd0db6f14d869195e1fb27d7a7ab?pvs=21",
+  "createdTime": 1653073968872,
+  "lastEditedTime": 1681314055550,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play & Early Literacy Development",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c3ed4e0d7596.webp",
+  "blocks": [
+    {
+      "id": "c4564a4c-0078-46fc-9529-80717a5d9cfa",
+      "type": "divider"
+    },
+    {
+      "id": "b267858f-f04f-48b7-a5ad-9ac10d824409",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2609b148-207b-4b5b-aaf7-e64b94031420",
+      "type": "columns",
+      "children": [
+        {
+          "id": "57d40420-0f9b-49e6-a151-10366b282337",
+          "type": "column",
+          "children": [
+            {
+              "id": "dc5d1ca9-c843-4157-b026-6129376f9f73",
+              "type": "paragraph",
+              "html": "<em><strong>Play &amp; Early Literacy Development</strong></em> is a collection of essays edited by James F. Christie, published by SUNY Press, September 10, 1991."
+            },
+            {
+              "id": "d8209b86-f18e-4205-98a9-8a02d777dfd4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2ff5a24e-9ba8-4118-85a6-61bad4e35d76",
+              "type": "quote",
+              "html": "<em>This book overviews the sociolinguistic and psychological approaches to studying play and literacy. It offers research studies that relate different aspects of play to emergent reading and writing behaviors. The use of certain language structures, storybook reenactments, literacy activities during play, and notions of reality and pretense are considered. It also presents applied research on how manipulation of play environments, teacher involvement in play, and play training can promote literacy growth.</em>"
+            }
+          ]
+        },
+        {
+          "id": "9608cf00-0112-461f-aa12-92533d78dc08",
+          "type": "column",
+          "children": [
+            {
+              "id": "20fed59a-ffbd-4151-bf75-9f3ad646d8e6",
+              "type": "image",
+              "src": "./assets/images/untitled-c3ed4e0d7596.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c1df3b5-1f24-4fdb-bb55-80dce1f0a3cb",
+      "type": "divider"
+    },
+    {
+      "id": "de1e9c91-7f35-4347-a835-44d320d60209",
+      "type": "columns",
+      "children": [
+        {
+          "id": "43ae6caf-5b64-46e8-b8b3-f4f919064a6e",
+          "type": "column",
+          "children": [
+            {
+              "id": "60a14206-cd02-48c1-bd5a-4ed6c5f329fb",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "936dc8d3-4f37-4071-b34f-bb25e515abca",
+          "type": "column",
+          "children": [
+            {
+              "id": "74d8849c-766a-465a-a31e-cffe33c38107",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3LEjXsI\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40a4875a-1323-4b4b-aae2-8583db4ee4c5",
+      "type": "divider"
+    },
+    {
+      "id": "a1d0672b-5de1-4263-af28-1fc271a6adc3",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

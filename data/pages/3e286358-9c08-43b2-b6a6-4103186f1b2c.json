@@ -1,0 +1,131 @@
+{
+  "id": "3e286358-9c08-43b2-b6a6-4103186f1b2c",
+  "slug": "biology-in-the-grid",
+  "title": "Biology in the Grid",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Biology-in-the-Grid-3e2863589c0843b2b6a64103186f1b2c?pvs=21",
+  "createdTime": 1657138723763,
+  "lastEditedTime": 1681311177281,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Biology in the Grid",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c50b1365e4c0.webp",
+  "blocks": [
+    {
+      "id": "5d3d5e1d-2b03-4aa3-918f-3cbda54ce813",
+      "type": "divider"
+    },
+    {
+      "id": "fa17f4ab-0dd3-408c-b537-bb0731606bdf",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b8632367-173f-4874-ae57-3ec99251bee5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dc0f793a-c56a-4b4d-b012-fab5b798fff0",
+          "type": "column",
+          "children": [
+            {
+              "id": "32a6b8e8-739a-49c1-91bc-b3e53a60e5ec",
+              "type": "paragraph",
+              "html": "<em><strong>Biology in the Grid: Graphic Design &amp; the Envisioning of Life</strong></em> was written by Phillip Thurtle, published by University Of Minnesota Press, October 19, 2018."
+            },
+            {
+              "id": "f3692d46-e954-4823-8bc7-64fe7af34d80",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f1d49307-60eb-4b01-8879-e004b7ec44e1",
+              "type": "quote",
+              "html": "<em>As one of the most visual sciences, biology has an aesthetic dimension that lends force and persuasion to scientific arguments: how things are arranged on a page, how texts are interspersed with images, and how images are composed reflect deep-seated beliefs about how life exists on Earth. </em>Biology in the Grid<em> traces how our current understanding of life and genetics emerged from the pervasive nineteenth- and twentieth-century graphic form of the grid, which allowed disparate pieces of information to form what media theorist Vilém Flusser called “technical images.”<br><br>Phillip Thurtle explains how the grid came to dominate biology in the twentieth century, transforming biologists’ beliefs about how organisms were constructed. He demonstrates how this shift in our understanding of biological grids enabled new philosophies in endeavors such as advertising, entertainment, and even political theory. The implications of the arguments in </em>Biology in the Grid<em> are profound, touching on matters as fundamental as desire, our understanding of our bodies, and our view of how society is composed. Moreover, Thurtle’s beautifully written, tightly focused arguments allow readers to apply his claims to new disciplines and systems.<br><br>Bristling with insight and potential, </em>Biology in the Grid<em> ultimately suggests that such a grid-organized understanding of natural life inevitably has social and political dimensions, with society recognized as being made of interchangeable, regulated parts rather than as an organic whole.</em>"
+            },
+            {
+              "id": "2616903b-ee0d-4357-a030-272f5300468c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c48c4afc-0abd-4b80-ac1a-bdc0090d1e15",
+          "type": "column",
+          "children": [
+            {
+              "id": "2b6f65e0-d01b-4681-a8a6-9fac230c904b",
+              "type": "image",
+              "src": "./assets/images/untitled-c50b1365e4c0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "492fe9c0-b2d4-4ec1-9180-53bbb0cfc90b",
+      "type": "divider"
+    },
+    {
+      "id": "ae1a1d8d-d1db-4407-ba9c-98e876fc384a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4d8f7782-d8bb-43d9-ade0-adc8eb7101d5",
+          "type": "column",
+          "children": [
+            {
+              "id": "d83c153e-94ec-43c1-b9bd-d8a20fca173e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a1052d28-f64b-4263-bdeb-571315b5ccdf",
+          "type": "column",
+          "children": [
+            {
+              "id": "5fcf9c85-0b1f-4c7b-984b-373e9d00c91c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yMvtNO\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0199f020-36c0-48e8-9ec1-16112c84de3f",
+      "type": "divider"
+    }
+  ]
+}

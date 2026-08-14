@@ -1,0 +1,66 @@
+{
+  "id": "411dad20-db2a-4806-88be-beee8bd71df9",
+  "slug": "quotes-411dad20",
+  "title": "Quotes",
+  "icon": "💬",
+  "cover": "",
+  "type": "page",
+  "parentId": "85212ace-bcfb-492e-95b2-6064286a7d2e",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/411dad20db2a480688bebeee8bd71df9",
+  "createdTime": 1701393746403,
+  "lastEditedTime": 1773874336554,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "List"
+      ]
+    ],
+    "title": [
+      [
+        "Quotes"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "307e078f-8b3a-4d31-9282-ac56818a766c",
+      "type": "paragraph",
+      "html": "<em>collected quotes related to</em> <em>the study of games/play::</em>"
+    },
+    {
+      "id": "54c48787-f81f-483b-879d-eb42b23c0127",
+      "type": "divider"
+    },
+    {
+      "id": "b2a234f3-84ac-4db1-959a-b8c1c392c437",
+      "type": "collection_view",
+      "collectionId": "19757b41-f882-4cdd-b3eb-a917220abc25",
+      "viewIds": [
+        "2751dcbc-e948-4750-821a-9446555caac4",
+        "a2b73f5f-b172-45d7-8028-7e5c21653970"
+      ],
+      "title": ""
+    },
+    {
+      "id": "a6430700-c3d9-4da2-a330-fce49c445d5c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "18f04bda-5af1-4882-8243-f074caeb3244",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    },
+    {
+      "id": "5c8514b4-4bb9-4403-8a87-9cfcd1374536",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

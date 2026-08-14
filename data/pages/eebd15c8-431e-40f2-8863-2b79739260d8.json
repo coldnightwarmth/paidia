@@ -1,0 +1,126 @@
+{
+  "id": "eebd15c8-431e-40f2-8863-2b79739260d8",
+  "slug": "digital-communion",
+  "title": "Digital Communion",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/eebd15c8431e40f288632b79739260d8",
+  "createdTime": 1651687004518,
+  "lastEditedTime": 1681313572394,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Digital Communion"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b8c3bb127eee.webp",
+  "blocks": [
+    {
+      "id": "cdf42621-b5ef-4891-a838-80cef1928efa",
+      "type": "divider"
+    },
+    {
+      "id": "6502c122-50ec-41ee-9171-84d89627fc12",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "74a4fa04-58dc-43fc-9867-4805bdee6e33",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2c425712-b22e-40cc-860c-fe2f0bcdbc5d",
+          "type": "column",
+          "children": [
+            {
+              "id": "719c2460-9b15-4226-bd38-31dd9e903fdd",
+              "type": "paragraph",
+              "html": "<em><strong>Digital Communion: Marshall McLuhan's Spiritual Vision for a Virtual Age</strong></em> was written by Nick Ripatrazone, published by Fortress Press, March 29, 2022."
+            },
+            {
+              "id": "b9b2c2f8-b4dd-4763-b264-2802ef2dda57",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "19edab3d-0153-4fa9-a847-81f3c9c11c8c",
+              "type": "quote",
+              "html": "<a href=\"#/marshall-mcluhan\"><em>Marshall McLuhan</em></a><em> was the greatest prophet of the digital age. In the 1960s, McLuhan, a Canadian literary theorist reared on Elizabethan satire and the labyrinthine novels of </em><a href=\"#/james-joyce\"><em>James Joyce</em></a><em>, turned his attention toward the budding and befuddling electronic age. Like most prophets, McLuhan became one through a fascination with God. Prophets divine their wisdom from a source, and </em>Digital Communion <em>shows that McLuhan's was his own Catholic faith. In other words, the greatest prophet of the digital age was an ardent Christian. A reconsideration of his vision can change the way we view the online world.<br><br>A Catholic convert, McLuhan foretold a digital age full of blessings and sins: a world where information was a phone call or keystroke away, but where our new global village could also bring out the worst in us. For him, mass media was a form of Mass. McLuhan thought that while the print world was visual, the electric world--especially television--was a medium of touch. It enveloped us. For McLuhan, God was everywhere, including in the </em><a href=\"#/electric-light\"><em>electric light</em></a><em>.<br><br></em>Digital Communion<em> considers the religious history of mass communication, from the Gutenberg Bible to James Joyce's literary forerunners of </em><a href=\"#/hypertext\"><em>hypertextual</em></a><em> language to McLuhan's vision of the electronic world as a place of potential spiritual exchange, in order to reveal how we can cultivate a more spiritual vision of the internet--a vision we need now more than ever.</em>"
+            },
+            {
+              "id": "5e72d622-2f1a-4930-8114-585ed80ce374",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "6f76e7e2-1c24-4126-b0f2-4fa05e89092e",
+          "type": "column",
+          "children": [
+            {
+              "id": "ee918d3a-a6bc-45bc-ba11-f50d5c5bb1db",
+              "type": "image",
+              "src": "./assets/images/untitled-b8c3bb127eee.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a7f6235-dd7c-40ea-8bc0-de9176823164",
+      "type": "divider"
+    },
+    {
+      "id": "16a3aa33-75d0-4f15-8f73-5c83ad14d400",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ddd6c73c-47f7-4442-8df2-b96af0e85211",
+          "type": "column",
+          "children": [
+            {
+              "id": "7c5b6a2d-9776-4df4-b688-e3c2efd0e1b2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "86022f1e-b3d6-4195-8d8a-16f40aff3550",
+          "type": "column",
+          "children": [
+            {
+              "id": "c4ef2bc3-1d94-42a1-b765-57d89950d3fb",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bgt84i\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22f3bc22-fe1c-4e1b-a7d0-97d10dc52faa",
+      "type": "divider"
+    }
+  ]
+}

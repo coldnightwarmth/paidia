@@ -1,0 +1,131 @@
+{
+  "id": "874fadfd-6cda-42ed-9ba2-b5cc3ecf95f4",
+  "slug": "newsgames",
+  "title": "Newsgames",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/874fadfd6cda42ed9ba2b5cc3ecf95f4",
+  "createdTime": 1652118307138,
+  "lastEditedTime": 1681313892048,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Newsgames",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4727787717b7.webp",
+  "blocks": [
+    {
+      "id": "42c452f6-6a39-4b76-ac2c-377122fd2ecd",
+      "type": "divider"
+    },
+    {
+      "id": "9a4bce26-0617-4475-97c3-4126986810e8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4253a385-2000-4880-acbb-e2b05ee95cab",
+      "type": "columns",
+      "children": [
+        {
+          "id": "71f0e46d-5847-49ea-95dd-834145f6d9fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "c7140007-6c10-4896-b943-70154147d1d2",
+              "type": "paragraph",
+              "html": "<em><strong>Newsgames: Journalism at Play </strong></em>was written by Ian Bogost, Simon Ferrari, &amp; Bobby Schweizer, published by The MIT Press, October 1, 2010."
+            },
+            {
+              "id": "bf4c38c2-6332-4895-9cbd-bf9cd5a941cc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3a6f3eab-a3a7-40b5-89c5-b4422c80de35",
+              "type": "quote",
+              "html": "<em>Journalism has embraced digital media in its struggle to survive. But most online journalism just translates existing practices to the Web: stories are written and edited as they are for print; video and audio features are produced as they would be for television and radio. The authors of </em>Newsgames<em> propose a new way of doing good journalism: videogames.<br><br>Videogames are native to computers rather than a digitized form of prior media. Games simulate how things work by constructing interactive models; journalism as game involves more than just revisiting old forms of news production. </em>Wired<em> magazine's game </em>Cutthroat Capitalism<em>, for example, explains the economics of Somali piracy by putting the player in command of a pirate ship, offering choices for hostage negotiation strategies.<br><br>Videogames do not offer a panacea for the ills of contemporary news organizations. But if the industry embraces them as a viable method of doing journalism―not just an occasional treat for online readers―newsgames can make a valuable contribution.</em>"
+            },
+            {
+              "id": "20a11c80-628f-40e5-9505-20a4da6a1337",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b121eb5c-2f66-4143-9b40-f1f5bd9f6a41",
+          "type": "column",
+          "children": [
+            {
+              "id": "aea698ba-71be-464d-a3f3-885767198f33",
+              "type": "image",
+              "src": "./assets/images/untitled-4727787717b7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15ab7e59-18c3-47c1-8a26-774550dc12ae",
+      "type": "divider"
+    },
+    {
+      "id": "38ede4fc-ef73-4760-99b6-233ac74f6c40",
+      "type": "columns",
+      "children": [
+        {
+          "id": "183859fc-3d45-4300-b10e-6cfd105a1763",
+          "type": "column",
+          "children": [
+            {
+              "id": "9d40b18c-6557-4e1e-8878-689b0fdbfbe4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1d2c651d-34ad-4730-8d7b-b35c69b6be9b",
+          "type": "column",
+          "children": [
+            {
+              "id": "a0047442-aaff-44bb-ac79-356582c922b0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bsO9J6\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68a45ea1-a4bc-4e29-b1bb-9b6329cc1895",
+      "type": "divider"
+    }
+  ]
+}

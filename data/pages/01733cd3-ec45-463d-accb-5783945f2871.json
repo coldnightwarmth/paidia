@@ -1,0 +1,136 @@
+{
+  "id": "01733cd3-ec45-463d-accb-5783945f2871",
+  "slug": "the-notebook",
+  "title": "The Notebook",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Notebook-01733cd3ec45463daccb5783945f2871?pvs=21",
+  "createdTime": 1652534938864,
+  "lastEditedTime": 1681314107611,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Notebook",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-56f664665063.webp",
+  "blocks": [
+    {
+      "id": "1a0da17d-0fd3-4622-8a3c-6c548fd49a61",
+      "type": "divider"
+    },
+    {
+      "id": "a2b3920c-ec86-431a-9c11-28a3e9ea7c2e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5160739b-b886-4771-98ac-4795c69db890",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bbbcf537-a0de-45c1-84fe-aa1e06d2a0fd",
+          "type": "column",
+          "children": [
+            {
+              "id": "987fd8dc-5d76-40ea-b0ed-53c83ca947fe",
+              "type": "paragraph",
+              "html": "<em><strong>The Notebook</strong></em> was written by Agota Kristof, published Grove Press, September 30, 1988."
+            },
+            {
+              "id": "398ea740-1ef7-4dec-96bd-27c6496b0a4c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f745d281-5269-4904-b853-1240e61537e3",
+              "type": "quote",
+              "html": "<em>Twin brothers, left with their evil grandmother at a time when war has blurred all distinctions between good and evil, learn to steal and kill in the name of survival and create their own loveless morality</em>"
+            },
+            {
+              "id": "7bb00ac5-b713-4aaa-9aa2-566508c2764d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "dcc9687a-8916-4150-b501-1ca9fda8d758",
+          "type": "column",
+          "children": [
+            {
+              "id": "4dc340de-6a34-4f3e-bb9f-44cf8a8d1f73",
+              "type": "image",
+              "src": "./assets/images/untitled-56f664665063.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55273a83-36bb-4f25-8b0c-73105421e91d",
+      "type": "divider"
+    },
+    {
+      "id": "16bac740-584c-42ab-80e0-af8b4ef345df",
+      "type": "columns",
+      "children": [
+        {
+          "id": "620f824c-2ec9-4d0e-9081-5ac19f556d78",
+          "type": "column",
+          "children": [
+            {
+              "id": "a48b1ec6-8f17-42c7-8443-5a2cf426fc43",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8bdfe3f0-6674-42d2-8f28-23cf53072050",
+          "type": "column",
+          "children": [
+            {
+              "id": "a21fce04-0654-44bc-9b9d-3ebbab78aa84",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SyNvKi\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1109481-8b8b-4fa2-888b-0b38097b3ccf",
+      "type": "divider"
+    },
+    {
+      "id": "2811c196-4780-4f75-b985-7469cb29a23e",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

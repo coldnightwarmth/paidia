@@ -1,0 +1,78 @@
+{
+  "id": "8ec8eb58-4540-47ad-b86d-bacd69b88410",
+  "slug": "artifacts-8ec8eb58",
+  "title": "Artifacts",
+  "icon": "🏺",
+  "cover": "",
+  "type": "page",
+  "parentId": "aedae6cc-3de7-4c4b-8cb3-305b4e9b560a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/8ec8eb58454047adb86dbacd69b88410",
+  "createdTime": 1704852281537,
+  "lastEditedTime": 1704854833786,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Artifacts"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "325a0b2b-0743-47aa-af04-2d55295818c4",
+      "type": "paragraph",
+      "html": "<em>     notable historical objects of play</em>"
+    },
+    {
+      "id": "7a5d2aed-5e2a-47f5-845d-16dcac2917f8",
+      "type": "divider"
+    },
+    {
+      "id": "bd724583-44a7-4dde-9e83-ebcd6ad5b3f7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ce59ca99-1734-42fd-b85e-4d447f033e8f",
+          "type": "column",
+          "children": [
+            {
+              "id": "b319e7cf-0230-4bca-b6bf-f86fcd941b15",
+              "type": "paragraph",
+              "html": "Tags"
+            }
+          ]
+        },
+        {
+          "id": "d48e95e4-340f-4a8e-9fd1-dbe5c4bd87e0",
+          "type": "column",
+          "children": [
+            {
+              "id": "9c6a220d-a415-4132-a50e-46e75d1589ad",
+              "type": "collection_view",
+              "collectionId": "e61311a8-ff1f-445b-a8c4-bf6a58d58f20",
+              "viewIds": [
+                "feea495c-d009-45ff-9338-809b316390cf"
+              ],
+              "title": ""
+            },
+            {
+              "id": "3fe26be4-f1ba-4f81-811c-bda138ad93b5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

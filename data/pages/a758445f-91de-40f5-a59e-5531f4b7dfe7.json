@@ -1,0 +1,131 @@
+{
+  "id": "a758445f-91de-40f5-a59e-5531f4b7dfe7",
+  "slug": "the-last-gamesman",
+  "title": "The Last Gamesman",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Last-Gamesman-a758445f91de40f5a59e5531f4b7dfe7?pvs=21",
+  "createdTime": 1653177878665,
+  "lastEditedTime": 1681313553577,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Last Gamesman",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e1e3d64a5cd2.webp",
+  "blocks": [
+    {
+      "id": "81516f72-cee8-4b26-a8aa-25e16e73e91a",
+      "type": "divider"
+    },
+    {
+      "id": "ee091494-7e25-4ca0-b368-f0c27d91ca39",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "55d539e7-65f1-4e6d-9ea6-705f42b8f03b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "591824c1-83a6-4444-8a91-da35ba20f2c7",
+          "type": "column",
+          "children": [
+            {
+              "id": "67b775c0-2a69-4ce9-b143-0f6fbe883c28",
+              "type": "paragraph",
+              "html": "<em><strong>The Last Gamesman: My Sixty Years of Hustling Games in the Clubs, Parks &amp; Streets of New York</strong></em> was written by Asa &amp; Virginia Hoffmann, published by Gatekeeper Press, March 3, 2022."
+            },
+            {
+              "id": "f390b86f-670a-4bb0-8d39-06e393d1fa37",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c15c25f2-e5fb-4694-ba44-675dd3f83258",
+              "type": "quote",
+              "html": "<em>The Last Gamesman is the story of Asa Hoffmann, legendary New York Chess player and master of </em>Backgammon, Poker, Scrabble, Bridge<em>, and </em>Horse<em> handicapping. Born into a privileged family of two attorneys, Asa was sent to the best schools including Horace Mann and Columbia University, but after a year at Columbia left school and his Park Avenue family home to make a living “hustling” chess and other games in the streets, parks and clubs of New York City. His character is portrayed in the book and film “</em><a href=\"#/searching-for-bobby-fischer\">Searching for Bobby Fischer</a><em>”.<br><br>Asa has made a living plying his skills in parts of eight decades, winning tournaments in every game he plays, his main game being </em>Chess<em>. Asa also teaches gaming theory, is the author of two </em>Chess <em>books and has been featured in movies and documentaries about </em>Chess <em>and in a feature article in the New York Times. He teaches chess in New York City.<br><br>A teenage friend of World Chess Champion Bobby Fischer, Asa achieved the international chess title of FIDE Master and was ranked number 21 in the US at the age of 21. He has continued to play and win tournaments since the 1950’s and is now one of the top senior chess players in the country. In this volume Asa recounts the amazing and often humorous stories of the characters, the events, and the venues of the New York gaming world, many of which no longer exist but are worth memorializing.</em>"
+            },
+            {
+              "id": "df6d780d-8f51-49f9-a344-1685a6a41b27",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "de2ba0fa-0978-45b0-b896-2f4f4c5a3a54",
+          "type": "column",
+          "children": [
+            {
+              "id": "a6528965-cd86-42ba-966a-09adda3fd7f5",
+              "type": "image",
+              "src": "./assets/images/untitled-e1e3d64a5cd2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75ba7fbd-3d71-4acc-b5f8-509a8411c915",
+      "type": "divider"
+    },
+    {
+      "id": "c5e6dc92-148e-4a37-a7a2-d360065dff2f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a1adba7b-25c0-48fa-b644-0bcabfb251b6",
+          "type": "column",
+          "children": [
+            {
+              "id": "71a330cf-8786-4b1d-a76a-7b5ab41454bb",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "771d57c3-502b-40b5-94ff-502234f48d10",
+          "type": "column",
+          "children": [
+            {
+              "id": "b2d202b4-d21b-44bb-8cac-489ef8f76f4a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FD8Tv3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a1bd8d9-ea9a-4b0c-8261-0ecd3cdb1d85",
+      "type": "divider"
+    }
+  ]
+}

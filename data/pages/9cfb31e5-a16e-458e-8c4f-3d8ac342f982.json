@@ -1,0 +1,131 @@
+{
+  "id": "9cfb31e5-a16e-458e-8c4f-3d8ac342f982",
+  "slug": "a-history-of-competitive-gaming",
+  "title": "A History of Competitive Gaming",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/A-History-of-Competitive-Gaming-9cfb31e5a16e458e8c4f3d8ac342f982?pvs=21",
+  "createdTime": 1657238721173,
+  "lastEditedTime": 1681310237900,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A History of Competitive Gaming",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-521fa37ad137.webp",
+  "blocks": [
+    {
+      "id": "72d3b0da-535d-4306-9ec3-a73f28cc0c8a",
+      "type": "divider"
+    },
+    {
+      "id": "1ff6323b-2678-425d-959a-b57d6aff753d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c0cf21b5-cb3c-492a-b674-e69fc608bf7f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8c0ebfc6-295c-4118-bf0c-297c433a2b24",
+          "type": "column",
+          "children": [
+            {
+              "id": "9d75da87-fce0-4628-8d55-b49982840e8f",
+              "type": "paragraph",
+              "html": "<em><strong>A History of Competitive Gaming</strong></em> was written by Lu Zhouxiang, published by Routledge, May 13, 2022."
+            },
+            {
+              "id": "5875f7b7-4e9b-4bff-a5d5-ae68b16fcc17",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1014b3ef-ae23-45ce-a633-e723429f93bd",
+              "type": "quote",
+              "html": "<em>Competitive gaming, or esports – referring to competitive tournaments of video games among both casual gamers and professional players – began in the early 1970s with small competitions like the one held at Stanford University in October 1972, where some 20 researchers and students attended. By 2022, the estimated revenue of the global esports industry is in excess of $947 million, with over 200 million viewers worldwide. Regardless of views held about competitive gaming, esports have become a modern economic and cultural phenomenon.<br><br>This book studies the full history of competitive gaming from the 1970s to the 2010s against the background of the arrival of the electronic and computer age. It investigates how competitive gaming has grown into a new form of entertainment, a sport-like competition, a lucrative business and a unique cultural sensation. It also explores the role of competitive gaming in the development of the video game industry, making a distinctive contribution to our knowledge and understanding of the history of video games.</em>"
+            },
+            {
+              "id": "8443fa1b-977f-4892-97fc-0b213b749500",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2bfcf982-0f2c-4958-96dc-44da46067798",
+          "type": "column",
+          "children": [
+            {
+              "id": "c7b7a32f-3a20-46a3-9dbd-e4906500ab42",
+              "type": "image",
+              "src": "./assets/images/untitled-521fa37ad137.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a28ce9c-197b-4458-9da3-7e16e14e105a",
+      "type": "divider"
+    },
+    {
+      "id": "437d05e8-7522-4c6e-98f1-81ca844f60df",
+      "type": "columns",
+      "children": [
+        {
+          "id": "37474ee5-ecb0-4989-8c61-f05cdfb19ab9",
+          "type": "column",
+          "children": [
+            {
+              "id": "23e3b956-779c-4f22-81fe-c864c3ec193d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5943064f-f9bf-4e83-ab6b-5aee2c0fcc0e",
+          "type": "column",
+          "children": [
+            {
+              "id": "03eed521-e15b-445e-92ab-48fe7d6a3b12",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3uwk2qW\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aafd9b15-53d8-4692-b0a6-9cc3f61087ee",
+      "type": "divider"
+    }
+  ]
+}

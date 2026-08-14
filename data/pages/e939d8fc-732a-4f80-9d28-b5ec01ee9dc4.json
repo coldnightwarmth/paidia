@@ -1,0 +1,131 @@
+{
+  "id": "e939d8fc-732a-4f80-9d28-b5ec01ee9dc4",
+  "slug": "interactive-architecture",
+  "title": "Interactive Architecture",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Interactive-Architecture-e939d8fc732a4f809d28b5ec01ee9dc4?pvs=21",
+  "createdTime": 1651695093950,
+  "lastEditedTime": 1681313202475,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Interactive Architecture",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-25c12d4af667.webp",
+  "blocks": [
+    {
+      "id": "b2576ddc-a6f7-437a-a3c6-6f89ddeab959",
+      "type": "divider"
+    },
+    {
+      "id": "038ee17d-d102-4c8c-b287-0698091b4f09",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f836771c-bb9b-4994-8523-6b29cfc8b90e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c59af6dd-c2d4-490a-84ab-119a8607a242",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f0998cd-67fd-42c0-a519-f118de2d63da",
+              "type": "paragraph",
+              "html": "<em><strong>Interactive Architecture: Adaptive World</strong></em> is a collection of essays edited by Michael Fox, originally published by Princeton Architectural Press, September 16, 2009."
+            },
+            {
+              "id": "97861bbc-0287-4c53-b4c4-40daf3f234cf",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0d6f3fc5-43f3-495b-b94a-f05e9b658b22",
+              "type": "quote",
+              "html": "<em>Recent technological developments in biology, computation, cybernetics, engineering, industrial design, materials, and robotics allow architecture to evolve beyond static functionality and become an active participant—with the capacity to perceive, react to, and connect—with humans and the natural world. The first process-based guide by Michael Fox and Miles Kemp introduced interactive architecture in 2009, and the past few years have seen its prototypical potential unleashed, manifest in the eighteen inventive projects featured in this follow-up, the latest in our Architecture Briefs series. <br><br></em>Interactive Architecture: Adaptive World <em>illustrates how structures can process information, make observations, and utilize tools to translate natural systems and create seamlessly integrated environments, from data-driven light installations, responsive sculptures, and performative materials, to smart highways, dynamic spaces, kinetic facades, and adaptive buildings. Ambitious projects from around the world, including Abu Dhabi, Indianapolis, Los Angeles, New York City, San Francisco, Frankfurt, London, Paris, Sochi, and Zurich, are illuminated by photographs, diagrams, and renderings.</em>"
+            },
+            {
+              "id": "3112767e-694b-4bd1-9248-36d8281d65fe",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "099b62e5-9a57-41e6-81fb-dce259dcbdda",
+          "type": "column",
+          "children": [
+            {
+              "id": "bc527673-022f-49d1-b7ec-59bb8d2d9235",
+              "type": "image",
+              "src": "./assets/images/untitled-25c12d4af667.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a68a9e9-5f9b-4e1b-b666-2744a02fe2e0",
+      "type": "divider"
+    },
+    {
+      "id": "bdca3d9f-362b-4565-a979-edae0ac4a6fe",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bab27703-5b89-4d9d-8eb6-a1584ed3be45",
+          "type": "column",
+          "children": [
+            {
+              "id": "676e2a1f-8280-420c-92ad-1d697fbf2049",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0dbc3947-f14d-4a7c-9974-dda9d0531aaa",
+          "type": "column",
+          "children": [
+            {
+              "id": "357dab25-4249-437e-ac11-12b826d06eda",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3A3K0Wg\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27663370-87f0-4f02-8dcd-85eb5f35e7f5",
+      "type": "divider"
+    }
+  ]
+}

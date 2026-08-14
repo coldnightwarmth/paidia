@@ -1,0 +1,129 @@
+{
+  "id": "69260e38-8fc8-4702-ab94-dcf9bc464a60",
+  "slug": "replay",
+  "title": "Replay",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Replay-69260e388fc84702ab94dcf9bc464a60?pvs=21",
+  "createdTime": 1651970661865,
+  "lastEditedTime": 1681314022991,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Replay",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8acef7c0d3f4.webp",
+  "blocks": [
+    {
+      "id": "1d85ab15-153c-410e-8462-a488ad5314fe",
+      "type": "divider"
+    },
+    {
+      "id": "62508426-7e9a-487e-b566-b21bd0b6162a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5cc06132-4069-4dd5-b4a0-0379cb2b57c6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c71c6fca-969e-4f31-bec0-153a94cf2e9b",
+          "type": "column",
+          "children": [
+            {
+              "id": "7abf414a-f611-490e-a454-0c79035f2cba",
+              "type": "paragraph",
+              "html": "<em><strong>Replay: The History of Video Games</strong></em> was written by Tristan Donovan, published by Yellow Ant, April 20, 2010."
+            },
+            {
+              "id": "e4ee8795-6a90-40e8-b18e-f7a304dda895",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "973d2d6c-ba98-4db6-8654-4b6d314d45d6",
+              "type": "quote",
+              "html": "<em>A riveting account of the strange birth and remarkable evolution of the most important development in entertainment since television, </em>Replay<em> is the ultimate history of video games. Based on extensive research and over 140 exclusive interviews with key movers and shakers from gaming's past, </em>Replay<em> tells the sensational story of how the creative vision of game designers gave rise to one of the world's most popular and dynamic art forms.</em>"
+            }
+          ]
+        },
+        {
+          "id": "72593c74-1bee-4fc7-a41d-60c7fee405bc",
+          "type": "column",
+          "children": [
+            {
+              "id": "7d22f2d7-7483-4932-800f-cd1b90a733a7",
+              "type": "image",
+              "src": "./assets/images/untitled-8acef7c0d3f4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0b788bd3-61fa-4731-888d-7433135a6231",
+      "type": "divider"
+    },
+    {
+      "id": "87777b44-27dc-48b3-b116-e9e4c6375fba",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8caab388-eb40-49fa-b66b-ac476161cc95",
+          "type": "column",
+          "children": [
+            {
+              "id": "444e514f-1188-4630-be42-0301dafb2bc3",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "facbea39-c0c3-457b-b80b-24122df516fe",
+          "type": "column",
+          "children": [
+            {
+              "id": "dcfab84b-76d5-49f4-b428-dfbbabe0338b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fgY5Id\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0cb5d21-8ec3-4ecf-94d2-f9a97702dec7",
+      "type": "divider"
+    }
+  ]
+}

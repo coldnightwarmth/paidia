@@ -1,0 +1,134 @@
+{
+  "id": "8f006903-c199-43fb-9013-7fef3095702c",
+  "slug": "designing-for-play",
+  "title": "Designing for Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Designing-for-Play-8f006903c19943fb90137fef3095702c?pvs=21",
+  "createdTime": 1659710567146,
+  "lastEditedTime": 1681313051598,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Designing for Play",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-59391475a7d1.webp",
+  "blocks": [
+    {
+      "id": "cb7cf334-9a32-4320-adca-f70787596e3c",
+      "type": "divider"
+    },
+    {
+      "id": "a3ba0f71-4cfa-4138-93a2-a48e74f7080c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5fe10d97-b18d-4670-bc29-4efef1907b75",
+      "type": "columns",
+      "children": [
+        {
+          "id": "52a724a3-ff97-4338-ad24-edad6031fc6c",
+          "type": "column",
+          "children": [
+            {
+              "id": "fa0669ce-cba7-4e35-a7aa-e26e5cfc9e9a",
+              "type": "paragraph",
+              "html": "<em><strong>Designing for Play</strong></em> was written by Barbara E. Hendricks, originally published by Routledge in 2001."
+            },
+            {
+              "id": "369c16fa-7f92-41fe-b764-950b2fd9bc27",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a7959b03-b2b9-4b32-b4d8-1b37b3f6f573",
+              "type": "quote",
+              "html": "<em>This title was first published in 2001. Architects, landscape designers, builders, gardeners and teachers have all at some time been called upon to design a play area. However, this diversity of profession has not resulted in a diversity of design solution, as playgrounds appear to have remained virtually the same throughout the world since their creation over a century ago. This text is not a “how-to” book, instead, by using thinking from child development and child psychology, Barbara Hendricks hopes to offer an approach to finding an innovative design solution that will challenge the established notions of play provision. This book, covering sociological, environmental and design issues, provides designers with an exploration of, and a guide to, designing from a “Child’s eye” view of the world.</em>"
+            },
+            {
+              "id": "170c3cb4-5a8c-4994-aaa3-a0d762770d96",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e41b2617-23ed-4757-9985-655556f7a048",
+          "type": "column",
+          "children": [
+            {
+              "id": "39d3fb4f-bc6f-4f0f-a1fa-915f1748cf73",
+              "type": "image",
+              "src": "./assets/images/untitled-59391475a7d1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c211ec70-8f27-401d-87eb-985f152331cf",
+      "type": "divider"
+    },
+    {
+      "id": "69dd4064-ae64-4ae1-a93b-53545db54da1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b7b73ede-d6ec-45c2-b759-a36dbf2c3efd",
+          "type": "column",
+          "children": [
+            {
+              "id": "19dadc6f-2df7-48d2-add7-eead8ed9342d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0eb293a1-53e0-4b66-aa76-f2c65bf69d04",
+          "type": "column",
+          "children": [
+            {
+              "id": "c8da7e95-50cf-43a8-b6ce-0f22cf600d02",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3QfHuS0\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49b85d68-feff-4989-b041-87c3fe3123fe",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "a5ed07a3-04f8-42df-bb5e-8114536cccef",
+  "slug": "traditional-and-folk-puppets-of-the-world",
+  "title": "Traditional & Folk Puppets of the World",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Traditional-Folk-Puppets-of-the-World-a5ed07a304f842dfbb5e8114536cccef?pvs=21",
+  "createdTime": 1669917212239,
+  "lastEditedTime": 1681312280305,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Traditional & Folk Puppets of the World",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/3271812671-ad9df48b4395.webp",
+  "blocks": [
+    {
+      "id": "d2b40a78-c76c-4a1b-90d7-4c371b6abe7a",
+      "type": "divider"
+    },
+    {
+      "id": "2d5d2128-ac0b-4af0-a1e7-b5002fc6733f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cfb40a3f-8648-4db3-99a7-8e5edbdfdd6d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d7e32881-beb4-4a23-a99e-e6027d850217",
+          "type": "column",
+          "children": [
+            {
+              "id": "392bdf01-d648-4290-995a-49427fc92c98",
+              "type": "paragraph",
+              "html": "<em><strong>Traditional &amp; Folk Puppets of the World</strong></em> was written by Michael R. Malkin, published by A. S. Barnes, January 1, 1977."
+            },
+            {
+              "id": "e1fd7142-20c8-4e3a-a0d7-37fd8f19f586",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c0b48a4a-869e-47ca-9fe4-96c290bbc324",
+              "type": "quote",
+              "html": "<em>For many, puppets belong to childhood memories using tangled strings and one's imagination...This book adds facts to those recollections showing that for thousands of years puppetry has been a traditional and highly developed form of entertainment for the wealthy, aristocratic elite, or as folk theater. Great images and information to enjoy is presented in a pleasant way, so read up and enjoy!</em>"
+            },
+            {
+              "id": "6c529276-9ce2-4b68-89df-7b7a4cb02715",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "263c81ae-50c3-444f-a387-55daeb2b0d5b",
+          "type": "column",
+          "children": [
+            {
+              "id": "7c31764a-9b9b-4404-ab9c-2f27ba13c41e",
+              "type": "image",
+              "src": "./assets/images/3271812671-ad9df48b4395.webp",
+              "caption": "",
+              "alt": "3271812671.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc03d67c-3c98-4681-a227-8d3c9b3a81ea",
+      "type": "divider"
+    },
+    {
+      "id": "38c14230-50c0-454c-9ba4-ba33222fea19",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3f25d073-8441-4ccd-850b-230a554a4e1f",
+          "type": "column",
+          "children": [
+            {
+              "id": "73c25653-93cd-4b83-a222-eb05e471b28b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e0f3abf1-2138-40c1-9cca-eb197d6ed25c",
+          "type": "column",
+          "children": [
+            {
+              "id": "33616e04-d3b9-4b28-927f-2cddc9541b17",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Traditional-Puppets-World-Michael-Malkin/dp/0498018717/ref=sr_1_1?crid=RDSUOA0MS0J5&amp;keywords=Traditional+Puppets+of+the+World.&amp;qid=1666794183&amp;qu=eyJxc2MiOiIwLjg5IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=traditional+puppets+of+the+world.%2Cstripbooks%2C92&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a63f298f-2a1a-449b-ac54-d1c4387315e3",
+      "type": "divider"
+    }
+  ]
+}

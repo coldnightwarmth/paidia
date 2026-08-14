@@ -1,0 +1,141 @@
+{
+  "id": "9aee0c43-7c6a-4143-9234-c2a4826cff5d",
+  "slug": "first-person",
+  "title": "First Person",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e5dbabf1-59e3-4e8d-9f3b-ee45e757afd8",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/9aee0c437c6a41439234c2a4826cff5d",
+  "createdTime": 1651959462738,
+  "lastEditedTime": 1681313354199,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "First Person"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-06b52772e174.webp",
+  "blocks": [
+    {
+      "id": "f8dd06d7-1d9e-417f-b02b-7e5a4110ee99",
+      "type": "divider"
+    },
+    {
+      "id": "a8e9416e-b57c-411f-bbf2-816ef4c5ac0c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3df99a4f-6133-4b31-b7a2-6114e25ecea3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d4beb4ef-d7be-4ee6-81d5-66b30a97bc69",
+          "type": "column",
+          "children": [
+            {
+              "id": "3b6ba1d8-e8f4-4491-9bc7-ac5089693398",
+              "type": "paragraph",
+              "html": "<em><strong>First Person: New Media as Story, Performance, &amp; Game</strong></em> is a collection of essays edited by <a href=\"#/noah-wardrip-fruin\">Noah Wardrip-Fruin</a> &amp; Pat Harrigan, published by The MIT Press, January 1, 2004."
+            },
+            {
+              "id": "64bbeaa2-75f5-4cda-beaf-e78c39c4f7d5",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "be991585-4715-4e67-8a25-0757e267eed8",
+              "type": "quote",
+              "html": "<em>The relationship between story and game, and related questions of electronic writing and play, examined through a series of discussions among new media creators and theorists.<br><br>Electronic games have established a huge international market, significantly outselling non-digital games; people spend more money on </em><a href=\"#/space-invaders\">The Sims</a><em> than on </em><a href=\"#/monopoly\">Monopoly</a><em> or even on </em><a href=\"#/magic-the-gathering\">Magic: the Gathering</a><em>. Yet it is widely believed that the market for electronic literature―predicted by some to be the future of the written word―languishes. Even bestselling author Stephen King achieved disappointing results with his online publication of </em>Riding the Bullet<em> and </em>The Plant<em>.<br><br>Isn't it possible, though, that many hugely successful computer games―those that depend on or at least utilize storytelling conventions of narrative, character, and theme―can be seen as examples of electronic literature? And isn't it likely that the truly significant new forms of electronic literature will prove to be (like games) so deeply interactive and procedural that it would be impossible to present them as paper-like &quot;e-books&quot;? The editors of </em>First Person<em> have gathered a remarkably diverse group of new media theorists and practitioners to consider the relationship between &quot;story&quot; and &quot;game,&quot; as well as the new kinds of artistic creation (literary, performative, playful) that have become possible in the digital environment.<br><br>This landmark collection is organized as a series of discussions among creators and theorists; each section includes three presentations, with each presentation followed by two responses. Topics considered range from &quot;Cyberdrama&quot; to &quot;Ludology&quot; (the study of games), to &quot;The Pixel/The Line&quot; to &quot;Beyond Chat.&quot; The conversational structure inspired contributors to revise, update, and expand their presentations as they prepared them for the book, and the panel discussions have overflowed into a </em>First Person<em> web site (created in conjunction with the online journal </em>Electronic Book Review<em>).</em>"
+            },
+            {
+              "id": "e8cf2127-0bae-4769-bfca-46a97f0cf9e6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2c15db05-ebde-4b96-b5d9-1ebf6838a4fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "5cf31c4c-2587-4eaf-8505-d71867a2d62e",
+              "type": "image",
+              "src": "./assets/images/untitled-06b52772e174.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c474690-9134-40b7-8528-c6da9a5b9212",
+      "type": "divider"
+    },
+    {
+      "id": "7c30ff5b-9c9b-4b51-a447-ec87a7f91aa1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a5fd022b-5f1c-4965-b5b8-a79dbeb373f1",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf86c124-fd2b-4d8b-ac8c-a130c0284dd7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a3cb54c9-6251-4345-8e10-df8479e37a05",
+          "type": "column",
+          "children": [
+            {
+              "id": "06c7d685-1d64-408e-be66-fe9020e95c07",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fj1XZg\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90e93ee5-6a9f-41d3-a04e-6d650796145a",
+      "type": "divider"
+    },
+    {
+      "id": "99c14c7a-d2a7-4849-b14c-c5c6d4f84b5e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "199ba2cb-2536-48b1-9d3d-4d48873a4d57",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "28ad4e41-49dc-41df-b4e3-e58a4dbe0f51",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

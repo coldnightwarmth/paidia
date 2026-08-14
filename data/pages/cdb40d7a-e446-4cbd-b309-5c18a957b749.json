@@ -1,0 +1,136 @@
+{
+  "id": "cdb40d7a-e446-4cbd-b309-5c18a957b749",
+  "slug": "the-cambridge-handbook-of-play",
+  "title": "The Cambridge Handbook of Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Cambridge-Handbook-of-Play-cdb40d7ae4464cbdb3095c18a957b749?pvs=21",
+  "createdTime": 1659573531223,
+  "lastEditedTime": 1681313064627,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Cambridge Handbook of Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-077067959d27.webp",
+  "blocks": [
+    {
+      "id": "89428812-7a29-47fd-9807-5f8e5235b287",
+      "type": "divider"
+    },
+    {
+      "id": "dc86801b-5be0-48b0-94a4-f054c4ce4b16",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "91b03892-6663-4c0c-9770-383a38f9c959",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0dc1de55-4554-4882-aa63-d70fbb8c01d4",
+          "type": "column",
+          "children": [
+            {
+              "id": "05326cb0-b842-40ed-81ed-dc33938694f7",
+              "type": "paragraph",
+              "html": "<em><strong>The Cambridge Handbook of Play: Developmental &amp; Disciplinary Perspectives</strong></em> is a collection of essays edited by Peter K. Smith &amp; Jaipaul L. Roopnarine, published by Cambridge University Press, December 20, 2018."
+            },
+            {
+              "id": "a00bfe77-d97c-430f-9d60-39030767b4fc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ee0ae359-4e95-4f1c-a50b-4f8923126e1a",
+              "type": "quote",
+              "html": "<em>Play takes up much of the time budget of young children, and many animals, but its importance in development remains contested. This comprehensive collection brings together multidisciplinary and developmental perspectives on the forms and functions of play in animals, children in different societies, and through the lifespan. </em>The Cambridge Handbook of Play<em> covers the evolution of play in animals, especially mammals; the development of play from infancy through childhood and into adulthood; historical and anthropological perspectives on play; theories and methodologies; the role of play in children’s learning; play in special groups such as children with impairments, or suffering political violence; and the practical applications of playwork and play therapy. Written by an international team of scholars from diverse disciplines such as psychology, education, neuroscience, sociology, evolutionary biology and anthropology, this essential reference presents the current state of the field in play research.</em>"
+            },
+            {
+              "id": "c83484e6-98ac-4d62-b6e9-5f2c405cf4d6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a8af0878-f174-458f-8a10-3848837d704e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a3ca858d-5e2a-4a96-ac57-a16b1350cdaa",
+          "type": "column",
+          "children": [
+            {
+              "id": "0f0f3968-65aa-406f-aa44-64c1dc7ed558",
+              "type": "image",
+              "src": "./assets/images/untitled-077067959d27.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "169bf9ee-1b0f-40da-9dd6-50ad50d4ea2d",
+      "type": "divider"
+    },
+    {
+      "id": "b425bcc5-c230-4c41-9217-fb78285f8679",
+      "type": "columns",
+      "children": [
+        {
+          "id": "65d24f44-4707-45fc-9cc3-926bdbe3de7b",
+          "type": "column",
+          "children": [
+            {
+              "id": "a86a8b4d-405e-43b9-a794-045b192a674e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f19152fe-d816-472b-aa3f-8d60565c2687",
+          "type": "column",
+          "children": [
+            {
+              "id": "86ed2b4b-781f-448f-ae04-bafde437c49c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3cYVDo5\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72524fda-479c-41e9-875b-bd493df1540e",
+      "type": "divider"
+    }
+  ]
+}

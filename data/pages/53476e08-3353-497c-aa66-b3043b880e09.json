@@ -1,0 +1,46 @@
+{
+  "id": "53476e08-3353-497c-aa66-b3043b880e09",
+  "slug": "level",
+  "title": "Level",
+  "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "4231da41-594a-42e5-b414-229c0a16aa23",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/53476e083353497caa66b3043b880e09",
+  "createdTime": 1651853554446,
+  "lastEditedTime": 1681313735945,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Concept"
+      ]
+    ],
+    "title": [
+      [
+        "Level"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "c8f67a30-ddc8-4352-9910-9a9b393e6f37",
+      "type": "divider"
+    },
+    {
+      "id": "54c75c06-7ad7-4d6c-8b08-c7c73cf853f9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f3e5d782-bf97-4a02-bec3-a2c6ee94c665",
+      "type": "paragraph",
+      "html": "A location or status of play."
+    }
+  ]
+}

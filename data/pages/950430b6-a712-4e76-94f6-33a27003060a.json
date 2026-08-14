@@ -1,0 +1,126 @@
+{
+  "id": "950430b6-a712-4e76-94f6-33a27003060a",
+  "slug": "mondo-nano",
+  "title": "Mondo Nano",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Mondo-Nano-950430b6a7124e7694f633a27003060a?pvs=21",
+  "createdTime": 1651869358390,
+  "lastEditedTime": 1681314166171,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Mondo Nano",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c2d98d1362a3.webp",
+  "blocks": [
+    {
+      "id": "87aaa2de-172e-4dbc-951f-d939444db3bc",
+      "type": "divider"
+    },
+    {
+      "id": "c8c8320e-a0a7-4756-90eb-bc9555f40080",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e0eb2a25-9041-4465-9e67-391b50095e03",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a04dce62-6b6b-41a3-a9ee-7ebe2c59e2f7",
+          "type": "column",
+          "children": [
+            {
+              "id": "3a5ae9ae-37f4-4175-aa14-61565d117db6",
+              "type": "paragraph",
+              "html": "<em><strong>Mondo Nano: Fun and Games in the World of Digital Matter</strong></em> was written by Colin Milburn, published by Duke University Press Books, April 6, 2015."
+            },
+            {
+              "id": "0556183b-eb99-4c7a-9316-791ee1137cc9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5fe1007c-e067-47c7-af55-b13230fb6a19",
+              "type": "quote",
+              "html": "<em>In </em>Mondo Nano <em>Colin Milburn takes his readers on a playful expedition through the emerging landscape of nanotechnology, offering a light-hearted yet critical account of our high-tech world of fun and games. This expedition ventures into discussions of the first nanocars, the popular video games </em>Second Life, Crysis, <em>and</em> BioShock<em>, international nanosoccer tournaments, and utopian nano cities. Along the way, Milburn shows how the methods, dispositions, and goals of nanotechnology research converge with video game culture. With an emphasis on play, scientists and gamers alike are building a new world atom by atom, transforming scientific speculations and video game fantasies into reality. Milburn suggests that the closing of the gap between bits and atoms entices scientists, geeks, and gamers to dream of a completely programmable future. Welcome to the wild world of </em>Mondo Nano<em>.</em>"
+            }
+          ]
+        },
+        {
+          "id": "9f4f8264-7702-4f46-b64e-d41aec5d718d",
+          "type": "column",
+          "children": [
+            {
+              "id": "cfdef9d3-c6d7-45ea-81da-d8c0353009ca",
+              "type": "image",
+              "src": "./assets/images/untitled-c2d98d1362a3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dcaa31fb-c3fc-4b02-9988-be329c4934c2",
+      "type": "divider"
+    },
+    {
+      "id": "bc1f46b7-f4a2-4f2b-b653-a9d6c5b5ad3a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "56599922-5494-44f9-a285-081c1f744b4d",
+          "type": "column",
+          "children": [
+            {
+              "id": "179524ed-c366-49fc-93d1-29f3f5d3fdec",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3dc9d863-4899-42af-a731-e8fe913dd3b4",
+          "type": "column",
+          "children": [
+            {
+              "id": "62e91c1e-a2e3-4582-9498-d0b905d2975e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3tZxYJY\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cc419d72-e5e4-45d5-832c-5db10b7f6bee",
+      "type": "divider"
+    }
+  ]
+}

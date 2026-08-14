@@ -1,0 +1,136 @@
+{
+  "id": "84caaf1c-3586-48e0-be46-b02890880102",
+  "slug": "locally-played",
+  "title": "Locally Played",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Locally-Played-84caaf1c358648e0be46b02890880102?pvs=21",
+  "createdTime": 1652116552490,
+  "lastEditedTime": 1681314295202,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Locally Played",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6bd250feef90.webp",
+  "blocks": [
+    {
+      "id": "721c7cfe-7bfa-4ac6-94d0-93a179172737",
+      "type": "divider"
+    },
+    {
+      "id": "e74489ab-a5bd-449f-b48a-b64876de80e4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "74686e74-d563-498b-b518-77bcb27c3fe1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bbe213ff-abee-4078-9e4a-fc78532ea330",
+          "type": "column",
+          "children": [
+            {
+              "id": "fea409a7-394e-42ff-b8c8-7d01a06cd0b9",
+              "type": "paragraph",
+              "html": "<em><strong>Local Played: Real-World Games for Stronger Place &amp; Communities</strong></em> was written by Benjamin Stokes, published by The MIT Press, April 7, 2020."
+            },
+            {
+              "id": "a3208ffc-c370-4c24-a55f-de72c1330dfa",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e51a803f-a911-4638-ae37-3ed601ccb91d",
+              "type": "quote",
+              "html": "<em>In 2016, city officials were surprised when </em>Pokémon GO <em>brought millions of players out into the public space, blending digital participation with the physical. Yet for local control and empowerment, a new framework is needed to guide the power of mixed reality and pervasive play. In Locally Played, Benjamin Stokes describes the rise of games that can connect strangers across zip codes, support the &quot;buy local&quot; economy, and build cohesion in the fight for equity. With a mix of high- and low-tech games, Stokes shows, cities can tap into the power of play for the good of the group, including healthier neighborhoods and stronger communities.<br><br>Stokes shows how impact is greatest when games &quot;fit&quot; to the local community―not just in terms of culture, but at the level of group identity and network structure. By pairing design principles with a range of empirical methods, Stokes investigates the impact of several games, including </em>Macon Money<em>, where an alternative currency encouraged people to cross lines of socioeconomic segregation in Macon, Georgia; </em>Reality Ends Here<em>, where teams in Los Angeles competed to tell multimedia stories around local mythology; and </em>Pokémon GO<em>, appropriated by several cities to serve local needs through local libraries and open street festivals. <br><br></em>Locally Played <em>provides game designers with a model to strengthen existing networks tied to place and gives city leaders tools to look past technology trends in order to make a difference in the real world.</em>"
+            },
+            {
+              "id": "2b787abe-1f01-4940-b496-7d15d4abccb3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "1e1c5403-4894-479f-ad17-82217aafef30",
+          "type": "column",
+          "children": [
+            {
+              "id": "695f3ae9-3c5b-4d8a-a292-2c0fc1593385",
+              "type": "image",
+              "src": "./assets/images/untitled-6bd250feef90.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "069393ff-d9b8-4156-8530-649612feccd4",
+      "type": "divider"
+    },
+    {
+      "id": "67df8da6-7150-4c38-8cc3-1cccb1b59772",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a0d146bd-46bb-4a92-ac5a-29039d971c38",
+          "type": "column",
+          "children": [
+            {
+              "id": "e851d3cd-068a-43c4-b3f2-560f2db6c0ea",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "df6632d8-1a85-4098-a641-23a2e54fb5e6",
+          "type": "column",
+          "children": [
+            {
+              "id": "923e2ebf-02d1-4176-ba3b-e340f0108fe2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/37Fd0bl\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83e89d3e-6e41-46b9-acd8-466a1b1d6fef",
+      "type": "divider"
+    },
+    {
+      "id": "1f87f06f-1f00-4e6f-a1e9-4801b71a7ec1",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

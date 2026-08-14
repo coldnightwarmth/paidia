@@ -1,0 +1,131 @@
+{
+  "id": "2c3bdc45-559c-4979-a643-96150872b984",
+  "slug": "history-of-digital-games",
+  "title": "History of Digital Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/History-of-Digital-Games-2c3bdc45559c4979a64396150872b984?pvs=21",
+  "createdTime": 1657240198852,
+  "lastEditedTime": 1681313537902,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "History of Digital Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81alxjph9pl-3f58a780d830.webp",
+  "blocks": [
+    {
+      "id": "b0a4d27e-d0d6-4cc6-b227-4ceb5f1e46d7",
+      "type": "divider"
+    },
+    {
+      "id": "afeb07b7-5372-44af-b26a-c99a6a10e1eb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "791c6779-ef3d-4607-860f-ba2adc9337fd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b1ef3896-e011-4e62-92e5-6bafd2c539d2",
+          "type": "column",
+          "children": [
+            {
+              "id": "5dd61622-974b-424a-8414-1b2f3347c624",
+              "type": "paragraph",
+              "html": "<em><strong>History of Digital Games: Developments in Art, Design &amp; Interaction</strong></em> was written by Andrew Williams, published by Routledge, March 20, 2017."
+            },
+            {
+              "id": "6420fa54-9f52-48da-b8e1-39901317ebaf",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4fb61341-666d-4f4f-a6eb-b2ad3fa7fd56",
+              "type": "quote",
+              "html": "<em>The growth of videogame design programs in higher education and explosion of amateur game development has created a need for a deeper understanding of game history that addresses not only &quot;when,&quot; but &quot;how&quot; and &quot;why.&quot; Andrew Williams takes the first step in creating a comprehensive survey on the history of digital games as commercial products and artistic forms in a textbook appropriate for university instruction. </em>History of Digital Games <em>adopts a unique approach and scope that traces the interrelated concepts of game design, art and design of input devices from the beginnings of coin-operated amusement in the late 1800s to the independent games of unconventional creators in the present. Rooted in the concept of videogames as designed objects, Williams investigates the sources that inspired specific game developers as well as establishing the historical, cultural, economic and technological contexts that helped shape larger design trends.</em>"
+            },
+            {
+              "id": "3d4e7422-73f8-4408-bb6c-3b86475f76cc",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b7aef5de-18cc-4f2e-9dfb-62c34f008e46",
+          "type": "column",
+          "children": [
+            {
+              "id": "df7b06e5-14a9-4702-b076-a9ee1da9a0f2",
+              "type": "image",
+              "src": "./assets/images/81alxjph9pl-3f58a780d830.webp",
+              "caption": "",
+              "alt": "81ALXJPh9PL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "199d7b8b-224b-4a00-9ab8-9d44c140b332",
+      "type": "divider"
+    },
+    {
+      "id": "5af909b1-68bd-4c35-9284-f066ba70347d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ffeff48f-cc47-4185-9fd9-5e0129c0bb9c",
+          "type": "column",
+          "children": [
+            {
+              "id": "05657f2f-2ad3-4bd7-8b55-6d3c41f9ea19",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3f81a247-74b4-4e68-93dd-422c0aa79baf",
+          "type": "column",
+          "children": [
+            {
+              "id": "75aa222d-8e39-44dc-93d5-f0d083314e62",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3uxkipC\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "017bed0e-31ac-4d30-8f7b-880a521e8721",
+      "type": "divider"
+    }
+  ]
+}

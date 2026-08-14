@@ -1,0 +1,184 @@
+{
+  "id": "5f8f81af-1b26-46a2-b328-d674bbff0edc",
+  "name": "Companies",
+  "schema": {
+    "DbFu": {
+      "id": "DbFu",
+      "name": "Careers Page",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "KOcs": {
+      "id": "KOcs",
+      "name": "Contacts",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "\\r`T": {
+      "id": "\\r`T",
+      "name": "LinkedIn",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "`QcE": {
+      "id": "`QcE",
+      "name": "Website",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "d:>w": {
+      "id": "d:>w",
+      "name": "Twitter",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "jIva": {
+      "id": "jIva",
+      "name": "Related Jobs",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "yeIr": {
+      "id": "yeIr",
+      "name": "Priority",
+      "type": "select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "afd2c7c1-9bc6-4faf-98e5-417562e108d0",
+          "value": "P1",
+          "color": "red"
+        },
+        {
+          "id": "3280ed1f-1191-4d83-90e6-8bd00fe1b057",
+          "value": "P2",
+          "color": "gray"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Company Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "61362e78-d212-47b0-ab1f-2fa845899549",
+      "collectionId": "5f8f81af-1b26-46a2-b328-d674bbff0edc",
+      "type": "table",
+      "name": "Companies",
+      "pagePointerId": null,
+      "pageSort": [
+        "f71fdddf-e568-411e-8826-b3c3952f1558",
+        "265753e5-af2e-44e4-b713-3299a1b942f9",
+        "fdded4e5-e857-4aa4-bf8d-9a3c54e14053",
+        "4e829374-9629-4d02-86bf-ce8d08444481",
+        "d8c47b84-855d-4991-9f43-14a3125f5800",
+        "1a962d81-06b2-4ee4-895a-b8746643d465",
+        "fc895285-d32f-46fa-b42f-55d743d76099",
+        "c7394cf6-5921-47af-9a27-438bc3b17aa1",
+        "3ca67888-6ebe-495f-a4a7-3059db5a7466",
+        "5dec7a8d-4104-4182-bf77-382d22a2bb00",
+        "b65dea5b-8ff4-4a70-bc3a-40f9ee8fcecb",
+        "0770af17-7ff0-4d15-9283-a1d6063a2f35",
+        "cd022f26-cc27-49ab-beeb-fa869ff3e2da",
+        "82f3dd30-5d42-4ee4-a3d2-fbbfeb425aca",
+        "3588dd8e-bcba-4167-9508-2c292d000d59",
+        "2f074bf3-c9bb-4faa-955e-09f690eff7e7",
+        "847de53a-0a43-4464-b655-5341cbe3c363"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 147
+        },
+        {
+          "property": "DbFu",
+          "visible": true,
+          "width": 151
+        },
+        {
+          "property": "`QcE",
+          "visible": true,
+          "width": 125
+        },
+        {
+          "property": "d:>w",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "\\r`T",
+          "visible": true,
+          "width": 101
+        },
+        {
+          "property": "KOcs",
+          "visible": true,
+          "width": 104
+        },
+        {
+          "property": "jIva",
+          "visible": true,
+          "width": 136
+        },
+        {
+          "property": "yeIr",
+          "visible": true,
+          "width": 100
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

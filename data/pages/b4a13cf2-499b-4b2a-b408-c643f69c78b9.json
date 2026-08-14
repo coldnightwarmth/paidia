@@ -1,0 +1,131 @@
+{
+  "id": "b4a13cf2-499b-4b2a-b408-c643f69c78b9",
+  "slug": "japanese-sports",
+  "title": "Japanese Sports",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/b4a13cf2499b4b2ab408c643f69c78b9",
+  "createdTime": 1657229049981,
+  "lastEditedTime": 1681313986967,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Japanese Sports",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2e229cf5d61d.webp",
+  "blocks": [
+    {
+      "id": "22be54c1-1b76-4e5c-8c83-a3b31d077c53",
+      "type": "divider"
+    },
+    {
+      "id": "a592c530-67b1-4de2-b879-e01521d88026",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "dea3ebf9-acfa-4f48-aa95-ba23a80b9040",
+      "type": "columns",
+      "children": [
+        {
+          "id": "45f8ba03-141c-45fa-9dcc-b637219569fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "549bdeb7-4f6b-47bc-9bb1-0aaf16bf4cf2",
+              "type": "paragraph",
+              "html": "<em><strong>Japanese Sports: A History</strong></em> was written by Allen Guttmann &amp; Lee Thompson, published by University of Hawaii Press, June 1, 2001."
+            },
+            {
+              "id": "2bd37645-3f85-4b8a-949a-df614a3a6b18",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "93fcd710-beab-4c13-82c7-da21a211a9e0",
+              "type": "quote",
+              "html": "<em>In this first synthetic, comprehensive survey of Japanese sports in English, the authors are attentive to the complex and fascinating interaction of traditional and modern elements. In the course of tracing the emergence and development of sumo, the martial arts, and other traditional sports from their origins to the present, they demonstrate that some cherished &quot;ancient&quot; traditions were, in fact, invented less than a century ago. They also register their skepticism about the use of the samurai tradition to explain Japan's success in sports. Special attention is given to Meiji-era Japan's frequently ambivalent adoption and adaptation of European and American sports--a particularly telling example of Japan's love-hate relationship with the West. The book goes on the describe the history of physical education in the school system, the emergence of amateur and professional leagues, the involvement of business and the media in sports promotion, and Japan's participation in the Olympics.</em>"
+            },
+            {
+              "id": "fe117b57-6ef1-4c82-ba92-cb3c29e3962d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5b44eace-6d2f-49bb-bca1-4cab2e281006",
+          "type": "column",
+          "children": [
+            {
+              "id": "53414361-4d1a-48a2-a8bc-b7fbdcfe4bb8",
+              "type": "image",
+              "src": "./assets/images/untitled-2e229cf5d61d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e3408e0-f349-4fc5-a1cc-5398b8e8528d",
+      "type": "divider"
+    },
+    {
+      "id": "e9e21cc8-b9e7-4cec-a69a-9b2eef37a288",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e57672cb-9af9-4193-be4a-d3a270999e5e",
+          "type": "column",
+          "children": [
+            {
+              "id": "b0b8f3eb-aa9f-4ef3-afab-83a5e01f3f7c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f4265672-7ace-4720-9b85-4c6c037b3bc5",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf7e8a9d-9e07-46b7-848b-f92199e6dd05",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3AyNxMA\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5598de3-f5e6-45ea-bb66-30c5a263d242",
+      "type": "divider"
+    }
+  ]
+}

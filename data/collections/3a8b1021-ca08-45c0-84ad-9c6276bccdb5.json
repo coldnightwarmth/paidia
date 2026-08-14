@@ -1,0 +1,96 @@
+{
+  "id": "3a8b1021-ca08-45c0-84ad-9c6276bccdb5",
+  "name": "Testing plan",
+  "schema": {
+    ">{Hk": {
+      "id": ">{Hk",
+      "name": "Type of testing",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "540cfc5a-f6e2-47bb-8839-b55a656378c8",
+          "value": "User interviews",
+          "color": "pink"
+        },
+        {
+          "id": "cd276eff-61dd-4cb1-a622-d82e44676b62",
+          "value": "Internal playtesting",
+          "color": "yellow"
+        },
+        {
+          "id": "74e7e343-6a83-406e-b1a9-dd4038462291",
+          "value": "External playtesting",
+          "color": "green"
+        }
+      ]
+    },
+    "RS>k": {
+      "id": "RS>k",
+      "name": "Comments",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Stage of development",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "8e86ab5d-43b8-44f6-ba02-26cd5c737c2c",
+      "collectionId": "3a8b1021-ca08-45c0-84ad-9c6276bccdb5",
+      "type": "table",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "9f342b6d-21b1-4e0c-8152-303ebe27baea",
+        "a4220e2a-3f0b-419b-9aff-1d193d7a1600",
+        "91b48c3a-a90d-4d85-9d01-1f3876e5cfd3",
+        "63c50982-30a2-4c5d-92e1-57977c842b32"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 230
+        },
+        {
+          "property": ">{Hk",
+          "visible": true,
+          "width": 200
+        },
+        {
+          "property": "RS>k",
+          "visible": true,
+          "width": 200
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

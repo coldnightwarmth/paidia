@@ -1,0 +1,314 @@
+{
+  "id": "256bd3bc-0374-4378-8e4d-40d1675709ee",
+  "slug": "lists-256bd3bc",
+  "title": "Lists",
+  "icon": "📃",
+  "cover": "./assets/images/buddhist-printing-room-a7fc0af23cbf.webp",
+  "type": "page",
+  "parentId": "9510bf90-3ac9-4424-974b-7424f3b33683",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/256bd3bc037443788e4d40d1675709ee",
+  "createdTime": 1652037660000,
+  "lastEditedTime": 1681313239241,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Lists"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "5f5e37ff-96ce-4d52-9cbf-c365962ebb11",
+      "type": "paragraph",
+      "html": "<em>master list of non-category lists::</em>"
+    },
+    {
+      "id": "ff3ccbd3-bbf1-413b-817b-3645559eae8c",
+      "type": "divider"
+    },
+    {
+      "id": "26397685-902f-4780-868a-99221ac07d38",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "884ec047-ce21-45b0-870e-88d0f962ae18",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d08eb6bc-5187-41bd-aa89-9594fd75f1e2",
+          "type": "column",
+          "children": [
+            {
+              "id": "301ffb6b-6967-4523-8792-89862218bd35",
+              "type": "paragraph",
+              "html": "<strong>General</strong>"
+            },
+            {
+              "id": "7225a694-ecd5-44aa-a3e6-b5c92d3db3f2",
+              "type": "page_link",
+              "targetId": "7225a694-ecd5-44aa-a3e6-b5c92d3db3f2",
+              "title": "Definitions",
+              "notionType": "page"
+            },
+            {
+              "id": "1110260b-cad8-4cb7-9ac4-aa293aa15d62",
+              "type": "page_link",
+              "targetId": "1110260b-cad8-4cb7-9ac4-aa293aa15d62",
+              "title": "Museums of Play & Games",
+              "notionType": "page"
+            },
+            {
+              "id": "cb2df70c-8557-41bf-97d8-edf6de92a44d",
+              "type": "page_link",
+              "targetId": "cb2df70c-8557-41bf-97d8-edf6de92a44d",
+              "title": "World Myths Featuring Games",
+              "notionType": "page"
+            },
+            {
+              "id": "7328c69c-1c1c-4ea2-9f12-62a966d9612a",
+              "type": "page_link",
+              "targetId": "7328c69c-1c1c-4ea2-9f12-62a966d9612a",
+              "title": "Play & Games in the Bible",
+              "notionType": "page"
+            },
+            {
+              "id": "0bb085c3-2fe1-4383-b9ae-77be09ed015e",
+              "type": "page_link",
+              "targetId": "0bb085c3-2fe1-4383-b9ae-77be09ed015e",
+              "title": "Art & Music in the Bible",
+              "notionType": "page"
+            },
+            {
+              "id": "4859bc89-46e3-4b34-ba95-02a0330bc702",
+              "type": "page_link",
+              "targetId": "4859bc89-46e3-4b34-ba95-02a0330bc702",
+              "title": "Other Books Lists",
+              "notionType": "page"
+            },
+            {
+              "id": "2e4f2549-0d79-41c6-a8b1-053a91d622e5",
+              "type": "page_link",
+              "targetId": "2e4f2549-0d79-41c6-a8b1-053a91d622e5",
+              "title": "Games Journalism Sites",
+              "notionType": "page"
+            },
+            {
+              "id": "4a66a38c-7389-41a3-a0f9-51e30089d594",
+              "type": "page_link",
+              "targetId": "4a66a38c-7389-41a3-a0f9-51e30089d594",
+              "title": "Other Sites",
+              "notionType": "page"
+            },
+            {
+              "id": "4f3af3c7-c2d9-4f75-a366-650eb85f55c8",
+              "type": "paragraph",
+              "html": "~"
+            },
+            {
+              "id": "6369bcdb-6024-4413-9678-0b206c8ab474",
+              "type": "paragraph",
+              "html": "<strong>Themed Content Lists</strong>"
+            },
+            {
+              "id": "e2fee5a2-a6f6-4145-8670-a37d587d577d",
+              "type": "toggle",
+              "html": "<strong>Books</strong>",
+              "children": []
+            },
+            {
+              "id": "f3408f93-d5a6-4181-895f-3694c0c19f1e",
+              "type": "toggle",
+              "html": "<strong>Videogames</strong><strong><a href=\"#/themed-videogames-lists\">*</a></strong>",
+              "children": [
+                {
+                  "id": "8973fa8b-922d-4a36-9fca-99b8a9c546fe",
+                  "type": "page_link",
+                  "targetId": "8973fa8b-922d-4a36-9fca-99b8a9c546fe",
+                  "title": "AA Videogames",
+                  "notionType": "page"
+                },
+                {
+                  "id": "0454e33e-6fb5-4883-95bd-163818fd9367",
+                  "type": "page_link",
+                  "targetId": "0454e33e-6fb5-4883-95bd-163818fd9367",
+                  "title": "AAA Videogames",
+                  "notionType": "page"
+                },
+                {
+                  "id": "51593f10-7350-49a0-9ee9-c5833629589b",
+                  "type": "page_link",
+                  "targetId": "51593f10-7350-49a0-9ee9-c5833629589b",
+                  "title": "Indie Videogames",
+                  "notionType": "page"
+                },
+                {
+                  "id": "2d8954a1-be23-4d4c-9595-2a70b656087e",
+                  "type": "page_link",
+                  "targetId": "2d8954a1-be23-4d4c-9595-2a70b656087e",
+                  "title": "Mobile Videogames",
+                  "notionType": "page"
+                },
+                {
+                  "id": "e9042142-8c1d-4371-8426-fa338575d114",
+                  "type": "page_link",
+                  "targetId": "e9042142-8c1d-4371-8426-fa338575d114",
+                  "title": "Retro Videogames",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "b76f1091-51ee-4f22-89e6-b84641db764c",
+              "type": "paragraph",
+              "html": "~"
+            }
+          ]
+        },
+        {
+          "id": "0405bd6e-931c-4875-a3a4-6dc9de1d5eb2",
+          "type": "column",
+          "children": [
+            {
+              "id": "90048181-ac2c-4cee-a294-75a67361ed77",
+              "type": "paragraph",
+              "html": "<strong>Wordlists</strong>"
+            },
+            {
+              "id": "d871afdc-38b7-4c50-bd79-5d0cde8a9c0c",
+              "type": "page_link",
+              "targetId": "d871afdc-38b7-4c50-bd79-5d0cde8a9c0c",
+              "title": "Gamespaces & Playfields",
+              "notionType": "page"
+            },
+            {
+              "id": "fa28c615-8b39-4a91-8ae4-ff04c1131d57",
+              "type": "page_link",
+              "targetId": "fa28c615-8b39-4a91-8ae4-ff04c1131d57",
+              "title": "“Games” People Say",
+              "notionType": "page"
+            },
+            {
+              "id": "f9108ab2-1abd-4269-8875-ae200bff1d66",
+              "type": "page_link",
+              "targetId": "f9108ab2-1abd-4269-8875-ae200bff1d66",
+              "title": "Non-English Words for Play",
+              "notionType": "page"
+            },
+            {
+              "id": "11b95838-1f8b-41b9-9dee-4339dbda367f",
+              "type": "page_link",
+              "targetId": "11b95838-1f8b-41b9-9dee-4339dbda367f",
+              "title": "Related Words to Play",
+              "notionType": "page"
+            },
+            {
+              "id": "ba366ef7-9ae6-4622-a37e-eee0b0ca9641",
+              "type": "page_link",
+              "targetId": "ba366ef7-9ae6-4622-a37e-eee0b0ca9641",
+              "title": "Types of Gamer",
+              "notionType": "page"
+            },
+            {
+              "id": "e8d36bca-cb23-4fce-b3f0-e1b91e85f2ea",
+              "type": "page_link",
+              "targetId": "e8d36bca-cb23-4fce-b3f0-e1b91e85f2ea",
+              "title": "Unique Words in Sports",
+              "notionType": "page"
+            },
+            {
+              "id": "f2d2b03b-4906-4182-8541-f562a4e37b9e",
+              "type": "paragraph",
+              "html": "~"
+            },
+            {
+              "id": "7e3dac78-b00e-481b-9630-2054bf920657",
+              "type": "paragraph",
+              "html": "<strong>External</strong>"
+            },
+            {
+              "id": "438c03af-b2fc-4181-a195-ea2a86dd2365",
+              "type": "paragraph",
+              "html": "<a href=\"https://www.rkowert.com/resources/games-research-journals\" target=\"_blank\" rel=\"noreferrer\">🏫</a><strong><a href=\"https://www.rkowert.com/resources/games-research-journals\" target=\"_blank\" rel=\"noreferrer\"> (Mostly) Comprehensive List of Game Research Journals</a></strong>"
+            },
+            {
+              "id": "1296e021-f73b-4213-ad79-a8487f272aca",
+              "type": "paragraph",
+              "html": "<a href=\"https://en.wikipedia.org/wiki/Outline_of_games\" target=\"_blank\" rel=\"noreferrer\">🌐 </a><a href=\"https://en.wikipedia.org/wiki/Outline_of_games\" target=\"_blank\" rel=\"noreferrer\"><strong>Wikipedia Outline of All Gaming Topics</strong></a>"
+            },
+            {
+              "id": "5267eb0e-036b-4b25-a44a-224543fda66e",
+              "type": "paragraph",
+              "html": "<a href=\"https://en.wikipedia.org/wiki/Outline_of_video_games\" target=\"_blank\" rel=\"noreferrer\">🌐 </a><a href=\"https://en.wikipedia.org/wiki/Outline_of_video_games\" target=\"_blank\" rel=\"noreferrer\"><strong>Wikipedia Outline of All Video Games Topics</strong></a>"
+            },
+            {
+              "id": "58a16ec0-714e-499a-98bc-edb3ee4f90fc",
+              "type": "paragraph",
+              "html": "<a href=\"https://en.wikipedia.org/wiki/Outline_of_video_games\" target=\"_blank\" rel=\"noreferrer\">🌐 </a><a href=\"https://en.wikipedia.org/wiki/Outline_of_video_games\" target=\"_blank\" rel=\"noreferrer\"><strong>Wikipedia List of Christian Video Games</strong></a>"
+            },
+            {
+              "id": "b94317b1-75af-488a-abc2-7060a01b5789",
+              "type": "paragraph",
+              "html": "~"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad6164af-fe45-48c2-8e5c-baf6076dae4c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ef58bb30-d665-4fa3-ad10-09ad57e9da08",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1e9e4788-2ecc-4e1d-be56-90ec2f0200fe",
+      "type": "divider"
+    },
+    {
+      "id": "abd552ec-5a00-4518-9b39-e4a00460c005",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "fd35da85-7a73-4dc4-98f6-dabc831b5297",
+      "type": "paragraph",
+      "html": "‣ "
+    },
+    {
+      "id": "e899b643-1475-4bd4-9a0b-b5000b53bc00",
+      "type": "paragraph",
+      "html": "‣ "
+    },
+    {
+      "id": "ad31d633-8fde-432b-81ec-a2745ccffab2",
+      "type": "paragraph",
+      "html": "‣ "
+    },
+    {
+      "id": "257e9c47-62ca-4b54-aae3-bc48d5d95bec",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0451df22-7b55-40b1-8d9b-b0ba7beba7a2",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

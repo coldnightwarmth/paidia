@@ -1,0 +1,131 @@
+{
+  "id": "d868987e-c936-41b0-8026-369b3e567de7",
+  "slug": "transmedial-worlds-in-everyday-life",
+  "title": "Transmedial Worlds in Everyday Life",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Transmedial-Worlds-in-Everyday-Life-d868987ec93641b08026369b3e567de7?pvs=21",
+  "createdTime": 1651974387036,
+  "lastEditedTime": 1681314202570,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Transmedial Worlds in Everyday Life",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b13a09492e39.webp",
+  "blocks": [
+    {
+      "id": "60f804bd-f4a3-4232-8678-016c11d27b63",
+      "type": "divider"
+    },
+    {
+      "id": "3671b776-822c-47a9-9357-4652877ee480",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3eba87ef-8159-4fa9-9041-27b7972663a9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6ddbe2b5-37b3-4c69-80ed-8615db45fe89",
+          "type": "column",
+          "children": [
+            {
+              "id": "df697e7a-da5f-4fa3-b7f0-a7d6cc3ca97b",
+              "type": "paragraph",
+              "html": "<em><strong>Transmedial Worlds in Everyday Life: Networked Reception, Social Media, &amp; Fictional Worlds</strong></em> was written by Susana Tosca &amp; Lisbeth Klastrup, published by Routledge, September 30, 2019."
+            },
+            {
+              "id": "fa56138b-4783-45f6-addd-5c379c939d6b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9290a23f-89a8-44b9-aa14-684ef32a6644",
+              "type": "quote",
+              "html": "<em>In this pioneering new book, authors Klastrup and Tosca explore the many ways that transmedial worlds are present in people’s everyday life, proposing a new theory of (trans)media use for the digital age.<br><br>People are not only reading, watching and playing in fictional worlds like never before, but also using them to reflect about their lives through Facebook, Twitter, Youtube and other channels, commenting on their marriages or their life at the office, analyzing current news, or reminiscing on the role these worlds played in their childhood. The book’s unique methodological approach combines an aesthetic and literary perspective that looks closely at the different fictional universes, with an empirical user perspective that builds upon 15 years of sustained work on transmediality. The result is a theory that covers both the personal, experiential dimension of fictional worlds and the social dimension of sharing with each other.<br><br>A fascinating and contemporary examination of media worlds and their communities, this book offers students and scholars of fandom, media, cultural and reception studies a new theoretical and methodological framework, through which to understand the phenomenon of transmedial worlds, and people's engagement with them.</em>"
+            },
+            {
+              "id": "cad4770c-4639-4a8a-852a-433630b72496",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fa5be454-2443-4a9f-a3ef-b6916a47451a",
+          "type": "column",
+          "children": [
+            {
+              "id": "18323791-e53c-4dae-9f0e-c21e786bea00",
+              "type": "image",
+              "src": "./assets/images/untitled-b13a09492e39.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d1467ab9-6516-4c43-b28b-aa802067c910",
+      "type": "divider"
+    },
+    {
+      "id": "8bfd4119-69fd-4960-97cc-3c642edea9e9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2c9bd25a-823b-4e5d-9e70-3c00c944c2e2",
+          "type": "column",
+          "children": [
+            {
+              "id": "3a504019-9ff0-4585-ac48-8cc679b53bc7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2e2d81c8-15ac-464c-8e71-eec88fd41ca5",
+          "type": "column",
+          "children": [
+            {
+              "id": "e8be2a77-b079-4689-be5d-fa8e74e1446b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OlsBgl\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b72f0893-e123-4bba-a8d7-7fd15bfb198d",
+      "type": "divider"
+    }
+  ]
+}

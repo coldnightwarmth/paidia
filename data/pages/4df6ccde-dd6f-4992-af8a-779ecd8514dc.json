@@ -1,0 +1,126 @@
+{
+  "id": "4df6ccde-dd6f-4992-af8a-779ecd8514dc",
+  "slug": "final-fantasy-and-philosophy",
+  "title": "Final Fantasy & Philosophy",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Final-Fantasy-Philosophy-4df6ccdedd6f4992af8a779ecd8514dc?pvs=21",
+  "createdTime": 1657299045934,
+  "lastEditedTime": 1681313961303,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Final Fantasy & Philosophy",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c590f52c079f.webp",
+  "blocks": [
+    {
+      "id": "c79a57d8-2617-4a09-a5d6-567a9fad0c01",
+      "type": "divider"
+    },
+    {
+      "id": "e3b445c1-a1ed-49ca-a630-71748d9ad25f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "38962334-86f6-4ee3-9949-3a3e69b0ee29",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fbb34c1a-4347-4dab-b6a6-88d3309e4884",
+          "type": "column",
+          "children": [
+            {
+              "id": "d1c4c754-cd91-4994-a8b9-b08fddb4d493",
+              "type": "paragraph",
+              "html": "<em><strong>Final Fantasy &amp; Philosophy: The Ultimate Walkthrough</strong></em> is a collection of essays edited by Jason P. Blahuta &amp; Michel S. Beaulieu, published by Wiley, October 12, 2009."
+            },
+            {
+              "id": "1392f741-7f74-496b-9fec-494c75c13e03",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ba94cf3b-ea35-4d3e-9347-c720649a6112",
+              "type": "quote",
+              "html": "<strong><em>An unauthorized look behind one of the greatest video game franchises of all time, </em></strong><strong>Final Fantasy</strong><strong><em>.</em></strong><em><br><br>The </em>Final Fantasy<em> universe is packed with compelling characters and incredible storylines. In this book, you'll take a fascinating look at the deeper issues that </em>Final Fantasy<em> forces players to think about while trying to battle their way to the next level, such as: Does Cloud really exist (or should we really care)? Is Kefka really insane? Are Moogles part of a socialist conspiracy? Does the end of the game justify the means?<br><br>As Mages, Moogles, fiends, and Kefka are mashed together with the likes of Machiavelli, Marx, Foucault, and Kafka, you'll delve into crucial topics such as madness, nihilism, environmental ethics, Shintoism, the purpose of life, and much more.</em>"
+            }
+          ]
+        },
+        {
+          "id": "71d9f47e-09ce-40aa-9573-fbfbd907c6ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "1147dd57-3d44-46d7-9c33-248995101faf",
+              "type": "image",
+              "src": "./assets/images/untitled-c590f52c079f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7845dc9a-f621-40cf-8115-905c40ab1e3b",
+      "type": "divider"
+    },
+    {
+      "id": "62db11e9-90da-4001-b31c-d31e05942437",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cc3a0ad5-bb73-42eb-9ea6-848c8f0ebee8",
+          "type": "column",
+          "children": [
+            {
+              "id": "46235e1b-e6d1-4cc3-8075-93777c411b27",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8bf2575a-e811-419a-b47b-aca3a6b08f15",
+          "type": "column",
+          "children": [
+            {
+              "id": "127cce79-c962-42c1-9e6a-ae7fbb921ba9",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3AvuvXA\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16770300-9cb5-4d80-9b79-fe666296d4bd",
+      "type": "divider"
+    }
+  ]
+}

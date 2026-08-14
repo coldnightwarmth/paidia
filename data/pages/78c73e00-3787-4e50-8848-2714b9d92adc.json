@@ -1,0 +1,131 @@
+{
+  "id": "78c73e00-3787-4e50-8848-2714b9d92adc",
+  "slug": "toward-a-ludic-architecture",
+  "title": "Toward a Ludic Architecture",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Toward-a-Ludic-Architecture-78c73e0037874e5088482714b9d92adc?pvs=21",
+  "createdTime": 1668450109437,
+  "lastEditedTime": 1681312532048,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Toward a Ludic Architecture"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5851c2c3c889.webp",
+  "blocks": [
+    {
+      "id": "40f1e186-a34d-40ac-9354-07328300e1a0",
+      "type": "divider"
+    },
+    {
+      "id": "0f965f55-d1d5-46e9-bf18-ae4ee8b7ff85",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "dc51666b-757f-4662-a9d5-e931c95c86ed",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f06b32f9-30d3-446b-9c58-041255fa9d7b",
+          "type": "column",
+          "children": [
+            {
+              "id": "f35d015f-188d-46bf-a808-dc8d92a26bf2",
+              "type": "paragraph",
+              "html": "<em><strong>Toward a Ludic Architecture: The Space of Play &amp; Games</strong></em> was written by Steffen P. Walz, self-published through Lulu.com, May 20, 2010."
+            },
+            {
+              "id": "715ae745-1e45-4443-9b92-b6cf33be78ea",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "23d52a92-b2dc-4b88-957b-6e657b54c845",
+              "type": "quote",
+              "html": "Toward a Ludic Architecture <em>is a pioneering publication, architecturally framing play and games as human practices in and of space. Filling the gap in literature, Steffen P. Walz considers game design theory and practice alongside architectural theory and practice, asking: how are play and games architected? What kind of architecture do they produce and in what way does architecture program play and games? What kind of architecture could be produced by playing and gameplaying?</em>"
+            },
+            {
+              "id": "fff3ab47-c762-4ecd-bd86-5ef354b25418",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b37bcd75-7b6c-401c-8f3f-d292944493ca",
+          "type": "column",
+          "children": [
+            {
+              "id": "0ef5edad-bf9d-4fc9-a786-577f8d2fb8bf",
+              "type": "image",
+              "src": "./assets/images/untitled-5851c2c3c889.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97ff66bd-ba56-4ce5-b4d5-b34405db8eb4",
+      "type": "divider"
+    },
+    {
+      "id": "edf20c68-0b20-45f2-90ed-5c38711d43eb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6c562fd1-c5f8-4e12-ab58-a7ce0b8dbbf4",
+          "type": "column",
+          "children": [
+            {
+              "id": "2fefcb5f-f898-46ff-91d0-c58370d725cc",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "805b7e56-d2d9-49f6-8d97-21a96cad9b68",
+          "type": "column",
+          "children": [
+            {
+              "id": "dc6fdecd-0474-4810-9842-d9e3bf4ffd0f",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Toward-Ludic-Architecture-Space-Games/dp/0557285631/ref=sr_1_3?crid=1XJEWXO1M0ZRQ&amp;keywords=Ludics&amp;qid=1667234891&amp;qu=eyJxc2MiOiIzLjAyIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=ludics%2Cstripbooks%2C93&amp;sr=1-3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "66d82d93-061d-4203-b2d5-a07b99808e50",
+      "type": "divider"
+    },
+    {
+      "id": "35fadbce-34f7-45be-a524-82c5e59bde29",
+      "type": "paragraph",
+      "html": "see also:<br><a href=\"#/interactive-architecture\">Interactive Architecture</a> (<em><em><em><em>book</em></em></em></em>)"
+    }
+  ]
+}

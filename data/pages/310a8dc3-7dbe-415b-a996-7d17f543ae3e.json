@@ -1,0 +1,90 @@
+{
+  "id": "310a8dc3-7dbe-415b-a996-7d17f543ae3e",
+  "slug": "hugo-rahner",
+  "title": "Hugo Rahner",
+  "icon": "./assets/images/user-circle-filled-gray-e6d9ecea2c26.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "350879b3-a25b-4db5-8dae-34d54f50d8e6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/310a8dc37dbe415ba9967d17f543ae3e",
+  "createdTime": 1651682376548,
+  "lastEditedTime": 1681313810668,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Hugo Rahner"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d53fafeb3f92.webp",
+  "blocks": [
+    {
+      "id": "cf42f8be-5f8b-4a47-aeb5-b0eeaf0d1f45",
+      "type": "divider"
+    },
+    {
+      "id": "80c1b38c-e0c7-4c97-a9be-aca35f67abb1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c79bfdb2-e468-4b7e-9ead-45f846efe797",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3f9198b5-c20e-4d67-92bf-3411e01c4d82",
+          "type": "column",
+          "children": [
+            {
+              "id": "9ec96e11-2868-495e-8452-90d58058e21b",
+              "type": "paragraph",
+              "html": "<strong>Hugo Karl Erich Rahner</strong> SJ (3 May 1900 in Pfullendorf – 21 December 1968 in Munich) was a German Jesuit theologian and ecclesiastical historian. He was Dean and president of the University of Innsbruck and the elder brother of the famous theologian Karl Rahner.<br><br>His work focused on the relation between Church and State in the early years of Christianity. Armed with extensive documentation, Rahner tried to revive the early Christian enthusiasm for the Church. He mentions Tertullian: &quot;GREAT is the emperor, because he is smaller than the heavens,“ and Ambrose of Milan, &quot;It is not imperial to deny freedom of speech, it is not priestly to withhold one's opinion.&quot; All are called into the Church. The Church is called Kyriake, which means &quot;of the Lord,&quot; because Christ the Lord is ruler. She has to teach in all centuries to all states, what Christ the Lord and ruler has wonderfully decreed to the people."
+            },
+            {
+              "id": "d2bc1b22-066d-4ac1-a8e1-ddbb0125e055",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "15d44e87-e12b-466c-98fa-38e6f36f6ffd",
+          "type": "column",
+          "children": [
+            {
+              "id": "fe0dd58e-02ce-4169-b8dc-e61c66d6d91e",
+              "type": "image",
+              "src": "./assets/images/untitled-d53fafeb3f92.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "023c8c40-e9bd-4ccb-ad5c-023fde822ba4",
+      "type": "divider"
+    },
+    {
+      "id": "8a53dc1e-397a-4fe4-9dec-a112c0127b42",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "1d62ebe0-57fb-4324-9cb9-d610109bdf4e",
+      "type": "paragraph",
+      "html": "<a href=\"#/man-at-play\">Man at Play</a> (<em>book</em>)"
+    }
+  ]
+}

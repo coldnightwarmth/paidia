@@ -1,0 +1,346 @@
+{
+  "id": "b2a261d8-d596-43f9-9e5f-0beb4d6631ad",
+  "name": "Conference Presentations",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "ed10dc56-e2a0-4c28-98cd-820548ecf4f9",
+          "value": "Game UX Summit",
+          "color": "blue"
+        },
+        {
+          "id": "a17f811e-34c4-4bf3-9c98-5169e82f5567",
+          "value": "GAconf",
+          "color": "green"
+        },
+        {
+          "id": "c8bdbf91-ebf6-4cb3-a508-53785d44aeff",
+          "value": "GDC",
+          "color": "red"
+        },
+        {
+          "id": "f82c79b9-95c6-4ddc-a2f7-fdc16ee16d5d",
+          "value": "WWDC",
+          "color": "orange"
+        },
+        {
+          "id": "0500b62e-cd91-46ca-ae3c-92f940026dde",
+          "value": "GamesIndustry.biz",
+          "color": "purple"
+        },
+        {
+          "id": "35112b22-c85c-4aec-8c61-eb2fbc7a8946",
+          "value": "Devcom",
+          "color": "yellow"
+        },
+        {
+          "id": "783631bf-54c9-4cfd-95c9-703945bf121a",
+          "value": "4C Conference",
+          "color": "brown"
+        },
+        {
+          "id": "3a985786-dd4f-44d2-bf68-bdfac3451a93",
+          "value": "UnrealFest",
+          "color": "pink"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "1a772f70-3fbf-410e-a8f5-dcfa55e59c1f",
+      "collectionId": "b2a261d8-d596-43f9-9e5f-0beb4d6631ad",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "0d673e60-1c3d-42a2-b3e0-d3a919a34c07",
+        "66244e88-dcf5-4caf-9c8f-64a391358125",
+        "87d90570-4924-4d2a-b274-ed04bf9cecbb",
+        "0a5861d5-f19c-440e-8cfc-6cd63d0f3a0b",
+        "331066b3-afb2-4502-81ad-18d51acb3095",
+        "019898af-f898-4681-8847-b357426d5808",
+        "2f644305-5b1b-4629-8838-25494dffaaf5",
+        "75d78381-ac4c-43a3-82d7-c3805fac931d",
+        "679b07b5-2cec-4cc5-b14b-7bd25e1d3e73",
+        "0f685b0d-7b21-4ab5-afa4-1a73cbd4afc1",
+        "9901f0ea-0495-454e-b19b-ac82dca85af0",
+        "e4e7fb49-8024-4a30-b996-7e108b3b1258",
+        "b1daed49-5696-4395-9d7a-88baab980bde",
+        "c1b3b80f-93e3-4d94-a09d-7e42b116fcb2",
+        "6e81bfdf-e1d2-4c73-99f2-b4bf8ef0c722",
+        "72792f82-d89e-4f1e-9939-07a3a7602bf5",
+        "b6f246d1-eb82-4bdf-90f9-ac1d5e112a68",
+        "1e2057d2-7152-4518-bbe5-cc565bfc826b",
+        "8039db7d-e61b-4e29-ade2-34f097db50a8",
+        "60bebefd-e9fb-4e87-bc2f-703670063d32",
+        "f2a0b960-9a7c-47d9-a0c8-d13f292245e5",
+        "69393c4c-dac0-44c3-ac62-d66e7ee63abd",
+        "cddcb9a4-f006-4534-84f4-ac7e845fb6f0",
+        "3c7b122d-cd78-4d99-a4d7-73f729ce7e99",
+        "3e853712-f1f8-4577-bae0-cede4e8c527d",
+        "ae60fedc-4c7f-417f-93b1-bc03ebd17a8b",
+        "06691c94-3069-4f57-9d8d-10a28b4b6791",
+        "9bbd26f4-5f25-4b6a-aec1-b5c5929848ac",
+        "a109d532-9f48-44b1-8d32-768a845df52e",
+        "4b15f55a-44ae-47ab-ad0a-b15df9a20116",
+        "a658f7d1-24ae-49fe-b98b-cb5225903dee",
+        "c413f671-798d-400e-98a8-e763eb7efaa1",
+        "89370798-5b2a-46a0-8430-4f6c9412c852",
+        "96306310-d509-4b4b-9fc7-55d8cee3b199",
+        "9de61c5b-c823-4b15-9f9a-2d3fa64a1abd",
+        "84057aba-8ea0-4701-8817-dfa37a6b21da",
+        "4531851c-0858-45ed-a4c0-0c6eaf3c11fb",
+        "94e1ea14-593e-489a-ab8b-d8f8bbbbef92",
+        "1ef76954-6808-455f-bc03-3d653754b2ff",
+        "1bde47d6-7ec3-4e52-b47d-6966ad56888b",
+        "b481be03-2ea4-45d7-9891-0a96ade425b1",
+        "2368f3b2-82a0-4198-8ee4-5907c2bed29d",
+        "5a85f69d-0875-4822-a27c-8a271b967490",
+        "66ba7eee-777a-408d-ae12-6579fa46d49d",
+        "1a803000-7678-4324-9d21-173c8b16f9c0"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "011b138c-5bce-4049-94dd-0576f22a969a",
+      "collectionId": "b2a261d8-d596-43f9-9e5f-0beb4d6631ad",
+      "type": "gallery",
+      "name": "GAconf",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "d2778d5e-791d-4bd2-b918-7a608fa33c2d",
+      "collectionId": "b2a261d8-d596-43f9-9e5f-0beb4d6631ad",
+      "type": "gallery",
+      "name": "GamesIndustry.biz",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "contain"
+    },
+    {
+      "id": "dd9c50eb-b783-4668-b993-2fb235639535",
+      "collectionId": "b2a261d8-d596-43f9-9e5f-0beb4d6631ad",
+      "type": "gallery",
+      "name": "Game UX Summit",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "f450b1f0-9a93-4c72-b598-dd617d735a5e",
+      "collectionId": "b2a261d8-d596-43f9-9e5f-0beb4d6631ad",
+      "type": "gallery",
+      "name": "GDC",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "b53d616f-db4a-4be1-b7c8-c7b47599fe84",
+      "collectionId": "b2a261d8-d596-43f9-9e5f-0beb4d6631ad",
+      "type": "gallery",
+      "name": "WWDC",
+      "pagePointerId": null,
+      "pageSort": [
+        "94e1ea14-593e-489a-ab8b-d8f8bbbbef92",
+        "1ef76954-6808-455f-bc03-3d653754b2ff"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

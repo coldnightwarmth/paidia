@@ -1,0 +1,131 @@
+{
+  "id": "97bcb395-8c1c-40a1-a8b0-4a448a2924dd",
+  "slug": "the-community-and-the-algorithm",
+  "title": "The Community & the Algorithm",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Community-the-Algorithm-97bcb3958c1c40a1a8b04a448a2924dd?pvs=21",
+  "createdTime": 1653076912335,
+  "lastEditedTime": 1681314154084,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Community & the Algorithm",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fb2ac49e83f6.webp",
+  "blocks": [
+    {
+      "id": "f353a783-e313-4a45-97b8-6e23fc4fa04d",
+      "type": "divider"
+    },
+    {
+      "id": "4f338022-82e0-4c61-9816-00105ca1d167",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7ab63e3c-cd59-4bc6-8d4e-600dae54f50f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8d348042-9ee1-4b43-b5f0-5a15bcf190ee",
+          "type": "column",
+          "children": [
+            {
+              "id": "38f681fc-65a5-49ec-b5ad-32fdd9cdf413",
+              "type": "paragraph",
+              "html": "<em><strong>The Community &amp; the Algorithm: A Digital Interactive Poetics</strong></em> is a collection of essays edited Andrew Klobucar, published by Vernon Press, June 28, 2021."
+            },
+            {
+              "id": "c5d889f0-15f1-46e2-aef8-8d0f0a3691fc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "68b7cdec-99da-45aa-86dc-06f93a6aa9a3",
+              "type": "quote",
+              "html": "<em>Digital media presents an array of interesting challenges adapting new modes of collaborative, online communication to traditional writing and literary practices at the practical and theoretical levels. For centuries, popular concepts of the modern author, regardless of genre, have emphasized writing as a solo exercise in human communication, while the act of reading remains associated with solitude and individual privacy.</em>"
+            }
+          ]
+        },
+        {
+          "id": "15be8106-4226-4b1f-8e26-39614a7e7879",
+          "type": "column",
+          "children": [
+            {
+              "id": "1b54909e-ff43-4adc-8f06-62359aa469d1",
+              "type": "image",
+              "src": "./assets/images/untitled-fb2ac49e83f6.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1760b31-7d9b-425c-83b2-f050dc8e0073",
+      "type": "divider"
+    },
+    {
+      "id": "1e51ef22-0cd1-4013-8a77-77d528996e61",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8dd06899-cdac-405c-af23-0af312916cda",
+          "type": "column",
+          "children": [
+            {
+              "id": "d17c2dd5-12aa-481a-ba86-e8e5994ff981",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cc2eaa1b-a7a8-4485-8bf9-8ec0ea7514de",
+          "type": "column",
+          "children": [
+            {
+              "id": "06b42564-ea47-4658-af3d-aef60b7051c7",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3LssvkI\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e3a99d9-f538-4369-893e-e31be75d718c",
+      "type": "divider"
+    },
+    {
+      "id": "01de3e8e-427a-4f53-bd2a-ac2999b8e0d3",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

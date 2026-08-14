@@ -1,0 +1,131 @@
+{
+  "id": "f4f8a10a-2cba-4ae6-81e8-914d3cbc0920",
+  "slug": "virtual-art",
+  "title": "Virtual Art",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Virtual-Art-f4f8a10a2cba4ae681e8914d3cbc0920?pvs=21",
+  "createdTime": 1651958080450,
+  "lastEditedTime": 1681314234954,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Virtual Art",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/71xbmtxdqpl-99097cc45ed5.webp",
+  "blocks": [
+    {
+      "id": "b5209aa5-d142-43c8-900f-ec27b46a6b90",
+      "type": "divider"
+    },
+    {
+      "id": "7eab62d7-51b4-42c9-84bd-1b5967923bed",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6842dd8d-d101-4470-bbbe-b303e204b504",
+      "type": "columns",
+      "children": [
+        {
+          "id": "794e36a2-7c06-4f46-b9d7-a9f8050d5472",
+          "type": "column",
+          "children": [
+            {
+              "id": "3b213155-0b1d-4085-bfeb-05478ca29ed4",
+              "type": "paragraph",
+              "html": "<em><strong>Virtual Art: From Illusion to Immersion </strong></em>was written by Oliver Grau, published by The MIT Press, September 17, 2004."
+            },
+            {
+              "id": "1b93a09b-4fce-41d0-84bb-bafefe62f4d9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "09dd6cf1-7f38-4d86-9392-5be0b37b4672",
+              "type": "quote",
+              "html": "<em><strong>An overview of the art historical antecedents to virtual reality and the impact of virtual reality on contemporary conceptions of art.<br><br></strong></em><em>Although many people view virtual reality as a totally new phenomenon, it has its foundations in an unrecognized history of immersive images. Indeed, the search for illusionary visual space can be traced back to antiquity. In this book, Oliver Grau shows how virtual art fits into the art history of illusion and immersion. He describes the metamorphosis of the concepts of art and the image and relates those concepts to interactive art, interface design, agents, telepresence, and image evolution. Grau retells art history as media history, helping us to understand the phenomenon of virtual reality beyond the hype.<br><br>Grau shows how each epoch used the technical means available to produce maximum illusion. He discusses frescoes such as those in the Villa dei Misteri in Pompeii and the gardens of the Villa Livia near Primaporta, Renaissance and Baroque illusion spaces, and panoramas, which were the most developed form of illusion achieved through traditional methods of painting and the mass image medium before film. Through a detailed analysis of perhaps the most important German panorama, Anton von Werner's 1883 The Battle of Sedan, Grau shows how immersion produced emotional responses. He traces immersive cinema through Cinerama, Sensorama, Expanded Cinema, 3-D, Omnimax and IMAX, and the head mounted display with its military origins. He also examines those characteristics of virtual reality that distinguish it from earlier forms of illusionary art.</em>"
+            },
+            {
+              "id": "cdf920bb-49f0-4b40-873b-ed37f5bbc2a6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f60f54e2-2036-49c2-b887-cde01956e582",
+          "type": "column",
+          "children": [
+            {
+              "id": "4b380a6e-1c78-42b0-8169-edf2175693e1",
+              "type": "image",
+              "src": "./assets/images/71xbmtxdqpl-99097cc45ed5.webp",
+              "caption": "",
+              "alt": "71XbmTXDQPL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebcd5022-df39-43d4-875c-89c6abe38b81",
+      "type": "divider"
+    },
+    {
+      "id": "5448764e-2362-46f2-b61b-ad7d84b65942",
+      "type": "columns",
+      "children": [
+        {
+          "id": "165ca393-8a26-4dab-87b3-9e81b5c84774",
+          "type": "column",
+          "children": [
+            {
+              "id": "b20e2078-c618-4533-bec2-dcd679707fd8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1bea95cf-eeda-457c-9187-c6e625d283fe",
+          "type": "column",
+          "children": [
+            {
+              "id": "4710d18b-829d-4815-a8ac-975773eaf4a5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3wHTlRv\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60b11988-352e-4497-a2ac-8afef6f24b1d",
+      "type": "divider"
+    }
+  ]
+}

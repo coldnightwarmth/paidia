@@ -1,0 +1,131 @@
+{
+  "id": "da3a4da5-5819-4085-8044-118d07e1eb0b",
+  "slug": "game-wizards",
+  "title": "Game Wizards",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Game-Wizards-da3a4da5581940858044118d07e1eb0b?pvs=21",
+  "createdTime": 1651696474256,
+  "lastEditedTime": 1681313777503,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Game Wizards",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81abkvstwsl-604452a4f6e5.webp",
+  "blocks": [
+    {
+      "id": "392ec9f1-a865-4d35-9858-d13b960c4e2a",
+      "type": "divider"
+    },
+    {
+      "id": "59fc208c-1878-44ba-b008-6edbdee3c712",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4fbee5ee-c354-416f-bdab-2ca7d8332487",
+      "type": "columns",
+      "children": [
+        {
+          "id": "19b35ffe-ffc7-481c-aa54-a0109c0d7659",
+          "type": "column",
+          "children": [
+            {
+              "id": "67225bca-e73a-42af-9e07-41456b6d1677",
+              "type": "paragraph",
+              "html": "<em><strong>Game Wizards: The Epic Battle for Dungeons &amp; Dragons</strong></em> was written by Jon Peterson, published by The MIT Press, October 12, 2021."
+            },
+            {
+              "id": "9a3f2069-a575-4806-85b2-d2ea9fa77ee6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "044077fa-1ebc-483e-9a6e-1de647eb46a1",
+              "type": "quote",
+              "html": "<em>When </em>Dungeons &amp; Dragons <em>was first released to a small hobby community, it hardly seemed destined for mainstream success--and yet this arcane tabletop role-playing game became an unlikely pop culture phenomenon. In </em>Game Wizards<em>, Jon Peterson chronicles the rise of </em>Dungeons &amp; Dragons <em>from hobbyist pastime to mass market sensation, from the initial collaboration to the later feud of its creators, Gary Gygax and Dave Arneson. As the game's fiftieth anniversary approaches, Peterson--a noted authority on role-playing games--explains how D&amp;D and its creators navigated their successes, setbacks, and controversies.<br><br>Peterson describes Gygax and Arneson's first meeting and their work toward the 1974 release of the game; the founding of TSR and its growth as a company; and Arneson's acrimonious departure and subsequent challenges to TSR. He recounts the &quot;Satanic Panic&quot; accusations that D&amp;D was sacrilegious and dangerous, and how they made the game famous. And he chronicles TSR's reckless expansion and near-fatal corporate infighting, which culminated with the company in debt and overextended and the end of Gygax's losing battle to retain control over TSR and D&amp;D.<br><br>With </em>Game Wizards<em>, Peterson restores historical particulars long obscured by competing narratives spun by the one-time partners. That record amply demonstrates how the turbulent experience of creating something as momentous as </em>Dungeons &amp; Dragons <em>can make people remember things a bit differently from the way they actually happened.</em>"
+            },
+            {
+              "id": "a22be1f3-6caf-4ce8-a85c-5b3ad794c69f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "cf40526c-8c08-4c6c-a76b-ceb7f20f170f",
+          "type": "column",
+          "children": [
+            {
+              "id": "defdce99-2499-4a5e-a8ea-bb7e334ed60e",
+              "type": "image",
+              "src": "./assets/images/81abkvstwsl-604452a4f6e5.webp",
+              "caption": "",
+              "alt": "81abKvStWSL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9e0b9d74-9048-4b48-b347-2f29a862aabe",
+      "type": "divider"
+    },
+    {
+      "id": "4382e485-3525-477c-b32b-810110a29ff8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6ff6490d-9829-4612-b09c-9f7d461e6f68",
+          "type": "column",
+          "children": [
+            {
+              "id": "9347e38a-17d6-40dc-ac84-f7faf0ca7911",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d3b770ab-ebed-44ee-98c2-13fc4ffb5341",
+          "type": "column",
+          "children": [
+            {
+              "id": "717af015-50fb-4892-bc7d-5fed9f559dab",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3ylejq8\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9517a56-cbd1-4904-824f-043bba68dcaf",
+      "type": "divider"
+    }
+  ]
+}

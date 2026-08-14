@@ -1,0 +1,131 @@
+{
+  "id": "d05254e6-4d3b-4a98-b9d1-ee5567837714",
+  "slug": "the-erotic-in-sports",
+  "title": "The Erotic in Sports",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d05254e64d3b4a98b9d1ee5567837714",
+  "createdTime": 1657229574789,
+  "lastEditedTime": 1681313985932,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Erotic in Sports",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e494d206a9c0.webp",
+  "blocks": [
+    {
+      "id": "f3c1ffbf-be87-43a4-a435-0367907c054c",
+      "type": "divider"
+    },
+    {
+      "id": "d2a8c07d-aed6-468d-a2c5-03de8e1d3875",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cf0f00e1-29c4-4d99-9b90-72a1451dd667",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f68ab591-16cf-439d-b169-9f1770fabe19",
+          "type": "column",
+          "children": [
+            {
+              "id": "6fda6ef6-67e1-4d12-95d7-b2b677a2c653",
+              "type": "paragraph",
+              "html": "<em><strong>The Erotic in Sports</strong></em> was written by Allen Guttmann, published by Columbia University Press, April 15, 1996."
+            },
+            {
+              "id": "b6223086-a38b-4d2d-a4b2-0ecee8fe715b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5dfbefa1-309c-44a7-97cb-b36c152eb2a4",
+              "type": "quote",
+              "html": "<em>From Greek athletic competitions to the cult of body-building at Gold's Gym, this text examines literature, art, television, and movies to uncover a vast array of evidence that cultures across the ages have reflected at length, in celebration and censure, on the erotic nature of sports.</em>"
+            },
+            {
+              "id": "22925778-0957-4345-a3bb-3403095ffc9c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "01e55fb4-7696-49d1-89e6-7100e0e431c4",
+          "type": "column",
+          "children": [
+            {
+              "id": "1e40384a-e65e-4ab0-b5eb-54cfe1464b91",
+              "type": "image",
+              "src": "./assets/images/untitled-e494d206a9c0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a7d2100-0054-4058-bc60-b4d0bdb8ba8d",
+      "type": "divider"
+    },
+    {
+      "id": "66f8fb94-02f4-4ddf-b3af-b3e6737b3c86",
+      "type": "columns",
+      "children": [
+        {
+          "id": "02cabae4-3d6c-4236-9ad0-c0e3e071977b",
+          "type": "column",
+          "children": [
+            {
+              "id": "e8f3ff70-f727-4572-af02-37695314b5d4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8fccab2e-34aa-4510-baa1-8d0b99260bf6",
+          "type": "column",
+          "children": [
+            {
+              "id": "8ab66804-f10f-44bb-a532-712f5549c957",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3o4SuFL\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43d666eb-84ce-4bbb-be1c-e9c13788fab5",
+      "type": "divider"
+    }
+  ]
+}

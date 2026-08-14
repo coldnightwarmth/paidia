@@ -1,0 +1,78 @@
+{
+  "id": "full-text-65-untitled",
+  "slug": "untitled",
+  "title": "Untitled",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8b00db95-6902-4675-93fb-bd8023cf5614",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/ee0fdd96c3af4773b0af4852ca1f8967?pvs=21",
+  "createdTime": null,
+  "lastEditedTime": null,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Untitled"
+      ]
+    ],
+    "Full Text Database Row": [
+      [
+        "65"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Julian Togelius"
+      ]
+    ],
+    "Tags": [
+      [
+        "AI, Design, Play, Videogames"
+      ]
+    ],
+    "Released": [
+      [
+        "2019"
+      ]
+    ],
+    "Publisher": [
+      [
+        "The MIT Press"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "full-text-65-untitled-divider",
+      "type": "divider"
+    },
+    {
+      "id": "full-text-65-untitled-metadata",
+      "type": "paragraph",
+      "html": "<strong>Untitled</strong>, by Julian Togelius, The MIT Press, 2019."
+    },
+    {
+      "id": "full-text-65-untitled-tags",
+      "type": "paragraph",
+      "html": "<em>Tags:</em> AI, Design, Play, Videogames"
+    },
+    {
+      "id": "full-text-65-untitled-note",
+      "type": "callout",
+      "html": "The Notion URL attached to this spreadsheet row did not return a usable page payload, so this local page was generated from the Full Text Database CSV metadata.",
+      "icon": "🗃️",
+      "children": []
+    }
+  ]
+}

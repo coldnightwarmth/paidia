@@ -1,0 +1,151 @@
+{
+  "id": "2cea0dc6-830e-4930-aac3-1bf68f4a5d85",
+  "slug": "pinball-wizards",
+  "title": "Pinball Wizards",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Pinball-Wizards-2cea0dc6830e4930aac31bf68f4a5d85?pvs=21",
+  "createdTime": 1651694745757,
+  "lastEditedTime": 1681313231366,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Pinball Wizards",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/816kcpmu4qs-34bf8f638271.webp",
+  "blocks": [
+    {
+      "id": "592c2520-c8b2-49ef-a6c3-b2840217d30a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8dbf04e5-9343-414a-80cc-ad79f1176d3e",
+      "type": "divider"
+    },
+    {
+      "id": "d5eeedde-0de2-433d-a0e6-d50ba204b09b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c6225fea-7686-455b-a0b9-2d18ae1bfb9b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f2e243af-2400-4388-918b-d0c94c993452",
+          "type": "column",
+          "children": [
+            {
+              "id": "9cbf2fec-729e-4d80-84ac-43adbb11d683",
+              "type": "paragraph",
+              "html": "<em><strong>Pinball Wizards: Jackpots, Drains, &amp; the Cult of the Silver Ball</strong></em> was written by Adam Ruben, published by Chicago Review Press, November 1, 2017."
+            },
+            {
+              "id": "e79e2175-6da3-4229-8089-bb5feb8f625f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "89199214-fc28-4311-920b-5722a14adc35",
+              "type": "quote",
+              "html": "<em>Pinball’s history is America’s history, from gambling and war-themed machines to the arcade revolution and, ultimately, the decline of the need to leave your house. The strangest thing about pinball is that it persists, and not just as nostalgia. Pinball didn’t just stick around—it grew and continues to evolve with the times. Somehow, in today’s iPhone world, a three-hundred-pound monstrosity of wood and cables has survived to enjoy yet another renaissance.<br><br>Pinball is more to humor writer Adam Ruben than a fascinating book topic—it’s a lifelong obsession. Ruben played competitive pinball for years, rising as high as the 80th-ranked player in the world. Then he had children. Now, mired in 9,938th place—darn kids—Ruben tries to stage a comeback, visiting pinball museums, gaming conventions, pinball machine designers, and even pinball factories in his attempt to discover what makes the world’s best players, the real wizards, so good. Along the way, Ruben examines the bigger story of pinball's invention, ascent, near defeat, resurgence, near defeat again, and struggle to find its niche in modern society.</em>"
+            },
+            {
+              "id": "3cdf029a-9119-49d2-a340-82f5207b9316",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8bd3357f-7b0a-4191-8f76-c298b669f82e",
+          "type": "column",
+          "children": [
+            {
+              "id": "836f141b-c45a-4665-8d0a-bfed3f4f15bf",
+              "type": "image",
+              "src": "./assets/images/816kcpmu4qs-34bf8f638271.webp",
+              "caption": "",
+              "alt": "816kcPmu4QS.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "772b06ff-5922-4e3c-9bc2-17d23a29d340",
+      "type": "divider"
+    },
+    {
+      "id": "6c794009-ba8a-45cc-b29f-149cf40d56d5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e919dd2f-ec6e-4aca-be54-6fc7c22fc4c5",
+          "type": "column",
+          "children": [
+            {
+              "id": "4251c334-b09d-402e-8be2-550c812f1041",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e0296e15-0c34-46c6-b1ce-0a9164eed3f0",
+          "type": "column",
+          "children": [
+            {
+              "id": "a2e48384-f213-49dc-9ff6-c0d09a19a0f9",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3ykUQWX\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5043d0f1-e1d7-453c-8e40-287a62f38290",
+      "type": "divider"
+    },
+    {
+      "id": "eb395d3c-8212-40eb-89cd-0404f7bea92d",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "493ab624-fe81-4c4d-95cd-af68009781fd",
+      "type": "paragraph",
+      "html": "<a href=\"#/pinball-1\">Pinball 1</a> (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "51e74375-73bb-4e46-8da2-1911d49c338f",
+      "type": "paragraph",
+      "html": "<a href=\"#/how-a-pinball-machine-works-in-slow-motion-the-slow-mo-guys\">How a Pinball Machine Works in Slow Motion</a> (video)"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "89ef2ad0-cff0-4296-bff8-d6fddc5fd609",
+  "slug": "on-numbers-and-games",
+  "title": "On Numbers & Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/On-Numbers-Games-89ef2ad0cff04296bff8d6fddc5fd609?pvs=21",
+  "createdTime": 1651694745422,
+  "lastEditedTime": 1681314189055,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "On Numbers & Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9cad3584b130.webp",
+  "blocks": [
+    {
+      "id": "dc142763-3848-4859-aad7-f77973cfb66f",
+      "type": "divider"
+    },
+    {
+      "id": "86ac857e-b3d8-4642-a83a-80117e4da5dd",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "09024cd6-6b10-4b36-b8c9-2b916e91a3b2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7c702c92-762a-4839-81c0-91dd4ecbbc69",
+          "type": "column",
+          "children": [
+            {
+              "id": "31e55b4f-6da7-4dd8-8158-b149c84922ed",
+              "type": "paragraph",
+              "html": "<em><strong>Book</strong></em> is a book"
+            }
+          ]
+        },
+        {
+          "id": "73a85ee6-9ea2-4af0-9c8b-e54e12017124",
+          "type": "column",
+          "children": [
+            {
+              "id": "4bd29cc4-d830-4b0a-b58b-68b409b4d352",
+              "type": "image",
+              "src": "./assets/images/untitled-9cad3584b130.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84c2dfc1-74aa-4795-aecf-c51243577a95",
+      "type": "divider"
+    },
+    {
+      "id": "ebdac37f-62f8-4a62-8f04-6f2ceca28464",
+      "type": "columns",
+      "children": [
+        {
+          "id": "72d00dbd-47f3-4f20-9e6f-5739bb16939d",
+          "type": "column",
+          "children": [
+            {
+              "id": "df7b3403-0305-4716-b199-8d0b28eee5b6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cd14f649-81c2-4f0d-8b1d-ea7f8dd5d8f1",
+          "type": "column",
+          "children": [
+            {
+              "id": "558ed144-e831-4648-a510-0eb9bbd0687d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3l1Vscx\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ea233060-b471-41a3-93d7-2821ffd6320a",
+      "type": "divider"
+    }
+  ]
+}

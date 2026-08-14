@@ -1,0 +1,126 @@
+{
+  "id": "7d540d78-1e4c-4794-9468-84c2bd46a8ed",
+  "slug": "watch-me-play",
+  "title": "Watch Me Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Watch-Me-Play-7d540d781e4c4794946884c2bd46a8ed?pvs=21",
+  "createdTime": 1651768007830,
+  "lastEditedTime": 1681314015257,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Watch Me Play"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5352200ae65b.webp",
+  "blocks": [
+    {
+      "id": "ce15e41c-a589-4837-8be2-c0175339b026",
+      "type": "divider"
+    },
+    {
+      "id": "4084eed2-7879-49f1-8e38-81fe01dabbb8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a128e7dd-9fc8-49dc-8105-4b031b7f2493",
+      "type": "columns",
+      "children": [
+        {
+          "id": "65eafaea-4230-48fb-8194-214c30b3c3b3",
+          "type": "column",
+          "children": [
+            {
+              "id": "06c2143a-2273-4cbc-9280-88250620138b",
+              "type": "paragraph",
+              "html": "<em><strong>Watch Me Play: Twitch &amp; the Rise of Game Live Streaming</strong></em> was written by T.L. Taylor, published by Princeton University Press, October 16, 2018."
+            },
+            {
+              "id": "5ed1e250-d357-4957-bb03-3133ade5201f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5d0db518-4385-4512-addf-d470390f21d1",
+              "type": "quote",
+              "html": "<em><strong>A look at the revolution in game live streaming and esports broadcasting</strong></em><em><br><br>Every day thousands of people broadcast their gaming live to audiences over the internet using popular sites such as Twitch, which reaches more than one hundred million viewers a month. In these new platforms for interactive entertainment, big esports events featuring digital game competitors live stream globally, and audiences can interact with broadcasters―and each other―through chat in real time. What are the ramifications of this exploding online industry? Taking readers inside home studios and backstage at large esports events, </em>Watch Me Play<em> investigates the rise of game live streaming and how it is poised to alter how we understand media and audiences.<br><br>Through extensive interviews and immersion in this gaming scene, T. L. Taylor delves into the inner workings of the live streaming platform Twitch. From branding to business practices, she shows the pleasures and work involved in this broadcasting activity, as well as the management and governance of game live streaming and its hosting communities. At a time when gaming is being reinvented through social media, the potential of an ever-growing audience is transforming user-generated content and alternative distribution methods. These changes will challenge the meaning of ownership and intellectual property and open the way to new forms of creativity.<br><br>The first book to explore the online phenomenon Twitch and live streaming games, </em>Watch Me Play<em> offers a vibrant look at the melding of private play and public entertainment.</em>"
+            },
+            {
+              "id": "e4d4f911-a93b-4a40-b5bf-c48cf36160fb",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "57bbed24-0bce-439a-bec4-a293bcca0850",
+          "type": "column",
+          "children": [
+            {
+              "id": "81bf9325-c476-4a2d-8946-20350a0d187a",
+              "type": "image",
+              "src": "./assets/images/untitled-5352200ae65b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4484ff2-c506-4939-b305-dc2256e55932",
+      "type": "divider"
+    },
+    {
+      "id": "1e996176-c919-4902-97b8-d463c1df64ec",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c6fecba4-e65c-4f75-972c-6ad9de010605",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f4dd557-2e9e-4428-b71d-2d0786a1f21b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3a757f3f-f7a8-4e44-b1fe-e15745343c00",
+          "type": "column",
+          "children": [
+            {
+              "id": "e7a77fae-07e3-40b5-b7ee-e7495df8bc52",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FwEEFJ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4d6a3f02-ff31-4892-9cff-6e81e3c5367c",
+      "type": "divider"
+    }
+  ]
+}

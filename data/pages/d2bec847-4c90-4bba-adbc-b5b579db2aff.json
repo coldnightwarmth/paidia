@@ -1,0 +1,131 @@
+{
+  "id": "d2bec847-4c90-4bba-adbc-b5b579db2aff",
+  "slug": "the-english-clown-tradition-from-the-middle-ages-to-shakespeare",
+  "title": "The English Clown Tradition from the Middle Ages to Shakespeare",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d2bec8474c904bbaadbcb5b579db2aff",
+  "createdTime": 1668452639394,
+  "lastEditedTime": 1681312507786,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The English Clown Tradition from the Middle Ages to Shakespeare",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0eee602031da.webp",
+  "blocks": [
+    {
+      "id": "e2e74962-7ac7-4535-9758-cbc8f679cd02",
+      "type": "divider"
+    },
+    {
+      "id": "0690ddff-e7b7-4ca2-8274-5d85638ba2d8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2972aaa6-7396-4190-8920-d422748e53af",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5225baf7-8d02-4e35-81d8-eecc57d88b12",
+          "type": "column",
+          "children": [
+            {
+              "id": "9821cc45-619b-49a0-9a1e-6f7cca2380aa",
+              "type": "paragraph",
+              "html": "<em><strong>The English Clown Tradition from the Middle Ages to Shakespeare</strong></em><em> </em>was written by Robert Hornback, published by D.S.Brewer, September 17, 2009."
+            },
+            {
+              "id": "2969889f-778b-4208-b8bf-0474c0c55de5",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "22d7c2da-ad8f-44ee-8e19-e5e522c7c6de",
+              "type": "quote",
+              "html": "<strong><em>A new account of medieval and Renaissance clown traditions reveals the true extent of their cultural influence.</em></strong><em><br><br>From the late-medieval period through to the seventeenth century, English theatrical clowns carried a weighty cultural significance, only to have it stripped from them, sometimes violently, by the close of the Renaissance when the famed &quot;license&quot; of fooling was effectively revoked. This groundbreaking survey of clown traditions in the period looks both at their history, and reveals their hidden cultural contexts and legacies; it has far-reaching implications not only for our general understanding of English clown types, but also their considerable role in defining social, religious and racial boundaries. It begins with an exploration of previously un-noted early representations of blackness in medieval psalters, cycle plays, and Tudor interludes, arguing that they are emblematic of folly and ignorance rather than of evil. Subsequent chapters show how protestants at Cambridge and at court, during the reigns of Henry VIII and Edward, patronised a clownish, iconoclastic Lord of Misrule; look at the Elizabethan puritan stage clown; and move on to a provocative reconsideration of the Fool in </em>King Lear<em>, drawing completely fresh conclusions. Finally, the epilogue points to the satirical clowning which took place surreptitiously in the Interregnum, and the (sometimes violent) end of &quot;licensed&quot; folly.</em>"
+            },
+            {
+              "id": "99d5aeba-aa46-4c1a-99ed-2238ebcce6e0",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ad3100e0-a41e-4841-9912-440bd7fbecb7",
+          "type": "column",
+          "children": [
+            {
+              "id": "c665b824-0644-487e-aab5-08b7f57b1611",
+              "type": "image",
+              "src": "./assets/images/untitled-0eee602031da.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33b5b4de-8244-4a5d-ad38-64bf7cb73f85",
+      "type": "divider"
+    },
+    {
+      "id": "5903fd2d-6016-4001-8d43-8f4ac2f002e0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b91d8433-6f17-44c9-bd56-538ea88d5743",
+          "type": "column",
+          "children": [
+            {
+              "id": "4b754ce4-0eb2-4b7d-a475-c920af0022a8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c280a0db-7bba-4385-897d-e070c3fdd395",
+          "type": "column",
+          "children": [
+            {
+              "id": "8f56a4fb-f5e9-433b-acb9-6df7da6a7867",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/English-Tradition-Shakespeare-Renaissance-Literature/dp/1843843560/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1668451609&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64ba1962-8f4c-4ee9-beeb-229d53c002c7",
+      "type": "divider"
+    }
+  ]
+}

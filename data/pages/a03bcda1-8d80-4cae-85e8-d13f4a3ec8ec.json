@@ -1,0 +1,124 @@
+{
+  "id": "a03bcda1-8d80-4cae-85e8-d13f4a3ec8ec",
+  "slug": "marcel-duchamp",
+  "title": "Marcel Duchamp",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "f9d064b5-05b3-4706-badb-4050ffd4d3cf",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/a03bcda18d804cae85e8d13f4a3ec8ec",
+  "createdTime": 1673450524798,
+  "lastEditedTime": 1681329170043,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Marcel Duchamp",
+        [
+          [
+            "i"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-73d2a152dea0.webp",
+  "blocks": [
+    {
+      "id": "a5883004-db24-40d3-9a40-a2ba27a12219",
+      "type": "divider"
+    },
+    {
+      "id": "00c3fba3-a3d1-4e7d-83c6-f743e17966d4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1fdddec2-cd8d-4f6b-868a-f308966dc4a9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6eaf92df-ef53-440d-a22b-2433438d5cbe",
+          "type": "column",
+          "children": [
+            {
+              "id": "803b90cf-dcd0-475c-9e03-d63196459998",
+              "type": "paragraph",
+              "html": "<strong>Marcel Duchamp  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) was"
+            },
+            {
+              "id": "54036134-b20a-4292-a296-eeeafe4a7920",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6e5f8743-40cb-4bdf-bb98-682c63464738",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "022e50c8-58fb-4d40-9210-5e3f2670d5f8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a71c6d1c-4221-4b47-acef-a38bebc35338",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "47ea2dbe-0672-4f2e-bc2b-2a35e8ed7316",
+          "type": "column",
+          "children": [
+            {
+              "id": "6e9059e4-0621-4c21-a9f9-54ef87284146",
+              "type": "image",
+              "src": "./assets/images/untitled-73d2a152dea0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8bb831f2-cd33-4aed-982c-644bf87f3bc6",
+      "type": "divider"
+    },
+    {
+      "id": "7eb86998-7ebf-4244-8668-2731eb72efee",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "d429abb6-06e0-4b82-9561-4bde9089904e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1bee8207-5c0d-47e5-94d8-34634c6b646e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "52410f8b-8d85-49cd-83f5-582e20370358",
+      "type": "divider"
+    },
+    {
+      "id": "603800b7-f443-497e-b724-25a23df35630",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

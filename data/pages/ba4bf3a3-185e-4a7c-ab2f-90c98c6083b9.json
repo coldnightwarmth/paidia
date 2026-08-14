@@ -1,0 +1,132 @@
+{
+  "id": "ba4bf3a3-185e-4a7c-ab2f-90c98c6083b9",
+  "slug": "man-play-and-games",
+  "title": "Man, Play, & Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/ba4bf3a3185e4a7cab2f90c98c6083b9",
+  "createdTime": 1651685926482,
+  "lastEditedTime": 1681314299543,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Man, Play, & Games"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-644c3a21e9a0.webp",
+  "blocks": [
+    {
+      "id": "0efc713a-6607-4c8c-9e55-78bd1d0331a7",
+      "type": "divider"
+    },
+    {
+      "id": "cb2b2439-a782-4400-bed7-71091e8d470a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "be86a2ae-daa5-4e8a-a1fc-2e639ed487ae",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e11c2b57-164c-4c56-ad75-09f978be0f39",
+          "type": "column",
+          "children": [
+            {
+              "id": "fc060a4a-e7b2-41e5-a80f-dd195c561d5f",
+              "type": "paragraph",
+              "html": "<em><strong>Man, Play, &amp; Game</strong></em> was written by <a href=\"#/roger-caillois\">Roger Caillois</a>, originally published in 1958."
+            },
+            {
+              "id": "71a6e5e2-ef03-4c48-bdd4-8ee02a21fefc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "31cfe0de-a573-4435-a164-fa81a91f7927",
+              "type": "quote",
+              "html": "<em>According to Roger Caillois, play is &quot;an occasion of pure waste: waste of time, energy, ingenuity, skill, and often of money.&quot; In spite of this--or because of it--play constitutes an essential element of human social and spiritual development.<br><br>In this classic study, Caillois defines play as a free and voluntary activity that occurs in a </em><a href=\"#/there-is-no-magic-circle\"><em>pure space</em></a><em>, isolated and protected from the rest of life. Play is uncertain, since the outcome may not be foreseen, and it is governed by </em><a href=\"#/rules\"><em>rules</em></a><em> that provide a level playing field for all participants. In its most basic form, play consists of finding a response to the opponent's action--or to the play situation--that is free within the limits set by the rules.<br><br>Caillois qualifies types of games-- according to whether competition, </em><a href=\"#/the-language-of-birds\"><em>chance</em></a><em>, simulation, or vertigo (being physically out of control) is dominant--and ways of playing, ranging from the unrestricted improvisation characteristic of </em><a href=\"#/the-end-of-childhood-play\"><em>children's play</em></a><em> to the disciplined pursuit of solutions to gratuitously difficult puzzles. Caillois also examines the means by which games become part of daily life and ultimately contribute to various cultures their most characteristic customs and institutions.</em>"
+            },
+            {
+              "id": "26bdc47d-609a-4327-bf59-7f96b363cf0d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e7ad1198-6097-4529-b9f7-bc8dc3b63f01",
+          "type": "column",
+          "children": [
+            {
+              "id": "a9ca3764-9c3a-4fe2-a624-af54547a0a92",
+              "type": "image",
+              "src": "./assets/images/untitled-644c3a21e9a0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5477446-2088-498b-afb1-518ec231017f",
+      "type": "divider"
+    },
+    {
+      "id": "e8aadc33-3884-4fbc-8f68-b0821cf429a9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "698accd4-f96c-49d1-9e68-b98f234ecefb",
+          "type": "column",
+          "children": [
+            {
+              "id": "d3c99c09-f971-4976-934d-9ddbdb273a11",
+              "type": "callout",
+              "html": "",
+              "icon": "📚",
+              "children": [
+                {
+                  "id": "0016d523-4bb2-44f5-a707-27a8e52b3465",
+                  "type": "paragraph",
+                  "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cba4a3a2-fab1-4aef-8e5f-316fd6347db2",
+          "type": "column",
+          "children": [
+            {
+              "id": "7ff72ed0-170a-4775-97eb-cd23dcde4ceb",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3l7SzGU\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "926ffa23-aae9-4a87-8127-4b2306f00874",
+      "type": "divider"
+    }
+  ]
+}

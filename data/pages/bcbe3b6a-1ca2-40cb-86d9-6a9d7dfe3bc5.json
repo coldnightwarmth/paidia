@@ -1,0 +1,136 @@
+{
+  "id": "bcbe3b6a-1ca2-40cb-86d9-6a9d7dfe3bc5",
+  "slug": "secret-games-of-the-gods",
+  "title": "Secret Games of the Gods",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/bcbe3b6a1ca240cb86d96a9d7dfe3bc5",
+  "createdTime": 1651687102897,
+  "lastEditedTime": 1681313511271,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Secret Games of the Gods"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-cdc792f1a47b.webp",
+  "blocks": [
+    {
+      "id": "abbc504a-5007-4268-b72f-c2c67ece1d0f",
+      "type": "divider"
+    },
+    {
+      "id": "fd815107-5d84-468c-a43c-da4d2ebf6d43",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4238002c-18e2-4b5d-8d7a-beebcfe3361e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "746b3dc0-daa8-43c6-b480-d6af1d2be699",
+          "type": "column",
+          "children": [
+            {
+              "id": "eff57bc2-1bff-41f7-bca8-68bf659c5ba6",
+              "type": "paragraph",
+              "html": "<em><strong>Secret Games of the Gods: Ancient Ritual Systems in Board Games</strong></em> was written by Nigel Pennick, published by Weiser Books, January 1, 1992."
+            },
+            {
+              "id": "ca05c896-84b5-486b-9f66-793e159cf331",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9c1b8d61-52e3-43e5-a6ac-4c9dcaa3f7b2",
+              "type": "quote",
+              "html": "<em>The first comprehensive survey of the different methods of </em><a href=\"#/divination\"><em>divination</em></a><em>, this book delves into games originating from many countries and cultures, showing how each is based upon a vision of the universe in which the will of the gods is discovered through </em><a href=\"#/ritual\"><em>ritual</em></a><em> practice.</em>"
+            }
+          ]
+        },
+        {
+          "id": "93ff9863-9e51-4606-b2bd-1f8a11113c30",
+          "type": "column",
+          "children": [
+            {
+              "id": "5ffc49a4-0864-48ca-a723-2bcd1df5309c",
+              "type": "image",
+              "src": "./assets/images/untitled-cdc792f1a47b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "341e9f15-bc55-4bd8-baa0-c7d109ef8ed2",
+      "type": "divider"
+    },
+    {
+      "id": "2ac4e5ef-e3c5-4833-a13b-38f4149ec6a0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b74afded-ad07-4b9d-8249-f38c68ff1edb",
+          "type": "column",
+          "children": [
+            {
+              "id": "80df841a-8118-411d-859a-0d60d83ba239",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e0b15798-9e6a-47f9-86c4-f9c4d03b5e6e",
+          "type": "column",
+          "children": [
+            {
+              "id": "257608fb-96c3-42d5-8529-f009ed97fae4",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3PHE2zO\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b847771c-ee94-4750-9304-f5c9ac8a2bcc",
+      "type": "divider"
+    },
+    {
+      "id": "49d84a2a-3843-4f62-bccd-497220d2f79f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "32bb8a12-5057-4beb-8a37-5e4f5bfc831a",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "33518f4e-8d27-4ed2-ab31-c72d08acc278",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

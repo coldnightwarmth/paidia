@@ -1,0 +1,63 @@
+{
+  "id": "e61311a8-ff1f-445b-a8c4-bf6a58d58f20",
+  "name": "Artifacts Databse",
+  "schema": {
+    "i=Es": {
+      "id": "i=Es",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "feea495c-d009-45ff-9338-809b316390cf",
+      "collectionId": "e61311a8-ff1f-445b-a8c4-bf6a58d58f20",
+      "type": "gallery",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "efa75c2e-6163-47f6-8fa8-f6c3ae014245",
+        "f0996d0b-d3c2-4209-8294-7c4ad17488c4",
+        "4498acf3-9664-407b-b076-71d581b52667"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 276
+        },
+        {
+          "property": "i=Es",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_content",
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

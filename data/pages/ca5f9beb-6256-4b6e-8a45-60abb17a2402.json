@@ -1,0 +1,131 @@
+{
+  "id": "ca5f9beb-6256-4b6e-8a45-60abb17a2402",
+  "slug": "making-games-for-impact",
+  "title": "Making Games for Impact",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Making-Games-for-Impact-ca5f9beb62564b6e8a4560abb17a2402?pvs=21",
+  "createdTime": 1651976845264,
+  "lastEditedTime": 1681313870030,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Making Games for Impact",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-99cf6417f25f.webp",
+  "blocks": [
+    {
+      "id": "c588e322-5efc-484b-b439-cb3a1d4b6673",
+      "type": "divider"
+    },
+    {
+      "id": "50f0be86-5494-4ec7-a61d-f60d4c8febac",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b9956a81-7156-4c66-9675-1b0fee1e9243",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0c9ecfe7-1ca3-4a93-bd58-e7450b00230a",
+          "type": "column",
+          "children": [
+            {
+              "id": "cce79268-dc23-492a-b1ea-ecdbf80c6ddb",
+              "type": "paragraph",
+              "html": "<em><strong>Making Games for Impact</strong></em> was written by Kurt Squire, published by The MIT Press, October 26, 2021."
+            },
+            {
+              "id": "a8c3e667-4a20-4dbe-a191-c79358e85aaf",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5cf1759c-ac0b-4f20-8e25-ce79afb78246",
+              "type": "quote",
+              "html": "<em>Digital games for learning are now commonplace, used in settings that range from K–12 education to advanced medical training. In this book, Kurt Squire examines the ways that games make an impact on learning, investigating how designers and developers incorporate authentic social impact goals, build a team, and work with experts in order to make games that are effective and marketable. Because there is no one design process for making games for impact—specific processes arise in response to local needs and conditions—Squire presents a series of case studies that range from a small, playable game created by a few programmers and an artist to a multimillion-dollar project with funders, outside experts, and external constraints.<br><br>These cases, drawn from the Games + Learning + Society Center at the University of Wisconsin–Madison, show designers tackling such key issues as choosing platforms, using data analytics to guide development, and designing for new markets. Although not a how-to guide, the book offers developers, researchers, and students real-world lessons in greenlighting a project, scaling up design teams, game-based assessment, and more. The final chapter examines the commercial development of an impact game in detail, describing the creation of an astronomy game, </em>At Play in the Cosmos<em>, that ships with an introductory college textbook.</em>"
+            }
+          ]
+        },
+        {
+          "id": "9bbc7c18-b77c-48e6-b932-fe812023c5d7",
+          "type": "column",
+          "children": [
+            {
+              "id": "1fd6cde1-19ff-4935-9eac-06223d5f57a8",
+              "type": "image",
+              "src": "./assets/images/untitled-99cf6417f25f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "386bf61d-3a2b-410d-9757-f2e742697e10",
+      "type": "divider"
+    },
+    {
+      "id": "7709d227-a625-42a6-bd95-274f5c9f7c48",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ded64b03-078e-423f-b7e4-a9523b3097b6",
+          "type": "column",
+          "children": [
+            {
+              "id": "1617c82e-c2d0-4913-ad49-a493b793e967",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "592b6e2d-0fea-4e1a-bb91-22cb6c400738",
+          "type": "column",
+          "children": [
+            {
+              "id": "6c7e22f2-c2c2-4bf7-b285-4b2765ce2c13",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3wS8yhI\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c6673bcf-2204-43a3-8806-3ae6d5fd5a17",
+      "type": "divider"
+    },
+    {
+      "id": "a3441872-679f-4d98-b867-f06f962278d2",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

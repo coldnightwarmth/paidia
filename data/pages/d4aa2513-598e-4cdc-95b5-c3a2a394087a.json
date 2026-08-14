@@ -1,0 +1,263 @@
+{
+  "id": "d4aa2513-598e-4cdc-95b5-c3a2a394087a",
+  "slug": "the-design-process",
+  "title": "The design process",
+  "icon": "👾",
+  "cover": "",
+  "type": "page",
+  "parentId": "d02701b6-e3a0-42cc-aba7-e48629f57331",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d4aa2513598e4cdc95b5c3a2a394087a",
+  "createdTime": 1664379896385,
+  "lastEditedTime": 1767526473917,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "The design process"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "e99edb71-b8ed-4e9b-8b3e-c12379e7da87",
+      "type": "paragraph",
+      "html": "A game designer is usually in charge of the whole or a part of the design process."
+    },
+    {
+      "id": "61ae5994-afc9-414d-96a0-a7a35cb193d9",
+      "type": "header",
+      "html": "High level",
+      "anchorId": "high-level"
+    },
+    {
+      "id": "190d1d69-979c-4014-a370-b270b5f62d99",
+      "type": "paragraph",
+      "html": "The design process is an iterative loop. A strong and effective design team is one that can run through this process smoothly and quickly."
+    },
+    {
+      "id": "648a8bb9-6186-4a57-9b92-17a37c1fbe23",
+      "type": "subheader",
+      "html": "👁️ Observe",
+      "anchorId": "observe"
+    },
+    {
+      "id": "b330ed69-14ff-4279-ad72-a96d03968f67",
+      "type": "paragraph",
+      "html": "Observe what players are doing in the game, absorb feedback and identify problems."
+    },
+    {
+      "id": "6b7abeb8-f0c8-4ef0-b745-ef7302cb974f",
+      "type": "paragraph",
+      "html": "Eg. The game designer runs a playtesting session and interviews the players about their experience afterwards. They find players don’t think the score they got was fair."
+    },
+    {
+      "id": "2332e25b-ed7e-4837-9692-314457b50a17",
+      "type": "paragraph",
+      "html": "Eg. The data analysts flags players are not using an item in the game. The game designer finds players don’t know what the item is used for."
+    },
+    {
+      "id": "f7ac07cd-7f43-47ea-8c9c-d9b3602d6881",
+      "type": "subsubheader",
+      "html": "Data and user research",
+      "anchorId": "data-and-user-research"
+    },
+    {
+      "id": "f0fc3c14-152a-46d6-9d24-7170681ad085",
+      "type": "paragraph",
+      "html": "Data is usually collected by a data scientist or user research team who then present the information to the game design team. In smaller teams, this role might be delegated to the game designer."
+    },
+    {
+      "id": "d38257a4-b8d4-440d-9e94-9e76738b62f1",
+      "type": "paragraph",
+      "html": "They’ll use tools like external/internal playtests, data analytics, community feedback and market research to find answers to questions like:"
+    },
+    {
+      "id": "eb5f4bb5-92aa-480c-a85d-a6d65e45c846",
+      "type": "bulleted_list",
+      "html": "What are our players doing?"
+    },
+    {
+      "id": "0a6bec3d-0ae5-4065-829c-6fc70b115077",
+      "type": "bulleted_list",
+      "html": "What problems are they encountering?"
+    },
+    {
+      "id": "080db9d7-67b7-4859-b506-4fb448daf9ed",
+      "type": "bulleted_list",
+      "html": "What are our player’s pain points?"
+    },
+    {
+      "id": "204e947c-029e-48cc-9275-db0db683bda0",
+      "type": "bulleted_list",
+      "html": "What do our players enjoy the most?"
+    },
+    {
+      "id": "9513b5eb-f47b-4d47-94cf-b5ca0a421683",
+      "type": "paragraph",
+      "html": "The design team will break down the findings into problems to solve. Eg. Players are not talking to each other, players are getting lost in the woods level, players are getting stuck in the onboarding, etc."
+    },
+    {
+      "id": "a5e20376-13f3-4e23-a311-335ec68dead2",
+      "type": "subheader",
+      "html": "💡 Find solutions",
+      "anchorId": "find-solutions"
+    },
+    {
+      "id": "d3467816-fd5f-4a8b-9118-097cd277e8b4",
+      "type": "paragraph",
+      "html": "Ideate and find a solution to the problem. This can be done in a group or individually."
+    },
+    {
+      "id": "0db42f87-ad7b-4964-92f5-aad5e75bee01",
+      "type": "paragraph",
+      "html": "There are usually two steps to finding solutions:"
+    },
+    {
+      "id": "0f438acd-2671-43bb-a8b4-9a601dcabf4f",
+      "type": "subsubheader",
+      "html": "Ideation",
+      "anchorId": "ideation"
+    },
+    {
+      "id": "eb9c28fc-70e1-4610-bc51-b43ef0cbddcc",
+      "type": "paragraph",
+      "html": "Game designers come up with solutions to the problems identified in the observe stage. They can do so either on their own, by thinking deeply about a feature and detailing its design, or as a group through ideation workshops."
+    },
+    {
+      "id": "b6fc2b7f-9db3-4ff2-a2a0-9559f8240fc1",
+      "type": "paragraph",
+      "html": "For a list of ideation workshops you could run, check out: ‣ "
+    },
+    {
+      "id": "5aefb850-8ce7-43c5-99dd-b99f7f821cf6",
+      "type": "subsubheader",
+      "html": "Prototyping",
+      "anchorId": "prototyping"
+    },
+    {
+      "id": "a9e1196f-fd69-4c37-a84e-9de94d800186",
+      "type": "paragraph",
+      "html": "Once an idea has been found, game designers need to figure out if the idea is any good. This is where prototyping comes in. Prototyping is used to validate an idea. They help answer questions like:"
+    },
+    {
+      "id": "121f42db-2b22-4d0b-b771-41cd2bd95df6",
+      "type": "bulleted_list",
+      "html": "Does the idea solve the problem?"
+    },
+    {
+      "id": "b429f518-b1bb-4c15-a003-328f226cddf0",
+      "type": "bulleted_list",
+      "html": "How does the idea need to improve?"
+    },
+    {
+      "id": "a54d8302-6fc2-4518-a481-601e070a275a",
+      "type": "bulleted_list",
+      "html": "What does the team/user think of the idea?"
+    },
+    {
+      "id": "2ea8ec44-cc76-490c-88e8-ddaf4e0bb99f",
+      "type": "paragraph",
+      "html": "What tools game designers use for prototyping depends on their programming skills and the resources available to them. A technical game designer might prototype in engine on their own, a paper game designer might do paper prototypes, use visual tools like figma or get paired up with a programmer who will build them features or tools."
+    },
+    {
+      "id": "f9695d16-18ed-406f-9e81-30800b43a502",
+      "type": "paragraph",
+      "html": "For a list of prototyping tools you could use, check out: ‣ "
+    },
+    {
+      "id": "dfef77c8-56fb-4a35-a8db-4306efc36402",
+      "type": "subheader",
+      "html": "🛠️ Implement",
+      "anchorId": "implement"
+    },
+    {
+      "id": "5174c3ff-a399-4275-836c-c82323793e9a",
+      "type": "paragraph",
+      "html": "Now that we’ve come up with a solution to the problem and validated it, it’s time to implement it."
+    },
+    {
+      "id": "891619ce-8c84-40ce-916e-72639d3faaac",
+      "type": "paragraph",
+      "html": "There are usually a couple of steps involved in this:"
+    },
+    {
+      "id": "efeb880a-feef-4adc-8402-bd3cd5aa9431",
+      "type": "subsubheader",
+      "html": "Documentation",
+      "anchorId": "documentation"
+    },
+    {
+      "id": "dadd0668-5f8f-4a8b-81d8-729734d55d18",
+      "type": "paragraph",
+      "html": "A document clearly communicates to other departments how a feature works so they can go and build it."
+    },
+    {
+      "id": "12f28af2-52fe-45a3-86d3-3fcb22074f1d",
+      "type": "paragraph",
+      "html": "Different teams have different ways of documenting features. For example, a game designer might write up a one pager within a larger GDD wiki in Notion, briefly explaining what the feature is. The document can include a link to a prototype that further illustrates how the feature works."
+    },
+    {
+      "id": "c6a4e6a2-d593-4ceb-8aae-cb712c991d65",
+      "type": "paragraph",
+      "html": "The game designer uses this document to have conversations with for example the UI or engineering team on how to build this feature."
+    },
+    {
+      "id": "2a4709e2-b218-4ac9-a177-aad4ec41eee7",
+      "type": "paragraph",
+      "html": "For a list of documentation tools you could use, check out: ‣ "
+    },
+    {
+      "id": "e61197a3-4921-4c69-a18c-5329349701ee",
+      "type": "subsubheader",
+      "html": "Build",
+      "anchorId": "build"
+    },
+    {
+      "id": "a1249021-9a57-4f4b-9c1f-053aced5a129",
+      "type": "paragraph",
+      "html": "The team starts building the feature into the game."
+    },
+    {
+      "id": "79d7e4c1-585f-40b8-84b5-d7f356424baf",
+      "type": "paragraph",
+      "html": "Depending on the size of the company, the tools available and the skills of the game designer, a designer might be more hands on or hands off in the building process."
+    },
+    {
+      "id": "c5148be7-00fb-4575-ae8a-1f10e1a53a71",
+      "type": "paragraph",
+      "html": "For example: A systems designer might use an in engine tool to tweak the numbers directly in the game. A content or level designer would also be working and building directly in engine. Meanwhile a paper designer might be less involved, only jumping in when engineers come across a problem and the design needs changing."
+    },
+    {
+      "id": "60d3778b-551b-4644-b7ba-b446a6e05925",
+      "type": "subsubheader",
+      "html": "Balancing and QA",
+      "anchorId": "balancing-and-qa"
+    },
+    {
+      "id": "f787ed82-e247-46a1-a66e-ce051d1c2477",
+      "type": "paragraph",
+      "html": "Once the feature is done, the team needs to make sure that it is good enough to release."
+    },
+    {
+      "id": "e02249f7-5f09-4ba3-9340-53976a07cc1a",
+      "type": "paragraph",
+      "html": "The QA team check the feature to make sure it matches the design document. If there are any design issues, they raise them with the design team."
+    },
+    {
+      "id": "2e314788-70b4-45e1-800e-80f0f481b72d",
+      "type": "subsubheader",
+      "html": "Release!",
+      "anchorId": "release"
+    },
+    {
+      "id": "f49f0892-bd22-40ed-b8b1-3edf325ad8f2",
+      "type": "paragraph",
+      "html": "The game is updated with the new feature and the process starts all over again!"
+    }
+  ]
+}

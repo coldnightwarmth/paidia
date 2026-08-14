@@ -1,0 +1,134 @@
+{
+  "id": "8348468d-1d1a-4768-9ad6-0b5887f41121",
+  "slug": "quests",
+  "title": "Quests",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/8348468d1d1a47689ad60b5887f41121",
+  "createdTime": 1651974254229,
+  "lastEditedTime": 1681314144206,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Quests",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-cb6084e149e2.webp",
+  "blocks": [
+    {
+      "id": "3a4da89e-a619-4e77-8e61-c56d19ae2eae",
+      "type": "divider"
+    },
+    {
+      "id": "6d823744-1073-4e28-9500-26d6132002af",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "24d0ae28-3a05-48bd-b651-c0276a16f81f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "63da896d-6fce-43fd-b1c3-644069d2f1a7",
+          "type": "column",
+          "children": [
+            {
+              "id": "93a2c89e-10d8-4497-af45-d14ba097a25d",
+              "type": "paragraph",
+              "html": "<em><strong>Quests: Design, Theory, and History in Games &amp; Narratives</strong></em> was written by Jeff Howard, published by A K Peters/CRC Press, January 24, 2008."
+            },
+            {
+              "id": "b7a638e1-9d09-4b1b-98b7-a66ccfb6684b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "845d3a4c-6d9b-4859-a473-8c782b57643b",
+              "type": "quote",
+              "html": "<em>This unique take on quests, incorporating literary and digital theory, provides an excellent resource for game developers. Focused on both the theory and practice of the four main aspects of quests (spaces, objects, actors, and challenges) each theoretical section is followed by a practical section that contains exercises using the</em> Neverwinter Nights<em> Aurora Toolset. Howard has created a Syllabus, designed for a college-level course, that instructors can use and modify as desired.</em>"
+            }
+          ]
+        },
+        {
+          "id": "02fe0887-9e25-49ee-adbb-c8bd8641a7fe",
+          "type": "column",
+          "children": [
+            {
+              "id": "6e53434f-02f3-4408-b82e-ca8f93764345",
+              "type": "image",
+              "src": "./assets/images/untitled-cb6084e149e2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "61527caf-1534-4496-a3e0-ea662df51874",
+      "type": "divider"
+    },
+    {
+      "id": "8804b696-2765-4108-b56b-cc01c5fe9f1e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ff3bbeba-56e4-4675-85aa-50f9fee95d89",
+          "type": "column",
+          "children": [
+            {
+              "id": "1b222904-a787-4f5d-838b-e7dc1c558642",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "70778329-f667-4233-9436-22baa1cab528",
+          "type": "column",
+          "children": [
+            {
+              "id": "0eec8397-a087-4cba-8c2d-c764f2cb72b5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3w5i4z4\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d588ee2e-cea2-43fc-8f71-a713646f240a",
+      "type": "divider"
+    },
+    {
+      "id": "3835cd30-6561-4f12-9b22-047ddfac64d1",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "15c92e82-1eb9-4813-a60f-1242f5f7e4ec",
+  "slug": "the-sports-and-pastimes-of-the-people-of-england",
+  "title": "The Sports & Pastimes of the People of England",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Sports-Pastimes-of-the-People-of-England-15c92e821eb94813a60f1242f5f7e4ec?pvs=21",
+  "createdTime": 1657230218643,
+  "lastEditedTime": 1681313977030,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Sports & Pastimes of the People of England",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9df0d88e18d3.webp",
+  "blocks": [
+    {
+      "id": "1ffb6361-a8b8-4610-a9b1-e4777a0127df",
+      "type": "divider"
+    },
+    {
+      "id": "74195ba3-58d3-49e4-b311-3f643b3a59b3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2b10b0b0-22f9-4390-8ae6-1ead376fa00f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d84b614a-9610-4c4e-bd52-19ae99d29d05",
+          "type": "column",
+          "children": [
+            {
+              "id": "362a5044-550a-4d5a-a811-2842dee8c424",
+              "type": "paragraph",
+              "html": "<em><strong>The Sports &amp; Pastimes of the People of England</strong></em> was written by Joseph Strutt, originally published in 1801."
+            },
+            {
+              "id": "59185cc8-d590-43e0-8c1a-b69655d02bac",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ba5f7e17-b139-4612-9269-7c270732ecdc",
+              "type": "quote",
+              "html": "<em>Joseph Strutt wrote this fantastic book that compiles and describes in detail all kind of sports, games and pastimes practised by adults and children in England during the 18th century. A must read to understand English society as we know it today.</em>"
+            },
+            {
+              "id": "3335d5c2-959d-4159-8507-8b96cc63e8b3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "428c9cda-0923-496f-a948-86aece7aed33",
+          "type": "column",
+          "children": [
+            {
+              "id": "49167162-c477-408e-968b-f6ca68561c58",
+              "type": "image",
+              "src": "./assets/images/untitled-9df0d88e18d3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dd514142-f7c6-4d3f-acfe-692df05de9eb",
+      "type": "divider"
+    },
+    {
+      "id": "2ee97439-4482-4c7f-8c94-aa4565cdcc21",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6bf731c6-b765-4e0f-8af5-7031fb0a4c22",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd30c828-1d8b-46da-a194-0627e691b8f5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4a3a397b-8417-4a07-8345-2339b87878f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "073ec712-09de-4edb-8d5d-78d61b8c39f0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3P24AL8\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "586a129f-3845-4c79-a21e-ce73240842b8",
+      "type": "divider"
+    }
+  ]
+}

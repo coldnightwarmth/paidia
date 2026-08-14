@@ -1,0 +1,131 @@
+{
+  "id": "341d94a1-98e8-4f69-a33e-ae4fe2d334cb",
+  "slug": "automata-spb",
+  "title": "Automata [SPB]",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Automata-SPB-341d94a198e84f69a33eae4fe2d334cb?pvs=21",
+  "createdTime": 1658276654340,
+  "lastEditedTime": 1681310985092,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Automata [SPB]",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2c20ccd0d689.webp",
+  "blocks": [
+    {
+      "id": "a91d2032-17a5-422e-a1c9-7c463b572561",
+      "type": "divider"
+    },
+    {
+      "id": "02e31e7a-32d9-49d9-982e-b5f218cb75a5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "184899c8-275c-4ee4-a6f5-633e455d37b3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9b97f8c4-af62-4197-9eb7-41997f68afe0",
+          "type": "column",
+          "children": [
+            {
+              "id": "9f72388c-b309-4c4e-bdc0-1b0549db8419",
+              "type": "paragraph",
+              "html": "<em><strong>Automata: The Golden Age, 1848-1914</strong></em><strong> </strong>was written by Christian Bailly, published by Sotheby Parke Bernet Pubns, March 1, 1988."
+            },
+            {
+              "id": "616ce91b-d64e-4c2a-b219-77d297b000a0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "100fe8ac-d44a-4d36-8b31-b7e17f6314f8",
+              "type": "quote",
+              "html": "<em>The automaton is the playful collaboration of the artist and the artisan, with sculpture, painting, music, costume, and mechanics all playing a part in its creation. In </em>Automata: The Golden Age<em>, Christian Bailly opens with a depiction of mid-19th-century Paris, where French automaton-makers lived and worked. There follow the little-known histories of the seven leading makers, from their establishment mid-century to the decline of production after the First World War. Here, for the first time, names, dates, and chronologies are accurately established to present a reference of inestimable value. In addition, more than 150 automata are photographed in color, with many more depicted in facsimile pages from vintage catalogs.</em>"
+            },
+            {
+              "id": "bc7cf5d9-4bd5-46ef-8ab0-8795d5c51084",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2d7ec510-fcfd-4699-bfec-d16204e3ed41",
+          "type": "column",
+          "children": [
+            {
+              "id": "f053a6c0-39f0-4c52-be87-4ad0241f4b59",
+              "type": "image",
+              "src": "./assets/images/untitled-2c20ccd0d689.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5bf68de1-177e-4b47-bc97-fe965907f290",
+      "type": "divider"
+    },
+    {
+      "id": "3eeb7dee-2ba2-4331-91d4-78cfa6c0b0e9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c414d620-5597-4f2f-bf59-c021ab611586",
+          "type": "column",
+          "children": [
+            {
+              "id": "e50620f1-9349-463e-8559-312f7ab94e60",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "eafa0d17-d03c-4a6d-a6d5-fa0489b7e97b",
+          "type": "column",
+          "children": [
+            {
+              "id": "935a5402-2e9b-4659-9433-dd60890f3714",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Omrjk6\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9e77d55-8884-451f-8fcc-fe0957fdba67",
+      "type": "divider"
+    }
+  ]
+}

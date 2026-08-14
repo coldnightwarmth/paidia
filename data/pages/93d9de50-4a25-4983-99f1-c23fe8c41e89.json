@@ -1,0 +1,131 @@
+{
+  "id": "93d9de50-4a25-4983-99f1-c23fe8c41e89",
+  "slug": "videogames-and-education",
+  "title": "Videogames & Education",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/93d9de504a25498399f1c23fe8c41e89",
+  "createdTime": 1673371013258,
+  "lastEditedTime": 1681312097576,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Videogames & Education",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e8d46beaf37b.webp",
+  "blocks": [
+    {
+      "id": "cbad53af-4680-4e98-89e8-3dd620af3173",
+      "type": "divider"
+    },
+    {
+      "id": "5817e7bc-9fe1-4611-8eff-99cdcee3e900",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "250dcbf0-ad14-491c-8790-4b661d5bc001",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0c4f4a56-0853-457d-9b6b-2b69012d0145",
+          "type": "column",
+          "children": [
+            {
+              "id": "bbefb646-4dc1-497d-8f43-4f1c509ab0c0",
+              "type": "paragraph",
+              "html": "<em><strong>Videogames &amp; Education</strong></em><strong> </strong>was written by Harry J. Brown, published by Routledge, September 1, 2008."
+            },
+            {
+              "id": "32157ae0-d135-4ac3-b36c-a6a6cdd2b922",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8b0a61a7-b1d3-4e2e-bced-c4bc4c8c50ff",
+              "type": "quote",
+              "html": "<em>Video games challenge our notions of identity, creativity, and moral value, and provide a powerful new avenue for teaching and learning. This book is a rich and provocative guide to the role of interactive media in cultural learning. It searches for specific ways to interpret video games in the context of human experience and in the field of humanities research. The author shows how video games have become a powerful form of political, ethical, and religious discourse, and how they have already influenced the way we teach, learn, and create. He discusses the major trends in game design, the public controversies surrounding video games, and the predominant critical positions in game criticism. The book speaks to all educators, scholars, and thinking persons who seek a fuller understanding of this significant and video games cultural phenomenon.</em>"
+            },
+            {
+              "id": "5401c24a-c66d-4f02-aba9-273f03d9388f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "99872405-0793-475e-8bf1-99568539c663",
+          "type": "column",
+          "children": [
+            {
+              "id": "720faf6b-09f9-4659-8b8d-b9dd1a0328b2",
+              "type": "image",
+              "src": "./assets/images/untitled-e8d46beaf37b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab073fed-efe5-4517-9967-7c13852e1755",
+      "type": "divider"
+    },
+    {
+      "id": "c0145fd3-4e0e-445e-8f16-987afff3e957",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9ea3953f-2511-4461-90fb-2ca430f7b5c1",
+          "type": "column",
+          "children": [
+            {
+              "id": "0e81f4a3-a7c4-423b-a293-909dc266da5c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bfde26dd-d0fe-48b5-bcec-e3cbcb2b52e4",
+          "type": "column",
+          "children": [
+            {
+              "id": "0f63ca12-a16c-4f98-bb0e-a90ffe19a37e",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Videogames-Education-History-Humanities-Technology/dp/0765619970\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399e25d5-f618-43eb-854c-b42985efb9b9",
+      "type": "divider"
+    }
+  ]
+}

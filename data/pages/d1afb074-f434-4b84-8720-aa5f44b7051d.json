@@ -1,0 +1,136 @@
+{
+  "id": "d1afb074-f434-4b84-8720-aa5f44b7051d",
+  "slug": "the-westing-game",
+  "title": "The Westing Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Westing-Game-d1afb074f4344b848720aa5f44b7051d?pvs=21",
+  "createdTime": 1666029464937,
+  "lastEditedTime": 1681312868084,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Westing Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-439e3bf6df1c.webp",
+  "blocks": [
+    {
+      "id": "fe50a1ac-ff86-4d72-87f9-2be11760f005",
+      "type": "divider"
+    },
+    {
+      "id": "26d90641-6c97-4de6-b25d-6bcc6e43c0f0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0f639805-63dd-4752-adf7-d434cb8ab83c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "54df0a72-a73c-4e38-86ab-76b1883ab027",
+          "type": "column",
+          "children": [
+            {
+              "id": "e1e7321b-21bb-4150-b264-ed81fe365fd2",
+              "type": "paragraph",
+              "html": "<em><strong>The Westing Game </strong></em>was written by Ellen Raskin, published by E. P. Dutton in 1978."
+            },
+            {
+              "id": "ae48abc4-d36e-46c5-a6a5-91b063ffcba3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d553026d-8a73-4ca7-9783-7578077568a6",
+              "type": "quote",
+              "html": "<em>A bizarre chain of events begins when sixteen unlikely people gather for the reading of Samuel W. Westing’s will. And though no one knows why the eccentric, game-loving millionaire has chosen a virtual stranger—and a possible murderer—to inherit his vast fortune, on things for sure: Sam Westing may be dead…but that won’t stop him from playing one last game!</em>"
+            },
+            {
+              "id": "8802ea9b-7cdd-4d84-acc7-a6b46d29a513",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5d0b4715-e272-4f43-b616-ece054e2ed12",
+          "type": "column",
+          "children": [
+            {
+              "id": "05b9222f-8f71-425f-b0ee-228a7434a7b2",
+              "type": "image",
+              "src": "./assets/images/untitled-439e3bf6df1c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e97a1d59-a64c-4c6e-bac4-eee7e9c63a9b",
+      "type": "divider"
+    },
+    {
+      "id": "c6acea21-72aa-4393-8b75-9a30634676e6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a6762da3-192e-4d1a-8bda-affb5080c27b",
+          "type": "column",
+          "children": [
+            {
+              "id": "d01b175e-3854-4099-9f01-29bcb5e7b33a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ff743a89-22cf-4e2b-af66-51c9ca42ed21",
+          "type": "column",
+          "children": [
+            {
+              "id": "de34d78e-c499-404c-8068-abebdec408bd",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3TpoJNm\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c44c023-afef-46c8-9bd2-dfac7907e87e",
+      "type": "divider"
+    },
+    {
+      "id": "550d7935-1a4e-433d-a059-fa55fe52a8d6",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

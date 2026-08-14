@@ -1,0 +1,131 @@
+{
+  "id": "8e305dd9-03d2-49b8-87dd-cf298ad0d690",
+  "slug": "beyond-a-boundary",
+  "title": "Beyond a Boundary",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Beyond-a-Boundary-8e305dd903d249b887ddcf298ad0d690?pvs=21",
+  "createdTime": 1651868407091,
+  "lastEditedTime": 1681311167486,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Beyond a Boundary",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81-qdl5jlql-efca3bb19823.webp",
+  "blocks": [
+    {
+      "id": "d853c5bf-c8d7-42ce-8f50-8a82c9d7a5db",
+      "type": "divider"
+    },
+    {
+      "id": "532194c7-2f2f-4436-9cad-c572ffdb1f5a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3c3e454a-bef6-4d0f-b0ed-4bbf7db430c8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ed9cefd4-dca6-40d2-9eda-7a05cd419483",
+          "type": "column",
+          "children": [
+            {
+              "id": "45f5ea9d-8088-4031-a0db-eccf83c2632b",
+              "type": "paragraph",
+              "html": "<em><strong>Beyond a Boundary</strong></em> was written by C.L.R. James, originally published in 1963."
+            },
+            {
+              "id": "0e7d7491-1c21-499a-9951-fc56aa529411",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a63297ad-acbf-4999-992e-f7f9eae88c8d",
+              "type": "quote",
+              "html": "Beyond a Boundary<em> is arguably the best book on cricket ever written. Originally published in England in 1963 and in the United States twenty years later, this is the first Caribbean edition of CLR James s classic memoir cum social and political commentary. In a new introduction, Hilary Beckles reflects on the enduring legacy of James’ classic work in which the game of cricket is used as metaphor and allegory for West Indian life. Both a site of colonial oppression as well as a space for rebellion, the cricket pitch was the arena where the struggle for democracy was played out.</em>"
+            },
+            {
+              "id": "d530bdf0-8a3e-44d6-86eb-a5afedb531ae",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "1e88deee-8a65-4e09-ae3d-afd368888acf",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf93cc2b-9177-48da-8011-f91cf745b8bb",
+              "type": "image",
+              "src": "./assets/images/81-qdl5jlql-efca3bb19823.webp",
+              "caption": "",
+              "alt": "81-QDl5JLqL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6dec5a14-19a7-4c77-aa2a-51bdf302ff70",
+      "type": "divider"
+    },
+    {
+      "id": "c852f7c4-a1da-43a0-b91a-c0f9faa8a822",
+      "type": "columns",
+      "children": [
+        {
+          "id": "868d2ced-c274-428b-a5df-6afd61edf0b0",
+          "type": "column",
+          "children": [
+            {
+              "id": "9cd9b9db-82da-43dc-97b7-44af1ad63c4f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ed3cdad5-6fcb-4cd0-bfcb-3e5bd0c4fd50",
+          "type": "column",
+          "children": [
+            {
+              "id": "2cf8b0b5-6bbc-449a-98e5-3d6cee8ecf3c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bsUx3m\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fdfaa5a1-7bc4-4755-93ff-ec50a776c90b",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "9afee6f7-7ca8-4888-bf45-a9fbf3f1ce07",
+  "slug": "making-games",
+  "title": "Making Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "bf0fc28b-8783-4d50-a66c-1c7d7c3ddb6d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Making-Games-9afee6f77ca84888bf45a9fbf3f1ce07?pvs=21",
+  "createdTime": 1651770955116,
+  "lastEditedTime": 1681313320878,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Making Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4edb1e73deb1.webp",
+  "blocks": [
+    {
+      "id": "f10de351-eb86-45e6-a8a4-db297485a437",
+      "type": "divider"
+    },
+    {
+      "id": "5e5c940d-b275-42ff-969e-0310b7fde958",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "561f45e1-8646-4214-a346-9c1c791285bc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "022558c4-50cc-4fec-8e3d-8ffb9c8dc8e2",
+          "type": "column",
+          "children": [
+            {
+              "id": "6e9a05c8-6b05-4fc1-bba3-a99646ef1998",
+              "type": "paragraph",
+              "html": "<em><strong>Making Games: The Politics &amp; Poetics of Game Creation Tools</strong></em> was written by Stefan Werning, published by The MIT Press, February 16, 2021."
+            },
+            {
+              "id": "e57dd74a-e1e7-4ee2-ada6-52a9e00ae315",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9d066480-36c5-4cc8-823f-f88e0b565ac4",
+              "type": "quote",
+              "html": "<strong><em>An argument that </em></strong><a href=\"#/game-engine\"><strong><em>production tools</em></strong></a><strong><em> shape the aesthetics and political economy of games as an expressive medium.<br></em></strong><em><br>In </em>Making Games<em>, Stefan Werning considers the role of tools (primarily but not exclusively software), their design </em><a href=\"#/affordance\"><em>affordances</em></a><em>, and the role they play as sociotechnical actors. Drawing on a wide variety of case studies, Werning argues that production tools shape the aesthetics and political economy of games as an expressive medium. He frames game-making as a </em><a href=\"#/metagaming\"><em>(meta)game</em></a><em> in itself and shows that tools, like games, have their own &quot;procedural </em><a href=\"#/multimodal-semiotics-and-rhetoric-in-videogames\"><em>rhetoric</em></a><em>&quot; and should not always be conceived simply in terms of optimization and best practices.</em>"
+            }
+          ]
+        },
+        {
+          "id": "c8670ed1-56ae-4dd8-a7bc-9374033a0ca9",
+          "type": "column",
+          "children": [
+            {
+              "id": "1487a0db-498d-49f3-bdbb-886da5530077",
+              "type": "image",
+              "src": "./assets/images/untitled-4edb1e73deb1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2ef5d94-cd5c-4287-b005-fec821c5e3c3",
+      "type": "divider"
+    },
+    {
+      "id": "3d36120b-ab6c-4b14-bf84-82bb601ea045",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dd903dbd-4d60-4418-86cc-a6e4560a1551",
+          "type": "column",
+          "children": [
+            {
+              "id": "e4e04895-3e77-4873-b27a-082906e84962",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "708bdfbb-a5df-4046-b59b-2f7823950e83",
+          "type": "column",
+          "children": [
+            {
+              "id": "103be333-188e-42ab-9a13-f589790a7020",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3gXDbOG\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76f79b97-eefc-41f6-93bc-2d5e8808d11c",
+      "type": "divider"
+    },
+    {
+      "id": "0bd0b700-5c9c-45c6-9374-69e3edc75de4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "72c882a3-6a14-47ee-989b-dbab92bbc7b3",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "62e56f4d-be55-4125-b6b0-6a187cee0145",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

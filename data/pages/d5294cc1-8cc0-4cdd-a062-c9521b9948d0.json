@@ -1,0 +1,131 @@
+{
+  "id": "d5294cc1-8cc0-4cdd-a062-c9521b9948d0",
+  "slug": "the-mathemagician-and-pied-puzzler",
+  "title": "The Mathemagician & Pied Puzzler",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d5294cc18cc04cdda062c9521b9948d0",
+  "createdTime": 1668796673123,
+  "lastEditedTime": 1681312405751,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Mathemagician & Pied Puzzler",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2960a75432b2.webp",
+  "blocks": [
+    {
+      "id": "9d4b6e76-cd32-4214-bb23-dfcabafc737a",
+      "type": "divider"
+    },
+    {
+      "id": "22373a14-d6b7-4a31-8ea4-09ab5f462cc6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d2ebaeaf-e06c-4544-90ee-98b6ec455f43",
+      "type": "columns",
+      "children": [
+        {
+          "id": "01e988b4-6909-49e6-bc0b-5f1fa05d0e6c",
+          "type": "column",
+          "children": [
+            {
+              "id": "8cb92096-2923-4e32-8b3f-c3e93ad4dd3a",
+              "type": "paragraph",
+              "html": "<em><strong>The Mathemagician &amp; Pied Puzzler</strong></em> is a collection of pieces edited by Elwyn R. Berlekamp &amp; Tom Rodgers, published by AK Peters/CRC, March 8, 1999."
+            },
+            {
+              "id": "2c59d359-8ad7-4c38-9898-392c26859d8a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d8190c0a-3068-4653-b447-7f58d31f4443",
+              "type": "quote",
+              "html": "<em>This volume comprises an imaginative collection of pieces created in tribute to </em><a href=\"#/martin-gardner\"><em>Martin Gardner</em></a><em>. Perhaps best known for writing Scientific American's “Mathematical Games” column for years, Gardner used his personal exuberance and fascination with puzzles and magic to entice a wide range of readers into a world of mathematical discovery. This tribute therefore contains pieces as widely varied as Gardner's own interests, ranging from limericks to lengthy treatises, from mathematical journal articles to personal stories. This book makes a charming and unusual addition to any personal library. Selected papers: - The Odyssey of the Figure Eight Puzzle by Stewart Coffin - Block-Packing Jambalaya by Bill Cutler - O'Beirne's Hexiamond by Richard K. Guy - Biblical Ladders by Donald E. Knuth - Three Limericks: On Space, Time and Speed by Tim Rowett.</em>"
+            }
+          ]
+        },
+        {
+          "id": "d2545cec-753a-4c0b-8944-e2bb118a50b8",
+          "type": "column",
+          "children": [
+            {
+              "id": "98e316a4-564b-4f31-b21a-9b34688ffc16",
+              "type": "image",
+              "src": "./assets/images/untitled-2960a75432b2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97bdc067-07f7-444a-9bde-2fe5adc4c4af",
+      "type": "divider"
+    },
+    {
+      "id": "09baedc8-cc7d-4e52-945d-f9622ffc652c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f4799f1c-d340-4acf-84bb-2fd88ecab09a",
+          "type": "column",
+          "children": [
+            {
+              "id": "9dc03407-2641-4d01-9a0f-21a81c3313ab",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0536e0be-571b-4d32-b222-ca112bda7b4a",
+          "type": "column",
+          "children": [
+            {
+              "id": "4e7ca4e7-3cba-4d1d-a85b-0fbbbe9ef0b6",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/exec/obidos/ASIN/156881075X/puzzleworldA/\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26c34e3a-b215-4812-9a2c-08e982941eaf",
+      "type": "divider"
+    },
+    {
+      "id": "7b4e6f26-8bf6-4c1b-aedb-579e28a3379d",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

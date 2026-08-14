@@ -1,0 +1,136 @@
+{
+  "id": "b5df36b8-80bf-426e-b452-7490f21cb9d4",
+  "slug": "digital-games-after-climate-change",
+  "title": "Digital Games After Climate Change",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Digital-Games-After-Climate-Change-b5df36b880bf426eb4527490f21cb9d4?pvs=21",
+  "createdTime": 1657137396166,
+  "lastEditedTime": 1681314311896,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Digital Games After Climate Change",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5c86805e6520.webp",
+  "blocks": [
+    {
+      "id": "a512ea43-d2f1-4203-a162-6d5cdb273416",
+      "type": "divider"
+    },
+    {
+      "id": "fb86327b-cc5c-4c09-b252-78a318ae26b0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8b733a33-2982-40bc-8292-fd6c309aa1c2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "90ab01da-f7a5-42f7-94b8-b6475728c50f",
+          "type": "column",
+          "children": [
+            {
+              "id": "03892d66-9fc8-4808-86b8-e2eb2433de2b",
+              "type": "paragraph",
+              "html": "<em><strong>Digital Games After Climate Change</strong></em> was written by Benjamin J. Abraham, published by Palgrave Macmillan, March 8, 2022."
+            },
+            {
+              "id": "0baa383c-f97a-4ccf-a8a9-b956f7ec923c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "118684c9-caed-498b-9177-9445894e1b41",
+              "type": "quote",
+              "html": "<em>This book presents the first sustained analysis of the digital game industry’s carbon footprint and its role in exacerbating global climate change. Identifying the ways videogames can actually help combat the climate crisis, it argues for the urgency of transitioning to a fully carbon neutral games industry, exploring the challenges and opportunities inherent in this undertaking. Beginning with an analysis of debates around the persuasive power of games, the book argues that real impact can only be achieved by focusing on the material conditions of game production – by reducing greenhouse gas emissions from making, selling, and playing games, as well as the hardware used to play them. Abraham makes a compelling argument that a sustainable games industry is possible, and outlines the actions that everyone can take to reduce the harms that digital games cause to people and planet.</em>"
+            },
+            {
+              "id": "9a9a8750-49fc-48a5-86fb-4fb837a9a698",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "64d9f4fb-013a-4d02-8cff-b2e3f1a58f18",
+          "type": "column",
+          "children": [
+            {
+              "id": "b4a900e7-3154-4d26-8e0e-8db9a2afd4a5",
+              "type": "image",
+              "src": "./assets/images/untitled-5c86805e6520.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e11b90b7-266a-4ed9-8e12-931615423c85",
+      "type": "divider"
+    },
+    {
+      "id": "6dbe9647-f18e-4172-9199-ba92b30f199a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d909a7cd-a220-4281-b9d4-362c64756056",
+          "type": "column",
+          "children": [
+            {
+              "id": "53279767-74a1-4ba4-85e2-555449adf7a8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "850a2de7-d9d3-4a31-8e14-0fe1419f58ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "1ecb2b42-9bc3-453a-b5e9-e65f2adb71ca",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yO9OoE\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33365632-7043-4f2a-b2bf-2c679a899d6a",
+      "type": "divider"
+    },
+    {
+      "id": "157aeeda-d5bd-4bab-bc81-3b1384a3a9a3",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

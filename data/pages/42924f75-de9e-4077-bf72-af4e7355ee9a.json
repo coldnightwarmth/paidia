@@ -1,0 +1,134 @@
+{
+  "id": "42924f75-de9e-4077-bf72-af4e7355ee9a",
+  "slug": "a-game-of-war",
+  "title": "A Game of War",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/42924f75de9e4077bf72af4e7355ee9a",
+  "createdTime": 1652738313920,
+  "lastEditedTime": 1681310221621,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A Game of War",
+        [
+          [
+            "b"
+          ],
+          [
+            "i"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/71qq1rrz-xl-dec993c9b10f.webp",
+  "blocks": [
+    {
+      "id": "8f478c9c-b6b1-42e3-92ce-a9135ba2d44c",
+      "type": "divider"
+    },
+    {
+      "id": "f2210997-77be-41df-b864-65aaeed8f266",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4bc6afeb-5dfb-4e7c-82f1-14a3ca86a5fe",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a7f2de63-abb2-4fcc-b1c9-135b07a4b9cc",
+          "type": "column",
+          "children": [
+            {
+              "id": "8e191bb2-31e4-48ee-820b-b5e048570f03",
+              "type": "paragraph",
+              "html": "<em><strong>A Game of War</strong></em> was written by Guy Debord &amp; Alice Becker-Ho, originally published in 1987."
+            },
+            {
+              "id": "8a316149-9ddc-44e5-b8f8-c033f02fb408",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "460c3a1d-f09a-433e-b7f2-38519ae3cbe5",
+              "type": "quote",
+              "html": "<em>Founder and theorist of the </em><a href=\"#/situationism\"><em>Situationist</em></a><em> International, and author of the massively influential book </em>The Society of the Spectacle<em>, Guy Debord (1931–1994) was also a connoisseur of military </em><a href=\"#/strategy\"><em>strategy</em></a><em>. In his first volume of autobiography, </em>Panegyric<em>, Debord recounted his interest in classical war theory as espoused by the Prussian military theorist, Carl von Clausewitz. Debord devised and wrote the board game and book </em>A Game of War<em> in collaboration with his wife, Alice Becker-Ho, who has assisted with the production of this publication. As he writes in Panegyric: “I have studied the logic of war. Moreover I succeeded, a long time ago, in presenting the basics of its movements on a rather simple board game. I have played this game and, in the often difficult conduct of my life I have utilized lessons from it.” The game became Debord’s obsession in the years before his suicide in 1994.</em>"
+            },
+            {
+              "id": "894c85b8-fd5c-4bfe-b444-6fbc48b78188",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d7591de5-522a-4ea5-afa8-fee29648b4dc",
+          "type": "column",
+          "children": [
+            {
+              "id": "0e8caf1f-ef81-4b6d-a02b-a0bccefc8e78",
+              "type": "image",
+              "src": "./assets/images/71qq1rrz-xl-dec993c9b10f.webp",
+              "caption": "",
+              "alt": "71QQ1RRz-xL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d59390a7-a0e0-478c-aef3-2f851ca1152c",
+      "type": "divider"
+    },
+    {
+      "id": "46bd7b50-7b63-4584-bd3b-d7ad9ccb9535",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a23acee4-8966-49a0-9c30-7db6af16a4ec",
+          "type": "column",
+          "children": [
+            {
+              "id": "9e30bc77-5b32-45d7-808c-84922088d8ef",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "963d4fef-fa83-4b88-b5b8-686fe5c4b78d",
+          "type": "column",
+          "children": [
+            {
+              "id": "7e39e537-e3a8-40c0-aaea-eb03203ed1fb",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Abv3S2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68b72a28-f472-4ce2-8ae3-f512c93a871d",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "59f2b167-ce96-4d14-b2d6-e90b203fdd0b",
+  "slug": "play-and-curriculum",
+  "title": "Play & Curriculum",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "dc1a5b41-989b-4ad9-aea0-7c0116e8c23a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Play-Curriculum-59f2b167ce964d14b2d6e90b203fdd0b?pvs=21",
+  "createdTime": 1652725285430,
+  "lastEditedTime": 1681314083275,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play & Curriculum",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1d61a3302579.webp",
+  "blocks": [
+    {
+      "id": "625ebff7-95aa-45da-917c-4e39839964af",
+      "type": "divider"
+    },
+    {
+      "id": "68990506-c5f5-4e81-afff-261bdb7294e8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "aca3b047-c0e7-4fce-ae37-382827db78cf",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cfaac373-3dfa-4100-aa28-6f9b141af702",
+          "type": "column",
+          "children": [
+            {
+              "id": "2dd5a444-42db-40ca-acf3-24d02ca9d1d9",
+              "type": "paragraph",
+              "html": "<em><strong>Play &amp; Curriculum: Play &amp; Culture Studies </strong></em>is a collection of essays edited by Myae Han &amp; James E. Johnson, published by Hamilton Books, November 1, 2019."
+            },
+            {
+              "id": "9ad8745e-ae6c-47a2-9c51-d9b3b55db936",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9f0e006c-487d-43da-8605-0df84cb94b98",
+              "type": "quote",
+              "html": "<em>Educators have long been pursuing and applying ways that play can be a context and even a medium for teaching and learning. Volume 15 of Play &amp; Culture Studies focuses on the special topic on Play and Curriculum, a long waited topic to many educators and researchers in the field of play and education. This volume includes chapters reporting recent studies and practical ideas examining the relations between the play and curriculum from early education to higher education. The volume has 3 sections with the 9 chapters grouped to represent various voices on play and curriculum: in Culture, in STEM, in Higher Education. The uniqueness of this book is represented by its breadths and depths of diversity from investigating play and curriculum in an indigenous group in Columbia to play in a New York City Public school and from play and curriculum in a Family Child Care context to the uses of play with college students.</em>"
+            },
+            {
+              "id": "817ef975-40d5-48bf-80e7-a10df72a6c37",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8f85670d-b7ff-4abe-9a92-3289101fa212",
+          "type": "column",
+          "children": [
+            {
+              "id": "af5a9d20-5789-4be4-a5ad-cafa6fbe50f3",
+              "type": "image",
+              "src": "./assets/images/untitled-1d61a3302579.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f46b9cfa-de01-45bd-9478-fbb54f1de8c4",
+      "type": "divider"
+    },
+    {
+      "id": "e4acc7fd-d118-4f03-a34a-1afa36115e08",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f72fa919-47fe-4211-8270-e6e6c8335c8f",
+          "type": "column",
+          "children": [
+            {
+              "id": "c9c3fecb-ad6a-487e-b582-16a79236d989",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "820a7c1a-cb4b-47d6-80c0-e59c9f44c24a",
+          "type": "column",
+          "children": [
+            {
+              "id": "cde57882-66a0-45cf-9709-1332fdcac776",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NofLfK\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa84d5f3-1d81-4bbd-b988-9ea33607fb90",
+      "type": "divider"
+    },
+    {
+      "id": "775679df-7444-42cb-a4f2-397f273f43fe",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "id": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+  "name": "Add-Ons & Plugins",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "4fcb10b5-317a-4cec-8112-3a306edc4e5a",
+          "value": "Photoshop",
+          "color": "brown"
+        },
+        {
+          "id": "7393afbd-debd-4e5c-b403-2a3533096359",
+          "value": "Illustrator",
+          "color": "yellow"
+        },
+        {
+          "id": "ddff8651-ba6a-4292-b0ef-03ad77972dd8",
+          "value": "XD",
+          "color": "green"
+        },
+        {
+          "id": "26aec087-6f34-492a-8c29-5d481f7c2f38",
+          "value": "Sketch",
+          "color": "pink"
+        },
+        {
+          "id": "9cdce7b8-e509-468d-96e8-2d1babe1d18d",
+          "value": "After Effects",
+          "color": "orange"
+        },
+        {
+          "id": "67368c08-70be-4468-96ce-0c280464f177",
+          "value": "Figma",
+          "color": "purple"
+        },
+        {
+          "id": "89c7058f-9057-4f1e-b6fc-7e3ff59c4c7c",
+          "value": "Free",
+          "color": "gray"
+        },
+        {
+          "id": "2d4df465-2dde-4437-a5fb-cae33c1bd7d7",
+          "value": "Premium",
+          "color": "red"
+        },
+        {
+          "id": "c622ece6-a2d3-43b0-8fc1-b00874cbacd1",
+          "value": "Unity",
+          "color": "blue"
+        },
+        {
+          "id": "85c95fa0-3afe-4b96-8606-b6ffdeec9f31",
+          "value": "Unreal Engine",
+          "color": "green"
+        },
+        {
+          "id": "fa800a42-73bb-4e8a-a642-f12b309e0f03",
+          "value": "Browser",
+          "color": "orange"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "ad7034a3-cca5-490f-af51-6411653ea03e",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "5afb921e-cc3a-4ef5-8392-0c4cd15dbd0b",
+        "b7e7a7d8-681b-4da8-bcf8-1f65e1005d9c",
+        "be48b7fe-f5c4-4ad5-ab9e-8201889bee9e",
+        "49b9b184-6a4f-4a7c-843c-3f6948d79d8c",
+        "5324abf3-c7b7-48ef-8fe9-72228f40adae",
+        "a2268819-c054-45e9-97ea-477dd0e665f0",
+        "dbdac1c4-0f70-4078-bd4f-9cbd3061a6e1",
+        "cb49db15-b3df-4795-b645-87174a379568",
+        "92b92bf6-3888-4404-aeda-e0891b65af8b",
+        "05ccf3b7-d0cd-430a-a1fe-38917677538a",
+        "12c542f6-f559-478b-b74e-ed4e98f9f754",
+        "72febc8f-2bb3-4428-9253-a81baf3b3628",
+        "26cad06d-49a6-4fdd-9b04-79057ac929d0",
+        "d72e0e1c-32e1-4983-bc3d-1a3b881f1734",
+        "d2255ca0-f949-4b73-8a66-1a5a850cc866",
+        "6bf0e22c-cdbe-405b-b8eb-9ecb87e31eea",
+        "89f79587-6ede-4e42-953c-41bb9e32134a",
+        "328b14a9-acbe-4964-8585-bb6d5d304882",
+        "054ed884-d769-4624-b900-caf43967d078",
+        "ce941d68-8ed4-4231-baf0-1235a9beed2c",
+        "97f9cd03-06df-4367-8f29-bc26bfe096d1",
+        "b6b3dfac-4267-4c13-a899-80a2600c525a",
+        "e04fe7ff-5dcf-4856-83de-d66d3cd8ee1d",
+        "4f2fc10b-7a29-40f2-8b0a-ae409486aef0",
+        "e9e473d1-2643-4bc4-92be-5997cc1ef59d",
+        "210dfd7b-86f1-4383-850d-dc9a944dad12",
+        "175a9c37-2bff-45f2-aa1e-17231da80dcb",
+        "76d70467-6acd-4598-82ea-ed53644584b8"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "993d3a57-8235-4cb4-ae10-6c289fb1d1ef",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "Free",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "9b121e2d-ce12-4966-b690-cc225c3b40a1",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "Premium",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "91505542-e7f1-4a11-a406-0f8c86f9512a",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "Photoshop",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "ee798eca-52ae-4961-9e6d-9403dab0686e",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "Illustrator",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "59564c02-3ed0-4d7a-afbf-f1103a1eabbc",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "XD",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "c5ed4dbb-017b-449e-aedc-4462c9930444",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "Sketch",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "2d8bcfc9-a0f3-413d-b9f7-00807c4f02ed",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "After Effects",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "c194429b-eb64-4fcc-aa10-b8e041e478e5",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "Figma",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "7a8fa0a0-3972-4f37-be05-3a93987b50c1",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "Unity",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "f7fdc2c1-19e3-49e4-82db-1f9a1f6391c9",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "Unreal Engine",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "contain"
+    },
+    {
+      "id": "f0d6f949-b629-47d5-b1b4-9ac51bbbf1a6",
+      "collectionId": "f2961e53-c76b-4144-8089-c8b4dfe2b1a3",
+      "type": "gallery",
+      "name": "Browser",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [
+        {
+          "id": "1c251d16-fa68-4229-8991-9bdd5d45ca22",
+          "property": "mob|",
+          "operator": "enum_contains",
+          "value": "Browser"
+        }
+      ],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

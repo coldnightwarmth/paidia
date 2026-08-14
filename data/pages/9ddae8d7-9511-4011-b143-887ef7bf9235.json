@@ -1,0 +1,126 @@
+{
+  "id": "9ddae8d7-9511-4011-b143-887ef7bf9235",
+  "slug": "revolutionaries-at-sony",
+  "title": "Revolutionaries at Sony",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/9ddae8d795114011b143887ef7bf9235",
+  "createdTime": 1653079736672,
+  "lastEditedTime": 1681314021844,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Revolutionaries at Sony",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fa176126df11.webp",
+  "blocks": [
+    {
+      "id": "e6d2f400-1864-4ae6-b25b-53884ba8b588",
+      "type": "divider"
+    },
+    {
+      "id": "a384971a-c4b0-4703-abcf-a4732e857dc5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b8e41381-b0be-4aa8-a615-93b18ff349d5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4a0e2c84-4d5a-41ac-a7a9-3fd6c62b2148",
+          "type": "column",
+          "children": [
+            {
+              "id": "838e85d9-3db3-4325-9bb7-10887f5d2e75",
+              "type": "paragraph",
+              "html": "<em><strong>Revolutionaries at Sony: The Making of the Sony Playstation &amp; the Visionaries Who Conquered the World of Video Games</strong></em> was written by Reiji Asakura, published by McGraw-Hill, April 30, 2000."
+            },
+            {
+              "id": "606277be-eb84-40f2-ac10-d6be91cc1b68",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "38c7414f-dddb-49ec-ba0e-c903fc339c22",
+              "type": "quote",
+              "html": "<strong><em>&quot;I wanted to prove that even regular company employeesno, especially regular company employeescould build a venture of this scale with superb technology, superb concepts, and superb colleagues.&quot; -Ken Kutaragi, ‘The Father of the Sony PlayStation’</em></strong><em><br></em><br><em>Here, for the first time ever, is the authorized story of Ken Kutaragi, the vice president of Sony Computer Entertainment whose successful campaign to dominate the gaming industry with 1994's PlayStation has become the stuff of modern business and technological legend.<br><br>A priceless analysis of technical, marketing, and over-all business strategies and a riveting saga of ambition, determination, and extraordinary vision, Revolutionaries at Sony is a rare and enthralling true-life account that reads like a work of masterful suspense fiction.</em>"
+            }
+          ]
+        },
+        {
+          "id": "f963169d-b58e-4ea7-be45-0ab4b94e0b73",
+          "type": "column",
+          "children": [
+            {
+              "id": "87656ece-a995-4207-b9dd-e2d9d0b63dfb",
+              "type": "image",
+              "src": "./assets/images/untitled-fa176126df11.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6e7ebf2d-ad6f-49b9-b62a-55ee58490dd4",
+      "type": "divider"
+    },
+    {
+      "id": "8dcf3e7e-d64f-4c48-a98c-34bf79a6dc7a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e059ef7a-6cc4-4be8-8593-4ac013115ffc",
+          "type": "column",
+          "children": [
+            {
+              "id": "64c99c25-38cc-4cc0-ad7b-0a77ba201d21",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7c05d0ca-e2e5-4d0d-bb68-3a278de85a42",
+          "type": "column",
+          "children": [
+            {
+              "id": "30892cd6-902b-403b-8bc0-bc79acf6db77",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DrqmDE\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d9cc1da-1b9c-441f-b214-8263dcf83244",
+      "type": "divider"
+    }
+  ]
+}

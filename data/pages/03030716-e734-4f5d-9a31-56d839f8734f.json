@@ -1,0 +1,136 @@
+{
+  "id": "03030716-e734-4f5d-9a31-56d839f8734f",
+  "slug": "silent-hill",
+  "title": "Silent Hill",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "19047757-e48b-472e-b41b-acb5119065f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Silent-Hill-03030716e7344f5d9a3156d839f8734f?pvs=21",
+  "createdTime": 1653072770439,
+  "lastEditedTime": 1681313946082,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Silent Hill",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-931f9dbb9661.webp",
+  "blocks": [
+    {
+      "id": "78c77b08-7099-469c-817f-eb9fe21cfd33",
+      "type": "divider"
+    },
+    {
+      "id": "0f5b50f3-9af7-4bec-95d9-26b45bf61357",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "23e6bc0a-f465-47c5-8466-1e5cf25e7c6a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cdbf4112-d765-40fa-b675-08ada5ea86fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "3b987265-f9f3-4894-af8b-16a96e4b16a9",
+              "type": "paragraph",
+              "html": "<em><strong>Silent Hill: The Terror Engine</strong></em> was written by Bernard Perron, published by U OF M DIGT CULT BOOKS, January 3, 2012."
+            },
+            {
+              "id": "d67567dd-c7af-4bef-9c15-9534bfd34e24",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2b287f37-2e56-47a6-9b60-048093ef7d15",
+              "type": "quote",
+              "html": "Silent Hill: The Terror Engine<em>, the second of the two inaugural studies in the Landmark Video Games series from series editors Mark J. P. Wolf and Bernard Perron, is both a close analysis of the first three </em>Silent Hill <em>games and a general look at the whole series. </em>Silent Hill<em>, with its first title released in 1999, is one of the most influential of the horror video game series. Perron situates the games within the survival horror genre, both by looking at the history of the genre and by comparing </em>Silent Hill<em> with such important forerunners as </em>Alone in the Dark<em> and </em>Resident Evil<em>. Taking a transmedia approach and underlining the designer's cinematic and literary influences, he uses the narrative structure; the techniques of imagery, sound, and music employed; the game mechanics; and the fiction, artifact, and gameplay emotions elicited by the games to explore the specific fears survival horror games are designed to provoke and how the experience as a whole has made the </em>Silent Hill <em>series one of the major landmarks of video game history.</em>"
+            },
+            {
+              "id": "a5d46258-2573-4d7f-9d63-85b1043c0da0",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d42e6390-83be-401f-8cc6-73c363278b09",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b1d1d8d-6ffb-4c57-8ddc-88f61738b732",
+              "type": "image",
+              "src": "./assets/images/untitled-931f9dbb9661.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46ab35e5-caac-40e5-be64-69749a3173ce",
+      "type": "divider"
+    },
+    {
+      "id": "ca133870-2f25-4c51-a6e3-87c191121a77",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3dbc4634-2584-48f5-99c7-f199e5fce58e",
+          "type": "column",
+          "children": [
+            {
+              "id": "778cd705-f864-4406-9c5d-78228845592e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c271d38d-0949-4953-b604-ef052ec8ca7d",
+          "type": "column",
+          "children": [
+            {
+              "id": "1900f779-3c45-4b48-905e-3fe856d6d9b7",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DQgFjF\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abdfd857-3029-4b87-a4d5-4acef7a9baf8",
+      "type": "divider"
+    },
+    {
+      "id": "e863c677-4725-4c38-b6de-d848d63ed6dd",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

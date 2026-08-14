@@ -1,0 +1,131 @@
+{
+  "id": "7797de3f-ea6b-4df8-a795-f8a85716b54f",
+  "slug": "service-games",
+  "title": "Service Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Service-Games-7797de3fea6b4df8a795f8a85716b54f?pvs=21",
+  "createdTime": 1653075653806,
+  "lastEditedTime": 1681314008777,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Service Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-682b1691a049.webp",
+  "blocks": [
+    {
+      "id": "79c91fad-023c-4882-ab7a-d06fb4ebc621",
+      "type": "divider"
+    },
+    {
+      "id": "add7cb63-eed6-442a-90dc-fa317ed75e48",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "101aabd0-4cc6-45c6-8f89-00857ece57f6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e4c26b34-c831-4b83-9aec-816ffc6faf6a",
+          "type": "column",
+          "children": [
+            {
+              "id": "e923ff56-6e87-4363-971f-2e14ae3af55c",
+              "type": "paragraph",
+              "html": "<em><strong>Service Games: The Rise &amp; Fall of SEGA</strong></em> was written by Sam Pettus, self-published through CreateSpace, December 18, 2013."
+            },
+            {
+              "id": "5c9a808d-0490-48ad-b87d-83779c3588e2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7af0da80-cc57-4c06-ab76-2a0ed9430e11",
+              "type": "quote",
+              "html": "<em>Starting with its humble beginnings in the 1950's and ending with its swan-song, the Dreamcast, in the early 2000’s, this is the complete history of Sega as a console maker. Before home computers and video game consoles, before the internet and social networking, and before motion controls and smartphones, there was Sega. Destined to fade into obscurity over time, Sega would help revolutionize and change video games, computers and how we interact with them, and the internet as we know it. Riding the cutting edge of technology at every step, only to rise too close to the sun and plummet, Sega would eventually change the face of entertainment, but it’s the story of how it got there that’s all the fun. So take a ride, experience history, and enjoy learning about one of the greatest and most influential companies of all time. Complete with system specifications, feature and marketing descriptions, unusual factoids, almost 300 images, and now enhanced Europe specific details, exclusive interviews, and more make this the definitive history of Sega available.</em>"
+            }
+          ]
+        },
+        {
+          "id": "91f171bc-4018-488d-8a3c-7118e24a5171",
+          "type": "column",
+          "children": [
+            {
+              "id": "1a4e1664-168a-4f0b-9b74-edae4478346e",
+              "type": "image",
+              "src": "./assets/images/untitled-682b1691a049.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2be45f67-d3c5-47d7-a877-ef9656046fee",
+      "type": "divider"
+    },
+    {
+      "id": "3b61c8d9-1349-4579-aea2-24161c8ba90b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d9433114-599e-4e46-9b78-d722f9ad9506",
+          "type": "column",
+          "children": [
+            {
+              "id": "87e85edc-5474-48c2-8fe9-042c5442df93",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5680d5e9-e0e6-477f-a220-19831382b337",
+          "type": "column",
+          "children": [
+            {
+              "id": "bcf64757-0dad-4b0f-b3fa-6bfd7455247e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3U9lpGz\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6f71b1ac-0553-427c-b498-e52f64e0cb14",
+      "type": "divider"
+    },
+    {
+      "id": "9d9137e1-4dd3-40c4-9b62-1ccec34e013e",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

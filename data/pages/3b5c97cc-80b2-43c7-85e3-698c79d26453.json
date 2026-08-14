@@ -1,0 +1,126 @@
+{
+  "id": "3b5c97cc-80b2-43c7-85e3-698c79d26453",
+  "slug": "toward-a-gameic-world",
+  "title": "Toward a Gameic World",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Toward-a-Gameic-World-3b5c97cc80b243c785e3698c79d26453?pvs=21",
+  "createdTime": 1673291550894,
+  "lastEditedTime": 1681312173297,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Toward a Gameic World",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d2c68891c538.webp",
+  "blocks": [
+    {
+      "id": "4515ae48-a60d-47bc-81dd-d588f1931597",
+      "type": "divider"
+    },
+    {
+      "id": "021eb797-cfc7-4f64-afd4-5406464a3432",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8dda4b65-6553-4b6e-906a-6e28f2b00d5f",
+          "type": "column",
+          "children": [
+            {
+              "id": "04609403-8a28-41bc-8f70-9b0878fe5d9d",
+              "type": "paragraph",
+              "html": "<em><strong>Toward a Gameic World: New Rules of Engagement from Japanese Video Games</strong></em><em> </em>was written by Ben Whaley, published by University of Michigan Press, May 3, 2023."
+            },
+            {
+              "id": "c209e7f5-229d-4630-91da-d8c68acf57a8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c6d4a8de-e317-4951-8eee-31236b890e65",
+              "type": "quote",
+              "html": "Toward a Gameic World <em>bridges the gap between Japanese popular culture studies and game studies by encouraging a dialogue centered around Japanese-designed video games and social issues. It examines four contemporary Japanese video games in terms of how they engage with some of Japan’s biggest social and personal issues, including traumas: natural disasters (</em>Disaster Report<em>), a declining birthrate and aging population (</em>Catherine<em>), nuclear proliferation (</em>Metal Gear Solid V<em>); and youth social withdrawal (</em>The World Ends with You<em>). This book asks what some of the positive benefits are of working through a site of trauma from within a video game, and how games might teach us about Japanese culture and society through new kinds of interactive narratives, different from literature and film. The book proposes four new strategies of engagement with video games to explore the productive tensions that emerge at the boundaries of virtual reality, augmented reality, and gamification in contemporary Japan.</em>"
+            },
+            {
+              "id": "7ab6cf6e-09a0-4db4-a29f-9545280ade29",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "80c5eae1-95fc-4abd-be89-d5319d8ce834",
+          "type": "column",
+          "children": [
+            {
+              "id": "d2c116c9-d78b-4940-9760-77d13c385d74",
+              "type": "image",
+              "src": "./assets/images/untitled-d2c68891c538.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4194d0e8-ada7-4187-8b28-7c4237b73b87",
+      "type": "divider"
+    },
+    {
+      "id": "e831b41f-61d5-4f67-bc29-dd8b4bab54a7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f5dc4249-5c4e-421e-b135-6dcf684becf9",
+          "type": "column",
+          "children": [
+            {
+              "id": "6abbf19e-8e11-4b53-a8b4-0e562b5fb218",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fd513d66-fd0e-42f2-ad51-68175eabbeb1",
+          "type": "column",
+          "children": [
+            {
+              "id": "93c74110-6451-4fb5-9bf7-e4d596a79bc4",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/-/es/Ben-Whaley/dp/0472076140?language=en_US\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4b388b2-540f-4ddb-9846-e6fc45d036e9",
+      "type": "divider"
+    }
+  ]
+}

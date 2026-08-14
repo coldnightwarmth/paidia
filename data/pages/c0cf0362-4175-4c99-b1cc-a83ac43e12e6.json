@@ -1,0 +1,131 @@
+{
+  "id": "c0cf0362-4175-4c99-b1cc-a83ac43e12e6",
+  "slug": "nostalgia-and-videogame-music",
+  "title": "Nostalgia & Videogame Music",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Nostalgia-Videogame-Music-c0cf036241754c99b1cca83ac43e12e6?pvs=21",
+  "createdTime": 1651703262072,
+  "lastEditedTime": 1681314215837,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Nostalgia & Videogame Music",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-69db53d650f9.webp",
+  "blocks": [
+    {
+      "id": "85274444-cbe3-4902-8ed9-95486878bce9",
+      "type": "divider"
+    },
+    {
+      "id": "42188de4-3097-4c77-b671-c95dc78dde60",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "663aeb71-5978-45b5-905e-00c0060230d4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fbab1e3d-4cfb-4e0a-b21e-7f6f902816b5",
+          "type": "column",
+          "children": [
+            {
+              "id": "09b7ae16-e118-4cc5-8f05-c8e82899ae79",
+              "type": "paragraph",
+              "html": "<em><strong>Nostalgia &amp; Videogame Music: A Primer of Case Studies, Theories &amp; Analyses for the Player-Academic</strong></em> is a collection of essay edited by Can Aksoy, Sarah Pozderac-Chenevey, &amp; Vincent E. Rone published by Intellect Ltd, May 27, 2022."
+            },
+            {
+              "id": "4b4cf82e-1166-4206-a560-381313a92a51",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3a2097b7-635b-4aa1-a05a-0596eeb09b12",
+              "type": "quote",
+              "html": "<em>This book allows readers to understand the relationships and memories they often form around games, and music is central to this process. The quest into the past begins with this book, a map that leads to the intersection between nostalgia and videogame music. Informed by research on musicology, memory, and practices of gaming culture, this edited volume discusses different forms of nostalgia, considers how videogames display their relation to those forms, and explores the ways theoretically self-conscious positions can be found in games. An important scholarly addition to the burgeoning field of ludomusicology, this book will appeal to researchers, educators, practitioners, undergraduate and graduate students, and videogame fans and players alike.</em>"
+            },
+            {
+              "id": "1efbd3a1-421e-4fc7-99f8-50ca0a1cf4b2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5bc81411-46dc-4945-80af-05b16e4349ff",
+          "type": "column",
+          "children": [
+            {
+              "id": "c5be06ee-ecb9-4544-8cf5-f7d37e26c769",
+              "type": "image",
+              "src": "./assets/images/untitled-69db53d650f9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e4a5df1-52f2-45f7-8207-cd37d4f0f577",
+      "type": "divider"
+    },
+    {
+      "id": "f3d78c4c-d960-4384-8bac-23b68dd55834",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d71dabac-9dc2-4fdb-9955-5db1df1a9af6",
+          "type": "column",
+          "children": [
+            {
+              "id": "d7a20c6d-3762-4219-aea1-5804ccc7034f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2946add9-ab8b-42a0-bf3e-e76d9b868596",
+          "type": "column",
+          "children": [
+            {
+              "id": "cc593ac7-286a-476e-9835-836256c20d1e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Nf1G4k\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1d036db-2e74-41d9-a1af-7eb7be32e311",
+      "type": "divider"
+    }
+  ]
+}

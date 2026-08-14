@@ -1,0 +1,131 @@
+{
+  "id": "389f0c5a-1e18-49f9-be38-ef6093d5a5ac",
+  "slug": "mimesis-as-make-believe",
+  "title": "Mimesis as Make-Believe",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Mimesis-as-Make-Believe-389f0c5a1e1849f9be38ef6093d5a5ac?pvs=21",
+  "createdTime": 1666112017953,
+  "lastEditedTime": 1681312855768,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Mimesis as Make-Believe",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4adb970b0465.webp",
+  "blocks": [
+    {
+      "id": "9ebf3e12-da56-40a8-8315-1cf5616e9a05",
+      "type": "divider"
+    },
+    {
+      "id": "67499412-6c90-4b94-a4dc-f870a4d0542e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2265bb09-6b82-4041-9f1c-78ec3c05f446",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7a92432e-05a0-4678-8b03-d02030a549a3",
+          "type": "column",
+          "children": [
+            {
+              "id": "17155efe-e331-4864-9abf-5c3de558b006",
+              "type": "paragraph",
+              "html": "<em><strong>Mimesis as Make-Believe: On the Foundations of the Representational Arts</strong></em> was written by Kendall L. Walton, originally published by Harvard University Press in 1990."
+            },
+            {
+              "id": "b0b4728f-4271-4679-9538-a87a7c030676",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "071877f2-c876-4bfb-925f-4ae4c6675930",
+              "type": "quote",
+              "html": "<em>Representations―in visual arts and in fiction―play an important part in our lives and culture. Kendall Walton presents here a theory of the nature of representation, which illuminates its many varieties and goes a long way toward explaining its importance. Drawing analogies to children’s make believe activities, Walton constructs a theory that addresses a broad range of issues: the distinction between fiction and nonfiction, how depiction differs from description, the notion of points of view in the arts, and what it means for one work to be more “realistic” than another. He explores the relation between appreciation and criticism, the character of emotional reactions to literary and visual representations, and what it means to be caught up emotionally in imaginary events.<br><br>Walton’s theory also provides solutions to the thorny philosophical problems of the existence―or ontological standing―of fictitious beings, and the meaning of statements referring to them. And it leads to striking insights concerning imagination, dreams, nonliteral uses of language, and the status of legends and myths.<br><br>Throughout Walton applies his theoretical perspective to particular cases; his analysis is illustrated by a rich array of examples drawn from literature, painting, sculpture, theater, and film. </em>Mimesis as Make-Believe <em>is important reading for everyone interested in the workings of representational art.</em>"
+            },
+            {
+              "id": "fff8ad17-0bc0-44b3-bd70-b9e929d1799e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fe5a071c-378c-4448-852e-d5abf89ed8a2",
+          "type": "column",
+          "children": [
+            {
+              "id": "a78b62e8-2ea9-4396-ac68-bf01e38d2526",
+              "type": "image",
+              "src": "./assets/images/untitled-4adb970b0465.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75fb90cb-8e3f-4c85-aeb3-66b1be7d1ca9",
+      "type": "divider"
+    },
+    {
+      "id": "b1e4edb3-6e0c-462d-9e53-81c5dfabdf0f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5ee48c72-9bb4-49d8-a382-b6dbd0493ce0",
+          "type": "column",
+          "children": [
+            {
+              "id": "f51b9b2c-177c-438d-ae71-dae553fd8b67",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ede6b8ab-a5a3-4625-9c85-c096fa599e08",
+          "type": "column",
+          "children": [
+            {
+              "id": "3a404068-acfb-4f69-8f7a-34eb5a00af00",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Ts5XF6\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b12b85db-138e-4077-8119-9e31ee14babd",
+      "type": "divider"
+    }
+  ]
+}

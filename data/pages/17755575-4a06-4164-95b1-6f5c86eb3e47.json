@@ -1,0 +1,131 @@
+{
+  "id": "17755575-4a06-4164-95b1-6f5c86eb3e47",
+  "slug": "leaving-mundania",
+  "title": "Leaving Mundania",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Leaving-Mundania-177555754a06416495b16f5c86eb3e47?pvs=21",
+  "createdTime": 1657136576557,
+  "lastEditedTime": 1681313894615,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Leaving Mundania",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7b7e29481636.webp",
+  "blocks": [
+    {
+      "id": "d91cd072-5843-410c-8d2c-dd0c6aefa8dd",
+      "type": "divider"
+    },
+    {
+      "id": "d893be8a-7137-4a42-8b81-d8dab0c0a77f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5637a2c1-b71f-489b-b726-5e18b041f2bd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3f9ad9d4-f9c1-44af-8aac-40417e7defe3",
+          "type": "column",
+          "children": [
+            {
+              "id": "fc163530-8561-4914-a90c-09e81ba651f5",
+              "type": "paragraph",
+              "html": "<em><strong>Leaving Mundania: Inside the Transformative World of Live Action Role-Playing Games</strong></em> was written by Lizzie Stark, published by Chicago Review Press, May 1, 2012."
+            },
+            {
+              "id": "d1c7ee9c-c69f-44fa-88b2-c6a894a88e14",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "86c829f2-6aa5-424d-8b4a-94ee5472e3db",
+              "type": "quote",
+              "html": "<em>Exposing a subculture often dismissed as “geeky” by mainstream America, </em>Leaving Mundania<em> is the story of live action role-playing (LARP). A hybrid of games—such as </em>Dungeons &amp; Dragons<em>, historical reenactment, fandom, and good old-fashioned pretend—larp is thriving, and this book explores its multifaceted communities and related phenomena, including the Society for Creative Anachronism, a medieval reenactment group that boasts more than 32,000 members. Author Lizzie Stark looks at the hobby from a variety of angles, from its history in the pageantry of Tudor England to its present use as a training tool for the US military. Along the way, she duels foes with foam-padded weapons, lets the great elder god Cthulhu destroy her parents’ beach house, and endures an existential awakening in the high-art larp scene of Scandinavia.</em>"
+            },
+            {
+              "id": "b8912991-fc82-492f-a591-3dbb5fafc350",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fb9ad9d1-a2e4-4b2f-8751-9155bc13ba68",
+          "type": "column",
+          "children": [
+            {
+              "id": "2cf739b9-d8a4-45a3-81f0-c5f5df1e4d61",
+              "type": "image",
+              "src": "./assets/images/untitled-7b7e29481636.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b58aa74-592e-4544-8cdc-1234998cc73f",
+      "type": "divider"
+    },
+    {
+      "id": "c3c61518-f3ea-4c2d-a796-ba98a93a3e5e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "30f7710a-d78f-461c-b987-7481f8148459",
+          "type": "column",
+          "children": [
+            {
+              "id": "7eba8965-1aec-44dc-a625-7ec015bd8116",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "99d4685b-655b-4f28-929d-45adeb49fe49",
+          "type": "column",
+          "children": [
+            {
+              "id": "3b57797f-f95d-4cd7-be19-ace0781bf099",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Imfk4F\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3071d91-9226-4c15-b9c6-2aabcdb0eaab",
+      "type": "divider"
+    }
+  ]
+}

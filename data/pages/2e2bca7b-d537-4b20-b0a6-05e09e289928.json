@@ -1,0 +1,131 @@
+{
+  "id": "2e2bca7b-d537-4b20-b0a6-05e09e289928",
+  "slug": "golazo",
+  "title": "Golazo!",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2f2b48d3-00ef-46fe-b6f4-4b813ad7bd6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Golazo-2e2bca7bd5374b20b0a605e09e289928?pvs=21",
+  "createdTime": 1651854872330,
+  "lastEditedTime": 1681313824731,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Golazo!",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/91l0cwdjmnl-b22e1ca98fe5.webp",
+  "blocks": [
+    {
+      "id": "fc4273ad-baef-4f36-8c64-4bfde027e25b",
+      "type": "divider"
+    },
+    {
+      "id": "2ece325a-fd3a-4955-98af-e403b69ce7e5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5a52d386-2600-44bd-9122-114fe49d7c54",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d178c2bb-9504-49d0-ac60-23401b4b03dc",
+          "type": "column",
+          "children": [
+            {
+              "id": "ac560939-115b-48eb-903a-4c4c2502285a",
+              "type": "paragraph",
+              "html": "<em><strong>Golazo!: The Beautiful Game from the Aztecs to the World Cup: The Complete History of How Soccer Shaped Latin America</strong></em> was written by Andreas Campomar, published by Riverhead Books, May 6, 2014."
+            },
+            {
+              "id": "eb0043f2-a214-4e1e-8ccf-127f51d9f104",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e829f97c-62fc-46bf-a463-da3b8de1f54c",
+              "type": "quote",
+              "html": "<em>The definitive book about the national identities, heroes, and dramatic stories from Latin American soccer throughout history, perfect for World Cup reading.<br><br>“Golazo!” means “amazing goal!” And the word  perfectly captures the unique, exuberant, all-encompassing, passionate role that soccer plays in Latin America.<br><br>Andreas Campomar offers readers the definitive history of Latin American soccer from the early, deadly Mesoamerican ballgames to the multi-billion dollar international business it is today.</em> Golazo! <em>explores the intersection of soccer, politics, economics, high and low culture, and how passion for a game captured a continent.<br><br>The triumphs, the heartbreaks, the origins and the future, the political and the personal—</em>Golazo! <em>is the perfect book for new fans and diehard followers around the world.</em>"
+            },
+            {
+              "id": "276ca2ec-d37e-4f58-be9a-d2ad209734c1",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e646cc8d-0071-4ead-ab0a-bd5717d5906e",
+          "type": "column",
+          "children": [
+            {
+              "id": "7dcf4a8f-66cd-4a46-84f1-c5ea2a34f9e9",
+              "type": "image",
+              "src": "./assets/images/91l0cwdjmnl-b22e1ca98fe5.webp",
+              "caption": "",
+              "alt": "91l0CWDJmNL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a79191aa-e0d3-45a1-997c-4b3c41a4ed57",
+      "type": "divider"
+    },
+    {
+      "id": "7457953f-b19f-4339-86f8-552f0cd44c43",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1c3d64b5-eabd-4205-bf0f-6eb984b822ff",
+          "type": "column",
+          "children": [
+            {
+              "id": "0fc1e1d2-6003-4050-b8be-d2a958e63601",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b8245866-d53d-4ac6-89a7-df72cb98002f",
+          "type": "column",
+          "children": [
+            {
+              "id": "b3e7981a-141b-4858-b919-dadfebec38ce",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3I1Ybxn\" target=\"_blank\" rel=\"noreferrer\">Link to purchase (*</a><a href=\"https://amzn.to/3I1Ybxn\" target=\"_blank\" rel=\"noreferrer\"><em>this supports Paidiasophia!</em></a><a href=\"https://amzn.to/3I1Ybxn\" target=\"_blank\" rel=\"noreferrer\">)</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4599fce6-0821-4cef-876d-f19edd15c228",
+      "type": "divider"
+    }
+  ]
+}

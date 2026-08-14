@@ -1,0 +1,134 @@
+{
+  "id": "f1c6b7ed-ed96-4200-a040-d9a1e068ad33",
+  "slug": "cheating",
+  "title": "Cheating",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Cheating-f1c6b7eded964200a040d9a1e068ad33?pvs=21",
+  "createdTime": 1651972225306,
+  "lastEditedTime": 1681311425116,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Cheating",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1b9102a50b95.webp",
+  "blocks": [
+    {
+      "id": "daccdc1c-7884-4c2f-b5df-1c7ffeb22532",
+      "type": "divider"
+    },
+    {
+      "id": "18dd9ef6-23f6-4836-82cb-f8dee4c79171",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6007f5d2-945a-450b-8fd0-80b116195f64",
+      "type": "columns",
+      "children": [
+        {
+          "id": "79210d1e-9129-4187-acf1-3c796e367138",
+          "type": "column",
+          "children": [
+            {
+              "id": "441506f0-95c3-4f04-8d46-46e231443665",
+              "type": "paragraph",
+              "html": "<em><strong>Cheating: Gaining Advantage in Videogames</strong></em> was written by Mia Consalvo, published by The MIT Press, August 21, 2009."
+            },
+            {
+              "id": "f339d4b3-211d-4186-8b39-93bc9b0fcc25",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "93d2d3c1-77b2-4e7b-b4e4-b215b74a5684",
+              "type": "quote",
+              "html": "<strong><em>A cultural history of digital gameplay that investigates a wide range of player behavior, including cheating, and its relationship to the game industry.</em></strong><em><br><br>The widely varying experiences of players of digital games challenge the notions that there is only one correct way to play a game. Some players routinely use cheat codes, consult strategy guides, or buy and sell in-game accounts, while others consider any or all of these practices off limits. Meanwhile, the game industry works to constrain certain readings or activities and promote certain ways of playing. In </em>Cheating<em>, Mia Consalvo investigates how players choose to play games, and what happens when they can't always play the way they'd like. She explores a broad range of player behavior, including cheating (alone and in groups), examines the varying ways that players and industry define cheating, describes how the game industry itself has helped systematize cheating, and studies online cheating in context in an online ethnography of</em> Final Fantasy XI<em>. She develops the concept of &quot;gaming capital&quot; as a key way to understand individuals' interaction with games, information about games, the game industry, and other players.<br><br>Consalvo provides a cultural history of cheating in videogames, looking at how the packaging and selling of such cheat-enablers as cheat books, GameSharks, and mod chips created a cheat industry. She investigates how players themselves define cheating and how their playing choices can be understood, with particular attention to online cheating. Finally, she examines the growth of the peripheral game industries that produce information about games rather than actual games. Digital games are spaces for play and experimentation; the way we use and think about digital games, Consalvo argues, is crucially important and reflects ethical choices in gameplay and elsewhere.</em>"
+            },
+            {
+              "id": "df934cb6-9cf7-4bd0-9b33-2c0018ae4b20",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f31f6fc5-d0eb-4c19-9b43-4c3e716045b5",
+          "type": "column",
+          "children": [
+            {
+              "id": "5bc5dcbd-cd46-4f87-80ca-80b1a891ecd5",
+              "type": "image",
+              "src": "./assets/images/untitled-1b9102a50b95.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71ae2fca-946a-4f78-8fd5-88bb1bd9ffb2",
+      "type": "divider"
+    },
+    {
+      "id": "358416f5-7ee3-445e-bb20-27978911184c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2792b325-37b0-4af5-aea0-119204feb751",
+          "type": "column",
+          "children": [
+            {
+              "id": "f2bbc545-7199-483c-a4b2-84481f4884ed",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6d185b36-91c7-4831-8487-912e1bb0be3f",
+          "type": "column",
+          "children": [
+            {
+              "id": "70d0437f-4a41-4fd2-96b9-06732eb7d82e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fn516w\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3185c4d1-b1f0-41af-bff3-301003d5ddb0",
+      "type": "divider"
+    }
+  ]
+}

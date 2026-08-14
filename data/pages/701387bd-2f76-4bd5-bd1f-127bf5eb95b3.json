@@ -1,0 +1,126 @@
+{
+  "id": "701387bd-2f76-4bd5-bd1f-127bf5eb95b3",
+  "slug": "computers-as-theatre",
+  "title": "Computers as Theatre",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Computers-as-Theatre-701387bd2f764bd5bd1f127bf5eb95b3?pvs=21",
+  "createdTime": 1651869195241,
+  "lastEditedTime": 1681314178292,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Computers as Theatre",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-528cc48b61a0.webp",
+  "blocks": [
+    {
+      "id": "a7cfb64e-e501-4b3b-812b-beb23e52820f",
+      "type": "divider"
+    },
+    {
+      "id": "98b0b55f-ee4c-41a0-bd74-d9d8cbbbb174",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cafed221-3245-4fa7-bcae-3f994ba6ee07",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b8455600-0f01-4c29-ba24-7f4d024e557a",
+          "type": "column",
+          "children": [
+            {
+              "id": "27e52328-e2b7-44f6-b8b3-05ce36e48fb4",
+              "type": "paragraph",
+              "html": "<em><strong>Computer as Theatre</strong></em> was written by Brenda Laurel, originally published by Addison-Wesley, May 1, 1991."
+            },
+            {
+              "id": "2fabffd0-77b5-42c9-a98e-cf40c2de29bf",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1d917c5b-5c15-4b07-966d-61c9b70156cf",
+              "type": "quote",
+              "html": "<em>Brenda Laurel's </em>Computers as Theatre<em> revolutionized the field of human-computer interaction, offering ideas that inspired generations of interface and interaction designers-and continue to inspire them. Laurel's insight was that effective interface design, like effective drama, must engage the user directly in an experience involving both thought and emotion. Her practical conclusion was that a user's enjoyment must be a paramount design consideration, and this demands a deep awareness of dramatic theory and technique, both ancient and modern.<br><br>Now, two decades later, Laurel has revised and revamped her influential work, reflecting back on enormous change and personal experience and forward toward emerging technologies and ideas that will transform human-computer interaction yet again. Beginning with a clear analysis of classical drama theory, Laurel explores new territory through the lens of dramatic structure and purpose. </em>Computers as Theatre, Second Edition,<em><strong> </strong></em><em>is directed to a far wider audience, is written more simply and elegantly, is packed with new examples, and is replete with exciting and important new ideas.</em>"
+            }
+          ]
+        },
+        {
+          "id": "01b6e81c-5a44-4f10-a2c0-0db7e851ecf2",
+          "type": "column",
+          "children": [
+            {
+              "id": "a3b538fe-5342-44de-a565-b8909b6a20f1",
+              "type": "image",
+              "src": "./assets/images/untitled-528cc48b61a0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e40c6f2-7785-4efb-b934-bb292a7950d3",
+      "type": "divider"
+    },
+    {
+      "id": "09c086d3-d458-4d47-915b-b322e3a075f8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1ce1a6da-0456-480c-a53f-9e9aafa00588",
+          "type": "column",
+          "children": [
+            {
+              "id": "7ae78825-4133-4b04-8e6a-9f28d720176c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "83e19a44-d7a7-4d0c-b887-a1db713838d1",
+          "type": "column",
+          "children": [
+            {
+              "id": "d88ac72f-25b1-4934-b6c1-e4f407d8c962",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3ycsXjB\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0a4534b-d310-4061-8186-facce34b4e6c",
+      "type": "divider"
+    }
+  ]
+}

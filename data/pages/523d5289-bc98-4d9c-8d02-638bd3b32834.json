@@ -1,0 +1,113 @@
+{
+  "id": "523d5289-bc98-4d9c-8d02-638bd3b32834",
+  "slug": "gesamtkunstwerk",
+  "title": "Gesamtkunstwerk",
+  "icon": "./assets/images/gear-gray-0ec377f45914.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "adddd230-d3cf-4c34-b23c-8dfef1f1ebbf",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/523d5289bc984d9c8d02638bd3b32834",
+  "createdTime": 1651980234027,
+  "lastEditedTime": 1684254250488,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Concept"
+      ]
+    ],
+    "title": [
+      [
+        "Gesamtkunstwerk",
+        [
+          [
+            "b"
+          ],
+          [
+            "i"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-16ad2796ffff.webp",
+  "blocks": [
+    {
+      "id": "42480e29-59ce-4618-ba3a-2db6e9051673",
+      "type": "divider"
+    },
+    {
+      "id": "a4fe03fd-6c41-467b-861a-6a5d62e78f85",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bfa0b4ad-c096-4c1f-9da9-014498e594ac",
+      "type": "columns",
+      "children": [
+        {
+          "id": "edb95ba8-61fb-46cf-a615-d14b4f23fd4d",
+          "type": "column",
+          "children": [
+            {
+              "id": "a62a5d50-5087-4b86-b240-9bd064d899dc",
+              "type": "paragraph",
+              "html": "<strong>Gesamtkunstwerk</strong>, a German term meaning &quot;<strong>total work of </strong><a href=\"#/art\"><strong>art</strong></a>,&quot; refers to a concept in which various individual art <a href=\"#/media\">forms</a> are combined to create a cohesive and <a href=\"#/immersion\">immersive</a> experience. Originating in the works and ideas of German composer Richard Wagner, the concept of Gesamtkunstwerk has since moved beyond its original usage with regard to opera and has been applied to various forms of media and art, including games, especially video games. In the context of <a href=\"#/ludus\">ludic</a> studies, Gesamtkunstwerk represents the ideal of a game that seamlessly integrates all aspects of its design – <a href=\"#/narrative-7dbd6451\">narrative</a>, <a href=\"#/gameplay\">gameplay</a>, <a href=\"#/aesthetics\">visuals</a>, <a href=\"#/music-53e3e656\">sound</a>, and <a href=\"#/interactivity\">interaction</a> – to create an engaging and holistic experience or “<a href=\"#/world-building\">world</a>” for the player."
+            },
+            {
+              "id": "0ad7afe3-d1e3-41dd-bcdd-6f99e1318936",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "639b9965-27c8-4c1e-997e-7371b8e12257",
+          "type": "column",
+          "children": [
+            {
+              "id": "eed083b2-872a-4ac1-92b1-3c1f1e366c2c",
+              "type": "image",
+              "src": "./assets/images/untitled-16ad2796ffff.webp",
+              "caption": "Stage design for Mozart’s <em>The Magic Flute</em>, by Karl Friedrich Schinkel",
+              "alt": "Untitled"
+            },
+            {
+              "id": "004313c8-0251-4b6f-922d-ac67e3c847fa",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2bc4edf-72fe-443c-8ddb-326b5884a2b0",
+      "type": "divider"
+    },
+    {
+      "id": "29169355-6224-496a-a471-d11b55a047e0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "58c62b96-a945-4f28-a00c-6064ed8a57b6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ae514289-1d40-42c3-9b59-3ac2332a8d90",
+      "type": "paragraph",
+      "html": "<a href=\"#/concept-wall\"><u>☜Concept Wall</u></a>"
+    },
+    {
+      "id": "fa653cd3-15e3-427e-a844-1f8730f3dc8d",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

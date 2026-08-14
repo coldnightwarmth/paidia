@@ -1,0 +1,131 @@
+{
+  "id": "13e4bf80-bf6f-40b6-9bc7-b06cb647f146",
+  "slug": "classic-toys-of-the-national-toy-hall-of-fame",
+  "title": "Classic Toys of the National Toy Hall of Fame",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/13e4bf80bf6f40b69bc7b06cb647f146",
+  "createdTime": 1653155533357,
+  "lastEditedTime": 1681311591696,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Classic Toys of the National Toy Hall of Fame",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-18347b321212.webp",
+  "blocks": [
+    {
+      "id": "574957c1-7da5-4a80-a357-31b928d6e1d6",
+      "type": "divider"
+    },
+    {
+      "id": "cde11d89-948c-45dd-a65d-868b7129fb8f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9f69c81e-bf14-4d34-9d5c-dd8ac54754a6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dfc1ee1a-459f-4413-9419-246123e48827",
+          "type": "column",
+          "children": [
+            {
+              "id": "32d8a549-d2f3-4f5f-b4f5-c6c532bcdb4a",
+              "type": "paragraph",
+              "html": "<em><strong>Classic Toys of the National Toy Hall of Fame: Celebrating the Greatest Toys of All Time!</strong></em> was written by Scott G. Eberle, published by Running Press, September 22, 2009."
+            },
+            {
+              "id": "261c1396-b1cd-42c4-b4a5-c946acac45fc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d6348438-527c-405d-8d91-3df4e65a3ed1",
+              "type": "quote",
+              "html": "<em>From the yo-yo to the hula hoop to the </em>Frisbee, Slinky, Barbie<em>, and so many more, the classic toys honored in the National Toy Hall of Fame bridge all generations with the most basic of joyous endeavors: play! Regardless of one's age, this book will hold a special place in everyone's heart, as the toys inside not only bring back happy memories for the older generations, but they are still being enjoyed today.<br><br>This deluxe package is a vibrant celebration of America's favorite playthings, brimming with exciting color photography and delightful text that capture the essence and evolution of our country's most beloved toys.</em>"
+            },
+            {
+              "id": "3438aa81-df09-4bb4-8c38-656b5a997f54",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "72f4d434-a72c-42ac-a10e-35dfc1da0490",
+          "type": "column",
+          "children": [
+            {
+              "id": "dbaf8efa-3d50-4786-8eb6-7bf0eec25450",
+              "type": "image",
+              "src": "./assets/images/untitled-18347b321212.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18d9d369-030d-428f-b975-e5e6960650a0",
+      "type": "divider"
+    },
+    {
+      "id": "286822bb-baab-4368-bbaa-914603e1425a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6a1137d4-3310-47a3-9f15-b951db494d66",
+          "type": "column",
+          "children": [
+            {
+              "id": "5ee5c03c-c00d-47fa-bf00-f68247793c30",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "440c47b4-5104-4c6e-baea-04798a3d0310",
+          "type": "column",
+          "children": [
+            {
+              "id": "bfa26898-ccd6-4c59-9d1b-00677b7824d8",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3u49hvY\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64a4fdcc-31fc-4ff3-853c-8325ef7eefbf",
+      "type": "divider"
+    }
+  ]
+}

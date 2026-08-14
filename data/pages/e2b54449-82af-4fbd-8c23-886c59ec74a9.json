@@ -1,0 +1,126 @@
+{
+  "id": "e2b54449-82af-4fbd-8c23-886c59ec74a9",
+  "slug": "understanding-media",
+  "title": "Understanding Media",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/e2b5444982af4fbd8c23886c59ec74a9",
+  "createdTime": 1651773036647,
+  "lastEditedTime": 1681314204256,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Understanding Media"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81khx2rvkxl-6cef60e48f78.webp",
+  "blocks": [
+    {
+      "id": "b96ee14d-fefc-47ae-9112-d26a95fb6851",
+      "type": "divider"
+    },
+    {
+      "id": "bb731cd6-71e7-4065-82f5-246044f9652b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c53fe437-ccbb-483c-8ce4-6d3ebff3f2cf",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8a6e4d60-c8b5-4d8b-9367-f6eb219c6ca9",
+          "type": "column",
+          "children": [
+            {
+              "id": "2632682c-5344-44f8-b14e-415ee0885c68",
+              "type": "paragraph",
+              "html": "<em><strong>Understanding Media: The Extensions of Man</strong></em> was written by Marshall McLuhan, published in 1964."
+            },
+            {
+              "id": "c0f3ad16-36bc-4c29-a7b1-2b929d493a40",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b0f01275-51e2-4a45-a6dc-789a82b1ba5e",
+              "type": "quote",
+              "html": "<em>Terms and phrases such as &quot;the global village&quot; and &quot;the medium is the message&quot; are now part of the lexicon, and McLuhan's theories continue to challenge our sensibilities and our assumptions about how and what we communicate.<br><br>This reissue of </em>Understanding Media <em>marks the thirtieth anniversary (1964-1994) of Marshall McLuhan's classic expose on the state of the then emerging phenomenon of mass media. Terms and phrases such as &quot;the global village&quot; and &quot;the medium is the message&quot; are now part of the lexicon, and McLuhan's theories continue to challenge our sensibilities and our assumptions about how and what we communicate.<br><br>There has been a notable resurgence of interest in McLuhan's work in the last few years, fueled by the recent and continuing conjunctions between the cable companies and the regional phone companies, the appearance of magazines such as WiRed, and the development of new media models and information ecologies, many of which were spawned from MIT's Media Lab. In effect, media now begs to be redefined. In a new introduction to this edition of Understanding Media, Harper's editor Lewis Lapham reevaluates McLuhan's work in the light of the technological as well as the political and social changes that have occurred in the last part of this century.</em>"
+            },
+            {
+              "id": "e5882320-fe15-4c21-9ba1-c0e0f9b49e96",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5db5d055-492e-4897-9fb8-6cfe14134a9b",
+          "type": "column",
+          "children": [
+            {
+              "id": "e17235cf-5de4-42b7-a941-5eb4c46b1c4e",
+              "type": "image",
+              "src": "./assets/images/81khx2rvkxl-6cef60e48f78.webp",
+              "caption": "",
+              "alt": "81khx2rVkxL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "892e612f-da3e-4641-ad6f-385575640c04",
+      "type": "divider"
+    },
+    {
+      "id": "f5c9ecd1-a608-43bc-986e-05d3b8f29079",
+      "type": "columns",
+      "children": [
+        {
+          "id": "501dd3cd-138f-48d6-92f9-04a5f118b302",
+          "type": "column",
+          "children": [
+            {
+              "id": "9551a366-b5a9-46ea-9413-ad86f3927f93",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6d92e730-1252-4965-a263-c91e7b3fc3ad",
+          "type": "column",
+          "children": [
+            {
+              "id": "41328f2d-cf04-4f33-998f-34c1ab627110",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OC4f1q\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42ea6488-9eba-41b6-8482-8d7b28e8a4d2",
+      "type": "divider"
+    }
+  ]
+}

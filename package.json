@@ -1,0 +1,21 @@
+{
+  "name": "paidiasophia",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:notion": "node scripts/fetch-notion.mjs",
+    "queue:full-text-books": "node scripts/queue-full-text-database-books.mjs",
+    "fallback:full-text-books": "node scripts/create-full-text-fallback-pages.mjs",
+    "build:data:core": "node scripts/build-site-data.mjs",
+    "build:folks": "node scripts/build-folks-database.mjs",
+    "build:shortform": "node scripts/build-shortform-database.mjs",
+    "import:full-text-csv": "node scripts/import-full-text-database-csv.mjs",
+    "sync:assets": "node scripts/sync-image-assets.mjs",
+    "sync:documents": "node scripts/sync-document-assets.mjs",
+    "sync:quotes": "node scripts/sync-quotes-from-notion.mjs",
+    "build:data": "npm run build:data:core && npm run sync:assets && npm run build:folks && npm run build:shortform && npm run sync:documents"
+  },
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "7ebed0a6-4cd5-4e86-90bb-c641e0168c48",
+  "slug": "the-genius-of-play",
+  "title": "The Genius of Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Genius-of-Play-7ebed0a64cd54e8690bbc641e0168c48?pvs=21",
+  "createdTime": 1652721498458,
+  "lastEditedTime": 1681314091446,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Genius of Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0dbfc4096dc6.webp",
+  "blocks": [
+    {
+      "id": "1a4ec783-996e-4feb-8281-4d86a0391c93",
+      "type": "divider"
+    },
+    {
+      "id": "55137583-9ed2-4ae9-9333-f5d411e28fc3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "54c631e0-96bf-4dba-b503-53e0c47d9c7c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e836b40e-62be-4e46-ba01-31bdac961762",
+          "type": "column",
+          "children": [
+            {
+              "id": "18194706-e3b4-4e94-8150-e86154bb62a7",
+              "type": "paragraph",
+              "html": "<em><strong>The Genius of Play: Celebrating the Spirit of Childhood</strong></em> was written by Sally Jenkinson, published by Hawthorn Press, October 1, 2003."
+            },
+            {
+              "id": "969ab7bb-2854-4142-b20d-ad9a52a2550d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "51323428-a53f-4400-8f2d-d11647a78659",
+              "type": "quote",
+              "html": "<em>When children play, they become creators, dreamers, and artists. Sticks become wands, swords, dolls, or snakes. Children move like quick fire from the fantastic to the everyday, when free to express the genius of play.<br><br></em>The Genius of Play<em> addresses what play is, why it matters, and how modern life endangers children's play. Moving, vivid stories reveal the secrets of play. Here is an outspoken Children’s Play Charter for parents and teachers, which celebrates the playful spirit of childhood.</em>"
+            },
+            {
+              "id": "32bff801-0b6c-4149-a186-49992e7818ea",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5c167f9e-e67f-4c08-a87e-5dd572a4b57d",
+          "type": "column",
+          "children": [
+            {
+              "id": "ddf0a145-4ab9-4384-a32a-a2c21e7340ae",
+              "type": "image",
+              "src": "./assets/images/untitled-0dbfc4096dc6.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "858f9e21-2a2e-48b4-80ee-f3cd4fb7b651",
+      "type": "divider"
+    },
+    {
+      "id": "781e7b2d-33af-44c2-a44d-44db4e4edd28",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4d8ce62f-da27-4f56-aee1-351a3bbca3bc",
+          "type": "column",
+          "children": [
+            {
+              "id": "cdbbdd67-a52d-4541-84da-40472b71e69e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "003482ed-9af8-4ccc-8359-e2f92e2d359f",
+          "type": "column",
+          "children": [
+            {
+              "id": "95c090f4-ad12-43b5-8498-e0fd6a71aaca",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3nj0brj\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0bfc11bd-0f7a-439f-9164-5ee3922873ef",
+      "type": "divider"
+    }
+  ]
+}

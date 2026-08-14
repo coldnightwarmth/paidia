@@ -1,0 +1,131 @@
+{
+  "id": "260fc05c-810e-4c02-b1ce-8d6c6c5714ef",
+  "slug": "the-moe-manifesto",
+  "title": "The Moe Manifesto",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Moe-Manifesto-260fc05c810e4c02b1ce8d6c6c5714ef?pvs=21",
+  "createdTime": 1653175370625,
+  "lastEditedTime": 1681314207856,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Moe Manifesto",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-bcfcc290f0b1.webp",
+  "blocks": [
+    {
+      "id": "beafb6b0-1a67-468d-97f3-4e7130b23828",
+      "type": "divider"
+    },
+    {
+      "id": "5d9a6ff3-b432-470b-839d-5f188e34d501",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f9a5c9f4-20a7-40e2-a8c9-7835ef3beb4b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "80fac4b5-4c42-4eee-95cf-3b97a60dd315",
+          "type": "column",
+          "children": [
+            {
+              "id": "4fe41ae3-6d8c-4f85-be81-0c3b2d521590",
+              "type": "paragraph",
+              "html": "<em><strong>The Moe Manifesto: An Insider's Look at the Worlds of Manga, Anime, &amp; Gaming</strong></em> was written by Patrick W. Galbraith, published by Tuttle Publishing, April 25, 2017."
+            },
+            {
+              "id": "926908c4-3249-49ca-97ab-2d596a7dfbae",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f17175b9-9740-41ad-baa0-2f8d23a7e12f",
+              "type": "quote",
+              "html": "<em>In Japan, avid fans of manga comics, anime films and video games use the term Moe to refer to the strong sense of emotional attachment they feel for their favorite characters. These fans have a powerful desire to protect and nurture the youthful, beautiful and innocent characters they adore--like Sagisawa Moe in </em>Dinosaur Planet <em>and Tomoe Hotaru in </em>Sailor Moon<em>. They create their own websites, characters, stories, discussion groups, toys and games based on the original manga and anime roles.<br><br>Author Patrick Galbraith is the world's acknowledged expert on Moe and a journalist based in Tokyo. For this book, he interviewed twenty important figures in the world of Japanese manga and anime to gain their insights on the Moe phenomenon. These interviews provide us with the first in-depth survey of this subject. Galbraith uncovers how Moe is influencing an entire generation of manga artists and readers. For those new to anime, manga, and youth culture in Japan, he discusses what constitutes the ideal Moe relationship and why some fans are even determined to marry their fictional sweethearts. He reveals key moments in the development of Moe, and current and future trends in the spread of Moe works and characters from Japan to other parts of the world.</em>"
+            },
+            {
+              "id": "d0207b87-405b-483e-ad29-d2d79a6cbd6a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e00d0c32-6fd6-4773-8d9e-c1a04e8045f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "dda03f44-08e1-480a-ad68-ef13631ef0c3",
+              "type": "image",
+              "src": "./assets/images/untitled-bcfcc290f0b1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "347ed51f-583e-466d-8483-708b77518397",
+      "type": "divider"
+    },
+    {
+      "id": "5953cde6-9fd4-4b40-88e3-631843eebac4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0785f675-575b-4ec1-891b-35d31f80ee03",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd42ca25-9019-46e8-bdbb-1723e31c2f7e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c47f1632-6659-48ee-aa27-dd079a25aeec",
+          "type": "column",
+          "children": [
+            {
+              "id": "1dcbb994-377f-44c4-95cd-31bee2adf3b0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xSmusS\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8692458-47dd-46ac-8801-183a4764ec9d",
+      "type": "divider"
+    }
+  ]
+}

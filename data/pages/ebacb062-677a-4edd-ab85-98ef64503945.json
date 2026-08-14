@@ -1,0 +1,131 @@
+{
+  "id": "ebacb062-677a-4edd-ab85-98ef64503945",
+  "slug": "the-media-snatcher",
+  "title": "The Media Snatcher",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "46177b24-2d03-4a55-945a-07bf7464a995",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Media-Snatcher-ebacb062677a4eddab8598ef64503945?pvs=21",
+  "createdTime": 1667332033452,
+  "lastEditedTime": 1681312662833,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Media Snatcher",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-45e3f79c5610.webp",
+  "blocks": [
+    {
+      "id": "296c16f3-b2f0-46b1-b350-7206b384674f",
+      "type": "divider"
+    },
+    {
+      "id": "155f53bc-a649-4c03-b44a-1b6ff9d9ffb8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6a0a68ae-1db6-47a1-a363-51fa80ef80e4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8aa704b8-22f9-4a6a-90d4-bf47a75077d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "8419c514-daac-4525-817e-bd95a28fe7e7",
+              "type": "paragraph",
+              "html": "<em><strong>The Media Snatcher: PC/CORE/TURBO/ENGINE/GRAFX/16/CDROM2/SUPER/DUO/ARCADE/RX</strong></em> was written by Carl Therrien, published by The MIT Press, October 8, 2019."
+            },
+            {
+              "id": "1734f26a-50f5-4ff8-a798-1517e2d50ac5",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c7bd690e-5b0c-4240-97dc-79298c54f20c",
+              "type": "quote",
+              "html": "<strong><em>An in-depth exploration of a neglected video game platform of the 1990s and a reflection on the way we construct the cultural history of video games.</em></strong><em><br><br>In</em> The Media Snatcher<em>, Carl Therrien offers an in-depth exploration of NEC's PC Engine/TurboGrafx-16, a little-studied video game platform released in the late 1980s. The PC Engine was designed to bring technological expandability to the world of game consoles; The Media Snatcher's subtitle evokes some of the expansions and the numerous rebranded versions of the system released by NEC, including the first CD-ROM add-on in video game history. The platform makers hoped that expandability would allow its console to remain at the cutting edge and even catch up with such perceptually rich media as cinema and anime. More than a simple shape-shifter, the PC Engine became a media snatcher.<br><br>Therrien examines the multidirectional interactions of video game technologies, commercial structures, and cultural dynamics. He considers, among other things, hyperbolic marketing and its impact on how we construct video game history; glitches, technological obsolescence, and the difficulty of conducting media archaeology of the recent past; the emergence of male-centered power fantasies through audiovisual rewards; the rise of original genres such as visual novels; and the sustained efforts to integrate PC Engine software in the sprawling media landscape of Japan (where the PC Engine found much of its success). Avoiding the usual techno-industrial glorification, Therrien recounts the bold technological aspirations of the platform makers and the struggles to make the actual technology realize its potential.</em>"
+            },
+            {
+              "id": "06ca754f-f2c5-4290-b144-bb08f565e9f9",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ce998be4-7991-473c-9092-43c411efc6dd",
+          "type": "column",
+          "children": [
+            {
+              "id": "b1ad0fb4-3f03-4482-9426-686ed18fdca7",
+              "type": "image",
+              "src": "./assets/images/untitled-45e3f79c5610.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40e5c914-651b-4c2d-89cd-bac2d93d35bb",
+      "type": "divider"
+    },
+    {
+      "id": "a0d4d6bf-34af-4012-97c9-4a1b46e51373",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dbff7e92-fa71-41f4-bad4-5af2ed2c378a",
+          "type": "column",
+          "children": [
+            {
+              "id": "80e06d96-70ba-4267-81e9-cd6105fd6b15",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d52b2b45-e145-4419-815a-75643d45f09a",
+          "type": "column",
+          "children": [
+            {
+              "id": "5a2815db-d185-4581-afc9-332f45785a5f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3t7ykNT\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be6063a2-06b3-42d2-87ba-bb87b2520bce",
+      "type": "divider"
+    }
+  ]
+}

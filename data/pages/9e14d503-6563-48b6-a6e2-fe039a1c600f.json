@@ -1,0 +1,139 @@
+{
+  "id": "9e14d503-6563-48b6-a6e2-fe039a1c600f",
+  "slug": "the-wonderful-wizard-of-oz",
+  "title": "The Wonderful Wizard of Oz",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Wonderful-Wizard-of-Oz-9e14d503656348b6a6e2fe039a1c600f?pvs=21",
+  "createdTime": 1652124167671,
+  "lastEditedTime": 1681314100691,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Wonderful Wizard of Oz",
+        [
+          [
+            "b"
+          ],
+          [
+            "i"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/the-wonderful-wizard-of-oz-006-42a39f37080b.webp",
+  "blocks": [
+    {
+      "id": "8c110010-5e25-497f-947b-ac3eb002343b",
+      "type": "divider"
+    },
+    {
+      "id": "721340d4-997c-41b8-93ec-d0125f04f672",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "564b03ae-3d2b-4e12-8e8f-e5c44e223612",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4255ddcc-22f3-41ca-b7d5-4c333156fdc5",
+          "type": "column",
+          "children": [
+            {
+              "id": "a24be8ff-2079-4d10-be31-91354e44480f",
+              "type": "paragraph",
+              "html": "<em><strong>The Wonderful Wizard of Oz</strong></em> was written by L. Frank Baum, originally published by George M. Hill Company, May 17, 1900."
+            },
+            {
+              "id": "183d7568-eb25-4f36-a53b-66528780b377",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "24e167e2-fce9-483b-9d91-bc9762a2bfd9",
+              "type": "quote",
+              "html": "<em>When a tremendous tornado transports Dorothy to the peculiar land of Oz, she fears she will never see Kansas again. Joined by some unlikely new friends, Dorothy follows the yellow brick road in search of a mysterious wizard in the hope he may be able to send her home. But the Wizard of Oz wants something impossible from her in return Full of vivid imagery, Baum's classic tale is a must-read for any day-dreamer.</em>"
+            }
+          ]
+        },
+        {
+          "id": "5987648c-3bbf-436a-a0bd-3c59e5e2d507",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f1fbd74-9f96-4bd7-8f94-a1048f1763ff",
+              "type": "image",
+              "src": "./assets/images/the-wonderful-wizard-of-oz-006-42a39f37080b.webp",
+              "caption": "",
+              "alt": "The_Wonderful_Wizard_of_Oz,_006.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c433a692-448e-4969-a509-55060780af89",
+      "type": "divider"
+    },
+    {
+      "id": "8acafb1f-650d-4175-839e-a538783e1b25",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a3393f16-6ccd-4d2f-9895-464960cadb1e",
+          "type": "column",
+          "children": [
+            {
+              "id": "9629cf8d-ab9f-4825-84bc-87fa91060d2a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7297a025-c3d6-447f-a27a-e82d23c80a70",
+          "type": "column",
+          "children": [
+            {
+              "id": "3cddaaea-90be-4840-9cc8-1fe65956fb45",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SePuUo\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1254d299-e21c-45ee-9b08-7741f61b25f5",
+      "type": "divider"
+    },
+    {
+      "id": "98747799-843e-407c-95db-168eb93545eb",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "5d265881-06b2-4297-8c67-cc7958345e17",
+      "type": "paragraph",
+      "html": "<a href=\"#/isekai\">Isekai</a> (<em>concept</em>)"
+    }
+  ]
+}

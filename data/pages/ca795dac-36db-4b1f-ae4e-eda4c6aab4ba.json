@@ -1,0 +1,134 @@
+{
+  "id": "ca795dac-36db-4b1f-ae4e-eda4c6aab4ba",
+  "slug": "the-self-respecting-child",
+  "title": "The Self-Respecting Child",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Self-Respecting-Child-ca795dac36db4b1fae4eeda4c6aab4ba?pvs=21",
+  "createdTime": 1659571430070,
+  "lastEditedTime": 1681313073423,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Self-Respecting Child",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c5514b9d1154.webp",
+  "blocks": [
+    {
+      "id": "6c86cff2-6974-4da9-b08b-66cdbe3dc407",
+      "type": "divider"
+    },
+    {
+      "id": "cb5823e1-ade6-4460-a226-6001535cd22b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "37b7e982-e4a3-465d-bb92-e659a63940e2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "be1b940d-1603-4bf9-b8d2-a3a26912a48d",
+          "type": "column",
+          "children": [
+            {
+              "id": "f60a4cc7-5406-48f7-addf-cf66f58f7413",
+              "type": "paragraph",
+              "html": "<strong>The Self Respecting Child – Development Through Spontaneous Play</strong> was written by Alison Stallibrass, published by Da Capo Lifelong Books, January 22, 1989."
+            },
+            {
+              "id": "b73708de-f01f-4f21-81b9-b087b5738f63",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f4ca4ec0-8900-4ed1-afd8-3cc16cf62a93",
+              "type": "quote",
+              "html": "<em>This classic study of the spontaneous play of young children combines vivid and delightful observations with profoundly important insights. Alison Stallibrass, an expert on children’s play and the mother of five children, makes clear the importance of uninhibited games and activities, without adult interference, in building a child’s skill, judgment, and self-esteem, and shows how to make this kind of play possible in a nursery school, day-care center, or at home.</em>"
+            },
+            {
+              "id": "83cecf12-339d-4911-bdac-8f7e941b317c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4873a18f-8a64-4aeb-9562-093b14828312",
+          "type": "column",
+          "children": [
+            {
+              "id": "376d46c2-0641-41ba-9aea-9d5798e5cdf5",
+              "type": "image",
+              "src": "./assets/images/untitled-c5514b9d1154.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88759ecd-70e2-4718-99a8-fc44bceab74a",
+      "type": "divider"
+    },
+    {
+      "id": "94fde32e-219f-43c2-b8da-48bff4623a68",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e2813e5b-0c9e-48a7-b794-bda0f462919d",
+          "type": "column",
+          "children": [
+            {
+              "id": "35fb92a0-5ac1-4661-8504-b5dcdfac9fb0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "997f40f0-20a5-479a-8b06-b34d65ca08e1",
+          "type": "column",
+          "children": [
+            {
+              "id": "0a40662c-bc3a-43a7-81af-2c4b302f4414",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OXVm1S\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5edcfd0-798b-42f9-86d5-ef1f1e7b1ece",
+      "type": "divider"
+    }
+  ]
+}

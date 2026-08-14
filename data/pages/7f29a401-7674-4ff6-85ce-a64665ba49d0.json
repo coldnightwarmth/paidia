@@ -1,0 +1,121 @@
+{
+  "id": "7f29a401-7674-4ff6-85ce-a64665ba49d0",
+  "slug": "hnefatafl",
+  "title": "Hnefatafl",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Hnefatafl-7f29a40176744ff685cea64665ba49d0?pvs=21",
+  "createdTime": 1651687175732,
+  "lastEditedTime": 1681313897121,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Hnefatafl"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5ce7973d5d73.webp",
+  "blocks": [
+    {
+      "id": "d736efe5-44fb-4dd3-b2fc-cd5a8bb9425a",
+      "type": "divider"
+    },
+    {
+      "id": "d1bc1f9f-fad9-479b-b9a0-f4692b02dd2d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d9c10a1c-e560-4c61-852f-52d6e4eea01e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "51bc1fe8-786e-46bc-8b5a-15c4c6d6f210",
+          "type": "column",
+          "children": [
+            {
+              "id": "778425a4-9190-4b0e-8581-62e3dda4e6e1",
+              "type": "paragraph",
+              "html": "<em><strong>Hnefatafl: The Sacred Game of Britain, Ireland &amp; Scandinavia</strong></em> was written by Jonathon George, self-published through CreateSpace, October 31, 2017."
+            },
+            {
+              "id": "550a2744-ae6d-44db-bc49-84a0d3d23a5c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d12b1bec-28a8-4664-a1e0-0a23c8012c80",
+              "type": "quote",
+              "html": "<em>The first book of its kind, </em>Hnefatafl: The Sacred Game of Britain, Ireland and Scandinavia<em> discusses the ancient games of Northern Europe, particularly the games now known as </em>Hnefatafl<em>. Beginning with the history of ancient games across the world and their divinatory uses by traditional cultures and ending with the modern history of </em>Hnefatafl<em>, this book covers the history, geographic spread and mythology surrounding </em>Hnefatafl<em>. All three of the main cultures of Northern Europe are covered, British, Irish and Scandinavian, and the games of each group are discussed (</em>Gwyddbwyll, Fidchell, Brandubh, Tawlbwrdd, Buanbach<em> and </em>Alea Evangelii<em>) with revealing excerpts from the legends and sagas of these groups as well as archaeological finds and the contentious conclusions surrounding them. A chapter on the mythology of </em>Hnefatafl<em> is included as well as chapters on the rules and notated example games to help any reader along with their skills and knowledge of </em>Hnefatafl<em>.</em>"
+            }
+          ]
+        },
+        {
+          "id": "3218f636-03b7-4117-b878-cc9afd993cde",
+          "type": "column",
+          "children": [
+            {
+              "id": "b48f4213-fbb7-4a15-965d-899e6a439d11",
+              "type": "image",
+              "src": "./assets/images/untitled-5ce7973d5d73.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca9e8367-faf2-452d-ad66-19388683b207",
+      "type": "divider"
+    },
+    {
+      "id": "c39af245-2053-4b5c-b4d5-6dd6a21120fe",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6d6b75ce-ab39-4815-9734-f0d1a3846650",
+          "type": "column",
+          "children": [
+            {
+              "id": "80858e4a-a53f-4805-9ea2-cae86ed7f02b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "926337b3-d836-4689-b31f-69a711b56f07",
+          "type": "column",
+          "children": [
+            {
+              "id": "dda9a36b-06aa-46eb-b3fe-60b14dfcba60",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3u0N3ed\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74cf853a-af53-4d0b-a6b6-1b7d58fe1c3a",
+      "type": "divider"
+    }
+  ]
+}

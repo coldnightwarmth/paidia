@@ -1,0 +1,139 @@
+{
+  "id": "a39598f0-b7c6-414e-8010-3b1cec742187",
+  "slug": "documentation-tools",
+  "title": "Documentation tools",
+  "icon": "📃",
+  "cover": "",
+  "type": "page",
+  "parentId": "d02701b6-e3a0-42cc-aba7-e48629f57331",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/a39598f0b7c6414e80103b1cec742187",
+  "createdTime": 1664380126425,
+  "lastEditedTime": 1767526741953,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Documentation tools"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "bfe2f8c9-b8f1-436e-ba39-e8290f9f563d",
+      "type": "paragraph",
+      "html": "The tools designers use for documentation can change from studio to studio. Here are some of the more popular ones."
+    },
+    {
+      "id": "e5dfa127-c0e0-46b6-941c-e52a795cf32d",
+      "type": "paragraph",
+      "html": "Don’t feel limited to using just one and use whatever is most comfortable to you and your team’s way of working."
+    },
+    {
+      "id": "e5b0078f-08ab-4efb-bf21-832742ac0d45",
+      "type": "subheader",
+      "html": "✏️ Notion",
+      "anchorId": "notion"
+    },
+    {
+      "id": "def31454-bbf4-40ad-abb3-d2aad9413d2a",
+      "type": "paragraph",
+      "html": "The tool this wiki is written! It’s free and super easy to use."
+    },
+    {
+      "id": "fbbd6bea-bba6-45c0-95dc-5bc9a1b83982",
+      "type": "bookmark",
+      "src": "",
+      "title": "Notion - One workspace. Every team."
+    },
+    {
+      "id": "ca16782c-d939-4e70-8778-8e3a0f0b1ab2",
+      "type": "subheader",
+      "html": "🟦 Confluence",
+      "anchorId": "confluence"
+    },
+    {
+      "id": "b47a29f7-35f6-4ed1-84fa-456492381fcb",
+      "type": "paragraph",
+      "html": "Often used by teams who use Jira. Documents can be easily linked to Jira tickets, making producers happy."
+    },
+    {
+      "id": "653ac2c3-3fd7-4fce-b913-3cf85ad919ab",
+      "type": "bookmark",
+      "src": "",
+      "title": "Confluence | Your Remote-Friendly Team Workspace | Atlassian"
+    },
+    {
+      "id": "b3745cfd-b4bd-472c-9811-b44052cf6463",
+      "type": "subheader",
+      "html": "🎨 Google slides",
+      "anchorId": "google-slides"
+    },
+    {
+      "id": "7faf827a-f98c-48cb-ad82-ec2aa6201112",
+      "type": "paragraph",
+      "html": "Often used by creative agencies that have to pitch a lot."
+    },
+    {
+      "id": "b5f73bbd-ad86-4f64-a603-f5a4a0a86f8b",
+      "type": "bookmark",
+      "src": "",
+      "title": "Google Slides: Online Slideshow Maker | Google Workspace"
+    },
+    {
+      "id": "5f0cbbd0-b8c0-4957-919e-046aa2f0963f",
+      "type": "subheader",
+      "html": "📃 Google docs",
+      "anchorId": "google-docs"
+    },
+    {
+      "id": "85a6d925-2473-4875-a5d0-e5a8e0d9770c",
+      "type": "paragraph",
+      "html": "Used by smaller teams. Struggles with images but easy to use."
+    },
+    {
+      "id": "85575e37-5d85-4c0b-a62f-a208f30d880e",
+      "type": "bookmark",
+      "src": "",
+      "title": "Google Docs: Online Document Editor | Google Workspace"
+    },
+    {
+      "id": "9d4e3e6b-bd2a-45bc-98ff-dd30e2b94180",
+      "type": "subheader",
+      "html": "🖼️ Miro",
+      "anchorId": "miro"
+    },
+    {
+      "id": "3a228d4b-1f12-4a07-be61-4307ce4460eb",
+      "type": "paragraph",
+      "html": "Great for creating visual boards and brainstorms."
+    },
+    {
+      "id": "2bf1fe9a-c01d-4ae5-93fc-0e8b3a982f6b",
+      "type": "bookmark",
+      "src": "",
+      "title": "The Visual Collaboration Platform for Every Team | Miro"
+    },
+    {
+      "id": "3bb6569c-25f2-4455-b892-7cd95b463e80",
+      "type": "subheader",
+      "html": "📲 Figma",
+      "anchorId": "figma"
+    },
+    {
+      "id": "99abae01-feea-4cd4-b3f0-bd191707316f",
+      "type": "paragraph",
+      "html": "Great for visuals. Often a favourite of UI and UX designers."
+    },
+    {
+      "id": "1b4db426-e88b-4a0b-b169-66bf81b726df",
+      "type": "bookmark",
+      "src": "",
+      "title": "Figma: the collaborative interface design tool."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "170061bf-6c37-446a-8195-5a2df60574a0",
+  "slug": "the-march-of-spare-time",
+  "title": "The March of Spare Time",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-March-of-Spare-Time-170061bf6c37446a81955a2df60574a0?pvs=21",
+  "createdTime": 1667268050171,
+  "lastEditedTime": 1681312715160,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The March of Spare Time",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-99fc73a816d2.webp",
+  "blocks": [
+    {
+      "id": "947be35d-404f-426e-9d64-e0c93c2f689f",
+      "type": "divider"
+    },
+    {
+      "id": "29054740-31b5-40c6-8b41-d9869ec717fc",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fadd7ad1-1a0d-4f5c-9423-98c8c9a8aa3d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6dc105b5-c063-440c-87cf-3e4c0a12ae45",
+          "type": "column",
+          "children": [
+            {
+              "id": "4a9e9477-465c-4a4d-86cd-b922973d4a69",
+              "type": "paragraph",
+              "html": "<em><strong>The March of Spare Time: The Problem &amp; Promise of Leisure in the Great Depression</strong></em> was written by Susan Currell, published by the University of Pennsylvania Press, March 9, 2005."
+            },
+            {
+              "id": "cf2d3d5c-d92d-4b91-b704-e01a4f2ec4e2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "405b8695-9886-4ec6-95dc-804d50bc9d2d",
+              "type": "quote",
+              "html": "<em>In </em>The March of Spare Time<em>, Susan Currell explores how and why leisure became an object of such intense interest, concern, and surveillance during the Great Depression. As Americans experienced record high levels of unemployment, leisure was thought by reformers, policy makers, social scientists, physicians, labor unions, and even artists to be both a cause of and a solution to society's most entrenched ills. Of all the problems that faced America in the 1930s, only leisure seemed to offer a panacea for the rest.<br><br>The problem centered on divided opinions over what constituted proper versus improper use of leisure time. On the one hand, sociologists and reformers excoriated as improper such leisure activities as gambling, loafing, and drinking. On the other, the Works Progress Administration and the newly professionalized recreation experts promoted proper leisure activities such as reading, sports, and arts and crafts. Such attention gave rise to new ideas about how Americans should spend their free time to better themselves and their nation.<br><br>These ideas were propagated in social science publications and proliferated into the wider cultural sphere. Films, fiction, and radio also engaged with new ideas about leisure, more extensively than has previously been recognized. In examining this wide spectrum of opinion, Currell offers the first full-scale account of the fears and hopes surrounding leisure in the 1930s, one that will be an important addition to the cultural history of the period.</em>"
+            },
+            {
+              "id": "6505f6b1-8127-423a-8f13-ea7020f52b2e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0e7e310c-bd4e-4d66-913a-d21d2f82ea40",
+          "type": "column",
+          "children": [
+            {
+              "id": "36b6da68-e29c-4489-beb6-b31af964a773",
+              "type": "image",
+              "src": "./assets/images/untitled-99fc73a816d2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab05edb0-5fe8-40d8-9014-2366a492ae1c",
+      "type": "divider"
+    },
+    {
+      "id": "b8312465-94ac-478f-8f95-fae7e711832a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6178f3d9-0725-4458-a1f8-92770f574d72",
+          "type": "column",
+          "children": [
+            {
+              "id": "23d4945f-b1ff-4ea8-ba10-baf77b42728e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6e6c7b16-5c5a-48d1-88f4-db631fab3077",
+          "type": "column",
+          "children": [
+            {
+              "id": "5100b3c0-d808-49d9-828e-4d19feabe36a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Nnrz3C\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01a3b603-32ae-4305-bb5e-1f7049ddcc5c",
+      "type": "divider"
+    }
+  ]
+}

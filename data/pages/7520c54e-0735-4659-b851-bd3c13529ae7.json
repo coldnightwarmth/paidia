@@ -1,0 +1,144 @@
+{
+  "id": "7520c54e-0735-4659-b851-bd3c13529ae7",
+  "slug": "johan-huizinga",
+  "title": "Johan Huizinga",
+  "icon": "./assets/images/user-circle-filled-gray-e6d9ecea2c26.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "168b4ff9-9835-46d8-acec-a0b44ae2427e",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/7520c54e07354659b851bd3c13529ae7",
+  "createdTime": 1651681020000,
+  "lastEditedTime": 1681313454351,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Johan Huizinga"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/huizingaoutdoors-ca606c211211.webp",
+  "blocks": [
+    {
+      "id": "75d4f0dc-8aa3-4a2d-b99a-bf1315c4c40b",
+      "type": "divider"
+    },
+    {
+      "id": "df7a224a-b0a6-43c4-a093-517c9fecb6c9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "75d6631b-5942-4c8c-a40f-e16992d44675",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bf57c07b-2e1c-49d7-b38c-0f89c9451706",
+          "type": "column",
+          "children": [
+            {
+              "id": "64cc8110-2e75-43d2-8ff0-ec263456b4bb",
+              "type": "paragraph",
+              "html": "<strong>Johan Huizinga </strong> (<em>December 7th 1872 – February 1st 1945</em>) was a Dutch historian and one of the founders of modern cultural history.<br><br>Huizinga had an aesthetic approach to history, where art and spectacle played an important part. His most famous work is The Autumn of the Middle Ages (a.k.a. The Waning of the Middle Ages and as Autumntide of the Middle Ages) (1919).<br>"
+            },
+            {
+              "id": "9a811c2e-1a45-4508-9d4b-58defa66586d",
+              "type": "paragraph",
+              "html": "Worthy of mentioning are also Erasmus (1924) and Homo Ludens (1938). In the latter book he discussed the possibility that play is the primary formative element in human culture. Huizinga also published books on American history and Dutch history in the 17th century."
+            },
+            {
+              "id": "9f9ef203-dcf4-420e-a370-bdacec372b03",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "13e485dd-4aca-4687-a8fa-0b18dcd3df6c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "82e55c52-551d-4acf-939c-621b684a6de2",
+          "type": "column",
+          "children": [
+            {
+              "id": "b2208a07-681c-44cc-aa85-25782debd703",
+              "type": "image",
+              "src": "./assets/images/huizingaoutdoors-ca606c211211.webp",
+              "caption": "",
+              "alt": "huizingaoutdoors.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6801578f-e736-497a-b9a4-0d61ee33c49d",
+      "type": "divider"
+    },
+    {
+      "id": "144c0b0c-b833-46be-9750-d2c47c3cd597",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "13b170ce-1677-478d-85e1-3ca4b739f941",
+      "type": "paragraph",
+      "html": "<a href=\"#/homo-ludens-44772672\">Homo Ludens: A Study of the Play-Element in Culture</a> (1938) (<em>book</em>)"
+    },
+    {
+      "id": "6177131b-0916-49ce-ab01-357457dfeb99",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3a04bcbe-05cb-479b-a7d4-84d7d6ae1d32",
+      "type": "divider"
+    },
+    {
+      "id": "1da13426-e677-490f-960d-3b28530d33a6",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "cc38f254-bdac-4062-bd95-401804276e31",
+      "type": "paragraph",
+      "html": "<a href=\"#/is-the-homo-ludens-cheerful-and-serious-at-the-same-time\">Is the Homo Ludens Cheerful &amp; Serious at the Same Time?</a> (<em>article</em>)"
+    },
+    {
+      "id": "4a955cfb-3220-48e6-8585-fc5243a6db96",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fbd5cafe-55f8-46c1-9772-19ea0d51456e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "87e7cab3-d785-4c0e-8299-22f93d6411c3",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "9bbd4172-9d81-47ec-bd52-bbe48867b2e3",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "1fc36035-a1b1-4cb6-8e15-84a3e7eed269",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

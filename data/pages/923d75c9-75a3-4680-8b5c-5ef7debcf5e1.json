@@ -1,0 +1,141 @@
+{
+  "id": "923d75c9-75a3-4680-8b5c-5ef7debcf5e1",
+  "slug": "the-future-of-play-theory",
+  "title": "The Future of Play Theory",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Future-of-Play-Theory-923d75c975a346808b5c5ef7debcf5e1?pvs=21",
+  "createdTime": 1651705309509,
+  "lastEditedTime": 1681314051086,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Future of Play Theory"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8d73ea3d6ee4.webp",
+  "blocks": [
+    {
+      "id": "36e66d93-1129-4b30-b9d4-da589d6127ab",
+      "type": "divider"
+    },
+    {
+      "id": "b973ef4c-ab3a-47fa-b580-71beb6bee0a8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c0dd6c6b-98da-4a51-ab88-810f22b343a8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "209dd1ad-7b18-4446-b82c-d3c0df9c0216",
+          "type": "column",
+          "children": [
+            {
+              "id": "44dcd4a2-aaef-432c-8625-e5156a2c71aa",
+              "type": "paragraph",
+              "html": "<em><strong>The Future of Play Theory: A Multidisciplinary Inquiry into the Contributions of Brian Sutton-Smith </strong></em>is a collection of essays edited by Anthony D. Pellegrini, published by SUNY Press, August 10, 1995."
+            },
+            {
+              "id": "bcbdf996-7799-4a78-82a6-8e25ff0fca7a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ab796114-ed6c-4b82-92c4-c9fa42f3212c",
+              "type": "quote",
+              "html": "<em>This book looks at the impact of play on child development.</em>"
+            },
+            {
+              "id": "adc88c9a-ad58-4603-b7e6-a9bdee2c1701",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "576930e2-c075-496e-8f0e-b71f5e790def",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "507fb13c-647f-414b-a669-dcea82645ed6",
+          "type": "column",
+          "children": [
+            {
+              "id": "d673e7a3-773c-4061-8373-55bedfe5cdd1",
+              "type": "image",
+              "src": "./assets/images/untitled-8d73ea3d6ee4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9d4c159d-a3f4-4ff4-98f1-610ecb62a242",
+      "type": "divider"
+    },
+    {
+      "id": "929d61d3-13f9-4c43-aacd-e9adf5043010",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2691580c-20ee-4a49-9807-2f4d4ec7c37d",
+          "type": "column",
+          "children": [
+            {
+              "id": "99c3ac28-2ebe-4c41-aa1c-d89e86debb9a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6934c99b-93a5-42f0-a2fc-66147290c791",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b8b0201-1d55-48b5-8efc-6d0addcff503",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SS8urB\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "507ef498-b1db-4781-b3ba-a4479aec5b5b",
+      "type": "divider"
+    },
+    {
+      "id": "bc1b4d8c-44e3-4360-8542-fd20cf090919",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "77967d9a-9464-493f-97c9-209a51786e46",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-future-of-writing-about-games\">The Future of Writing About Games</a> (<em>video</em>)"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "6646f1c7-76dd-4abc-9bf6-18f04c71e742",
+  "slug": "peripheral-vision",
+  "title": "Peripheral Vision",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Peripheral-Vision-6646f1c776dd4abc9bf618f04c71e742?pvs=21",
+  "createdTime": 1671548605920,
+  "lastEditedTime": 1681312194977,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Peripheral Vision",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-31ae9b4b757b.webp",
+  "blocks": [
+    {
+      "id": "ac5caf41-52a9-44ac-9070-7f51b838d9ea",
+      "type": "divider"
+    },
+    {
+      "id": "e3caf5ee-10a3-4412-9298-4e6bae7432bd",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b32f8ab1-730d-4f1b-9fcc-eb1c1766a003",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a0f3c790-4438-427a-9e19-e06226b51507",
+          "type": "column",
+          "children": [
+            {
+              "id": "4f67344f-8fe3-45c1-8b2b-a4349a16755e",
+              "type": "paragraph",
+              "html": "<em><strong>Peripheral Vision: Bell Labs, the S-C 4020, &amp; the Origins of Computer Art</strong></em> was written by Zabet Patterson, published The MIT Press, July 17, 2015."
+            },
+            {
+              "id": "b1fd353d-579e-4503-aa0a-cf48ca1cdb42",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2d020ed2-0898-4056-a4b5-2e2ebd001a22",
+              "type": "quote",
+              "html": "<strong><em>How the S-C 4020—a mainframe peripheral intended to produce scientific visualizations—shaped a series of early computer art projects that emerged from Bell Labs.<br></em></strong><em><br>In 1959, the electronics manufacturer Stromberg-Carlson produced the S-C 4020, a device that allowed mainframe computers to present and preserve images. In the mainframe era, the output of text and image was quite literally peripheral; the S-C 4020—a strange and elaborate apparatus, with a cathode ray screen, a tape deck, a buffer unit, a film camera, and a photo-paper camera—produced most of the computer graphics of the late 1950s and early 1960s. At Bell Laboratories in Murray Hill, New Jersey, the S-C 4020 became a crucial part of ongoing encounters among art, science, and technology. In this book, Zabet Patterson examines the extraordinary uses to which the Bell Labs SC-2040 was put between 1961 and 1972, exploring a series of early computer art projects shaped by the special computational affordances of the S-C 4020.<br><br>The S-C 4020 produced tabular data, graph plotting and design drawings, grid projections, and drawings of axes and vectors; it made previously impossible visualizations possible. Among the works Patterson describes are E. E. Zajac's short film of an orbiting satellite, which drew on the machine's graphic capacities as well as the mainframe's calculations; a groundbreaking exhibit of “computer generated pictures” by Béla Julesz and Michael Noll, two scientists interested in visualization; animations by Kenneth Knowlton and the Bell Labs artist-in-residence Stan VanDerBeek; and Lillian Schwartz's “cybernetic” film Pixillation.<br><br>Arguing for the centrality of a peripheral, Patterson makes a case for considering computational systems not simply as machines but in their cultural and historical context.</em>"
+            },
+            {
+              "id": "5458a902-e6e4-4376-aace-8b3dddbe2917",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9dc0393b-bcf9-475e-bf68-e5cd533327ca",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8c2377e1-1b10-4fa5-8d8f-19e39a6a051e",
+          "type": "column",
+          "children": [
+            {
+              "id": "c30aaf0f-5b1c-4e22-ac32-372d6a1ad8ad",
+              "type": "image",
+              "src": "./assets/images/untitled-31ae9b4b757b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "892506d6-8e29-46fb-99a1-c9baae2569b4",
+      "type": "divider"
+    },
+    {
+      "id": "e08458ee-f823-4b1b-9471-a3a3992e36ad",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e2fe3ab4-94e8-4ac9-8519-dae4475cfa1e",
+          "type": "column",
+          "children": [
+            {
+              "id": "8d4255ea-760c-469f-ba79-13949779c82c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a7a695a9-9a9f-42fc-b5fd-eba794a16a7b",
+          "type": "column",
+          "children": [
+            {
+              "id": "551e6339-5dfd-4757-9444-f74818d38e33",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/gp/product/0262029529?ref_=dbs_m_mng_rwt_calw_thcv_4&amp;storeType=ebooks&amp;qid=1667331855&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5f11f60-adcd-4e2a-8c3d-aa42e9170aaf",
+      "type": "divider"
+    }
+  ]
+}

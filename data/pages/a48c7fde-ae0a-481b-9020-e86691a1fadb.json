@@ -1,0 +1,126 @@
+{
+  "id": "a48c7fde-ae0a-481b-9020-e86691a1fadb",
+  "slug": "excitement-processes",
+  "title": "Excitement Processes",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Excitement-Processes-a48c7fdeae0a481b9020e86691a1fadb?pvs=21",
+  "createdTime": 1667319397823,
+  "lastEditedTime": 1681312677164,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Excitement Processes"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d1e094b16a4a.webp",
+  "blocks": [
+    {
+      "id": "07d5fbf5-68f7-444e-8645-ce455c7df9d2",
+      "type": "divider"
+    },
+    {
+      "id": "0d03a4a5-ae0c-4850-9905-566a80c5e004",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "519a7294-d2e9-4320-a9f5-3a94491d8ad9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fa7e14aa-b4be-45e9-8d55-648480b0f96a",
+          "type": "column",
+          "children": [
+            {
+              "id": "87eb243a-6061-42a4-b55d-a8fab2f306f6",
+              "type": "paragraph",
+              "html": "<em><strong>Excitement Processes: Norbert Elias's unpublished works on sports, leisure, body, culture</strong></em> is a collection of essays edited by Jan Haut, Paddy Dolan, Dieter Reicher, &amp; Raúl Sánchez García, published by Springer, July 25, 2017."
+            },
+            {
+              "id": "000e80b8-8e98-4e6f-8305-2481821da748",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5a48117b-64d9-4e3f-83ab-c38f45792e9f",
+              "type": "quote",
+              "html": "<em>The book focuses on major aspects of Norbert Elias's social theory through research on supposed “minor” topics, such as manners, sports, leisure and cultural practices. While many of his publications became essential for scholars in the different disciplines concerned, the development of the figurational approach towards these fields was not always completed. The edited volume picks up some lose ends by including archive manuscripts by Elias on the genesis of sport, developments of cultural practices, and the sociology of the body, which are published here for the very first time. Based on critical reviews of these texts, international experts show how the new material adds up to Elias’s oeuvre and how it can be fruitfully applied to current research.</em>"
+            },
+            {
+              "id": "d285f06e-6962-4b63-a0e0-77fe7a24d022",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7d4e049e-bdd3-47bf-8f7e-8939a43d982a",
+          "type": "column",
+          "children": [
+            {
+              "id": "f48f0b98-5b00-499b-8b8d-1dc5e053bd4f",
+              "type": "image",
+              "src": "./assets/images/untitled-d1e094b16a4a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "339be14a-1d52-46b3-b11c-5bf2b23b6bae",
+      "type": "divider"
+    },
+    {
+      "id": "b28f5919-20a6-4b5f-b65e-b5379ff06527",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d2837fd3-b6ef-401c-b676-ba880ab50499",
+          "type": "column",
+          "children": [
+            {
+              "id": "a1a0ede5-e145-4e0c-93fd-a1dc00d719d5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "910c5fbc-a4d5-402a-86d4-abbdec6bcb7a",
+          "type": "column",
+          "children": [
+            {
+              "id": "36d17be8-8da7-4c62-ba07-b5291df84bbe",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sOLSxj\" target=\"_blank\" rel=\"noreferrer\">Link to purchase (*</a><a href=\"https://amzn.to/3sOLSxj\" target=\"_blank\" rel=\"noreferrer\"><em>this supports Paidiasophia!</em></a><a href=\"https://amzn.to/3sOLSxj\" target=\"_blank\" rel=\"noreferrer\">)</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faf9bebd-151e-4a2a-885e-7662a8fe8472",
+      "type": "divider"
+    }
+  ]
+}

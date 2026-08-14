@@ -1,0 +1,131 @@
+{
+  "id": "d426d64f-7085-4257-82bc-b0610c8b9509",
+  "slug": "sound-play",
+  "title": "Sound Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Sound-Play-d426d64f7085425782bcb0610c8b9509?pvs=21",
+  "createdTime": 1651767617881,
+  "lastEditedTime": 1681314205564,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Sound Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-150e09187633.webp",
+  "blocks": [
+    {
+      "id": "f8258070-b0f1-469b-a754-e15e377c18ad",
+      "type": "divider"
+    },
+    {
+      "id": "6d3ecd47-468a-4c58-be41-6b0b95cfe7ea",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bdf93037-9ba3-49fe-873f-73ab94b89044",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3cb10e9a-ff43-41ea-9752-e444430035f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "52d0a290-935a-47d9-b6ef-1f2c18eecb78",
+              "type": "paragraph",
+              "html": "<em><strong>Sound Play: Video Games &amp; the Musical Imagination</strong></em> was written by William Cheng, published by Oxford University Press, March 5, 2014."
+            },
+            {
+              "id": "d0d38721-b73b-444c-aa38-95a44e71e9bd",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5fb667ce-37f1-4fcd-bafe-842d7f96b7cb",
+              "type": "quote",
+              "html": "<em>Video games open portals to fantastical worlds where imaginative play and enchantment prevail. These virtual settings afford us considerable freedom to act out with relative impunity. Or do they? </em>Sound Play<em> explores the aesthetic, ethical, and sociopolitical stakes of people's creative engagements with gaming's audio phenomena-from sonorous violence to synthesized operas, from democratic music-making to vocal sexual harassment. William Cheng shows how video games empower their designers, composers, players, critics, and scholars to tinker (often transgressively) with practices and discourses of music, noise, speech, and silence. Faced with collisions between utopian and alarmist stereotypes of video games, </em>Sound Play<em> synthesizes insights across musicology, sociology, anthropology, communications, literary theory, philosophy, and additional disciplines. With case studies spanning </em>Final Fantasy VI, Silent Hill, Fallout 3, The Lord of the Rings Online<em>, and </em>Team Fortress 2<em>, this book insists that what we do in there-in the safe, sound spaces of games-can ultimately teach us a great deal about who we are and what we value (musically, culturally, humanly) out here.</em>"
+            },
+            {
+              "id": "853dd67c-c6bd-4bd1-98b2-c64ac56d15f7",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e44ebbc5-ebfd-4498-8f16-7057de80bc32",
+          "type": "column",
+          "children": [
+            {
+              "id": "0540c145-af17-4d0c-99f6-bd70875409b3",
+              "type": "image",
+              "src": "./assets/images/untitled-150e09187633.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02629dea-8f8b-47eb-9bc8-933e753cf54f",
+      "type": "divider"
+    },
+    {
+      "id": "74c1e105-18d1-4e74-8e75-a6e55b00e301",
+      "type": "columns",
+      "children": [
+        {
+          "id": "341e2515-a1fc-4084-b74c-99014d4315bb",
+          "type": "column",
+          "children": [
+            {
+              "id": "33fcf59d-60e3-412a-97e0-eae66d7b8558",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3575df01-8fed-4c06-9043-3f71d3ab2068",
+          "type": "column",
+          "children": [
+            {
+              "id": "b0f12c53-8105-4996-8c9b-d1b4b272aa99",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3QNk1Z5\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a3e523c-a416-4d6b-b796-3c85882c1f1d",
+      "type": "divider"
+    }
+  ]
+}

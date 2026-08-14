@@ -1,0 +1,131 @@
+{
+  "id": "1051a06c-caa9-4d15-8ada-0b432b2fc785",
+  "slug": "flash",
+  "title": "Flash",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "46177b24-2d03-4a55-945a-07bf7464a995",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Flash-1051a06ccaa94d158ada0b432b2fc785?pvs=21",
+  "createdTime": 1651712640183,
+  "lastEditedTime": 1681313934978,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Flash",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-347d2428fe61.webp",
+  "blocks": [
+    {
+      "id": "2a162e34-4282-4ef9-9c36-44dabfa930e3",
+      "type": "divider"
+    },
+    {
+      "id": "8afa5267-60bd-499c-9da7-6f062d6e6db2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3b9d934b-53b8-4c7a-9e67-3c1f23bfd269",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d4226d36-7e95-47d8-9b89-1e2b40d5cb3b",
+          "type": "column",
+          "children": [
+            {
+              "id": "916b1d72-5b11-49c1-8903-fb12549ef533",
+              "type": "paragraph",
+              "html": "<em><strong>Flash: Building the Interactive Web</strong></em> was written by Anastasia Salter &amp; John Murray, published by The MIT Press, August 29, 2014."
+            },
+            {
+              "id": "1fc9d649-5aae-4d30-83df-d29cb86ba3f2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e9581542-5536-430b-a4bb-12b26efe5b6a",
+              "type": "quote",
+              "html": "<em>How Flash rose and fell as the world's most ubiquitous yet divisive software platform, enabling the development and distribution of a world of creative content.<br><br>Adobe Flash began as a simple animation tool and grew into a multimedia platform that offered a generation of creators and innovators an astonishing range of opportunities to develop and distribute new kinds of digital content. For the better part of a decade, Flash was the de facto standard for dynamic online media, empowering amateur and professional developers to shape the future of the interactive Web. In this book, Anastasia Salter and John Murray trace the evolution of Flash into one of the engines of participatory culture.<br><br>Salter and Murray investigate Flash as both a fundamental force that shaped perceptions of the web and a key technology that enabled innovative interactive experiences and new forms of gaming. They examine a series of works that exemplify Flash's role in shaping the experience and expectations of web multimedia. Topics include Flash as a platform for developing animation (and the “Flashimation” aesthetic); its capacities for scripting and interactive design; games and genres enabled by the reconstruction of the browser as a games portal; forms and genres of media art that use Flash; and Flash's stance on openness and standards—including its platform-defining battle over the ability to participate in Apple's own proprietary platforms.<br><br>Flash's exit from the mobile environment in 2011 led some to declare that Flash was dead. But, as Salter and Murray show, not only does Flash live, but its role as a definitive cross-platform tool continues to influence web experience.</em>"
+            },
+            {
+              "id": "258fe825-a6ea-491e-acca-4dd361e638e2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "195ac383-09ef-40e8-af95-26cd582a89b5",
+          "type": "column",
+          "children": [
+            {
+              "id": "ebf0c0de-b6cb-49b5-8716-79155dad2efb",
+              "type": "image",
+              "src": "./assets/images/untitled-347d2428fe61.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a43bf7e-3fb7-462a-833e-abee7acf0c52",
+      "type": "divider"
+    },
+    {
+      "id": "aa0b5bf0-d06a-4242-bce0-9d991fd02144",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0208816e-d2f4-4ae5-b280-ca08f121c6dc",
+          "type": "column",
+          "children": [
+            {
+              "id": "9cbe8c55-8d4c-428d-8481-9e10251aae65",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f2a28c08-3294-4035-b777-91bfe9b8a6ef",
+          "type": "column",
+          "children": [
+            {
+              "id": "351869ae-a574-4160-bd29-91a33aa70b38",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NtTzTo\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b831612f-14c1-48ad-8d8f-47343492f756",
+      "type": "divider"
+    }
+  ]
+}

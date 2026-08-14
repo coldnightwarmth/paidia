@@ -1,0 +1,116 @@
+{
+  "id": "b8efda67-2f3c-494d-9828-53f54675de16",
+  "slug": "cory-arcangel",
+  "title": "Cory Arcangel",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "f9d064b5-05b3-4706-badb-4050ffd4d3cf",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/b8efda672f3c494d982853f54675de16",
+  "createdTime": 1673622591829,
+  "lastEditedTime": 1681329146643,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Cory Arcangel",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/arcangel-4-sub-jumbo-ebe9ca1c7de7.webp",
+  "blocks": [
+    {
+      "id": "85c41546-d0cf-4c62-941b-707c5354af73",
+      "type": "divider"
+    },
+    {
+      "id": "24602e38-7909-42f5-9148-38aea8826fb0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3ad03b27-2689-4a8b-8c87-28e43ea98b2d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b1950fa2-561d-4722-9780-ac8983d36f31",
+          "type": "column",
+          "children": [
+            {
+              "id": "01b1c13b-5f0b-45a9-9f0a-51f9b4edaeb9",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "6df6d4be-5875-42ab-9764-b4158dc0612b",
+          "type": "column",
+          "children": [
+            {
+              "id": "bda8d53c-bce0-4358-991d-8618d54350e5",
+              "type": "image",
+              "src": "./assets/images/arcangel-4-sub-jumbo-ebe9ca1c7de7.webp",
+              "caption": "",
+              "alt": "ARCANGEL-4-SUB-jumbo.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b3035aa6-3f14-4027-a0eb-6322655f5fa0",
+      "type": "divider"
+    },
+    {
+      "id": "a0a7ac77-38db-4514-9c9f-29c6498d5f83",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "886326d0-e100-44dc-9c91-c7412e0969f4",
+      "type": "paragraph",
+      "html": "Super Mario Cloud (2002) (<em><em><em><em><em><em><em>artwork</em></em></em></em></em></em></em>)"
+    },
+    {
+      "id": "24dc4636-4f3f-4504-b2e4-ac31d314572d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "88478fd3-b72d-472e-bfcb-842493457986",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "364b8189-5d97-4414-8949-517f12b42224",
+      "type": "divider"
+    },
+    {
+      "id": "900463e5-9490-45a5-b451-cce5059bbcfd",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "84d7d297-2d3a-4421-8de1-255f22c3e486",
+      "type": "page_link",
+      "targetId": "84d7d297-2d3a-4421-8de1-255f22c3e486",
+      "title": "Mabel Addis",
+      "notionType": "page"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "b48594c3-7022-47f5-8bf0-288777f9802b",
+  "slug": "framing-play-design",
+  "title": "Framing Play Design",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Framing-Play-Design-b48594c3702247f58bf0288777f9802b?pvs=21",
+  "createdTime": 1659712841708,
+  "lastEditedTime": 1681313048615,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Framing Play Design",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ac7cd08b7be0.webp",
+  "blocks": [
+    {
+      "id": "8b8201cb-f6d0-4508-9bb8-39b3f8630f1b",
+      "type": "divider"
+    },
+    {
+      "id": "5e0d8aca-c3d7-4c8c-99f9-c414ce8a13d5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3c0f020f-cde9-452e-a1a1-0e1107f783a5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3255ebb7-d3ca-415e-9092-9823e07f8404",
+          "type": "column",
+          "children": [
+            {
+              "id": "3216e92f-784c-46ae-90af-529ad338bed2",
+              "type": "paragraph",
+              "html": "<em><strong>Framing Play Design: A Hands-on Guide for Designers, Learners &amp; Innovators</strong></em><strong> </strong>was written by Sune Gudiksen &amp; Helle Maria Skovberg, published by BIS Publishers, October 20, 2020."
+            },
+            {
+              "id": "2b42a9de-8319-4bd3-9833-98f3c10b4f2a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ee73f95b-a9d3-45a8-bbaf-d497bed3b637",
+              "type": "quote",
+              "html": "<em>For many decades, play has been placed outside of learning spheres and only meant for children. What can be observed now is a revival of the phenomenal characteristics and potentials found in strong play experiences across life-long learning target groups and applied situations as well as broadly in the product, service and experience development industry. The effect play can have on participants and surroundings can be extremely effective. This book provides operational design guidelines on how to find strong balances in the making of specific play-based designs as well as how to involve users and stakeholders in the process of play design making. Through curious mindsets and surprising features, designers, learners and innovators are moved to new types of perspectives, approaches, beliefs and routines. This is considered to be a vital ingredient in the 21st century and of the coming decade because of rapid changes in school sectors and industry markets. This book provides frameworks and theories at a more operational level, which can guide those interested in designing for particular play experiences at a hands-on level.</em>"
+            },
+            {
+              "id": "6063180d-9f04-44ea-af72-306be62767c4",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7efbad9e-5fed-4110-8fb5-ce805bfa9257",
+          "type": "column",
+          "children": [
+            {
+              "id": "fedac137-22f2-492e-ab4b-3a6ba136f01d",
+              "type": "image",
+              "src": "./assets/images/untitled-ac7cd08b7be0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2c70f3ce-db82-4b9a-bf62-c7b106c28cd2",
+      "type": "divider"
+    },
+    {
+      "id": "224830a3-4995-46c0-bedb-6ba6e59e9612",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0c1e2f15-f19d-4e74-8b38-fabe6e30b6e2",
+          "type": "column",
+          "children": [
+            {
+              "id": "2acfa314-97b5-48da-8e0d-a0c68eeb04bd",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "560d10c2-4d3f-4890-935f-273379f5a82f",
+          "type": "column",
+          "children": [
+            {
+              "id": "26b4fc8b-0353-4d85-b780-dbe3e08c4f87",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3vKqds5\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b83079c3-a508-40cd-aee3-60ea6d53d194",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "7c66b723-51ec-4800-ad8d-1031a1c7cf27",
+  "slug": "dungeons-dragons-and-digital-denizens",
+  "title": "Dungeons, Dragons, & Digital Denizens",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Dungeons-Dragons-Digital-Denizens-7c66b72351ec4800ad8d1031a1c7cf27?pvs=21",
+  "createdTime": 1651902468138,
+  "lastEditedTime": 1681313910350,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Dungeons, Dragons, & Digital Denizens",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4e52da32d631.webp",
+  "blocks": [
+    {
+      "id": "96ac271c-c770-4126-8102-f867c0905f54",
+      "type": "divider"
+    },
+    {
+      "id": "29df07e2-1618-46f0-900c-84c29a494a25",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "19feaaa8-f415-4c93-a26b-be63d86df345",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f2251361-e01e-4f79-948e-acf56d77dbcd",
+          "type": "column",
+          "children": [
+            {
+              "id": "46c4ce8c-4540-4101-98e4-c9a4cfb485c4",
+              "type": "paragraph",
+              "html": "<em><strong>Dungeons, Dragons, &amp; Digital Denizens: The Digital Role-Playing Game</strong></em> is a collection of essays edited by Gerald A. Voorhees, Joshua Call, &amp; Katie Whitlock, published by Continuum, February 16, 2012."
+            },
+            {
+              "id": "1ce2f5ab-1860-452a-b577-2b6f1b304193",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1926b4cd-d0b3-4fb2-8d47-08223f9531fe",
+              "type": "quote",
+              "html": "Dungeons, Dragons, and Digital Denizens<em> is a collection of scholarly essays that seeks to represent the far-reaching scope and implications of digital role-playing games as both cultural and academic artifacts. As a genre, digital role playing games have undergone constant and radical revision, pushing not only multiple boundaries of game development, but also the playing strategies and experiences of players.<br><br>Divided into three distinct sections, this premiere volume captures the distinctiveness of different game types, the forms of play they engender and their social and cultural implications. Contributors examine a range of games, from classics like </em>Final Fantasy<em> to blockbusters like </em>World of Warcraft<em> to obscure genre bending titles like </em>Lux Pain<em>. Working from a broad range of disciplines such as ecocritism, rhetoric, performance, gender, and communication, these essays yield insights that enrich the field of game studies and further illuminate the cultural, psychological and philosophical implications of a society that increasingly produces, plays and discourses about role playing games.</em>"
+            },
+            {
+              "id": "f2574459-91b9-490c-9217-cc4f9da692a1",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a3196113-efd6-4183-bb82-653cd62c7dbb",
+          "type": "column",
+          "children": [
+            {
+              "id": "0a24c8b7-1244-4808-94d7-dcb6b002e4eb",
+              "type": "image",
+              "src": "./assets/images/untitled-4e52da32d631.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4300f97b-313d-4b46-95e3-85f959cfc9cb",
+      "type": "divider"
+    },
+    {
+      "id": "65b328f3-d0bd-4032-893e-ca67f8aefa69",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9bd46ac0-1bfe-4558-8c30-97683880bbaf",
+          "type": "column",
+          "children": [
+            {
+              "id": "0f16dac8-558a-4cd7-be67-d7efc7e9eb43",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c451b292-289d-492c-bf23-7116ac268f9b",
+          "type": "column",
+          "children": [
+            {
+              "id": "da4c3c7a-2a93-411b-833d-e010914813ab",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xWuskr\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c5a4b92-4e24-4578-96b7-a94bb0e497df",
+      "type": "divider"
+    }
+  ]
+}

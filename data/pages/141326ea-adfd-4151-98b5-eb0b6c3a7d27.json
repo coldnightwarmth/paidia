@@ -1,0 +1,129 @@
+{
+  "id": "141326ea-adfd-4151-98b5-eb0b6c3a7d27",
+  "slug": "john-romero",
+  "title": "John Romero",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ff095af8-c4a1-4725-a95d-eede18d6c32a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/141326eaadfd415198b5eb0b6c3a7d27",
+  "createdTime": 1673982488157,
+  "lastEditedTime": 1681329204588,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "John Romero"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/44914-489503526288-6065428-n-9ba5221113a2.webp",
+  "blocks": [
+    {
+      "id": "452be5bc-12f2-425c-bdc5-f21bebfa8c7c",
+      "type": "divider"
+    },
+    {
+      "id": "4fabd785-d315-4935-b26b-4fc7563a0713",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "61e547d1-0ad8-48a0-afbf-f5806f14022f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f66b9963-66b9-474c-8431-076eafcb3ec6",
+          "type": "column",
+          "children": [
+            {
+              "id": "6bbd7316-8f03-4e57-9c41-ec6ad90219ae",
+              "type": "paragraph",
+              "html": "<strong>John Romero</strong> <strong> </strong>(<em>Born xx, xxxx – </em>) is"
+            },
+            {
+              "id": "9d0101a5-c370-4ec2-960b-324aac725b9e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "35e4e12f-b8be-4bb6-aeda-e0f6a8078489",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "036211af-5c5a-4f00-881e-f91d067be311",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "526dd835-f60c-4bd0-b4f1-1274ed12ca9a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4dc6eedd-4e2b-479c-ab02-6c0ba50600fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "49f81c57-8f04-4e9e-9d02-73c868ddbf6e",
+              "type": "image",
+              "src": "./assets/images/44914-489503526288-6065428-n-9ba5221113a2.webp",
+              "caption": "",
+              "alt": "44914_489503526288_6065428_n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72d17a3c-83c1-4c39-89e5-d8b34de69460",
+      "type": "divider"
+    },
+    {
+      "id": "69168531-1a83-48eb-8ba3-205451705b3d",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "7051a52d-fe7a-44ec-8ebd-b7563b2ae5ec",
+      "type": "paragraph",
+      "html": "<a href=\"#/doom\">Doom</a> (1993) (<em>game</em>)"
+    },
+    {
+      "id": "d98da026-fe5a-40b0-8435-5ef9b8c007af",
+      "type": "paragraph",
+      "html": "<a href=\"#/quake\">Quake</a> (1996) (<em>game</em>)"
+    },
+    {
+      "id": "116a0e18-98f8-4241-8d74-802087d4bffb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3f96dad3-bb1d-406e-b78b-bf6b8100adfc",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6a0295ba-a61a-4a8a-ade8-87d1356e190e",
+      "type": "divider"
+    },
+    {
+      "id": "7ca7f97c-cb79-47fa-8365-8798bae6833b",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "39e5eae6-a4ba-4dd6-9dda-d97573fb6e63",
+  "slug": "racing-the-beam",
+  "title": "Racing the Beam",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "46177b24-2d03-4a55-945a-07bf7464a995",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Racing-the-Beam-39e5eae6a4ba4dd69ddad97573fb6e63?pvs=21",
+  "createdTime": 1651704015273,
+  "lastEditedTime": 1681313928571,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Racing the Beam",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7c78cfc34953.webp",
+  "blocks": [
+    {
+      "id": "e9a5a0ae-a439-42fc-a7e3-8d307e841952",
+      "type": "divider"
+    },
+    {
+      "id": "2fee874d-f2c0-4b01-93c6-7a56927437cd",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1dd7ed53-7891-4c0b-a3e6-9e8d7f4cdb5b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c2113623-1fe6-4eb1-8fd5-4f85b4c4a00a",
+          "type": "column",
+          "children": [
+            {
+              "id": "8c5c8497-33b4-437e-b881-cfb08f803da3",
+              "type": "paragraph",
+              "html": "<em><strong>Racing the Beam: The Atari Video Computer System</strong></em> was written by Nick Montfort &amp; <a href=\"#/ian-bogost\">Ian Bogost</a>, published by The MIT Press, March 31, 2009."
+            },
+            {
+              "id": "8cc60189-7ea8-474e-8479-529faa561dc0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "894336d7-986a-46ee-a11f-71b1906684f6",
+              "type": "quote",
+              "html": "<em><strong>A study of the relationship between platform and creative expression in the Atari VCS.<br><br></strong></em><em>The Atari Video Computer System dominated the home video game market so completely that “Atari” became the generic term for a video game console. The Atari VCS was affordable and offered the flexibility of changeable cartridges. Nearly a thousand of these were created, the most significant of which established new techniques, mechanics, and even entire genres. This book offers a detailed and accessible study of this influential video game console from both computational and cultural perspectives.<br><br>Studies of digital media have rarely investigated platforms―the systems underlying computing. This book (the first in a series of Platform Studies) does so, developing a critical approach that examines the relationship between platforms and creative expression. Nick Montfort and Ian Bogost discuss the Atari VCS itself and examine in detail six game cartridges: </em>Combat, Adventure, Pac-Man, Yars' Revenge, Pitfall!<em>, and </em>Star Wars: The Empire Strikes Back<em>. They describe the technical constraints and affordances of the system and track developments in programming, gameplay, interface, and aesthetics. </em>Adventure<em>, for example, was the first game to represent a virtual space larger than the screen (anticipating the boundless virtual spaces of such later games as </em>World of Warcraft<em> and </em>Grand Theft Auto<em>), by allowing the player to walk off one side into another space; and </em>Star Wars: The Empire Strikes Back<em> was an early instance of interaction between media properties and video games. Montfort and Bogost show that the Atari VCS―often considered merely a retro fetish object―is an essential part of the history of video games.</em>"
+            },
+            {
+              "id": "671067d0-5026-4a72-9817-8fa95244d089",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "977e6190-4467-49e5-88f9-ab17ba745699",
+          "type": "column",
+          "children": [
+            {
+              "id": "1f620a81-ff2f-4dc7-8c05-63c71a43505d",
+              "type": "image",
+              "src": "./assets/images/untitled-7c78cfc34953.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1d2536ff-7250-4724-aa3c-da5163d93e8e",
+      "type": "divider"
+    },
+    {
+      "id": "7bc9e55c-3af8-4040-bc17-07bb81cf4be5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "06e1bf73-0387-48a7-8ab1-bf3c66cf4467",
+          "type": "column",
+          "children": [
+            {
+              "id": "f07a7fe2-2880-40e2-945f-6c8f3146ef1c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0a63966e-2831-4eca-87c1-dc8da29b9b48",
+          "type": "column",
+          "children": [
+            {
+              "id": "87a591c5-5821-4c8e-9a04-0d10968956f9",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Dpg9YB\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4ee8f3a-23fc-4597-9f8d-cfc685126cf8",
+      "type": "divider"
+    }
+  ]
+}

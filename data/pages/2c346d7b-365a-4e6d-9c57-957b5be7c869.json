@@ -1,0 +1,134 @@
+{
+  "id": "2c346d7b-365a-4e6d-9c57-957b5be7c869",
+  "slug": "real-world-algorithms",
+  "title": "Real-World Algorithms",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Real-World-Algorithms-2c346d7b365a4e6d9c57957b5be7c869?pvs=21",
+  "createdTime": 1652536100512,
+  "lastEditedTime": 1681314165062,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Real-World Algorithms",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d07d471dce5f.webp",
+  "blocks": [
+    {
+      "id": "f4651c33-3d1b-4e63-8406-0b0771f5d35d",
+      "type": "divider"
+    },
+    {
+      "id": "b4ccae7a-416a-42b1-b8e1-0884cd9383fa",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a396bff9-f112-430d-ba55-b0f1c27be1d7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8e186128-2619-4ac6-ac18-f42c396d1a77",
+          "type": "column",
+          "children": [
+            {
+              "id": "181bd22a-6950-4d20-9788-87e61cf1a3eb",
+              "type": "paragraph",
+              "html": "<em><strong>Real-World Algorithms: A Beginner's Guide</strong></em> was written by Panos Louridas, published by The MIT Press, March 17, 2017."
+            },
+            {
+              "id": "b1b65030-25b8-491d-acda-08e3b96aa708",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6c902023-ae87-44e7-bb57-e483a12a9771",
+              "type": "quote",
+              "html": "<em>An introduction to algorithms for readers with no background in advanced mathematics or computer science, emphasizing examples and real-world problems.<br><br>Algorithms are what we do in order not to have to do something. Algorithms consist of instructions to carry out tasks—usually dull, repetitive ones. Starting from simple building blocks, computer algorithms enable machines to recognize and produce speech, translate texts, categorize and summarize documents, describe images, and predict the weather. A task that would take hours can be completed in virtually no time by using a few lines of code in a modern scripting program. This book offers an introduction to algorithms through the real-world problems they solve. The algorithms are presented in pseudocode and can readily be implemented in a computer language.<br><br>The book presents algorithms simply and accessibly, without overwhelming readers or insulting their intelligence. Readers should be comfortable with mathematical fundamentals and have a basic understanding of how computers work; all other necessary concepts are explained in the text. After presenting background in pseudocode conventions, basic terminology, and data structures, chapters cover compression, cryptography, graphs, searching and sorting, hashing, classification, strings, and chance. Each chapter describes real problems and then presents algorithms to solve them. Examples illustrate the wide range of applications, including shortest paths as a solution to paragraph line breaks, strongest paths in elections systems, hashes for song recognition, voting power Monte Carlo methods, and entropy for machine learning. </em>Real-World Algorithms<em> can be used by students in disciplines from economics to applied sciences. Computer science majors can read it before using a more technical text.</em>"
+            },
+            {
+              "id": "1e4016e9-f8a3-4324-8c80-574c517832f3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0434b8c2-da56-4117-bc31-fc9a7936cf17",
+          "type": "column",
+          "children": [
+            {
+              "id": "294de865-a510-4a83-b927-e2d194c30ed0",
+              "type": "image",
+              "src": "./assets/images/untitled-d07d471dce5f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79cd5401-a11b-4db9-9d11-5981fe6231a3",
+      "type": "divider"
+    },
+    {
+      "id": "21df0581-0e83-47fa-b611-8f2d8cd49a4a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a4e5211d-7e98-4cfc-bf0a-255ca9929665",
+          "type": "column",
+          "children": [
+            {
+              "id": "ba4ea85d-c66a-43dc-9f2e-5a7b09b38b07",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ffc6f6de-0ccb-4a4a-8e2c-6022c08bbd26",
+          "type": "column",
+          "children": [
+            {
+              "id": "051ac894-f0e3-46b8-8383-e6c88f263ce7",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bc4YrG\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5d61361-ca6c-44e7-a189-3f2e10f60031",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "57aab3f0-a403-4ef8-955a-5007d3f2a08f",
+  "slug": "landscapes-of-leisure",
+  "title": "Landscapes of Leisure",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "16515e7c-ec2f-4d98-9fec-861099f13e9d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Landscapes-of-Leisure-57aab3f0a4034ef8955a5007d3f2a08f?pvs=21",
+  "createdTime": 1667321274309,
+  "lastEditedTime": 1681312666914,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Landscapes of Leisure"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/24018895-uy2191-ss2191-c8cd53ac6195.webp",
+  "blocks": [
+    {
+      "id": "8abdd20b-2ef5-4193-8315-2a1490fea778",
+      "type": "divider"
+    },
+    {
+      "id": "d55b0707-f05f-4b67-b8c3-f2faff630230",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6a24a26a-f6eb-4478-9e79-1229277d0d01",
+      "type": "columns",
+      "children": [
+        {
+          "id": "492f6546-1e10-4405-b644-ec0137ac9737",
+          "type": "column",
+          "children": [
+            {
+              "id": "c50d347d-524f-4c33-a4e1-0eec32adb0ce",
+              "type": "paragraph",
+              "html": "<em><strong>Landscapes of Leisure: Space, Place &amp; Identities</strong></em> is a collection of essays edited by Sean Gammon &amp; Sam Elkington, published by Palgrave Macmillan, May 27, 2015."
+            },
+            {
+              "id": "2dc2d0c7-97e7-4ab4-aac0-390163853b02",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f67e7279-9170-4053-a2c4-d19b95164b8d",
+              "type": "quote",
+              "html": "<em>This volume aims to map out the complex relationships leisure has with notions of place and space in contemporary life. Illustrating the transdisciplinarity of this key feature of leisure studies, it explores how leisure places and spaces affect personal, social and collective identities.</em>"
+            }
+          ]
+        },
+        {
+          "id": "40fbd8fa-81bf-4891-a27c-e7dc3c36cd72",
+          "type": "column",
+          "children": [
+            {
+              "id": "d0dafe63-b979-427f-8436-4863867bb2f8",
+              "type": "image",
+              "src": "./assets/images/24018895-uy2191-ss2191-c8cd53ac6195.webp",
+              "caption": "",
+              "alt": "24018895._UY2191_SS2191_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44fa4825-cc05-491d-abfa-14eddf412342",
+      "type": "divider"
+    },
+    {
+      "id": "6d645730-ca45-4290-aca4-a11f9218c387",
+      "type": "columns",
+      "children": [
+        {
+          "id": "34c9582e-7cf4-4573-ba4f-6c45526b3e7d",
+          "type": "column",
+          "children": [
+            {
+              "id": "d739dc4a-b730-4df0-b165-0d3f5edeb757",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1b8b74c0-397f-4b6a-a882-d6d141bd4661",
+          "type": "column",
+          "children": [
+            {
+              "id": "bd8d0e0b-4a45-46bd-a305-a728bb5da775",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zyNpv8\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c73a38f8-8917-4943-b807-43c37e31f032",
+      "type": "divider"
+    },
+    {
+      "id": "b6f0c6ca-84c2-4250-8f47-827a0438e129",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "77e870c6-656a-4c8a-9b29-b5416c5ed223",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "6d089fc8-966d-4c28-999a-afab5482c571",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

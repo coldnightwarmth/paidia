@@ -1,0 +1,126 @@
+{
+  "id": "9e9f7c6c-d974-4729-96e8-17f06120b58d",
+  "slug": "handmade-pixels",
+  "title": "Handmade Pixels",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/9e9f7c6cd974472996e817f06120b58d",
+  "createdTime": 1651862245338,
+  "lastEditedTime": 1681314036580,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Handmade Pixels"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ce2e1c68a195.webp",
+  "blocks": [
+    {
+      "id": "04b8fd83-7f70-462c-a5bd-732094a9b533",
+      "type": "divider"
+    },
+    {
+      "id": "6fa311c0-c3ae-4260-bf52-ca8f949ecf21",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cd8135fd-910d-4ab2-8dd7-b4422aefeef0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fade3c32-b814-46bd-86b5-d71cee9f48b7",
+          "type": "column",
+          "children": [
+            {
+              "id": "11522321-5d31-4de6-8528-0f0fea0336fe",
+              "type": "paragraph",
+              "html": "<em><strong>Handmade Pixels: Independent Video Games &amp; the Quest for Authenticity</strong></em> was written by Jesper Juul, published by The MIT Press, October 8, 2019."
+            },
+            {
+              "id": "a55d616f-4fad-4632-bd61-ca13ccfb5621",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "75c9b21a-3185-43b2-bdcf-b2b9d3560dfe",
+              "type": "quote",
+              "html": "<strong><em>An investigation of independent video games—creative, personal, strange, and experimental—and their claims to handcrafted authenticity in a purely digital medium</em></strong><em>.<br><br>Video games are often dismissed as mere entertainment products created by faceless corporations. The last twenty years, however, have seen the rise of independent, or “indie,” video games: a wave of small, cheaply developed, experimental, and personal video games that react against mainstream video game development and culture. In Handmade Pixels, Jesper Juul examine the paradoxical claims of developers, players, and festivals that portray independent games as unique and hand-crafted objects in a globally distributed digital medium.<br><br>Juul explains that independent video games are presented not as mass market products, but as cultural works created by people, and are promoted as authentic alternatives to mainstream games. Writing as a game player, scholar, developer, and educator, Juul tells the story of how independent games—creative, personal, strange, and experimental—became a historical movement that borrowed the term “independent” from film and music while finding its own kind of independence.<br><br>Juul describes how the visual style of independent games signals their authenticity—often by referring to older video games or analog visual styles. He shows how developers use strategies for creating games with financial, aesthetic, and cultural independence; discusses the aesthetic innovations of “walking simulator” games; and explains the controversies over what is and what isn't a game. Juul offers examples from independent games ranging from </em>Dys4ia<em> to </em>Firewatch<em>; the text is richly illustrated with many color images.</em>"
+            },
+            {
+              "id": "307f514f-e612-4f1d-9de9-ce78d0b015bb",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "740e8a7d-1842-4d08-b707-cf5f0a0df292",
+          "type": "column",
+          "children": [
+            {
+              "id": "0465b0c7-6ab7-4600-9c7b-4cb8cfbb962b",
+              "type": "image",
+              "src": "./assets/images/untitled-ce2e1c68a195.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2370341b-2610-4381-b63b-ff1496f71b76",
+      "type": "divider"
+    },
+    {
+      "id": "b1582daa-3f17-468a-9f51-d95c6fb07c35",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4525b42c-6fcc-4091-82fe-bb029247cb09",
+          "type": "column",
+          "children": [
+            {
+              "id": "a7a6da2b-b8c8-4852-ac56-a2271aa5ad94",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fc1f6669-0ab0-4401-9699-1556fe651429",
+          "type": "column",
+          "children": [
+            {
+              "id": "4643a85a-9a37-4d51-8f0e-be7e9451e913",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3y3QjYa\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "890faec9-2950-4409-86c5-aa1d24bde664",
+      "type": "divider"
+    }
+  ]
+}

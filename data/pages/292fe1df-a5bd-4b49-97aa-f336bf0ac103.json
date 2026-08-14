@@ -1,0 +1,134 @@
+{
+  "id": "292fe1df-a5bd-4b49-97aa-f336bf0ac103",
+  "slug": "folks-292fe1df",
+  "title": "Folks",
+  "icon": "👤",
+  "cover": "./assets/images/monk-lab-c78732f7e24f.webp",
+  "type": "page",
+  "parentId": "9510bf90-3ac9-4424-974b-7424f3b33683",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/292fe1dfa5bd4b4997aaf336bf0ac103",
+  "createdTime": 1659389640000,
+  "lastEditedTime": 1704851072290,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Folks"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "0c71bf48-0f72-4ab3-bf97-6c021de6d500",
+      "type": "paragraph",
+      "html": "<strong>[UNDER CONSTRUCTION]</strong>"
+    },
+    {
+      "id": "af829643-a333-4d41-a630-6c2d3ff1d3ef",
+      "type": "divider"
+    },
+    {
+      "id": "acc87466-a07e-4b7b-a6fe-e1463d5c9914",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c3a41505-abc7-4d9c-9401-454b4a387951",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a845ec18-ed0d-44ef-b3c5-78339c48ce95",
+          "type": "column",
+          "children": [
+            {
+              "id": "be2ab5cc-d3e6-4e79-b87f-a547e6c1f43a",
+              "type": "page_link",
+              "targetId": "be2ab5cc-d3e6-4e79-b87f-a547e6c1f43a",
+              "title": "Writers & Scholars",
+              "notionType": "page"
+            }
+          ]
+        },
+        {
+          "id": "127f8cd2-33cf-4b78-8230-422f6dc9ae95",
+          "type": "column",
+          "children": [
+            {
+              "id": "6da45dd8-3bf9-4ff8-b243-0afe5b8dd2e9",
+              "type": "page_link",
+              "targetId": "6da45dd8-3bf9-4ff8-b243-0afe5b8dd2e9",
+              "title": "Gamedevs & Artists",
+              "notionType": "page"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8c6a05f-9274-49d4-909e-4a07f99ecb3e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6310ae5a-0ee4-44e5-a431-738d65519fc2",
+          "type": "column",
+          "children": [
+            {
+              "id": "a50c68f8-b751-4c5d-a0a8-e0685c593e63",
+              "type": "page_link",
+              "targetId": "a50c68f8-b751-4c5d-a0a8-e0685c593e63",
+              "title": "Other People",
+              "notionType": "page"
+            }
+          ]
+        },
+        {
+          "id": "8aa6241a-11e2-4766-88ea-89cb61685bed",
+          "type": "column",
+          "children": [
+            {
+              "id": "f82fec8f-e213-45ea-8eea-ad34adadb59a",
+              "type": "page_link",
+              "targetId": "f82fec8f-e213-45ea-8eea-ad34adadb59a",
+              "title": "Groups",
+              "notionType": "page"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aeba8e78-7bce-4e93-89fc-ed80e120c91e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6ae8f84e-3962-4df1-9dc7-b9b388a56139",
+      "type": "divider"
+    },
+    {
+      "id": "f7a9a631-46f0-48e8-bbd2-420932ed611e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4a8b11b4-0b6f-4185-9a7e-c9ba765d985b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a4622251-21b0-435e-8630-94d23047ce22",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

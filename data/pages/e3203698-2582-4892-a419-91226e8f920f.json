@@ -1,0 +1,131 @@
+{
+  "id": "e3203698-2582-4892-a419-91226e8f920f",
+  "slug": "shareware-heroes",
+  "title": "Shareware Heroes",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Shareware-Heroes-e320369825824892a41991226e8f920f?pvs=21",
+  "createdTime": 1662137695732,
+  "lastEditedTime": 1681313015171,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Shareware Heroes",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-08befb79d78c.webp",
+  "blocks": [
+    {
+      "id": "156b79f0-7363-435f-ae37-b5dfa8b1e0ab",
+      "type": "divider"
+    },
+    {
+      "id": "179a4b1a-0fca-406e-8448-a4b224dba481",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3aaced8b-14f3-47f1-89bf-75c9f037e706",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9ea32533-f64e-4d97-a46d-406c292ab8f4",
+          "type": "column",
+          "children": [
+            {
+              "id": "e4572dd7-8100-41aa-805d-dcfcb6d64fac",
+              "type": "paragraph",
+              "html": "<em><strong>Shareware Heroes: The renegades who redefined gaming at the dawn of the internet</strong></em> was Richard Moss, published by Unbound, January 10, 2023."
+            },
+            {
+              "id": "cb5b1293-16a0-4aa2-baf8-085bb508c2f8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c2c9c0bf-b2cd-4702-a2d5-ed3488f2c3bd",
+              "type": "quote",
+              "html": "Shareware Heroes<em> is a comprehensive, meticulously researched exploration of an important and too-long overlooked chapter in video game history<br><br></em>Shareware Heroes<em> takes readers on a journey, from the beginnings of the shareware model in the early 1980s, the origins of the concept, even the name itself, and the rise of shareware's major players – the likes of id Software, Apogee, and Epic MegaGames – through to the significance of shareware for the ‘forgotten’ systems – the Mac, Atari ST, Amiga – when commercial game publishers turned away from them.<br><br>This book also charts the emergence of commercial shareware distributors like Educorp and the BBS/newsgroup sharing culture. And it explores how shareware developers plugged gaps in the video gaming market by creating games in niche and neglected genres like vertically-scrolling shoot-'em-ups (e.g. </em>Raptor<em> and </em>Tyrian<em>) or racing games (e.g. </em>Wacky Wheels<em> and </em>Skunny Kart<em>) or RPGs (</em>God of Thunder<em> and </em>Realmz<em>), until finally, as the video game market again grew and shifted, and major publishers took control, how the shareware system faded into the background and fell from memory.</em>"
+            },
+            {
+              "id": "07d71f45-31cb-4cdc-967f-ddcf246a9eb6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "03399047-8f3f-497b-b1cd-c99861a47232",
+          "type": "column",
+          "children": [
+            {
+              "id": "572b7524-27ee-4365-8a01-de96fdf70933",
+              "type": "image",
+              "src": "./assets/images/untitled-08befb79d78c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e242c67-d613-485e-a94a-4857f2e95200",
+      "type": "divider"
+    },
+    {
+      "id": "1f20b54d-48ac-440d-b2a9-e45e65468913",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ff6d35b7-cfb2-4ff6-953a-56858ecd8606",
+          "type": "column",
+          "children": [
+            {
+              "id": "3b38aa53-68b8-4a5e-ad53-90f9708374e9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b0ce56f9-319f-4de7-9f85-b5754da92ac7",
+          "type": "column",
+          "children": [
+            {
+              "id": "5e152b37-4913-4b91-b4d5-cee09d38dca9",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3cK3TbQ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6aeddf80-40f3-467d-9051-eb8e11a4f231",
+      "type": "divider"
+    }
+  ]
+}

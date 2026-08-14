@@ -1,0 +1,126 @@
+{
+  "id": "658a7956-8c76-4da4-9e99-9de3407f2f9b",
+  "slug": "the-workingman-s-game",
+  "title": "The Workingman's Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2f2b48d3-00ef-46fe-b6f4-4b813ad7bd6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Workingman-s-Game-658a79568c764da49e999de3407f2f9b?pvs=21",
+  "createdTime": 1673292083272,
+  "lastEditedTime": 1681312168631,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Workingman's Game"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-73a9bca2b399.webp",
+  "blocks": [
+    {
+      "id": "65d7f786-c036-4846-b659-d423d20804e9",
+      "type": "divider"
+    },
+    {
+      "id": "685137a2-5bde-4481-ae5a-4140dee1a59c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7d9d15b7-cbac-4f90-9d10-54876b6465c2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7a856d83-1df2-4c1b-890a-120497697f5a",
+          "type": "column",
+          "children": [
+            {
+              "id": "183617cf-1544-406f-8835-54d62ccfc78f",
+              "type": "paragraph",
+              "html": "<em><strong>The Workingman's Game: Waverly, New York, the Twin Tiers and the Making of Modern Baseball, 1887–1898</strong></em> was written by William H. Brewster, published by Luminare Press, November 14, 2019."
+            },
+            {
+              "id": "7d2458c7-c471-4e0c-a26b-f065b19bbfd1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4050aa31-7ed1-49cd-8d93-1fc933a836dd",
+              "type": "quote",
+              "html": "<em>Attendance was low, team rosters were unstable, and monopolistic major league owners were shrinking the game to avoid losing money. Meanwhile, players were refining their craft and organizing themselves in order to expand the game and improve their prospects. The roots of the players’ efforts were on the minor league fields of southern New York and northern Pennsylvania amidst bitter disagreements over the economics of anthracite coal and the justice of racial and ethnic integration. In Waverly, NY, and neighboring towns, former and future major leaguers played alongside common laborers. Their experiences as working men reflected the era, a time when economic dislocation, racial and labor strife, and record-high immigration levels led many to question whether instability was a permanent part of the American experience. In many ways, it was a transitional era very similar to our own.</em>"
+            },
+            {
+              "id": "523c0472-51fd-450a-8eca-6af9d60cbc11",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2c1e7049-a961-43f8-8aae-ac1da2a31622",
+          "type": "column",
+          "children": [
+            {
+              "id": "e99630f9-a578-4de6-baaa-c11448cc1485",
+              "type": "image",
+              "src": "./assets/images/untitled-73a9bca2b399.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c189b858-ed1c-4e6a-a5b0-dee98bf865e5",
+      "type": "divider"
+    },
+    {
+      "id": "e74314b1-5136-430a-acac-6ebd984b91c6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d9c620c5-0fd4-4ad5-bf2d-ba94345da839",
+          "type": "column",
+          "children": [
+            {
+              "id": "22a61a7f-f6b5-433d-adbe-1f5acfe9459d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9bb4238d-1b4b-437a-a257-b5a0fa35b056",
+          "type": "column",
+          "children": [
+            {
+              "id": "da62a37a-3969-4b82-aca1-5bb502cd317f",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Workingmans-Game-Waverly-Baseball-1887-1898/dp/1643882325\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9bee653-d95b-43af-8e64-a22710408e23",
+      "type": "divider"
+    }
+  ]
+}

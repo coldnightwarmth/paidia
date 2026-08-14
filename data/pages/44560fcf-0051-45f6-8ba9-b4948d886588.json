@@ -1,0 +1,131 @@
+{
+  "id": "44560fcf-0051-45f6-8ba9-b4948d886588",
+  "slug": "shakespeare-the-boy",
+  "title": "Shakespeare the Boy",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Shakespeare-the-Boy-44560fcf005145f68ba9b4948d886588?pvs=21",
+  "createdTime": 1668716480436,
+  "lastEditedTime": 1681312435841,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Shakespeare the Boy",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/large-06f5de9316256e55-ee417f02e4cb.webp",
+  "blocks": [
+    {
+      "id": "45a6a39b-9246-4655-9081-21a5b14d17b3",
+      "type": "divider"
+    },
+    {
+      "id": "8e35ce08-f22f-4994-9228-3989a36cfcd3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1a3614b0-c468-447a-805b-7456f6bbd9a4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "27399ffc-8973-4778-a299-76576855b6ef",
+          "type": "column",
+          "children": [
+            {
+              "id": "2848473f-3d42-443d-bb88-12e5c392f19e",
+              "type": "paragraph",
+              "html": "<em><strong>Shakespeare the Boy: With Sketches of the Home &amp; School Life the Games &amp; Sports, the Manners, Customs &amp; Folk-Lore of the Time</strong></em> was written by William Rolfe, originally published by Chatto, January 1, 1897."
+            },
+            {
+              "id": "204ec26a-4109-48e0-9160-7070eb9abe61",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8ba47421-74a5-4d76-9408-df92b36b0db0",
+              "type": "quote",
+              "html": "<em>Two years ago, at the request of the editors of the Youtz's Companion, I wrote for that periodical a series Of four familiar articles on the boyhood of Shakespeare. It was understood at the time that I might afterwards ex pand them into a book, and this plan is carried out in the present volume. The papers have been carefully revised and enlarged to thrice their original compass, and a new fifth chapter has been added.</em>"
+            },
+            {
+              "id": "62d5b647-f106-4575-ab56-e55c8049a4cf",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0082fe8b-7dc7-47aa-a9b6-e9dc1051cf2a",
+          "type": "column",
+          "children": [
+            {
+              "id": "974ca548-b8fb-46bf-beb2-ce5c24405619",
+              "type": "image",
+              "src": "./assets/images/large-06f5de9316256e55-ee417f02e4cb.webp",
+              "caption": "",
+              "alt": "large_06f5de9316256e55.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0fd06ab7-1a1c-4ca4-8f12-e6ffc1e0b90f",
+      "type": "divider"
+    },
+    {
+      "id": "0c7b77b8-0bc3-43bb-b280-d3e0bc75163b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "353d3000-f58a-43bd-ad14-936f6301d73f",
+          "type": "column",
+          "children": [
+            {
+              "id": "0998c93d-5946-4e24-abe2-ad37f964c700",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4f500e7f-a9c7-456a-97b1-b49a625962ee",
+          "type": "column",
+          "children": [
+            {
+              "id": "832b81d0-44f5-4129-810c-a9e3ad790d84",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Shakespeare-Boy-Sketches-Folk-Lore-London-1897/dp/B01DLC2WPO/ref=sr_1_1?crid=120GEX05GEFBT&amp;keywords=Shakespeare+the+Boy+With+Sketches+of+the+Home+and+School+Life+the+Games+and+Sports%2C+the+Manners%2C+Customs+and+Folk-Lore+of+the+Time&amp;qid=1668716732&amp;s=books&amp;sprefix=shakespeare+the+boy+with+sketches+of+the+home+and+school+life+the+games+and+sports%2C+the+manners%2C+customs+and+folk-lore+of+the+time%2Cstripbooks%2C96&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15b77744-833f-45ae-a429-d3fb1f803fa0",
+      "type": "divider"
+    }
+  ]
+}

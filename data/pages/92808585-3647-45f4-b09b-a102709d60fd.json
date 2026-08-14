@@ -1,0 +1,131 @@
+{
+  "id": "92808585-3647-45f4-b09b-a102709d60fd",
+  "slug": "doom-92808585",
+  "title": "DOOM",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "19047757-e48b-472e-b41b-acb5119065f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/DOOM-92808585364745f4b09ba102709d60fd?pvs=21",
+  "createdTime": 1653072715547,
+  "lastEditedTime": 1681313947091,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "DOOM",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-97e6575f1ddf.webp",
+  "blocks": [
+    {
+      "id": "07af5179-9d9e-411f-98f9-7b61a41938f9",
+      "type": "divider"
+    },
+    {
+      "id": "f1197155-fc30-468c-933d-57d26a42e259",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "904048f7-7299-4fea-9ad6-b3d8cf7bbcb6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ce28e907-f11a-4273-b614-b5520cec29e1",
+          "type": "column",
+          "children": [
+            {
+              "id": "942ba0bd-b8df-4699-9d6b-719fea805561",
+              "type": "paragraph",
+              "html": "<em><strong>DOOM: SCARYDARKFAST</strong></em> was written by Dan Pinchbeck, published by U OF M DIGT CULT BOOKS, June 18, 2013."
+            },
+            {
+              "id": "1669d5f8-a64c-48ad-bc90-a9e71944f96a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "af78ad8e-d190-4910-ac3e-d21f19ab0b43",
+              "type": "quote",
+              "html": "<em>In December 1993, gaming changed forever. id Software's seminal shooter </em>DOOM<em> was released, and it shook the foundations of the medium. Daniel Pinchbeck brings together the complete story of </em>DOOM<em> for the first time.<br><br>This book takes a look at the early days of first-person gaming and the video game studio system. It discusses the prototypes and the groundbreaking technology that drove the game forward and offers a detailed analysis of gameplay and level design. Pinchbeck also examines </em>DOOM<em>'s contributions to wider gaming culture, such as online multiplay and the modding community, and the first-person gaming genre, focusing on </em>DOOM<em>'s status as a foundational title and the development of the genre since 1993. Pinchbeck draws extensively from primary data: from the game itself, from the massive fan culture surrounding the title, and from interviews with the developers who made it. This book is not only the definitive work on </em>DOOM<em> but a snapshot of a period of gaming history, a manifesto for a development ethos, and a celebration of game culture at its best.</em>"
+            },
+            {
+              "id": "97c6c9b1-469c-4d51-8a95-a54a72e73348",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d229432f-363e-4341-97ae-50279ced69d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "56d78081-7915-434e-a80a-ae980d020735",
+              "type": "image",
+              "src": "./assets/images/untitled-97e6575f1ddf.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fbf59ace-b0ed-4e3e-aabb-4167477b2302",
+      "type": "divider"
+    },
+    {
+      "id": "07deef8b-a947-4639-abc0-b8344e88d661",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9d29608a-7efe-4eb0-9438-6a1de1d5581f",
+          "type": "column",
+          "children": [
+            {
+              "id": "8c6e2235-e9c4-48ab-a15d-b5b101c5e979",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a9bf9b5b-5d9d-446b-9354-06426a0739b5",
+          "type": "column",
+          "children": [
+            {
+              "id": "40b7642b-f9fd-4fe2-b48b-96e906010c48",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NnfxY1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1d1f0b16-c986-4b5c-8f84-1c98089cc11d",
+      "type": "divider"
+    }
+  ]
+}

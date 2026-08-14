@@ -1,0 +1,131 @@
+{
+  "id": "76cd340f-18dc-458a-8acc-ccde50f9d0e8",
+  "slug": "performing-for-motion-capture",
+  "title": "Performing for Motion Capture",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/76cd340f18dc458a8accccde50f9d0e8",
+  "createdTime": 1657144854513,
+  "lastEditedTime": 1681313563697,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Performing for Motion Capture",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8510aa6bf3f9.webp",
+  "blocks": [
+    {
+      "id": "cdb84d30-f13a-4165-b054-ce76a1c0edf4",
+      "type": "divider"
+    },
+    {
+      "id": "621239d4-5d5b-4f2a-acee-e9b11efa3318",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "40d06097-185a-4e3e-90e7-45dcf54343a7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9e4f08ab-0ac0-421f-91d3-25bf6b7e62e3",
+          "type": "column",
+          "children": [
+            {
+              "id": "0371785c-557f-4328-b919-80a15817c5d6",
+              "type": "paragraph",
+              "html": "<em><strong>Performing for Motion Capture: A Guide for Practitioners</strong></em> was written by John Dower &amp; Pascal Langdale, published by Methuen Drama, July 14, 2022."
+            },
+            {
+              "id": "2ea858fe-d979-4a6f-a796-ba7f74317fda",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "113f349d-d229-4d6d-93d1-c05d065da382",
+              "type": "quote",
+              "html": "<em>This is the first book to provide an invaluable resource for the education of the next generation of performers in this exciting medium. Over the last 10 years, a revolution has occurred in digital production - video games have overtaken the film and TV industries in terms of production and revenues. Many video games derive their digital animation from human performance by means of motion and performance capture. Actors such as Andy Serkis and Troy Baker have won critical acclaim for their digital performance in games and film.</em>"
+            },
+            {
+              "id": "d691becf-394c-4376-8353-14bfb6b162f8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c27e29e0-6d6d-4378-ba58-4de52eb061bc",
+          "type": "column",
+          "children": [
+            {
+              "id": "21df6da5-d33b-4c2a-a396-c631c86e4c94",
+              "type": "image",
+              "src": "./assets/images/untitled-8510aa6bf3f9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e8e3c17d-6222-4886-b18c-406c412d710a",
+      "type": "divider"
+    },
+    {
+      "id": "883ff1f5-d4ef-4d98-8d59-1464e4bdefda",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ce265a96-d243-414d-8124-a28d0cc2f172",
+          "type": "column",
+          "children": [
+            {
+              "id": "d37fe4af-0001-421d-8207-a5f17f1c2e49",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a23c759f-104b-42bc-92da-a9b3c2d8dafa",
+          "type": "column",
+          "children": [
+            {
+              "id": "894e6a1d-698a-4fd3-8a07-9b40ac7b51f9",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3anEymT\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "65b0a59d-9507-471d-84df-a549ddc831ba",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,1122 @@
+{
+  "id": "fdbbd34a-ba8a-47e3-8173-30cea2938957",
+  "slug": "video-essays-and-lectures",
+  "title": "Video Essays & Lectures",
+  "icon": "💻",
+  "cover": "",
+  "type": "page",
+  "parentId": "c0d0f2e2-bde3-4e10-82f3-81c8e1d3af16",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/fdbbd34aba8a47e3817330cea2938957",
+  "createdTime": 1651756680000,
+  "lastEditedTime": 1704901039643,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Video Essays & Lectures"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "bd052df5-4c4c-43e4-8611-5894a4f5b0b5",
+      "type": "paragraph",
+      "html": "<em>master list of collected video content::</em>"
+    },
+    {
+      "id": "d9b8153b-0f8b-4206-ad4e-8d019bd0bd3d",
+      "type": "divider"
+    },
+    {
+      "id": "c9d8c1a9-55f7-4e2c-97a5-1f0fc61647e1",
+      "type": "toggle",
+      "html": "<strong>Sections</strong>",
+      "children": []
+    },
+    {
+      "id": "967acb73-34f2-4bc8-8304-c8b95943b657",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8c9cea4a-c5f0-456c-9987-e0c82398506f",
+      "type": "subheader",
+      "html": "Video Game Video Essays",
+      "anchorId": "video-game-video-essays"
+    },
+    {
+      "id": "a721b8fd-1459-4307-bc8c-22001460e593",
+      "type": "page_link",
+      "targetId": "a721b8fd-1459-4307-bc8c-22001460e593",
+      "title": "all video game video essays...",
+      "notionType": "page"
+    },
+    {
+      "id": "e7f0ee78-041b-4860-a96e-cfdcd11f94b9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c0b15a2e-a552-48d9-93e8-9e451b463a9e",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd6eb4de-1d43-457e-88cd-1759b8317548",
+              "type": "callout",
+              "html": "<strong>Video Game Academics - Gnosticism (Persona 5, Genshin Impact, Final Fantasy VII and More)</strong>",
+              "icon": "⚕️",
+              "children": [
+                {
+                  "id": "b5b1c5a9-4b75-4800-a49d-ca3b513dc85e",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCj8orMezFWVcoN-4S545Wtw\" target=\"_blank\" rel=\"noreferrer\">Max Derrat</a></strong>"
+                },
+                {
+                  "id": "81870781-ea69-4178-b7eb-c0a8d6325800",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/lblYFzTwOls?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=7",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "25d21a63-624d-45a8-8049-b370abbfda48",
+          "type": "column",
+          "children": [
+            {
+              "id": "3e2fbaf4-8e72-4710-8d92-3cef6c5b59e0",
+              "type": "callout",
+              "html": "<strong>Mythic Patterns in Mario Games Pt 1: The Arcade Origins</strong>",
+              "icon": "♟️",
+              "children": [
+                {
+                  "id": "a83d816b-a66b-4db8-8a01-5785b3309f5e",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCtCTSf3UwRU14nYWr_xm-dQ\" target=\"_blank\" rel=\"noreferrer\"><strong>Jonathan Pageau</strong></a>"
+                },
+                {
+                  "id": "a00aac23-d87e-4bd6-91df-d66c79a68d40",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/6nQvVpLnZCw?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ba10e428-a7e7-4bfa-b695-99e683afd00c",
+          "type": "column",
+          "children": [
+            {
+              "id": "ab77fa4d-5c89-4df4-bece-2cc983e2577a",
+              "type": "callout",
+              "html": "<strong><strong>Does DnD Need Rules?</strong></strong>",
+              "icon": "📏",
+              "children": [
+                {
+                  "id": "4eba8440-2774-41fa-838f-4516279166fa",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/QuestingBeast\" target=\"_blank\" rel=\"noreferrer\"><strong>Questing Beast</strong></a>"
+                },
+                {
+                  "id": "0f13d79c-f85c-4e04-8b81-d3d6884127d6",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/d4lvrC3ZBzM?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a018c04b-26f5-4b92-9030-be94d772d149",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "00afc72b-1cf0-4217-9042-5c5dde6b40ad",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d40d5a7f-e312-42a8-9d2d-c09e7869bbbd",
+      "type": "subheader",
+      "html": "Lectures",
+      "anchorId": "lectures"
+    },
+    {
+      "id": "17ff1def-a05d-4aed-b9ef-9bdead1cb076",
+      "type": "page_link",
+      "targetId": "17ff1def-a05d-4aed-b9ef-9bdead1cb076",
+      "title": "all lectures...",
+      "notionType": "page"
+    },
+    {
+      "id": "4c7f4b4c-01b3-41c5-b89e-e743090e42db",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ea0113d8-9135-46ac-8713-eb4ee787c733",
+          "type": "column",
+          "children": [
+            {
+              "id": "623d0f0a-2815-4a8c-92b8-b37bdc51582b",
+              "type": "callout",
+              "html": "<strong>Max Kreminski: </strong><a href=\"#/gardening-df7850f2\"><strong>Gardening</strong></a><strong> as a Mode of Play</strong>",
+              "icon": "🌿",
+              "children": [
+                {
+                  "id": "67415c10-88ef-43c3-abf6-e8e03e6d41d6",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCKv_QzXft4mD6TXmQBZtzIA\" target=\"_blank\" rel=\"noreferrer\"><strong>Roguelike Celebration</strong></a>"
+                },
+                {
+                  "id": "6443d358-915d-4124-bfe7-d88a333e2863",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/TvlZinAvpwg?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8072af72-4d6a-46dd-96cf-41aa5027218c",
+          "type": "column",
+          "children": [
+            {
+              "id": "1385d34e-012a-45e8-a220-f24b387d1914",
+              "type": "callout",
+              "html": "<strong>8000 Years of Board Game History in 43 Minutes - SHUX Presents</strong>",
+              "icon": "🎲",
+              "children": [
+                {
+                  "id": "a76c515c-16e4-4706-a581-909abf52f365",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCyRhIGDUKdIOw07Pd8pHxCw\" target=\"_blank\" rel=\"noreferrer\"><strong>Shut Up &amp; Sit Down</strong></a>"
+                },
+                {
+                  "id": "9a7424eb-eae9-49b7-9cb4-1a5eaf4b8acb",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/Gov-qrjvOTc?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=515",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c7c42633-4f46-4c80-a9a7-1d829a7ddf2a",
+          "type": "column",
+          "children": [
+            {
+              "id": "2e6d8b90-a1dd-4194-b972-f7ff95d20ed2",
+              "type": "callout",
+              "html": "<strong>Jonathan Blow - Truth In Game Design</strong>",
+              "icon": "🕯️",
+              "children": [
+                {
+                  "id": "d6c5d1aa-49b0-47d6-bdc7-a00400531b28",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\"><strong>GDC</strong></a>"
+                },
+                {
+                  "id": "41a55644-95ad-4307-9181-1b76dd17dbef",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/C5FUtrmO7gI?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af03e56f-53ba-48c7-8dd2-b8d0820c3c53",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "4bfe8436-eb89-44a7-9d51-9820b92f81f0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8ff7b070-a2f6-400b-bf87-c60627385095",
+      "type": "subheader",
+      "html": "Historical",
+      "anchorId": "historical"
+    },
+    {
+      "id": "0f796b10-824c-4c6b-888a-884bf10f7e52",
+      "type": "page_link",
+      "targetId": "0f796b10-824c-4c6b-888a-884bf10f7e52",
+      "title": "all historical videos...",
+      "notionType": "page"
+    },
+    {
+      "id": "78ee1631-3610-4cdb-93f1-6964cc2ab19b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cec1ba3d-f961-4ae0-a72e-1adacf598340",
+          "type": "column",
+          "children": [
+            {
+              "id": "78b6ed2e-6a8b-491d-9b16-6100acc21cf8",
+              "type": "callout",
+              "html": "<strong><strong>How Does the US Navy Run Wargames? - A Guided Tour of the US Naval War College Wargaming Facilities</strong></strong>",
+              "icon": "🚢",
+              "children": [
+                {
+                  "id": "2e8d7de4-b8ce-4e65-8868-0c7ae50faacb",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/@InvictaHistory\" target=\"_blank\" rel=\"noreferrer\">Invicta</a></strong>"
+                },
+                {
+                  "id": "7ad4b1d6-eb33-445e-b958-5d0e7a7f3c2a",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/lj42mzT06jo?rel=0&start=5",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "25c909c8-796d-40e7-9a2f-2e519d23a5e8",
+          "type": "column",
+          "children": [
+            {
+              "id": "f3895328-a2b8-42f9-9664-8bc578206cab",
+              "type": "callout",
+              "html": "<strong>What Pac-Man Brought to Game Design | Design Icons</strong>",
+              "icon": "🕹️",
+              "children": [
+                {
+                  "id": "fe6ab877-37a5-4ea1-8584-8e8325afe2fb",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw\" target=\"_blank\" rel=\"noreferrer\">Game Maker's Toolkit</a></strong>"
+                },
+                {
+                  "id": "1e093a0a-49a8-423a-a187-251210742a6d",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/S4RHbnBkyh0?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e74581bc-bc4a-4078-a523-d3830e0902d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "1c64bd15-cc58-4ff5-a9fa-8dccff0fa9e4",
+              "type": "callout",
+              "html": "<strong>Out of the MUD: The Origins of the MMORPG</strong>",
+              "icon": "⌨️",
+              "children": [
+                {
+                  "id": "e89b549e-1871-4b30-9268-b74de4ba3bea",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC2pltGPtLBNk6Zym18G5eOQ\" target=\"_blank\" rel=\"noreferrer\"><strong>Maniax Channel</strong></a>"
+                },
+                {
+                  "id": "7623f652-5efd-4735-af86-2624858d7571",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/JqC66POqhY4?start=11&feature=oembed&start=11",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4b1f606-c9df-437c-bda3-8b3cc0aa16ad",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "2c28137f-8180-4c34-b061-4a319da4430f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "23b5b71e-ace9-4104-ad09-688ef05b8b33",
+      "type": "subheader",
+      "html": "Tabletop Games",
+      "anchorId": "tabletop-games"
+    },
+    {
+      "id": "99242db1-443d-403b-9c66-34784beb379d",
+      "type": "page_link",
+      "targetId": "99242db1-443d-403b-9c66-34784beb379d",
+      "title": "all tabletop videos…",
+      "notionType": "page"
+    },
+    {
+      "id": "82847ec7-2b82-4ea3-ac14-761e0bf9ecee",
+      "type": "columns",
+      "children": [
+        {
+          "id": "71abd65c-ef2f-4b6a-85d3-3f82bf72c489",
+          "type": "column",
+          "children": [
+            {
+              "id": "401c2e69-5be6-4f3b-8a04-536f348c8428",
+              "type": "callout",
+              "html": "<strong>Designing Board Game Mechanics - Did You Make it? Or Did it Evolve?</strong>",
+              "icon": "♟️",
+              "children": [
+                {
+                  "id": "5f1a78e8-14e4-4307-93eb-ae23ee56c8ba",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCgmeZjKCvLpJ4S4t4G1Lung\" target=\"_blank\" rel=\"noreferrer\"><strong>Jon Back's Creative Geek</strong></a>"
+                },
+                {
+                  "id": "15271ecc-409b-4639-a19f-a86d0081b7b5",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/dPOyqksnrSY?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10d24726-779c-47c6-ab27-0e4cb9a88b35",
+          "type": "column",
+          "children": [
+            {
+              "id": "8afc35b3-269f-4376-b6b3-b321e64599f5",
+              "type": "callout",
+              "html": "<strong><strong>Territory and Influence: Kinetic and Potential Energies in Go Game</strong></strong>",
+              "icon": "⚪",
+              "children": [
+                {
+                  "id": "5bfce1f8-75c0-4320-b053-d83e9bcef996",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/@GoMagic\" target=\"_blank\" rel=\"noreferrer\"><strong>Go Magic</strong></a>"
+                },
+                {
+                  "id": "fc16c307-6f72-4143-a210-8e25b6c04bcf",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/ARc7BxpOoYk?rel=0",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d3b22ccf-2e84-4bd2-9619-8e6304433d71",
+          "type": "column",
+          "children": [
+            {
+              "id": "fc4fcc68-6138-4993-8c64-51c85d1cd8f8",
+              "type": "callout",
+              "html": "<strong><strong>Does DnD Need Rules?</strong></strong>",
+              "icon": "📏",
+              "children": [
+                {
+                  "id": "d7b20c0a-ed52-4017-947b-334f8f0815b7",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/QuestingBeast\" target=\"_blank\" rel=\"noreferrer\"><strong>Questing Beast</strong></a>"
+                },
+                {
+                  "id": "a8f6de01-9c5e-4c15-bffb-42dfa21a5e69",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/d4lvrC3ZBzM?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92662a60-d749-46f8-89fe-85e062fe59fc",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "e54dbca4-5976-426d-a1a0-9b9e7ffb64f0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cdac0c65-7458-4369-8e79-3754770bc3d7",
+      "type": "subheader",
+      "html": "Fighting Games",
+      "anchorId": "fighting-games"
+    },
+    {
+      "id": "077269d0-99e5-4e12-a680-474eba14225f",
+      "type": "page_link",
+      "targetId": "077269d0-99e5-4e12-a680-474eba14225f",
+      "title": "all fighting game video essays...",
+      "notionType": "page"
+    },
+    {
+      "id": "5b387cc4-2da9-46e2-b69e-94dc5467b00b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "958f7fb6-7be2-4b22-a386-7740c1420c06",
+          "type": "column",
+          "children": [
+            {
+              "id": "1f8233ee-6fc6-4058-8b60-4b63e6da090a",
+              "type": "callout",
+              "html": "<strong>The </strong><a href=\"#/glitch\"><strong>Glitch</strong></a><strong> Fighting Games Kept</strong>",
+              "icon": "➕",
+              "children": [
+                {
+                  "id": "d0828520-3fb3-4a7f-98e6-93a8f7d71185",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCmSXm8C4D_jq0nKMCzTTyLg\" target=\"_blank\" rel=\"noreferrer\"><strong>TheoryFighter</strong></a>"
+                },
+                {
+                  "id": "b778a571-42a2-4cda-a29c-c1b5e1963e64",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/uj1B-a12sPU?start=4&feature=oembed&start=4",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f5f4b8e2-a3f3-4e4e-bd09-75b7552a9928",
+          "type": "column",
+          "children": [
+            {
+              "id": "7428b4bc-01b7-4eb0-a007-ee8784f818ea",
+              "type": "callout",
+              "html": "<strong>Jump Arcs</strong>",
+              "icon": "🦘",
+              "children": [
+                {
+                  "id": "f081f600-f4bd-4c31-bb1e-9ae33a9882d2",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCo8186mZYAY49flt6HkbqlQ\" target=\"_blank\" rel=\"noreferrer\"><strong>Leon Massey</strong></a>"
+                },
+                {
+                  "id": "8d94ab4c-fd16-4ad1-ab8c-9a3b8864b976",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/R1jFEMxGPzk?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7e949ec2-1668-4a31-886d-e9516a7049e1",
+          "type": "column",
+          "children": [
+            {
+              "id": "618cf1cb-2925-4db3-86d6-be6ddd698816",
+              "type": "callout",
+              "html": "<strong>The Technique That Defined A Genre - History of </strong><a href=\"#/wavedash\">Wavedashing</a>",
+              "icon": "🌊",
+              "children": [
+                {
+                  "id": "77250c43-c20e-40b6-9010-c98d8629098d",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UC6dI8msF1_I9HuDSvMtk_nQ\" target=\"_blank\" rel=\"noreferrer\">Akshon Esports</a></strong>"
+                },
+                {
+                  "id": "685cf569-139d-4c11-835f-cf35ec4be2f8",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/bMGQ64RR2B4?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=841",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5e4e099-28f8-412c-914b-00bb0bacbc6d",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "75e6f4a6-c80f-4d8c-9348-1c489f774d01",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "37be4d50-ba8c-4a58-8ea7-a7b7d2b6c0bd",
+      "type": "subheader",
+      "html": "Computer Media",
+      "anchorId": "computer-media"
+    },
+    {
+      "id": "1c251741-1d9c-4547-b208-08d71e7bbda9",
+      "type": "page_link",
+      "targetId": "1c251741-1d9c-4547-b208-08d71e7bbda9",
+      "title": "all computer media videos...",
+      "notionType": "page"
+    },
+    {
+      "id": "bd2e64f4-e132-45c7-adf6-f815f446f53b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f8dec224-2aed-4c04-831d-4a286cd641f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "ae6874d7-2382-4318-b905-ac592c24d1ff",
+              "type": "callout",
+              "html": "<strong>AI Makes Video Game After Watching Tennis Matches!</strong>",
+              "icon": "🎾",
+              "children": [
+                {
+                  "id": "090ce14f-a573-4140-a525-69a0755a4786",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg\" target=\"_blank\" rel=\"noreferrer\">Two Minute Papers</a></strong>"
+                },
+                {
+                  "id": "6e53ad06-3e2b-48ce-b9be-46e2f53c82fe",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/YCur6ir6wmw?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "395cf81d-fad9-4061-bfe2-d136d7f4bfbf",
+          "type": "column",
+          "children": [
+            {
+              "id": "73109586-01d9-4933-a9a3-8cf6d66dfb7e",
+              "type": "callout",
+              "html": "<strong>The History of </strong><a href=\"#/retro\"><strong>240p</strong></a>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "3b836b50-452d-41ff-97a3-69836d2d03d9",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCWoSKWs8h6lFdiEDAjuIfpA\" target=\"_blank\" rel=\"noreferrer\"><strong>Displaced Gamers</strong></a>"
+                },
+                {
+                  "id": "abbbf149-04ca-43cf-a6de-016ba52608af",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/zwDPx6hP_4Y?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f3029511-87ac-467e-8dd7-769b5339339a",
+          "type": "column",
+          "children": [
+            {
+              "id": "068ec302-1499-4821-a8f5-b96da31c9589",
+              "type": "callout",
+              "html": "<strong>Let’s BUILD a COMPUTER in CONWAY's GAME of LIFE ⠠⠵</strong>",
+              "icon": "🤖",
+              "children": [
+                {
+                  "id": "915651aa-1031-430a-a28e-e720756a1e57",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC8Wrbf2aJkX63pu2bG5QiFg\" target=\"_blank\" rel=\"noreferrer\"><strong>Alan Zucconi</strong></a>"
+                },
+                {
+                  "id": "89f19079-d149-4bf3-ae9f-964d148d4f6d",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/Kk2MH9O4pXY?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c45529a3-ebe5-464b-929b-6f2b10e2a6ea",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "848ef82e-6b50-4781-8397-ac9973bd2b6a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5db8bcaf-d0bf-4317-84ef-98ec7c2548e3",
+      "type": "subheader",
+      "html": "<strong>Sports</strong>",
+      "anchorId": "sports"
+    },
+    {
+      "id": "e3ce7e60-2c33-4fc6-b684-161d6b05d846",
+      "type": "page_link",
+      "targetId": "e3ce7e60-2c33-4fc6-b684-161d6b05d846",
+      "title": "all sports video essays…",
+      "notionType": "page"
+    },
+    {
+      "id": "0efb304f-5ba7-424e-9faa-aa4b682fbaa2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7e83e329-d860-4b1a-830c-2f25340d2968",
+          "type": "column",
+          "children": [
+            {
+              "id": "9dd36baa-76eb-4001-91c6-87d5c41ae34a",
+              "type": "callout",
+              "html": "<strong><strong>No Need for Perfection - The Value of Climbing Ugly</strong></strong>",
+              "icon": "🪨",
+              "children": [
+                {
+                  "id": "6c065451-644d-4636-8a99-ce79ae658a84",
+                  "type": "paragraph",
+                  "html": "by<strong> </strong><a href=\"https://www.youtube.com/channel/UC6-rliFvsdCUTZndrZTQjMA\" target=\"_blank\" rel=\"noreferrer\"><strong>Movement for Climbers</strong></a>"
+                },
+                {
+                  "id": "7f8433fe-0f6f-4e59-8ebe-0098edb06ad0",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/IEJG6wR7Gos?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "da874830-8b27-493c-a2de-033918090e01",
+          "type": "column",
+          "children": [
+            {
+              "id": "4f32cb84-9145-4d2e-9e67-9d126f1c7a66",
+              "type": "callout",
+              "html": "<strong><strong>How the Appalachian Trail began</strong></strong>",
+              "icon": "🥾",
+              "children": [
+                {
+                  "id": "ebf52c72-2e02-49b6-9dcc-6c238f6b99b2",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/PhilEdwardsInc\" target=\"_blank\" rel=\"noreferrer\"><strong>Phil Edwards</strong></a>"
+                },
+                {
+                  "id": "20630b4f-0f10-4213-b0ec-2c2d61c83da4",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/_AYc-3VCBLg?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0c40998b-5302-4b0a-b44c-b9b4bc018fb0",
+          "type": "column",
+          "children": [
+            {
+              "id": "fb053ed2-fb38-44c9-bdc6-971ae305a00e",
+              "type": "callout",
+              "html": "<strong><strong>The Bob Emergency: a study of athletes named Bob, Part I | Chart Party</strong></strong>",
+              "icon": "👨",
+              "children": [
+                {
+                  "id": "1430617f-6cdb-426d-bf64-b76515549c3a",
+                  "type": "paragraph",
+                  "html": "by<strong> </strong><strong><a href=\"https://www.youtube.com/c/SecretBaseSBN\" target=\"_blank\" rel=\"noreferrer\">Secret Base</a></strong>"
+                },
+                {
+                  "id": "694dc9dc-1c83-454c-8275-7278c56be20d",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/lvh6NLqKRfs?list=PL1kluLhsED5WC983QPCTooHGOIc_J0Sh2",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7cee66d-4406-42bc-900e-dd85375524ec",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "c9ff2904-4f16-491f-99cd-c2316e713c5c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "adb910de-a03d-4d67-bf7a-13f01a448c8a",
+      "type": "subheader",
+      "html": "Toys",
+      "anchorId": "toys"
+    },
+    {
+      "id": "6f883d7b-d116-4d56-9eca-c7759b1519ed",
+      "type": "page_link",
+      "targetId": "6f883d7b-d116-4d56-9eca-c7759b1519ed",
+      "title": "all toy video essays…",
+      "notionType": "page"
+    },
+    {
+      "id": "4be89cf6-de4a-4893-b588-01d97ae8cfe1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b9990cc6-21c6-4663-b1e7-301ab0ca7c48",
+          "type": "column",
+          "children": [
+            {
+              "id": "7793e23d-780c-460b-bb71-d863f6090945",
+              "type": "callout",
+              "html": "<strong>Building a Game Studies Community</strong>",
+              "icon": "🏫",
+              "children": [
+                {
+                  "id": "8f88ba5b-a2b3-42f2-8157-4aaf37a31b57",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCQ427CHSkJjDel-vDBDj8VA\" target=\"_blank\" rel=\"noreferrer\"><strong>Sagefist</strong></a>"
+                },
+                {
+                  "id": "194b9ef3-012e-4fd9-b2a2-cc3cacf7c5c8",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/ApVH_4VYsJg?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b9d27470-9cd4-4906-99f3-ce09df68edb3",
+          "type": "column",
+          "children": [
+            {
+              "id": "5b7e05e8-1f02-4cf0-a45b-6fc97f45e0c0",
+              "type": "callout",
+              "html": "<strong>Play the Glass Bead Game</strong>",
+              "icon": "📿",
+              "children": [
+                {
+                  "id": "ddeada48-5445-41a7-aef6-89b3351876e5",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCoOTAo0oyvfwSIFKTf7e2Dw\" target=\"_blank\" rel=\"noreferrer\"><strong>Gospel of Sophia</strong></a>"
+                },
+                {
+                  "id": "838f3c78-9b82-4ef9-a581-9e173a1dab62",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/xfwTwbnTI7I?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=13",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1de27f02-ac93-4c25-a9a0-a319b68cf2e5",
+          "type": "column",
+          "children": [
+            {
+              "id": "b0ebd42e-e12f-41fa-a1ef-68e8f6ac9834",
+              "type": "callout",
+              "html": "<strong>The Debate That Never Took Place</strong>",
+              "icon": "💥",
+              "children": [
+                {
+                  "id": "804774d0-4dbc-4924-a7cb-059b9a98edf0",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCm4JnxTxtvItQecKUc4zRhQ\" target=\"_blank\" rel=\"noreferrer\"><strong>Errant Signal</strong></a>"
+                },
+                {
+                  "id": "57eae8c0-d6fc-480d-97b3-29c630b46206",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/xBN3R0m31bA?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31ccf5e7-146c-4702-ab77-0bd70657775e",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "832ae4dd-c941-470b-90c9-cc02a77e63fc",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e49f336f-dcf5-4fff-b91d-a676e37dfc62",
+      "type": "subheader",
+      "html": "Other",
+      "anchorId": "other"
+    },
+    {
+      "id": "12a4ea15-cc03-442d-a738-9b0732069d3d",
+      "type": "page_link",
+      "targetId": "12a4ea15-cc03-442d-a738-9b0732069d3d",
+      "title": "all miscellaneous video…",
+      "notionType": "page"
+    },
+    {
+      "id": "5446059a-9393-4f42-b6a4-f0356de36ef6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "301c34ad-570c-49be-89f9-df062fa9dbc4",
+          "type": "column",
+          "children": [
+            {
+              "id": "04475cf2-b650-4982-9b1a-4732c5ff21b3",
+              "type": "callout",
+              "html": "<strong>Building a Game Studies Community</strong>",
+              "icon": "🏫",
+              "children": [
+                {
+                  "id": "1fe384c5-bb1a-4905-a15e-7ca9f7f07e06",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCQ427CHSkJjDel-vDBDj8VA\" target=\"_blank\" rel=\"noreferrer\"><strong>Sagefist</strong></a>"
+                },
+                {
+                  "id": "14dce346-c70a-4758-a7b8-6e9464aa0cce",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/ApVH_4VYsJg?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fefa498b-0908-45c4-bbc3-c686cc59e45e",
+          "type": "column",
+          "children": [
+            {
+              "id": "99e8f126-d48a-4aef-b2c4-f46fc1be3db8",
+              "type": "callout",
+              "html": "<strong>Play the Glass Bead Game</strong>",
+              "icon": "📿",
+              "children": [
+                {
+                  "id": "f9498210-c25d-40aa-9108-e659d280126a",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCoOTAo0oyvfwSIFKTf7e2Dw\" target=\"_blank\" rel=\"noreferrer\"><strong>Gospel of Sophia</strong></a>"
+                },
+                {
+                  "id": "b5561470-c4fe-481a-9621-71176232f38f",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/xfwTwbnTI7I?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=13",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cd640c3f-2c39-4a0a-a86c-10c589ec779f",
+          "type": "column",
+          "children": [
+            {
+              "id": "34edffb3-7650-41ee-8214-b151d6b3be2c",
+              "type": "callout",
+              "html": "<strong>The Debate That Never Took Place</strong>",
+              "icon": "💥",
+              "children": [
+                {
+                  "id": "fcd6f02a-35b7-4f87-b8f7-3cd943bb695c",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCm4JnxTxtvItQecKUc4zRhQ\" target=\"_blank\" rel=\"noreferrer\"><strong>Errant Signal</strong></a>"
+                },
+                {
+                  "id": "6b8ee5fe-b6fa-4aed-acdc-67b94ca12790",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/xBN3R0m31bA?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31842fa1-906f-4ea9-b5f1-04439820bd05",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "f6e73513-e36f-431e-8096-6109524fb297",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5ed337e2-71ae-422a-87b0-d72f203cd814",
+      "type": "subheader",
+      "html": "BONUS!::Extraordinary Play",
+      "anchorId": "bonus-extraordinary-play"
+    },
+    {
+      "id": "22a8e64a-efda-4ee0-b919-21619f2231e1",
+      "type": "page_link",
+      "targetId": "22a8e64a-efda-4ee0-b919-21619f2231e1",
+      "title": "all extraordinary play videos...",
+      "notionType": "page"
+    },
+    {
+      "id": "931a4da4-bf19-4db1-9bdf-555c054b0cf8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "69f5cb4d-af64-4373-8b2c-9cd6c519878f",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b1847ed-8dad-49fd-8a08-7f839e22d6b8",
+              "type": "callout",
+              "html": "<strong>Silence | World's Hardest Route 9c | Adam Ondra</strong>",
+              "icon": "🧗🏻‍♂️",
+              "children": [
+                {
+                  "id": "c8c148a7-15eb-4765-868a-bb07b970c0ea",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UC8eNyF9eYwgr_K-Nl4gSHWw\" target=\"_blank\" rel=\"noreferrer\">Adam Ondra</a></strong>"
+                },
+                {
+                  "id": "f74d2530-6124-47bb-ae85-ed97d6b2ebf6",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/ZRTNHDd0gL8?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f68a5fed-15f2-417b-a2cd-97b6a8c7de59",
+          "type": "column",
+          "children": [
+            {
+              "id": "abd186c5-822b-4dfb-92c7-901234d2a1cf",
+              "type": "callout",
+              "html": "<strong>Super Mario World: Arbitrary Code Injection At AGDQ 2014</strong>",
+              "icon": "🐍",
+              "children": [
+                {
+                  "id": "318754b5-fabc-412f-a311-252640222f75",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCI3DTtB-a3fJPjKtQ5kYHfA\" target=\"_blank\" rel=\"noreferrer\">Games Done Quick</a></strong>"
+                },
+                {
+                  "id": "59c30de7-dc03-4b75-9da8-d2bde1cc2e05",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/jnZ2NNYySuE?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "56c7a9cc-a318-4b80-be3d-2a30edb0a3ae",
+          "type": "column",
+          "children": [
+            {
+              "id": "df7c9180-ccb3-4c6d-9545-87bcec8052a8",
+              "type": "callout",
+              "html": "<strong>Evo Moment #37, Daigo vs Justin Evo 2004</strong>",
+              "icon": "🥃",
+              "children": [
+                {
+                  "id": "d3f901b6-c29a-4ef3-90f9-70b41691e7e0",
+                  "type": "paragraph",
+                  "html": "uploaded by <a href=\"https://www.youtube.com/channel/UCWI626ZNdqM5tOlctPUTW2g\" target=\"_blank\" rel=\"noreferrer\"><strong>evo2kvids</strong></a>"
+                },
+                {
+                  "id": "7ef00913-c25d-4986-b2a1-064015560b51",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/JzS96auqau0?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6b259d36-c3fb-4ff5-844e-6751ccb89c42",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "e91cf536-8ee4-47b0-8cb6-5dfd3fff28ba",
+      "type": "divider"
+    },
+    {
+      "id": "9f2f02bd-3671-47c5-b345-0de92356223a",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "f9c5b3c8-8c5e-4e49-a467-7f58253b7b51",
+      "type": "alias_link",
+      "targetId": "4c0dd493-cab5-487c-860b-27febc60fb3f",
+      "title": "Linked page"
+    },
+    {
+      "id": "7c6e8a23-46ee-44eb-8ebe-b64ecac03a28",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "60812189-e977-46cf-b596-b80d07afc95c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "38a667af-e47d-4ba3-80a8-bb4c98653c85",
+      "type": "paragraph",
+      "html": "<a href=\"#/shortform-writing\"><u>☜Essays(+)</u></a>"
+    },
+    {
+      "id": "76b25969-7eea-4847-91db-1061a65837e7",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

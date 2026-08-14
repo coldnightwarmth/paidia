@@ -1,0 +1,141 @@
+{
+  "id": "bae8e00f-85ac-4a0d-b466-23ef47630867",
+  "slug": "immersive-gameplay",
+  "title": "Immersive Gameplay",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "16515e7c-ec2f-4d98-9fec-861099f13e9d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Immersive-Gameplay-bae8e00f85ac4a0db46623ef47630867?pvs=21",
+  "createdTime": 1657044969961,
+  "lastEditedTime": 1681313371826,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Immersive Gameplay",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f4b0d5887d5c.webp",
+  "blocks": [
+    {
+      "id": "2a4cf9de-63e3-4a1f-bb01-953eee7d5c97",
+      "type": "divider"
+    },
+    {
+      "id": "a7f7b0b9-fab2-4e71-88ed-e0151e80faed",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e5d2e012-1d47-4dbd-aa53-fdce6c44eb81",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5a36ef74-a6d2-4fdb-91a9-bd46d238b474",
+          "type": "column",
+          "children": [
+            {
+              "id": "426ad5d3-542c-4817-94c2-13890637b8c5",
+              "type": "paragraph",
+              "html": "<em><strong>Immersive Gameplay: Essays on Participatory Media and Role-Playing</strong></em> is a collection of essays edited by Evan Torner &amp; William J. White, published by McFarland, June 18, 2012."
+            },
+            {
+              "id": "fe5e4dd3-f982-46de-851a-149a964fd1ce",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "13dde115-1347-43f5-b4f2-e8cc3aa9854d",
+              "type": "quote",
+              "html": "<em>This collection of all-new essays approaches the topic of immersion as a product of social and media relations. Examining the premises and aesthetics of live-action and tabletop role-playing games, reality television, social media apps and first-person shooters, the essays take both game rules and the media discourse that games produce as serious objects of study. Scholars of social psychology, sociology, role-playing theory, game studies, and television studies all examine games and game-like environments like reality shows as interdependent sites of social friction and power negotiation. The ten essays articulate the importance of game rules in analyses of media products, and demonstrate methods that allow game rules to be seen in action during the process of play.</em>"
+            }
+          ]
+        },
+        {
+          "id": "5314907e-33af-400d-acd2-c13e7aa8767f",
+          "type": "column",
+          "children": [
+            {
+              "id": "a2233681-72f8-48ba-861b-447342d7a517",
+              "type": "image",
+              "src": "./assets/images/untitled-f4b0d5887d5c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aacf1d57-ee88-46ae-959b-fa611a3b1af1",
+      "type": "divider"
+    },
+    {
+      "id": "9f9d586e-5cf1-45dc-9d39-9647af491106",
+      "type": "columns",
+      "children": [
+        {
+          "id": "228e5122-3d94-4342-9f64-e7be5c74d459",
+          "type": "column",
+          "children": [
+            {
+              "id": "a5653880-48b0-4f55-93c1-9b04e1f7316a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5e43e67b-5b80-467e-a519-dddb6150ebd6",
+          "type": "column",
+          "children": [
+            {
+              "id": "e7f916e5-7ff3-4757-b7f0-a034bd42b3ca",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bVBwa1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1a9366b-fa07-4a84-aef6-2691ad9348c5",
+      "type": "divider"
+    },
+    {
+      "id": "004a11c5-7761-41eb-bd14-a762fbdc0a4d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a8f509f8-c393-47cf-a5b5-70735f4dbbcc",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "a1614242-40ac-4bfc-96b9-ee427c182f0b",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

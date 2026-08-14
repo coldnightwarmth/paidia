@@ -1,0 +1,131 @@
+{
+  "id": "c9037676-627e-48b0-bd3f-8056de87dd12",
+  "slug": "the-internet-is-not-what-you-think-it-is",
+  "title": "The Internet Is Not What You Think It Is",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Internet-Is-Not-What-You-Think-It-Is-c9037676627e48b0bd3f8056de87dd12?pvs=21",
+  "createdTime": 1652117142743,
+  "lastEditedTime": 1681313555242,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Internet Is Not What You Think It Is",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/9780691212326-b32fe9eaafda.webp",
+  "blocks": [
+    {
+      "id": "e1d00518-e2eb-4e58-a1a7-bdb295d76eaa",
+      "type": "divider"
+    },
+    {
+      "id": "a43e425a-6c3a-4d9c-9490-eead39de6f5e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2ec93879-ddad-4c82-8d1f-417f3208a0f4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "546360d7-4cb8-4f80-9f4e-5322706591e8",
+          "type": "column",
+          "children": [
+            {
+              "id": "4a34c9a8-f95d-4234-a077-cd717fd894d4",
+              "type": "paragraph",
+              "html": "<em><strong>The Internet Is Not What You Think It Is: A History, a Philosophy, a Warning</strong></em> was written by Justin E. H. Smith, published by Princeton University Press, March 22, 2022."
+            },
+            {
+              "id": "855cd85d-2e20-4613-8bce-38a9b6223a23",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f1836b13-a1e6-4301-b04f-08ada76d6c41",
+              "type": "quote",
+              "html": "<em>An original deep history of the internet that tells the story of the centuries-old utopian dreams behind it―and explains why they have died today.<br><br>Many think of the internet as an unprecedented and overwhelmingly positive achievement of modern human technology. But is it? In </em>The Internet Is Not What You Think It Is<em>, Justin Smith offers an original deep history of the internet, from the ancient to the modern world―uncovering its surprising origins in nature and centuries-old dreams of radically improving human life by outsourcing thinking to machines and communicating across vast distances. Yet, despite the internet’s continuing potential, Smith argues, the utopian hopes behind it have finally died today, killed by the harsh realities of social media, the global information economy, and the attention-destroying nature of networked technology.<br><br>Ranging over centuries of the history and philosophy of science and technology, Smith shows how the “internet” has been with us much longer than we usually think. He draws fascinating connections between internet user experience, artificial intelligence, the invention of the printing press, communication between trees, and the origins of computing in the machine-driven looms of the silk industry. At the same time, he reveals how the internet’s organic structure and development root it in the natural world in unexpected ways that challenge efforts to draw an easy line between technology and nature.<br><br>Combining the sweep of intellectual history with the incisiveness of philosophy, </em>The Internet Is Not What You Think It Is <em>cuts through our daily digital lives to give a clear-sighted picture of what the internet is, where it came from, and where it might be taking us in the coming decades.</em>"
+            },
+            {
+              "id": "8a17c22d-d961-42bf-b841-b728d68eb8c3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8c5eec84-6a17-42f0-9b83-6939fed811a6",
+          "type": "column",
+          "children": [
+            {
+              "id": "a650b68f-5c07-4067-99d4-80629a952142",
+              "type": "image",
+              "src": "./assets/images/9780691212326-b32fe9eaafda.webp",
+              "caption": "",
+              "alt": "9780691212326.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f392c1cc-3fda-41c2-ad69-bcbf78df1ca6",
+      "type": "divider"
+    },
+    {
+      "id": "d965ec21-5808-429f-9c55-311decff3bca",
+      "type": "columns",
+      "children": [
+        {
+          "id": "94a4031e-4a7b-4d85-b958-d15f63c9c87d",
+          "type": "column",
+          "children": [
+            {
+              "id": "88771890-1ed7-46a4-9d8a-100091182d3d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bb3f8735-4315-45af-9a69-f2a1b4aa9561",
+          "type": "column",
+          "children": [
+            {
+              "id": "ebfd10ae-1a8d-41b5-91df-f126e02b54be",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3QBxaoh\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d90b4c62-001c-4ce2-810c-a7708d76cd0e",
+      "type": "divider"
+    }
+  ]
+}

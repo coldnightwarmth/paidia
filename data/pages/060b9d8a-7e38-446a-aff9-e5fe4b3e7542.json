@@ -1,0 +1,134 @@
+{
+  "id": "060b9d8a-7e38-446a-aff9-e5fe4b3e7542",
+  "slug": "atari-age",
+  "title": "Atari Age",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Atari-Age-060b9d8a7e38446aaff9e5fe4b3e7542?pvs=21",
+  "createdTime": 1652118233947,
+  "lastEditedTime": 1681310964400,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Atari Age",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b26d68c5ddb7.webp",
+  "blocks": [
+    {
+      "id": "dbf46a04-abd2-409f-a011-a029942bf16d",
+      "type": "divider"
+    },
+    {
+      "id": "0ed452b4-505e-49db-b512-1aa585593b9f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "74cbd6f1-e91e-4b21-867a-c78da03832c6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ed94e1be-58b4-4d22-be9e-d9f2a11fd717",
+          "type": "column",
+          "children": [
+            {
+              "id": "a9319704-d6bf-4ccd-8bfc-dbfe8a28bc51",
+              "type": "paragraph",
+              "html": "<em><strong>Atari Age: The Emergence of Video Games in America</strong></em> was written by Michael Z. Newman, published by The MIT Press, February 10, 2017."
+            },
+            {
+              "id": "79c662a9-103b-4e66-b111-50489da927e1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2e6f8300-b8a2-452d-b10f-80abd69ea42a",
+              "type": "quote",
+              "html": "<strong><em>The cultural contradictions of early video games: a medium for family fun (but mainly for middle-class boys), an improvement over pinball and television (but possibly harmful).</em></strong><em><br><br>Beginning with the release of the Magnavox Odyssey and </em>Pong<em> in 1972, video games, whether played in arcades and taverns or in family rec rooms, became part of popular culture, like television. In fact, video games were sometimes seen as an improvement on television because they spurred participation rather than passivity. These “space-age pinball machines” gave coin-operated games a high-tech and more respectable profile. In </em>Atari Age<em>, Michael Newman charts the emergence of video games in America from ball-and-paddle games to hits like </em>Space Invaders<em> and </em>Pac-Man<em>, describing their relationship to other amusements and technologies and showing how they came to be identified with the middle class, youth, and masculinity.<br><br>Newman shows that the “new media” of video games were understood in varied, even contradictory ways. They were family fun (but mainly for boys), better than television (but possibly harmful), and educational (but a waste of computer time). Drawing on a range of sources―including the games and their packaging; coverage in the popular, trade, and fan press; social science research of the time; advertising and store catalogs; and representations in movies and television―Newman describes the series of cultural contradictions through which the identity of the emerging medium worked itself out. Would video games embody middle-class respectability or suffer from the arcade's unsavory reputation? Would they foster family togetherness or allow boys to escape from domesticity? Would they make the new home computer a tool for education or just a glorified toy? Then, as now, many worried about the impact of video games on players, while others celebrated video games for familiarizing kids with technology essential for the information age.</em>"
+            },
+            {
+              "id": "853e6b8f-32fc-44da-84dd-26b9128ddd11",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "911ffb11-988e-490c-99b6-605e947c6ba5",
+          "type": "column",
+          "children": [
+            {
+              "id": "b36e97e0-44d6-4909-a899-286709bb20f9",
+              "type": "image",
+              "src": "./assets/images/untitled-b26d68c5ddb7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92fe72c5-3255-4480-b505-db1a32c10cf8",
+      "type": "divider"
+    },
+    {
+      "id": "a4e5c2aa-45eb-42b4-ae7e-80118314a0ab",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ee49c48b-509c-410c-ba7a-0ec7a17bc3ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "68dc8194-82a0-4a6a-a703-8663379cc562",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b1986ffa-cc8a-4b76-83ad-d125dc8673af",
+          "type": "column",
+          "children": [
+            {
+              "id": "e5686f57-3b37-4809-9393-babe7b78f32b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NjdUdX\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6402034-d7df-4be9-84de-5a01325d8069",
+      "type": "divider"
+    }
+  ]
+}

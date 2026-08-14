@@ -1,0 +1,131 @@
+{
+  "id": "a75d7873-4bee-4f95-b7d2-4fece8fdb371",
+  "slug": "children-s-play-in-diverse-cultures",
+  "title": "Children's Play in Diverse Cultures",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "941cc77c-8e6e-4869-a86c-9aaae44d9333",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Children-s-Play-in-Diverse-Cultures-a75d78734bee4f95b7d24fece8fdb371?pvs=21",
+  "createdTime": 1653073463557,
+  "lastEditedTime": 1681311532942,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Children's Play in Diverse Cultures",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-115d6706e6d6.webp",
+  "blocks": [
+    {
+      "id": "c553edff-3e1d-4e94-83c1-c82206abd8f5",
+      "type": "divider"
+    },
+    {
+      "id": "97378cd6-a498-4058-ac78-f80fe81b22cb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "27469732-3a42-4000-b743-6cc8414f65ce",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7576078b-ce28-446a-bc64-a67186976c0f",
+          "type": "column",
+          "children": [
+            {
+              "id": "6475ba8f-9365-4825-a5e0-8ce931fca622",
+              "type": "paragraph",
+              "html": "<em><strong>Children's Play in Diverse Cultures</strong></em> is a collection of essays edited by Jaipaul L. Roopnarine, published by SUNY Press, January 11, 1994."
+            },
+            {
+              "id": "6626f151-99e4-4b05-853c-366c7f1dfb57",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "cbe66624-6196-418d-adde-c8b82ab13fc8",
+              "type": "quote",
+              "html": "<em>This book illuminates play as a universal and culture-specific activity. It provides needed information about the behavior of children in diverse cultural contexts as well as about the play of children in unassimilated cultural or subcultural contexts. It offers readers the opportunity to develop greater sensitivity to and better understanding of the important cultural differences that confront early childhood teachers and teacher educators.</em>"
+            }
+          ]
+        },
+        {
+          "id": "2829a47e-9740-4ec7-b490-d124247e232d",
+          "type": "column",
+          "children": [
+            {
+              "id": "c1e9b540-d7a3-4553-b7b7-8680a3326a1e",
+              "type": "image",
+              "src": "./assets/images/untitled-115d6706e6d6.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14212a6f-428e-45dd-a197-e193c7420f64",
+      "type": "divider"
+    },
+    {
+      "id": "164c9417-33e3-4449-b25b-228bc98e8a99",
+      "type": "columns",
+      "children": [
+        {
+          "id": "857b14b1-a967-40c0-afed-d23bac786621",
+          "type": "column",
+          "children": [
+            {
+              "id": "c93aa6d3-d836-4264-ba36-783d342c0337",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0428bbef-68b4-4c8a-ac33-bd90c69b1c59",
+          "type": "column",
+          "children": [
+            {
+              "id": "2ca46525-c12a-4997-a675-c2de8eae5f8e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3r6Qcau\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7de3576a-73b0-405d-b799-c48f1714e602",
+      "type": "divider"
+    },
+    {
+      "id": "2daf6853-b007-4613-ad64-e8fdadd6acea",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

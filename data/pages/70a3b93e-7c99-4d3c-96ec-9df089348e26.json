@@ -1,0 +1,131 @@
+{
+  "id": "70a3b93e-7c99-4d3c-96ec-9df089348e26",
+  "slug": "understanding-machinima",
+  "title": "Understanding Machinima",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Understanding-Machinima-70a3b93e7c994d3c96ec9df089348e26?pvs=21",
+  "createdTime": 1657235178243,
+  "lastEditedTime": 1681314198100,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Understanding Machinima",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1cdaf643a2bf.webp",
+  "blocks": [
+    {
+      "id": "396874f6-c84e-4f45-b70c-4b86e52c0983",
+      "type": "divider"
+    },
+    {
+      "id": "6758730e-cad1-4478-a57d-64102738dc69",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "854dbc3b-5fc1-4ffe-8c5f-a9de67a5b9ad",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e9f0359d-fc66-4708-8ab7-4356dcbd19be",
+          "type": "column",
+          "children": [
+            {
+              "id": "90268a86-12f2-4a79-a542-3226e05c48a8",
+              "type": "paragraph",
+              "html": "<strong>Understanding Machinima: Essays on Filmmaking in Virtual Worlds</strong> is a collection of essays edited by Jenna Ng, published by Bloomsbury Academic, July 18, 2013."
+            },
+            {
+              "id": "4a6e00a1-641c-438e-968c-d2912bf12d6a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1d3a922e-ac4f-4cb5-b9d4-ef8bca6dc29b",
+              "type": "quote",
+              "html": "<em>In this groundbreaking collection, Dr. Jenna Ng brings together academics and award-winning artists and machinima makers to explore the fascinating combination of cinema, animation and games in machinima (the use of computer game engines to produce animated films in cost- and time-efficient ways). Book-ended by a preface by Henry Lowood (curator for history of science and technology collections at Stanford University) and an interview with Isabelle Arvers (machinima artist, trainer, critic, and curator), the collection features wide-ranging discussions addressing machinima not only from diverse theoretical perspectives, but also in its many dimensions as game art, First Nations media art, documentary, and pedagogical tool. Making use of interactive multimedia to enhance the text, each chapter features a QR code which leads to a mobile website cross-referencing with its print text, integrating digital and print content while also taking into account the portability of digital devices in resonance with machinima's mobile digital forms. Exploring the many dimensions of machinima production and reception, </em>Understanding Machinima<em> extends machinima's critical scholarship and debate, underscoring the exciting potential of this emerging media form.</em>"
+            },
+            {
+              "id": "fd5409e3-c9be-4156-baeb-46a8a706a40a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5856af72-a55f-41a8-9c9f-fb632ef0b404",
+          "type": "column",
+          "children": [
+            {
+              "id": "c896d696-21d6-4f1d-a092-6d48dc88f59c",
+              "type": "image",
+              "src": "./assets/images/untitled-1cdaf643a2bf.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d9a55335-208c-4f0d-9f99-eda59d0d3350",
+      "type": "divider"
+    },
+    {
+      "id": "9a45235a-4009-44f6-bfc5-d28dae748611",
+      "type": "columns",
+      "children": [
+        {
+          "id": "18cbc24a-c349-4f07-8a68-903403282c71",
+          "type": "column",
+          "children": [
+            {
+              "id": "138ea73e-36dc-4621-a5f8-c804a2ef9944",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4cf2694e-74e7-47b8-809d-dfe9988d9433",
+          "type": "column",
+          "children": [
+            {
+              "id": "79a65f46-86ea-4e59-b683-d287daf86e13",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3O5gMKl\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81231a74-d642-4cdd-9f5e-0c28ec74416f",
+      "type": "divider"
+    }
+  ]
+}

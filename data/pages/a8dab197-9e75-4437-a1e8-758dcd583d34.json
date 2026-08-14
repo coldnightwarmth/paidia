@@ -1,0 +1,131 @@
+{
+  "id": "a8dab197-9e75-4437-a1e8-758dcd583d34",
+  "slug": "the-civic-potential-of-video-games",
+  "title": "The Civic Potential of Video Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Civic-Potential-of-Video-Games-a8dab1979e754437a1e8758dcd583d34?pvs=21",
+  "createdTime": 1657243375028,
+  "lastEditedTime": 1681313584118,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Civic Potential of Video Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-85ef0ef51058.webp",
+  "blocks": [
+    {
+      "id": "23fb9e8f-4e88-47f2-b14b-5d6fe41bb210",
+      "type": "divider"
+    },
+    {
+      "id": "affd1e27-da80-4f29-aef2-509a685f62da",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9152f05a-8649-463a-987d-f4f61876f9c4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e7eeb587-5b0f-45c6-8675-34a734d57576",
+          "type": "column",
+          "children": [
+            {
+              "id": "97a9fbf5-d400-4d90-9e34-83a5a53c1b0d",
+              "type": "paragraph",
+              "html": "<em><strong>The Civic Potential of Video Games</strong></em> was written by Joseph Kahne, Ellen Middaugh, &amp; Chris Evans, published by The MIT Press, June 5, 2009."
+            },
+            {
+              "id": "8d7328e2-801f-4fbc-88c9-c358080bdb43",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a75ac5bd-5bdb-41d6-bef2-0b963e51dc54",
+              "type": "quote",
+              "html": "<em>This report focuses on the civic aspects of video game play among youth. According to a 2006 survey, 58 percent of young people aged 15 to 25 were civically &quot;disengaged,&quot; meaning that they participated in fewer than two types of either electoral activities (defined as voting, campaigning, etc.) or civic activities (for example, volunteering). Kahne and his coauthors are interested in what role video games may or may not play in this disengagement. Until now, most research in the field has considered how video games relate to children's aggression and to academic learning. Digital media scholars suggest, however, that other social outcomes also deserve attention. For example, as games become more social, some scholars argue that they can be important spheres in which to foster civic development. Others disagree, suggesting that games, along with other forms of Internet involvement, may in fact take time away from civic and political engagement.<br><br>Drawing on data from the 2006 survey, the authors examine the relationship between video game play and civic development. They call for further research on teen gaming experiences so that we can understand and promote civic engagement through video games.</em>"
+            },
+            {
+              "id": "ea15ed93-68bd-49bf-b5bd-4f30f41eb607",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "388082ea-56e8-4942-a691-0079dd374aff",
+          "type": "column",
+          "children": [
+            {
+              "id": "d918c959-f913-4a37-8e15-6d77d47bcb51",
+              "type": "image",
+              "src": "./assets/images/untitled-85ef0ef51058.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03cb10dc-d50b-4bb5-b3a4-5b021108a79c",
+      "type": "divider"
+    },
+    {
+      "id": "f995af7c-3762-4855-8935-0d3c18dd821f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "056d0808-a313-4b61-88ba-a7f62bbbc527",
+          "type": "column",
+          "children": [
+            {
+              "id": "9c913827-220c-4d73-8817-234f1564f080",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "67cd18a8-0651-46cb-b469-820f2734326b",
+          "type": "column",
+          "children": [
+            {
+              "id": "16d279f4-99c7-45fb-bd70-98f88d2e535a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yLvRfr\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1f3140d-b6a8-47e4-972d-45d48a645857",
+      "type": "divider"
+    }
+  ]
+}

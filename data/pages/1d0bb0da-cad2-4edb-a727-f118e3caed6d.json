@@ -1,0 +1,131 @@
+{
+  "id": "1d0bb0da-cad2-4edb-a727-f118e3caed6d",
+  "slug": "the-secret-history-of-mac-gaming",
+  "title": "The Secret History of Mac Gaming",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Secret-History-of-Mac-Gaming-1d0bb0dacad24edba727f118e3caed6d?pvs=21",
+  "createdTime": 1662137868257,
+  "lastEditedTime": 1681313013657,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Secret History of Mac Gaming",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-aee9cd06aa91.webp",
+  "blocks": [
+    {
+      "id": "54a6eb69-2196-4162-a72e-5619a5f547e4",
+      "type": "divider"
+    },
+    {
+      "id": "7b847f7d-ae9b-4759-aa96-e4d0bb00f383",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "551c1714-f05d-498e-86d3-fee10f7cebcb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "74eeb749-c793-4cfc-b460-99a71ed5a74f",
+          "type": "column",
+          "children": [
+            {
+              "id": "74cace3c-b0b2-4b52-9994-b3fed7682c87",
+              "type": "paragraph",
+              "html": "<em><strong>The Secret History of Mac Gaming </strong></em>was written by Richard Moss, published by Unbound, February 4, 2020."
+            },
+            {
+              "id": "c2a278a3-4eba-4447-97de-d8fea59b326c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4f9eda34-5dd2-4e75-b481-433206c4dfa1",
+              "type": "quote",
+              "html": "<em>The Macintosh challenged games to be more than child’s play and quick reflexes. It made human–computer interaction friendly, inviting and intuitive. Mac gaming led to much that is now taken for granted by PC gamers and spawned some of the biggest franchises in video game history. It allowed anyone to create games and playful software with ease, and gave indie developers a home for their products. It welcomed strange ideas and encouraged experimentation. It fostered passionate and creative communities who inspired and challenged developers to do better and to follow the Mac mantra ‘think different’. Drawing on archive material and interviews with key figures from the era – and featuring new material from Craig Fryar, Apple’s first Mac games evangelist and the co-creator of hit game </em>Spectre<em> – </em>The Secret History of Mac Gaming<em> is the story of those communities and the game developers who survived and thrived in an ecosystem that was serially ignored by the outside world. It’s a book about people who followed their hearts first and market trends second, showing how clever, quirky, and downright wonderful video games could be.</em>"
+            },
+            {
+              "id": "ee201ce0-d76a-428c-8d0e-f054069069f2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "397d44fc-cd4a-4945-b5c8-6bf2ce0a6fb0",
+          "type": "column",
+          "children": [
+            {
+              "id": "e2449bbc-b67f-461d-93eb-c0318f379730",
+              "type": "image",
+              "src": "./assets/images/untitled-aee9cd06aa91.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7d03e35-99a9-4fb6-8432-41b20f452e8f",
+      "type": "divider"
+    },
+    {
+      "id": "64accbf3-c0e0-42ba-bbf1-80791b21fb59",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f0cd9bc5-6a24-454b-852f-84adc13f89ed",
+          "type": "column",
+          "children": [
+            {
+              "id": "e64d0d69-121c-477d-b633-0648501f0a85",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c4c24b88-a3b5-4a5c-ae3f-e9072d8ca546",
+          "type": "column",
+          "children": [
+            {
+              "id": "bce00a47-c0b6-4fe6-bd0c-ec382fdf0706",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xeRiVh\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6fa1bcc6-0f48-41b3-8ea2-5878c97fa448",
+      "type": "divider"
+    }
+  ]
+}

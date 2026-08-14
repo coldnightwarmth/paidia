@@ -1,0 +1,126 @@
+{
+  "id": "2b483570-8ab9-453a-91c8-e5de31a39e59",
+  "slug": "emperors-and-gladiators",
+  "title": "Emperors & Gladiators",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Emperors-Gladiators-2b4835708ab9453a91c8e5de31a39e59?pvs=21",
+  "createdTime": 1671478662435,
+  "lastEditedTime": 1681312219360,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Emperors & Gladiators"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-136b7c7e24f5.webp",
+  "blocks": [
+    {
+      "id": "6edb0227-4d2f-46b8-a112-40936b694c0d",
+      "type": "divider"
+    },
+    {
+      "id": "7e918db7-92ba-42c1-a54f-a6a143cfad20",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e9c53197-4d6d-43f2-a738-8b6436d466c4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "de122b08-c13e-4ac9-a87c-0893e542a353",
+          "type": "column",
+          "children": [
+            {
+              "id": "68d9e8bc-f300-4b06-9165-6174435e3145",
+              "type": "paragraph",
+              "html": "<em><strong>Emperors &amp; Gladiators</strong></em> was written by Thomas Wiedemann, published by Routledge, December 10, 1992."
+            },
+            {
+              "id": "c078acb9-5e69-4a46-aa19-bfeb4a5662ba",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "963736c4-2444-45c8-a068-293ec6dc329a",
+              "type": "quote",
+              "html": "<em>Of all aspects of Roman culture, the gladiatorial contests for which the Romans built their amphitheatres are at once the most fascinating and the most difficult for us to come to terms with. They have been seen variously as sacrifices to the gods or, at funerals, to the souls of the deceased; as a mechanism for introducing young Romans to the horrors of fighting; and as a direct substitute for warfare after the imposition of peace.<br><br>In this original and authoritative study, Thomas Wiedemann argues that gladiators were part of the mythical struggle of order and civilisation against the forces of nature, barbarism and law breaking, representing the possibility of a return to new life from the point of death; that Christian Romans rejected gladiatorial games not on humanitarian grounds, but because they were a rival representation of a possible resurrection.</em>"
+            },
+            {
+              "id": "0d24d6ba-e8b7-4416-9693-7fa3c4bcabc7",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ba1c4cb8-605d-4242-af5c-d8749c00cb7d",
+          "type": "column",
+          "children": [
+            {
+              "id": "e039f0cb-20b0-4317-8375-13b4956eaa95",
+              "type": "image",
+              "src": "./assets/images/untitled-136b7c7e24f5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "39862ff8-efbd-44a9-a4b0-a73b8972208e",
+      "type": "divider"
+    },
+    {
+      "id": "01436302-b280-4d9c-8c47-d0017c41e81f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ce02801f-5847-4cf0-8481-699eeba789ec",
+          "type": "column",
+          "children": [
+            {
+              "id": "d38f276f-6ece-4a3d-b66d-2dc37de01a3b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6b3b3bf4-6b84-470d-a710-1328e77cca47",
+          "type": "column",
+          "children": [
+            {
+              "id": "9d14a9d6-c017-4168-8ca0-adf53ba5a5df",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Emperors-Gladiators-Thomas-Wiedemann/dp/041500005X/ref=sr_1_1?crid=1RYQTTT7WAHNM&amp;keywords=Emperors+and+Gladiators+Thomas+Wiedemann&amp;qid=1666372257&amp;qu=eyJxc2MiOiIxLjEzIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=emperors+and+gladiators+thomas+wiedemann%2Caps%2C105&amp;sr=8-1&amp;ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92e8ca48-5b43-4d27-b0f8-6bd334e2283a",
+      "type": "divider"
+    }
+  ]
+}

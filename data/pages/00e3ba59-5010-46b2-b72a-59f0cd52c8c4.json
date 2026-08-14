@@ -1,0 +1,141 @@
+{
+  "id": "00e3ba59-5010-46b2-b72a-59f0cd52c8c4",
+  "slug": "rules-of-play",
+  "title": "Rules of Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/00e3ba59501046b2b72a59f0cd52c8c4",
+  "createdTime": 1651768007044,
+  "lastEditedTime": 1681313859206,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Rules of Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d43f079568fd.webp",
+  "blocks": [
+    {
+      "id": "455d12f3-8d05-4752-aa2d-76804bc41d84",
+      "type": "divider"
+    },
+    {
+      "id": "19110438-6dbf-4fae-930b-77cc193de90b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "85ea1535-1a3b-4d5b-9437-c8d3a207266b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b197cf27-deb2-42d7-af40-c47045066cdd",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd26418a-d763-4474-b629-a528c7456662",
+              "type": "paragraph",
+              "html": "<em><strong>Rules of Play: Game Design Fundamentals </strong></em>was written by Katie Salen Tekinbas &amp; Eric Zimmerman, published by The MIT Press, September 25, 2003."
+            },
+            {
+              "id": "e4341bfc-1619-4e5d-a139-b13f3bfa360c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d2e35081-9d01-46b2-9cc7-360290f8fde8",
+              "type": "quote",
+              "html": "<em>As pop culture, games are as important as film or television—but game design has yet to develop a theoretical framework or critical vocabulary. In </em>Rules of Play<em> Katie Salen and Eric Zimmerman present a much-needed primer for this emerging field. They offer a unified model for looking at all kinds of games, from board games and sports to computer and video games. As active participants in game culture, the authors have written Rules of Play as a catalyst for innovation, filled with new concepts, strategies, and methodologies for creating and understanding games. Building an aesthetics of interactive systems, Salen and Zimmerman define core concepts like &quot;play,&quot; &quot;design,&quot; and &quot;interactivity.&quot; They look at games through a series of eighteen &quot;game design schemas,&quot; or conceptual frameworks, including games as systems of emergence and information, as contexts for social play, as a storytelling medium, and as sites of cultural resistance.<br><br>Written for game scholars, game developers, and interactive designers, </em>Rules of Play<em> is a textbook, reference book, and theoretical guide. It is the first comprehensive attempt to establish a solid theoretical framework for the emerging discipline of game design.</em>"
+            },
+            {
+              "id": "224371db-c244-484f-8ceb-404fa236f1ef",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ae2fad23-20da-4ffb-84e2-67788461448c",
+          "type": "column",
+          "children": [
+            {
+              "id": "7edda28f-9619-49b0-a193-975cc337ff97",
+              "type": "image",
+              "src": "./assets/images/untitled-d43f079568fd.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cdb6be6f-3b3c-499d-9f90-de67eb399f80",
+      "type": "divider"
+    },
+    {
+      "id": "882ef070-b328-4e29-b2fe-ae4f7955c8b5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c7b58411-7e62-4abe-bbcc-f941b160bd97",
+          "type": "column",
+          "children": [
+            {
+              "id": "0af05480-5754-446c-8ddd-e6a1f49fcc55",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a5676c14-0c3e-40f6-b82f-bf7fcd5995f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "0a4f891b-843d-4d8c-b011-a1c7acee483e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3aogkIP\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2e4b6ab-31fc-4f79-b447-bdfcd2ba33a2",
+      "type": "divider"
+    },
+    {
+      "id": "bbb5ee13-790d-44b8-8f85-1f2e09cc525a",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "17196e49-983a-4bb8-ab21-29e4507c79b9",
+      "type": "paragraph",
+      "html": "<a href=\"#/manifesto-for-a-ludic-century\">Manifesto for a Ludic Century</a> (<em>essay</em>)"
+    }
+  ]
+}

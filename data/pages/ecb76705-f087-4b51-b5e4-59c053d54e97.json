@@ -1,0 +1,109 @@
+{
+  "id": "ecb76705-f087-4b51-b5e4-59c053d54e97",
+  "slug": "essays-articles-and-blogposts-ecb76705",
+  "title": "Essays, Articles, & Blogposts",
+  "icon": "📄",
+  "cover": "",
+  "type": "page",
+  "parentId": "98d38168-e6bd-4ee0-9555-bbeec0775a2c",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/ecb76705f0874b51b5e459c053d54e97",
+  "createdTime": 1704902005742,
+  "lastEditedTime": 1704903148609,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Essays, Articles, & Blogposts"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "f4985818-4cf1-4f54-bb0c-597956012a5c",
+      "type": "header",
+      "html": "   Essays, Articles, &amp; Blogposts",
+      "anchorId": "essays-articles-and-blogposts"
+    },
+    {
+      "id": "18cfae10-29bd-4b6a-9e1c-512ddd390f47",
+      "type": "paragraph",
+      "html": "       <em>collected paidiosophical essays, articles, &amp; blogposts</em>"
+    },
+    {
+      "id": "f7b87093-899f-4603-b3dd-c5af4b777f71",
+      "type": "columns",
+      "children": [
+        {
+          "id": "81833ae4-f10b-445f-a195-08a3d13fcdf5",
+          "type": "column",
+          "children": [
+            {
+              "id": "b9bfb362-7c16-4b32-a758-f4a3981b95c2",
+              "type": "synced_block",
+              "sourceBlockId": "98d38168-e6bd-4ee0-9555-bbeec0775a2c",
+              "children": [
+                {
+                  "id": "ecb76705-f087-4b51-b5e4-59c053d54e97",
+                  "type": "page_link",
+                  "targetId": "ecb76705-f087-4b51-b5e4-59c053d54e97",
+                  "title": "Essays, Articles, & Blogposts",
+                  "notionType": "page"
+                },
+                {
+                  "id": "19ddf125-7306-433b-a4d4-e7c6454b89c6",
+                  "type": "page_link",
+                  "targetId": "19ddf125-7306-433b-a4d4-e7c6454b89c6",
+                  "title": "Poetry",
+                  "notionType": "page"
+                },
+                {
+                  "id": "7f906de6-0d9e-4664-aac2-d2dbf9c93df9",
+                  "type": "page_link",
+                  "targetId": "7f906de6-0d9e-4664-aac2-d2dbf9c93df9",
+                  "title": "Short Stories",
+                  "notionType": "page"
+                },
+                {
+                  "id": "3c174425-17e0-4b70-9451-80723e8cdeda",
+                  "type": "paragraph",
+                  "html": "<em>see also:</em>"
+                },
+                {
+                  "id": "cbbf2caa-7b65-490d-bc94-7a391b056585",
+                  "type": "alias_link",
+                  "targetId": "75a1e79b-ed9e-4d42-937f-ccc677935674",
+                  "title": "Linked page"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8ef44fbf-e12f-4722-b106-70bbfbe2c0be",
+          "type": "column",
+          "children": [
+            {
+              "id": "7c5c7768-a55e-400c-9463-5f9443787860",
+              "type": "collection_view",
+              "collectionId": "083abd51-9346-42aa-9e32-f0a0b84d7e82",
+              "viewIds": [
+                "5f04ca4e-4611-4d18-abef-ee9b38e3954c"
+              ],
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

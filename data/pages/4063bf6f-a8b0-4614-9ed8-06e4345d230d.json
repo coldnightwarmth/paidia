@@ -1,0 +1,131 @@
+{
+  "id": "4063bf6f-a8b0-4614-9ed8-06e4345d230d",
+  "slug": "shakespearean-neuroplay",
+  "title": "Shakespearean Neuroplay",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Shakespearean-Neuroplay-4063bf6fa8b046149ed806e4345d230d?pvs=21",
+  "createdTime": 1652205699398,
+  "lastEditedTime": 1681314139207,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Shakespearean Neuroplay",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fbb7f809c8e4.webp",
+  "blocks": [
+    {
+      "id": "7627a259-7f54-43c4-8be1-d368e58ed1e9",
+      "type": "divider"
+    },
+    {
+      "id": "10ebf3f0-7fde-4b01-95cf-949ab4339d28",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c7b438fc-62a4-4fdd-8d2a-b74297fe99ee",
+      "type": "columns",
+      "children": [
+        {
+          "id": "db55cfdc-3ac0-4eca-afb7-cca53e402ce9",
+          "type": "column",
+          "children": [
+            {
+              "id": "6a64a464-8797-4a8f-9230-bb5b643522fa",
+              "type": "paragraph",
+              "html": "<em><strong>Shakespearean Neuroplay: Reinvigorating the Study of Dramatic Texts &amp; Performance through Cognitive Science </strong></em>was written by Amy Cook, published by Palgrave Macmillan, October 15, 2010."
+            },
+            {
+              "id": "109a2254-d138-436e-ab1b-38200be7f1f5",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8b324bee-1c0a-4dac-92fe-aafeb0ee4457",
+              "type": "quote",
+              "html": "<em>Using Shakespeare's Hamlet as a test subject and cognitive linguistic theory of conceptual blending as a tool, Cook unravels the 'mirror held up to nature' at the center of Shakespeare's play and provides a methodology for applying cognitive science to the study of drama.</em>"
+            }
+          ]
+        },
+        {
+          "id": "1ad8f2be-b1d3-4cca-b821-e3950c0a65ab",
+          "type": "column",
+          "children": [
+            {
+              "id": "f9f9d24f-505d-4133-8946-d53491e500b9",
+              "type": "image",
+              "src": "./assets/images/untitled-fbb7f809c8e4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ffad8bf0-cce0-4b72-93f1-79b79fa346f9",
+      "type": "divider"
+    },
+    {
+      "id": "34c2b1e6-4bb6-4968-9d13-56590ada2aa3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "149f491a-74ef-4da4-b548-2b70977a9315",
+          "type": "column",
+          "children": [
+            {
+              "id": "0a1d6877-0f71-431e-abd4-0e4cccf65d3b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "41735cbf-8b57-4932-967e-1a9e39b1116c",
+          "type": "column",
+          "children": [
+            {
+              "id": "74c64530-9894-454e-8d5f-22f1a53a7267",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3LnjsSd\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b810c91d-6473-49e3-beea-82a1f2d5eecf",
+      "type": "divider"
+    },
+    {
+      "id": "0addc9b7-9c5e-4655-aae8-fef7fa58f712",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

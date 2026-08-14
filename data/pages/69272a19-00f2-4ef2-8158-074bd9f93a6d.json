@@ -1,0 +1,126 @@
+{
+  "id": "69272a19-00f2-4ef2-8158-074bd9f93a6d",
+  "slug": "gaming-the-iron-curtain",
+  "title": "Gaming the Iron Curtain",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Gaming-the-Iron-Curtain-69272a1900f24ef28158074bd9f93a6d?pvs=21",
+  "createdTime": 1651688478223,
+  "lastEditedTime": 1681314038808,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gaming the Iron Curtain"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-265b60edba47.webp",
+  "blocks": [
+    {
+      "id": "baee1741-fce4-4558-8423-7bbec7027da3",
+      "type": "divider"
+    },
+    {
+      "id": "a6a1067d-8bce-45e4-b2e4-d7e3682e7bd4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "dc17342b-2516-42b8-93dd-83f12be241c6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d3b6105a-b628-411b-b993-b2412394206d",
+          "type": "column",
+          "children": [
+            {
+              "id": "8080eed9-2d2f-4b39-9b23-8558555d4e12",
+              "type": "paragraph",
+              "html": "<em><strong>Gaming the Iron Curtain: How Teenagers &amp; Amateurs in Communist Czechoslovakia Claimed the Medium of Computer Games</strong></em> was written by Jaroslav Švelch, published by The MIT Press, December 25, 2018."
+            },
+            {
+              "id": "77e62f1b-e245-40c5-b368-09377ca0d30c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a7c45c04-1bc4-4217-8883-9de050581f31",
+              "type": "quote",
+              "html": "<strong><em>How amateur programmers in 1980s Czechoslovakia discovered games as a medium, using them not only for entertainment but also as a means of self-expression.</em></strong><em><br><br>Aside from the exceptional history of </em>Tetris<em>, very little is known about gaming culture behind the Iron Curtain. But despite the scarcity of home computers and the absence of hardware and software markets, Czechoslovakia hosted a remarkably active DIY microcomputer scene in the 1980s, producing more than two hundred games that were by turns creative, inventive, and politically subversive. In </em>Gaming the Iron Curtain,<em> Jaroslav Švelch offers the first social history of gaming and game design in 1980s Czechoslovakia, and the first book-length treatment of computer gaming in any country of the Soviet bloc.<br><br>Švelch describes how amateur programmers in 1980s Czechoslovakia discovered games as a medium, using them not only for entertainment but also as a means of self-expression. Sheltered in state-supported computer clubs, local programmers fashioned games into a medium of expression that, unlike television or the press, was neither regulated nor censored. In the final years of Communist rule, Czechoslovak programmers were among the first in the world to make activist games about current political events, anticipating trends observed decades later in independent or experimental titles. Drawing from extensive interviews as well as political, economic, and social history, </em>Gaming the Iron Curtain<em> tells a compelling tale of gaming the system, introducing us to individuals who used their ingenuity to be active, be creative, and be heard.</em>"
+            },
+            {
+              "id": "4821bbb3-93a8-4cf1-8012-42076ba5b583",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "678bd6ea-a148-4062-9de5-b310138f66d5",
+          "type": "column",
+          "children": [
+            {
+              "id": "72a33a63-d7a8-4ee5-a43b-3c332f51aa78",
+              "type": "image",
+              "src": "./assets/images/untitled-265b60edba47.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e652cc8-8cac-40eb-ac3b-412a366b3c01",
+      "type": "divider"
+    },
+    {
+      "id": "29ed446c-8f1c-435c-9063-ada7a827c16d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "da582c7f-7c26-4c11-87cb-abdd52b9db0b",
+          "type": "column",
+          "children": [
+            {
+              "id": "e1b7c1e2-f33d-410d-887c-95e6a3526098",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "82a7d4e0-c5ea-488a-81dc-e2dd312aaed5",
+          "type": "column",
+          "children": [
+            {
+              "id": "35c123d5-1d6d-413f-928f-7b0faadd5169",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SuGTxg\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "562ddfcb-36a5-42ec-b9b4-14d4db2b4a92",
+      "type": "divider"
+    }
+  ]
+}

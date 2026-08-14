@@ -1,0 +1,126 @@
+{
+  "id": "99e60fec-0415-44ae-96ae-69630bea2405",
+  "slug": "the-tourist",
+  "title": "The Tourist",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Tourist-99e60fec041544ae96ae69630bea2405?pvs=21",
+  "createdTime": 1668456534353,
+  "lastEditedTime": 1681312502311,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Tourist",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1ec4a8a044d2.webp",
+  "blocks": [
+    {
+      "id": "1a99254b-d4a2-4f4c-916f-e2a65682f549",
+      "type": "divider"
+    },
+    {
+      "id": "f0ef54d9-9c40-4a41-8c70-9a17fc8e0870",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f4f7bcd5-c060-4759-a720-6c7a18a99dea",
+          "type": "column",
+          "children": [
+            {
+              "id": "9d34dd01-3fed-439c-ac9c-75ef2b06b76a",
+              "type": "paragraph",
+              "html": "<em><strong>The Tourist: A New Theory of the Leisure Class</strong></em><em> </em>was written by Dean MacCannell, originally published by Macmillan, January 1, 1976."
+            },
+            {
+              "id": "0c83ed4b-78f3-4243-9988-186cc3f6c4c6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "51dfb268-49b7-4059-8910-9b8897f0247d",
+              "type": "quote",
+              "html": "<em>In this classic analysis of travel and sightseeing, author Dean MacCannell brings social scientific understandings to bear on tourism in the postindustrial age, during which the middle class has acquired leisure time for international travel.<br><br>In </em>The Tourist<em>―now with a new introduction framing it as part of a broader contemporary social and cultural analysis―the author examines notions of authenticity, high and low culture, and the construction of social reality around tourism.</em>"
+            },
+            {
+              "id": "ce5329ba-3100-4a42-be1b-16da848f82c2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e0a7d82d-213c-454e-837e-7dd1d77210de",
+          "type": "column",
+          "children": [
+            {
+              "id": "8f557594-770b-4d16-9b8a-f661b75ef203",
+              "type": "image",
+              "src": "./assets/images/untitled-1ec4a8a044d2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0043b5c-a9ca-4610-9926-cd2e60d4a58a",
+      "type": "divider"
+    },
+    {
+      "id": "89cd5802-a965-4d13-b061-3df0d72316f8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "70d01f6d-8272-492b-845d-67f18de9c1dc",
+          "type": "column",
+          "children": [
+            {
+              "id": "90cd94a1-7987-4890-8b40-a6f53f334f62",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8043669b-ec97-415a-abf6-8ea66cb6cec3",
+          "type": "column",
+          "children": [
+            {
+              "id": "ce80f568-0903-4cae-b1e9-89934f377806",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Tourist-New-Theory-Leisure-Class/dp/0520280008/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1666371525&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5b01af5-b129-46a0-b03d-f6ce45e97936",
+      "type": "divider"
+    }
+  ]
+}

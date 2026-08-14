@@ -1,0 +1,131 @@
+{
+  "id": "e2110d93-e2d4-4535-ba1d-6deb59006c1a",
+  "slug": "the-puzzler",
+  "title": "The Puzzler",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Puzzler-e2110d93e2d44535ba1d6deb59006c1a?pvs=21",
+  "createdTime": 1658276809705,
+  "lastEditedTime": 1681313129481,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Puzzler",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/91mew5x1zul-9c00ce2ee745.webp",
+  "blocks": [
+    {
+      "id": "f8185f55-5fdf-489f-bc5d-a049e575d25f",
+      "type": "divider"
+    },
+    {
+      "id": "4611f8fd-99fe-4a97-aed3-a8371eccd63a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "93c80112-b353-4a5b-93b1-f43f1417f5b3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "18c8a910-210e-4ec6-95d2-6a41c9dce632",
+          "type": "column",
+          "children": [
+            {
+              "id": "ebbe900f-d40c-4f27-949c-16f29a82feec",
+              "type": "paragraph",
+              "html": "<em><strong>The Puzzler: One Man's Quest to Solve the Most Baffling Puzzles Ever, from Crosswords to Jigsaws to the Meaning of Life</strong></em> was written by A.J. Jacobs with contributions by Greg Pliska, published by Crown, April 26, 2022."
+            },
+            {
+              "id": "731792ad-25b4-4905-991b-8d93f4e54e82",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "78d63bef-6b63-44e6-9134-5fddecd1fb05",
+              "type": "quote",
+              "html": "<em>What makes puzzles—jigsaws, mazes, riddles, sudokus—so satisfying? Be it the formation of new cerebral pathways, their close link to insight and humor, or their community-building properties, they’re among the fundamental elements that make us human. Convinced that puzzles have made him a better person, A.J. Jacobs—four-time New York Times bestselling author, master of immersion journalism, and nightly crossworder—set out to determine their myriad benefits. And maybe, in the process, solve the puzzle of our very existence. Well, almost.<br><br>In </em>The Puzzler<em>, Jacobs meets the most zealous devotees, enters (sometimes with his family in tow) any puzzle competition that will have him, unpacks the history of the most popular puzzles, and aims to solve the most impossible head-scratchers, from a mutant Rubik’s Cube, to the hardest corn maze in America, to the most sadistic jigsaw. Chock-full of unforgettable adventures and original examples from around the world—including new work by Greg Pliska, one of America’s top puzzle-makers, and a hidden, super-challenging but solvable puzzle that will earn the first reader to crack it a $10,000 prize*—The Puzzler will open readers’ eyes to the power of flexible thinking and concentration. Whether you’re puzzle obsessed or puzzle hesitant, you’ll walk away with real problem-solving strategies and pathways toward becoming a better thinker and decision maker—for these are certainly puzzling times.</em>"
+            },
+            {
+              "id": "c86b1469-879a-4b0c-a6a4-565213c135f4",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d81a517f-488b-4d3e-ad21-800468559b50",
+          "type": "column",
+          "children": [
+            {
+              "id": "02cd285f-1a81-4ebd-9179-5dc3858fd630",
+              "type": "image",
+              "src": "./assets/images/91mew5x1zul-9c00ce2ee745.webp",
+              "caption": "",
+              "alt": "91MEW5X1ZuL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6f234b28-2ab5-4b12-8f18-54c38d36ee6a",
+      "type": "divider"
+    },
+    {
+      "id": "0106cee4-8a5b-4a8a-9439-a5739babdbc5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ee9ea20e-e436-488a-a6bb-ee96f4d0d22e",
+          "type": "column",
+          "children": [
+            {
+              "id": "c0759f1a-fb0b-402e-8675-7b496a82257d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2e4ba7be-6d53-4d90-a9e1-fb09b7a69151",
+          "type": "column",
+          "children": [
+            {
+              "id": "084aaf9c-7337-4ee8-a1d9-1ebc062cc6a5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yRvfUj\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c74520db-fa83-47ce-b884-67f977e488a1",
+      "type": "divider"
+    }
+  ]
+}

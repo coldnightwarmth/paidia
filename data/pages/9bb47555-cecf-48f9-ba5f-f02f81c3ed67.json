@@ -1,0 +1,131 @@
+{
+  "id": "9bb47555-cecf-48f9-ba5f-f02f81c3ed67",
+  "slug": "insights",
+  "title": "Insights",
+  "icon": "📰",
+  "cover": "",
+  "type": "page",
+  "parentId": "623df8c7-5945-4ac6-a849-e31a2387c11a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/9bb47555cecf48f9ba5ff02f81c3ed67",
+  "createdTime": 1711198564306,
+  "lastEditedTime": 1711198564306,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Insights"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "ac0c6226-5e07-4657-b620-dce618d65ebc",
+      "type": "callout",
+      "html": "A collection of articles, guides, and interviews from around the web.",
+      "icon": "ℹ️",
+      "children": []
+    },
+    {
+      "id": "0de538d8-c73e-46ef-9e8b-559e4fc9ea49",
+      "type": "collection_view",
+      "collectionId": "d04e0f6b-303a-4d6e-904e-664f74255ec1",
+      "viewIds": [
+        "9187d36d-da1a-4a22-9bfc-d38bd01af7b1",
+        "970fa69f-1f55-4acd-b946-c02f7993cc9c",
+        "6ac2bfbf-f79e-4005-9a16-5f9ac3190d7c",
+        "80721bb3-d922-49ba-9d2e-a9620c4c1b1d"
+      ],
+      "title": ""
+    },
+    {
+      "id": "99623d3d-3b4c-4534-9439-855ee1c7d54c",
+      "type": "collection_view",
+      "collectionId": "e98a5124-310e-412f-8d4c-298799ace003",
+      "viewIds": [
+        "425df47d-56c4-40e9-a1d2-5cce24daf999",
+        "340fe1e2-94a5-4e64-a798-715b7ac542ed",
+        "10a5c8b9-e126-4b17-bb4d-79a9ac66e382",
+        "1b9fbced-9683-419c-9417-8ba5f8ac1e00"
+      ],
+      "title": ""
+    },
+    {
+      "id": "0a1d548e-7cff-4b8d-8798-357f072a9339",
+      "type": "collection_view",
+      "collectionId": "42e7d299-da45-4ebc-8151-57bd548098de",
+      "viewIds": [
+        "d2dd01c4-ab8c-4560-86f5-6c1871f546f8",
+        "0be80951-03c3-479b-a0a5-b3fab09ace58",
+        "42c4798b-fd49-40f6-95ca-ca710fea36a9",
+        "64e7bb67-9b9c-48f7-bd74-a237bc51f722",
+        "fcddae0f-7ef9-42f8-bb69-d384d96a58b0"
+      ],
+      "title": ""
+    },
+    {
+      "id": "b983cdc4-204c-47f3-a2fa-962b3b9bd1b3",
+      "type": "collection_view",
+      "collectionId": "e961dc59-6ae9-4037-86bf-3d9602b8e0ea",
+      "viewIds": [
+        "b506308f-b3c6-4e72-b5b6-83d2d9106534",
+        "882553d7-4afb-4edc-ad69-03578c297503",
+        "3f893a19-8e88-4e7e-b2a3-041800065d70",
+        "6491f345-3a98-48cb-b916-0d2d7b1447ab",
+        "a4c7a988-76f8-4713-ac36-35783a393446"
+      ],
+      "title": ""
+    },
+    {
+      "id": "54af945e-ef7e-4f2f-b6d2-e9a78194f629",
+      "type": "collection_view",
+      "collectionId": "07ae79e1-039e-499f-8ece-ca7d55e23301",
+      "viewIds": [
+        "c8227149-3d30-4c27-bb41-1129081fdc3a",
+        "770335e8-808a-4b81-8572-a32867e697cf",
+        "21527f9f-c850-48b7-bb15-f8bcaed0f8ff",
+        "b2615d58-b024-4f6e-a955-2f4d879d8326",
+        "2df7fc1c-fb21-4042-8dd7-70428482af6e"
+      ],
+      "title": ""
+    },
+    {
+      "id": "11f143cb-f89a-4cad-a853-3c3e60cd4d1b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "84a82b50-6089-43a4-bd7f-c19a51e7bf60",
+      "type": "collection_view",
+      "collectionId": "f9add3eb-3274-4e94-8a80-f9ae577f1678",
+      "viewIds": [
+        "40f19f6e-36cf-4e4f-bdad-209415398c51",
+        "1dcd24ae-bf61-4471-b230-97dd32d03b4c",
+        "fdc0e201-a672-46d8-8c41-0eeb4b1ec7b4",
+        "6ba9e4ba-7b16-462e-b955-017bf70fd92f"
+      ],
+      "title": ""
+    },
+    {
+      "id": "4d37e95a-499d-4db4-8b88-653874f47796",
+      "type": "collection_view",
+      "collectionId": "fdb38760-4a45-45d4-95df-395d6662db68",
+      "viewIds": [
+        "4586c0d5-09b9-41b5-b11b-1873bf3ad846",
+        "57fbc92a-2327-4984-a13a-83c49fbe7052",
+        "f2f62945-ee31-48d6-aeec-2791989b8136",
+        "47689f0e-70a3-425d-b6f9-a4fd0ab67d4f"
+      ],
+      "title": ""
+    },
+    {
+      "id": "8d667a13-b7f2-4aa6-9f83-bb664ba57230",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

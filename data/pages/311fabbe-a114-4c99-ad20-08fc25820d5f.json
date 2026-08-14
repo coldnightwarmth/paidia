@@ -1,0 +1,146 @@
+{
+  "id": "311fabbe-a114-4c99-ad20-08fc25820d5f",
+  "slug": "play-for-life",
+  "title": "Play for Life",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/311fabbea1144c99ad2008fc25820d5f",
+  "createdTime": 1653155416957,
+  "lastEditedTime": 1681313332008,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play for Life",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-80f0659df504.webp",
+  "blocks": [
+    {
+      "id": "fc7967dd-8023-488a-9816-d5283a30ba7e",
+      "type": "divider"
+    },
+    {
+      "id": "6f10d86a-2753-4f86-b092-88708bb3f363",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9cb5d1e5-7361-4875-b41e-79f36aef2e5d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ea7a9804-7359-45f5-8565-9b9ffa2cd730",
+          "type": "column",
+          "children": [
+            {
+              "id": "819d137a-b6a6-4b2b-ae68-1a1d0a1d4823",
+              "type": "paragraph",
+              "html": "<em><strong>Play for Life: Play Theory &amp; Play as Emotional Survival</strong></em> was written by <a href=\"#/brian-sutton-smith\">Brian Sutton-Smith</a>, published by The Strong in 2017."
+            },
+            {
+              "id": "148dd40e-cee1-4cbe-b3c0-de4ed7ed7d30",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "77634a89-2fbb-45ae-b658-b554db4a70a5",
+              "type": "quote",
+              "html": "<em>Sutton-Smith embraced play more fully than any other contemporary thinker and changed the way generations will imagine the topic. A profoundly important theorist of play, he was also a diligent observer of how children actually play, and he collected their songs, stories, rhymes, </em><a href=\"#/humor\"><em>jokes</em></a><em>, and game rules from across the world. Most of all, he was a strong-minded advocate for allowing children to play </em><a href=\"#/freedom\"><em>freely</em></a><em>, arguing that they have a right to interact on their own terms away from controlling impulses of adults. By training an educational psychologist, by inclination a </em><a href=\"#/folklore\"><em>folklorist</em></a><em>, and by any reckoning a great scholar, Sutton-Smith in the last moments of his career speaks his mind on the true nature and real importance of this many-faceted phenomenon. He argues that play is more than a game for the young or a pastime for adults or a recreation for </em><a href=\"#/sport\"><em>sports</em></a><em> enthusiasts. Instead, it allows us to display our most basic existential challenges in culturally coherent and socially manageable forms. Indeed, it is the ambition of all players, claims Sutton-Smith, to transform the world, to rename it on terms that allow them--and all of use who join them--to thrive.</em>"
+            },
+            {
+              "id": "7c8b7655-dab9-4ecc-8fbd-51dfa74fb07f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e33ff7ba-9d27-4229-8760-0f7defea587d",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b0e4fdb-1067-4e71-b1fe-fdd93af390d2",
+              "type": "image",
+              "src": "./assets/images/untitled-80f0659df504.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f628068d-7f59-46e3-91f7-a09528ec171b",
+      "type": "divider"
+    },
+    {
+      "id": "7ba1bca8-41d1-43f4-842c-dc7b9f48fd29",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a703f6d8-b02c-4e0b-9e46-670f6be69165",
+          "type": "column",
+          "children": [
+            {
+              "id": "f8ebd106-0e92-4ada-8b77-48136c91fff6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4d245498-ca49-4028-98ca-00cc1910bca7",
+          "type": "column",
+          "children": [
+            {
+              "id": "2d56072c-cebb-4202-bc2b-7ce15258a4fe",
+              "type": "callout",
+              "html": "<a href=\"https://www.worldcat.org/title/play-for-life-play-theory-and-play-as-emotional-survival/oclc/971895413\" target=\"_blank\" rel=\"noreferrer\">Link</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1e9db7c-1a0b-4e99-9aae-e1acefad6772",
+      "type": "divider"
+    },
+    {
+      "id": "fd83da95-0ff8-4eb1-822a-23764cc2439a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b2caa150-5728-409b-94ce-44660ba1d46d",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "a5263d04-8d8f-44ca-b614-ca2d7d8c542b",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

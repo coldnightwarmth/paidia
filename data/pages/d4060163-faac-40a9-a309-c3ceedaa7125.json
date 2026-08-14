@@ -1,0 +1,134 @@
+{
+  "id": "d4060163-faac-40a9-a309-c3ceedaa7125",
+  "slug": "heather-chaplain",
+  "title": "Heather Chaplain",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "cdbf118d-29a4-4e28-acfc-aca945629d29",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d4060163faac40a9a309c3ceedaa7125",
+  "createdTime": 1667266568723,
+  "lastEditedTime": 1681328919352,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Heather Chaplain"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-72ddae702a76.webp",
+  "blocks": [
+    {
+      "id": "284b3a3e-783a-4cee-a442-d29fb6329ad7",
+      "type": "divider"
+    },
+    {
+      "id": "52463349-c2cc-4919-a631-0d82010f398f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7b00b4bd-3ba9-414f-8cb2-c16c454c3157",
+      "type": "columns",
+      "children": [
+        {
+          "id": "080b65c9-343c-44a7-99f6-2d4a46ab5b95",
+          "type": "column",
+          "children": [
+            {
+              "id": "9a3217be-4563-4a2f-967e-38890bac806c",
+              "type": "paragraph",
+              "html": "<strong>Author  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "38b492ea-104f-49ab-9276-e886bce99a60",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "583012a0-18db-4074-8af9-4e0f849c7007",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e3e64d5c-7a4e-4c94-959e-3f262e301201",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0cfef8ab-c547-4870-a6e5-6495118f1563",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "cdd78696-800a-492b-9f27-e2b3d590cf30",
+          "type": "column",
+          "children": [
+            {
+              "id": "d57a93c5-be75-4601-be56-57bc6517934e",
+              "type": "image",
+              "src": "./assets/images/untitled-72ddae702a76.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a132aa94-5702-4ff0-b501-7d28ea2e33b4",
+      "type": "divider"
+    },
+    {
+      "id": "6eb75c6a-ae0c-446d-8288-9929370f3940",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "8132ce58-831b-4ee9-a996-893013be215a",
+      "type": "paragraph",
+      "html": "<a href=\"#/smartbomb\">Smartbomb</a> (2005) (<em>book</em>)"
+    },
+    {
+      "id": "e895dc0b-efe3-4ef8-8c1c-f00124dcc8e7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "616bf513-e9f4-408f-88f3-4ab62bb1bf7a",
+      "type": "divider"
+    },
+    {
+      "id": "57d08fbb-baa3-472f-87ad-fdddefd3dccb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4154edc0-ba50-49ac-a802-329033b521db",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "f984fc39-3997-417d-9bb2-1a88baeea74f",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "f905d708-db6b-45cc-935e-9867d2fc7a0b",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

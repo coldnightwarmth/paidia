@@ -1,0 +1,131 @@
+{
+  "id": "02189055-c15b-4045-88f5-c4012fa0c634",
+  "slug": "cybertext-poetics",
+  "title": "Cybertext Poetics",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Cybertext-Poetics-02189055c15b404588f5c4012fa0c634?pvs=21",
+  "createdTime": 1657235320230,
+  "lastEditedTime": 1681314152463,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Cybertext Poetics",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6821308a6ea4.webp",
+  "blocks": [
+    {
+      "id": "e5a0e025-8e6f-4b21-b134-442421380093",
+      "type": "divider"
+    },
+    {
+      "id": "a6bcb286-6c54-4d76-9fbb-ce1f41a32ec8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f2afd456-edcd-4fad-801b-c65ebb614903",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f75c6d95-5345-4011-b318-b6d2067578ef",
+          "type": "column",
+          "children": [
+            {
+              "id": "2a5b5b94-2837-4787-8a11-8f0d83fb17be",
+              "type": "paragraph",
+              "html": "<em><strong>Cybertext Poetics: The Critical Landscape of New Media Literary Theory</strong></em> was written by Markku Eskelinen, published by Continuum, March 8, 2012."
+            },
+            {
+              "id": "badd1f66-9b71-4689-86d0-0f0bf96c491a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9f811ac9-c322-4784-ae88-e95c026dfbb1",
+              "type": "quote",
+              "html": "<em><strong>From computer games to hypertext fiction, Aarseth explores the aesthetics and textual dynamics of digital literature<br><br></strong></em><em>Can computer games be great literature? Do the rapidly evolving and culturally expanding genres of digital literature mean that the narrative mode of discourse―novels, films, television series―is losing its dominant position in our culture? Is it necessary to define a new aesthetics of cyborg textuality?<br><br>In </em>Cybertext<em>, Espen Aarseth explores the aesthetics and textual dynamics of digital literature and its diverse genres, including hypertext fiction, computer games, computer-generated poetry and prose, and collaborative Internet texts such as MUDs. Instead of insisting on the uniqueness and newness of electronic writing and interactive fiction, however, Aarseth situates these literary forms within the tradition of &quot;ergodic&quot; literature―a term borrowed from physics to describe open, dynamic texts such as the </em>I Ching<em> or Apollinaire's calligrams, with which the reader must perform specific actions to generate a literary sequence.<br><br>Constructing a theoretical model that describes how new electronic forms build on this tradition, Aarseth bridges the widely assumed divide between paper texts and electronic texts. He then uses the perspective of ergodic aesthetics to reexamine literary theories of narrative, semiotics, and rhetoric and to explore the implications of applying these theories to materials for which they were not intended.</em>"
+            },
+            {
+              "id": "508342e3-d331-4289-8c41-bad636d86565",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e75da779-80ba-48d6-83ea-2b75aeb276bc",
+          "type": "column",
+          "children": [
+            {
+              "id": "95d1a82b-53a2-45c0-a039-86d54f201a08",
+              "type": "image",
+              "src": "./assets/images/untitled-6821308a6ea4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e53f3b16-d36a-48f4-86f2-2091dcf19382",
+      "type": "divider"
+    },
+    {
+      "id": "5f7729bf-9f35-4c97-a36e-83bcf3d90258",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c7c8e5d8-36e7-4095-a14b-51350634a90c",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f4a1ec8-32df-4947-ad65-e60014325245",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1e9f97e2-cbd9-4586-a6d7-3cf06da10856",
+          "type": "column",
+          "children": [
+            {
+              "id": "212663d3-a462-4b70-8eb0-8589c3ee240f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3PamjAa\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14433af0-e92f-4c67-8ed6-cb35c6b2b939",
+      "type": "divider"
+    }
+  ]
+}

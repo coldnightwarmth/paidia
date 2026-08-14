@@ -1,0 +1,131 @@
+{
+  "id": "ef5db675-baad-41a0-a114-71c234ca0607",
+  "slug": "smartbomb",
+  "title": "Smartbomb",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/ef5db675baad41a0a11471c234ca0607",
+  "createdTime": 1652656775815,
+  "lastEditedTime": 1681313995863,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Smartbomb",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c67369af1dbf.webp",
+  "blocks": [
+    {
+      "id": "94f5114b-5fde-4010-9095-b7784d77def6",
+      "type": "divider"
+    },
+    {
+      "id": "c7ca6650-e7ed-4053-94d6-c67cd9b88cb6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7880b4e3-61d8-4fc1-95d1-9b32a38abd76",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e425c4c1-1fc5-44f4-a82e-a600bd02f709",
+          "type": "column",
+          "children": [
+            {
+              "id": "9badfa56-357e-49de-9485-e46dc53a4e70",
+              "type": "paragraph",
+              "html": "<em><strong>Smartbomb: The Quest for Art, Entertainment, &amp; Big Bucks in the Videogame Revolution</strong></em> was written by Heather Chaplin &amp; Aaron Ruby, published by Algonquin Books, November 4, 2005."
+            },
+            {
+              "id": "a711cd4f-0094-4f08-b14f-632ef498533d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a8845860-c488-42be-9b77-35774881659f",
+              "type": "quote",
+              "html": "<em>What started as a game of </em>Pong<em>, with little blips dancing across a computer screen, has evolved into a multi-billion-dollar industry that is changing the future, making inroads into virtually all aspects of our culture. Who are the minds behind this revolution? How did it happen? Where is it headed?<br><br>In </em>Smartbomb<em>, journalists Heather Chaplin and Aaron Ruby take the reader behind the scenes at gaming conventions, into powerhouse think tanks where new games are created, into the thick of the competition at cyberathlete tournaments, and into the homes of gamers for whom playing a role in a virtual world has assumed more relevance and reality than life in the real world.</em>"
+            },
+            {
+              "id": "b7050a52-2cee-4b01-883d-e9f3c048de96",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "87b15790-7378-4189-b6cb-bb31e4de4fe0",
+          "type": "column",
+          "children": [
+            {
+              "id": "bcfb2748-425b-4233-856e-b94bc9a8e91c",
+              "type": "image",
+              "src": "./assets/images/untitled-c67369af1dbf.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cba61b79-3683-4c9a-90bd-d1b97ce2bc97",
+      "type": "divider"
+    },
+    {
+      "id": "ae288144-42f3-44cb-94f8-fc9185103c11",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fd729828-11dc-48ec-9bb6-a4dcc2bd510a",
+          "type": "column",
+          "children": [
+            {
+              "id": "87ec0e3c-d307-4b4c-a9c2-af43b1a1d66c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "911a2228-2b03-4ec3-a6fc-fecdf1a26ce2",
+          "type": "column",
+          "children": [
+            {
+              "id": "fc488f40-c0d2-4e34-a917-aa701b2cdbb8",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zs7xiL\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e76490fe-3f5c-4cb1-b2b3-a599f2eee1ef",
+      "type": "divider"
+    }
+  ]
+}

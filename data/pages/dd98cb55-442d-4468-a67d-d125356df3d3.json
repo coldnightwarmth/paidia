@@ -1,0 +1,131 @@
+{
+  "id": "dd98cb55-442d-4468-a67d-d125356df3d3",
+  "slug": "the-gamification-of-learning-and-instruction",
+  "title": "The Gamification of Learning & Instruction",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Gamification-of-Learning-Instruction-dd98cb55442d4468a67dd125356df3d3?pvs=21",
+  "createdTime": 1659708837650,
+  "lastEditedTime": 1681313057194,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Gamification of Learning & Instruction",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0760a34506ae.webp",
+  "blocks": [
+    {
+      "id": "a54a2a4b-2c8a-41b8-b05a-bbbbcc09fa5b",
+      "type": "divider"
+    },
+    {
+      "id": "f5f87af0-8179-4686-95bf-09528c70b902",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2d77e0cb-f923-4255-8419-aa9a1d5c4d9e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cab274a3-5f4c-4e37-98b3-3c6204b3008f",
+          "type": "column",
+          "children": [
+            {
+              "id": "4f8ca1b8-1878-4473-b5db-68db56798e34",
+              "type": "paragraph",
+              "html": "<em><strong>The Gamification of Learning  &amp; Instruction: Game-based Methods &amp; Strategies for Training &amp; Education</strong></em> was written by Karl M. Kapp, published by Pfeiffer, May 1, 2012."
+            },
+            {
+              "id": "85a0bb31-c199-4167-a4c5-bce51faa00c8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "cecfc6b9-d3b3-47a2-933f-65760d757d69",
+              "type": "quote",
+              "html": "<em>Games create engagement—the cornerstone of any positive learning experience. With the growing popularity of digital games and game-based interfaces, it is essential that gamification be part of every learning professional's tool box. In this comprehensive resource, international learning expert Karl M. Kapp reveals the value of game-based mechanics to create meaningful learning experiences. Drawing together the most current information and relevant research in one resource, </em>The Gamification of Learning and Instruction <em>shows how to create and design games that are effective and meaningful for learners.<br><br>Kapp introduces, defines, and describes the concept of gamification and then dissects several examples of games to determine the elements that provide the most positive results for the players. He explains why these elements are critical to the success of learning. </em>The Gamification of Learning and Instruction<em> is based on solid research and the author includes peer-reviewed results from dozens of studies that offer insights into why game-based thinking and mechanics makes for vigorous learning tools. Not all games or gamification efforts are the same, the gamification of learning and instruction requires matching instructional content with the right game mechanics and game thinking. Moving beyond the theoretical considerations, the author explores how to design and develop gamification efforts. Kapp discusses how to create a successful game design document and includes a model for managing the entire game and gamification design process.<br><br></em>The Gamification of Learning and Instruction<em> provides learning professional with the help they need to put the power of game design to work.</em>"
+            },
+            {
+              "id": "52693393-a5ef-4395-a47a-3752745aa234",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "558fa320-1c70-4a93-b231-03fa550b7efb",
+          "type": "column",
+          "children": [
+            {
+              "id": "0183a25a-91c1-4d80-8616-7c699a1649c5",
+              "type": "image",
+              "src": "./assets/images/untitled-0760a34506ae.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5cd3bc2-8dcd-4884-94d0-e031bb16e9aa",
+      "type": "divider"
+    },
+    {
+      "id": "df7fc52e-eea6-4720-8481-9b4727983b0a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "322b4f5b-71f2-4340-8976-fcd65875ca79",
+          "type": "column",
+          "children": [
+            {
+              "id": "6b47fe24-04bb-4390-a37d-4796927275a2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6f836efc-df85-4f25-8f3c-b1f9df8b9cbc",
+          "type": "column",
+          "children": [
+            {
+              "id": "dbfc8150-481b-4e63-9cc9-8ab1b6a03c61",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SvXtwV\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24a32e2b-19db-4e67-96ed-cc769eda8268",
+      "type": "divider"
+    }
+  ]
+}

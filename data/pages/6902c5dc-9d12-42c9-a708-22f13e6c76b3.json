@@ -1,0 +1,200 @@
+{
+  "id": "6902c5dc-9d12-42c9-a708-22f13e6c76b3",
+  "slug": "game-design-wiki",
+  "title": "Game design wiki",
+  "icon": "🎮",
+  "cover": "",
+  "type": "page",
+  "parentId": "e387280d-beaa-4750-a229-ecd50b98bce4",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/6902c5dc9d1242c9a70822f13e6c76b3",
+  "createdTime": 1664379648284,
+  "lastEditedTime": 1767526915356,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Game design wiki"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "0b57ff05-a4c0-4b10-bdb5-d141773b5db8",
+      "type": "paragraph",
+      "html": "A collection of resources for game designers."
+    },
+    {
+      "id": "ae79ee7f-9210-4923-9741-656945c82a3c",
+      "type": "divider"
+    },
+    {
+      "id": "4467195a-a393-4c9f-b212-a60f78a15700",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d02701b6-e3a0-42cc-aba7-e48629f57331",
+          "type": "column",
+          "children": [
+            {
+              "id": "e6d8a849-defc-4716-a96f-8d05d7d8bf8e",
+              "type": "header",
+              "html": "🌱 Career",
+              "anchorId": "career"
+            },
+            {
+              "id": "1a21b355-e409-432a-9242-6ccc26690144",
+              "type": "divider"
+            },
+            {
+              "id": "feb35e08-cc7a-41c1-8bd1-ff8d8e7ad181",
+              "type": "page_link",
+              "targetId": "feb35e08-cc7a-41c1-8bd1-ff8d8e7ad181",
+              "title": "Game design roles",
+              "notionType": "page"
+            },
+            {
+              "id": "075edbe5-14c0-4df3-9367-9a895cb906ea",
+              "type": "page_link",
+              "targetId": "075edbe5-14c0-4df3-9367-9a895cb906ea",
+              "title": "Finding work",
+              "notionType": "page"
+            },
+            {
+              "id": "f284759d-48ad-4da4-ae67-6b52deabe3c2",
+              "type": "page_link",
+              "targetId": "f284759d-48ad-4da4-ae67-6b52deabe3c2",
+              "title": "Game design portfolio",
+              "notionType": "page"
+            },
+            {
+              "id": "9012f6de-ba6a-4ffe-9c6f-4ad23f1b114a",
+              "type": "header",
+              "html": "👾 Game design tools",
+              "anchorId": "game-design-tools"
+            },
+            {
+              "id": "dc8406c5-546e-4d5e-a12b-3d7384be65aa",
+              "type": "divider"
+            },
+            {
+              "id": "d4aa2513-598e-4cdc-95b5-c3a2a394087a",
+              "type": "page_link",
+              "targetId": "d4aa2513-598e-4cdc-95b5-c3a2a394087a",
+              "title": "The design process",
+              "notionType": "page"
+            },
+            {
+              "id": "2deffc44-aabb-8016-972e-f5ede8b09e31",
+              "type": "page_link",
+              "targetId": "2deffc44-aabb-8016-972e-f5ede8b09e31",
+              "title": "Vision setting",
+              "notionType": "page"
+            },
+            {
+              "id": "08797a44-494a-496d-9d2a-61c49a6551d9",
+              "type": "divider"
+            },
+            {
+              "id": "bff66bc9-6a2a-443b-999d-a7fbfbaba87c",
+              "type": "page_link",
+              "targetId": "bff66bc9-6a2a-443b-999d-a7fbfbaba87c",
+              "title": "Ideation workshops",
+              "notionType": "page"
+            },
+            {
+              "id": "2f9d1a71-326c-443d-9a61-e963dabb2bfb",
+              "type": "page_link",
+              "targetId": "2f9d1a71-326c-443d-9a61-e963dabb2bfb",
+              "title": "Prototyping tools",
+              "notionType": "page"
+            },
+            {
+              "id": "a39598f0-b7c6-414e-8010-3b1cec742187",
+              "type": "page_link",
+              "targetId": "a39598f0-b7c6-414e-8010-3b1cec742187",
+              "title": "Documentation tools",
+              "notionType": "page"
+            },
+            {
+              "id": "fe68e10d-95c3-40ea-a1f0-793500499505",
+              "type": "alias_link",
+              "targetId": "01323835-74dd-4c2d-bff5-d14e3a90761c",
+              "title": "Linked page"
+            },
+            {
+              "id": "d3e3ff99-08de-402d-b2b2-3049267ab59f",
+              "type": "page_link",
+              "targetId": "d3e3ff99-08de-402d-b2b2-3049267ab59f",
+              "title": "Frameworks",
+              "notionType": "page"
+            },
+            {
+              "id": "57d72ab1-3c43-42e8-9ec1-08a4fa167386",
+              "type": "page_link",
+              "targetId": "57d72ab1-3c43-42e8-9ec1-08a4fa167386",
+              "title": "Game design library",
+              "notionType": "page"
+            }
+          ]
+        },
+        {
+          "id": "b5a99081-707f-4fca-86c5-89269c4235a2",
+          "type": "column",
+          "children": [
+            {
+              "id": "87aa2a18-4d1c-4ad4-83cc-ca7529aa73fe",
+              "type": "header",
+              "html": "About",
+              "anchorId": "about"
+            },
+            {
+              "id": "aeb3118e-1cc3-4a63-b05e-fce275e996d9",
+              "type": "divider"
+            },
+            {
+              "id": "58e24ca5-1eac-404e-bd85-e81851876095",
+              "type": "callout",
+              "html": "",
+              "icon": "👋🏼",
+              "children": [
+                {
+                  "id": "01e934c3-34b2-42a1-87e4-222e7dd2db22",
+                  "type": "paragraph",
+                  "html": "This resource is written and managed by Rosa Carbo-Mascarell (<a href=\"https://bsky.app/profile/purecelain.bsky.social\" target=\"_blank\" rel=\"noreferrer\">BlueSky</a> | <a href=\"https://www.tiktok.com/@moreelen\" target=\"_blank\" rel=\"noreferrer\">TikTok</a> | <a href=\"https://www.linkedin.com/in/rosa-carbo-mascarell/\" target=\"_blank\" rel=\"noreferrer\">LinkedIn</a>)<br><br>With the help from:<br><a href=\"#/we-can-fix-it-in-ui-archive\">We can fix it in UI<br></a><br>This is very much a WIP. If you have any suggestions or would like to contribute please feel free to reach out on my socials."
+                }
+              ]
+            },
+            {
+              "id": "768aea20-d1a7-46d4-bfbd-e9660fd83efb",
+              "type": "header",
+              "html": "Content usage",
+              "anchorId": "content-usage"
+            },
+            {
+              "id": "75577d01-7c2c-4824-b73e-20f590c768b8",
+              "type": "callout",
+              "html": "I created this notion document as a free tool so please feel free to use it and share it!<br><br>You may use, share, remix, adapt, and/or build upon any of the content found on this site, in both commercial and non-commercial settings, as long as done for <strong>free</strong>.<br><br>A link back to this document and/or a credit is appreciated.",
+              "icon": "🛠️",
+              "children": []
+            },
+            {
+              "id": "9c73f3a3-2dbe-4718-affc-3ba9ece8d166",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0dd803e7-677b-4095-8802-8f14bbaf819b",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

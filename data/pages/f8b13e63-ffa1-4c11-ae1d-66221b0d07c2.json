@@ -1,0 +1,134 @@
+{
+  "id": "f8b13e63-ffa1-4c11-ae1d-66221b0d07c2",
+  "slug": "dangerous-games",
+  "title": "Dangerous Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Dangerous-Games-f8b13e63ffa14c11ae1d66221b0d07c2?pvs=21",
+  "createdTime": 1651768735657,
+  "lastEditedTime": 1681313850595,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Dangerous Games",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b1c34c5bd28b.webp",
+  "blocks": [
+    {
+      "id": "aed09274-97c7-4c34-9f44-289362c3ff90",
+      "type": "divider"
+    },
+    {
+      "id": "f3983e16-8656-4dd1-9e2e-285736842131",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e281fc99-4c88-451d-aa72-aca60f14308e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e560547f-d7d9-474b-89c5-79a72f7357eb",
+          "type": "column",
+          "children": [
+            {
+              "id": "cdd0fdcd-73a8-48f2-8773-d1db50dfedc0",
+              "type": "paragraph",
+              "html": "<em><strong>Dangerous Games: What the Moral Panic over Role-Playing Games Says about Play, Religion, &amp; Imagined Worlds</strong></em> was written by Joseph P. Laycock, published by University of California Press, February 12, 2015."
+            },
+            {
+              "id": "a1ee82a1-8ecf-4ef4-83ea-abd2952dc454",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7f4ae165-5b5d-4533-a4bd-8eac563f33dc",
+              "type": "quote",
+              "html": "<em>The 1980s saw the peak of a moral panic over fantasy role-playing games such as</em> Dungeons &amp; Dragons<em>. A coalition of moral entrepreneurs that included representatives from the Christian Right, the field of psychology, and law enforcement claimed that these games were not only psychologically dangerous but an occult religion masquerading as a game. </em>Dangerous Games<em> explores both the history and the sociological significance of this panic.<br><br>Fantasy role-playing games do share several functions in common with religion. However, religion―as a socially constructed world of shared meaning―can also be compared to a fantasy role-playing game. In fact, the claims of the moral entrepreneurs, in which they presented themselves as heroes battling a dark conspiracy, often resembled the very games of imagination they condemned as evil. By attacking the imagination, they preserved the taken-for-granted status of their own socially constructed reality. Interpreted in this way, the panic over fantasy-role playing games yields new insights about how humans play and together construct and maintain meaningful worlds.<br><br>Laycock’s clear and accessible writing ensures that </em>Dangerous Games<em> will be required reading for those with an interest in religion, popular culture, and social behavior, both in the classroom and beyond.</em>"
+            },
+            {
+              "id": "e6a846a0-8350-4dfd-9859-21882c2e5c00",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d0acf53b-9f8c-4f7a-b2c5-db28ce937abb",
+          "type": "column",
+          "children": [
+            {
+              "id": "9fd71372-1452-4151-9165-4b2aa5c25adb",
+              "type": "image",
+              "src": "./assets/images/untitled-b1c34c5bd28b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29e7d79a-df81-4c09-82b4-59aa7afe0f8d",
+      "type": "divider"
+    },
+    {
+      "id": "7576e7db-dc0f-4539-894c-3f27b4114ce2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5b47764e-2e4f-40ee-b20b-3e527b8cdb2a",
+          "type": "column",
+          "children": [
+            {
+              "id": "ab974484-31dd-4735-8a90-617f4b742b25",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fb2b38fe-8d8f-4928-b5a1-848c56a7a46c",
+          "type": "column",
+          "children": [
+            {
+              "id": "ef35194b-395f-4e87-8dbb-54d080d5e46d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fA7WIA\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85be44c4-4ea9-4a91-a1d4-dad5b1be14eb",
+      "type": "divider"
+    }
+  ]
+}

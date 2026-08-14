@@ -1,0 +1,126 @@
+{
+  "id": "7fd08f94-b10e-4eb7-97ae-8dbec1442c9e",
+  "slug": "the-playful-middle-ages",
+  "title": "The Playful Middle Ages",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Playful-Middle-Ages-7fd08f94b10e4eb797ae8dbec1442c9e?pvs=21",
+  "createdTime": 1653491502171,
+  "lastEditedTime": 1681314042273,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Playful Middle Ages",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3d72a3a09ab2.webp",
+  "blocks": [
+    {
+      "id": "9516ba66-f0e2-42d5-b3ee-ee19c97e8ff0",
+      "type": "divider"
+    },
+    {
+      "id": "97ac0606-138a-45d7-8b00-efde2c331b1c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "29f2f5af-f5c2-4616-947e-1211474a0fd7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "42fdfb4c-8be2-48bb-a15c-12e4e74ce6b3",
+          "type": "column",
+          "children": [
+            {
+              "id": "cfb30831-6085-48d1-9e8c-1ade343bdb8b",
+              "type": "paragraph",
+              "html": "<em><strong>The Playful Middle Ages: Essays in Memory of Elaine C. Block </strong></em>is a collection of essays written by Elaine C. Block, edited by Paul Hardwick, published by Brepols, December 31, 2011."
+            },
+            {
+              "id": "1681b851-5b91-4623-b1c7-f33a95aa6735",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "224e725f-5d23-4f23-a5bb-2f9150c3eb9e",
+              "type": "quote",
+              "html": "<em>Love play or playing dead, wordplay or playing games - the notion of play inhabits all spheres of human activity. This collection of essays brings together international scholars from a range of disciplines to explore aspects of playfulness in the later European Middle Ages. From manuscript to performance and from the domestic to the doctrinal, the exuberance and ambiguity of verbal and visual play is interrogated in order to decode layers of meaning in texts and artefacts. These twelve papers celebrate the work of Elaine C. Block, whose dedicated study of misericords has, through countless articles and books, made the riches of this dizzying iconographic resource easily available to scholars for the first time. Her monumental Corpus on Medieval Misericords volumes will no doubt inform medieval scholars for generations to come, and those included in the present collection are both proud and grateful to be of the first generation to benefit from her work on this body of carvings which challengingly - and playfully - straddles the sometimes invisible line between the sacred and profane.</em>"
+            }
+          ]
+        },
+        {
+          "id": "af592ea8-d3a6-4709-b93e-a62388c8cf59",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd783e4d-c62b-4153-9ab5-4aaeb310ff69",
+              "type": "image",
+              "src": "./assets/images/untitled-3d72a3a09ab2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0c167528-8337-4979-b637-750967bcf215",
+      "type": "divider"
+    },
+    {
+      "id": "92b04f6b-a14e-4236-8702-c43f5398960b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "19e01264-c61f-464d-8e81-6a7a0d0852c9",
+          "type": "column",
+          "children": [
+            {
+              "id": "66d1965d-d11e-4314-b6ba-6244a539ba7e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "de193494-6d77-4f59-90ba-68e870529737",
+          "type": "column",
+          "children": [
+            {
+              "id": "98d3567d-0770-4a6b-bee7-0ca7fff819e5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3PI1oW3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "361910c1-84b5-4cd8-94ea-23dcbef7d124",
+      "type": "divider"
+    }
+  ]
+}

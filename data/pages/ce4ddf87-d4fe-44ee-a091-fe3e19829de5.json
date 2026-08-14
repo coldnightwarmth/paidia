@@ -1,0 +1,129 @@
+{
+  "id": "ce4ddf87-d4fe-44ee-a091-fe3e19829de5",
+  "slug": "kokopelli",
+  "title": "Kokopelli",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Kokopelli-ce4ddf87d4fe44eea091fe3e19829de5?pvs=21",
+  "createdTime": 1651697621663,
+  "lastEditedTime": 1681314046495,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Kokopelli",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a7f24fc6becd.webp",
+  "blocks": [
+    {
+      "id": "1a53c26c-4fed-49e0-bac0-b91f2451eaa4",
+      "type": "divider"
+    },
+    {
+      "id": "f8155978-55ed-4b0a-aedb-570d53317d0c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b6b85e90-96af-460c-8f6c-3e4e0d35b607",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6c8850df-1e10-4ae2-aa37-3bc5aa04817f",
+          "type": "column",
+          "children": [
+            {
+              "id": "62f10f5c-c128-4ea2-9eb1-d46b6f36cab7",
+              "type": "paragraph",
+              "html": "<em><strong>Kokopelli: The Magic, Mirth, &amp; Mischief of an Ancient Symbol</strong></em> was written by Dennis Slifer, published by Gibbs Smith, December 9, 2016."
+            },
+            {
+              "id": "eebde930-d036-4452-aa44-ae546d2f394c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "73c805cd-91e2-48ff-addc-f1f72656ba51",
+              "type": "quote",
+              "html": "<em>A guide to the ancient symbols and sites of the Southewest's most iconic images.</em>"
+            }
+          ]
+        },
+        {
+          "id": "04737c83-7097-40a7-b407-0f6c25b14b7f",
+          "type": "column",
+          "children": [
+            {
+              "id": "34c30e36-6942-48d0-9a1d-2db6c3bdf8f1",
+              "type": "image",
+              "src": "./assets/images/untitled-a7f24fc6becd.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ed1f1f82-d7b0-4e27-827f-0b9d7a65eec0",
+      "type": "divider"
+    },
+    {
+      "id": "679cbf4e-9630-47e5-ba12-0a4e7ff4a899",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4f8920f3-c0fe-451a-8cfa-09a442926458",
+          "type": "column",
+          "children": [
+            {
+              "id": "d5596500-db65-4940-b428-129e4dbef24d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0599ab2c-af25-494c-9cb6-635d595e49ad",
+          "type": "column",
+          "children": [
+            {
+              "id": "5c5fbcc5-b981-4fd6-adbb-3f53246a2dda",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FxkDPE\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7021648-9597-4e57-ab77-b07cd1e0c362",
+      "type": "divider"
+    }
+  ]
+}

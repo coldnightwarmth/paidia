@@ -1,0 +1,773 @@
+{
+  "id": "211619fd-6fe7-44e1-bf0d-c8f3f80a9c88",
+  "name": "Clips",
+  "schema": {
+    "CjdX": {
+      "id": "CjdX",
+      "name": "file",
+      "type": "file",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "Kc`g": {
+      "id": "Kc`g",
+      "name": "tags",
+      "type": "multi_select",
+      "icon": "/icons/tag_gray.svg",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "TOY{": {
+      "id": "TOY{",
+      "name": "original video",
+      "type": "text",
+      "icon": "/icons/preview_gray.svg",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "WN;F": {
+      "id": "WN;F",
+      "name": "",
+      "type": "number",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "b`H`": {
+      "id": "b`H`",
+      "name": "featuring",
+      "type": "multi_select",
+      "icon": "/icons/user-circle_gray.svg",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "5761ec8c-97bd-4c7b-80bb-f806b76d357c",
+          "value": "Espen Aarseth",
+          "color": "default"
+        },
+        {
+          "id": "e3736c91-df80-4b35-bba0-e5110aaf98ac",
+          "value": "Jon Back",
+          "color": "default"
+        },
+        {
+          "id": "wZg_",
+          "value": "Jonathan Blow",
+          "color": "default"
+        },
+        {
+          "id": "05c950f4-ee2e-4bf6-98da-d291e3507e77",
+          "value": "Logo Daedalus",
+          "color": "default"
+        },
+        {
+          "id": "fdfdb187-e13c-4fdf-9d70-ccc4520ea46e",
+          "value": "Terry A. Davis",
+          "color": "default"
+        },
+        {
+          "id": "604d1fd5-e568-4f34-8707-9c63183a7abf",
+          "value": "Andrew DeSantis",
+          "color": "default"
+        },
+        {
+          "id": "7b3cad13-91a1-4841-9ceb-aca88269facb",
+          "value": "Destiny",
+          "color": "default"
+        },
+        {
+          "id": "e6995b51-5858-4a38-9556-746b0a6b52da",
+          "value": "Lindsay Ellis",
+          "color": "default"
+        },
+        {
+          "id": "daa4d507-511d-4963-9c6b-12e6862f550d",
+          "value": "Douglas Gabriel",
+          "color": "default"
+        },
+        {
+          "id": "1d4ab4ad-5fa6-41b1-ba2e-58bdd03f9f6d",
+          "value": "Gamedenker",
+          "color": "default"
+        },
+        {
+          "id": "2a69a0b0-9ff3-4444-a220-aa01212379cf",
+          "value": "Jordan Hall",
+          "color": "default"
+        },
+        {
+          "id": "9b710a42-5ee9-44b7-9e72-d2db92dffbb2",
+          "value": "InfraHaz",
+          "color": "default"
+        },
+        {
+          "id": "cadcbcd3-408c-46e2-961e-0e9d1f1d6a03",
+          "value": "Jason Reza Jorjani",
+          "color": "default"
+        },
+        {
+          "id": "a7e7d605-1ebd-4209-8baf-e51542da0a39",
+          "value": "Michael Mansfield",
+          "color": "default"
+        },
+        {
+          "id": "8b906527-9b70-45b6-aeb1-0701643c2cf5",
+          "value": "Michael Martin",
+          "color": "default"
+        },
+        {
+          "id": "a50e6f23-1014-4fbf-8d44-787add91802f",
+          "value": "Jonathan Pageau",
+          "color": "default"
+        },
+        {
+          "id": "b03ce77c-853b-4349-af14-dd0d80011b9d",
+          "value": "Jordan Peterson",
+          "color": "default"
+        },
+        {
+          "id": "39ba23ae-25fe-43f3-b458-bbad58260e0b",
+          "value": "Alan Roberts",
+          "color": "default"
+        },
+        {
+          "id": "0d3c7457-6a2b-4de5-95e5-101e9617c3b1",
+          "value": "James Teresa",
+          "color": "default"
+        },
+        {
+          "id": "b9dc2503-c68c-4b96-bdba-f8caa0d6e845",
+          "value": "John Vervaeke",
+          "color": "default"
+        }
+      ]
+    },
+    "{xCt": {
+      "id": "{xCt",
+      "name": "thumbnail",
+      "type": "file",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "clip",
+      "type": "title",
+      "icon": "/icons/playback-play-button_gray.svg",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "c67b46ec-9320-4d27-bd6a-7f528c9c32ff",
+      "collectionId": "211619fd-6fe7-44e1-bf0d-c8f3f80a9c88",
+      "type": "table",
+      "name": "Clips List",
+      "pagePointerId": null,
+      "pageSort": [
+        "4b8cba4f-4647-4f9d-a33f-9bf1db36ef0c",
+        "9715e985-d9c6-4c16-b834-25b09d1bb9d1",
+        "c4c8d34a-5b97-45f8-ac2b-d44945d6d8ef",
+        "15057c6f-3aef-4e74-b71d-7e9153d9bab5",
+        "5745d23a-8f4b-4a1c-9230-a7c1bfc6ce38",
+        "a177db0c-978c-4cd4-97ad-854a7b0eec4b",
+        "d3b9eae1-0877-49f5-a1d3-1be6cd0528f2",
+        "f9bb4817-aabb-4630-9b32-4632f7c4164b",
+        "6617f657-8a34-4992-bb1f-1a130e0acf95",
+        "73905496-68c4-4594-b7e9-89a21aaf580a",
+        "109af331-52d4-439b-8895-6c64d94ae6d9",
+        "8bfb8ff9-e841-4c90-bdba-b42a0f8224b4",
+        "a6f0b23d-ebf5-4f33-b771-740d2cefce7e",
+        "b6ad9da7-feb2-432a-b274-9f97137b3d40",
+        "6468ea81-bd90-4657-9c6d-b0b219940aaa",
+        "90ed7f9c-f402-4520-9a08-187bdd82ac15",
+        "22b03e22-5822-4732-9cab-9e2343d4a866",
+        "217909ab-2023-4578-be59-2de7aa55113b",
+        "9e999e49-aa49-4ab1-90b1-a2277744c80b",
+        "1c1317d6-9985-49f7-984a-c32a5445b440",
+        "ea9cbc60-c4e0-4675-87a3-edac6a1bc8a6"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "WN;F",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": 340
+        },
+        {
+          "property": "TOY{",
+          "visible": true,
+          "width": 235
+        },
+        {
+          "property": "b`H`",
+          "visible": true,
+          "width": 139
+        },
+        {
+          "property": "CjdX",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "Kc`g",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "{xCt",
+          "visible": false,
+          "width": 200
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "6b0367b5-47ed-4417-b14d-4085a3e17848",
+      "collectionId": "211619fd-6fe7-44e1-bf0d-c8f3f80a9c88",
+      "type": "gallery",
+      "name": "Gallery View",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "b`H`",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "WN;F",
+          "visible": false,
+          "width": null
+        },
+        {
+          "property": "TOY{",
+          "visible": false,
+          "width": null
+        },
+        {
+          "property": "Kc`g",
+          "visible": false,
+          "width": null
+        },
+        {
+          "property": "CjdX",
+          "visible": false,
+          "width": null
+        },
+        {
+          "property": "{xCt",
+          "visible": false,
+          "width": null
+        }
+      ],
+      "listProperties": [
+        {
+          "property": "Kc`g",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "boardColumns": [
+        {
+          "property": "Kc`g",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        }
+      ],
+      "boardColumnsBy": {
+        "property": "Kc`g",
+        "type": "multi_select",
+        "sortType": "manual"
+      },
+      "galleryCover": "property",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    }
+  ],
+  "rows": [
+    {
+      "id": "4b8cba4f-4647-4f9d-a33f-9bf1db36ef0c",
+      "slug": "games-lacking-depth",
+      "title": "Games lacking depth",
+      "icon": "./assets/images/videotape-gray-08f82c4ecac6.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/4b8cba4f46474f9da33f9bf1db36ef0c",
+      "createdTime": 1673460531966,
+      "lastEditedTime": 1673463694320,
+      "properties": {
+        "CjdX": [
+          [
+            "blow - games lacking depth [Jonathan Blow on Meaning in Art].mov",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/647012ab-ad2f-4af0-b485-a40590b61029/blow_-_games_lacking_depth_Jonathan_Blow_on_Meaning_in_Art.mov"
+              ]
+            ]
+          ]
+        ],
+        "TOY{": [
+          [
+            "Jonathan Blow on Meaning in Art"
+          ]
+        ],
+        "WN;F": [
+          [
+            "1"
+          ]
+        ],
+        "b`H`": [
+          [
+            "Jonathan Blow"
+          ]
+        ],
+        "{xCt": [
+          [
+            "Screenshot 2023-01-11 130124.png",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5387ceb1-775b-46c8-983a-9c4b955470b8/Screenshot_2023-01-11_130124.png"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "Games lacking depth"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c4c8d34a-5b97-45f8-ac2b-d44945d6d8ef",
+      "slug": "researchers-don-t-know-what-they-research",
+      "title": "Researchers don't know what they research",
+      "icon": "./assets/images/videotape-gray-08f82c4ecac6.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/c4c8d34a5b9745f8ac2bd44945d6d8ef",
+      "createdTime": 1673460531967,
+      "lastEditedTime": 1673465614950,
+      "properties": {
+        "CjdX": [
+          [
+            "aarseth - researchers don't know what they research [ESPEN AARSETH GAME STUDIES FROM THE HOBBIT TO MINECRAFT].mov",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23d8f0ee-23d3-4cb1-9524-7d4a5dedae13/aarseth_-_researchers_dont_know_what_they_research_ESPEN_AARSETH_GAME_STUDIES_FROM_THE_HOBBIT_TO_MINECRAFT.mov"
+              ]
+            ]
+          ]
+        ],
+        "TOY{": [
+          [
+            "ESPEN AARSETH GAME STUDIES FROM THE HOBBIT TO MINECRAFT"
+          ]
+        ],
+        "WN;F": [
+          [
+            "3"
+          ]
+        ],
+        "b`H`": [
+          [
+            "Espen Aarseth"
+          ]
+        ],
+        "{xCt": [
+          [
+            "Screenshot 2023-01-11 133317.png",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/642ce025-e58f-4e30-a28c-598d52055301/Screenshot_2023-01-11_133317.png"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "Researchers don't know what they research"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a177db0c-978c-4cd4-97ad-854a7b0eec4b",
+      "slug": "glass-bead-game-as-harmony-of-spheres",
+      "title": "Glass bead game as harmony of spheres",
+      "icon": "./assets/images/videotape-gray-08f82c4ecac6.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/a177db0c978c4cd497ad854a7b0eec4b",
+      "createdTime": 1673461831817,
+      "lastEditedTime": 1673465711344,
+      "properties": {
+        "CjdX": [
+          [
+            "douglas - glass bead game as harmony of spheres [Play the Glass Bead Game].mov",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1cc1cd4c-546e-4f05-be53-074989099c5e/douglas_-_glass_bead_game_as_harmony_of_spheres_Play_the_Glass_Bead_Game.mov"
+              ]
+            ]
+          ]
+        ],
+        "TOY{": [
+          [
+            "Play the Glass Bead Game"
+          ]
+        ],
+        "WN;F": [
+          [
+            "6"
+          ]
+        ],
+        "b`H`": [
+          [
+            "Douglas Gabriel"
+          ]
+        ],
+        "{xCt": [
+          [
+            "Screenshot 2023-01-11 133459.png",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6be45163-2202-48af-bd9b-76a1ed636041/Screenshot_2023-01-11_133459.png"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "Glass bead game as harmony of spheres"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6617f657-8a34-4992-bb1f-1a130e0acf95",
+      "slug": "you-re-not-even-equipped-to-read-games",
+      "title": "You're not even equipped to read games",
+      "icon": "./assets/images/videotape-gray-08f82c4ecac6.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/6617f6578a344992bb1f1a130e0acf95",
+      "createdTime": 1673462312488,
+      "lastEditedTime": 1673465819361,
+      "properties": {
+        "CjdX": [
+          [
+            "logo to destiny - you're not even equipped to read games [elder ring today].mov",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf430cea-9065-4a21-9995-1a4041a9bd9c/logo_to_destiny_-_youre_not_even_equipped_to_read_games_elder_ring_today.mov"
+              ]
+            ]
+          ]
+        ],
+        "TOY{": [
+          [
+            "elder ring today"
+          ]
+        ],
+        "WN;F": [
+          [
+            "9"
+          ]
+        ],
+        "b`H`": [
+          [
+            "Logo Daedalus,Destiny"
+          ]
+        ],
+        "{xCt": [
+          [
+            "Screenshot 2023-01-11 133652.png",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b9cce6b-cda0-4103-9e74-14ece56c9f50/Screenshot_2023-01-11_133652.png"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "You're not even equipped to read games"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "73905496-68c4-4594-b7e9-89a21aaf580a",
+      "slug": "board-games-as-a-language",
+      "title": "Board games as a language",
+      "icon": "./assets/images/videotape-gray-08f82c4ecac6.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/7390549668c44594b7e989a21aaf580a",
+      "createdTime": 1673462207183,
+      "lastEditedTime": 1673465864355,
+      "properties": {
+        "CjdX": [
+          [
+            "jon back - board games as a language [Designing Board Game Mechanics - Did You Make it Or Did it Evolve].mov",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2fc5ba03-0242-43f4-aa3f-d1a979bb4866/jon_back_-_board_games_as_a_language_Designing_Board_Game_Mechanics_-_Did_You_Make_it_Or_Did_it_Evolve.mov"
+              ]
+            ]
+          ]
+        ],
+        "TOY{": [
+          [
+            "Designing Board Game Mechanics - Did You Make it Or Did it Evolve?"
+          ]
+        ],
+        "WN;F": [
+          [
+            "10"
+          ]
+        ],
+        "b`H`": [
+          [
+            "Jon Back"
+          ]
+        ],
+        "{xCt": [
+          [
+            "Screenshot 2023-01-11 133714.png",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c973a512-a335-4212-bcde-e97b8fea7621/Screenshot_2023-01-11_133714.png"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "Board games as a language"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8bfb8ff9-e841-4c90-bdba-b42a0f8224b4",
+      "slug": "the-birth-of-new-worlds",
+      "title": "The birth of new worlds",
+      "icon": "./assets/images/videotape-gray-08f82c4ecac6.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/8bfb8ff9e8414c90bdbab42a0f8224b4",
+      "createdTime": 1673462420569,
+      "lastEditedTime": 1673465887315,
+      "properties": {
+        "CjdX": [
+          [
+            "pageau - patterns  the birth of worlds [Mythic Patterns in Mario Games Pt 1 The Arcade Origins].mov",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3c1d237-871e-4aa0-bb16-63e120eae075/pageau_-_patterns__the_birth_of_worlds_Mythic_Patterns_in_Mario_Games_Pt_1_The_Arcade_Origins.mov"
+              ]
+            ]
+          ]
+        ],
+        "TOY{": [
+          [
+            "Mythic Patterns in Mario Games Pt 1: The Arcade Origins"
+          ]
+        ],
+        "WN;F": [
+          [
+            "12"
+          ]
+        ],
+        "b`H`": [
+          [
+            "Jonathan Pageau"
+          ]
+        ],
+        "{xCt": [
+          [
+            "Screenshot 2023-01-11 133801.png",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f4f9a1f-ca88-4ff3-b1f9-6e18bf73d51a/Screenshot_2023-01-11_133801.png"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "The birth of new worlds"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a6f0b23d-ebf5-4f33-b771-740d2cefce7e",
+      "slug": "a-zone-to-excel-in",
+      "title": "A zone to excel in",
+      "icon": "./assets/images/videotape-gray-08f82c4ecac6.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/a6f0b23debf54f33b771740d2cefce7e",
+      "createdTime": 1673462473293,
+      "lastEditedTime": 1673465907285,
+      "properties": {
+        "CjdX": [
+          [
+            "roberts on joyce - a zone to excel in [Dr Alan Roberts - Talk on James Joyce s Finnegans Wake].mov",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/406654ba-c9a8-4199-8fbc-a6dd67e9e77e/roberts_on_joyce_-_a_zone_to_excel_in_Dr_Alan_Roberts_-_Talk_on_James_Joyce_s_Finnegans_Wake.mov"
+              ]
+            ]
+          ]
+        ],
+        "TOY{": [
+          [
+            "Dr Alan Roberts - Talk on James Joyce’s Finnegans Wake"
+          ]
+        ],
+        "WN;F": [
+          [
+            "13"
+          ]
+        ],
+        "b`H`": [
+          [
+            "Alan Roberts"
+          ]
+        ],
+        "{xCt": [
+          [
+            "Screenshot 2023-01-11 133821.png",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed32c6c9-1103-4721-9f55-963dfca819dc/Screenshot_2023-01-11_133821.png"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "A zone to excel in"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b6ad9da7-feb2-432a-b274-9f97137b3d40",
+      "slug": "hyperagencies-as-infinite-game-players",
+      "title": "Hyperagencies as infinite game players",
+      "icon": "./assets/images/videotape-gray-08f82c4ecac6.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/b6ad9da7feb2432ab2749f97137b3d40",
+      "createdTime": 1673462534177,
+      "lastEditedTime": 1673485970404,
+      "properties": {
+        "CjdX": [
+          [
+            "vervaeke - hyperagencies as infinite game players [Egregores, Mobs and Demons with Jordan Hall John Vervaeke].mov",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/56a98258-519c-44b7-ae5c-27409d09d3ff/vervaeke_-_hyperagencies_as_infinite_game_players_Egregores_Mobs_and_Demons_with_Jordan_Hall_John_Vervaeke.mov"
+              ]
+            ]
+          ]
+        ],
+        "TOY{": [
+          [
+            "Egregores, Mobs and Demons with Jordan Hall & John Vervaeke"
+          ]
+        ],
+        "WN;F": [
+          [
+            "14"
+          ]
+        ],
+        "b`H`": [
+          [
+            "John Vervaeke,Jonathan Pageau,Jordan Hall"
+          ]
+        ],
+        "{xCt": [
+          [
+            "Screenshot 2023-01-11 133840.png",
+            [
+              [
+                "a",
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3883ead1-0f8b-4de1-9b05-b594f9f4f148/Screenshot_2023-01-11_133840.png"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "Hyperagencies as infinite game players"
+          ]
+        ]
+      }
+    }
+  ]
+}

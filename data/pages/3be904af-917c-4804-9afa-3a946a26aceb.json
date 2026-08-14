@@ -1,0 +1,131 @@
+{
+  "id": "3be904af-917c-4804-9afa-3a946a26aceb",
+  "slug": "korean-games",
+  "title": "Korean Games",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/3be904af917c48049afa3a946a26aceb",
+  "createdTime": 1668712065756,
+  "lastEditedTime": 1681312476827,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Korean Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/963962-3-small-358068e532c8.webp",
+  "blocks": [
+    {
+      "id": "6cea5570-d379-4ae2-9800-1bfba428a165",
+      "type": "divider"
+    },
+    {
+      "id": "cec23e50-c531-4c58-bc23-cec322c2b214",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "86566493-e6fe-4a95-902a-94b6cb68390f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dc932bc1-3a66-4291-8279-319027993bd0",
+          "type": "column",
+          "children": [
+            {
+              "id": "331653fe-80e9-4775-9039-a54f5eebaf78",
+              "type": "paragraph",
+              "html": "<em><strong>Korean Games: With Notes On the Corresponding Games of China &amp; Japan</strong></em> was written by Stewart Culin, originally published by the University of Pennsylvania in 1895."
+            },
+            {
+              "id": "73b041b3-f733-4bdb-931d-d1c54c034d60",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "82120525-76c9-45c1-9e2c-e2996156e73a",
+              "type": "quote",
+              "html": "<em>Turn-of-the-century ethnographic classic describes nearly 100 games, including dam combat, turnip lanterns, violet fighting, cherry gaming and dragon tablets. Also cat’s cradle, hide-and-seek, leap-frog, other familiar amusements. Games viewed not only as pastimes but as vestiges of ancient rites and rituals. 147 line illus., most by Korean artists.</em>"
+            },
+            {
+              "id": "a0767f92-e054-4744-9df6-bcafa033fecb",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0162d12e-ddb1-4116-add0-9ecc4fb04bed",
+          "type": "column",
+          "children": [
+            {
+              "id": "5087fe4c-5ab3-4454-bd5b-c36ce5f0eb63",
+              "type": "image",
+              "src": "./assets/images/963962-3-small-358068e532c8.webp",
+              "caption": "",
+              "alt": "963962-3-small.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4fec6315-cc4c-4514-8473-0f860d038388",
+      "type": "divider"
+    },
+    {
+      "id": "9f6ed016-3e13-44a8-b322-6698ebd468bb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "db1f208c-e04b-4260-bd2b-c1f451d12f99",
+          "type": "column",
+          "children": [
+            {
+              "id": "31b3d376-3d9a-4012-aae5-a68f04dde842",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fbef9d84-54d7-42a3-b4a9-6ca9ac3aeff2",
+          "type": "column",
+          "children": [
+            {
+              "id": "b97bb083-cdb6-4df5-b89e-e1ae290a218a",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Korean-Games-Notes-Corresponding-China/dp/1298720214/ref=sr_1_1?crid=1NTTEZQK62OM2&amp;keywords=Korean+Games+stewart+culin&amp;qid=1666386365&amp;qu=eyJxc2MiOiIwLjAxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=korean+games+stewart+culin%2Cstripbooks%2C88&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "226ebdb5-4863-4bcc-b184-c7d2efb36dee",
+      "type": "divider"
+    }
+  ]
+}

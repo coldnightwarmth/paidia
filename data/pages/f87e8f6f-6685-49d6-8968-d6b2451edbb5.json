@@ -1,0 +1,134 @@
+{
+  "id": "f87e8f6f-6685-49d6-8968-d6b2451edbb5",
+  "slug": "inventing-the-medium",
+  "title": "Inventing the Medium",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Inventing-the-Medium-f87e8f6f668549d68968d6b2451edbb5?pvs=21",
+  "createdTime": 1651970762095,
+  "lastEditedTime": 1681314210608,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Inventing the Medium",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d2150861f925.webp",
+  "blocks": [
+    {
+      "id": "31cbc74e-a472-4238-a585-1b077455da85",
+      "type": "divider"
+    },
+    {
+      "id": "e00c444f-b107-43fc-8da5-3dd46ba05c0a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "81e4d5be-ee5b-464f-94ad-4268b183ad93",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3dfd65de-825e-4bca-addf-def9b6de9d32",
+          "type": "column",
+          "children": [
+            {
+              "id": "72d815a4-98c6-4d54-a0cb-76147fe9948b",
+              "type": "paragraph",
+              "html": "<em><strong>Inventing the Medium: Principles of Interaction Design as a Cultural Practice</strong></em> was written by Janet H. Murray, published by The MIT Press, November 23, 2011."
+            },
+            {
+              "id": "9a5d9195-7564-4691-9894-d131faa45851",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "854750dd-2529-4458-96d7-3b16a027bb07",
+              "type": "quote",
+              "html": "<em>Digital artifacts from iPads to databases pervade our lives, and the design decisions that shape them affect how we think, act, communicate, and understand the world. But the pace of change has been so rapid that technical innovation is outstripping design. Interactors are often mystified and frustrated by their enticing but confusing new devices; meanwhile, product design teams struggle to articulate shared and enduring design goals. With </em>Inventing the Medium<em>, Janet Murray provides a unified vocabulary and a common methodology for the design of digital objects and environments. It will be an essential guide for both students and practitioners in this evolving field.<br><br>Murray explains that innovative interaction designers should think of all objects made with bits—whether games or Web pages, robots or the latest killer apps—as belonging to a single new medium: the digital medium. Designers can speed the process of useful and lasting innovation by focusing on the collective cultural task of inventing this new medium. Exploring strategies for maximizing the expressive power of digital artifacts, Murray identifies and examines four representational affordances of digital environments that provide the core palette for designers across applications: computational procedures, user participation, navigable space, and encyclopedic capacity.<br><br>Each chapter includes a set of Design Explorations—creative exercises for students and thought experiments for practitioners—that allow readers to apply the ideas in the chapter to particular design problems. </em>Inventing the Medium<em> also provides more than 200 illustrations of specific design strategies drawn from multiple genres and platforms and a glossary of design concepts.</em>"
+            },
+            {
+              "id": "470ac452-0c82-4083-8b3d-99fbf2e8f850",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d608e583-ee3e-4cc8-ba04-dd118d7dc3c8",
+          "type": "column",
+          "children": [
+            {
+              "id": "d0df6e4d-110e-4751-abd5-16a93d2fd010",
+              "type": "image",
+              "src": "./assets/images/untitled-d2150861f925.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14d66157-0c4d-432c-9063-a767fc9fc9b0",
+      "type": "divider"
+    },
+    {
+      "id": "190ebaa6-e995-444c-b0fb-3ddd5d8b30a1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "647fdff3-ecbf-4469-9718-b6ab9649b968",
+          "type": "column",
+          "children": [
+            {
+              "id": "f0e560df-5d4f-483e-bed7-740123007c7d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7de418b8-01dd-41a8-9350-ee7c4f1daf60",
+          "type": "column",
+          "children": [
+            {
+              "id": "f12f9a94-e22c-4eb1-9d97-d268e0daa403",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zYZA5H\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87520edd-9320-453e-aa59-31d790ac737a",
+      "type": "divider"
+    }
+  ]
+}

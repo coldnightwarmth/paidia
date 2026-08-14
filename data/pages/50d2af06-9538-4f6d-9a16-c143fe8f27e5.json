@@ -1,0 +1,375 @@
+{
+  "id": "50d2af06-9538-4f6d-9a16-c143fe8f27e5",
+  "slug": "portfolio-assembly",
+  "title": "Portfolio Assembly",
+  "icon": "🎄",
+  "cover": "",
+  "type": "page",
+  "parentId": "7b5f9f3f-f702-41d5-8d48-54aa0a367ce9",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/50d2af0695384f6d9a16c143fe8f27e5",
+  "createdTime": 1711198564308,
+  "lastEditedTime": 1711198564309,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Portfolio Assembly"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "e854b6ec-b39a-4b76-a945-4fc624c17c34",
+      "type": "subheader",
+      "html": "✅ General Recommendations",
+      "anchorId": "general-recommendations"
+    },
+    {
+      "id": "51092c1b-db54-4091-becd-c821a450b73f",
+      "type": "divider"
+    },
+    {
+      "id": "f51fc11d-4de6-41e4-8e35-9a1748f72d68",
+      "type": "quote",
+      "html": "Some general rules apply when selecting what to include in any portfolio, regardless of role."
+    },
+    {
+      "id": "5afbfeb3-4a31-458f-b5e9-91f22cf9ee92",
+      "type": "subsubheader",
+      "html": "Choosing What to Showcase.",
+      "anchorId": "choosing-what-to-showcase"
+    },
+    {
+      "id": "6ad6c7b1-1560-4869-896f-9e3976c19e14",
+      "type": "bulleted_list",
+      "html": "Aim to showcase 4 or more projects. Anything less and it might be difficult to gauge your ability to reliably create a consistent quality of work in a repeated and predictable manner."
+    },
+    {
+      "id": "78bb5aac-7620-48b9-bda0-c133db7dc595",
+      "type": "bulleted_list",
+      "html": "As a rule of thumb, you will be judged on the weakest work in your portfolio. So it is generally better to have fewer strong projects, than many of mixed quality."
+    },
+    {
+      "id": "d0cfd4da-fd48-4c31-b322-b39ccd6e6168",
+      "type": "callout",
+      "html": "A 'project' is not necessarily a single game, but moreso a collection of closely related work tied together by a strong common thread. <br>For example, one 'project' could be a set of all of your best Achievement Icons created over multiple games.",
+      "icon": "💡",
+      "children": []
+    },
+    {
+      "id": "17e22a9f-5163-4dbe-a7a5-3a7994a93ae7",
+      "type": "callout",
+      "html": "If you want want a second opinion on what to showcase, drop by and ask in the <strong>#share-your-work</strong> or <strong>#level-up</strong> channels on the We Can Fix It In UI Discord.",
+      "icon": "💡",
+      "children": []
+    },
+    {
+      "id": "092b8a74-872c-4077-b019-857e382919ff",
+      "type": "subsubheader",
+      "html": "The Portfolio Sandwich.",
+      "anchorId": "the-portfolio-sandwich"
+    },
+    {
+      "id": "696f8d22-e035-49cb-88c7-062bce86ee9b",
+      "type": "paragraph",
+      "html": "Across many disciplines, particularly succesful portfolios tend to follow a format colloquially referred to as ‘<em>The Portfolio Sandwich’</em>, which outlines both the content, as well as the sequence in which elements are presented within a project showcase. The ‘Sandwich’ is typically composed of the following:"
+    },
+    {
+      "id": "febc8500-17e9-495e-be1b-32ec2cd3ee35",
+      "type": "paragraph",
+      "html": "🍞 <strong>Hero Intro </strong>in the form of the strongest high-fidelity visuals of the final product. This serves to draw the viewer in.<br>🧀 <strong>Design Process</strong> outlining the context of the work, and allowing space to show off your approach, strategy, and method of working. This also allows stage-setting for the following layer of the sandwich…<br>🥩 <strong>Static Image</strong>s of the results of your work, allowing readers the opportunity for closer inspection of the bulk of the pieces. These can also be complemented by motion pieces. However, static imagery is essential as video content can sometimes be difficult to review at the desired level of detail.<br>🥬 <strong>Technical Breakdown </strong>of the work. This is used to showcase technical understanding, and as a demonstration of system-level thinking throughout the project. This could include typography specimens, colour palettes, ‘under the hood’ asset deconstruction samples, among others.<br>🍞 <strong>Hero Outro </strong>in the form of a different set of high-quality, high-fidelity visuals of the final product. This serves to end the showcase on a high note, rewarding the reader for their time, but most importantly, serving as a parting reminder of project quality."
+    },
+    {
+      "id": "a5fa34eb-1124-4862-a694-9e602e83e912",
+      "type": "subsubheader",
+      "html": "Portfolio 'No-No's.",
+      "anchorId": "portfolio-no-no-s"
+    },
+    {
+      "id": "5ffcf3cf-9fff-40b7-abff-be173a0248ba",
+      "type": "bulleted_list",
+      "html": "You should not be using another person's assets of the same discipline as you. For example, as a UI Designer, it would be acceptable to source a 3D character model as you are not expected to be able to make 3D assets. However, you should under no circumstance purchase stock UI widget kits, and claim them as your own 'designs'."
+    },
+    {
+      "id": "4a431e39-f6d4-4918-8f75-ddb08a0e685b",
+      "type": "bulleted_list",
+      "html": "You should generally avoid <em>showcasing</em> other people's work in your portfolio. This would for example include showing images of an Interface you derived your style from to make your own UI. It can sometimes backfire against you to include such an obvious comparison point with similar work, and takes attention away from the most important part of the portfolio: <strong>your</strong> work."
+    },
+    {
+      "id": "a5bd9daa-1299-4b93-8f6a-03676f4b2ed6",
+      "type": "bulleted_list",
+      "html": "Unless you receive prior permission, do not post professional work that would breach any NDAs you are under, such as for UI for upcoming content that has not yet been revealed to the public."
+    },
+    {
+      "id": "4de69bb2-b6c9-4715-9a8c-9fa86a32cb0d",
+      "type": "subheader",
+      "html": "🎩 Discipline-Specific Recommendations",
+      "anchorId": "discipline-specific-recommendations"
+    },
+    {
+      "id": "3a2094a2-18ff-46ec-9642-2c72560cc2e9",
+      "type": "divider"
+    },
+    {
+      "id": "2a1fabcc-674c-4934-9a2a-2eaa6380cf21",
+      "type": "quote",
+      "html": "Expectations from portfolios tend to vary quite a bit from discipline to discipline. Below, you can find some guidelines on best practices for various areas of focus."
+    },
+    {
+      "id": "5128faa2-8251-43b9-9674-82b715c43583",
+      "type": "subsubheader",
+      "html": "UI Art &amp; Design.",
+      "anchorId": "ui-art-and-design"
+    },
+    {
+      "id": "7f588b56-6d61-41e0-96f5-f77292d07c51",
+      "type": "toggle",
+      "html": "<strong><em>View/Hide Design Recommendations</em></strong>",
+      "children": []
+    },
+    {
+      "id": "e2dca54c-ed60-480f-ac87-6129460c3f8c",
+      "type": "subsubheader",
+      "html": "UI 2D Art &amp; UI Illustration.",
+      "anchorId": "ui-2d-art-and-ui-illustration"
+    },
+    {
+      "id": "0cbe8c2d-3550-4cf4-8109-2ad1b822d879",
+      "type": "toggle",
+      "html": "<strong><em>View/Hide Art Recommendations</em></strong>",
+      "children": []
+    },
+    {
+      "id": "913e0591-0719-4c5f-8d1c-935ba9bcdb24",
+      "type": "subsubheader",
+      "html": "UX Design.",
+      "anchorId": "ux-design"
+    },
+    {
+      "id": "b83e5275-11d2-400c-b49c-16e4b752bb29",
+      "type": "toggle",
+      "html": "<strong><em>View/Hide UX Recommendations</em></strong>",
+      "children": []
+    },
+    {
+      "id": "d1f1b248-100e-46ec-91f9-b333b85bb963",
+      "type": "subsubheader",
+      "html": "UI Technical Art",
+      "anchorId": "ui-technical-art"
+    },
+    {
+      "id": "63f3b8ed-1483-4380-afbb-0e41016f1977",
+      "type": "toggle",
+      "html": "<strong><em>View/Hide Technical Art Recommendations</em></strong>",
+      "children": []
+    },
+    {
+      "id": "6bd7f41e-3acb-4a26-bab5-44bdf9373a84",
+      "type": "subsubheader",
+      "html": "UI Code.",
+      "anchorId": "ui-code"
+    },
+    {
+      "id": "80eaf174-8dbd-47fa-b810-b53acfb10b83",
+      "type": "toggle",
+      "html": "<strong><em>View/Hide Code Recommendations</em></strong>",
+      "children": []
+    },
+    {
+      "id": "29daebde-c9ed-4f93-a5d1-40eef4b622ba",
+      "type": "subheader",
+      "html": "🎈 Generating Portfolio Pieces for Yourself",
+      "anchorId": "generating-portfolio-pieces-for-yourself"
+    },
+    {
+      "id": "ad0c0d93-71c4-49ef-a416-7064daa1f036",
+      "type": "divider"
+    },
+    {
+      "id": "b6e7d157-1deb-46dd-828b-75c1614068a8",
+      "type": "quote",
+      "html": "One of the most challenging aspects is being able to fill your portfolio when you have not yet accrued projects from professional work to showcase. There are however a couple ways to generate a variety of pieces on your own."
+    },
+    {
+      "id": "20fbe5bf-f05e-4633-9687-0bb108414eab",
+      "type": "subsubheader",
+      "html": "From-Scratch Briefs.",
+      "anchorId": "from-scratch-briefs"
+    },
+    {
+      "id": "56c16599-f1fa-48bb-86ff-93924692e1ce",
+      "type": "paragraph",
+      "html": "The most challenging, but likely most interesting option to springboard a personal portfolio project, is to create your own custom UI feature brief for a completely fictional game."
+    },
+    {
+      "id": "1f42988d-5a04-4bd5-8733-eedb078b9912",
+      "type": "paragraph",
+      "html": "The following are some great 'standard' interfaces to choose from to showcase your UI acumen in your chosen theme:"
+    },
+    {
+      "id": "2a7317aa-abcc-49a5-adba-a28b11ff3914",
+      "type": "bulleted_list",
+      "html": "Inventory Screen"
+    },
+    {
+      "id": "4b49f2ca-edda-41d9-a79d-15250032583a",
+      "type": "bulleted_list",
+      "html": "HUD"
+    },
+    {
+      "id": "f2d564d4-0a48-4df8-bb85-58541dae6549",
+      "type": "bulleted_list",
+      "html": "Skill Tree"
+    },
+    {
+      "id": "235f7cdd-fbb6-4ea5-8a3e-098c691127f7",
+      "type": "bulleted_list",
+      "html": "End of Game Rewards"
+    },
+    {
+      "id": "01322292-d653-442c-8ca0-bcacf5d2e350",
+      "type": "bulleted_list",
+      "html": "Main Menu"
+    },
+    {
+      "id": "c884df2c-896e-4329-821e-50bd3e6ad672",
+      "type": "bulleted_list",
+      "html": "Seasons Pass"
+    },
+    {
+      "id": "49ef5f41-75e0-4781-a618-8f208f2dd1ea",
+      "type": "bulleted_list",
+      "html": "In-Game Store"
+    },
+    {
+      "id": "34530699-a11e-461b-aebe-56f288deb14b",
+      "type": "bulleted_list",
+      "html": "Settings"
+    },
+    {
+      "id": "d8c0f958-3a0a-41ee-be15-d899d6d3de36",
+      "type": "callout",
+      "html": "If you're struggling to come up with a unique theme or constraints for your fictional game, you might find some inspiration from some of the prompts generated by the <a href=\"#/ed532fb8\">UI Challenge Bot</a>, the Learn Squared <a href=\"https://briefbuilder.app/\" target=\"_blank\" rel=\"noreferrer\">Brief Builder</a>, or <a href=\"https://designercize.com/\" target=\"_blank\" rel=\"noreferrer\">Designercize</a>.",
+      "icon": "💡",
+      "children": []
+    },
+    {
+      "id": "d2a9f002-dc12-4c81-9df9-e9d3cc83ddc2",
+      "type": "subsubheader",
+      "html": "Redesigns.",
+      "anchorId": "redesigns"
+    },
+    {
+      "id": "2b782027-52bf-4b53-b245-be469c4bce24",
+      "type": "paragraph",
+      "html": "An often popular method of generating new portfolio pieces is to engage in the practice of the 'redesign', in which a currently-existing product is re-interpreted functionally or stylistically."
+    },
+    {
+      "id": "dad5e7a3-a410-49e6-9528-491607e02eb7",
+      "type": "paragraph",
+      "html": "While these might seem like a good idea at first, they can easily backfire for a couple reasons:"
+    },
+    {
+      "id": "c3cb7e6b-4812-4737-83c6-6cffbc07188b",
+      "type": "bulleted_list",
+      "html": "You could be dedicating your limited bandwidth on redesigning an interface that has already been functionally maximised for the goals of the product (for example, imagine trying to signficantly improve Amazon's checkout process)."
+    },
+    {
+      "id": "a8a1940b-7d09-48ad-a098-d4e12b87d4c3",
+      "type": "bulleted_list",
+      "html": "You will be putting yourself in direct comparison with an already-existing product. Therefore, your interpretation must bring unquestionable added value compared to the original, or you will risk devaluating your own work all by yourself."
+    },
+    {
+      "id": "4dd1560b-f0ad-48ab-b93e-474a0c97ede0",
+      "type": "paragraph",
+      "html": "Redesigns however typically work well in the following scenarios:"
+    },
+    {
+      "id": "8dee16d7-9998-4db2-beae-0169c01b227d",
+      "type": "bulleted_list",
+      "html": "The original you are looking to redesign is objectively terrible, and you have full confidence your interpration will completely blow it out of the water."
+    },
+    {
+      "id": "4a9ad232-caa9-41f4-bc3e-1ef1cbe84f96",
+      "type": "bulleted_list",
+      "html": "You are redesigning a vintage interface (15+ years old) and modernising it. A fun exercise, for example, can be to pick your favourite childhood game and 'remaster' the UI as if it was released today!"
+    },
+    {
+      "id": "f82e1a7b-427a-47c4-b5b2-891375604e92",
+      "type": "bulleted_list",
+      "html": "You are looking to change one or more variables in the original construct, to make it into having completely different goals than the original (using the previous example; how would the UI change if instead of buying products off Amazon, you <em>borrowed</em> them). This however brings us far closer to an 'Extension', than a 'Redesign', which leads us nicely to our next subject..."
+    },
+    {
+      "id": "f3bd14eb-1fc0-4164-a12f-7a19dc280d6b",
+      "type": "subsubheader",
+      "html": "Extensions.",
+      "anchorId": "extensions"
+    },
+    {
+      "id": "e9a5fc63-5c6b-4029-b0c4-f64ad9c8940f",
+      "type": "paragraph",
+      "html": "A highly-recommended alternative, instead of creating both a theme and a brief from scratch, is to engage in what are called 'Product Extensions, which, as the name suggestes, involve 'extending' a currently-existing product."
+    },
+    {
+      "id": "bb151be9-9c81-43ff-a15f-66be65dd0dbe",
+      "type": "paragraph",
+      "html": "An 'extension' can be particularly great at effectively demonstrating your understanding of already-established design principles and/or styles of the current product whilst simultaneously creating original content, and most importantly, not allowing your interpretation to be directly compared with an already-existing interface."
+    },
+    {
+      "id": "a862d0ab-bada-4c4f-8ab9-993baf2627f7",
+      "type": "paragraph",
+      "html": "A great example of this method in particular can be found in this re-imagining of Overwatch as if it had a 'Story Mode': <a href=\"https://www.behance.net/gallery/82133973/Overwatch-Fictional-Story-Mode-UI-Design\" target=\"_blank\" rel=\"noreferrer\">Overwatch Fictional Story Mode</a>"
+    },
+    {
+      "id": "acbcaf90-6bef-488f-af1b-2e640e4bd181",
+      "type": "subsubheader",
+      "html": "Official Challenges.",
+      "anchorId": "official-challenges"
+    },
+    {
+      "id": "34bd96c0-724b-4ab0-a9fe-051202d54770",
+      "type": "paragraph",
+      "html": "Another option to help you generate a starting point for your portfolio project, is to source already-existing feature briefs."
+    },
+    {
+      "id": "61ab2037-2ffa-4acd-b5c0-d8a06522cc97",
+      "type": "paragraph",
+      "html": "You can find the We Can Fix It In UI Community Challenges below:"
+    },
+    {
+      "id": "67dd742a-9afa-44f3-a0da-9fffab8bb7ab",
+      "type": "bulleted_list",
+      "html": "<strong>2023 We Can Fix It In UI ‘Dark Star’ User Interface Challenge</strong>"
+    },
+    {
+      "id": "3b998f30-0d3b-402f-966d-2c69020a80b9",
+      "type": "paragraph",
+      "html": "Furthermore, a time many within the community have often looked forward to over the past years have been the periodic releases of the <a href=\"https://toronto.ubisoft.com/next/\" target=\"_blank\" rel=\"noreferrer\">Ubisoft Next</a> Challenges, which have historically included a User Interface category. The challenges always include a very high-quality brief, and have sometimes come accompanied by a selection of assets to get you started."
+    },
+    {
+      "id": "454408ab-e5f6-494e-a416-47177acbddc1",
+      "type": "paragraph",
+      "html": "You can find previous years' materials below:"
+    },
+    {
+      "id": "6322e8c8-d074-484d-8a00-327eac642a6e",
+      "type": "bulleted_list",
+      "html": "<strong>2022 Ubisoft Next User Experience Challenge</strong>"
+    },
+    {
+      "id": "6ddcd08f-cbd5-4695-bf20-d9adc9e59d5b",
+      "type": "bulleted_list",
+      "html": "<strong>2020 Ubisoft Next User Interface Challenge</strong>"
+    },
+    {
+      "id": "1df8753d-de46-41d5-902e-c9053c97a92b",
+      "type": "bulleted_list",
+      "html": "<strong>2019 Ubisoft Next User Interface Challenge</strong>"
+    }
+  ]
+}

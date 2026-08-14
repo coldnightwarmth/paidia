@@ -1,0 +1,146 @@
+{
+  "id": "64da5a45-2f45-4d28-bfe4-33441f209c4a",
+  "slug": "the-value-of-play",
+  "title": "The Value of Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Value-of-Play-64da5a452f454d28bfe433441f209c4a?pvs=21",
+  "createdTime": 1659933813276,
+  "lastEditedTime": 1681313033293,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Value of Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0f19268b3f5d.webp",
+  "blocks": [
+    {
+      "id": "f22c1984-c426-4972-b99b-ed1403fb1762",
+      "type": "divider"
+    },
+    {
+      "id": "addbdc06-3de5-4cdf-bf4f-6be74d70097f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d8f035ce-f0ff-45c8-b38c-d9834acf5619",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dd59ab29-f320-43d7-8bfe-88fc66f59c94",
+          "type": "column",
+          "children": [
+            {
+              "id": "3bc2cae0-1715-4c4b-b3c4-c518d7f93fc0",
+              "type": "paragraph",
+              "html": "<em><strong>The Value of Play</strong></em> was written by Perry Else, published by <br>Continuum, April 20, 2009."
+            },
+            {
+              "id": "0146168a-8fe5-45b8-80e1-c8201fcbbfa7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f6d66d51-fbe9-4a0f-9374-260ac643d266",
+              "type": "quote",
+              "html": "<em>Most recognize that play is good for children yet we are confused by the dangers we see in the wider environment and so often restrict children’s natural opportunities to play. As a result children’s play has gained increased awareness amongst a variety of professions working with children, many of whom have different approaches to play and children.<br></em>"
+            },
+            {
+              "id": "add53fb5-6b1c-4aba-baab-4df3da9a6071",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "eda12bfe-bccc-469f-b214-a799947c004d",
+          "type": "column",
+          "children": [
+            {
+              "id": "a32a648f-ceba-4c80-8755-b7203462326f",
+              "type": "image",
+              "src": "./assets/images/untitled-0f19268b3f5d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "695f07a2-b2a4-4263-b5b2-21e6bbafcb45",
+      "type": "divider"
+    },
+    {
+      "id": "18905213-12fe-4681-87ef-18ba1390f93a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ceed2f35-07a6-4182-aacb-e9bf0273c200",
+          "type": "column",
+          "children": [
+            {
+              "id": "6cedcfc1-8be2-4748-b496-a90cd03ed3c0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d61bde96-8ac7-47de-ab4e-b20374a7fd10",
+          "type": "column",
+          "children": [
+            {
+              "id": "e527bd40-6ef5-458d-9620-fb8b3e254b1b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zEEg3B\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "380507ef-3206-4661-97db-45871358c3d5",
+      "type": "divider"
+    },
+    {
+      "id": "17400365-f789-4a59-acc2-f9e0e81f616c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d06e33af-8d12-4acf-8ed7-d4c01ab65438",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "13d59cdf-bef6-4afe-8bbf-d47bd69c0a50",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

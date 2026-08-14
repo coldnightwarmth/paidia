@@ -1,0 +1,126 @@
+{
+  "id": "7ee41e82-1096-4d44-bac9-8813c57e23e6",
+  "slug": "table-games-of-georgian-and-victorian-days",
+  "title": "Table Games of Georgian & Victorian Days",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Table-Games-of-Georgian-Victorian-Days-7ee41e8210964d44bac98813c57e23e6?pvs=21",
+  "createdTime": 1669916800588,
+  "lastEditedTime": 1681312284243,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Table Games of Georgian & Victorian Days"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f573cdfb5e70.webp",
+  "blocks": [
+    {
+      "id": "40e63c61-03c5-4e62-adc0-00502498bb85",
+      "type": "divider"
+    },
+    {
+      "id": "083ae897-7325-49d3-819b-a7a9a8c093c8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5e377b16-ee8d-445e-9c53-ef695c16adce",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a6348cad-12e5-4cbd-a7fe-ecfa36f28b91",
+          "type": "column",
+          "children": [
+            {
+              "id": "8cc2157e-2f43-4621-8655-3df40cc015e2",
+              "type": "paragraph",
+              "html": "<em><strong>Table Games of Georgian &amp; Victorian Days</strong></em> was written by F. R. B. Whitehouse, published by Peter Garnett, January 1, 1951."
+            },
+            {
+              "id": "b407ee86-988d-44c4-94d6-8885dbdfe380",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "924659a8-bcd8-4379-ae58-79abe10e7cc1",
+              "type": "quote",
+              "html": "<em>History of this subject followed by a chronological list of the earlier games, description of the early publishers, games grouped under respective publishers, an alphabetical list of games known to have been published and a section on jig-saw puzzles.</em>"
+            },
+            {
+              "id": "3a8fd3cf-b7b2-451d-aabb-4bcdcee0e313",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0b5b29c2-c7a2-4c1c-907e-a461101066b9",
+          "type": "column",
+          "children": [
+            {
+              "id": "0e0f669d-b9fa-43dc-8b74-bb34ad7869de",
+              "type": "image",
+              "src": "./assets/images/untitled-f573cdfb5e70.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cfb2f915-1216-4fa6-aa7a-8a15b63a6595",
+      "type": "divider"
+    },
+    {
+      "id": "91e8d772-8058-40dd-8e3a-f620da655ac0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "85e973b4-5261-4ede-bf91-5d64e0c0f01d",
+          "type": "column",
+          "children": [
+            {
+              "id": "a9dc2e9e-35e3-476f-9c5a-0c1d89297e2f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "27a2e604-efb5-4701-9f2f-bca752ed6321",
+          "type": "column",
+          "children": [
+            {
+              "id": "6d4d7c06-89e2-4d1f-8a32-4206e70cc878",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Table-Games-Georgian-Victorian-Days/dp/B000S5VLA0/ref=sr_1_1?crid=2KBH7CEVYLMMT&amp;keywords=Whitehouse%2C+F.R.B.+Table+Games+of+Georgian+and+Victorian+Days&amp;qid=1666387878&amp;qu=eyJxc2MiOiIwLjAxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=whitehouse%2C+f.r.b.+table+games+of+georgian+and+victorian+days%2Cstripbooks%2C92&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f0bb7c6-e615-4b2e-a655-40348775c218",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "23de253e-7137-49f7-871b-1281c684c3f1",
+  "slug": "in-the-zone",
+  "title": "In the Zone",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/In-the-Zone-23de253e713749f7871b1281c684c3f1?pvs=21",
+  "createdTime": 1651688836943,
+  "lastEditedTime": 1681313990680,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "In the Zone"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-968f426eb93b.webp",
+  "blocks": [
+    {
+      "id": "81ba310c-c843-4825-b889-39e86599dee9",
+      "type": "divider"
+    },
+    {
+      "id": "7e95dea1-3999-43a0-b66a-87c2276360da",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "87b2a619-e4b4-4ef2-91a3-7aa324aedecd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "eb0ce676-2e71-453e-b4d4-dbaf85051867",
+          "type": "column",
+          "children": [
+            {
+              "id": "03c702c4-5f7a-49d5-b343-cfcd176ff746",
+              "type": "paragraph",
+              "html": "<em><strong>In the Zone: Transcendent Experience in Sports</strong></em> was written by Michael Murphy &amp; Rhea A. White, published by Penguin Group USA, July 1, 1995."
+            },
+            {
+              "id": "8e23c4a9-ad96-42cf-8c3a-28b944473dce",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "927c9ba7-6252-4455-bc0a-7ed7951f889d",
+              "type": "quote",
+              "html": "<em>The authors of </em>Golf in the Kingdom<em> draw striking parallels between the remarkable and mystical events that sometimes occur during sports activites and the traditions of mystics and yogis, exploring how the religious heritages of both East and West provide a basis for understanding spiritual experiences arrived at through physical activity.</em>"
+            },
+            {
+              "id": "ba26bfde-554a-4185-bd5d-28dc492ed6ee",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "3ca2d55f-7d13-4cbb-a714-fe607316c5e6",
+          "type": "column",
+          "children": [
+            {
+              "id": "45197c5f-d158-446d-810c-889495beb153",
+              "type": "image",
+              "src": "./assets/images/untitled-968f426eb93b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd24d0d8-0906-40c4-8423-32e73f639d9e",
+      "type": "divider"
+    },
+    {
+      "id": "48ad6543-05c9-436f-aef1-6dd1166bf395",
+      "type": "columns",
+      "children": [
+        {
+          "id": "636928e1-3daa-4eef-8c7c-f2a236175c40",
+          "type": "column",
+          "children": [
+            {
+              "id": "d6524587-c807-496f-997f-3134f256ffde",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "748589e1-9008-4def-bf83-7ab164c6d276",
+          "type": "column",
+          "children": [
+            {
+              "id": "49b25503-788e-4bf0-95cb-013181242050",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3tTQVxG\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2de85f12-24a2-44fb-bbd4-fe0a43b4292b",
+      "type": "divider"
+    }
+  ]
+}

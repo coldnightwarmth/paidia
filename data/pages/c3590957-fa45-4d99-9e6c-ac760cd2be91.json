@@ -1,0 +1,144 @@
+{
+  "id": "c3590957-fa45-4d99-9e6c-ac760cd2be91",
+  "slug": "lectures",
+  "title": "Lectures",
+  "icon": "🎤",
+  "cover": "",
+  "type": "page",
+  "parentId": "2dddde44-6cc5-43c3-9cb1-34cb7e0ca569",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/c3590957fa454d999e6cac760cd2be91",
+  "createdTime": 1704858924328,
+  "lastEditedTime": 1705029138558,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Lectures"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "77461426-c6bb-4ad9-805d-ed000831b68d",
+      "type": "paragraph",
+      "html": "<em>     notable lectures surrounding play</em>"
+    },
+    {
+      "id": "623cffec-c192-4e2f-b10c-7016683cc189",
+      "type": "divider"
+    },
+    {
+      "id": "103a0203-db63-4583-953e-c1c9d5c632ee",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e3c20b10-2500-4e17-b10c-222c26ee3e17",
+          "type": "column",
+          "children": [
+            {
+              "id": "7846fdd2-8354-473f-a8c4-cdcca9bfdcac",
+              "type": "synced_block",
+              "sourceBlockId": "2dddde44-6cc5-43c3-9cb1-34cb7e0ca569",
+              "children": [
+                {
+                  "id": "8c994898-d21f-4eff-8e8c-e372fb71f8aa",
+                  "type": "page_link",
+                  "targetId": "8c994898-d21f-4eff-8e8c-e372fb71f8aa",
+                  "title": "Video Essays",
+                  "notionType": "page"
+                },
+                {
+                  "id": "c3590957-fa45-4d99-9e6c-ac760cd2be91",
+                  "type": "page_link",
+                  "targetId": "c3590957-fa45-4d99-9e6c-ac760cd2be91",
+                  "title": "Lectures",
+                  "notionType": "page"
+                },
+                {
+                  "id": "3e6c68c2-09fb-4883-8144-a0e95664a71b",
+                  "type": "page_link",
+                  "targetId": "3e6c68c2-09fb-4883-8144-a0e95664a71b",
+                  "title": "Interview",
+                  "notionType": "page"
+                },
+                {
+                  "id": "c544bb14-07b4-4599-bf93-10dbfc75bf51",
+                  "type": "page_link",
+                  "targetId": "c544bb14-07b4-4599-bf93-10dbfc75bf51",
+                  "title": "Podcasts",
+                  "notionType": "page"
+                },
+                {
+                  "id": "65907a2a-eb96-48a7-8b08-e23895487dd1",
+                  "type": "divider"
+                },
+                {
+                  "id": "514e77da-6a3f-4cd9-8338-b818358e43ac",
+                  "type": "page_link",
+                  "targetId": "514e77da-6a3f-4cd9-8338-b818358e43ac",
+                  "title": "Historical",
+                  "notionType": "page"
+                },
+                {
+                  "id": "1ac2975b-5c1d-4ab5-809c-1ba4d748e713",
+                  "type": "page_link",
+                  "targetId": "1ac2975b-5c1d-4ab5-809c-1ba4d748e713",
+                  "title": "Tabletop",
+                  "notionType": "page"
+                },
+                {
+                  "id": "cc4febd0-d255-4186-b68d-068b3fb01c18",
+                  "type": "page_link",
+                  "targetId": "cc4febd0-d255-4186-b68d-068b3fb01c18",
+                  "title": "Sports",
+                  "notionType": "page"
+                },
+                {
+                  "id": "3c2c1ba9-d586-4302-b32f-1e24f629cb68",
+                  "type": "page_link",
+                  "targetId": "3c2c1ba9-d586-4302-b32f-1e24f629cb68",
+                  "title": "Computers",
+                  "notionType": "page"
+                },
+                {
+                  "id": "816ee846-a2c4-436e-8656-7608efeef1eb",
+                  "type": "page_link",
+                  "targetId": "816ee846-a2c4-436e-8656-7608efeef1eb",
+                  "title": "Toys",
+                  "notionType": "page"
+                },
+                {
+                  "id": "fef32bd5-ca46-4d57-9948-a47bc624ca94",
+                  "type": "page_link",
+                  "targetId": "fef32bd5-ca46-4d57-9948-a47bc624ca94",
+                  "title": "Fighting Games",
+                  "notionType": "page"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6f0461cf-9e65-4313-8d80-17312e630cd9",
+          "type": "column",
+          "children": [
+            {
+              "id": "787118e9-1c1e-42ab-a317-80d2b410bf8a",
+              "type": "collection_view",
+              "collectionId": "843e659e-05d8-4c38-952e-acf7ffa40f36",
+              "viewIds": [
+                "44ecf62d-cfe5-4c85-a111-a7d2dfab826c"
+              ],
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

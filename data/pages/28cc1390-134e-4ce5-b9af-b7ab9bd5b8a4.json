@@ -1,0 +1,131 @@
+{
+  "id": "28cc1390-134e-4ce5-b9af-b7ab9bd5b8a4",
+  "slug": "maestro-mario",
+  "title": "Maestro Mario",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Maestro-Mario-28cc1390134e4ce5b9afb7ab9bd5b8a4?pvs=21",
+  "createdTime": 1657306757662,
+  "lastEditedTime": 1681314206777,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Maestro Mario",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-39f5f79b99ac.webp",
+  "blocks": [
+    {
+      "id": "14c1f976-6e60-4102-bbda-4322859c500e",
+      "type": "divider"
+    },
+    {
+      "id": "5d845945-8115-454f-90fa-3257f8c450f5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4b36ae85-349f-46eb-9ace-323d28da6922",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f44bd81c-bed5-4e63-a6d5-f779a7ca25be",
+          "type": "column",
+          "children": [
+            {
+              "id": "0fc16b49-d346-4493-a782-77786b7584cc",
+              "type": "paragraph",
+              "html": "<em><strong>Maestro Mario</strong></em> was written by Andrew Schartmann, published January 16, 2018."
+            },
+            {
+              "id": "e79eb811-c2b6-4a04-b0b4-222238fa5629",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "76bcaf60-2dae-4a9c-ab4d-0059bb549ccf",
+              "type": "quote",
+              "html": "<em>“Pa-dum-pum-pa-dum-pum—PUM!” </em>Super Mario Bros.<em> for the NES contains some of the most recognizable tunes in popular culture, and yet it’s safe to say that only a handful of people have thought beyond the music’s entertaining surface. After all, what could possibly be art-worthy about an early </em>Mario<em> score? Or any early game sound for that matter?<br><br>In search of answers to these questions, Andrew Schartmann takes us on a journey from the primitive “pongs” of arcade machines to the complex musical fabrics woven by composers of the NES era. Where does that distinctly Nintendo-flavored sound come from? What sets NES music apart from its predecessors? And how has that iconic ‘80s videogame sound “invaded” popular culture?</em>"
+            },
+            {
+              "id": "f039b236-da3f-4415-b0ce-aa0e5dc726d2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "368d3ddf-024c-4348-92e3-66803a85f7a5",
+          "type": "column",
+          "children": [
+            {
+              "id": "ffbb214d-aac6-445d-97a5-d1c23982d28d",
+              "type": "image",
+              "src": "./assets/images/untitled-39f5f79b99ac.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fdf7a457-c183-48ab-800e-c457fa3564f9",
+      "type": "divider"
+    },
+    {
+      "id": "3a8d20bc-2ee6-493e-991b-90335f522145",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bd451702-a71d-4336-844d-629093ded66f",
+          "type": "column",
+          "children": [
+            {
+              "id": "8ae9bc5e-83a4-4e2f-acd8-dcb148318ae0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "dfd155b1-16f6-4284-a001-97ca0ae57996",
+          "type": "column",
+          "children": [
+            {
+              "id": "a432217c-5ab9-42e1-8d3a-07b1798c684c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3nOtrq5\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2ea887b2-9dc4-457c-a053-0c0875d946e7",
+      "type": "divider"
+    }
+  ]
+}

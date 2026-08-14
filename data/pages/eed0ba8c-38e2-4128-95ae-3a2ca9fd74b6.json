@@ -1,0 +1,126 @@
+{
+  "id": "eed0ba8c-38e2-4128-95ae-3a2ca9fd74b6",
+  "slug": "forking-at-perfection",
+  "title": "Forking at Perfection",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/eed0ba8c38e2412895ae3a2ca9fd74b6",
+  "createdTime": 1651694332416,
+  "lastEditedTime": 1681313967086,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Forking at Perfection",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d4032af28f15.webp",
+  "blocks": [
+    {
+      "id": "24ebb4ba-48b9-492a-84ce-7af4ca6ca11e",
+      "type": "divider"
+    },
+    {
+      "id": "e8ec1e19-0ae9-4316-ad55-160154c6d29b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7edefabc-baa3-45bb-9597-a3a2be56c39d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4b36cfa9-a02f-4c65-ad3b-f3e47b39c93d",
+          "type": "column",
+          "children": [
+            {
+              "id": "8ae210d1-749f-4c60-8f42-0cfe4f7833ba",
+              "type": "paragraph",
+              "html": "<em><strong>Ian Cheng: Forking at Perfection</strong></em> is a collection edited by Ian Cheng, Raphael Gygax, &amp; Franziska Bigger, published by JRP | Ringier, September 27, 2016."
+            },
+            {
+              "id": "a12e186e-500e-42f3-bbad-2272a4fa541d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7c24737b-1252-4f66-b897-ae7fef4d1296",
+              "type": "quote",
+              "html": "<em>The work of New York–based artist Ian Cheng (born 1984) explores the nature of mutation and the capacity of humans to relate to change. Drawing on video game design, improvisation and themes of Darwinian brutality, Cheng has developed so-called “live simulations,” living virtual ecosystems that begin with basic programmed properties, but are left to self-evolve without authorial control or end. Cheng’s simulations often model the dynamics of fictional or imagined organisms and ecologies, but they do so with the unforgiving causality found in nature itself. Cheng describes his simulations as akin to a “neurological gym”: a format for viewers to deliberately exercise the feelings of confusion, anxiety and cognitive dissonance that accompany the experience of unrelenting change. This monograph explores Cheng’s most recent “live simulations,” with contributions from Raphael Gygax and Franziska Bigger, along with a selection of texts by the artist.</em>"
+            }
+          ]
+        },
+        {
+          "id": "09c5478b-1194-4daf-bd65-17d9fadaaeb0",
+          "type": "column",
+          "children": [
+            {
+              "id": "ab32c635-20c0-4603-9165-d152ad3b6929",
+              "type": "image",
+              "src": "./assets/images/untitled-d4032af28f15.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93b238e5-ceac-4d89-84be-3f8c59c449c8",
+      "type": "divider"
+    },
+    {
+      "id": "e030102d-1229-4f66-9532-dccd63c99dd9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cc3dc427-a396-40b7-b5ae-c098208d32f5",
+          "type": "column",
+          "children": [
+            {
+              "id": "a1304dc2-2c5d-406b-a952-2709e0da50de",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ddf7fd52-ec69-488f-ae21-0aa4959842f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "bb7233ed-9f44-4e1c-a3dc-12cd1ade9a8c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Fx0FEx\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99b3f8cc-dd40-426f-bdae-da5899c359d7",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "5b67c400-0f60-47d3-9411-019d8b6778be",
+  "slug": "attract-mode",
+  "title": "Attract Mode",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Attract-Mode-5b67c4000f6047d39411019d8b6778be?pvs=21",
+  "createdTime": 1653072907147,
+  "lastEditedTime": 1681310966838,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Attract Mode",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/71dmutkf7il-1047bd75a7d7.webp",
+  "blocks": [
+    {
+      "id": "0f98ea23-339b-4e14-80d6-0003b8cc0dfb",
+      "type": "divider"
+    },
+    {
+      "id": "f1652a13-ea76-4c73-b303-d67c5b4b1559",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2469d28c-3593-4689-b0b0-f2825220fc88",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ba96331e-6eb8-45e7-b106-b57036d5874f",
+          "type": "column",
+          "children": [
+            {
+              "id": "0a2a511d-440c-48be-92fb-64f1ac34c286",
+              "type": "paragraph",
+              "html": "<em><strong>Attract Mode: The Rise &amp; Fall of Coin-Op Arcade Games</strong></em> was written by Jamie Lendino, published by Steel Gear Press, September 27, 2020."
+            },
+            {
+              "id": "494d9687-c30b-4e28-9a0f-24d9906d1f9d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0bdb5d57-9d89-4ef8-a925-192aa5bf908f",
+              "type": "quote",
+              "html": "<em>From their haunts in the shadowy corner of a bar, front and center at a convenience store, or reigning over a massive mall installation bursting with light, sound, and action, arcade games have been thrilling and addicting quarter-bearers of all ages ever since </em>Pong<em> first lit up its paddles. Whether you wanted a few minutes’ quick-twitch exhilaration or the taste of three-initial immortality that came with topping the high score screen, you could get it from the diverse range of space shooters, dot-eating extravaganzas, quirky beat-’em-ups, and more that have helped define pop culture for more than four decades.<br><br>In </em>Attract Mode: The Rise and Fall of Coin-Op Arcade Games<em>, author Jamie Lendino celebrates both the biggest blockbusters (</em>Pac-Man, Star Wars: The Arcade Game<em>) and the forgotten gems (</em>Phoenix, Star Castle<em>) of the Golden Age of coin-op gaming, and pulls back the curtain on the personalities and the groundbreaking technologies that brought them to glitzy, color-drenched life in the U.S., Japan, and all over the world.<br><br>You’ll start your journey exploring the electromechanical attractions and pinball games of the early 20th century. Next, you’ll meet the earliest innovators, who used college computers and untested electronics to outline the possibilities of the emerging form, and discover the surprising history behind the towering megahits from Nintendo, Sega, and others that still inform gaming today. Then you’ll witness the devastating crash that almost ended it all—and the rebirth no one expected.<br><br>Whether you prefer the white-knuckle gameplay of </em>Robotron: 2084<em>, the barrel-jumping whimsy of </em>Donkey Kong<em>, or the stunning graphics and animation of </em>Dragon’s Lair<em>,</em> Attract Mode <em>will transport you back to the heyday of arcade games and let you relive—or experience for the first time—the unique magic that transformed entertainment forever.</em>"
+            },
+            {
+              "id": "ae786051-7afd-4d19-9277-c18854133df7",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "49c53004-eb16-4c6d-af22-1a25e528220a",
+          "type": "column",
+          "children": [
+            {
+              "id": "971bcb15-5fd7-4158-8b0a-df0f0f57fc2a",
+              "type": "image",
+              "src": "./assets/images/71dmutkf7il-1047bd75a7d7.webp",
+              "caption": "",
+              "alt": "71dMUtKF7IL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20566d72-5aab-45af-ba16-9e768b3ba049",
+      "type": "divider"
+    },
+    {
+      "id": "d2cba4be-7fe9-4f9f-b559-405ea1bcc8fc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9e297fe7-5e20-4018-b166-f419d8faa4ac",
+          "type": "column",
+          "children": [
+            {
+              "id": "2d4278c2-4a94-4055-9ccc-ea20ffc716c2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "21d2a759-fee2-4b95-abec-09448d255d7d",
+          "type": "column",
+          "children": [
+            {
+              "id": "8aee9531-0fd3-47af-95be-a635f88be0ad",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FxAqho\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4a39583-3ebc-41d4-a914-4a0f4112bb31",
+      "type": "divider"
+    }
+  ]
+}

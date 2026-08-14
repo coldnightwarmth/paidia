@@ -1,0 +1,136 @@
+{
+  "id": "296591a8-458e-46af-b423-1e7e93e97f62",
+  "slug": "automata-and-mechanical-toys",
+  "title": "Automata & Mechanical Toys",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/296591a8458e46afb4231e7e93e97f62",
+  "createdTime": 1658276257435,
+  "lastEditedTime": 1681310979835,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Automata & Mechanical Toys",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-07fe92757f71.webp",
+  "blocks": [
+    {
+      "id": "0451ac29-898b-4ba7-bf46-9fec195b0a84",
+      "type": "divider"
+    },
+    {
+      "id": "1eca7ad0-7492-4ba6-9356-b9816136c201",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f351db07-e728-4da1-86b4-ba759962c5c3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1f008e94-a87a-43ef-a6fe-56b2adafad6a",
+          "type": "column",
+          "children": [
+            {
+              "id": "3b156639-9873-4a24-bc66-0996a2c9cea8",
+              "type": "paragraph",
+              "html": "<em><strong>Automata &amp; Mechanical Toys</strong></em><em> </em>was written by Rodney Peppe, published by Crowood Press, August 1, 2002."
+            },
+            {
+              "id": "52c5e0bb-00f0-4d03-957f-923e211a23af",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f5627953-df94-47ac-909b-418fa46269b1",
+              "type": "quote",
+              "html": "<em>No other craft so brilliantly captures the magic of turning a handle, þicking a switch, or pulling a lever to see the unexpected come to life. </em>Automata and Mechanical Toys<em> is a book for anyone drawn to simple, entertaining mechanics. The book features 21 leading makers, each with a distinctive style. With 160 color photos and 100 delightful examples of the craft, the book is a feast for collectors and enthusiasts. A substantial section of the book is devoted to making automata mechanisms, ideal for novices or those wishing to learn new techniques. Illustrated, step-by-step instructions explain how to make a bearings box, which separately houses all the main mechanisms used in automata. The box can then be converted to any mechanism you choose. Rodney Peppé is a winner of the British Toymakers’ Guild Toy of the Year Award; he has had exhibitions of his work at the Victoria &amp; Albert Museum of Childhood. He is also the author of Rodney Peppé’s Moving Toys.</em>"
+            },
+            {
+              "id": "d2540bdc-4992-4986-b203-a25db4d91d4d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "10b4f056-b8c1-47d3-b5ac-f9bf72a59b8f",
+          "type": "column",
+          "children": [
+            {
+              "id": "a8eea50c-3e90-442b-926c-6c450bc22e72",
+              "type": "image",
+              "src": "./assets/images/untitled-07fe92757f71.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b898b61-d76b-4028-99d0-5339609f3635",
+      "type": "divider"
+    },
+    {
+      "id": "eee7e47f-21ea-4611-8fa3-53496ffe3bad",
+      "type": "columns",
+      "children": [
+        {
+          "id": "91b27c0c-5352-4e32-b23f-7abd84e64845",
+          "type": "column",
+          "children": [
+            {
+              "id": "8fbedb4a-0172-48b4-bc56-513d55bb4bb7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "46cb831a-2416-4ef2-b60e-4d2b000755a5",
+          "type": "column",
+          "children": [
+            {
+              "id": "943c0f8f-0cca-4514-943f-3e86c35a2688",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3IOespY\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bdace5aa-651b-4c17-824d-e4601a8a6c88",
+      "type": "divider"
+    },
+    {
+      "id": "ccc70c3d-3172-47cf-bd1c-2f6a69e7b220",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

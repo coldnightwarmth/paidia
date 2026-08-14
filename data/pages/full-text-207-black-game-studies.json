@@ -1,0 +1,78 @@
+{
+  "id": "full-text-207-black-game-studies",
+  "slug": "black-game-studies",
+  "title": "Black Game Studies",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8b00db95-6902-4675-93fb-bd8023cf5614",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "",
+  "createdTime": null,
+  "lastEditedTime": null,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Black Game Studies"
+      ]
+    ],
+    "Full Text Database Row": [
+      [
+        "207"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Lindsay Grace"
+      ]
+    ],
+    "Tags": [
+      [
+        "Africa, Industry, Social"
+      ]
+    ],
+    "Released": [
+      [
+        "2021"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Self-published"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "full-text-207-black-game-studies-divider",
+      "type": "divider"
+    },
+    {
+      "id": "full-text-207-black-game-studies-metadata",
+      "type": "paragraph",
+      "html": "<strong>Black Game Studies</strong>, by Lindsay Grace, Self-published, 2021."
+    },
+    {
+      "id": "full-text-207-black-game-studies-tags",
+      "type": "paragraph",
+      "html": "<em>Tags:</em> Africa, Industry, Social"
+    },
+    {
+      "id": "full-text-207-black-game-studies-note",
+      "type": "callout",
+      "html": "This spreadsheet row did not include a Notion source URL, so this local page was generated from the Full Text Database CSV metadata.",
+      "icon": "🗃️",
+      "children": []
+    }
+  ]
+}

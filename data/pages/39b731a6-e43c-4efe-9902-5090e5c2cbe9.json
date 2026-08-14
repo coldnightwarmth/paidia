@@ -1,0 +1,136 @@
+{
+  "id": "39b731a6-e43c-4efe-9902-5090e5c2cbe9",
+  "slug": "the-god-game",
+  "title": "The God Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-God-Game-39b731a6e43c4efe99025090e5c2cbe9?pvs=21",
+  "createdTime": 1651863394990,
+  "lastEditedTime": 1681313533163,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The God Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4876a736c9fe.webp",
+  "blocks": [
+    {
+      "id": "9adecebc-4e21-4843-9d85-2dba137e1e5d",
+      "type": "divider"
+    },
+    {
+      "id": "2d171c3e-aab1-456e-99de-652690e62884",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a66159d4-a385-43ca-a041-43ae2de12309",
+          "type": "column",
+          "children": [
+            {
+              "id": "3d70e37a-24f8-46b0-982e-4a71fbca41bb",
+              "type": "paragraph",
+              "html": "<em><strong>The God Game</strong></em> was written by Fr. Leo Booth, published by Stillpoint Publishing, September 1, 1994."
+            },
+            {
+              "id": "582470d1-9087-4211-800d-d690639deaa4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b472cd31-4320-42bf-8886-dbf17261ca13",
+              "type": "quote",
+              "html": "<em>Challenging established religious tenets such as belief in a distant, omnipotent deity and the concept of the clergy as shepherds leading the flock, an Episcopal priest offers an alternative approach--creating a personal relationship with God.</em>"
+            }
+          ]
+        },
+        {
+          "id": "a4417089-31ab-46b0-98c9-559f7aced8a8",
+          "type": "column",
+          "children": [
+            {
+              "id": "fcc70e3d-25ce-4775-8f88-cf63cb3a6733",
+              "type": "image",
+              "src": "./assets/images/untitled-4876a736c9fe.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3aef97e4-ed1d-4fe7-844a-653a9016dc42",
+      "type": "divider"
+    },
+    {
+      "id": "0e82e97c-de33-4510-96b5-62bc752c1201",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4b5cf5ce-68ca-4da2-a42c-c0a0f753a87b",
+          "type": "column",
+          "children": [
+            {
+              "id": "294cde9d-edd3-4aea-8422-9a91b84e3f58",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a39327f0-9c06-46a6-b805-c87787f9f7ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd62578f-1362-44cb-b41f-af11c42a91c9",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Gi9wrS\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "011d45bf-ac8e-490a-b920-a7f2604292e1",
+      "type": "divider"
+    },
+    {
+      "id": "b38c1986-23d5-42a0-9629-fc13399d9a47",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c9e16dac-05e9-4af0-bf8b-23ca1fb0740c",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "04816a25-6ae2-4808-ab27-d900f9b0d542",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

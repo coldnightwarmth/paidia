@@ -1,0 +1,46 @@
+{
+  "id": "3f4eca7a-6b1f-422d-9109-75b5bfbb775f",
+  "slug": "gamework",
+  "title": "Gamework",
+  "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "adddd230-d3cf-4c34-b23c-8dfef1f1ebbf",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/3f4eca7a6b1f422d910975b5bfbb775f",
+  "createdTime": 1651969534145,
+  "lastEditedTime": 1681313647176,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Concept"
+      ]
+    ],
+    "title": [
+      [
+        "Gamework"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "8beddde8-c619-4cb3-8e99-0017400941ba",
+      "type": "divider"
+    },
+    {
+      "id": "dd0bf3e5-5f5e-45eb-83ae-3703a25fa34c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3c53fe2d-dd0c-4c59-86a5-7cd6ed43d624",
+      "type": "paragraph",
+      "html": "A designed object which provides for player(s) all necessary parts to play a particular game."
+    }
+  ]
+}

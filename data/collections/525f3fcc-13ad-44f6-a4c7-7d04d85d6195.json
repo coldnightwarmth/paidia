@@ -1,0 +1,400 @@
+{
+  "id": "525f3fcc-13ad-44f6-a4c7-7d04d85d6195",
+  "name": "Educational",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "a07d5628-02ab-4673-b631-220d5f7070c5",
+          "value": "⭐ Editor's Choice",
+          "color": "yellow"
+        },
+        {
+          "id": "51bd478f-5b6c-49be-89a1-d9e55d6d389b",
+          "value": "UX",
+          "color": "orange"
+        },
+        {
+          "id": "75560585-8cd0-43ef-ae15-d2ee191dcb7f",
+          "value": "User Research",
+          "color": "orange"
+        },
+        {
+          "id": "73689799-eda8-4629-af05-1c398b7885d6",
+          "value": "Science & Psychology",
+          "color": "purple"
+        },
+        {
+          "id": "a3efe7f2-8b40-4336-8d44-3e62c1bc378e",
+          "value": "Methodology",
+          "color": "green"
+        },
+        {
+          "id": "65744332-d909-4a53-bc0d-784ab1c9c18d",
+          "value": "Design",
+          "color": "red"
+        },
+        {
+          "id": "6f7d5a53-c0d1-4f2d-aed9-dfc725636061",
+          "value": "UI",
+          "color": "brown"
+        },
+        {
+          "id": "65247f4b-b41b-40ae-972e-e27eb471b40d",
+          "value": "Misc",
+          "color": "pink"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "6a6b463d-ec6b-4ba7-b6c1-726991ec3a6a",
+      "collectionId": "525f3fcc-13ad-44f6-a4c7-7d04d85d6195",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "09295883-6226-4076-9a7d-6fa52ee67c25",
+        "6358800a-03ea-45fd-9f8b-fc2861cd2776",
+        "52bddc33-0d04-47d7-aade-d7ffca5797dc",
+        "ab8033c9-0ff9-4ceb-b65f-bad2601571e6",
+        "92db145c-e25f-4fee-a4e5-fb2b4a67fe97",
+        "36682282-37e2-43cf-af17-418134706255",
+        "859b51e7-9149-4a26-a123-7125cf8b7aa9",
+        "d60ebda1-a469-491c-976f-0c50881125de",
+        "6799a325-9305-4c6d-bbac-1a9895ac273a",
+        "ab5f29a1-c17c-4163-818c-50e003ce2d0e",
+        "b5c1727e-bf85-437a-a44e-13906bcff448",
+        "005f7c19-6584-45a2-afb1-9759fc4d9530",
+        "2f40ce96-29b1-4169-bc40-d95187aa24a4",
+        "87af1170-8aa4-4b85-a2d3-b7f733cfcc12",
+        "5f019c23-9c98-45fe-87e9-20ef41ab8e78",
+        "9366dec9-be40-4ab7-9487-40cc416d816a",
+        "729ec2e3-8938-480c-9cca-338342727b0e",
+        "e7a8ba89-0c7b-49c2-b761-4440f0beaca0",
+        "33d62861-7a61-4875-916c-139289a67777",
+        "6076be84-8b53-42ed-9383-7bb622921e2d",
+        "90604442-b8e3-4d9d-8424-b9a841fd46d3",
+        "a6efe9ef-0764-446f-b7ab-e58beb0a1a63",
+        "1d531a6f-51c6-45a2-97dd-f562fcdd5dc7",
+        "4d977a10-c022-4aad-ba84-05c7b09c23dc",
+        "f2840a5c-0ed7-4cd4-a865-0d3ddab7ce39",
+        "9d226194-bd66-4e04-9ceb-8ac47d72c046",
+        "d3d574c5-0708-416e-8c69-923a9feaa929",
+        "f9da3101-e998-46b7-aa39-3754d6a98aee",
+        "41585d44-c9e9-4716-b3f7-b80ca899677d",
+        "f746af6c-9758-4603-9673-5bd9761e1100",
+        "a95e4c2b-4f43-430e-b6a7-1be1b18e9642",
+        "f687813c-fb69-48cf-a042-d387267bd64b",
+        "cc69e6dd-cd2d-47bf-b939-cf3653fc5a88",
+        "ebaeee95-467a-429e-aae4-0e12578e1daa",
+        "24418720-d0cd-4c56-a88d-93f9e0d4c4f2",
+        "8f897862-3daa-4541-b0f3-ef24ea0e7de0",
+        "6ee327a0-e289-471a-a12a-c2cd07b78b1b",
+        "289da364-552f-4a95-96de-d02881a1dfab",
+        "d9a99d82-fd6c-44e6-a9fd-09b0e4d02a7c",
+        "eed4a000-5f46-49bd-9cf0-0d3c00d9e907",
+        "880914df-b832-4eee-b8b1-9f1ed73a5e38",
+        "c2647959-f9e6-4500-a22b-057657f26b30",
+        "e4caaf30-2b0a-480b-80d0-3a502fff0bc9",
+        "95090432-a3c6-44ba-a454-4d548102ccb6",
+        "bfa66cde-162c-431d-8ca4-bd59c0f7551e",
+        "deb5e31a-56cf-41cd-8214-63b4ecb8cb49",
+        "f53d7d67-30c4-4aac-807c-0915ef1c9bdb",
+        "1e895e69-d82f-4d80-b189-8f6b1dc473dc",
+        "4b620f6c-4705-4620-a9dc-956ab5efeed7"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "e390b6e5-fc24-48fd-944b-b547f0bc301a",
+      "collectionId": "525f3fcc-13ad-44f6-a4c7-7d04d85d6195",
+      "type": "gallery",
+      "name": "⭐ Editor's Choice",
+      "pagePointerId": null,
+      "pageSort": [
+        "e7a8ba89-0c7b-49c2-b761-4440f0beaca0"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "39050c01-c39c-42f7-b85c-03289a4a964b",
+      "collectionId": "525f3fcc-13ad-44f6-a4c7-7d04d85d6195",
+      "type": "gallery",
+      "name": "UX",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "358c53e4-a1a0-4f56-89cf-7ff0b594cd99",
+      "collectionId": "525f3fcc-13ad-44f6-a4c7-7d04d85d6195",
+      "type": "gallery",
+      "name": "User Research",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "0c41c02a-0f44-4c2f-b1a7-e7943dec4219",
+      "collectionId": "525f3fcc-13ad-44f6-a4c7-7d04d85d6195",
+      "type": "gallery",
+      "name": "Science & Psychology",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "88d1886a-927c-47a8-9023-30bae1fb7aac",
+      "collectionId": "525f3fcc-13ad-44f6-a4c7-7d04d85d6195",
+      "type": "gallery",
+      "name": "Methodology",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "f0f5a948-5e1d-4315-bc3f-e206a7e413bf",
+      "collectionId": "525f3fcc-13ad-44f6-a4c7-7d04d85d6195",
+      "type": "gallery",
+      "name": "Design",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "f7ba0bf9-fba4-48e8-829e-fe24118d8c44",
+      "collectionId": "525f3fcc-13ad-44f6-a4c7-7d04d85d6195",
+      "type": "gallery",
+      "name": "UI",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

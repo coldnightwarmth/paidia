@@ -1,0 +1,594 @@
+{
+  "id": "0f796b10-824c-4c6b-888a-884bf10f7e52",
+  "slug": "all-historical-videos",
+  "title": "all historical videos...",
+  "icon": "",
+  "cover": "",
+  "type": "page",
+  "parentId": "fdbbd34a-ba8a-47e3-8173-30cea2938957",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/0f796b10824c4c6b888a884bf10f7e52",
+  "createdTime": 1651847040000,
+  "lastEditedTime": 1681322400596,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "all historical videos..."
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "aaef1fef-b31c-43f7-850d-6e6bc704d2ca",
+      "type": "columns",
+      "children": [
+        {
+          "id": "272ffd41-8673-4f38-b567-989ae1c4dfaf",
+          "type": "column",
+          "children": [
+            {
+              "id": "e6d8dafd-411f-471c-91e9-1678a2a24553",
+              "type": "callout",
+              "html": "<strong><strong>How Does the US Navy Run Wargames? - A Guided Tour of the US Naval War College Wargaming Facilities</strong></strong>",
+              "icon": "🚢",
+              "children": [
+                {
+                  "id": "f8f03dd8-c0b2-40c9-9306-1c957b0135c4",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/@InvictaHistory\" target=\"_blank\" rel=\"noreferrer\">Invicta</a></strong>"
+                },
+                {
+                  "id": "1608c771-c636-4623-80e8-85572137e78d",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/lj42mzT06jo?rel=0&start=5",
+                  "caption": ""
+                },
+                {
+                  "id": "7bb818cc-71a5-40a0-9b79-694aafb21617",
+                  "type": "page_link",
+                  "targetId": "7bb818cc-71a5-40a0-9b79-694aafb21617",
+                  "title": "How Does the US Navy Run Wargames? - A Guided Tour of the US Naval War College Wargaming Facilities",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "11c78488-4228-47ee-b892-9ab34ef80948",
+              "type": "callout",
+              "html": "<strong>The Teenagers Who Taught Nintendo How to Make Starfox</strong>",
+              "icon": "🚀",
+              "children": [
+                {
+                  "id": "716c920f-99d8-46c5-877d-68b1053026d5",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCZB6V9fUov0Mx_us3MWWILg\" target=\"_blank\" rel=\"noreferrer\">People Make Games</a></strong>"
+                },
+                {
+                  "id": "278852a9-9823-4bf0-8594-f544343890d9",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/to4Ekb0kXiE?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=1",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "e1d78727-39f1-40a9-9ddb-1553cc351dad",
+              "type": "callout",
+              "html": "<strong>Satoru Iwata: CEO, Game Developer, Gamer</strong>",
+              "icon": "🕹️",
+              "children": [
+                {
+                  "id": "2bd11947-4fd9-4195-9db8-04c9cf5e2e0b",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCyS4xQE6DK4_p3qXQwJQAyA\" target=\"_blank\" rel=\"noreferrer\">DidYouKnowGaming?</a></strong>"
+                },
+                {
+                  "id": "569c7f53-7f8d-4e02-9657-19387dbea042",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/VUHi-vlACJI?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "fe36a814-cd4a-4abe-b404-e5e6ab3c58b0",
+                  "type": "page_link",
+                  "targetId": "fe36a814-cd4a-4abe-b404-e5e6ab3c58b0",
+                  "title": "Satoru Iwata: CEO, Game Developer, Gamer",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "a639aeae-b19d-400a-8627-ebffa624799f",
+              "type": "callout",
+              "html": "<strong>Battle of the Bits: Nintendo Power, Mappers, and Circuit Boards - Talkin' Code Ep. 3</strong>",
+              "icon": "💡",
+              "children": [
+                {
+                  "id": "2e12c62b-5ab5-4d82-bcfb-cdcbad9817e1",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCWoSKWs8h6lFdiEDAjuIfpA\" target=\"_blank\" rel=\"noreferrer\"><strong>Displaced Gamers</strong></a>"
+                },
+                {
+                  "id": "0507a077-386a-403a-b9c8-ea67c253ceb5",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/7rvy4eof7YY?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "520c2716-ecad-49c0-a650-148e50eb9d88",
+              "type": "callout",
+              "html": "<strong><strong>The First Video Game</strong></strong>",
+              "icon": "🥇",
+              "children": [
+                {
+                  "id": "d125e6b1-808b-4c63-8025-1b037c70a7d7",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCE1jXbVAGJQEORz9nZqb5bQ\" target=\"_blank\" rel=\"noreferrer\">Ahoy</a></strong>"
+                },
+                {
+                  "id": "6b9e0646-4efb-4b9e-9f57-0ee5b739d33e",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/uHQ4WCU1WQc?start=2&feature=oembed&start=2",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "3db7f57a-4558-47a5-bf63-81915150f306",
+              "type": "callout",
+              "html": "<strong><strong>Toys and Games in Ancient Greece</strong></strong>",
+              "icon": "🏺",
+              "children": [
+                {
+                  "id": "87d22901-5139-4a79-8799-86ed42d519ab",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/GameForThought\" target=\"_blank\" rel=\"noreferrer\"><strong>Game For Thought</strong></a>"
+                },
+                {
+                  "id": "f956c7ad-a368-48d6-a04c-868b0786dc87",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/gLGkzQsxcWA?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "637e0b7a-b2e4-48f2-9f52-56c24679f33a",
+              "type": "callout",
+              "html": "<strong><strong>Pokemon Originally Had 65,535 Versions (Exclusive)</strong></strong>",
+              "icon": "♾️",
+              "children": [
+                {
+                  "id": "8490943a-1daa-416c-9432-1f5b3e748848",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/user/DYKGaming\" target=\"_blank\" rel=\"noreferrer\">DidYouKnowGaming?</a></strong>"
+                },
+                {
+                  "id": "5fe7f41e-eb88-4799-af3e-3fd9c4653cd5",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/TrL5dmjMAdA?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "95f718e3-c467-4388-9d73-9c5e45ab68df",
+              "type": "callout",
+              "html": "<strong><strong>How One Person Changed Indie Games Forever</strong></strong>",
+              "icon": "1️⃣",
+              "children": [
+                {
+                  "id": "0fdf95e3-9877-4b3d-bbe0-080ee75c2eeb",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/@ThatGuyGlen\" target=\"_blank\" rel=\"noreferrer\">ThatGuyGlen</a></strong>"
+                },
+                {
+                  "id": "6163b978-b9b7-4574-934c-7b8a66aac2ba",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/d0Lqt-BHbJ0?rel=0",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11e6e5e5-0d4e-417b-8f0a-95712d8b42a7",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f88620f-cffe-4a5b-98f6-e62c7a486af3",
+              "type": "callout",
+              "html": "<strong>What Pac-Man Brought to Game Design | Design Icons</strong>",
+              "icon": "🕹️",
+              "children": [
+                {
+                  "id": "e16d1b51-be1c-4612-b7d7-303bd0e755ae",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw\" target=\"_blank\" rel=\"noreferrer\">Game Maker's Toolkit</a></strong>"
+                },
+                {
+                  "id": "0a8b9f0e-76d1-47cf-803d-7dddde1530ef",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/S4RHbnBkyh0?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "f12e0b19-c82c-49e6-a9fc-c11890e5d1ba",
+              "type": "callout",
+              "html": "<strong>Crash Course- Games </strong>(<em>series</em>)",
+              "icon": "🎲",
+              "children": [
+                {
+                  "id": "0740bda7-7055-47fe-b061-73c7a08d01e0",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q\" target=\"_blank\" rel=\"noreferrer\">CrashCourse</a></strong>"
+                },
+                {
+                  "id": "2fb4a5f5-9c48-4454-96ef-e183a4d8822b",
+                  "type": "video",
+                  "src": "http://www.youtube.com/embed/videoseries?list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "f884f6c3-1a6d-41f9-ac81-97d2d84942c7",
+              "type": "callout",
+              "html": "<strong>Tom Scott vs Irving Finkel: The Royal Game of Ur | International Tabletop Day 2017</strong>",
+              "icon": "👑",
+              "children": [
+                {
+                  "id": "38de04ed-cc54-41c1-80e1-00364b8d2623",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCvpQ-l09fCVxJd3urZbxzHg\" target=\"_blank\" rel=\"noreferrer\">The British Museum</a></strong>"
+                },
+                {
+                  "id": "f91d7a0e-08a4-40ac-adca-3efe26569595",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/WZskjLq040I?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "1d863408-4a93-4fcc-b5e7-5f9bd2b9e5f3",
+                  "type": "page_link",
+                  "targetId": "1d863408-4a93-4fcc-b5e7-5f9bd2b9e5f3",
+                  "title": "Tom Scott vs Irving Finkel: The Royal Game of Ur | International Tabletop Day 2017",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "5b195c8c-b245-49ac-aea2-f836cf022e90",
+              "type": "callout",
+              "html": "<strong><strong>History Of Game Design Part 1: Race Games</strong></strong>",
+              "icon": "🏁",
+              "children": [
+                {
+                  "id": "ae4c7368-1599-48b8-9dbc-08a90fb604a0",
+                  "type": "paragraph",
+                  "html": "by<strong> </strong><a href=\"https://www.youtube.com/c/RemptonGames\" target=\"_blank\" rel=\"noreferrer\"><strong>Rempton Games</strong></a>"
+                },
+                {
+                  "id": "b8366cd0-8cdd-4aff-a7b7-13912d1712a8",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/2O0YSsqomwo?list=PL7Rkyli_tYGRHkX6ylsvq0qmAJbn9OsB4",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "1346ba4b-c30c-472a-8915-ea2e27c4bf07",
+              "type": "callout",
+              "html": "<strong>The Patron Saint of the Internet</strong>",
+              "icon": "✝️",
+              "children": [
+                {
+                  "id": "fec324a3-9c7f-4a55-ba44-42a80f13314e",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCjP-MiAEn9DPvUHNyGEs7Wg\" target=\"_blank\" rel=\"noreferrer\">hochelaga</a></strong>"
+                },
+                {
+                  "id": "23c3c8d2-99c3-41ff-97ad-236821023614",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/T7QjSGHgu3Q?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "90ae13ce-abb6-4a3e-b759-ab4df35c163d",
+                  "type": "paragraph",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "id": "62ed5119-ea80-4298-9bdc-ba0196c1b9a4",
+              "type": "callout",
+              "html": "<strong>What The Internet did To Undertale</strong>",
+              "icon": "💀",
+              "children": [
+                {
+                  "id": "6013d527-d7e1-44a2-8c3d-167eb57de1ff",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCtGoikgbxP4F3rgI9PldI9g\" target=\"_blank\" rel=\"noreferrer\">Super Eyepatch Wolf</a></strong>"
+                },
+                {
+                  "id": "76f83445-6930-4dd0-878d-b37ec78a686d",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/FFIs6LsV0a4?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "b107d934-4b7c-4977-81d4-c5a5eece4eeb",
+              "type": "callout",
+              "html": "<strong>How playing cards look around the world</strong>",
+              "icon": "🎴",
+              "children": [
+                {
+                  "id": "6850a72d-aa0b-4f34-b5f5-7de86a8a065b",
+                  "type": "paragraph",
+                  "html": "by<strong> </strong><strong><a href=\"https://www.youtube.com/channel/UCyhOl6uRlxryALlT5yifldw\" target=\"_blank\" rel=\"noreferrer\">J.J. McCullough</a></strong>"
+                },
+                {
+                  "id": "0a93bcaa-acb3-456b-9232-1b6984e12fe6",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/449aAvel8BI?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "8444d611-962a-4af5-8cae-b1b7841e7d51",
+              "type": "callout",
+              "html": "<strong><strong>The Growing Pains of the Sixth Generation (PlayStation 2, Xbox, and GameCube)</strong></strong>",
+              "icon": "🧒",
+              "children": [
+                {
+                  "id": "3894d06f-c449-4efd-b379-a4e339d813b8",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/GeekCritique\" target=\"_blank\" rel=\"noreferrer\"><strong>The Geek Critique</strong></a>"
+                },
+                {
+                  "id": "5667f4bb-b2c1-4b5e-a9de-b41064312159",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/OQMZCohr4W8?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0164f538-ff9d-43eb-aa49-993e886e94bb",
+          "type": "column",
+          "children": [
+            {
+              "id": "8c03d39a-6c31-4fc4-a3e7-c5cc9439b0b8",
+              "type": "callout",
+              "html": "<strong>Out of the MUD: The Origins of the MMORPG</strong>",
+              "icon": "⌨️",
+              "children": [
+                {
+                  "id": "fe650547-1655-4ecf-88dd-36d0727c3dc5",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC2pltGPtLBNk6Zym18G5eOQ\" target=\"_blank\" rel=\"noreferrer\"><strong>Maniax Channel</strong></a>"
+                },
+                {
+                  "id": "625e7ef1-1cb4-40fe-9299-14589d229332",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/JqC66POqhY4?start=11&feature=oembed&start=11",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "9f16d9bc-206f-4cd0-93b7-a90be9e28b75",
+              "type": "callout",
+              "html": "<strong>Game Curation | History of Video Games</strong>",
+              "icon": "⌨️",
+              "children": [
+                {
+                  "id": "1e586b49-9293-439a-acbb-7f4741eb1cc6",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/BitsBeats\" target=\"_blank\" rel=\"noreferrer\"><strong>Bits &amp; Beats</strong></a>"
+                },
+                {
+                  "id": "596db318-75b4-4788-b041-662a4adbd8f5",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "Game Curation | History of Video Games"
+                }
+              ]
+            },
+            {
+              "id": "8843647d-0b7a-4744-a65b-06e13d4c8506",
+              "type": "callout",
+              "html": "<strong>Games After The Crash</strong>",
+              "icon": "📉",
+              "children": [
+                {
+                  "id": "b9c82e58-449a-4f05-89c9-f4e39b62c37f",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCo8186mZYAY49flt6HkbqlQ\" target=\"_blank\" rel=\"noreferrer\"><strong>Leon Massey</strong></a>"
+                },
+                {
+                  "id": "49824cd9-3019-4279-b6a3-1a7bb2353a74",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/3k6vn-i32OU?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "499f12a3-98ec-458c-bc67-09904ecba11c",
+              "type": "callout",
+              "html": "",
+              "icon": "🧱",
+              "children": [
+                {
+                  "id": "009d39d5-49d5-4c6a-bcbb-f4f17eaea30a",
+                  "type": "paragraph",
+                  "html": "<strong>The most overused game graphic you never noticed | Texture Archaeology</strong>"
+                },
+                {
+                  "id": "1f7ba13f-75e3-4f80-bc02-6a77b8cc6cd1",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCwbeWInXAoxHQZSRi6AE7Bw\" target=\"_blank\" rel=\"noreferrer\"><strong>Kid Leaves Stoop</strong></a>"
+                },
+                {
+                  "id": "8263f61f-e87e-43cc-94c8-7fffd9465d50",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/bsCN0Yx2Vbs?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "6af9b9eb-9a1c-4426-a135-822ab716cb6c",
+              "type": "callout",
+              "html": "<strong>The Complete History of Twitch Plays Pokemon (pt 1) </strong>",
+              "icon": "🧱",
+              "children": [
+                {
+                  "id": "84006dd0-9920-4e1b-879c-1866fd7f65e6",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCiJOGHfcD-EjSmRRxJUQa-A\" target=\"_blank\" rel=\"noreferrer\"><strong>Schwam Games</strong></a>"
+                },
+                {
+                  "id": "bc96bc79-8675-4b63-8159-ce875795f7a8",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/9cHsVq6n5Vs?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "e2612beb-b405-4ce9-b1d2-fbb76e3486b9",
+              "type": "callout",
+              "html": "<strong>World Record Progression: Sonic Adventure 2 Battle</strong>",
+              "icon": "💨",
+              "children": [
+                {
+                  "id": "ea2361d2-97db-423b-837c-2aaadd141357",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w\" target=\"_blank\" rel=\"noreferrer\">Summoning Salt</a></strong>"
+                },
+                {
+                  "id": "1cf82685-a8bd-4183-add8-05c1dacb0d6b",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/vfFbui-9du8?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "5cbc0122-8074-4ef2-a79f-591e4346311c",
+                  "type": "page_link",
+                  "targetId": "5cbc0122-8074-4ef2-a79f-591e4346311c",
+                  "title": "World Record Progression: Sonic Adventure 2 Battle",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "f3d8e6b4-4d56-4e53-b888-aeb5fd992d22",
+              "type": "callout",
+              "html": "<strong><strong>Hacking Through the Decades</strong></strong>",
+              "icon": "💻",
+              "children": [
+                {
+                  "id": "3ad023d5-aeb1-44e1-a956-96bc09d8121e",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/c/Sumsubcom\" target=\"_blank\" rel=\"noreferrer\">Sumsub</a></strong>"
+                },
+                {
+                  "id": "b96ba551-c636-4409-adf9-bcd5603c174a",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/71kJnYzkpy4?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "c5dd1e7b-816e-498d-a9d5-d3e00cbe71d7",
+              "type": "callout",
+              "html": "<strong>The National Videogame Museum</strong>",
+              "icon": "🖼️",
+              "children": [
+                {
+                  "id": "e7b9e554-aef1-4052-8e1d-5be1244de42a",
+                  "type": "paragraph",
+                  "html": "by<strong> </strong><strong><a href=\"https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg\" target=\"_blank\" rel=\"noreferrer\">Gaming Historian</a></strong>"
+                },
+                {
+                  "id": "5d43bdb1-1514-4952-86f6-00f66a952ebc",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/Le_aHIOZZNQ?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "b4964f72-ebd2-4a12-9126-c3fc6874ac1c",
+              "type": "callout",
+              "html": "<strong><strong>RenderWare: The Engine that Powered an Era</strong></strong>",
+              "icon": "🚂",
+              "children": [
+                {
+                  "id": "77b75ed8-63c5-41df-8e9c-e7af006e775c",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/user/trioptimumuk\" target=\"_blank\" rel=\"noreferrer\"><strong>Retrohistories</strong></a>"
+                },
+                {
+                  "id": "afbf3284-2ccb-428c-8ffd-1904d7e8d0e1",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/FKpDFIWK1DI?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e51098b-3015-447b-94ef-c58b93531773",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "6f6d1436-269b-4098-8899-5e94e7e7133d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a538e543-f0b7-43b1-bb9e-b315ea376365",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "36b6d92b-7edc-4b6f-b3a9-33941c2d2ad1",
+      "type": "paragraph",
+      "html": "<a href=\"#/video-essays-and-lectures\"><u>☜back</u></a>"
+    },
+    {
+      "id": "a1c45771-d95d-4dbb-abf0-d214666ddf0b",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

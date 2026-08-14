@@ -1,0 +1,109 @@
+{
+  "id": "7f906de6-0d9e-4664-aac2-d2dbf9c93df9",
+  "slug": "short-stories",
+  "title": "Short Stories",
+  "icon": "📔",
+  "cover": "",
+  "type": "page",
+  "parentId": "98d38168-e6bd-4ee0-9555-bbeec0775a2c",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/7f906de60d9e4664aac2d2dbf9c93df9",
+  "createdTime": 1704901928536,
+  "lastEditedTime": 1704903187842,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Short Stories"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "ebec6a76-7477-440d-958b-a5acf4d1cdf7",
+      "type": "header",
+      "html": "   Short Stories",
+      "anchorId": "short-stories"
+    },
+    {
+      "id": "e8fc2e57-b63a-4589-8a79-19513b4fbe5a",
+      "type": "paragraph",
+      "html": "       <em>collected paidiosophical short stories</em>"
+    },
+    {
+      "id": "dd29aa62-9484-49e9-9d01-41411c91b166",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fbcbc8cb-695a-4dc3-be81-45580885d45c",
+          "type": "column",
+          "children": [
+            {
+              "id": "22100a32-d0a5-473b-bd98-872e4c1c26be",
+              "type": "synced_block",
+              "sourceBlockId": "98d38168-e6bd-4ee0-9555-bbeec0775a2c",
+              "children": [
+                {
+                  "id": "ecb76705-f087-4b51-b5e4-59c053d54e97",
+                  "type": "page_link",
+                  "targetId": "ecb76705-f087-4b51-b5e4-59c053d54e97",
+                  "title": "Essays, Articles, & Blogposts",
+                  "notionType": "page"
+                },
+                {
+                  "id": "19ddf125-7306-433b-a4d4-e7c6454b89c6",
+                  "type": "page_link",
+                  "targetId": "19ddf125-7306-433b-a4d4-e7c6454b89c6",
+                  "title": "Poetry",
+                  "notionType": "page"
+                },
+                {
+                  "id": "7f906de6-0d9e-4664-aac2-d2dbf9c93df9",
+                  "type": "page_link",
+                  "targetId": "7f906de6-0d9e-4664-aac2-d2dbf9c93df9",
+                  "title": "Short Stories",
+                  "notionType": "page"
+                },
+                {
+                  "id": "3c174425-17e0-4b70-9451-80723e8cdeda",
+                  "type": "paragraph",
+                  "html": "<em>see also:</em>"
+                },
+                {
+                  "id": "cbbf2caa-7b65-490d-bc94-7a391b056585",
+                  "type": "alias_link",
+                  "targetId": "75a1e79b-ed9e-4d42-937f-ccc677935674",
+                  "title": "Linked page"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "df05b227-40ab-4de8-bb18-eed6da9a5bb7",
+          "type": "column",
+          "children": [
+            {
+              "id": "454861e1-5e52-4d82-bea5-ac43c738ce2e",
+              "type": "collection_view",
+              "collectionId": "083abd51-9346-42aa-9e32-f0a0b84d7e82",
+              "viewIds": [
+                "f75849f8-26eb-4f02-9215-80160b5e947d"
+              ],
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

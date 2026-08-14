@@ -1,0 +1,131 @@
+{
+  "id": "cb6e7902-d3f5-45f4-867c-e9a70f1b9d9e",
+  "slug": "fearful-symmetry",
+  "title": "Fearful Symmetry",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Fearful-Symmetry-cb6e7902d3f545f4867ce9a70f1b9d9e?pvs=21",
+  "createdTime": 1667489823752,
+  "lastEditedTime": 1681312631986,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Fearful Symmetry",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7c2014be85d4.webp",
+  "blocks": [
+    {
+      "id": "82e40df1-b3ea-444b-a959-63780ae3e135",
+      "type": "divider"
+    },
+    {
+      "id": "03abd57f-fac1-4cd7-9bdb-7749647a72bd",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ed48bbb9-78ea-4958-b784-07f3d0a597b5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f6119074-c37f-4256-8119-a2b6cb9e0142",
+          "type": "column",
+          "children": [
+            {
+              "id": "d50f8f7e-7414-420f-afb0-84867eec41db",
+              "type": "paragraph",
+              "html": "<em><strong>Fearful Symmetry: A Study of William Blake </strong></em>was written by Northrop Frye, originally published by Princeton University Press, March 21, 1947<em><strong>.</strong></em>"
+            },
+            {
+              "id": "3ed713fa-1083-4dbf-9ed3-b2b198f18026",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1b7a25c7-b756-403c-a5c8-65da3e3f9e3b",
+              "type": "quote",
+              "html": "<em>This brilliant outline of Blake's thought and commentary on his poetry comes on the crest of the current interest in Blake, and carries us further towards an understanding of his work than any previous study. Here is a dear and complete solution to the riddles of the longer poems, the so-called &quot;Prophecies,&quot; and a demonstration of Blake's insight that will amaze the modern reader. The first section of the book shows how Blake arrived at a theory of knowledge that was also, for him, a theory of religion, of human life and of art, and how this rigorously defined system of ideas found expression in the complicated but consistent symbolism of his poetry. The second and third parts, after indicating the relation of Blake to English literature and the intellectual atmosphere of his own time, explain the meaning of Blake's poems and the significance of their characters.</em>"
+            },
+            {
+              "id": "217247dd-575b-4f62-99ed-aacda2ed39c2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8701f2bc-dd78-4033-907f-a26e4c8cbc85",
+          "type": "column",
+          "children": [
+            {
+              "id": "334db29a-ccc7-4749-ab38-886123c327e7",
+              "type": "image",
+              "src": "./assets/images/untitled-7c2014be85d4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8569d08-7d52-46af-ba5f-2eb09d2fc9f0",
+      "type": "divider"
+    },
+    {
+      "id": "3cb8658c-e0f1-41a6-8724-42c15046a883",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4136c46a-342f-4488-b48b-9ef4f821d7e0",
+          "type": "column",
+          "children": [
+            {
+              "id": "431aaf00-6e2d-4130-b2e5-7b70e5cada0d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "40bf180b-febc-48f7-ba2b-2cdb6fc0065a",
+          "type": "column",
+          "children": [
+            {
+              "id": "2b3f4dab-a632-4555-94f6-a411748b1333",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3U4IOsZ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75447d6f-1f3a-4a92-934d-91f4bdee1900",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "86f5ae50-46e2-4976-a927-babfcaa7d7eb",
+  "slug": "video-games-around-the-world",
+  "title": "Video Games Around the World",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Video-Games-Around-the-World-86f5ae5046e24976a927babfcaa7d7eb?pvs=21",
+  "createdTime": 1651688836274,
+  "lastEditedTime": 1681313920325,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Video Games Around the World"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d1b2e134bfb6.webp",
+  "blocks": [
+    {
+      "id": "0c253ff2-1775-4c7a-824f-0242c122dbd2",
+      "type": "divider"
+    },
+    {
+      "id": "f8adfa19-4cf8-476d-a129-2d3b5ac2dcba",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "093d8883-314b-47c7-a209-062ef43a6189",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bab787a9-06d3-4539-ad04-12bca4158873",
+          "type": "column",
+          "children": [
+            {
+              "id": "b2a7ce18-dec0-45b2-9770-e17a644a78ec",
+              "type": "paragraph",
+              "html": "<em><strong>Video Games Around the World</strong></em> is a collection of essays edited by Mark J. P. Wolf, published by The MIT Press, May 1, 2015."
+            },
+            {
+              "id": "6bcca82f-9996-4427-8125-099b386ad01b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "85bb3e18-3cf1-45b0-8566-cb37e83f8470",
+              "type": "quote",
+              "html": "<strong><em>Thirty-nine essays explore the vast diversity of video game history and culture across all the world's continents.<br></em></strong><em><br>Video games have become a global industry, and their history spans dozens of national industries where foreign imports compete with domestic productions, legitimate industry contends with piracy, and national identity faces the global marketplace. This volume describes video game history and culture across every continent, with essays covering areas as disparate and far-flung as Argentina and Thailand, Hungary and Indonesia, Iran and Ireland. Most of the essays are written by natives of the countries they discuss, many of them game designers and founders of game companies, offering distinctively firsthand perspectives. Some of these national histories appear for the first time in English, and some for the first time in any language.<br><br>Readers will learn, for example, about the rapid growth of mobile games in Africa; how a meat-packing company held the rights to import the Atari VCS 2600 into Mexico; and how the Indonesian MMORPG Nusantara Online reflects that country's cultural history and folklore. Every country or region's unique conditions provide the context that shapes its national industry; for example, the long history of computer science in the United Kingdom and Scandinavia, the problems of piracy in China, the PC Bangs of South Korea, or the Dutch industry's emphasis on serious games. As these essays demonstrate, local innovation and diversification thrive alongside productions and corporations with global aspirations.</em>"
+            },
+            {
+              "id": "9a3fc9b4-d81a-4e23-a18c-fb6b7d12e3ae",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "1d90be05-770d-4f7c-8be6-ec1995a0eabf",
+          "type": "column",
+          "children": [
+            {
+              "id": "ca867d46-0873-4cb1-8361-ccabbfd66a0c",
+              "type": "image",
+              "src": "./assets/images/untitled-d1b2e134bfb6.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "165d9ee0-dbb1-4498-9d83-4fb3a4f4cf55",
+      "type": "divider"
+    },
+    {
+      "id": "b41dc72c-f9fc-4703-b37e-ef56f9cbb9dc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d691581a-5428-4214-80b2-3c1c39583baa",
+          "type": "column",
+          "children": [
+            {
+              "id": "9b4c53e1-e8c3-4ae1-91b3-cf3922735003",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cd683618-e8ca-4581-8ff6-4fc9c0ec847f",
+          "type": "column",
+          "children": [
+            {
+              "id": "09744c4e-53e0-4f26-8f51-2ed329dd3bc3",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3h6eWxS\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16bdc2f9-7e56-49d2-87b7-8f4fa1a20411",
+      "type": "divider"
+    }
+  ]
+}

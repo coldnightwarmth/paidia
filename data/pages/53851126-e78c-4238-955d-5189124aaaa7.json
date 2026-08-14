@@ -1,0 +1,136 @@
+{
+  "id": "53851126-e78c-4238-955d-5189124aaaa7",
+  "slug": "planet-cosplay",
+  "title": "Planet Cosplay",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Planet-Cosplay-53851126e78c4238955d5189124aaaa7?pvs=21",
+  "createdTime": 1671477742330,
+  "lastEditedTime": 1681312225526,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Planet Cosplay",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1866c54c105c.webp",
+  "blocks": [
+    {
+      "id": "376759ec-5949-4a97-9f5a-7b69caacd2bd",
+      "type": "divider"
+    },
+    {
+      "id": "d13cd090-bdf9-470d-bdd3-0443cbc7f3e8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "161dcea5-1ddf-4d90-b9d7-c6e53786d377",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9ad8499e-2a17-4d8f-97be-11b73669d7f0",
+          "type": "column",
+          "children": [
+            {
+              "id": "7767927d-b5a4-4207-88f1-ec03eccbeafb",
+              "type": "paragraph",
+              "html": "<em><strong>Planet Cosplay: Costume Play, Identity &amp; Global Fandom</strong></em> was written by Paul Mountfort, Adam Geczy, &amp; Anne Peirson-Smith, published by Intellect Ltd., April 15, 2019."
+            },
+            {
+              "id": "73ac6c0a-937a-4054-a8bb-6beada254022",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1daf749d-3f1a-48df-920c-134c6438fb41",
+              "type": "quote",
+              "html": "<em>This book examines cosplay from a set of ground-breaking disciplinary approaches, highlighting the latest and emerging discourses around this popular cultural practice. </em>Planet Cosplay <em>is authored by widely-published scholars in this field, examining the central aspects of cosplay ranging from sources and sites to performance and play, from sex and gender to production and consumption. Topics discussed include the rise of cosplay as a cultural phenomenon and its role in personal, cultural, and global identities. </em>Planet Cosplay <em>provides a unique, multifaceted examination of the practice from theoretical bases including popular cultural studies, performance studies, gender studies, and transmedia studies. As the title suggests, the book’s purview is global, encompassing some of the main centers of cosplay throughout the United States, Asia, Europe and Australasia. Each of the chapters offers not only a set of entry points into its subject matter, but also a narrative of the development of cosplay and scholarly approaches to it.</em>"
+            },
+            {
+              "id": "fdcfdb8a-03f2-4d1c-a82e-18ac7932ad7a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "de7456c8-0095-4ccc-a804-bd24fbcb1f70",
+          "type": "column",
+          "children": [
+            {
+              "id": "df071b5f-463c-4cc0-bc69-6d69ce8dc511",
+              "type": "image",
+              "src": "./assets/images/untitled-1866c54c105c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c7b6a54-bd12-4970-8d4e-5f22eebec8f3",
+      "type": "divider"
+    },
+    {
+      "id": "21e215f9-2aa4-4ebd-a4e8-ece56f807622",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dee4f4c0-3fb3-4e18-a758-c3ed3798e35d",
+          "type": "column",
+          "children": [
+            {
+              "id": "e121c767-6409-4087-b0b9-9e7972ca0947",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d3924e13-8e24-4c93-98d6-bc8bb9581961",
+          "type": "column",
+          "children": [
+            {
+              "id": "bb17ebe6-89b8-407e-981d-e4f8abeb2752",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Planet-Cosplay-Costume-Identity-Global/dp/1783209569/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7b4c4b9-098e-41c3-aeb8-de24a1016e06",
+      "type": "divider"
+    },
+    {
+      "id": "5839e7a7-c32a-4423-b4c6-da6c328ec0ba",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

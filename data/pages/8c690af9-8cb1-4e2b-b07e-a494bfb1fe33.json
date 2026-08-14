@@ -1,0 +1,131 @@
+{
+  "id": "8c690af9-8cb1-4e2b-b07e-a494bfb1fe33",
+  "slug": "press-reset",
+  "title": "Press Reset",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/8c690af98cb14e2bb07ea494bfb1fe33",
+  "createdTime": 1653078088349,
+  "lastEditedTime": 1681313855786,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Press Reset",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-54e028fb4702.webp",
+  "blocks": [
+    {
+      "id": "792969b3-bcc1-4230-9b5a-58782e93d5f7",
+      "type": "divider"
+    },
+    {
+      "id": "8297aa63-4444-45c8-b8a6-b97689ec31c7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8275b2a9-c808-4b83-a7b3-f3a9176107a0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "020ac0ac-44a8-4f49-b8a6-03782760143e",
+          "type": "column",
+          "children": [
+            {
+              "id": "3121f8e1-c683-4308-a165-c15ecf6ac4b7",
+              "type": "paragraph",
+              "html": "<em><strong>Press Reset: Ruin &amp; Recovery in the Video Game Industry</strong></em><strong> </strong>was written by Jason Schreier, published by Grand Central Publishing, May 11, 2021."
+            },
+            {
+              "id": "15d7c357-6241-48d6-928f-9a70dc4074c0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "18279d4c-6f2b-4c02-b2d0-d1328b1d0337",
+              "type": "quote",
+              "html": "<em>The business of videogames is both a prestige industry and an opaque one. Based on dozens of first-hand interviews that cover the development of landmark games—</em>Bioshock Infinite, Epic Mickey, Dead Space<em>, and more—on to the shocking closures of the studios that made them, </em>Press Reset<em> tells the stories of how real people are affected by game studio shutdowns, and how they recover, move on, or escape the industry entirely.<br><br>Schreier's insider interviews cover hostile takeovers, abusive bosses, corporate drama, bounced checks, and that one time the Boston Red Sox's Curt Schilling decided he was going to lead a game studio that would take out World of Warcraft. Along the way, he asks pressing questions about why, when the video game industry is more successful than ever, it's become so hard to make a stable living making video games—and whether the business of making games can change before it's too late.</em>"
+            }
+          ]
+        },
+        {
+          "id": "2cea500d-02d4-4e0e-8067-b3a00459e9a5",
+          "type": "column",
+          "children": [
+            {
+              "id": "871dfa05-a6dc-4e0b-9a54-4189b15005fb",
+              "type": "image",
+              "src": "./assets/images/untitled-54e028fb4702.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f823759-bb58-4bb3-88a5-0a312f492f31",
+      "type": "divider"
+    },
+    {
+      "id": "b78fcde9-90ab-4951-924f-a84eb315daa7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4ec7b6ff-b877-430c-b329-5eea4ad4bcef",
+          "type": "column",
+          "children": [
+            {
+              "id": "6a6f9422-12e8-4617-92b4-9ad92c0653b6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ead0e4bf-c555-48dd-96c3-6cc3bdfedba1",
+          "type": "column",
+          "children": [
+            {
+              "id": "bc3c5794-4b9f-4372-ac62-5f6bb12e962b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3wKif2Y\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "713c6106-e272-43cc-815f-994dd1722fd1",
+      "type": "divider"
+    },
+    {
+      "id": "2b8bd191-ddb2-475c-ad29-bc4254798d55",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

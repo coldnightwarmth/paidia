@@ -1,0 +1,146 @@
+{
+  "id": "f4bdf3b0-6ba2-413b-ae51-487f03c0b78f",
+  "slug": "life-is-a-game",
+  "title": "Life Is a Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "16515e7c-ec2f-4d98-9fec-861099f13e9d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/f4bdf3b06ba2413bae51487f03c0b78f",
+  "createdTime": 1666026707893,
+  "lastEditedTime": 1681312888498,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Life Is a Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5f95e1f2d561.webp",
+  "blocks": [
+    {
+      "id": "903ab462-6843-43c3-bad6-e9e8826b3bf3",
+      "type": "divider"
+    },
+    {
+      "id": "e6ac0197-6f86-47b1-917d-84d424a7055a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "12b266fa-2233-4268-a337-a5899fa5204c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "321583f2-cf79-4e40-8348-b28189875c26",
+          "type": "column",
+          "children": [
+            {
+              "id": "872aec89-3f80-4685-8f7e-b5d1c208dc4b",
+              "type": "paragraph",
+              "html": "<em><strong>Life Is a Game: What Game Design Says about the Human Condition</strong></em> was written by Edward Castronova, published by Bloomsbury Academic, September 17, 2020."
+            },
+            {
+              "id": "dd6e20b6-1311-4af7-a66b-f92b574f1e7b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0fa103bf-c0a1-4bc7-b8bc-d4e626b09429",
+              "type": "quote",
+              "html": "<strong><em>What if life is a game? Are you winning? Have you even decided what 'winning' is?</em></strong><em><br><br>Game design could be defined in many ways, but here the term is used to denote the practice of creating choices. Designing a game, in this sense, involves crafting limits, rewards, incentives, and risks in such a way that the person who interacts with the game – the player – makes choices that have consequences.<br><br>Edward Castronova urges readers to think about the fundamentals of the human condition and compare them to different games that we all know. In some ways, life is like an idle game: providing unchallenging distractions that fit easily into a person's daily routine. In other ways, life is like the game </em>Minesweeper<em>: You poke in different places to learn about what you don't know, taking care to avoid big explosions. Or, life is like a role-playing game: You adopt a persona and speak your part, always seeking adventure.<br><br>Bringing together questions relating to diverse fields – such as politics, economics, sociology and philosophy - Castronova persuades readers to broaden the scope of game design to answer questions about life's everyday obstacles. The object of this book is to take seriously the idea that life is a game. The goal is not to make readers wealthier or healthier. Its goal is to go on a journey into the human condition, with game design as a guide.</em>"
+            },
+            {
+              "id": "1c0ab5c5-bf84-4f6f-a582-f27f63efc7bc",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "82b68cad-ddc5-4d07-b443-2e8fdb80e627",
+          "type": "column",
+          "children": [
+            {
+              "id": "e0d0a6ae-e860-4f6f-b1f7-ab7d1dffc876",
+              "type": "image",
+              "src": "./assets/images/untitled-5f95e1f2d561.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9fdb5514-3a08-48b1-91e6-b39aa7ca4f5b",
+      "type": "divider"
+    },
+    {
+      "id": "eee3de7a-61ea-4e49-8955-5579fe2467dd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f2faa996-561a-4126-82b4-0414220b45fd",
+          "type": "column",
+          "children": [
+            {
+              "id": "64f17c16-0928-4e4d-bf53-a2bc50a54087",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "77800e2d-627f-4378-b2a5-93d134ed6699",
+          "type": "column",
+          "children": [
+            {
+              "id": "4164ae3e-7480-44cb-b5e2-240e3695d557",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3CHP8iL\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5ce679e-6c4b-43b3-bdc5-c5ddefd305ae",
+      "type": "divider"
+    },
+    {
+      "id": "ed3fbdab-f3d5-4a0d-b6df-0d42b775939b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c10de8ab-ac09-4b6b-9f66-b7f8d0d8df3e",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "1acf0e60-db51-4d5e-b799-4344b34b2493",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

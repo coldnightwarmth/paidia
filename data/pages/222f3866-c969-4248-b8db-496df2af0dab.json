@@ -1,0 +1,121 @@
+{
+  "id": "222f3866-c969-4248-b8db-496df2af0dab",
+  "slug": "the-play-of-the-world",
+  "title": "The Play of the World",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Play-of-the-World-222f3866c9694248b8db496df2af0dab?pvs=21",
+  "createdTime": 1651868592368,
+  "lastEditedTime": 1681314285454,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Play of the World",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-994445ffb622.webp",
+  "blocks": [
+    {
+      "id": "c8c6bc0f-2f62-40cc-9e1b-54d816e5bc8b",
+      "type": "divider"
+    },
+    {
+      "id": "1fd0a8bf-13ec-43c8-87a0-9b57d1e1aceb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "453dfcf1-335e-46b7-8801-ebb07a547727",
+          "type": "column",
+          "children": [
+            {
+              "id": "893e4f5f-9dfd-4897-a921-8543d2897079",
+              "type": "paragraph",
+              "html": "<em><strong>The Play of the World</strong></em> was written by James S. Hans, published by University of Massachusetts Press, July 1, 1981."
+            },
+            {
+              "id": "6c23b4b3-1e8a-4713-8490-8b4369f39601",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a73c2789-6e20-4d91-b756-7a03ec42fd30",
+          "type": "column",
+          "children": [
+            {
+              "id": "5a99013f-620d-4913-8c7e-cb3ac6cd7486",
+              "type": "image",
+              "src": "./assets/images/untitled-994445ffb622.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1cc498c4-809b-4534-b4a6-947172b393e2",
+      "type": "divider"
+    },
+    {
+      "id": "c0524aea-9587-4152-82e9-3f53641facfe",
+      "type": "columns",
+      "children": [
+        {
+          "id": "017c5a29-1851-48dc-a4f6-9caf6775cc96",
+          "type": "column",
+          "children": [
+            {
+              "id": "b73cfb65-a19f-42cb-989e-e24b9a953c98",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ebdfb9b7-768b-45e2-8fa3-629a0aeb1874",
+          "type": "column",
+          "children": [
+            {
+              "id": "7f9ab200-e0d9-4b8e-b165-e2d40143dbc7",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sssJl6\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93147df8-ef8e-40a1-90f2-799c408a37ea",
+      "type": "divider"
+    },
+    {
+      "id": "62ef4881-509c-4400-8409-0d9644ec1da8",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

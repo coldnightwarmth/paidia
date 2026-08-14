@@ -1,0 +1,292 @@
+{
+  "id": "adf5d0c8-48bc-4195-afb0-957fbc57db51",
+  "name": "Video & Motion Graphics",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "0c0f87b0-2628-41e4-928f-7330b720560c",
+          "value": "Free",
+          "color": "pink"
+        },
+        {
+          "id": "df74c5b3-8ce6-4478-8c31-81af37746e0a",
+          "value": "Premium",
+          "color": "blue"
+        },
+        {
+          "id": "c5c2d104-9b11-4c2c-9a2b-d6c9ff72d21f",
+          "value": "Streaming",
+          "color": "purple"
+        },
+        {
+          "id": "4f011d96-51f8-4526-8c86-e6bd290d58ba",
+          "value": "Video Editing",
+          "color": "orange"
+        },
+        {
+          "id": "feca8314-cef1-4b74-88fe-3d8f7898d1d0",
+          "value": "Animation",
+          "color": "red"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "e8636a44-1907-48d7-8cca-459f97073890",
+      "collectionId": "adf5d0c8-48bc-4195-afb0-957fbc57db51",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "11ea12c7-6a62-4944-b33c-91f5fcf5ab67",
+        "ec6df2a5-46e9-4120-9f3b-ba26aa36e71d",
+        "6b75c44f-3c16-479b-a71f-15d0cc31bb0e",
+        "781bc5d0-8c96-4a98-8016-379ac911ef53",
+        "ce3626ab-3a99-40b5-b2c6-770431794e0e",
+        "ca99a575-027c-4fc7-978c-57bacae091ab",
+        "43f05345-6426-4c83-91a3-71e70eaec8ca",
+        "6c809df3-2774-41f3-b57d-ea95b4f2a924",
+        "194ce623-ca42-4e75-a1ec-6a726c9b061f"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "fab5e08f-29d2-4c6e-8807-a91e7fe8ad4c",
+      "collectionId": "adf5d0c8-48bc-4195-afb0-957fbc57db51",
+      "type": "gallery",
+      "name": "Free",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "0a50a74b-1343-47ce-a1e4-ebb4e1d8c72c",
+      "collectionId": "adf5d0c8-48bc-4195-afb0-957fbc57db51",
+      "type": "gallery",
+      "name": "Premium",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "93c234ac-99e7-4810-ae00-32c8f930a882",
+      "collectionId": "adf5d0c8-48bc-4195-afb0-957fbc57db51",
+      "type": "gallery",
+      "name": "Streaming",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "ab849726-ef16-45cc-aae9-c65c8a945b45",
+      "collectionId": "adf5d0c8-48bc-4195-afb0-957fbc57db51",
+      "type": "gallery",
+      "name": "Video Editing",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "7704be05-2188-4e30-8274-cae02aca1ff7",
+      "collectionId": "adf5d0c8-48bc-4195-afb0-957fbc57db51",
+      "type": "gallery",
+      "name": "Animation",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

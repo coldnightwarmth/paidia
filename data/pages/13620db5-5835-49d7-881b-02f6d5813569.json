@@ -1,0 +1,126 @@
+{
+  "id": "13620db5-5835-49d7-881b-02f6d5813569",
+  "slug": "playthings-in-early-modernity",
+  "title": "Playthings in Early Modernity",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Playthings-in-Early-Modernity-13620db5583549d7881b02f6d5813569?pvs=21",
+  "createdTime": 1668450485201,
+  "lastEditedTime": 1681312528605,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playthings in Early Modernity",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8c388a4634c9.webp",
+  "blocks": [
+    {
+      "id": "b0b1d116-bb4d-4bfa-b404-4778c32cfc05",
+      "type": "divider"
+    },
+    {
+      "id": "142f2351-a1c0-49ee-a160-c6e7a0ba111c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2d635e19-46e8-4fd6-9fb1-9263b30eccd9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b1d9466d-a321-404f-a09a-224a6770bbe9",
+          "type": "column",
+          "children": [
+            {
+              "id": "a6130101-ac1d-46d7-8d86-0832c1982244",
+              "type": "paragraph",
+              "html": "<em><strong>Playthings in Early Modernity: Party Games, Word Games, Mind Games </strong></em>is a collection of essays written by Allison Levy, published by Medieval Institute Publications, February 22, 2017."
+            },
+            {
+              "id": "1086b1d1-8d37-48b4-9cc4-67c442f1666f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "33a043da-b9d6-4634-ba62-842e6aa0c0d3",
+              "type": "quote",
+              "html": "<em>An innovative volume of fifteen interdisciplinary essays at the nexus of material culture, performance studies, and game theory, </em>Playthings in Early Modernity <em>emphasizes the rules of the game(s) as well as the breaking of those rules. Thus, the titular &quot;&quot;plaything&quot;&quot; is understood as both an object and a person, and play, in the early modern world, is treated not merely as a pastime, a leisurely pursuit, but as a pivotal part of daily life, a strategic psychosocial endeavor.</em>"
+            }
+          ]
+        },
+        {
+          "id": "e1871233-ea39-453e-817d-bb89af1ad35b",
+          "type": "column",
+          "children": [
+            {
+              "id": "7f1fddf8-8414-4a93-b13e-4ba88714252a",
+              "type": "image",
+              "src": "./assets/images/untitled-8c388a4634c9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f691d960-6e79-458f-b3fc-6ad0eeb3f130",
+      "type": "divider"
+    },
+    {
+      "id": "2dbd879f-8611-466a-b931-b955ee0638be",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0ff03e8f-a52b-45fb-b31c-cc8cd27fbee9",
+          "type": "column",
+          "children": [
+            {
+              "id": "f0f8713b-5bd3-418a-9ab4-ec9443c2c373",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "32bd64ae-aeab-4132-a92a-f6e00f793a1d",
+          "type": "column",
+          "children": [
+            {
+              "id": "6dc79726-24db-42bf-b429-dbb963eeeef3",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Playthings-Early-Modernity-Cultures-1100-1700/dp/1580442609/ref=sr_1_11?crid=1XJEWXO1M0ZRQ&amp;keywords=Ludics&amp;qid=1667234891&amp;qu=eyJxc2MiOiIzLjAyIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=ludics%2Cstripbooks%2C93&amp;sr=1-11&amp;ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "420145d2-2cde-40dc-a5a4-b20c64829098",
+      "type": "divider"
+    }
+  ]
+}

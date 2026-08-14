@@ -1,0 +1,114 @@
+{
+  "id": "eac32274-7911-40e2-a025-f443a024faf3",
+  "name": "Online Courses",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "bdb69f31-bbec-427b-9783-3acb0d958819",
+          "value": "Premium",
+          "color": "orange"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "f9504687-40fe-450f-a5e0-1957293c7af4",
+      "collectionId": "eac32274-7911-40e2-a025-f443a024faf3",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "0d673e60-1c3d-42a2-b3e0-d3a919a34c07",
+        "fad01ab7-6863-4b48-a996-ab555eb0c96b",
+        "128a392e-f6a1-4763-91de-b3823ad2671f",
+        "4b3c7ba9-daa0-4159-88dc-ee5e46952f42",
+        "f94e9923-2e91-4b1f-964c-9daeb2df2ae2",
+        "b06e1d8d-e6af-4117-bf43-0ff0b4ce4602",
+        "1d0c05cb-f29b-406a-8f5e-6e1276b70517",
+        "faed6435-a91f-4012-8c19-10f9d1ce4d3f",
+        "9fe3c80f-5b76-4f2a-ace7-9ba48f4dca75",
+        "6fa53f65-306d-4e7e-96aa-263159df2b81",
+        "a574a48f-55ae-4bb2-999b-19b8a45e0904",
+        "00797995-291c-4942-86ee-c134fd8e3a27",
+        "fe94f346-a8a0-4152-a0bd-6f44b93d3fab",
+        "5f4505a7-12a7-4241-8e6e-a48322566244",
+        "50e3823e-10d2-4210-bd61-d8ded3da6311",
+        "37c92792-cd7f-4f63-b7bd-635e1908a6c5"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    }
+  ],
+  "rows": []
+}

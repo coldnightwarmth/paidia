@@ -1,0 +1,137 @@
+{
+  "id": "a7805023-1d35-42dd-adbd-08aea5292c15",
+  "slug": "pawn-to-infinity",
+  "title": "Pawn to Infinity",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Pawn-to-Infinity-a78050231d3542ddadbd08aea5292c15?pvs=21",
+  "createdTime": 1662138599655,
+  "lastEditedTime": 1681313012232,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Pawn to Infinity",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b1d504516acd.webp",
+  "blocks": [
+    {
+      "id": "355a4684-d20a-4c7c-aa42-293b909b40e3",
+      "type": "divider"
+    },
+    {
+      "id": "278a6fa1-28b1-4602-bba1-4e22fd05b19f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d329a58d-4a67-4f30-94bb-4f297928e361",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0d79f592-16d7-48b2-b098-710da5eedd0c",
+          "type": "column",
+          "children": [
+            {
+              "id": "27de6b61-5334-4bab-8621-f079792479ba",
+              "type": "paragraph",
+              "html": "<em><strong>Pawn to Infinity </strong></em>is a collection of short stories, edited by Fred Saberhagen, published by Ace, June 1, 1982."
+            },
+            {
+              "id": "60df02e9-dec5-4b6e-ab5b-bf6bd9a5f0f4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ff3efc4e-1df1-46e4-8184-44fef46bbb2d",
+              "type": "quote",
+              "html": "<em>Selection of stories from the finest writers of science fiction, all of whom understand how both glory and tragedy can be outlined on a checker board.</em>"
+            }
+          ]
+        },
+        {
+          "id": "2abcbedf-fcfd-40d7-89f8-579ce23e7263",
+          "type": "column",
+          "children": [
+            {
+              "id": "37c849b0-4318-4cbc-9a49-1fc4e86f8a3a",
+              "type": "image",
+              "src": "./assets/images/untitled-b1d504516acd.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "677ba492-ce45-4edb-a42d-c3a374859f22",
+      "type": "divider"
+    },
+    {
+      "id": "ce0604a0-8d0c-44bf-a5e2-67523617b5ec",
+      "type": "columns",
+      "children": [
+        {
+          "id": "85a34748-bf0d-4147-a3eb-d4e11592cf5a",
+          "type": "column",
+          "children": [
+            {
+              "id": "e10ce1fc-e810-4fe7-8199-ce64b1ecf0dd",
+              "type": "callout",
+              "html": "",
+              "icon": "📚",
+              "children": [
+                {
+                  "id": "016bff64-20dd-4a81-9577-3cf7eed5b514",
+                  "type": "paragraph",
+                  "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2e705fc-93f2-4dfa-a943-8d78f191dd72",
+          "type": "column",
+          "children": [
+            {
+              "id": "d404889d-8a59-4d5a-b8a6-288232b32dda",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3qc2i1m\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d229d0e-210a-4418-9ed6-c6ae7f155c15",
+      "type": "divider"
+    },
+    {
+      "id": "29ad4c40-7f43-4b91-bd99-865ef24fb11c",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "75fd6398-8266-4ce1-b9b7-9e8416cc38f6",
+  "slug": "post-olympism",
+  "title": "Post-Olympism",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Post-Olympism-75fd639882664ce1b9b79e8416cc38f6?pvs=21",
+  "createdTime": 1652119831716,
+  "lastEditedTime": 1681313984853,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Post-Olympism",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-731de21e4868.webp",
+  "blocks": [
+    {
+      "id": "ae601cc9-d4a6-4987-9a3b-98d3299601c1",
+      "type": "divider"
+    },
+    {
+      "id": "88a2ed84-eb62-4d9c-a8b4-ff244ef98529",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9b44e832-e2d3-4660-ae2f-fe28bda08adb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c1dbb700-dd02-4dc4-91e9-d1a433381cc8",
+          "type": "column",
+          "children": [
+            {
+              "id": "11ff0f27-2ad2-4eb2-975a-4a4ac134df31",
+              "type": "paragraph",
+              "html": "<em><strong>Post-Olympism</strong></em> is a collection of essays edited by John Bale &amp; Mette Krogh Christensen, published by Routledge, June 30, 2020."
+            },
+            {
+              "id": "c496a508-e44e-41fc-9c7e-120ad8f9830c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e0030356-6c53-4f22-8b97-1c3d9c6c4404",
+              "type": "quote",
+              "html": "<em>The Olympic ideal and the Olympic Games stand as symbols of global cooperation, international understanding and the bonding of individuals through the medium of sports. However, throughout the twentieth century, Olympic rhetoric was often confronted by a different reality. The Games have regularly been faced by crises that have threatened the spirit of Olympism and even the Games themselves. Given the many changes that have occurred in the Olympic Games during the past century it seems reasonable to ask if this global event has a future and, if so, what form it might take. With this larger issue in mind, the authors of </em>Post-Olympism<em>? ask probing questions about the following: the infamous 1936 Olympics the effect of new technologies on the Games the future impact of the 2008 Beijing Games on China and of China on the Olympics the local and regional impact of the Sydney green Olympics the Games and globalization Disneyfication racism drug abuse The book provides a useful overview of the ongoing significance of the Olympics and will be essential reading for anyone with a serious interest in the Games.</em>"
+            },
+            {
+              "id": "f46e2300-f9fd-4bfd-865d-5f597fa9237f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fb7ae5f9-ac1d-4bdd-8cbf-5fe6c30d9814",
+          "type": "column",
+          "children": [
+            {
+              "id": "faa4527c-8569-4144-95f5-a2243ffd9e1b",
+              "type": "image",
+              "src": "./assets/images/untitled-731de21e4868.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a21499c7-bb32-4500-b602-c831b6ccdfe3",
+      "type": "divider"
+    },
+    {
+      "id": "1648fff5-329c-4b16-8847-ee1f8eec65b7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "18b83d63-9e27-4a2b-89eb-98221ab4ac50",
+          "type": "column",
+          "children": [
+            {
+              "id": "552e8583-ed31-47e0-9907-876855b21ed9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d106c0e5-f184-467d-ab6c-0e7090e4c0d8",
+          "type": "column",
+          "children": [
+            {
+              "id": "15b99caa-6caf-448f-b7c7-40c60db4c1c5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xORl9J\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4907665a-0577-4b2a-8a1d-8b881dd923c1",
+      "type": "divider"
+    }
+  ]
+}

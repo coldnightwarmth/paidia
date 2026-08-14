@@ -1,0 +1,131 @@
+{
+  "id": "62ba2fbe-261b-4c27-a33f-bc5c2950be5b",
+  "slug": "gaming",
+  "title": "Gaming",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Gaming-62ba2fbe261b4c27a33fbc5c2950be5b?pvs=21",
+  "createdTime": 1651767616972,
+  "lastEditedTime": 1681313957215,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gaming",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e9b99410c886.webp",
+  "blocks": [
+    {
+      "id": "076de0d1-ec7d-4848-ab90-79b4ed1548e6",
+      "type": "divider"
+    },
+    {
+      "id": "86217a55-b8b8-4ee4-82fe-da728a93f0c0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a7bdc355-46a5-4770-8476-9954199b9b99",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e272b168-444a-442e-881e-31ad4cd30b26",
+          "type": "column",
+          "children": [
+            {
+              "id": "a93f1d89-0a76-415d-819e-3b2718a82155",
+              "type": "paragraph",
+              "html": "<em><strong>Gaming: Essays On Algorithmic Culture</strong></em> was written by Alexander Galloway, published by University Of Minnesota Press, May 27, 2006."
+            },
+            {
+              "id": "8490c481-c0fc-4385-866e-3ab3d30d3c6e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0996656a-2542-4e63-a387-af1220a725d6",
+              "type": "quote",
+              "html": "<em>Video games have been a central feature of the cultural landscape for over twenty years and now rival older media like movies, television, and music in popularity and cultural influence. Yet there have been relatively few attempts to understand the video game as an independent medium. Most such efforts focus on the earliest generation of text-based adventures (</em>Zork<em>, for example) and have little to say about such visually and conceptually sophisticated games as </em>Final Fantasy X, Shenmue, Grand Theft Auto, Halo<em>, and </em>The Sims<em>, in which players inhabit elaborately detailed worlds and manipulate digital avatars with a vast—and in some cases, almost unlimited—array of actions and choices.<br><br>In </em>Gaming<em>, Alexander Galloway instead considers the video game as a distinct cultural form that demands a new and unique interpretive framework. Drawing on a wide range of disciplines, particularly critical theory and media studies, he analyzes video games as something to be played rather than as texts to be read, and traces in five concise chapters how the “algorithmic culture” created by video games intersects with theories of visuality, realism, allegory, and the avant-garde. If photographs are images and films are moving images, then, Galloway asserts, video games are best defined as actions.<br><br>Using examples from more than fifty video games, Galloway constructs a classification system of action in video games, incorporating standard elements of gameplay as well as software crashes, network lags, and the use of cheats and game hacks. In subsequent chapters, he explores the overlap between the conventions of film and video games, the political and cultural implications of gaming practices, the visual environment of video games, and the status of games as an emerging cultural form.<br><br>Together, these essays offer a new conception of gaming and, more broadly, of electronic culture as a whole, one that celebrates and does not lament the qualities of the digital age.</em>"
+            },
+            {
+              "id": "6758cf48-4f79-4925-8030-263cbb765009",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b8d82900-ff64-46cf-b532-67cf2a80556b",
+          "type": "column",
+          "children": [
+            {
+              "id": "6d17d1e1-efa1-4cf2-8113-a6ee66657213",
+              "type": "image",
+              "src": "./assets/images/untitled-e9b99410c886.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa9d10f6-bdf5-4bc0-9a57-99adff747c0e",
+      "type": "divider"
+    },
+    {
+      "id": "cfd127d1-7cf3-4b07-bd90-1c7c67c732c1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "80db89ec-a9bf-487f-87f4-f88c2e18bdb3",
+          "type": "column",
+          "children": [
+            {
+              "id": "1b925447-fec3-4315-bb25-a0c8da6b0811",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e127f241-6cd9-4830-b378-f931ee803688",
+          "type": "column",
+          "children": [
+            {
+              "id": "dcf66f5e-67a8-4d91-b8d2-4485c0ad4f4f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zAw05n\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2ca85a51-753f-4e75-abfb-ed93a79c8f2a",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "35cd2352-fbeb-4be5-8a68-1171ff18c5ec",
+  "name": "3D Tools",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "5b369499-df28-4e5c-bf73-b028083830d2",
+          "value": "Free",
+          "color": "orange"
+        },
+        {
+          "id": "2af7fe18-af81-443c-b52a-7406adc49030",
+          "value": "Premium",
+          "color": "pink"
+        },
+        {
+          "id": "6faefffc-21c7-49db-bed4-25b41f7b5922",
+          "value": "VR/AR",
+          "color": "blue"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "bfed4e84-52fd-47c7-9471-0fec849d3ca1",
+      "collectionId": "35cd2352-fbeb-4be5-8a68-1171ff18c5ec",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "11ea12c7-6a62-4944-b33c-91f5fcf5ab67",
+        "78880192-353b-43ee-b99f-a5a7383ce995",
+        "d23612be-941e-4225-b5b7-a9c3461471db",
+        "25e572d0-c4d1-4fa7-9db6-69618b31416d",
+        "082da31f-a4fc-41a8-9bd4-60e5ded5b003",
+        "998e8ebb-124b-4343-abb2-10f342a634dc",
+        "11c34068-9718-45eb-ba56-bca588528882",
+        "2bdbfb6f-d372-44df-b9bb-a9e8b5d335a9",
+        "ca926883-235f-4f2f-ac65-c5f209e09680",
+        "628dfce7-400d-4253-a910-c0bcd4c942ff",
+        "9c04cd06-7e6a-4e46-8678-bf1ef1f02763",
+        "2410af0e-6bb2-4678-9b95-664a054d6ab6",
+        "3ae89418-c9b1-41d8-92a2-f581bc53a6e5",
+        "8b16e5e1-ccbe-4d27-a009-688cd8dc17ae",
+        "b2fac41e-75b9-478e-87fa-06e59834f6f6",
+        "10c20583-ba7e-4b51-9256-0010c1143db3",
+        "93564bdb-0a5e-4835-9730-ec906fae9f15",
+        "a3744d6b-9eab-414c-8770-b33a40666d4c",
+        "8b8ad268-8055-49b5-a2b2-de829e195305",
+        "c223b06d-f124-4468-b5b4-b65d061a136f",
+        "0cf37461-067a-4cc5-a146-543e4cfad5d6",
+        "b379ab6b-ee17-4205-b7d8-23c439471a1b",
+        "bb8150bc-0fb4-4cf0-b243-e81ec2a59c64",
+        "a68430bd-5378-46c1-ba2c-0e03faf2b4fd",
+        "0a7ed92e-df9b-4699-851a-f48df31f318c",
+        "a5a086aa-3208-4cbd-b172-146b73575687",
+        "22d28559-250e-4439-8357-b2f920bb7911",
+        "73c8a852-3d71-4ffc-b712-616e5002bb97",
+        "2b057f80-ad56-496d-9218-b33d37468ceb",
+        "4a97f81c-8707-4191-9457-109d737be9b3"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "536af008-bdbf-4982-8901-7b61f8baa40f",
+      "collectionId": "35cd2352-fbeb-4be5-8a68-1171ff18c5ec",
+      "type": "gallery",
+      "name": "Free",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "629f724a-375b-49c4-9b95-b82293c647c4",
+      "collectionId": "35cd2352-fbeb-4be5-8a68-1171ff18c5ec",
+      "type": "gallery",
+      "name": "Premium",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "292ccff8-f7d8-4855-9c01-8dbbaf8c5ff3",
+      "collectionId": "35cd2352-fbeb-4be5-8a68-1171ff18c5ec",
+      "type": "gallery",
+      "name": "VR/AR",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

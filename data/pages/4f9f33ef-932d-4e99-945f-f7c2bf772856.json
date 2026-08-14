@@ -1,0 +1,141 @@
+{
+  "id": "4f9f33ef-932d-4e99-945f-f7c2bf772856",
+  "slug": "halos-and-avatars",
+  "title": "Halos & Avatars",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Halos-Avatars-4f9f33ef932d4e99945ff7c2bf772856?pvs=21",
+  "createdTime": 1657303967137,
+  "lastEditedTime": 1681313526820,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Halos & Avatars",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ebfc4d784008.webp",
+  "blocks": [
+    {
+      "id": "6ec39a4c-77a7-48fd-9e3e-8a1753c94a43",
+      "type": "divider"
+    },
+    {
+      "id": "a8ac7be0-518f-4264-95ff-339f5f607e71",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "aca25cdd-2762-4d75-9d56-3fec05773942",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c8d98394-bd6b-48f0-b533-61ac6fe85e47",
+          "type": "column",
+          "children": [
+            {
+              "id": "56fb06ab-b25d-4f4d-bdc2-297371b17ca4",
+              "type": "paragraph",
+              "html": "<em><strong>Halos &amp; Avatars: Playing Video Games with God</strong></em><em> </em>is a collection of essays edited by Craig Detweiler, originally published by Westminster John Knox Press, January 25, 2010."
+            },
+            {
+              "id": "853084e6-ce11-4281-9be3-24b8fd897fdf",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f9a64106-3361-4491-96b6-1e06ab4fee56",
+              "type": "quote",
+              "html": "<em>Craig Detweiler's collection of up-to-the-minute essays on video games' theological themes (and yes, they do exist!) is an engaging and provocative book for gamers, parents, pastors, media scholars, and theologians--virtually anyone who has dared to consider the ramifications of modern society's obsession with video games and online media. Together, these essays take on an exploding genre in popular culture and interpret it through a refreshing and enlightening philosophical lens.</em>"
+            }
+          ]
+        },
+        {
+          "id": "d2232a90-44c9-4230-bef3-ac6bbec94e19",
+          "type": "column",
+          "children": [
+            {
+              "id": "a9034763-8639-459b-bd74-3b05126e6fd6",
+              "type": "image",
+              "src": "./assets/images/untitled-ebfc4d784008.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab48d87a-60a0-499c-8c19-f223358a4da8",
+      "type": "divider"
+    },
+    {
+      "id": "486c866d-81fa-4904-afbe-0a34677c90ee",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e1f17b42-6676-404e-9ecc-0e6c4ad5ce19",
+          "type": "column",
+          "children": [
+            {
+              "id": "1c1cda8f-081a-4399-80d2-9169133fb495",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "57ed2bce-f3f0-40f3-bbc8-ab29a324ae37",
+          "type": "column",
+          "children": [
+            {
+              "id": "e35b498b-2674-4f10-a087-fca054be689e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3c2R0IY\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32c7a089-a064-4856-a19b-8eb69d95fab6",
+      "type": "divider"
+    },
+    {
+      "id": "0f262645-c3f0-47f8-be43-9c0bb0d55f09",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f6063797-ff20-4c77-b934-518a31b18aa9",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "da6f27fd-1022-4d4e-b589-7abd13c7ba6f",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

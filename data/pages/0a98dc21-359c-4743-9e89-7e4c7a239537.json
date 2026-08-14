@@ -1,0 +1,129 @@
+{
+  "id": "0a98dc21-359c-4743-9e89-7e4c7a239537",
+  "slug": "the-invisible-game",
+  "title": "The Invisible Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Invisible-Game-0a98dc21359c47439e897e4c7a239537?pvs=21",
+  "createdTime": 1651970543229,
+  "lastEditedTime": 1681313956165,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Invisible Game",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-54b474d39ade.webp",
+  "blocks": [
+    {
+      "id": "bfb2bf6b-9ea3-426c-a6a9-b0a20da7b8bb",
+      "type": "divider"
+    },
+    {
+      "id": "fdfa92eb-c713-4cdb-adc2-ddf00db45e4b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2553a9e4-08a5-40fe-97f5-0303a09916b7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "67cbaadb-8813-438b-b1a5-1b0035f90f95",
+          "type": "column",
+          "children": [
+            {
+              "id": "4765c7bd-a09d-46b4-8bfc-60bc4180742b",
+              "type": "paragraph",
+              "html": "<em><strong>The Invisible Game: Mindset of a Winning Team</strong></em> was written by Zoltan Andrejkovics, self-published through CreateSpace, May 7, 2016."
+            },
+            {
+              "id": "6f9b62f5-52d5-44a4-8fa2-6c6df3c31231",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c9b7a6f5-8003-45ef-a0fa-7510121f93db",
+              "type": "quote",
+              "html": "<em>Competitive gaming and eSports among youths became a major theme these days. For a professional gamer, having the best strategy or belonging to a team with the best skills are sometimes not enough for success. Real life tournaments are tougher than we can imagine.<br><br></em>The Invisible Game<em> covers the necessary mental development of eSport players. The book helps to prepare the players' minds for the challenges, both on the map and in real life.<br><br>We overestimate the power of our daily thoughts, and we forget the potential of our inner wisdom. This book guides you with honest life experiences of an eSport team manager on a journey to find the mental balance for peak performance.</em>"
+            }
+          ]
+        },
+        {
+          "id": "21e9dc7c-d9f7-4e99-8298-e2c8a7232d7a",
+          "type": "column",
+          "children": [
+            {
+              "id": "a2976088-5416-48fc-8825-13c7d6c44582",
+              "type": "image",
+              "src": "./assets/images/untitled-54b474d39ade.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bcab7c64-3cce-4684-9925-2b18f780652d",
+      "type": "divider"
+    },
+    {
+      "id": "94fa486a-c03e-420d-b569-29844209a983",
+      "type": "columns",
+      "children": [
+        {
+          "id": "eaabbab0-29fd-40db-8e5f-c5694feb40c5",
+          "type": "column",
+          "children": [
+            {
+              "id": "83c478c9-714c-4427-88c1-b5a7e5827511",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b53a4f84-6e8f-4b55-b380-ed14afc4e156",
+          "type": "column",
+          "children": [
+            {
+              "id": "36b9aee4-b242-4110-8fd6-d596d6ef4f23",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DlLr2u\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "764050c6-3a0c-41ce-807c-7a0290f7f18e",
+      "type": "divider"
+    }
+  ]
+}

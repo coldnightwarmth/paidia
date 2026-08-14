@@ -1,0 +1,146 @@
+{
+  "id": "c240182d-8666-461f-a4af-0314bfb1bb52",
+  "slug": "ludics",
+  "title": "Ludics",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "16515e7c-ec2f-4d98-9fec-861099f13e9d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Ludics-c240182d8666461fa4af0314bfb1bb52?pvs=21",
+  "createdTime": 1651768008212,
+  "lastEditedTime": 1681313359861,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ludics",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e0bafbe92c6f.webp",
+  "blocks": [
+    {
+      "id": "57089605-0510-4c31-a97e-4076a14539ec",
+      "type": "divider"
+    },
+    {
+      "id": "050a6f5b-dbf1-425f-95e4-65d36ecd8b6e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "56ca46df-8941-4821-ab3c-f35acecb39f8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "39de14fd-7baf-42f4-b0d5-8be96b729de1",
+          "type": "column",
+          "children": [
+            {
+              "id": "6485efc0-519a-4311-a114-e7d50bcbe5c7",
+              "type": "paragraph",
+              "html": "<em><strong>Ludics: Play as Humanistic Inquiry</strong></em> is a collection of essays edited by Vassiliki Rapti &amp; Eric Gordon, published by Palgrave Macmillan, January 12, 2021."
+            },
+            {
+              "id": "0a1728ce-77e5-4f40-83bb-a325d41998e6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "57ffbb83-a21b-4c32-9814-5e647b5de555",
+              "type": "quote",
+              "html": "<em>This book establishes play as a mode of humanistic inquiry with a profound effect on art, culture and society. Play is treated as a dynamic and relational modality where relationships of all kinds are forged and inquisitive interdisciplinary engagement is embraced. Play cultivates reflection, connection, and creativity, offering new epistemological directions for the humanities. With examples from a range of disciplines including poetry, history, science, religion and media, this book treats play as an object of inquiry, but also as a mode of inquiry. The chapters, each focusing on a specific cultural phenomenon, do not simply put culture on display, they put culture in play, providing a playful lens through which to see the world. The reader is encouraged to read the chapters in this book out of order, allowing constructive collision between ideas, moments in history, and theoretical perspectives. The act of reading this book, like the project of the humanities itself, should be emergent, generative, and playful.</em>"
+            },
+            {
+              "id": "1eae490c-b1e7-4512-9a95-fd2f7b5efc90",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "97f811e0-fe5e-45b7-91e8-a19ffa3acb52",
+          "type": "column",
+          "children": [
+            {
+              "id": "4da28ddb-726e-4272-806c-18694e8a6b11",
+              "type": "image",
+              "src": "./assets/images/untitled-e0bafbe92c6f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5bfce92f-0bc7-4ab2-b93a-4614ba7ff2a4",
+      "type": "divider"
+    },
+    {
+      "id": "4bfe7da3-e82d-4312-b46d-71c1dbe5dedd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "53bf6cc7-035c-4f67-9067-63076b19ba28",
+          "type": "column",
+          "children": [
+            {
+              "id": "373ac944-c863-431b-8f36-4d8c82f5cfaa",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a7c56a70-f2f9-47d0-8301-a9d7c577addf",
+          "type": "column",
+          "children": [
+            {
+              "id": "b2938b7c-9e49-4268-99da-d1f478b333f0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FATU4z\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c13078b5-a042-4dbd-8631-a02dba882b30",
+      "type": "divider"
+    },
+    {
+      "id": "c54bcae0-c04b-49ac-b4d2-47cb39400892",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "28e76abb-7017-4d0b-92c0-69b9de926aa2",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "e13cdb02-f50a-4f1d-8cbc-a4d5bea1aa43",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

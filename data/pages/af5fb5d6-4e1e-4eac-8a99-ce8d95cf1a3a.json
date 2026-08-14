@@ -1,0 +1,131 @@
+{
+  "id": "af5fb5d6-4e1e-4eac-8a99-ce8d95cf1a3a",
+  "slug": "the-meaning-of-sports",
+  "title": "The Meaning Of Sports",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Meaning-Of-Sports-af5fb5d64e1e4eac8a99ce8d95cf1a3a?pvs=21",
+  "createdTime": 1667260740281,
+  "lastEditedTime": 1681312734801,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Meaning Of Sports",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1063dc13dd8b.webp",
+  "blocks": [
+    {
+      "id": "cbd434e2-09b9-4ab7-bf23-32ed2f57ac7e",
+      "type": "divider"
+    },
+    {
+      "id": "364c4434-533e-49c6-97b4-c5fcc81bd90b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9d3bde9b-b9b2-45d7-813b-fc3427a610f0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8e8e543e-64d2-4dd7-a4ee-892fb0b7047f",
+          "type": "column",
+          "children": [
+            {
+              "id": "a9dc40b5-5590-4e7c-ab16-91b643f777ea",
+              "type": "paragraph",
+              "html": "<em><strong>The Meaning Of Sports</strong></em> was written by Michael Mandelbaum, published by PublicAffairs, June 1, 2004."
+            },
+            {
+              "id": "a7e72042-1ab2-48e5-b966-c64f36c63c06",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "002a7e64-f362-4bc7-8437-7116d517d357",
+              "type": "quote",
+              "html": "<em>In </em>The Meaning of Sports<em>, Michael Mandelbaum, a sports fan who is also one of the nation's preeminent foreign policy thinkers, examines America's century-long love affair with team sports. In keeping with his reputation for writing about big ideas in an illuminating and graceful way, he shows how sports respond to deep human needs; describes the ways in which baseball, football and basketball became national institutions and how they reached their present forms; and covers the evolution of rules, the rise and fall of the most successful teams, and the historical significance of the most famous and influential figures such as Babe Ruth, Vince Lombardi, and Michael Jordan.<br><br>Whether he is writing about baseball as the agrarian game, football as similar to warfare, basketball as the embodiment of post-industrial society, or the moral havoc created by baseball's designated hitter rule, Mandelbaum applies the full force of his learning and wit to subjects about which so many Americans care passionately: the games they played in their youth and continue to follow as adults. By offering a fresh and unconventional perspective on these games, </em>The Meaning of Sports<em> makes for fascinating and rewarding reading both for fans and newcomers.</em>"
+            },
+            {
+              "id": "0c37fdab-b142-4782-9cb1-9aa6215fb82c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0544115a-9ca5-4b9d-96e3-c3688391c109",
+          "type": "column",
+          "children": [
+            {
+              "id": "e2ac118c-d6d8-4de4-81d6-302e13f7f3d0",
+              "type": "image",
+              "src": "./assets/images/untitled-1063dc13dd8b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9de326fc-2440-44c3-9eb0-4f93d074a1be",
+      "type": "divider"
+    },
+    {
+      "id": "e376b9b9-d5d5-4e01-a0f4-a646f2300189",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6fb4d2d6-259b-4bef-9eb6-48dc48c25444",
+          "type": "column",
+          "children": [
+            {
+              "id": "58517f48-ca3a-4308-ac50-23ab375e22da",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "239e81d7-4b30-41af-a204-da5bf4281a89",
+          "type": "column",
+          "children": [
+            {
+              "id": "4bcbaddd-0ed0-4bcd-9322-c85738d9b730",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DLBeOa\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2574f071-aa24-4bf3-a671-2e2b08ea8305",
+      "type": "divider"
+    }
+  ]
+}

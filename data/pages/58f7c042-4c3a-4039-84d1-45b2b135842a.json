@@ -1,0 +1,131 @@
+{
+  "id": "58f7c042-4c3a-4039-84d1-45b2b135842a",
+  "slug": "the-culture-of-consent",
+  "title": "The Culture of Consent",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Culture-of-Consent-58f7c0424c3a403984d145b2b135842a?pvs=21",
+  "createdTime": 1668809992200,
+  "lastEditedTime": 1681312366001,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Culture of Consent",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/dc217c47-0733-43c3-8659-7cd5995baa26-1-e0b0ab5990ff8a4725d2f-b3307b5be4c6.webp",
+  "blocks": [
+    {
+      "id": "99db6d88-b89d-427e-916b-f6fa186538f5",
+      "type": "divider"
+    },
+    {
+      "id": "5aca345c-1c97-4cb5-addf-92361d4b8705",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "60ae83a4-8940-4c8a-b979-73293b4e05cb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d90041c2-5514-469e-b488-5c593d93d144",
+          "type": "column",
+          "children": [
+            {
+              "id": "b6b68860-269b-4671-8047-a74f5f60c33c",
+              "type": "paragraph",
+              "html": "<em><strong>The Culture of Consent: Mass Organisation of Leisure in Fascist Italy</strong></em> was written by Victoria De Grazia, published by Cambridge University Press, May 29, 1981."
+            },
+            {
+              "id": "d4bed715-0859-419b-8684-018efaca5932",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9d114394-c1c7-456e-90b7-429fee4c115c",
+              "type": "quote",
+              "html": "<em>The efforts of fascism to form a 'culture of consent,' or shape depoliticized activities, in Italy between the world wars, make a unique portrait of fascist political tactics. Professor de Grazia focuses on the dopolavoro or fascist leisure-time organization, the largest of the regime's mass institutions. She traces its gradual rise in importance for the consolidation of fascist rule; its spread in the form of thousands of local clubs into every domain of urban and rural life; and its overwhelming impact on the distribution, consumption, and character of all kinds of recreational pursuits - from sports and adult education to movies, traveling theaters, radio, and tourism. The author shows how fascism was able, between 1926 and 1939, to build a new definition of the public sphere. Recasting the public sphere entailed dispensing with traditional class and politically defined modes of organizing those social roles and desires existing outside the workplace.</em>"
+            },
+            {
+              "id": "11e1aa39-c88e-4e09-bb1e-d7e86d3b89f4",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "6015b685-a0b0-49b8-8133-6e826781da82",
+          "type": "column",
+          "children": [
+            {
+              "id": "7045b990-86ff-45d5-8cc8-3ae91f090946",
+              "type": "image",
+              "src": "./assets/images/dc217c47-0733-43c3-8659-7cd5995baa26-1-e0b0ab5990ff8a4725d2f-b3307b5be4c6.webp",
+              "caption": "",
+              "alt": "dc217c47-0733-43c3-8659-7cd5995baa26_1.e0b0ab5990ff8a4725d2fa6d36b9f39e.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a758805-457c-4519-af10-7e3b09a3dc60",
+      "type": "divider"
+    },
+    {
+      "id": "35947a5e-ad89-48df-9ddc-1f2f1bc302ed",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b214b654-fcef-4878-8a8c-6f2ff08eb405",
+          "type": "column",
+          "children": [
+            {
+              "id": "3f1385a7-0e29-47a5-a761-9fcaf78b1949",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "77bfffa8-cdbe-4213-888c-00f4fd5d94a8",
+          "type": "column",
+          "children": [
+            {
+              "id": "a3034631-ef1e-4968-be0f-cfc1d1a4c156",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Culture-Consent-Organisation-Leisure-Fascist/dp/052123705X/ref=sr_1_1?crid=I2OJTPA3ATWR&amp;keywords=The+culture+of+consent+-+Mass+organization+of+leisure+in+fascist+Italy&amp;qid=1666371553&amp;qu=eyJxc2MiOiIwLjc5IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=the+tourist+a+new+theory+of+the+leisure+class%2Caps%2C132&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22881a16-cc51-4efd-b337-09bdbcc70def",
+      "type": "divider"
+    }
+  ]
+}

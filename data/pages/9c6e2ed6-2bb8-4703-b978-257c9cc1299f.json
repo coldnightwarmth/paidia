@@ -1,0 +1,119 @@
+{
+  "id": "9c6e2ed6-2bb8-4703-b978-257c9cc1299f",
+  "slug": "when-children-play",
+  "title": "When Children Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/9c6e2ed62bb84703b978257c9cc1299f",
+  "createdTime": 1659571751861,
+  "lastEditedTime": 1681313070836,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "When Children Play",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-664c90a67b2b.webp",
+  "blocks": [
+    {
+      "id": "7349eefd-87fd-4280-9bcb-e0123ff850e8",
+      "type": "divider"
+    },
+    {
+      "id": "6a89d8e1-a240-4f9c-98a8-5f0e795d5996",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f0af6726-4189-43ff-9f91-f03ec2c6f183",
+      "type": "columns",
+      "children": [
+        {
+          "id": "09fafe23-6539-4e8d-89ff-88cfaea1921a",
+          "type": "column",
+          "children": [
+            {
+              "id": "b600f84c-9959-4634-b882-33f1c4bef891",
+              "type": "paragraph",
+              "html": "<em><strong>When Children Play: Proceedings of the International Conference on Play and Play Environments</strong></em> is a collection of essays edited by Joe L. Frost &amp; Sylvia Sunderlin, published by Association for Childhood Education International, January 1, 1985."
+            }
+          ]
+        },
+        {
+          "id": "95d041a5-d19d-4f39-8e7d-0fabfa0ab8c6",
+          "type": "column",
+          "children": [
+            {
+              "id": "607d594b-c108-4391-9152-57576fb6c024",
+              "type": "image",
+              "src": "./assets/images/untitled-664c90a67b2b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "162a91d2-2541-4e66-bf2e-33ca423d4862",
+      "type": "divider"
+    },
+    {
+      "id": "2c9df334-23a7-4b25-9783-2420768f931d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2a1aea0b-7ac2-45ef-b821-c1580ad5a7f7",
+          "type": "column",
+          "children": [
+            {
+              "id": "410acb14-b83c-4fce-8bd7-17c5b6d2dd6e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ff7e1e92-0f37-4848-943a-c9485b6f213f",
+          "type": "column",
+          "children": [
+            {
+              "id": "facdb19d-eac5-4fe3-9345-1ee942051de6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Q0q3ou\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f5892877-b1c2-4fea-80e3-0650561a032a",
+      "type": "divider"
+    }
+  ]
+}

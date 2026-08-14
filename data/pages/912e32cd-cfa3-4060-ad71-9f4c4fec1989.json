@@ -1,0 +1,131 @@
+{
+  "id": "912e32cd-cfa3-4060-ad71-9f4c4fec1989",
+  "slug": "musicking",
+  "title": "Musicking",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Musicking-912e32cdcfa34060ad719f4c4fec1989?pvs=21",
+  "createdTime": 1668798189119,
+  "lastEditedTime": 1681312399801,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Musicking",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-77a3ae868b47.webp",
+  "blocks": [
+    {
+      "id": "8c2051b9-f90e-44d8-90f1-af7392a4a5ca",
+      "type": "divider"
+    },
+    {
+      "id": "17f8655e-9d80-489b-8be6-0ae6ee8391e8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ea12d0d8-bdda-4802-a668-bc36f3b1490c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8b5b34af-53d7-40ec-904f-c7d3f9b4f05b",
+          "type": "column",
+          "children": [
+            {
+              "id": "91e15d0c-47d0-4f32-855a-dc55f9e37873",
+              "type": "paragraph",
+              "html": "<em><strong>Musicking: The Meanings of Performing and Listening</strong></em> was written by Christopher Small, published by Wesleyan University Press, June 15, 1998."
+            },
+            {
+              "id": "2f5d1ee6-a41a-4f78-92a4-a18ee57f644e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "fac92fc3-3b2c-4e59-bcc6-64553000802a",
+              "type": "quote",
+              "html": "<strong><em>Acclaimed scholar rethinks the nature and meaning of music.<br></em></strong><em><br>Extending the inquiry of his early groundbreaking books, Christopher Small strikes at the heart of traditional studies of Western music by asserting that music is not a thing, but rather an activity. In this new book, Small outlines a theory of what he terms &quot;musicking,&quot; a verb that encompasses all musical activity from composing to performing to listening to a Walkman to singing in the shower.<br><br>Using Gregory Bateson's philosophy of mind and a Geertzian thick description of a typical concert in a typical symphony hall, Small demonstrates how musicking forms a ritual through which all the participants explore and celebrate the relationships that constitute their social identity. This engaging and deftly written trip through the concert hall will have readers rethinking every aspect of their musical worlds.</em>"
+            },
+            {
+              "id": "08b482e9-9854-484d-8704-352bf29c563c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "61075961-9b9d-4e90-8720-c816c1bf3ee3",
+          "type": "column",
+          "children": [
+            {
+              "id": "a03e58b5-5600-470a-8bb5-8b5f84303563",
+              "type": "image",
+              "src": "./assets/images/untitled-77a3ae868b47.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81e27d8b-5df5-4407-af51-12e410caa20f",
+      "type": "divider"
+    },
+    {
+      "id": "22d75505-dd2d-43a6-bdea-f0a9cf549930",
+      "type": "columns",
+      "children": [
+        {
+          "id": "634c4f15-45ac-4f92-a02a-21669b1552e7",
+          "type": "column",
+          "children": [
+            {
+              "id": "fbf65c36-8a33-4404-89d3-f20c56d3a3ec",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "df37cceb-4fb8-470b-b2bf-71de5fa5a09a",
+          "type": "column",
+          "children": [
+            {
+              "id": "5ac80c8d-c5d3-48fa-86eb-61e6a5707b44",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Musicking-Meanings-Performing-Listening-Culture/dp/0819522570/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5391e7d-f24d-406a-8a6c-58ef4c3ff8ea",
+      "type": "divider"
+    }
+  ]
+}

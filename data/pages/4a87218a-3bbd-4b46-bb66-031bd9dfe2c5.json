@@ -1,0 +1,121 @@
+{
+  "id": "4a87218a-3bbd-4b46-bb66-031bd9dfe2c5",
+  "slug": "games-ancient-and-oriental-and-how-to-play-them",
+  "title": "Games Ancient & Oriental, & How To Play Them",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Games-Ancient-Oriental-How-To-Play-Them-4a87218a3bbd4b46bb66031bd9dfe2c5?pvs=21",
+  "createdTime": 1657231361525,
+  "lastEditedTime": 1681313778923,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Games Ancient & Oriental, & How To Play Them",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/1428545964-0-x-b6eecbc7e09e.webp",
+  "blocks": [
+    {
+      "id": "4cdb5e2a-e69e-412e-9899-f87d7f3f0f2d",
+      "type": "divider"
+    },
+    {
+      "id": "6f591f21-20ed-4867-b9c2-c1bbeb13716b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3e8988e2-f152-43d8-a17a-50201809a6e8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1b02b6c6-e254-4e6f-8e85-6607663aa5de",
+          "type": "column",
+          "children": [
+            {
+              "id": "686ca590-22e4-4400-8725-b8dbd3f18064",
+              "type": "paragraph",
+              "html": "<em><strong>Games Ancient &amp; Oriental, &amp; How To Play Them: Being The Games Of The Greek, The Ludus Latrunculorum Of The Romans &amp; The Oriental Games Of Chess, Draughts, Backgammon And Magic Squares</strong></em> was written by Edward Falkener, originally published in 1892."
+            },
+            {
+              "id": "68d2a10e-b2b8-4766-a095-2d52b6429467",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "41bbf824-bec2-49cd-920b-269916ddf069",
+          "type": "column",
+          "children": [
+            {
+              "id": "73814716-d258-4ec2-aca8-e53e2f3fbefc",
+              "type": "image",
+              "src": "./assets/images/1428545964-0-x-b6eecbc7e09e.webp",
+              "caption": "",
+              "alt": "1428545964.0.x.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c47b5269-adf5-4edd-852a-e99c07fe8a89",
+      "type": "divider"
+    },
+    {
+      "id": "308b7e51-e245-4f01-b9d2-ff5c0d1ae275",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2ad805c8-38fe-4a7c-8a26-61c7c37c020c",
+          "type": "column",
+          "children": [
+            {
+              "id": "acdacf7d-2b03-4d9d-a871-a254d56b9fe9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6964cde3-2845-4556-bf0a-74bd56ddc8f4",
+          "type": "column",
+          "children": [
+            {
+              "id": "dfb5a5e5-8560-4dd0-b883-f7f0053045f9",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3IugKdK\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c38effb-ab9d-4f06-83a8-1e221c28b1db",
+      "type": "divider"
+    }
+  ]
+}

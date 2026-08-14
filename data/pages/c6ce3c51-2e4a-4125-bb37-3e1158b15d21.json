@@ -1,0 +1,131 @@
+{
+  "id": "c6ce3c51-2e4a-4125-bb37-3e1158b15d21",
+  "slug": "digital-mosaics",
+  "title": "Digital Mosaics",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Digital-Mosaics-c6ce3c512e4a4125bb373e1158b15d21?pvs=21",
+  "createdTime": 1651685554688,
+  "lastEditedTime": 1681314225545,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Digital Mosaics"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b4f1d3a86255.webp",
+  "blocks": [
+    {
+      "id": "f7435ffa-e6ad-4595-8bb6-576f434896ec",
+      "type": "divider"
+    },
+    {
+      "id": "a6d9c5cd-98e9-4f09-892c-2e7a34433822",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b860f8e2-29a6-48e4-bb90-5cc3459ae3ae",
+      "type": "columns",
+      "children": [
+        {
+          "id": "33385f5f-4ea0-413c-81ac-23c4a8086e10",
+          "type": "column",
+          "children": [
+            {
+              "id": "9bed021b-915a-4c46-a9c1-2b1392bd1cb7",
+              "type": "paragraph",
+              "html": "<em><strong>Digital Mosaics: The Esthetics of Cyberspace</strong></em> was written by Steven R. Holtzman, published by Simon &amp; Schuster, July 9, 1997."
+            },
+            {
+              "id": "27634760-ad87-40d8-a9e3-d86d372ba53b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7e39cbdb-1e1a-4cf5-8128-3076306cfcab",
+              "type": "quote",
+              "html": "<em>Explores the dramatic difference between traditional media, such as books, theater, and film, and the recent development of cyberspace, which appears to shape not only how we communicate but increasingly the way we think.</em>"
+            },
+            {
+              "id": "33caa06e-19cd-48e3-be25-daa42d340197",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e1a4ac3b-ca55-4840-92de-b1c9a79af66c",
+          "type": "column",
+          "children": [
+            {
+              "id": "3c288195-8edb-4179-9899-6e7041141b1a",
+              "type": "image",
+              "src": "./assets/images/untitled-b4f1d3a86255.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f6ca667-7817-4542-9666-e2b9b1a321b0",
+      "type": "divider"
+    },
+    {
+      "id": "9f456d43-d815-4f2b-9679-8d2931ceed99",
+      "type": "columns",
+      "children": [
+        {
+          "id": "877c7272-de85-45f5-baa9-f1c549f31508",
+          "type": "column",
+          "children": [
+            {
+              "id": "4e6ec143-5eb3-4630-a8f7-f002c39952ca",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b8884d67-4f4c-4139-9ae5-e87867bc3773",
+          "type": "column",
+          "children": [
+            {
+              "id": "07de584b-5e51-4401-aa49-79c85a98ba9e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3QN2LDp\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84dc0ffe-98ab-4862-ac94-578a011a6b78",
+      "type": "divider"
+    },
+    {
+      "id": "6b05f9aa-0c16-4b87-b16f-3ec33546a368",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

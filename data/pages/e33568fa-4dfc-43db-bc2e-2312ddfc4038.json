@@ -1,0 +1,114 @@
+{
+  "id": "e33568fa-4dfc-43db-bc2e-2312ddfc4038",
+  "slug": "sid-meier",
+  "title": "Sid Meier",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ff095af8-c4a1-4725-a95d-eede18d6c32a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/e33568fa4dfc43dbbc2e2312ddfc4038",
+  "createdTime": 1652548054790,
+  "lastEditedTime": 1681329190841,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Sid Meier"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/sid-meier-game-developers-conference-2010-day-4-4-4cce1517d5fa.webp",
+  "blocks": [
+    {
+      "id": "449f57c4-64c8-42c7-95c9-704d7dd41467",
+      "type": "divider"
+    },
+    {
+      "id": "8aa72b88-e85c-4c18-bbef-5c1c53e15d1c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "24f3dcb7-4521-46db-b566-76de9e2f83fc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c776e729-b16b-4537-979b-5036abe8f516",
+          "type": "column",
+          "children": [
+            {
+              "id": "cfece975-4230-4e8a-b7a3-374e1266c08f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "68770ca9-0053-42bd-b7f2-a2439306bf4c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b76b957b-b078-4868-b3ae-88106a48ae8f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "cb41752a-72cd-4741-a39d-8c40ea76ff69",
+          "type": "column",
+          "children": [
+            {
+              "id": "f51bd373-4ccb-4c1e-b76c-c401062474d6",
+              "type": "image",
+              "src": "./assets/images/sid-meier-game-developers-conference-2010-day-4-4-4cce1517d5fa.webp",
+              "caption": "",
+              "alt": "Sid_Meier_-_Game_Developers_Conference_2010_-_Day_4_(4).jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46e636bf-8fc5-421d-9d27-0c105679401e",
+      "type": "divider"
+    },
+    {
+      "id": "d481db67-f920-4252-9f13-bd5e736d91e3",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "982bf111-87b6-41a2-b9e2-fbaf904b176b",
+      "type": "paragraph",
+      "html": "Civilizaiton (<em>game series</em>)"
+    },
+    {
+      "id": "f131fcd0-ff09-4603-afd2-8d32585e48c0",
+      "type": "paragraph",
+      "html": "<a href=\"#/sid-meier-s-memoir\">Sid Meier’s Memoir</a> (<em>book</em>)"
+    },
+    {
+      "id": "35594703-14bb-48a8-b613-84f9eaa89240",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "92fd8df5-173f-4a06-94a3-6d5b5800baf6",
+      "type": "divider"
+    },
+    {
+      "id": "50876bf1-2f35-4d83-b92b-4375916cf293",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

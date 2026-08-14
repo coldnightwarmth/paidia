@@ -1,0 +1,833 @@
+{
+  "id": "6b382510-adf0-424c-8a6d-b33ee802b6aa",
+  "slug": "podcasts-and-interviews",
+  "title": "Podcasts & Interviews",
+  "icon": "🎙️",
+  "cover": "",
+  "type": "page",
+  "parentId": "c0d0f2e2-bde3-4e10-82f3-81c8e1d3af16",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/6b382510adf0424c8a6db33ee802b6aa",
+  "createdTime": 1651796220000,
+  "lastEditedTime": 1705028039222,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "d3abe49b-baff-459a-9004-edf40c34044d",
+      "type": "paragraph",
+      "html": "<em>master list of collected conversational content::</em>"
+    },
+    {
+      "id": "e3c28e41-c79e-4faf-b816-36e965c5ca7f",
+      "type": "divider"
+    },
+    {
+      "id": "9b37a352-0aa5-4d62-a254-09d1110acb43",
+      "type": "table_of_contents"
+    },
+    {
+      "id": "8498ed61-da7a-48ad-94f0-0227a36e722b",
+      "type": "subheader",
+      "html": "Series",
+      "anchorId": "series"
+    },
+    {
+      "id": "b6861f18-5408-4f5c-85a3-07777bf86d19",
+      "type": "columns",
+      "children": [
+        {
+          "id": "561ad748-58ac-4632-9fa0-3c78889a6405",
+          "type": "column",
+          "children": [
+            {
+              "id": "172257a1-6f32-4867-ae0e-72e166b397f8",
+              "type": "callout",
+              "html": "<strong>Games Studies Study Buddies</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "e09fb733-83b1-48c9-aa86-d364cdbcfcbf",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://rangedtouch.com/\" target=\"_blank\" rel=\"noreferrer\">Ranged Touch</a></strong>"
+                },
+                {
+                  "id": "43bb5473-2dba-4151-a0e3-c73b0ea15ba1",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "Game Studies Study Buddies - Ranged Touch"
+                }
+              ]
+            },
+            {
+              "id": "86ca042d-2849-45e4-8756-33f9a77f8271",
+              "type": "callout",
+              "html": "<strong><strong>Serious Play</strong></strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "07ae77b0-6b20-49dc-af8c-a8f9b3597669",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://podcasts.apple.com/us/podcast/serious-play/id1604181697\" target=\"_blank\" rel=\"noreferrer\"><strong>Serious Play</strong></a>"
+                },
+                {
+                  "id": "1c217753-03e1-4c35-9bdb-bbccc5521012",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "‎Serious Play on Apple Podcasts"
+                }
+              ]
+            },
+            {
+              "id": "e01a7eb0-6e86-4e31-b874-f935f8665c5a",
+              "type": "callout",
+              "html": "<strong>paradise.fm</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "33a35372-2d5b-45cf-8652-0c083442ed38",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://brin.neocities.org/\" target=\"_blank\" rel=\"noreferrer\"><strong>brin</strong></a>"
+                },
+                {
+                  "id": "738c813d-de4c-4cf0-aa6a-4fce41a63e1e",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "paradise.fm"
+                }
+              ]
+            },
+            {
+              "id": "03cb6b6e-a70c-477a-b6c6-b6ef7f0b43f7",
+              "type": "callout",
+              "html": "<strong>Ludology</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "94dc7e2d-601d-473c-9cfd-5d83bf7ed08a",
+                  "type": "paragraph",
+                  "html": "by <strong>GameTek &amp; Biography of a Board Game</strong>"
+                },
+                {
+                  "id": "9c1820cc-f00d-4b9a-ae74-d188a16fdc36",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "Ludology"
+                }
+              ]
+            },
+            {
+              "id": "8b1ab07e-6936-455d-8c4a-6c91c2b0649d",
+              "type": "callout",
+              "html": "<strong>They Create Worlds</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "4ce5437c-c954-460b-82ee-8eb8012bf669",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://videogamehistorian.wordpress.com/about/\" target=\"_blank\" rel=\"noreferrer\">Alexander Smith</a></strong>"
+                },
+                {
+                  "id": "e3b4acd8-4a32-4cf0-b4e4-fca1a49ad61e",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": ""
+                }
+              ]
+            },
+            {
+              "id": "1b9a9f07-ab4b-46fe-9c08-360d5b9204e4",
+              "type": "callout",
+              "html": "<strong>History Respawned</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "0e76614c-ee60-40b0-a611-87ffed7b4c5d",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.historyrespawned.com/about\" target=\"_blank\" rel=\"noreferrer\"><strong>History Respawned</strong></a>"
+                },
+                {
+                  "id": "1ff4fb1a-6d2e-4b5e-9a84-b01bfe537f9c",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "History Respawned"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a0da1b44-e3d8-4d50-aeda-5f910df2a1d2",
+          "type": "column",
+          "children": [
+            {
+              "id": "b5df8358-f3a8-4208-b4d6-b2c5cce90fbe",
+              "type": "callout",
+              "html": "<strong>The Incredible Playable</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "d1158cb9-a182-4315-8e3e-4edba7ac74b5",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.alistairaitcheson.com/\" target=\"_blank\" rel=\"noreferrer\">Alistair Aitcheson</a></strong>"
+                },
+                {
+                  "id": "356762c4-0668-406f-b807-609d79e26d82",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "Podcast - Alistair Aitcheson"
+                }
+              ]
+            },
+            {
+              "id": "b5676815-84e1-4edd-b292-f00f5706361d",
+              "type": "callout",
+              "html": "<strong><strong>Game Studies Review</strong></strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "2ad79165-4c01-42cd-98e8-e72b9c65cc6b",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://metrostate.academia.edu/AlexLayne\" target=\"_blank\" rel=\"noreferrer\">Alex Layne</a></strong>"
+                },
+                {
+                  "id": "ab804e80-1ca9-4a6a-9541-92ebf96acce0",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "‎Game Studies Review on Apple Podcasts"
+                }
+              ]
+            },
+            {
+              "id": "97e97250-dcdd-48d5-9547-c30c0e4c0da9",
+              "type": "callout",
+              "html": "<strong><strong>Studying Pixels</strong></strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "050e3804-5c0a-4c4e-b96f-a11dbe798b8e",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://studyingpixels.com/about-us/\" target=\"_blank\" rel=\"noreferrer\"><strong>Studying Pixels</strong></a>"
+                },
+                {
+                  "id": "b569334e-7923-4781-a983-a72742f6276d",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "Episodes - Studying Pixels"
+                }
+              ]
+            },
+            {
+              "id": "94838f72-c715-474d-b8d8-ca9352c1401c",
+              "type": "callout",
+              "html": "<strong>The Video Game History Hour</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "623dfe73-1a6d-49ce-b121-81d414b7c207",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://gamehistory.org/\" target=\"_blank\" rel=\"noreferrer\">The Video Game History Foundation</a>"
+                },
+                {
+                  "id": "071f1257-53e1-400d-811f-b3aa31bdef58",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "The Video Game History Hour | Video Game History Foundation"
+                }
+              ]
+            },
+            {
+              "id": "fe0aba91-032e-4298-8d7d-46ab6abeed17",
+              "type": "callout",
+              "html": "<strong><strong>Codex History of Video Games</strong></strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "54ae0bbc-dc90-40d9-aaa0-c5a8fd8e861d",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://twitter.com/mecoletta\" target=\"_blank\" rel=\"noreferrer\">Mike Coletta</a></strong><strong> &amp; Tyler Ostby</strong>"
+                },
+                {
+                  "id": "d63d57a7-8f1e-47f6-935d-ad891f9de2d4",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "‎Codex History of Video Games with Mike Coletta and Tyler Ostby on Apple Podcasts"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a5d707c-9a13-4159-a940-c06f2d642c80",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "5f24068c-c47a-46eb-964e-6a4703229d7e",
+      "type": "subheader",
+      "html": "Selected",
+      "anchorId": "selected"
+    },
+    {
+      "id": "89ad7a13-e26c-4f02-b5da-5ee688ce1e55",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fa880f97-8aa3-4ced-ae71-d006e7dcaa71",
+          "type": "column",
+          "children": [
+            {
+              "id": "fb86e4d1-98b3-4b6b-b9f5-57f1e9ff7d90",
+              "type": "callout",
+              "html": "<strong>Espen Aarseth: Game Studies From The Hobbit to Minecraft</strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "5af03086-6ed8-4f51-a05c-a1d352cb1791",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCHltQkEaLxwloqDVsVmfwUw\" target=\"_blank\" rel=\"noreferrer\"><strong>IT University of Copenhagen</strong></a>"
+                },
+                {
+                  "id": "9ef21db9-b591-434b-9696-9e7bf73dfb76",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/QeLAXMYspT0?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "1623923e-e67b-462c-8817-4fd0efbbab9e",
+                  "type": "page_link",
+                  "targetId": "1623923e-e67b-462c-8817-4fd0efbbab9e",
+                  "title": "Espen Aarseth: Game Studies From The Hobbit to Minecraft",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "56d6adb1-07a8-485e-b736-a138aa6da037",
+              "type": "callout",
+              "html": "<strong><strong>Video Games &amp; Art Discussion Panel</strong></strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "5a20705c-aac3-46a1-bc93-e1e396c191ea",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/smithsonianamericanartmuseum\" target=\"_blank\" rel=\"noreferrer\"><strong>Smithsonian American Art Museum</strong></a>"
+                },
+                {
+                  "id": "dc53e609-c75d-4430-bcec-f959b51f4200",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/ydvs-piHHRk?start=34&feature=oembed&start=34",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "297481ed-cc8a-4892-a687-c743d1e7c8af",
+              "type": "callout",
+              "html": "<strong>Game Design Masterclass (w/ Jason Matthews)</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "f42f3674-bbbd-420a-b725-fcfa08b9c3b6",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.patreon.com/wydna/posts\" target=\"_blank\" rel=\"noreferrer\"><strong><strong>Pseudodoxology</strong></strong></a>"
+                },
+                {
+                  "id": "80155145-91d1-427e-9fe7-5468e0c85f78",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": ""
+                }
+              ]
+            },
+            {
+              "id": "58c34393-c7db-4a54-a46d-c9ef09fadada",
+              "type": "callout",
+              "html": "<strong><strong>Guy Debord's &quot;le jeu de la guerre&quot; part 1: interview Alex Galloway</strong></strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "26c8d25d-f8db-4f9d-843b-74b691b827a4",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/HomoLudens1871\" target=\"_blank\" rel=\"noreferrer\"><strong>Homo Ludens</strong></a>"
+                },
+                {
+                  "id": "9caad663-224b-42fd-be92-9bf111939a9d",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/CGjt8po_y4I?list=PLI_JrJAEQsRdFexjsSwd1qUITH_VKc6v5",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "7204dce5-cc17-4c6f-9c53-c878151e5162",
+              "type": "callout",
+              "html": "<strong><strong>The Legend of Zelda &amp; Theology</strong></strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "ce9390f4-d325-4ebe-b289-946ddbfc66ba",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/FourthUniversalistSociety\" target=\"_blank\" rel=\"noreferrer\"><strong>Fourth Universalist Society</strong></a>"
+                },
+                {
+                  "id": "fa471691-5b22-4465-b6cb-cbe90e6c4e86",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/R8fDbOrbtPw?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "2e15ecf7-23b6-4cf6-9815-177a26359e9e",
+              "type": "callout",
+              "html": "<strong>Which Way Will Gamer Culture Go?</strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "3976aaf9-8948-4374-9fdc-3fdcd02cfaac",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCPKaSxQ7frxGAwgaQ29P9Eg\" target=\"_blank\" rel=\"noreferrer\"><strong>Break The Rules</strong></a>"
+                },
+                {
+                  "id": "76e077bd-c382-4efb-bc71-b3711311afff",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/qvHdw82kSJI?start=5&feature=oembed&start=5",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "d48b5ad2-a5dc-499e-aa5b-65112793e2d8",
+              "type": "callout",
+              "html": "<strong>Cyberpunk Stream</strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "23db7a0c-9d60-468d-bd8c-4756c0ae3e88",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCPKaSxQ7frxGAwgaQ29P9Eg\" target=\"_blank\" rel=\"noreferrer\"><strong>Break The Rules</strong></a>"
+                },
+                {
+                  "id": "1c450f34-8cde-4556-b8a0-8d3ae7cf8365",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/fP-vDbaAI_A?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "5c5c7343-f075-4bba-861f-f512ad5052c2",
+              "type": "callout",
+              "html": "<strong>The 2017 Experimental Gameplay Workshop</strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "f6c1009d-9507-4b9e-a4b6-74c2569bb421",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\"><strong>GDC</strong></a>"
+                },
+                {
+                  "id": "ac95b17f-2163-4dd9-b819-28caf30c641a",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/Y4cCCgOXcNU?start=1202&feature=oembed&start=1202",
+                  "caption": ""
+                },
+                {
+                  "id": "5e307c28-f82e-4249-8020-731f68fce4fd",
+                  "type": "page_link",
+                  "targetId": "5e307c28-f82e-4249-8020-731f68fce4fd",
+                  "title": "The 2017 Experimental Gameplay Workshop",
+                  "notionType": "page"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e9691c7f-9a95-4c7d-b7a6-b82fc2d7f106",
+          "type": "column",
+          "children": [
+            {
+              "id": "541089b4-f590-484c-839f-8d340928adcd",
+              "type": "callout",
+              "html": "<strong><strong>The Ludic Century: A Debate</strong></strong>",
+              "icon": "💯",
+              "children": [
+                {
+                  "id": "e6e5f9fe-1446-4e51-899c-426348b91850",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC1W7wuvErj9Q9Lu3kTju-RQ\" target=\"_blank\" rel=\"noreferrer\"><strong>NYU Game Center</strong></a>"
+                },
+                {
+                  "id": "89b9fc87-5bae-4708-a03e-35720b4e8aea",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/VTZvak1lea4?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "db14e688-c844-48c2-84dd-4486d2aae702",
+              "type": "callout",
+              "html": "<strong><strong>Game Studies at 20</strong></strong>",
+              "icon": "🎂",
+              "children": [
+                {
+                  "id": "3f911f98-5fe6-447f-9f31-b1074d21933f",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC1W7wuvErj9Q9Lu3kTju-RQ\" target=\"_blank\" rel=\"noreferrer\"><strong>NYU Game Center</strong></a>"
+                },
+                {
+                  "id": "e181bcba-db65-4e2b-b545-e4fef9494df1",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/8OhKOhZMOvM?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "637e3643-ed6d-4bfb-bade-b4575924c015",
+              "type": "callout",
+              "html": "<strong>AlphaGo &amp; Neo-Confucianism -- Asian Philosophies</strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "da72ed10-05ff-4126-bd05-52ba20e10552",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCrlHpQRAmPFuuoAtG8qi6rQ\" target=\"_blank\" rel=\"noreferrer\"><strong>52 Living Ideas</strong></a>"
+                },
+                {
+                  "id": "e9f55d4e-e83d-4c53-878d-7eb6b306de6d",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/JaDVwqFz4tI?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "3b93bc49-836a-452e-8a94-de67978d0a04",
+              "type": "callout",
+              "html": "<strong><strong>Poetry as Play</strong></strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "f3358e80-9a1e-4b26-a649-1eed2024815e",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.poetryfoundation.org/podcasts/series/74636/poetryofftheshelf\" target=\"_blank\" rel=\"noreferrer\">Poetry Off The Shelf</a></strong>"
+                },
+                {
+                  "id": "c5347dec-e389-4a02-89b8-fdca8e0638e0",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "Poetry as Play - Poetry Off the Shelf | Poetry Foundation"
+                }
+              ]
+            },
+            {
+              "id": "551b5e84-d40c-466b-aea8-9c3889a31bbf",
+              "type": "callout",
+              "html": "<strong>Rosicrucian Space Force E2: Loos Foos &amp; The Fiberglass Cornflake – I Think I've Got You</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "b4475574-beb9-4a71-85fc-50e5bc1b7a71",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.patreon.com/ReadBooksVlt/posts\" target=\"_blank\" rel=\"noreferrer\"><strong><strong>Read Books Vlt.</strong></strong></a>"
+                },
+                {
+                  "id": "b4b31768-9427-4048-908c-b9f11e154f70",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": ""
+                }
+              ]
+            },
+            {
+              "id": "f8ce6ac6-0942-40bd-b9b4-0d7a54fbd0f0",
+              "type": "callout",
+              "html": "<strong><strong>Fighting Games, Combat Sports, &amp; The Life Lessons They Taught Us | Jam Radio w/ Pattheflip</strong></strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "1ab6c648-2399-4229-bcee-78142c492c46",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/user/SupermanSajam\" target=\"_blank\" rel=\"noreferrer\"><strong>Sajam</strong></a>"
+                },
+                {
+                  "id": "33becf1b-084f-4921-8b44-84e4540b0a48",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/HdAEpj0FDAY?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "e957e9ab-de68-4773-b6c9-a4f0b7430c4d",
+              "type": "callout",
+              "html": "<strong>KULTURE DADS 002 — The RPG</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "2d196f30-243e-4ee3-bc8f-2b7d83f78495",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC0LwzH8A9m4Jj_74jl63cog\" target=\"_blank\" rel=\"noreferrer\"><strong>Imperium Press</strong></a>"
+                },
+                {
+                  "id": "f4fc9e56-28e4-4aa8-a225-c33651659de1",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/SxK5WguZ6lQ?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "acf46348-6091-4295-8c6a-a83797666b9b",
+              "type": "callout",
+              "html": "<strong>Why Play-To-Earn NFT Games are NOT THE FUTURE! | with Callum Upton</strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "dec17a7d-943f-43eb-8e15-e6133bbb6577",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCKr-aOmHkFUg6P9B8A_6jgQ\" target=\"_blank\" rel=\"noreferrer\"><strong>Josh Strife Says</strong></a>"
+                },
+                {
+                  "id": "98c49032-afdc-49d2-bdbd-aec523280439",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/HdeBqbiqm20?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "e979a984-b09d-4c08-9f17-118c8ecb9bd8",
+                  "type": "paragraph",
+                  "html": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "78789c2a-d0d5-4d39-ac9b-2a376c11dd75",
+          "type": "column",
+          "children": [
+            {
+              "id": "f75b1da5-a2d1-4d6a-a8d8-9356ae3d44a0",
+              "type": "callout",
+              "html": "<strong>The Science of Play</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "e82879ce-8e98-44d2-8189-b4a3a8f07dfb",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.wnycstudios.org/people/radiolab\" target=\"_blank\" rel=\"noreferrer\"><strong>Radiolab</strong></a>"
+                },
+                {
+                  "id": "cf5a84f3-fa98-409e-a703-d123b48671d5",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "The Science of Play | Radiolab | WNYC Studios"
+                }
+              ]
+            },
+            {
+              "id": "ed40ff6c-db5d-4868-8961-b5f398489334",
+              "type": "callout",
+              "html": "<strong><strong>Spiritual Experiences (with Dr. Felix Schniz)</strong></strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "262cbbf6-ccbd-4492-a926-8517e8c12c46",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://studyingpixels.com/episode-sorting/\" target=\"_blank\" rel=\"noreferrer\"><strong>Studying Pixels</strong></a>"
+                },
+                {
+                  "id": "e78978e2-abf2-47d0-9813-9de358113619",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "Spiritual Experiences (with Dr. Felix Schniz) - Studying Pixels"
+                }
+              ]
+            },
+            {
+              "id": "030055c1-a56d-481a-a373-570d11513f66",
+              "type": "callout",
+              "html": "<strong>The New gods of Modern Storytelling | with Ben Hatke</strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "e412c31a-a39c-478e-8dd8-e607a9182a30",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCtCTSf3UwRU14nYWr_xm-dQ\" target=\"_blank\" rel=\"noreferrer\"><strong>Jonathan Pageau</strong></a>"
+                },
+                {
+                  "id": "70041815-ded8-45c3-a253-cbbd3fda6d7c",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/OCl_UphiIR4?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "545497ee-b61f-4ceb-93d2-2be9da042efb",
+              "type": "callout",
+              "html": "<strong>Roundtable Discussion - What's the point of game studies?</strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "d125c474-71ce-4c05-a846-612f311f14f2",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCRVJMmMMM_wKMejgdiwzZ9g\" target=\"_blank\" rel=\"noreferrer\">Center for Computer Games Research</a></strong>"
+                },
+                {
+                  "id": "160acc5a-4085-4367-9e7a-638f17fd394d",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/Y0dPoNLpWQ8?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "a872a1ed-9bba-4353-8b4e-ca84dedb095d",
+              "type": "callout",
+              "html": "<strong><strong>John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets</strong></strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "b40cff10-62dc-4aa6-a48f-d4579dbf97fb",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/c/lexfridman\" target=\"_blank\" rel=\"noreferrer\">Lex Fridman</a></strong>"
+                },
+                {
+                  "id": "c0d97fb0-486d-4408-a334-a586fb8dbfc6",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/I845O57ZSy4?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "4a48c08e-9ba6-4563-b40b-47f1b030a089",
+              "type": "callout",
+              "html": "<strong>Yeah, I Make Games Podcast - Ep 1 - (feat Breogan Hackett, Adam Pype, Miziziziz)</strong>",
+              "icon": "🎙️",
+              "children": [
+                {
+                  "id": "1e91d684-c791-43ee-986e-c5c53a5a8099",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCHIwWkRxpQnc0CrBH_pjUGA\" target=\"_blank\" rel=\"noreferrer\"><strong>Yeah, I Make Games</strong></a>"
+                },
+                {
+                  "id": "83dc9f19-2fe2-4f1c-bb21-298e071d9f89",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/6_J-5pyty9k?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "357ec5a8-0660-4b50-8245-1add4b1b5468",
+              "type": "callout",
+              "html": "<strong>What is the human potential in Climbing? // Schooled by Adam Ondra</strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "870440fa-fc6c-4ca3-acab-6cdb3998f45f",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UC_gSotrFVZ_PiAxo3fTQVuQ\" target=\"_blank\" rel=\"noreferrer\">Magnus Midtbø</a></strong>"
+                },
+                {
+                  "id": "03be743d-98db-466c-b3fb-8e2d98001864",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/8-5yuVuDFzU?start=487&feature=oembed&start=487",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "b3397535-8c57-4335-8dfe-68bd0561ff53",
+              "type": "callout",
+              "html": "<strong>𒐪𒐪! (Philosophers on Twitch discussing NFTs)</strong>",
+              "icon": "📺",
+              "children": [
+                {
+                  "id": "9bf77af4-0627-464a-b7f9-1aa49a847fb3",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCt539OCS94n2Zo7dN7R2DKA\" target=\"_blank\" rel=\"noreferrer\"><strong>Michael Curzi</strong></a>"
+                },
+                {
+                  "id": "842eb343-0e92-46ce-8bb2-80c006b3a441",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/bp21_zn1h2Q?start=3605&feature=oembed&start=3605",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4bdae068-f367-4b1b-a3a3-32c8f7a486c6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "18ceaa5e-23d6-4591-8253-15d56b1b540b",
+      "type": "divider"
+    },
+    {
+      "id": "44370261-491d-42b0-a17a-e2e2cfca3f51",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "38efd465-740a-4a78-bfef-a0db4514e81f",
+      "type": "paragraph",
+      "html": "<a href=\"#/all-lectures\">Lectures</a>"
+    },
+    {
+      "id": "a9b01bd2-85d9-4165-9b72-2228269f3daf",
+      "type": "alias_link",
+      "targetId": "4c0dd493-cab5-487c-860b-27febc60fb3f",
+      "title": "Linked page"
+    },
+    {
+      "id": "377cef7f-ed08-4439-9afc-acafaed38cd1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3cd61682-1469-4626-9736-dc7c667828f2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6bc69806-dd0e-4ae9-9375-8cd70bb797ea",
+      "type": "paragraph",
+      "html": "<a href=\"#/shortform-writing\"><u>☜Essays(+)</u></a>"
+    },
+    {
+      "id": "133054b3-1382-411e-aaea-680e96f0d579",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "0c5f4e46-fa60-4e28-ae71-9efa426b26b1",
+  "slug": "adventures-in-the-wilderness",
+  "title": "Adventures In The Wilderness",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Adventures-In-The-Wilderness-0c5f4e46fa604e28ae719efa426b26b1?pvs=21",
+  "createdTime": 1668713426769,
+  "lastEditedTime": 1681310386299,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Adventures In The Wilderness",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a7cfcaef40fc.webp",
+  "blocks": [
+    {
+      "id": "29e1e189-8bf9-4871-9a7a-af58436c9c91",
+      "type": "divider"
+    },
+    {
+      "id": "6d0f1f33-20c1-4199-b18a-73f3f41b390f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "92a5fef5-f6f7-4488-b5ce-fe772099bfcd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5888cb63-2a71-4eb8-8d26-bd17738e2aa0",
+          "type": "column",
+          "children": [
+            {
+              "id": "c713920e-9525-461d-a0bf-a776dc2ced60",
+              "type": "paragraph",
+              "html": "<em><strong>Adventures In The Wilderness</strong></em> was written by William H. H. Murray, originally published by Fields, Osgood, &amp; Co in 1869."
+            },
+            {
+              "id": "a88c5d6c-76dc-4329-a703-dd621f03098c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6ee30302-a1e2-40c6-9cfb-67db4fee2fc6",
+              "type": "quote",
+              "html": "<em><strong>The Very First Book on Camping in America and the Great Benefits of Wilderness Travel<br><br></strong></em><em>Originally published in 1869, this vintage book is the first of its kind to suggest how camping can be a great escape from urban everyday life and how the wilderness can restore vitality to all who visit its trees and mountains.<br><br>The historic account by Murray is widely regarded as the first book on camping published in the United States. Murray shared with readers the substantial benefits that you could get by escaping from urban life by retreating to the pristine wilderness of the Adirondacks. Along with the discussion on what readers can benefit from nature, Murray shares perhaps the first “how-to” manual on camping, including how to outfit yourself and what equipment you need, where to stay, how to cook and eat in the wilderness, how to stay healthy in the wilds, fishing, hunting, and finding solace and spiritual connection in the woods.<br><br>This vintage book includes timeless knowledge about wilderness life, which has largely been lost to time, but never forgotten by the old masters. Although this book represents thought from a former time, it also reveals much about the rich history of camping and the wilderness, and many of the tips, tricks, and discussions are still relevant for study today!</em>"
+            },
+            {
+              "id": "38da5f84-e5ca-4b0b-86cc-7bc3c9a1839b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d3196c18-6e04-437f-85cb-cdc98577bc27",
+          "type": "column",
+          "children": [
+            {
+              "id": "320bc722-0e73-4ac6-802f-04c5ab837b89",
+              "type": "image",
+              "src": "./assets/images/untitled-a7cfcaef40fc.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15d71b2e-65ba-4b83-80fe-77708ce6b231",
+      "type": "divider"
+    },
+    {
+      "id": "d9a85fab-1f07-4c85-8b03-2746386e5c76",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3a2ae86b-9a5f-4cd2-9298-9add2ed4fcad",
+          "type": "column",
+          "children": [
+            {
+              "id": "e50a80a7-d580-4ad6-84aa-d4de2eb1a171",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2e27d5a6-3a5d-4692-93c8-8b1651d451a5",
+          "type": "column",
+          "children": [
+            {
+              "id": "6fa4f3bf-7663-4d97-963a-b78f0e753eaf",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Adventures-Wilderness-Legacy-Recreational-Adirondacks/dp/1643891243/ref=sr_1_1?crid=1CT4PGTL9LJ4G&amp;keywords=adventures+in+the+wilderness+murray&amp;qid=1666884268&amp;qu=eyJxc2MiOiIxLjI3IiwicXNhIjoiMC41MCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=Adventures+in+the+Wilderness%2Caps%2C193&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a59d4fd8-154e-40e2-b7ee-5bb944aa350b",
+      "type": "divider"
+    }
+  ]
+}

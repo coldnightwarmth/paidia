@@ -1,0 +1,131 @@
+{
+  "id": "d64b5ed8-8887-452c-bf9f-a0fa9b9fd578",
+  "slug": "the-lore-and-language-of-schoolchildren",
+  "title": "The Lore & Language of Schoolchildren",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d64b5ed88887452cbf9fa0fa9b9fd578",
+  "createdTime": 1651705795680,
+  "lastEditedTime": 1681314092919,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Lore & Language of Schoolchildren",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a62181629fa2.webp",
+  "blocks": [
+    {
+      "id": "9a975611-6ead-4ded-9ce4-2465e6dcd087",
+      "type": "divider"
+    },
+    {
+      "id": "89c904f1-4735-46fa-aed6-95de06d8549e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5088437a-e6b8-4a4a-9bea-f13ca69d6bc1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "079725b2-eb47-4e7e-a2f2-1e68dc6621e3",
+          "type": "column",
+          "children": [
+            {
+              "id": "7f27a5dd-07bc-4ffa-a726-6086b5010a36",
+              "type": "paragraph",
+              "html": "<em><strong>The Lore &amp; Language of Schoolchildren</strong></em> was written by <a href=\"#/iona-and-peter-opie\">Iona &amp; Peter Opie</a>, originally published by Oxford University Press in 1959."
+            },
+            {
+              "id": "f1d2ca52-62a2-4c72-9e23-76135d5d8884",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e80076e9-634d-4390-807e-99456812f54d",
+              "type": "quote",
+              "html": "<em>First published in 1959, Iona and Peter Opie's </em>The Lore and Language of Schoolchildren<em> is a pathbreaking work of scholarship that is also a splendid and enduring work of literature. Going outside the nursery, with its assortment of parent-approved entertainments, to observe and investigate the day-to-day creative intelligence and activities of children, the Opies bring to life the rites and rhymes, jokes and jeers, laws, games, and secret spells of what has been called &quot;the greatest of savage tribes, and the only one which shows no signs of dying out.&quot;</em>"
+            },
+            {
+              "id": "20f9212a-00a9-4d7f-8fdc-e8575a16e853",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "6d02e25e-eeb1-4503-871a-02b9f202bb73",
+          "type": "column",
+          "children": [
+            {
+              "id": "a16aab88-b3ee-4fc2-a863-0aa7afc362d9",
+              "type": "image",
+              "src": "./assets/images/untitled-a62181629fa2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15f737d4-a593-4f07-bca2-39baa0f7a905",
+      "type": "divider"
+    },
+    {
+      "id": "00df90b1-a8ba-47af-8efa-b04d03e84fa7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5827a1c7-1285-4335-ab52-bfce57f86783",
+          "type": "column",
+          "children": [
+            {
+              "id": "f546f535-390c-4df3-be46-b37dc90a84f9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c63908d9-e953-4854-8829-6d01b6b1ef5d",
+          "type": "column",
+          "children": [
+            {
+              "id": "d28aef36-b885-4fa2-a605-9cc9bb2b68a2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3nhbNuS\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6237c6ac-b64d-442c-b3e2-d13d23557c92",
+      "type": "divider"
+    }
+  ]
+}

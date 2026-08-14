@@ -1,0 +1,141 @@
+{
+  "id": "8c26e286-08ab-4da8-b096-a9b8e5102069",
+  "slug": "godwired",
+  "title": "Godwired",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Godwired-8c26e28608ab4da8b096a9b8e5102069?pvs=21",
+  "createdTime": 1651684893420,
+  "lastEditedTime": 1681313494350,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Godwired"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ad5d09dff6f8.webp",
+  "blocks": [
+    {
+      "id": "fc8e1ebd-7987-43e1-aa77-9e6261335b8e",
+      "type": "divider"
+    },
+    {
+      "id": "88c9ccf4-e226-4750-a8c2-ecfb7fd5cb49",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1ec2c750-7026-4dab-a062-1982ef619c7b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6d6cfb06-2d52-493b-ba7a-9f99ea456e80",
+          "type": "column",
+          "children": [
+            {
+              "id": "4e91ca2d-9d8f-48cf-b70c-116c736afa9d",
+              "type": "paragraph",
+              "html": "<em><strong>Godwired: Religion, Ritual &amp; Virtual Reality</strong></em> was written by Rachel Wagner, published by Routledge, November 9, 2011."
+            },
+            {
+              "id": "28071e81-c4b7-4346-81c9-a1f3a5e568fb",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ddd92a55-5930-4afa-91f0-4dba1f22ff81",
+              "type": "quote",
+              "html": "Godwired<em> offers an engaging exploration of religious practice in the digital age. It considers how </em><a href=\"#/the-virtual\"><em>virtual</em></a><em> experiences, like stories, games and </em><a href=\"#/ritual\"><em>rituals</em></a><em>, are forms of </em><a href=\"#/world-building\"><em>world-building</em></a><em> or &quot;cosmos construction&quot; that serve as a means of making sense of our own world. Such creative and interactive activity is, arguably, patently religious.<br><br>This book examines:</em>"
+            },
+            {
+              "id": "dbb2ec4a-536b-4eea-9552-4b8bd5f25fd4",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "229df1cd-d810-4690-a541-51b470d426e3",
+          "type": "column",
+          "children": [
+            {
+              "id": "a3c261f2-fc6e-4198-931e-3ad84c6c8d13",
+              "type": "image",
+              "src": "./assets/images/untitled-ad5d09dff6f8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07273738-eb81-432a-8c6d-d61bafa59479",
+      "type": "divider"
+    },
+    {
+      "id": "9e743c3f-ee06-4b69-ab81-9cd6b239d758",
+      "type": "columns",
+      "children": [
+        {
+          "id": "40b55f13-d618-44ad-8aa8-fd74a47205aa",
+          "type": "column",
+          "children": [
+            {
+              "id": "ae8fc428-5e99-409b-aebb-6060c793a085",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ade08472-3cd7-4925-8e85-6e6648f8da49",
+          "type": "column",
+          "children": [
+            {
+              "id": "a7a006c4-eca9-4cd7-a5a9-88e5f0fe13c0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3wN4Q9d\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8dc70e13-90d3-406c-ba12-f612b5873508",
+      "type": "divider"
+    },
+    {
+      "id": "3914d823-9d92-4e65-a1f9-311fb88a9c12",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "328a531f-fce3-4b76-bd4b-05b473ead907",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "cda4d755-9325-47e8-8b13-7598f71dc829",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

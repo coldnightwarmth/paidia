@@ -1,0 +1,162 @@
+{
+  "id": "ce619b1b-2ebe-4691-a7f0-81effd37e074",
+  "slug": "selecting-a-portfolio-platform",
+  "title": "Selecting a Portfolio Platform",
+  "icon": "🦚",
+  "cover": "",
+  "type": "page",
+  "parentId": "7b5f9f3f-f702-41d5-8d48-54aa0a367ce9",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/ce619b1b2ebe4691a7f081effd37e074",
+  "createdTime": 1711198564308,
+  "lastEditedTime": 1711198564308,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Selecting a Portfolio Platform"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "2c4903d6-67ea-4456-93a6-428972b29cdb",
+      "type": "subheader",
+      "html": "🤔 What is the best way to showcase my work?",
+      "anchorId": "what-is-the-best-way-to-showcase-my-work"
+    },
+    {
+      "id": "4c584535-1c6b-438d-b86f-403049b2ef3b",
+      "type": "divider"
+    },
+    {
+      "id": "3f1e6be3-684f-4414-bab0-202102223274",
+      "type": "quote",
+      "html": "Most of the time, it comes down to what will be the easiest for you to build, and maintain in the long-term."
+    },
+    {
+      "id": "b9fce8c3-fb69-4584-a399-d9ce4899fdd2",
+      "type": "subsubheader",
+      "html": "Key Considerations.",
+      "anchorId": "key-considerations"
+    },
+    {
+      "id": "62b62385-a701-41ad-972e-d7ab5c8033a1",
+      "type": "paragraph",
+      "html": "The 'best' solution will differ from person to person, depending on variances in time available, and technical capabilities. However, one of the most important things to consider when evaluating potential solutions is that, other than the quality of content, by far the most important aspect of your portfolio will be ease of viewing. This aspect should absolutely be prioritised as it will play a key role in reducing friction with potential new employers reviewing your work. With that in mind, there is absolutely no need to build a fancy custom website unless you need functionality not available from the major platforms, and/or are otherwise compelled to. "
+    },
+    {
+      "id": "70fb68f7-6319-43ae-ab7a-d58c4e0d969a",
+      "type": "paragraph",
+      "html": "Another key aspect to factor in is to select a solution that will be easy to maintain, edit, and add to, as time goes on and you accrue more pieces. There should be as little effort involved in you getting your latest work out there. You can absolutely host your work on multiple platforms, but be mindful of the potential overhead associated with keeping them all in-sync."
+    },
+    {
+      "id": "614a3a49-5fe0-4a1d-aeec-674c70fe2c49",
+      "type": "subheader",
+      "html": "💠 So what are the options?",
+      "anchorId": "so-what-are-the-options"
+    },
+    {
+      "id": "ccaeb5a6-6dd0-4629-be0e-2bf94d3663bb",
+      "type": "divider"
+    },
+    {
+      "id": "52d4ed73-b666-46a6-b528-53c0eeaf7bc9",
+      "type": "quote",
+      "html": "Ranging from ultra-basic, to highly complex, you will typically be choosing your medium from one of three tiers."
+    },
+    {
+      "id": "049ee365-cc91-4895-b465-89157fef99e3",
+      "type": "subsubheader",
+      "html": "Tier 1: Basic.",
+      "anchorId": "tier-1-basic"
+    },
+    {
+      "id": "782492d2-c4d5-43c7-ace8-6d6cbdd40895",
+      "type": "paragraph",
+      "html": "This especially applies to Art &amp; Design disciplines, but there is absolutely nothing wrong with showcasing your portofolio as a PDF document. They are super easy to browse through, and allow a lot of freedom in layout, as well as having basic interactive features like hyperlinks the viewer can click on to guide them through the document, or to external URLs."
+    },
+    {
+      "id": "05c8516b-7fae-46bb-9245-1796c35de786",
+      "type": "paragraph",
+      "html": "Almost all browsers have native PDF display, so you can even host the file directly on your custom domain, so that if someone were to visit <em>www.yourname.com</em>, it could load up right away without download, just as visiting a webpage."
+    },
+    {
+      "id": "39390ad8-56e9-4fc7-a748-0d376d391883",
+      "type": "callout",
+      "html": "These days, it is no longer expected to lug a physical portfolio book to interviews anymore, so don't worry about that as a format to create for.<br>If you are really compelled to bring your work into an interview to talk about it, you're best off bringing your digital portfolio along via tablet or laptop.",
+      "icon": "⚠️",
+      "children": []
+    },
+    {
+      "id": "0ea9f745-95c6-44c9-85b6-0ded07acca21",
+      "type": "subsubheader",
+      "html": "Tier 2: Prefabs.",
+      "anchorId": "tier-2-prefabs"
+    },
+    {
+      "id": "05d2a925-ebf1-48e1-852b-50ec0634fc10",
+      "type": "paragraph",
+      "html": "There are a number of prefabricated portfolio platforms out there, ranging in freedom of customisation, and ranging in cost. Some of these even allow you to host your content on a custom domain."
+    },
+    {
+      "id": "03bf22e3-32d1-4e7e-8155-7d194147a4e8",
+      "type": "paragraph",
+      "html": "There are two distinct advantages with these:"
+    },
+    {
+      "id": "03cf9b1d-0318-494b-ad8c-411e563f3095",
+      "type": "bulleted_list",
+      "html": "The platform does all of the heavy lifting, generally only requiring you to pick what content you want to upload."
+    },
+    {
+      "id": "d2d0efd4-7ba2-42e4-b5dd-800d89057b98",
+      "type": "bulleted_list",
+      "html": "A lot of these platforms also serve as 'Discovery' networks, allowing others, who perhaps don't know you yet, to easily find you and your work."
+    },
+    {
+      "id": "6e73a336-df46-411a-8919-21b7de237d65",
+      "type": "paragraph",
+      "html": "This option is generally the most popular choice amongst those looking to showcase their work online."
+    },
+    {
+      "id": "e4b700a8-7f67-4e1c-8c58-d487d7357646",
+      "type": "callout",
+      "html": "For a list of recommended online portfolio platforms, please refer to:<br> ‣ ",
+      "icon": "💡",
+      "children": []
+    },
+    {
+      "id": "d1929f16-2d2b-4a39-abdf-daade0a3981e",
+      "type": "callout",
+      "html": "The usage of solutions which operate as a 'Closed Platform' is strongly <strong>disrecommended</strong> as they require the user to have an account to view the content on display, and you will potentially be preventing critical viewers (such as a Hiring Manager) from seeing your work.<br>Some notable examples of these platforms include <em>Instagram, </em>and <em>Pinterest</em>, or any Social Media profiles set to 'Private'.",
+      "icon": "⚠️",
+      "children": []
+    },
+    {
+      "id": "63497e87-fca3-47ac-b5db-f4eca3b5152d",
+      "type": "subsubheader",
+      "html": "Tier 3: Custom Website.",
+      "anchorId": "tier-3-custom-website"
+    },
+    {
+      "id": "79a863f7-b740-4489-b4b5-5a01d1820b62",
+      "type": "paragraph",
+      "html": "As the most advanced option, you can either hire someone to build a custom solution for you, or if you're feeling brave, you can build a website yourself."
+    },
+    {
+      "id": "9643c33b-8fb4-4d1b-b04e-7551a7902ddc",
+      "type": "paragraph",
+      "html": "There are many ways to go about this, from hand-coding HTML and CSS, to using a WYSIWIG tool like <a href=\"https://webflow.com/\" target=\"_blank\" rel=\"noreferrer\">Webflow</a>."
+    },
+    {
+      "id": "48a52cf1-ee78-4a47-af81-e09d6a372382",
+      "type": "paragraph",
+      "html": "The major advantage of this solution is complete control over every aspect of your content and presentation, and if done to an incredibly high standard of quality, can come off as the most professional-looking solution."
+    }
+  ]
+}

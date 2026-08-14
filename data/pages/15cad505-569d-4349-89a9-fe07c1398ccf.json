@@ -1,0 +1,131 @@
+{
+  "id": "15cad505-569d-4349-89a9-fe07c1398ccf",
+  "slug": "at-play-in-the-fields-of-writing",
+  "title": "At Play In The Fields Of Writing",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/At-Play-In-The-Fields-Of-Writing-15cad505569d434989a9fe07c1398ccf?pvs=21",
+  "createdTime": 1668797711039,
+  "lastEditedTime": 1681310962097,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "At Play In The Fields Of Writing",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c4983a966409.webp",
+  "blocks": [
+    {
+      "id": "417298bd-74fa-4990-935b-d1762ea9e477",
+      "type": "divider"
+    },
+    {
+      "id": "265bfe96-5b7b-4b09-b46f-5e831d25ddac",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3bcc4b78-9858-4851-b368-b85fa69366de",
+      "type": "columns",
+      "children": [
+        {
+          "id": "82988b3c-ec14-47f7-afbc-5c183637191d",
+          "type": "column",
+          "children": [
+            {
+              "id": "89fd3aa2-fed9-4dee-93e1-12d83a4e0fe8",
+              "type": "paragraph",
+              "html": "<em><strong>At Play In The Fields Of Writing: A Serio-ludic Rhetoric</strong></em> was written by Albert Rouzie, published by Hampton Press, January 1, 2005."
+            },
+            {
+              "id": "5a2207ad-cb62-49be-8024-9254df4b135f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "14447215-8933-48db-80e1-fa92db649084",
+              "type": "quote",
+              "html": "<em>We have inherited the notion of play as the opposite of work. This has led us to experience work as alienated labor and to think of adult play as irrelevant and inconsequential. This way of thinking has informed writing instruction and is even expressed in the way English departments are structured. This volume offers English studies a new way of looking at the role of play in student composing and the place of playfulness in college writing classrooms. The author moves beyond the work/play divide by offering the concept of serio-ludic rhetoric, discourse that straddles the fence between serious and playful activity and functions as a force for critique and change in social educational settings. Serio-ludic rhetoric defines play with language and images as a synthesis of work and play that is rhetorically productive, can help overcome student alientation, and help heal the split between rhetoric and poetic in English studies. The book eplores this concept through analysis of student and instructor electronic projects and synchronous discussion confenernces, demonstrating that serio-ludic discourse is often creative, productive, and rhetorically invigorating. It offers a vision of the writing classroom that can help instructors find ways of making a place for productive play in their courses and professional lives.</em>"
+            },
+            {
+              "id": "b5335ad6-3436-4855-9b53-559459188d32",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "af867f3e-fdc9-4d0d-8d70-65e5fac76ff4",
+          "type": "column",
+          "children": [
+            {
+              "id": "979bda35-6719-4d83-83b3-34a6ed2db546",
+              "type": "image",
+              "src": "./assets/images/untitled-c4983a966409.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "967b438f-dc67-4af6-ba25-8a89db5fb7a8",
+      "type": "divider"
+    },
+    {
+      "id": "b9c1238c-fffe-41f3-841a-70de27f0ba19",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3bad5ce1-7c4e-4220-92a2-6ad20797151b",
+          "type": "column",
+          "children": [
+            {
+              "id": "1a7f46b7-e5f2-4bd4-8f77-f233c3279f59",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f8e3fab4-2d56-45a4-9719-1a6205af8516",
+          "type": "column",
+          "children": [
+            {
+              "id": "5057b285-ad67-4330-95ce-d620cd69d4d8",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Play-Fields-Writing-Serio-ludic-COMPOSITION/dp/1572736291/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1667235090&amp;sr=1-106\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3b9afa2c-a9bb-4f61-bd60-9efb541f6ea7",
+      "type": "divider"
+    }
+  ]
+}

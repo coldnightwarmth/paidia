@@ -1,0 +1,131 @@
+{
+  "id": "61139df4-b081-4675-94c6-02719c2d38d0",
+  "slug": "raising-the-stakes",
+  "title": "Raising the Stakes",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Raising-the-Stakes-61139df4b081467594c602719c2d38d0?pvs=21",
+  "createdTime": 1652636760570,
+  "lastEditedTime": 1681314030655,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Raising the Stakes"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2c27c6d42159.webp",
+  "blocks": [
+    {
+      "id": "5a3fa318-9810-400f-8ca1-d812a542f26d",
+      "type": "divider"
+    },
+    {
+      "id": "3ef01b91-4215-43c7-bc0e-a8ca4da31478",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5b348edf-cf2c-4510-99f7-1cb77953e11e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0ec3b74e-0af4-4fc7-9729-d9fddb3a65f1",
+          "type": "column",
+          "children": [
+            {
+              "id": "ca7e1d24-a8a6-42d8-982a-1787617d11b2",
+              "type": "paragraph",
+              "html": "<em><strong>Raising the Stakes: E-Sports &amp; the Professionalization of Computer Gaming</strong></em> was written by T.L. Taylor, published by The MIT Press, March 23, 2012."
+            },
+            {
+              "id": "ca05f263-9cc9-4b34-aa75-feffb84d039b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a6fd269b-ca1c-4c14-95d2-2c6fc461cfa8",
+              "type": "quote",
+              "html": "<em>Competitive video and computer game play is nothing new: the documentary </em>King of Kong<em> memorably portrays a </em>Donkey Kong<em> player's attempts to achieve the all-time highest score; the television show </em>Starcade<em> (1982--1984) featured competitions among arcade game players; and first-person shooter games of the 1990s became multiplayer through network play. A new development in the world of digital gaming, however, is the emergence of professional computer game play, complete with star players, team owners, tournaments, sponsorships, and spectators. In </em>Raising the Stakes<em>, T. L. Taylor explores the emerging scene of professional computer gaming and the accompanying efforts to make a sport out of this form of play. In the course of her explorations, Taylor travels to tournaments, including the World Cyber Games Grand Finals (which considers itself the computer gaming equivalent of the Olympics), and interviews participants from players to broadcasters. She examines pro-gaming, with its highly paid players, play-by-play broadcasts, and mass audience; discusses whether or not e-sports should even be considered sports; traces the player's path from amateur to professional (and how a hobby becomes work); and describes the importance of leagues, teams, owners, organizers, referees, sponsors, and fans in shaping the structure and culture of pro-gaming. Taylor connects professional computer gaming to broader issues: our notions of play, work, and sport; the nature of spectatorship; the influence of money on sports. And she examines the ongoing struggle over the gendered construction of play through the lens of male-dominated pro-gaming. Ultimately, the evolution of professional computer gaming illuminates the contemporary struggle to convert playful passions into serious play.</em>"
+            },
+            {
+              "id": "f765026a-e208-40cb-a078-04c3bf40b093",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "17bae68f-dae6-4812-a423-f149a9466d41",
+          "type": "column",
+          "children": [
+            {
+              "id": "ee0b5e81-1e1f-4335-a640-c9e742c04524",
+              "type": "image",
+              "src": "./assets/images/untitled-2c27c6d42159.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f13e00ef-7376-417d-ae5c-3a97d1ebc46a",
+      "type": "divider"
+    },
+    {
+      "id": "2f2e15f6-be9c-4d2c-885d-1e7fb32c5061",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8f1dace9-a337-4e0d-9cb8-57692c092705",
+          "type": "column",
+          "children": [
+            {
+              "id": "680c012a-39b9-4b65-a921-279e2463802e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "95266ddf-6ba8-4655-a483-a85aa49249b1",
+          "type": "column",
+          "children": [
+            {
+              "id": "b74c868a-d0c7-4c6d-8d86-6e113d1c38de",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sKABOF\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89e3e0ba-e20b-482e-98e6-eed46655417d",
+      "type": "divider"
+    },
+    {
+      "id": "3242594e-ce0c-462f-b211-79c998ce8170",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

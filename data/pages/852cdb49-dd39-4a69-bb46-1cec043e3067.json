@@ -1,0 +1,131 @@
+{
+  "id": "852cdb49-dd39-4a69-bb46-1cec043e3067",
+  "slug": "heroic-worlds",
+  "title": "Heroic Worlds",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Heroic-Worlds-852cdb49dd394a69bb461cec043e3067?pvs=21",
+  "createdTime": 1667408234800,
+  "lastEditedTime": 1681312657394,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Heroic Worlds",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e192dd35717d.webp",
+  "blocks": [
+    {
+      "id": "3462a0d6-ea2a-46e4-b025-c68880b7bbc5",
+      "type": "divider"
+    },
+    {
+      "id": "c802ebf4-2c7a-47a9-a605-e5d842638de4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "71b55175-0533-46a2-bd82-a32a773907e3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a83dc5c5-9d18-4731-bf7c-58102684ea9c",
+          "type": "column",
+          "children": [
+            {
+              "id": "d60331c1-6563-4e02-a241-550f6f537c1b",
+              "type": "paragraph",
+              "html": "<em><strong>Heroic Worlds: A History &amp; Guide to Role-Playing Games</strong></em> was written by Lawrence Schick, published by Prometheus, July 1, 1991."
+            },
+            {
+              "id": "e42ef285-ca35-4976-a577-6107c7925c03",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9bc9e967-1f2a-4806-bb1f-717d4a8f8dda",
+              "type": "quote",
+              "html": "<em>This history of role-playing games such as </em>Dungeons and Dragons <em>explains their evolution and gives complete definitions and descriptions for related game products.Arriving on the scene in 1973, such games caught on rapidly and spawned a thriving industry. These games are regularly played improvisations, with rules that allow for consistent resolution of action, in which heroic characters created by the players battle enemies or solve mysteries. Featuring essays by eighteen top industry designers, </em>Heroic Worlds<em> explains the evolution of role-playing games and their influence on other forms of entertainment. The art and jargon of game design, play, and collection are defined in detail.</em>"
+            },
+            {
+              "id": "815f5810-181f-48c7-8e46-ffb59a4a13ae",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "506b1754-1e20-44a1-9393-ae8d3ae34dd1",
+          "type": "column",
+          "children": [
+            {
+              "id": "ef574b80-861a-4270-995a-e6c71753e618",
+              "type": "image",
+              "src": "./assets/images/untitled-e192dd35717d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ae7f7ff-0d8c-46e8-8517-810d71b74f84",
+      "type": "divider"
+    },
+    {
+      "id": "ed1f0582-d3e5-4b13-800e-0e94402c55d9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1364b159-9d73-429a-99b4-e6e2dbe214b7",
+          "type": "column",
+          "children": [
+            {
+              "id": "46b15feb-2ff3-418c-a7be-330c051b6be8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f931e446-c00b-4a28-905d-92cb692fc4f5",
+          "type": "column",
+          "children": [
+            {
+              "id": "f9b2175a-59cd-447e-806a-0eefe6debbc9",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sQn4VV\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2dbb288f-8892-409e-bb9e-19804ac501c3",
+      "type": "divider"
+    }
+  ]
+}

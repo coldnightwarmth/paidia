@@ -1,0 +1,126 @@
+{
+  "id": "894d535f-10d7-48bb-a0ca-1df25f75faa8",
+  "slug": "video-games-and-the-global-south",
+  "title": "Video Games & the Global South",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Video-Games-the-Global-South-894d535f10d748bba0ca1df25f75faa8?pvs=21",
+  "createdTime": 1657236578248,
+  "lastEditedTime": 1681313912653,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Video Games & the Global South",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fbbb30c0ddac.webp",
+  "blocks": [
+    {
+      "id": "54030e33-8f7b-410a-9db3-a317bad5282f",
+      "type": "divider"
+    },
+    {
+      "id": "5d40f51c-09f5-4a38-9d92-f4615201e255",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6b1d9d09-3005-449e-9c0b-1baed8e0cbca",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a478fc7d-38a0-48e5-8aa4-a8000cc993be",
+          "type": "column",
+          "children": [
+            {
+              "id": "12b22c5d-8c6b-404d-8586-a9c7e74c8fc7",
+              "type": "paragraph",
+              "html": "<em><strong>Video Games &amp; the Global South</strong></em> was written by Phillip Penix-Tadsen, self-published through Lulu, May 20, 2019."
+            },
+            {
+              "id": "8fe29cdc-36a9-453d-9408-9aa3ec057ea5",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c6fe7fca-4fdf-477e-bedd-76c931ca9965",
+              "type": "quote",
+              "html": "<em>Video Games and the Global South redefines games and game culture from south to north, analyzing the cultural impact of video games, the growth of game development and the vitality of game cultures across Africa, the Middle East, Central and South America, the Indian subcontinent, Oceania and Asia.</em>"
+            }
+          ]
+        },
+        {
+          "id": "47e924d7-5460-42b6-84e8-8cf5677feae6",
+          "type": "column",
+          "children": [
+            {
+              "id": "105d3627-41ad-4bff-9fb1-368ddc755f93",
+              "type": "image",
+              "src": "./assets/images/untitled-fbbb30c0ddac.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "538878e3-c107-4ff8-a46d-666070b91d37",
+      "type": "divider"
+    },
+    {
+      "id": "fa0707cd-8bac-4190-938c-8eace505253d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9c795965-446d-445e-862a-a31f69ecc9bb",
+          "type": "column",
+          "children": [
+            {
+              "id": "327369b4-c07b-472a-a8e2-2b1689590030",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a7778218-fa18-4f87-b9ca-ce8c75f2506b",
+          "type": "column",
+          "children": [
+            {
+              "id": "e04934e4-5582-4a69-8d40-2f22b473e7c1",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yN0BNg\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad820e4b-6b96-4028-be3b-a60714fdfef0",
+      "type": "divider"
+    }
+  ]
+}

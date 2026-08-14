@@ -1,0 +1,126 @@
+{
+  "id": "acb3d909-46fd-41b9-a300-d21b2d76a4aa",
+  "slug": "social-life-in-the-reign-of-queen-anne",
+  "title": "Social Life in the Reign of Queen Anne",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Social-Life-in-the-Reign-of-Queen-Anne-acb3d90946fd41b9a300d21b2d76a4aa?pvs=21",
+  "createdTime": 1653177197571,
+  "lastEditedTime": 1681314043326,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Social Life in the Reign of Queen Anne",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-87d5ac93779d.webp",
+  "blocks": [
+    {
+      "id": "e2276791-b2dd-4102-ad4f-7a5adce590a5",
+      "type": "divider"
+    },
+    {
+      "id": "2170ead9-51ee-45a7-8bef-4558d5e85631",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "86f52aa2-c249-4883-b6c9-6bcfaa849400",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f603bd44-e843-4e62-8db8-009d36584365",
+          "type": "column",
+          "children": [
+            {
+              "id": "cd670d64-4aa2-4f24-8b34-9ac19e453dc8",
+              "type": "paragraph",
+              "html": "<em><strong>Social Life in the Reign of Queen Anne, Taken from Original Sources</strong></em> was written by John Ashton, published by Chatto &amp; Windus in 1882."
+            },
+            {
+              "id": "a4ff66d1-a34f-4949-81f4-913c12addfcd",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "029ab7e5-db0c-4343-af2e-708fe9e06430",
+              "type": "quote",
+              "html": "<em>From the time of Dean Swift downwards to our own days, many Political Histories of the Reign of Queen Anne have been written, but its Social Life we have been left to gather mainly from the efforts of novelists, who have been more or less conscientious, according to their knowledge, in placing it before us.</em>"
+            }
+          ]
+        },
+        {
+          "id": "7a09a7cb-cb2b-4969-b3e9-db42f71b3983",
+          "type": "column",
+          "children": [
+            {
+              "id": "2703dd08-9672-4ab1-a36b-fb9514175cc5",
+              "type": "image",
+              "src": "./assets/images/untitled-87d5ac93779d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9a1f5d1-1f58-4773-a92a-2d7f69d7fc23",
+      "type": "divider"
+    },
+    {
+      "id": "6983125c-2a65-4d74-bdc0-58afc3ef7df9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "303cc434-18eb-4d6f-ae67-1d4701191260",
+          "type": "column",
+          "children": [
+            {
+              "id": "a6dda08d-429a-43f9-8517-522bdd252541",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d39f07a4-88fd-49d2-af2d-e540433873c5",
+          "type": "column",
+          "children": [
+            {
+              "id": "aa2e7aba-f727-4c4e-8753-a722314176f0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FwjqYz\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f73e1be2-607d-4352-a37b-77069cb46ccc",
+      "type": "divider"
+    }
+  ]
+}

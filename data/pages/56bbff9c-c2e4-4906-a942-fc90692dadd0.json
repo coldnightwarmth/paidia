@@ -1,0 +1,131 @@
+{
+  "id": "56bbff9c-c2e4-4906-a942-fc90692dadd0",
+  "slug": "white-king-and-red-queen",
+  "title": "White King & Red Queen",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/White-King-Red-Queen-56bbff9cc2e44906a942fc90692dadd0?pvs=21",
+  "createdTime": 1673291931910,
+  "lastEditedTime": 1681312170221,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "White King & Red Queen",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2f574b49380d.webp",
+  "blocks": [
+    {
+      "id": "83ebd1d1-219d-4411-9667-2a91d6dedc1e",
+      "type": "divider"
+    },
+    {
+      "id": "fa204cfe-13c8-4922-983c-cd3e34d24e59",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "dd95e734-70e4-4746-b130-bf9d89645bfa",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f0a12ac8-c444-48c2-b24f-2f20fb86b983",
+          "type": "column",
+          "children": [
+            {
+              "id": "23359a33-4300-46b8-b10f-f9e96d3253d0",
+              "type": "paragraph",
+              "html": "<em><strong>White King &amp; Red Queen: How the Cold War Was Fought on the Chessboard</strong></em> was written by Daniel Johnson, published by Mariner Books, November 10, 2008."
+            },
+            {
+              "id": "62e7bfc3-a13e-449a-aa6f-b11fce73fce3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "581aed41-c4d8-4983-998a-dcc1f03249d2",
+              "type": "quote",
+              "html": "<em>Daniel Johnson -- journalist, editor, scholar, and chess enthusiast who once played Garry Kasparov to a draw in a simultaneous exhibition -- is the perfect guide to one of history’s most remarkable periods, when chess matches were front-page news and captured the world’s imagination.<br><br>The Cold War played out in many areas: geopolitical alliances, military coalitions, cat-and-mouse espionage, the arms race, proxy wars -- and chess. An essential pastime of Russian intellectuals and revolutionaries, and later adopted by the Communists as a symbol of Soviet power, chess was inextricably linked to the rise and fall of the “evil empire.” This original narrative history recounts in gripping detail the singular part the Immortal Game played in the Cold War. From chess’s role in the Russian Revolution -- Marx, Lenin, and Trotsky were all avid players -- to the 1945 radio match when the Soviets crushed the Americans, prompting Stalin’s telegram “Well done lads!”; to the epic contest between Bobby Fischer and Boris Spassky in 1972 at the height of détente, when Kissinger told Fischer to “go over there and beat the Russians”; to the collapse of the Soviet Union itself, </em>White King &amp; Red Queen<em> takes us on a fascinating tour of the Cold War’s checkered landscape.</em>"
+            },
+            {
+              "id": "330aa7f6-843e-4f07-a774-a1857377e319",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "aae7063f-8556-40fe-a68f-00809b42a4fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "fca3bb7a-9a69-4a6c-90cf-8278e13b3d73",
+              "type": "image",
+              "src": "./assets/images/untitled-2f574b49380d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1810e788-00af-4049-997c-142e916be918",
+      "type": "divider"
+    },
+    {
+      "id": "49f51d2f-e1ca-4e6c-97e6-8a428c3f941a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "51204248-a736-4be3-a052-4cf2596805f4",
+          "type": "column",
+          "children": [
+            {
+              "id": "cd1115a0-0b40-4264-b0d6-3313f86415e2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ae61bcda-a9bb-413d-b331-2ff46f54f261",
+          "type": "column",
+          "children": [
+            {
+              "id": "66bb7063-127b-42b8-9986-844d2ac57694",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/White-King-Red-Queen-Chessboard/dp/0547133375#:~:text=Subtitled%20%22How%20the%20Cold%20War,crack%2Dup%2C%20not%20only%20of\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3991ce64-159b-46ba-95e2-f5281a65089a",
+      "type": "divider"
+    }
+  ]
+}

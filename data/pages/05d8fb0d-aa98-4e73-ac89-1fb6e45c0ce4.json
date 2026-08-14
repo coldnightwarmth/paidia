@@ -1,0 +1,49 @@
+{
+  "id": "05d8fb0d-aa98-4e73-ac89-1fb6e45c0ce4",
+  "slug": "members",
+  "title": "Members",
+  "icon": "📘",
+  "cover": "",
+  "type": "page",
+  "parentId": "db5dc169-16f5-45b1-9f37-ba22a0922a7c",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/05d8fb0daa984e73ac891fb6e45c0ce4",
+  "createdTime": 1711198564309,
+  "lastEditedTime": 1711198564309,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Members"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "b78a5c7e-e1ef-470f-820a-33c93cae9853",
+      "type": "collection_view",
+      "collectionId": "4ab1144b-9a24-4742-b25d-d369aaa53e16",
+      "viewIds": [
+        "89aa6832-d299-45e0-b41f-052f9d49dffd",
+        "e85fdf36-236d-42c6-9afa-7107a8e7297d",
+        "886a742c-8a84-4662-a97f-8e654b934426",
+        "9ada3da1-b9e6-4b9f-9c68-aa70d83fa86d",
+        "98a4a092-f314-49ba-a70c-d0eb0875a769"
+      ],
+      "title": ""
+    },
+    {
+      "id": "0869ebb3-6f4d-4a95-8375-2c0a7098eece",
+      "type": "collection_view",
+      "collectionId": "b1e4e1ff-831b-4476-8366-9bc62e64dcb0",
+      "viewIds": [
+        "d921e28e-1dc5-4607-9d9e-c2def780070f"
+      ],
+      "title": ""
+    }
+  ]
+}

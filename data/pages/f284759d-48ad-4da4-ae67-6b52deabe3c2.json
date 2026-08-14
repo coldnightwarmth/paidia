@@ -1,0 +1,184 @@
+{
+  "id": "f284759d-48ad-4da4-ae67-6b52deabe3c2",
+  "slug": "game-design-portfolio",
+  "title": "Game design portfolio",
+  "icon": "💼",
+  "cover": "",
+  "type": "page",
+  "parentId": "d02701b6-e3a0-42cc-aba7-e48629f57331",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/f284759d48ad4da4ae676b52deabe3c2",
+  "createdTime": 1664380771060,
+  "lastEditedTime": 1767526323899,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Game design portfolio"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "9caa030b-d62a-41ed-ae30-d0594934bcc6",
+      "type": "paragraph",
+      "html": "Here is some general guidance on how to structure your portfolio. These should roughly cover all types of game design portfolios."
+    },
+    {
+      "id": "eae14eda-d2e2-4ab9-98fd-74612f7014c1",
+      "type": "header",
+      "html": "Landing page",
+      "anchorId": "landing-page"
+    },
+    {
+      "id": "c2d3c8f5-68dd-432b-8bf3-8026829acf1e",
+      "type": "subheader",
+      "html": "Hero projects",
+      "anchorId": "hero-projects"
+    },
+    {
+      "id": "d2c99f1e-6932-458f-ac4e-6e5411faac33",
+      "type": "paragraph",
+      "html": "Pick 1-3 projects you are really proud of and make them really prominent in your portfolio. Include an image of the game, the name of the game, the name of the studio and your role."
+    },
+    {
+      "id": "7395285f-119f-489f-a5b8-2357375306dd",
+      "type": "subheader",
+      "html": "Skills",
+      "anchorId": "skills"
+    },
+    {
+      "id": "4c473337-d8fa-4725-8492-434bc87ada3f",
+      "type": "paragraph",
+      "html": "Write down a short but sweet list of what skills you bring to projects. An employer should be able to skip through these and get an idea of what your particular strengths are. Make it really easy for them to compare you to their list of job specs! For example:"
+    },
+    {
+      "id": "c830024d-f3e7-4786-a226-de306a2dd477",
+      "type": "bulleted_list",
+      "html": "Prototyping"
+    },
+    {
+      "id": "b95c206a-83f0-4a8d-9f8e-20f04a8f4571",
+      "type": "bulleted_list",
+      "html": "Running playtests"
+    },
+    {
+      "id": "18baa777-be97-4892-a3aa-0c462e9056f2",
+      "type": "bulleted_list",
+      "html": "Documentation"
+    },
+    {
+      "id": "181c89ae-64c3-4a85-9b76-a093b53fedbf",
+      "type": "bulleted_list",
+      "html": "Ideation and workshops"
+    },
+    {
+      "id": "ea79d68d-d8ea-4d9e-8c69-435739fe7f8e",
+      "type": "bulleted_list",
+      "html": "etc."
+    },
+    {
+      "id": "c57a25b9-ee04-4abe-90de-8b2f9e9c2f51",
+      "type": "subheader",
+      "html": "Contact",
+      "anchorId": "contact"
+    },
+    {
+      "id": "1ed40c04-a892-4fd6-8862-9ea10eb40049",
+      "type": "paragraph",
+      "html": "Your contact details should be easily accessible ideally from all pages."
+    },
+    {
+      "id": "d72668ef-ee25-4877-87e1-331417de08ee",
+      "type": "header",
+      "html": "Project page structure",
+      "anchorId": "project-page-structure"
+    },
+    {
+      "id": "53bf071a-c08a-41cb-9d59-5296ffecb4d8",
+      "type": "paragraph",
+      "html": "When clicking on a project, an employer should be able to read more information about it and what your role in the project was. An ideal project description could be structured like this:"
+    },
+    {
+      "id": "6856b6c9-05e9-43e5-903a-ec7abe2c4883",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8145c49c-3002-4a25-b351-6ea73e428ab1",
+      "type": "paragraph",
+      "html": "<strong>Summary</strong>"
+    },
+    {
+      "id": "a3cba4dd-1a35-4174-b391-142b4d31121c",
+      "type": "bulleted_list",
+      "html": "Name of game, company, your role"
+    },
+    {
+      "id": "b505a28b-43aa-45be-9015-a4b411c3189c",
+      "type": "bulleted_list",
+      "html": "One sentence description on what the game is"
+    },
+    {
+      "id": "587809b6-5681-468b-aa72-2edb955055bb",
+      "type": "bulleted_list",
+      "html": "A link to play the game"
+    },
+    {
+      "id": "3a4cb93f-72d3-4d81-a128-2049484bac23",
+      "type": "bulleted_list",
+      "html": "Description of the gameplay loop (for those that can’t play)"
+    },
+    {
+      "id": "c4e7ed6d-ba0d-4e73-a249-37d7c3e8480e",
+      "type": "bulleted_list",
+      "html": "Images or videos that demonstrate the game (for those that can’t play)"
+    },
+    {
+      "id": "963a5dee-531f-43a0-84b7-5156f06abc0e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2fd79976-f1d2-4eb0-b484-15a74a91e048",
+      "type": "paragraph",
+      "html": "<strong>Your role</strong>"
+    },
+    {
+      "id": "ab4429c8-3713-4526-ad56-96c001da06d2",
+      "type": "bulleted_list",
+      "html": "A summary of your role and responsibilities in the project"
+    },
+    {
+      "id": "a0c93164-4a63-49ba-b8e0-82e94c56edc1",
+      "type": "bulleted_list",
+      "html": "A few examples of issues you tackled, structured in this way:"
+    },
+    {
+      "id": "45a2f1df-8d3e-4cbc-82fd-0e65dd8a7be2",
+      "type": "bulleted_list",
+      "html": "Images or videos that highlight your work and behind the scenes"
+    },
+    {
+      "id": "a2ae7783-19f1-4e3a-8fca-eab9d57e931a",
+      "type": "header",
+      "html": "Example portfolios",
+      "anchorId": "example-portfolios"
+    },
+    {
+      "id": "925ecb06-78ed-422a-a129-0d83d3d80ce4",
+      "type": "bookmark",
+      "src": "",
+      "title": "Rosa Carbo-Mascarell"
+    },
+    {
+      "id": "2deffc44-aabb-8073-87c4-d3a6ce3e0180",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

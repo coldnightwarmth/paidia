@@ -1,0 +1,131 @@
+{
+  "id": "214702ec-faaf-4637-b096-d17a07bea935",
+  "slug": "the-monopolists",
+  "title": "The Monopolists",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Monopolists-214702ecfaaf4637b096d17a07bea935?pvs=21",
+  "createdTime": 1658275030528,
+  "lastEditedTime": 1681313145976,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Monopolists",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-666b7044c42b.webp",
+  "blocks": [
+    {
+      "id": "5eaacd9d-cddc-453d-9804-e91a136bcfc0",
+      "type": "divider"
+    },
+    {
+      "id": "64eddc64-e23f-4029-a7ba-0fe49a4ed525",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8b9e9ca4-70d4-49d3-9dd3-724ea2e6c75f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "44dfb66a-f571-44e8-aacb-49b52eaa2f84",
+          "type": "column",
+          "children": [
+            {
+              "id": "a2d5246e-8e77-44ea-80d4-a6293e7a28c6",
+              "type": "paragraph",
+              "html": "<em><strong>The Monopolists: Obsession, Fury, &amp; the Scandal Behind the World's Favorite Board Game</strong></em> was written by Mary Pilon, originally published by Bloomsbury Publishing USA, Feb 17, 2015"
+            },
+            {
+              "id": "a202d9c1-7e3d-429a-8f09-5bdba96a68eb",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "fdfae148-3841-4faa-a59e-dbce6d2b9c24",
+              "type": "quote",
+              "html": "The Monopolists<em> reveals the unknown story of how Monopoly came into existence, the reinvention of its history by Parker Brothers and multiple media outlets, the lost female originator of the game, and one man's lifelong obsession to tell the true story about the game's questionable origins.<br><br>Most think it was invented by an unemployed Pennsylvanian who sold his game to Parker Brothers during the Great Depression in 1935 and lived happily--and richly--ever after. That story, however, is not exactly true. Ralph Anspach, a professor fighting to sell his Anti-Monopoly board game decades later, unearthed the real story, which traces back to Abraham Lincoln, the Quakers, and a forgotten feminist named Lizzie Magie who invented her nearly identical Landlord's Game more than thirty years before Parker Brothers sold their version of </em>Monopoly<em>. Her game--underpinned by morals that were the exact opposite of what Monopoly represents today--was embraced by a constellation of left-wingers from the Progressive Era through the Great Depression, including members of Franklin Roosevelt's famed Brain Trust.<br><br>A gripping social history of corporate greed that illuminates the cutthroat nature of American business over the last century, </em>The Monopolists<em> reads like the best detective fiction, told through Monopoly's real-life winners and losers.</em>"
+            },
+            {
+              "id": "789ce1ca-702c-4ee4-83bd-4b346a5cabe5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "41bc49a4-2d7b-4490-9581-13a05205e466",
+          "type": "column",
+          "children": [
+            {
+              "id": "42e27401-dfaa-4c8e-be99-17db8ca4f044",
+              "type": "image",
+              "src": "./assets/images/untitled-666b7044c42b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5589a502-dbb3-4373-b88f-8e2c1dd630ac",
+      "type": "divider"
+    },
+    {
+      "id": "6b36c51f-296a-4457-8b19-9630db3550a6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "189ff915-6e29-44cd-b2f1-46b31b3c497b",
+          "type": "column",
+          "children": [
+            {
+              "id": "b3bb4736-6591-49b7-b545-3266c5acaaae",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fec15683-bb97-4882-a279-1694bdf55f75",
+          "type": "column",
+          "children": [
+            {
+              "id": "6fbca33a-a6f2-421b-a441-345ea6f56a68",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3PnoRv7\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "65485bfe-e9a0-44a9-9cec-ab70a9a3604a",
+      "type": "divider"
+    }
+  ]
+}

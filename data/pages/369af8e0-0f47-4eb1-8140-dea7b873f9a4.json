@@ -1,0 +1,131 @@
+{
+  "id": "369af8e0-0f47-4eb1-8140-dea7b873f9a4",
+  "slug": "music-in-video-games",
+  "title": "Music in Video Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Music-in-Video-Games-369af8e00f474eb18140dea7b873f9a4?pvs=21",
+  "createdTime": 1659713214877,
+  "lastEditedTime": 1681313047346,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Music in Video Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-51116858dd84.webp",
+  "blocks": [
+    {
+      "id": "788fe7b9-43b9-44f8-a44a-a3a4327f6342",
+      "type": "divider"
+    },
+    {
+      "id": "011ab82c-c1e7-4af3-aa1f-cde912e44e69",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "97f3210e-ac28-414a-8875-513b97ba0b2c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cd8510ec-c7ae-4609-a1aa-19b8d09bca02",
+          "type": "column",
+          "children": [
+            {
+              "id": "37f3fd39-9b26-4670-83c8-b7b155f92c29",
+              "type": "paragraph",
+              "html": "<strong>Music in Video Games: Studying Play</strong> is a collection of essays edited by K.J. Donnelly, William Gibbons, &amp; Neil Lerner, published by Routledge, February 25, 2014."
+            },
+            {
+              "id": "acafdc67-dbfc-4d4d-91d3-7819135fed0a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a36e73be-ca4b-4947-bd1a-a0aa8d9314cf",
+              "type": "quote",
+              "html": "<em>From its earliest days as little more than a series of monophonic outbursts to its current-day scores that can rival major symphonic film scores, video game music has gone through its own particular set of stylistic and functional metamorphoses while both borrowing and recontextualizing the earlier models from which it borrows. With topics ranging from early classics like </em>Donkey Kong<em> and </em>Super Mario Bros.<em> to more recent hits like </em>Plants vs. Zombies<em>, the eleven essays in </em>Music in Video Games<em> draw on the scholarly fields of musicology and music theory, film theory, and game studies, to investigate the history, function, style, and conventions of video game music.</em>"
+            },
+            {
+              "id": "06e409c4-9ac0-4f17-b3b8-fb1fdcab9771",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "9f6597c3-8e02-4961-8e60-5701f32e93d6",
+          "type": "column",
+          "children": [
+            {
+              "id": "aabca7f5-41ba-413c-9e2f-163b2330d197",
+              "type": "image",
+              "src": "./assets/images/untitled-51116858dd84.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d0289bfb-9bb0-4f6e-b019-f209f7e1ee63",
+      "type": "divider"
+    },
+    {
+      "id": "96ba05ef-b647-48c5-ba97-0b7d80f5deb1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a47127ee-e06f-4bea-a06e-6d417e21da07",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f120e04-0de9-4961-adb5-0e14657d1d28",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "313b4187-72de-4672-bb80-cef03be73e59",
+          "type": "column",
+          "children": [
+            {
+              "id": "69bfc4b8-c0a4-4353-bb13-798aec8984b0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Q52tqJ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "011b62ff-2494-496b-a1bd-12a1f0fb26a1",
+      "type": "divider"
+    }
+  ]
+}

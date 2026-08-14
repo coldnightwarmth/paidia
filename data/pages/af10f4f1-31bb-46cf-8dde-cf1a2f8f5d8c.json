@@ -1,0 +1,121 @@
+{
+  "id": "af10f4f1-31bb-46cf-8dde-cf1a2f8f5d8c",
+  "slug": "the-book-of-melee",
+  "title": "The Book of Melee",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Book-of-Melee-af10f4f131bb46cf8ddecf1a2f8f5d8c?pvs=21",
+  "createdTime": 1651684520866,
+  "lastEditedTime": 1681313975553,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Book of Melee"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7961f28c6e28.webp",
+  "blocks": [
+    {
+      "id": "b765c8ed-1e13-42c3-b2b4-a7c1fb7c50c5",
+      "type": "divider"
+    },
+    {
+      "id": "451475dd-8d77-4cd9-96b5-17a45617cf0a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7c7ec39d-5dad-4f02-9982-464b58954d40",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d3479e8f-1873-468d-b625-3473c5e5a8c7",
+          "type": "column",
+          "children": [
+            {
+              "id": "7b665e61-67c8-4de4-aca8-e6bc7e253069",
+              "type": "paragraph",
+              "html": "<em><strong>The Book of Melee: The story of gaming's greatest grassroots community and the heroes who kept its heart beating</strong></em> was written by Edwin Budding, self-published, August 16, 2019."
+            },
+            {
+              "id": "a8332f01-e0a7-436d-b37c-464c322ffe2e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "909f99d4-0378-4a6d-9882-aa0fd95b6471",
+              "type": "quote",
+              "html": "<em>Since its 2001 release, Nintendo's crown jewel, </em>Super Smash Bros. Melee<em>, has inspired multiple generations of players to sustain a grassroots community. </em>The Book of Melee<em> is a deep dive into the universe of competitive Melee, gaming's greatest and most unlikely underdog story. In </em>The Book of Melee<em>, longtime Melee enthusiast and gaming journalist Edwin Budding covers the history of competitive </em>Melee<em> through the lens of its greatest legends, including &quot;The Five Gods of Melee.&quot; Simultaneously absurd, heartwarming, and tear-jerking, </em>The Book of Melee<em> tackles the evolution of the most passionate cult following of the 21st century, from crowded restaurant basements to packed arenas.</em>"
+            }
+          ]
+        },
+        {
+          "id": "b3c6b3f2-8cd9-49e0-b886-23af2ea7646e",
+          "type": "column",
+          "children": [
+            {
+              "id": "c9ba1210-9d18-4228-adbe-70d8b3a25516",
+              "type": "image",
+              "src": "./assets/images/untitled-7961f28c6e28.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d99f9c5f-2362-4201-bd4b-7a2205e71b60",
+      "type": "divider"
+    },
+    {
+      "id": "c95f625b-c854-4699-911e-0134de6d0a15",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5f2be92e-7b9a-4ab0-a53f-033fd4bedcd9",
+          "type": "column",
+          "children": [
+            {
+              "id": "187d7999-4649-4e2c-9e89-ea39fc23feb6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3858d3e9-aed2-42ac-802f-46a59f225c91",
+          "type": "column",
+          "children": [
+            {
+              "id": "3f5ee95b-2737-4b5d-8ee1-1a02d17ca4fd",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3UarG4L\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4bf4addf-f761-4cc2-bfc0-e30164e3b9f7",
+      "type": "divider"
+    }
+  ]
+}

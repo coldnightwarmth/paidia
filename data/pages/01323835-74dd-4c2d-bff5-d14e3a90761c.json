@@ -1,0 +1,195 @@
+{
+  "id": "01323835-74dd-4c2d-bff5-d14e3a90761c",
+  "slug": "game-design-template",
+  "title": "Game design template",
+  "icon": "🎮",
+  "cover": "",
+  "type": "page",
+  "parentId": "e387280d-beaa-4750-a229-ecd50b98bce4",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/0132383574dd4c2dbff5d14e3a90761c",
+  "createdTime": 1645262397130,
+  "lastEditedTime": 1733824878741,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Game design template"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "4eb7ca1d-ee2e-49d8-8844-2d4fbe9865fb",
+      "type": "paragraph",
+      "html": "by Rosa Carbo-Mascarell | <a href=\"https://bsky.app/profile/purecelain.bsky.social\" target=\"_blank\" rel=\"noreferrer\">BlueSky</a> | <a href=\"https://www.tiktok.com/@moreelen\" target=\"_blank\" rel=\"noreferrer\">TikTok</a> | <a href=\"https://www.linkedin.com/in/moreelen/\" target=\"_blank\" rel=\"noreferrer\">LinkedIn</a>"
+    },
+    {
+      "id": "471c0f53-b15c-4025-9631-b42c54b49eac",
+      "type": "paragraph",
+      "html": "This is a part of the <a href=\"#/game-design-wiki\">game design wiki</a>."
+    },
+    {
+      "id": "fc577e0f-b6ea-4b49-b81a-fb0d7a65b0b1",
+      "type": "divider"
+    },
+    {
+      "id": "85621904-96cb-4cca-87dc-0952c4f20161",
+      "type": "header",
+      "html": "Summary",
+      "anchorId": "summary"
+    },
+    {
+      "id": "56c84961-2d3d-43ef-b7e7-6d7921a72770",
+      "type": "columns",
+      "children": [
+        {
+          "id": "be257b42-0aa5-4a22-9c54-894bc3980bbf",
+          "type": "column",
+          "children": [
+            {
+              "id": "5b440b2a-2660-48e3-a330-92f0715bb937",
+              "type": "paragraph",
+              "html": "<strong>Describe your game in one sentence.</strong>"
+            },
+            {
+              "id": "7a833fa5-711f-464b-85d5-e90d3a157869",
+              "type": "paragraph",
+              "html": "Then write one or two paragraphs summarising your game."
+            }
+          ]
+        },
+        {
+          "id": "036c96ce-e7bc-4e67-ac25-b9e6f3208039",
+          "type": "column",
+          "children": [
+            {
+              "id": "77e7f745-d489-44cf-96f8-ec6383b7c823",
+              "type": "paragraph",
+              "html": "Add an image of video of your game here that demonstrates what the game is like."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6fcebd8f-4ce6-41db-86b2-7f0d0f53c4b2",
+      "type": "header",
+      "html": "Core",
+      "anchorId": "core"
+    },
+    {
+      "id": "84dabeb1-baac-489b-a959-adac7b75637a",
+      "type": "paragraph",
+      "html": "This is the core of your game. Start by filling out these sections. Once filled out they should never change or change very little. Use them as a reference throughout development."
+    },
+    {
+      "id": "9940ee73-0342-4cfa-80ca-a59c8bc7c248",
+      "type": "page_link",
+      "targetId": "9940ee73-0342-4cfa-80ca-a59c8bc7c248",
+      "title": "Design pillars",
+      "notionType": "page"
+    },
+    {
+      "id": "659784b9-2705-47ab-acc0-9483c0cb8efc",
+      "type": "page_link",
+      "targetId": "659784b9-2705-47ab-acc0-9483c0cb8efc",
+      "title": "Game loops",
+      "notionType": "page"
+    },
+    {
+      "id": "f0f5699b-ff21-4231-a66c-5a08b15601df",
+      "type": "page_link",
+      "targetId": "f0f5699b-ff21-4231-a66c-5a08b15601df",
+      "title": "Player motivation and progression",
+      "notionType": "page"
+    },
+    {
+      "id": "7b25fa97-aba0-4ba6-8e52-7839bc38e7ca",
+      "type": "header",
+      "html": "Features",
+      "anchorId": "features"
+    },
+    {
+      "id": "b95b5d2d-d56f-461b-9e65-cda5f9ef78f2",
+      "type": "paragraph",
+      "html": "These are the features in your game. They’re game mechanics that apply throughout the whole of the game."
+    },
+    {
+      "id": "2a4c4f77-c131-435e-8d64-6ee3615277a4",
+      "type": "page_link",
+      "targetId": "2a4c4f77-c131-435e-8d64-6ee3615277a4",
+      "title": "Feature template",
+      "notionType": "page"
+    },
+    {
+      "id": "851a31a2-a3e1-4075-aef4-31a68f5c2d4d",
+      "type": "header",
+      "html": "Content",
+      "anchorId": "content"
+    },
+    {
+      "id": "0b545236-17ae-4bd0-bb20-96c115bacf0e",
+      "type": "paragraph",
+      "html": "This is the content of your game. They’re things that can change depending on where the player is at in the game. Depending on the type of game you’re making you might not need all of these pages or they might look very different."
+    },
+    {
+      "id": "387644cb-fe6a-4a69-8fa2-d799eb892ce1",
+      "type": "page_link",
+      "targetId": "387644cb-fe6a-4a69-8fa2-d799eb892ce1",
+      "title": "Narrative summary",
+      "notionType": "page"
+    },
+    {
+      "id": "a94b3241-1d6d-4c86-ab3c-8c0d27f285b9",
+      "type": "page_link",
+      "targetId": "a94b3241-1d6d-4c86-ab3c-8c0d27f285b9",
+      "title": "Characters",
+      "notionType": "page"
+    },
+    {
+      "id": "47240f1a-bf17-44bf-b7dc-0e6042614bb0",
+      "type": "page_link",
+      "targetId": "47240f1a-bf17-44bf-b7dc-0e6042614bb0",
+      "title": "Level summaries",
+      "notionType": "page"
+    },
+    {
+      "id": "7a5be667-6be9-41e1-b6b6-c54c621e97da",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "620667ac-f64b-4afe-88bf-b2ebe54c5fed",
+      "type": "divider"
+    },
+    {
+      "id": "ea610843-f452-4b12-9167-472cf9e9ef2a",
+      "type": "header",
+      "html": "Content usage",
+      "anchorId": "content-usage"
+    },
+    {
+      "id": "9917ed85-0193-4f21-8a8a-c5d21546e148",
+      "type": "callout",
+      "html": "",
+      "icon": "🛠️",
+      "children": [
+        {
+          "id": "00c9893f-83a1-45ca-a81e-dcae8626030d",
+          "type": "paragraph",
+          "html": "I created this notion document as a free tool so please feel free to use it and share it!<br><br>You may use, share, remix, adapt, and/or build upon any of the content found on this site, in both commercial and non-commercial settings, as long as done for <strong>free</strong>.<br><br>A link back to this document and/or a credit is appreciated but not necessary."
+        }
+      ]
+    },
+    {
+      "id": "1d310405-5810-4a07-bac5-92f7c794e3af",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

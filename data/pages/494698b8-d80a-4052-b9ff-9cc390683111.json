@@ -1,0 +1,131 @@
+{
+  "id": "494698b8-d80a-4052-b9ff-9cc390683111",
+  "slug": "language-play",
+  "title": "Language Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Language-Play-494698b8d80a4052b9ff9cc390683111?pvs=21",
+  "createdTime": 1667268559491,
+  "lastEditedTime": 1681312712781,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Language Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-381823caaf7c.webp",
+  "blocks": [
+    {
+      "id": "703a316e-984b-4c77-912e-bdf5664e9794",
+      "type": "divider"
+    },
+    {
+      "id": "8066d4d5-ee86-4ae5-ab49-6d4746c5d788",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "70f723f4-1561-4381-9541-dce39f67e4fc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "61219cfa-431a-4a68-bdaf-8559da729bf6",
+          "type": "column",
+          "children": [
+            {
+              "id": "877d71e6-1bb4-44e2-8532-f9dec9cff994",
+              "type": "paragraph",
+              "html": "<em><strong>Language Play</strong></em> was written by David Crystal, published by University of Chicago Press, June 11, 2001."
+            },
+            {
+              "id": "05420b28-7d05-4fa9-a3bf-d829bb1c043c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6873d6c4-ea67-42ce-9929-61adeb444b20",
+              "type": "quote",
+              "html": "<em>In this exhilarating and often hilarious book, David Crystal examines why we devote so much time and energy to language games, how professionals make a career of them, and how young children instinctively take to them. Crystal makes a simple argument-that since playing with language is so natural, a natural way to learn language is to play with it-while he discusses puns, crosswords, lipograms, comic alphabets, rhymes, funny voices taken from dialect and popular culture, limericks, anagrams, scat singing, and much more.</em>"
+            },
+            {
+              "id": "4d95bd6e-3cf8-4dca-a5b9-3fe257f6a9e3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "660f4eda-eb47-477d-b45f-b6244380c0a9",
+          "type": "column",
+          "children": [
+            {
+              "id": "82bb8c56-eca3-4016-93fd-ff1ef0a86446",
+              "type": "image",
+              "src": "./assets/images/untitled-381823caaf7c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40bd05af-9329-4f82-94c8-ff810b669a75",
+      "type": "divider"
+    },
+    {
+      "id": "52dcb3de-b027-4af1-bd6e-26633bd59094",
+      "type": "columns",
+      "children": [
+        {
+          "id": "13657d9e-d98c-4efb-946b-3f6d2434bbe8",
+          "type": "column",
+          "children": [
+            {
+              "id": "9b666b97-164c-4eed-b936-cd97c042bf39",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "aa8e6113-591e-4ba3-9baa-7cdeaf8dc283",
+          "type": "column",
+          "children": [
+            {
+              "id": "ada269f3-1e63-497e-86cc-a1bc3012a88d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DY0yAV\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cde83cc9-215d-441e-98f8-6bb2cfe58eec",
+      "type": "divider"
+    }
+  ]
+}

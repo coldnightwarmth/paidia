@@ -1,0 +1,131 @@
+{
+  "id": "26d2d4d1-2701-476d-a4ab-7d582c987b8b",
+  "slug": "histories-of-leisure",
+  "title": "Histories of Leisure",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Histories-of-Leisure-26d2d4d12701476da4ab7d582c987b8b?pvs=21",
+  "createdTime": 1667321080476,
+  "lastEditedTime": 1681312668045,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Histories of Leisure",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5bc5ef08e302.webp",
+  "blocks": [
+    {
+      "id": "871c4ed7-156c-435c-a1e5-29d02e136535",
+      "type": "divider"
+    },
+    {
+      "id": "52984325-d7c2-474e-b34f-c278bfa963a8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "618494fb-9889-482a-a27b-42166da5840d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0c2e1c1f-fb89-4d73-a956-ed498e650bbf",
+          "type": "column",
+          "children": [
+            {
+              "id": "06e390d6-db68-4ed0-b401-8e6df5057d5e",
+              "type": "paragraph",
+              "html": "<em><strong>Histories of Leisure</strong></em> is a collection of essays edited by Rudy Koshar, published by Berg Publishers, April 1, 2002."
+            },
+            {
+              "id": "22a84875-3b82-45c3-a1dd-591bd010e4e6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a3899d6c-f804-4759-9b91-0f22fbed8278",
+              "type": "quote",
+              "html": "<em>In the wake of the American and French revolutions, European culture saw the evolution of a new leisure regime never previously enjoyed. Now we speak of modern leisure societies, but the history of leisure, its experiences and expectations, its scope and variability, still remains largely a matter of conjecture. One message that has emerged from a multiplicity of disciplines is that research on leisure and consumption opens up a hitherto untapped mine of information on the broader issues of politics, society, culture and economics. How have leisure regimes in Europe evolved since the eighteenth century? Why has leisure culture crystallized around particular practices, sites and objects? Above all, what sorts of connections and meanings have been inscribed in leisure practices, and how might these be compared across time and space? This book is the first to provide an historical overview of modern leisure in a wide range of manifestations: travel, entertainment, sports, fashion, 'taste' and much more. It will be essential reading for anyone wishing to know more about European history and culture or simply how people spent their free time before the age of television and the internet.</em>"
+            },
+            {
+              "id": "ec25ab4e-f5eb-4440-bccb-3fe34bb59ccc",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bff0a1bc-3b6d-4e5d-a8d2-2230f2fd79a6",
+          "type": "column",
+          "children": [
+            {
+              "id": "e9e7e077-fb65-4479-a005-73b6305ecce0",
+              "type": "image",
+              "src": "./assets/images/untitled-5bc5ef08e302.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e8e614f4-ecea-4af1-a0c2-e5350be86376",
+      "type": "divider"
+    },
+    {
+      "id": "3a43a63b-4a7b-43fd-a34e-7a01a1f23019",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d869d4e9-b91d-42cb-844a-325ee2e57f86",
+          "type": "column",
+          "children": [
+            {
+              "id": "751116c8-cc33-4661-ae87-00c5f46c79da",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0730f09b-0ca2-4352-9683-f8e294187127",
+          "type": "column",
+          "children": [
+            {
+              "id": "6090d8b0-2a90-4755-a137-e1beca23b711",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FzE22d\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08b8d069-0b82-4c2c-97b1-bb083c5e6bf4",
+      "type": "divider"
+    }
+  ]
+}

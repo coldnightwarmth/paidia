@@ -1,0 +1,131 @@
+{
+  "id": "cc7d5adc-ce5e-4c10-8afb-9b1eaef29765",
+  "slug": "the-psychology-of-zelda",
+  "title": "The Psychology of Zelda",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/cc7d5adcce5e4c108afb9b1eaef29765",
+  "createdTime": 1651707008893,
+  "lastEditedTime": 1681313806595,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Psychology of Zelda",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81g95gdjf5s-90b3b49664da.webp",
+  "blocks": [
+    {
+      "id": "3ca2809a-31f6-4e08-87c9-9fb0506e941f",
+      "type": "divider"
+    },
+    {
+      "id": "4f4b2a75-726b-41e8-a833-472dcb2750f2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "154d2908-ac36-4181-9a8a-624185dda009",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c025095a-02fb-45ca-9059-a79535dde3fa",
+          "type": "column",
+          "children": [
+            {
+              "id": "e8db6b0b-6351-446d-a236-7b627c173eea",
+              "type": "paragraph",
+              "html": "<em><strong>The Psychology of Zelda: Linking Our World to the Legend of Zelda Series</strong></em> is a collection of essays edited by Anthony Bean, published by Smart Pop, February 19, 2019."
+            },
+            {
+              "id": "cffc0ee1-397e-4655-bdfa-458ddf525f1b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "99931d07-19b5-4b02-ad14-7940327ddb98",
+              "type": "quote",
+              "html": "<strong><em>It's dangerous to go alone! Take this (book).</em></strong><em><br><br>For more than 30 years, </em>The Legend of Zelda<em>—which immerses players in a courageous struggle against the shadowy forces of evil in a world of high fantasy—has spanned more than 30 different installments, selling over 75 million copies. Today, it is one of the most beloved video game franchises around the globe.<br><br>Video game sales as a whole have continued to grow, now raking in twice as much money per year as the entire film industry, and countless psychologists have turned their attention to the effects gaming has on us: our confidence, our identity, and our personal growth. </em>The Psychology of Zelda<em> applies the latest psychological findings, plus insights from classic psychology theory, to Link, Zelda, Hyrule, and the players who choose to wield the Master Sword.<br><br>In </em>The Psychology of Zelda<em>, psychologists who love the games ask:</em>"
+            },
+            {
+              "id": "7a4ee1b2-5df7-47de-a6fc-8ec07ef138e7",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f0a45885-2af7-4563-90fe-d3371dedbbfe",
+          "type": "column",
+          "children": [
+            {
+              "id": "3687c6fa-5adb-4ec0-addd-1a0f48c75820",
+              "type": "image",
+              "src": "./assets/images/81g95gdjf5s-90b3b49664da.webp",
+              "caption": "",
+              "alt": "81G95gDjF5S.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca278428-2dfc-409b-bc75-f6cf9b3de2b5",
+      "type": "divider"
+    },
+    {
+      "id": "7382d7d2-310a-4212-a3a6-98e6ac445a5b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "393c4f7c-e0f9-46aa-ace6-c322da27e7f6",
+          "type": "column",
+          "children": [
+            {
+              "id": "8448e68d-3162-4804-a0d3-921f9958e679",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e31ff4dc-310e-440b-b31a-abb4a1928f32",
+          "type": "column",
+          "children": [
+            {
+              "id": "14ad308e-3a4a-4984-9bce-5eb2677525fc",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DpSG9x\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9e5c70d2-a255-4bd0-88e5-2772b7c2396a",
+      "type": "divider"
+    }
+  ]
+}

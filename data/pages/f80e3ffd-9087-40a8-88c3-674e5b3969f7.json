@@ -1,0 +1,131 @@
+{
+  "id": "f80e3ffd-9087-40a8-88c3-674e5b3969f7",
+  "slug": "skateboard",
+  "title": "Skateboard",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "17d09f5f-ece8-4928-8131-c463981d3711",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Skateboard-f80e3ffd908740a888c3674e5b3969f7?pvs=21",
+  "createdTime": 1653399453521,
+  "lastEditedTime": 1681313558624,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Skateboard",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2bf57831b377.webp",
+  "blocks": [
+    {
+      "id": "1e92e23d-9119-44a9-a649-5e50e0e8acff",
+      "type": "divider"
+    },
+    {
+      "id": "af8bc953-38a2-417c-a321-fbefdf2dc41e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cda82216-db76-4353-82fb-9b757ab8ffb7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ec6860b6-ce07-447f-8dc9-2c8b08db8b2b",
+          "type": "column",
+          "children": [
+            {
+              "id": "9c2fccd9-5fc2-4e23-8b43-5343ce695349",
+              "type": "paragraph",
+              "html": "<em><strong>Skateboard</strong></em> was written by Jonathan Russell Clark, published Bloomsbury Academic, September 8, 2022."
+            },
+            {
+              "id": "4ef096c1-7728-4c89-ade3-51cf5744909f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "65061042-eb64-4e61-a768-7fb26bb1d953",
+              "type": "quote",
+              "html": "<em>How did the skateboard go from a menacing fad to an Olympic sport? Writer and skateboarder Jonathan Russell Clark answers this question by going straight to the sources: the skaters, photographers, commentators, and industry insiders who made such an unlikely rise to worldwide juggernaut possible. Skateboarders are their own historians, which means the real history of skating exists not in archives or texts but in a hodgepodge of random and iconic videos, tattered photographs, and, mostly, in the blurry memories of the people who lived through it all. From California beaches to Tokyo 2020, the skateboard has outlasted its critics to form a global community of creativity, camaraderie, and unceasing progression.</em>"
+            },
+            {
+              "id": "b11021d2-1f04-4deb-b49c-03e6bccf02b7",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "1362845f-caa0-4a51-b302-5c16f80716f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "f367ed7b-6a27-45d9-ae02-a5cc57d61af7",
+              "type": "image",
+              "src": "./assets/images/untitled-2bf57831b377.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0da46450-8f8f-470c-bcbb-c178703c0259",
+      "type": "divider"
+    },
+    {
+      "id": "39800611-d82b-4654-9bc3-27ce959b919c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ea4824fd-db6f-404f-b9f0-8392deccd10a",
+          "type": "column",
+          "children": [
+            {
+              "id": "8c26e160-b2fd-4b58-bad0-8fa9121d83a1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "399dc947-8653-4d36-a491-995f2bc7e0d6",
+          "type": "column",
+          "children": [
+            {
+              "id": "953fe4bf-d913-49bb-8187-4e5524db56d2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Ou57Fy\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827ada38-f629-49b5-9d6b-ca3352caeb31",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "a3ca6252-a76a-4082-b7a4-ec20a539fe65",
+  "slug": "the-medium-of-the-video-game",
+  "title": "The Medium of the Video Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Medium-of-the-Video-Game-a3ca6252a76a4082b7a4ec20a539fe65?pvs=21",
+  "createdTime": 1679668776568,
+  "lastEditedTime": 1681311827922,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Medium of the Video Game"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5f2a340cd6f8.webp",
+  "blocks": [
+    {
+      "id": "196200ba-7bfe-4fee-a283-af64e19df890",
+      "type": "divider"
+    },
+    {
+      "id": "5d9fd394-b29c-4533-8272-15e057e91cb2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ba7b474e-458b-4f74-9b4b-f05dcd48c817",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2b233ca2-7019-47a2-8ad7-0e107cf39292",
+          "type": "column",
+          "children": [
+            {
+              "id": "2baf3904-bf88-482e-9103-ec9383b4920a",
+              "type": "paragraph",
+              "html": "<em><strong>The Medium of the Video Game</strong></em> was written by <a href=\"#/mark-j-p-wolf\">Mark J. P. Wolf</a> with <a href=\"#/ralph-h-baer\">Ralph H. Baer</a>, published by University of Texas Press, February 1, 2002."
+            },
+            {
+              "id": "342b7505-1169-4187-a36b-a2ca84d41863",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e3b4f5c8-5b50-42b3-9360-b3946f84bfa2",
+              "type": "quote",
+              "html": "<em>Over a mere three decades, the video game has become the entertainment medium of choice for millions of people, who now spend more time in the interactive virtual world of games than they do in watching movies or even television. The release of new games or game-playing equipment, such as the PlayStation 2, generates great excitement and even buying frenzies. Yet, until now, this giant on the popular culture landscape has received little in-depth study or analysis. In this book, Mark J. P. Wolf and four other scholars conduct the first thorough investigation of the video game as an artistic medium. The book begins with an attempt to define what is meant by the term &quot;video game&quot; and the variety of modes of production within the medium. It moves on to a brief history of the video game, then applies the tools of film studies to look at the medium in terms of the formal aspects of space, time, narrative, and genre. The book also considers the video game as a cultural entity, object of museum curation, and repository of psychological archetypes. It closes with a list of video game research resources for further study.</em>"
+            },
+            {
+              "id": "8dae94e8-1e93-43ed-ad3e-51e30a5267d6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "1b8150fe-542e-411f-b96f-42e34c254902",
+          "type": "column",
+          "children": [
+            {
+              "id": "e13ecdba-a7e1-47c7-9b8b-c146b55f2418",
+              "type": "image",
+              "src": "./assets/images/untitled-5f2a340cd6f8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9218c314-f5a0-4ac3-ab24-a200628018f1",
+      "type": "divider"
+    },
+    {
+      "id": "94c46314-d460-4197-a7ac-7afa63f1aa8a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7a4bc952-e365-4246-b997-8b44d1e7e488",
+          "type": "column",
+          "children": [
+            {
+              "id": "7d94780a-acfb-44d7-9429-4ac4dd5ecf91",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "84ac6417-e9ab-4e03-9eaa-dac96ff104de",
+          "type": "column",
+          "children": [
+            {
+              "id": "0eac10c8-a09d-49b9-b912-6ea80562258d",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Medium-Video-Game-Mark-Wolf/dp/029279150X\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e265c0c-27b9-4eae-9aa1-3550b8b64c64",
+      "type": "divider"
+    }
+  ]
+}

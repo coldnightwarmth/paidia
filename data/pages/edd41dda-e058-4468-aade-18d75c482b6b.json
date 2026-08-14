@@ -1,0 +1,369 @@
+{
+  "id": "edd41dda-e058-4468-aade-18d75c482b6b",
+  "slug": "understanding-seniority-levels",
+  "title": "Understanding Seniority Levels",
+  "icon": "🎖️",
+  "cover": "",
+  "type": "page",
+  "parentId": "7b5f9f3f-f702-41d5-8d48-54aa0a367ce9",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/edd41ddae0584468aade18d75c482b6b",
+  "createdTime": 1711198564307,
+  "lastEditedTime": 1711198564307,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Understanding Seniority Levels"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "cec901cc-c249-40c9-9062-e659c0dc23f6",
+      "type": "subheader",
+      "html": "🐣 Common Hierarchy.",
+      "anchorId": "common-hierarchy"
+    },
+    {
+      "id": "6b0e1859-bf7c-48e2-9b30-d5cb6e4ed43c",
+      "type": "divider"
+    },
+    {
+      "id": "665a3efa-ab34-4a7f-9bb0-b21b90c6a985",
+      "type": "quote",
+      "html": "In almost every organisation, although the ranks will sometimes have different names, you can typically expect the following base progression path for any role."
+    },
+    {
+      "id": "da6128e0-5125-4969-9052-361fc12e9dcd",
+      "type": "subsubheader",
+      "html": "Intern.",
+      "anchorId": "intern"
+    },
+    {
+      "id": "e228fb19-1cdb-4a84-b6e9-7f4d9874326f",
+      "type": "paragraph",
+      "html": "<strong><em>Experience: 0 years.</em></strong>"
+    },
+    {
+      "id": "6f568b96-44d6-4ecf-9b63-5e1fab6dec6b",
+      "type": "paragraph",
+      "html": "Internship positions are typically given on a short-term basis, ranging anywhere from a couple weeks to a couple months. "
+    },
+    {
+      "id": "037a1305-711a-49b0-8b3b-aeaac2e44b93",
+      "type": "paragraph",
+      "html": "In most cases, internships are made available to post-secondary students nearing graduation, as an opportunity to practice what they have learnt in school in a professional setting, giving them critical field experience in the process."
+    },
+    {
+      "id": "5374cf9e-4ef9-4a03-b48e-9802d81aef24",
+      "type": "paragraph",
+      "html": "The responsibilities of an Intern are fairly similar to those of a Junior, but with far more emphasis on learning than performance. The other major difference with a Junior role is that internships are temporary engagements by nature."
+    },
+    {
+      "id": "0d5ba2d4-c3b7-4c04-a007-a33681d2197c",
+      "type": "paragraph",
+      "html": "In <em>certain</em> circumstances, Interns can potentially be offered a permanent Junior position at the end of their contract."
+    },
+    {
+      "id": "185f2526-e95b-4827-974e-d43ddfc5f7ad",
+      "type": "callout",
+      "html": "Internships should be compensated, and you should <u>not</u> be accepting to perform unpaid work.",
+      "icon": "⚠️",
+      "children": []
+    },
+    {
+      "id": "070e065a-4b4d-490c-a766-16dae3f70e4e",
+      "type": "subsubheader",
+      "html": "Junior.",
+      "anchorId": "junior"
+    },
+    {
+      "id": "3712ee9a-2932-4113-bd74-31a1eb28180d",
+      "type": "paragraph",
+      "html": "<em>In some organisations, also known as 'Level I'.<br>In some organisations might also be subdivided into 'Junior' and 'Associate' levels.</em>"
+    },
+    {
+      "id": "ea083390-958b-4327-a1cd-c6260ac54518",
+      "type": "paragraph",
+      "html": "<strong><em>Experience: ~0-2 years.</em></strong>"
+    },
+    {
+      "id": "d00209fa-f14c-4b16-8da3-c0201b7d9e06",
+      "type": "paragraph",
+      "html": "In a Junior position, you will have the opportunity to learn the ropes from more senior members of the team."
+    },
+    {
+      "id": "89127364-3ec4-4829-8891-9e7fbcdb30ba",
+      "type": "paragraph",
+      "html": "As a Junior, you will typically be given bite-sized pieces of features to work your way through, with frequent check-ins, course corrections, and feedback sessions which will almost entirely revolve around execution of ideas."
+    },
+    {
+      "id": "7a1ed7b2-2eef-446f-bdd5-2daf66e1cfcf",
+      "type": "subsubheader",
+      "html": "Mid-Level.",
+      "anchorId": "mid-level"
+    },
+    {
+      "id": "c9765e13-ec88-425a-89da-3c0329100f23",
+      "type": "paragraph",
+      "html": "<em>In some organisations might also being subdivided into 'Level II' and 'Level III' roles.</em>"
+    },
+    {
+      "id": "6f564a9e-bc48-430f-9b53-570e01139853",
+      "type": "paragraph",
+      "html": "<strong><em>Experience: ~2-4 years.</em></strong>"
+    },
+    {
+      "id": "4fbf8688-6ccd-4e30-a492-49856d9bb0f9",
+      "type": "paragraph",
+      "html": "As a Mid-Level , you will be given ownership over specific smaller features, and you will be able to operate semi-autonomously, with semi-frequent quality checks. Feedback sessions will generally be composed of help in executing ideas, as well as some strategy."
+    },
+    {
+      "id": "87ca73c6-35f0-4ba1-b868-cef20e81228c",
+      "type": "subsubheader",
+      "html": "Senior.",
+      "anchorId": "senior"
+    },
+    {
+      "id": "076ccdd0-78fc-47d1-a186-b7f2771633ee",
+      "type": "paragraph",
+      "html": "<strong><em>Experience: ~4-6 years.</em></strong>"
+    },
+    {
+      "id": "2ae2dba4-fd62-40b0-9bf6-5b1202ac655e",
+      "type": "paragraph",
+      "html": "As a Senior, you will be given near complete ownership over entire features and/or feature sets, and you will be able to operate fully autonomously, with only infrequent check-ins. Feedback will moreso revolve around strategy than execution."
+    },
+    {
+      "id": "4f8d98b9-6081-4a51-9b73-5bc3ebcdef6a",
+      "type": "subheader",
+      "html": "🌱 The Branch Point.",
+      "anchorId": "the-branch-point"
+    },
+    {
+      "id": "e3944be9-b1b1-4a0e-a971-ae7698a853d2",
+      "type": "divider"
+    },
+    {
+      "id": "246d18bb-dd14-43a9-87b8-e08be63a0039",
+      "type": "quote",
+      "html": "Once you are ready to advance from the Senior level, you will typically need to make a choice in most organisations and decide whether you would like to specialise in a <em>Leadership</em> role ('Lead' or 'Manager'), or an an <em>Expert of Craft</em> role ('Principal')."
+    },
+    {
+      "id": "ae06fffe-07fb-4f7f-8fba-2985a5cd7613",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f7e4e703-a420-4f5d-9255-da5b2fb9fd17",
+          "type": "column",
+          "children": [
+            {
+              "id": "2e6353ed-8731-459c-97b5-d12783a82d18",
+              "type": "subsubheader",
+              "html": "Lead.",
+              "anchorId": "lead"
+            },
+            {
+              "id": "8aa7a19e-af3d-4bc8-9a09-9c4ef7208687",
+              "type": "paragraph",
+              "html": "<em>In some organisations, might be subdivided into 'Lead' and 'Senior Lead' roles.</em>"
+            },
+            {
+              "id": "f9cfce08-d523-47c9-92a5-5cde78a12b54",
+              "type": "paragraph",
+              "html": "<em>In some organisations, also known as 'Manager'.</em>"
+            },
+            {
+              "id": "b3fa85e6-aad9-4f55-9df3-885a9866b80a",
+              "type": "paragraph",
+              "html": "<strong><em>Experience: ~4+ years.</em></strong>"
+            },
+            {
+              "id": "90870c64-1f3c-4cd5-a5d1-7b7dc35c991b",
+              "type": "paragraph",
+              "html": "In most cases, this will involve leading a team of your discipline on a specific project (Project Discipline Lead), but in some cases, this could also be a position of leading a discipline across an entire company (Studio Discipline Lead)."
+            },
+            {
+              "id": "f9626bcf-8da4-42a6-9f12-a042c5afc346",
+              "type": "paragraph",
+              "html": "Your main responsibilities will be:"
+            },
+            {
+              "id": "05c02515-684a-4ba2-bcf3-7d96897a8ea2",
+              "type": "bulleted_list",
+              "html": "Scheduling and managing the work of those you serve (those who report to you), and generally setting long-term strategy for your area of jurisdiction."
+            },
+            {
+              "id": "e4b8e208-2f80-46f2-99d0-465a81648bda",
+              "type": "bulleted_list",
+              "html": "Respresenting your discipline at a project or studio level, both internally and externally."
+            },
+            {
+              "id": "4bb07902-0765-4729-af7f-af4c34aab0f3",
+              "type": "bulleted_list",
+              "html": "Setting, and enforcing standards and conventions throughout your discipline."
+            },
+            {
+              "id": "3452b9de-06c2-46f5-b59e-69bb07963dd4",
+              "type": "bulleted_list",
+              "html": "Mentorship &amp; Employee Development."
+            },
+            {
+              "id": "25305879-a8cd-4639-b28e-0524e671e11c",
+              "type": "bulleted_list",
+              "html": "Being the primary Hiring Manager for roles under your jurisdiction."
+            },
+            {
+              "id": "04203db5-8e23-4382-9161-9866bdf2406d",
+              "type": "paragraph",
+              "html": "In some cases, you will still have the opportunity to directly contribute pieces towards the project, but the majority of your time will be focused on serving your team, whilst delegating most of the production output. "
+            },
+            {
+              "id": "355fdeaf-7719-4d1f-af2e-b38796f8757f",
+              "type": "paragraph",
+              "html": "The biggest difference between a 'Lead' and a 'Manager' role will likely be that as a 'Lead' you have more responsibility over product execution, whereas a 'Manager' will have more focus on the logistical side of production."
+            }
+          ]
+        },
+        {
+          "id": "6cb0ef61-adaf-434f-92a3-b869f7b32ffc",
+          "type": "column",
+          "children": [
+            {
+              "id": "1103412b-b2b6-4915-ac13-3ecf6cfcac46",
+              "type": "subsubheader",
+              "html": "Principal.",
+              "anchorId": "principal"
+            },
+            {
+              "id": "5c9b56ca-b210-4092-b763-e65ad0c623f3",
+              "type": "paragraph",
+              "html": "<em>In some organisations, might be subdivided into 'Expert' and 'Principal' roles.</em>"
+            },
+            {
+              "id": "779c966b-4d45-44ab-b3eb-c46a70747581",
+              "type": "paragraph",
+              "html": "<strong><em>Experience: ~4+ years.</em></strong>"
+            },
+            {
+              "id": "14645c75-036e-43ea-aee6-bb10784558a4",
+              "type": "paragraph",
+              "html": "In this position, you will continue to actively contribute towards the projects you are a part of at a very high level of quality. "
+            },
+            {
+              "id": "7fb44899-3d94-44f8-a576-e74b0c3ad730",
+              "type": "paragraph",
+              "html": "The major difference between the Senior position and the Principal position is that you will not only have a responsibility for consistently delivering high-quality work, but also for raising the bar for your discipline within the studio, and in some cases, within the industry."
+            },
+            {
+              "id": "df44616b-9e78-47e2-8517-ef8296512ff4",
+              "type": "paragraph",
+              "html": "A Principal within a company is generally regarded as trailblazer and field expert, that anyone at any level can go to with questions on how to achieve something at a technical level."
+            },
+            {
+              "id": "61e46798-9ca7-42e4-b770-655cd841e335",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4ff8688-f020-483c-a50e-1e5fad2b740c",
+      "type": "subheader",
+      "html": "👨‍💼 Advancement into Director Roles.",
+      "anchorId": "advancement-into-director-roles"
+    },
+    {
+      "id": "18608ad3-13ec-4901-a815-872cfbd1dfcf",
+      "type": "divider"
+    },
+    {
+      "id": "4d753628-6c6a-4961-80db-a5826aec227d",
+      "type": "quote",
+      "html": "Although not completely out of the ordinary to progress from a Principal role to a Director role, in most cases, a Director will be the next step up from a Lead position where one would already have familiarity with strategy and leadership."
+    },
+    {
+      "id": "c52acadd-d8d5-4b0b-890d-1ceed32a09e5",
+      "type": "subsubheader",
+      "html": "Head of Department.",
+      "anchorId": "head-of-department"
+    },
+    {
+      "id": "4314d296-a3f9-47c8-8975-e637261bd977",
+      "type": "paragraph",
+      "html": "<strong><em>Experience: ~8+ years.</em></strong>"
+    },
+    {
+      "id": "691c55a9-97bf-463d-bf12-9d711ab1c0fb",
+      "type": "paragraph",
+      "html": "As a Head of Department for a studio, you will typically be responsible for managing multiple disciplines under the UI umbrella. You will generally be responsible for all of the aspects found in the Lead position, but over more disciplines than just your own."
+    },
+    {
+      "id": "ca41d31d-b53c-4b92-96dd-1678f7ed2a36",
+      "type": "subsubheader",
+      "html": "Presentation Director.",
+      "anchorId": "presentation-director"
+    },
+    {
+      "id": "23a01d74-0a6e-4630-b71d-bed8c055e0f9",
+      "type": "paragraph",
+      "html": "<strong><em>Experience: ~8+ years.</em></strong>"
+    },
+    {
+      "id": "b1b0b83d-15f5-46fe-bb05-1ec1d8696b19",
+      "type": "paragraph",
+      "html": "As a Presentation Director, you will not only be working in a similar capacity to a UI Design or UI Art Lead, but you will also see your jurisdiction and areas of responsibility expand, spanning over to Branding and Marketing Design."
+    },
+    {
+      "id": "5208cf12-b48e-411f-816a-162ba32defd3",
+      "type": "subsubheader",
+      "html": "UI Technical Director.",
+      "anchorId": "ui-technical-director"
+    },
+    {
+      "id": "1bcad06f-2e2d-4d61-98ee-8300f2756f10",
+      "type": "paragraph",
+      "html": "<strong><em>Experience: ~8+ years.</em></strong>"
+    },
+    {
+      "id": "82f383e3-e75e-4c2d-8748-491dd0c9a67b",
+      "type": "paragraph",
+      "html": "As a Technical Director, you will more often than not be taking on the areas of responsibility of both a Studio Lead and Principal role, simultaneously being responsible for Leadership of the technical disciplines of UI, but also serving as a discipline expert in your field."
+    },
+    {
+      "id": "5205ccb1-d449-4a8c-9821-20e30712871c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1783c29e-ed15-44a0-aab8-c9f61ebca46d",
+          "type": "column",
+          "children": [
+            {
+              "id": "367a69a6-e1ec-4cfa-b61f-6ec42b3a8516",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "94567846-4ff7-408b-b6ad-dc43d91efc92",
+          "type": "column",
+          "children": [
+            {
+              "id": "a2cc9dd5-6abe-46d7-b5c8-644ec78d40b9",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

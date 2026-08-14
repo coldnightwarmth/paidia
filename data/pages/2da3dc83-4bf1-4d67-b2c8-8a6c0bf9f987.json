@@ -1,0 +1,126 @@
+{
+  "id": "2da3dc83-4bf1-4d67-b2c8-8a6c0bf9f987",
+  "slug": "the-art-of-computer-game-design",
+  "title": "The Art of Computer Game Design",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Art-of-Computer-Game-Design-2da3dc834bf14d67b2c88a6c0bf9f987?pvs=21",
+  "createdTime": 1651904335128,
+  "lastEditedTime": 1681313875506,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Art of Computer Game Design",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ef43cafe3334.webp",
+  "blocks": [
+    {
+      "id": "962267df-5f62-422b-ad79-b35be4e8d4ae",
+      "type": "divider"
+    },
+    {
+      "id": "7d80032e-b8b0-4cd2-9407-560383b38b8a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fcb44681-adf1-49dd-8a25-cee6093243f5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "713f3a68-0a92-4c20-8b58-f5802be95290",
+          "type": "column",
+          "children": [
+            {
+              "id": "ce097be6-1a34-4446-8700-c63a71610465",
+              "type": "paragraph",
+              "html": "<em><strong>The Art of Computer Game Design</strong></em> by Chris Crawford is the first book devoted to the theory of computer and video games. The book attempts to categorize computer games and talks about design precepts that serve as guidelines for game designers. It was originally published in Berkeley, California by McGraw-Hill/Osborne Media in 1984. The original edition is now out-of-print but from 1997 became available as a free download from a site maintained by Washington State University, Pullman. In 2011 the free download was removed and the text is <a href=\"https://archive.org/details/artofcomputergam00chri\" target=\"_blank\" rel=\"noreferrer\">currently available as a Kindle e-book</a>."
+            },
+            {
+              "id": "60accf4e-d9d2-4955-95eb-dead8dfaf700",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "16d9a933-9623-4f69-ac39-04595335a6bc",
+          "type": "column",
+          "children": [
+            {
+              "id": "6b0acc8e-22d7-4820-aab6-c68f6ca73e86",
+              "type": "image",
+              "src": "./assets/images/untitled-ef43cafe3334.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8585d302-5d13-4343-bee2-14a53f6aa8e5",
+      "type": "divider"
+    },
+    {
+      "id": "ca0641db-7b8b-4cf6-b053-38381996e484",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7562d9e4-8ab4-402a-8a13-9634ef924e9e",
+          "type": "column",
+          "children": [
+            {
+              "id": "b0e963c9-0a4e-40cc-bfc6-f7fabb4cdf2f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "69376cbf-20d4-44eb-91d3-081c3686695c",
+          "type": "column",
+          "children": [
+            {
+              "id": "a1bd3942-843b-4f6a-b632-96b8404b7ff6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3GpPDzl\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64a8aa5e-4f18-4a7c-bac3-f58550746a26",
+      "type": "divider"
+    },
+    {
+      "id": "382d3308-3999-404d-98f9-d1e45ebc6453",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

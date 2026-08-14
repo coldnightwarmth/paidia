@@ -1,0 +1,131 @@
+{
+  "id": "9c926ba0-171b-4a30-9ee7-7c5933a7e696",
+  "slug": "the-dragon-quest-book",
+  "title": "The Dragon Quest Book",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Dragon-Quest-Book-9c926ba0171b4a309ee77c5933a7e696?pvs=21",
+  "createdTime": 1653077537203,
+  "lastEditedTime": 1681313964786,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Dragon Quest Book",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f0fe406c5b30.webp",
+  "blocks": [
+    {
+      "id": "5c2c114b-dc35-416d-a63d-eaf64ee6beca",
+      "type": "divider"
+    },
+    {
+      "id": "19f1a7f4-9701-4971-b325-ef52bf2a27cb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "89de79bc-d932-48c1-92a8-f84dcb6716dc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f1432855-13cd-40f6-a760-489244db1ce8",
+          "type": "column",
+          "children": [
+            {
+              "id": "2691141c-6ee1-47d7-b786-a3cd43ec58b4",
+              "type": "paragraph",
+              "html": "<em><strong>The Dragon Quest Book: Interviews and Reflections on the Fandom in the West</strong></em> was written by Austin King, self-published, June 29, 2020."
+            },
+            {
+              "id": "7a9e6175-581d-4417-bab2-664b89096d62",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0263111f-ebcd-4759-b6c5-ed715dda9e39",
+              "type": "paragraph",
+              "html": "The Dragon Quest Book<em> is a celebration of the long-running video game series and the fans who love it! Immensely popular in Japan, </em>Dragon Quest<em> has struggled to find a foothold in the West, but that hasn’t stopped people from discovering the series and falling in love with it. In the first half of the book, </em>Dragon Quest<em> podcaster and writer Austin King chronicles playing every mainline </em>Dragon Quest <em>game in a single year. This is where you’ll find info on the characters, games, and worlds that make this series so great.The second half of the book comprises interviews and reflections from people all across the Dragon Quest fandom. Fansite creators, podcasters, YouTubers, cosplayers, collectors, and more share their stories. There’s also writings from Western fans outside the U.S., from places like Argentina, France, and Spain. Old and new fans alike share their stories and insights into what makes </em>Dragon Quest<em> so amazing.There’s also a Resources section in the back of the book for anyone looking to delve deeper into </em>Dragon Quest<em> and the Western fandom. So if you’ve been a fan for over thirty years or only thirty minutes, there’s something in </em>The Dragon Quest Book<em> for everyone!</em>"
+            },
+            {
+              "id": "32649c2a-73d8-485d-bc0e-ec49959d079d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4a6686c5-03be-4f6f-aa83-fba9fdc91920",
+          "type": "column",
+          "children": [
+            {
+              "id": "94380d2e-2a22-4ddc-8df0-43c4ea6abf73",
+              "type": "image",
+              "src": "./assets/images/untitled-f0fe406c5b30.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43e5211e-2d7c-4544-a036-7319e7c5bbaa",
+      "type": "divider"
+    },
+    {
+      "id": "63019869-5454-4f9c-8d2c-271674868336",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1a6187b6-adf4-4958-b41e-b66c85408c23",
+          "type": "column",
+          "children": [
+            {
+              "id": "3f9c6067-b856-49b0-8b26-ce6943d9ce5a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "57751a43-3f3d-4d35-bbeb-88e413d9e4fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "73bdf30d-c5a3-4009-8062-1d691e4e2e8e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3UcI2db\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "39d6e979-96d4-40bb-a04f-97b8a1199093",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "92d0a341-0d0a-424e-a231-9b079b8e3d65",
+  "slug": "the-history-of-card-games",
+  "title": "The History of Card Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-History-of-Card-Games-92d0a3410d0a424ea2319b079b8e3d65?pvs=21",
+  "createdTime": 1659477410844,
+  "lastEditedTime": 1681313086423,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The History of Card Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9f67f57d2af0.webp",
+  "blocks": [
+    {
+      "id": "70035389-43ef-43a7-8e3d-2b9ae684b7bc",
+      "type": "divider"
+    },
+    {
+      "id": "7c98347f-2373-413e-bde7-b9992e385b4d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0c0ed591-f934-4202-a5bb-9743aab1469d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "111db675-3f40-4b16-90cb-b9aac25d7e20",
+          "type": "column",
+          "children": [
+            {
+              "id": "0f22972f-38ef-4250-98b1-f8e68959d54d",
+              "type": "paragraph",
+              "html": "<em><strong>The History of Card Games</strong></em> was written by David Parlett, originally published by Hodder &amp; Stoughton Ltd, 1 Aug. 1983."
+            },
+            {
+              "id": "b456629f-9199-43df-880f-6e40c87febe7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "793100dd-ce6b-416d-bde1-6bd222d21985",
+              "type": "quote",
+              "html": "<em>This book is an historical guide to all card games played in Europe and the Western world, surveying the origins and evolution of all the games you have heard of - and many that you have not. David Parlett explains where the games come from, how they have developed, how their popularity has changed and by whom they were or are played, their rituals and etiquette, why cards are designed as they are, and how the games interrelate. Some unusual games are described for the first time, while strange new light is cast on even the best-known games, such as bridge, poker, cribbage, and knockout whist. The author explodes many of the myths that have grown up about card games: that they are synonymous with gambling; that they are rooted in fortune telling; that they were introduced to Europe by Marco Polo, or gypsies, or crusaders; that the earliest cards were Tarots; or that all card games have unalterable official rules. In fact, one of his main contentions is that most card games are folk games, with informality being a large part of their appeal, and that local variability is the hallmark of a truly living game.</em>"
+            },
+            {
+              "id": "b8561007-d4f5-4bab-9875-a8214e94aa0a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "315230e2-278c-4f65-9178-cca123362cab",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd27e358-496b-4d91-9616-a10a5620c977",
+              "type": "image",
+              "src": "./assets/images/untitled-9f67f57d2af0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97704b14-434f-45f6-8620-e41cb021eb5f",
+      "type": "divider"
+    },
+    {
+      "id": "1952658b-365b-41d9-aa1a-38f5b20f9d0c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2cf4b21c-4f4a-41a6-9f03-ae804d66eeb0",
+          "type": "column",
+          "children": [
+            {
+              "id": "0cc429f2-f6a9-45b8-93fb-89ee85475fec",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "632ec22c-7ef8-4776-a410-a70b0e78501e",
+          "type": "column",
+          "children": [
+            {
+              "id": "f04a59bf-7ec4-4b61-950e-d5856a08a668",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3d3hdaT\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0dbec51f-742f-4132-9148-3c7d637c3787",
+      "type": "divider"
+    }
+  ]
+}

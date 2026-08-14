@@ -1,0 +1,131 @@
+{
+  "id": "b896c151-224f-4e8a-aa9d-c363f346d4f5",
+  "slug": "postsecondary-play",
+  "title": "Postsecondary Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Postsecondary-Play-b896c151224f4e8aaa9dc363f346d4f5?pvs=21",
+  "createdTime": 1657300867142,
+  "lastEditedTime": 1681314064263,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Postsecondary Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-90b5cece7fb7.webp",
+  "blocks": [
+    {
+      "id": "f558c528-a5ad-4ed9-9107-c2144dae639a",
+      "type": "divider"
+    },
+    {
+      "id": "971944c2-fd73-4d28-a0e6-17e7ed83fbcb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "af001d82-276f-472e-abdf-8eeead0bbe08",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d256cbae-359b-4b00-848a-64c110ca77cb",
+          "type": "column",
+          "children": [
+            {
+              "id": "18be9565-21fb-4fe3-a997-b4b9e1933a0a",
+              "type": "paragraph",
+              "html": "<em><strong>Postsecondary Play: The Role of Games &amp; Social Media in Higher Education</strong></em> is a collection of essays edited by William G. Tierney, Zoë B. Corwin, Tracy Fullerton, &amp; Gisele Ragusa, published by Johns Hopkins University Press, June 1, 2014."
+            },
+            {
+              "id": "00b88dbc-e2f0-4eba-93c9-25e0cdc9acbd",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3566abe9-6e86-4b00-86de-4e73b7ccfb54",
+              "type": "quote",
+              "html": "<em>The college application process―which entails multiple forms, essays, test scores, and deadlines―can be intimidating. For students without substantial school and family support, the complexity of this process can become a barrier to access. William G. Tierney, Tracy Fullerton, and their teams at the University of Southern California approach this challenge innovatively. Using the tools of online games and social media, they have developed ways to make applying for college much less intimidating.<br><br>While the vast majority of college students use social media and gaming in their everyday lives, colleges and universities have been slow to recognize and harness the power of either. </em>Postsecondary Play<em> explores the significance of games and social media in higher education, and particularly how they can be used to attract, retain, educate, and socialize students.<br><br>Tierney, a past president of the American Educational Research Association, has gathered some of the best research on the emerging role of games and social media in the classroom and how these tools can boost student confidence and increase college access. Scholars writing from a wide variety of disciplines―college access, social media, game studies, and learning sciences―provide concrete examples to illustrate the new and complex ways in which students learn in response to social media and games. Tierney and the contributors find that, although games can be powerful tools for encouraging underserved students, quality game design and mastering the concept of play―the ability to develop skills while engaging in the game―are essential in the effective use of serious games in teaching and learning.<br><br>Summarizing a decade of research in game design and learning, </em>Postsecondary Play <em>will appeal to higher education scholars and students of learning, online gaming, education, and the media.</em>"
+            },
+            {
+              "id": "07fd86f9-4916-40a6-92ab-8e540bd52dfb",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "9e979018-310f-4dc6-bc6b-dc807435b41a",
+          "type": "column",
+          "children": [
+            {
+              "id": "21d5c86e-62f6-45bc-8a98-2641755a986c",
+              "type": "image",
+              "src": "./assets/images/untitled-90b5cece7fb7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1994825-537d-404d-96b3-4444efc8376b",
+      "type": "divider"
+    },
+    {
+      "id": "7df9ae43-cfe6-4989-a89b-81e126a10480",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a73d8a35-1ea7-4d4b-af94-fd9370659d07",
+          "type": "column",
+          "children": [
+            {
+              "id": "94323269-340f-4b31-b9d7-430574760b2f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "72396f7b-c540-4493-8c28-1d041c907423",
+          "type": "column",
+          "children": [
+            {
+              "id": "ff05d6c0-46e1-44d7-a655-16d0a79733c1",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OTZUr0\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "efbea8fb-802a-4134-83f5-16c8016c57f4",
+      "type": "divider"
+    }
+  ]
+}

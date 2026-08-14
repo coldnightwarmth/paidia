@@ -1,0 +1,141 @@
+{
+  "id": "513abfdc-63fa-4242-931e-808dbf1b004c",
+  "slug": "your-move",
+  "title": "Your Move",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Your-Move-513abfdc63fa4242931e808dbf1b004c?pvs=21",
+  "createdTime": 1651707195105,
+  "lastEditedTime": 1681314277974,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Your Move",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-26ccb924519f.webp",
+  "blocks": [
+    {
+      "id": "590e75dd-ab0b-4279-8887-6ae4001b2213",
+      "type": "divider"
+    },
+    {
+      "id": "a231b7b5-517d-4215-b0cb-c6f3e1269778",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "270a3440-8d82-4c21-890c-0fe83d6bc6cc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "06297ea8-ab1c-4490-a1d4-3068576833e1",
+          "type": "column",
+          "children": [
+            {
+              "id": "5b6842a2-405c-4752-8736-5e06d371eba7",
+              "type": "paragraph",
+              "html": "<em><strong>Your Move: What Board Games Teach Us About Life</strong></em> was written by Jonathan Kay &amp; Joan Moriarity, published by Sutherland House, September 11, 2019."
+            },
+            {
+              "id": "5ff1e5fd-5964-4798-b0bd-67122fdde6d8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "06f45424-df37-4d99-a605-05760c9148d7",
+              "type": "quote",
+              "html": "<em>Board games are among our most ancient and beloved art forms. During the rise of digital media, they fell from prominence for a decade or two but today they are in a new golden age. They're ingeniously designed, beautiful to look at, and exhilarating to play. Games are reclaiming their place in our culture, as entertainment, social activity, and intellectual workout equipment. Alone among all art forms, games require their audience (called &quot;players&quot;) to participate. If nobody's playing, there is no game.<br><br>As a result, games can tell far more about us than our TV shows, movies or music ever could. How does </em>The Game of Life <em>illustrate our changing attitudes about virtue? How does a World War II conflict simulation game explain the shortcomings of a failed novelist? Each chapter of </em>Your Move<em> examines one game, and what it reveals about our culture, history, society, and relationships.<br><br>The book's two co-authors bring the perspectives of a writer who plays, and a player who writes. Before Jonathan Kay began his distinguished career as an author and commentator, he had a passion for games, and in recent years he has rediscovered them. Meanwhile, Joan Moriarity's career has been spent designing, developing, distributing, art directing, recommending and teaching board games and, recently, writing about them for a wider audience.<br><br>With its short, punchy essays, and beautiful photographs of the games themselves, every chapter will be a worthwhile read in itself, and the book overall will leave you inspired to discover the truths of your own inner and outer world through play -- whether you're a seasoned veteran or a total newcomer.</em>"
+            },
+            {
+              "id": "9bdb2073-fca5-40fe-b2b6-21719f7a33da",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2c45f1af-0def-46e2-86f9-4a0977a2cfb5",
+          "type": "column",
+          "children": [
+            {
+              "id": "86b87831-9066-4d94-80a5-1159fc30792f",
+              "type": "image",
+              "src": "./assets/images/untitled-26ccb924519f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7196c22c-194c-421d-8c53-91e8e89e2687",
+      "type": "divider"
+    },
+    {
+      "id": "8d0d402c-5c1f-40d7-b1b7-0145e6855f3c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f7e2e130-26c1-4422-ac14-a7239dbe1fe5",
+          "type": "column",
+          "children": [
+            {
+              "id": "bdac028a-389d-4b9b-a720-bf123b3efadd",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "743abd34-0997-4c6c-85d1-021b14165ce4",
+          "type": "column",
+          "children": [
+            {
+              "id": "6c5a64f1-bf8c-4885-90da-010290b848d3",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FDru8d\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4d786d4c-4c06-43df-b0c2-60e20384e1e5",
+      "type": "divider"
+    },
+    {
+      "id": "21d63ea6-018e-4a36-ae43-19a4ff912cac",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "9a291ab7-aebf-4517-a3ad-1a060f27900d",
+      "type": "paragraph",
+      "html": "<a href=\"#/building-blocks-of-tabletop-game-design\">Building Blocks of Tabletop Game Design</a> (<em>book</em>)"
+    }
+  ]
+}

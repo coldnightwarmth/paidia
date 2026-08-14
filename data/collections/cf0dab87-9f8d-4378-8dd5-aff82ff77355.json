@@ -1,0 +1,80 @@
+{
+  "id": "cf0dab87-9f8d-4378-8dd5-aff82ff77355",
+  "name": "Learning Resources",
+  "schema": {
+    ";nqm": {
+      "id": ";nqm",
+      "name": "Notes",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "X_Iw": {
+      "id": "X_Iw",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "596161c5-6528-4460-b6b1-fb332c419ce9",
+      "collectionId": "cf0dab87-9f8d-4378-8dd5-aff82ff77355",
+      "type": "table",
+      "name": "Learning Resources",
+      "pagePointerId": null,
+      "pageSort": [
+        "7ef8dfe7-5a31-493c-a98f-4fa02f2a70d8",
+        "a408816f-3ee6-4463-a35b-3db5d27f9de3",
+        "4ed5ed16-b5f8-4171-ae78-6649508d1e82",
+        "726c1df9-f451-44c6-a2f4-8b023f06703c"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 170
+        },
+        {
+          "property": "X_Iw",
+          "visible": true,
+          "width": 138
+        },
+        {
+          "property": ";nqm",
+          "visible": true,
+          "width": 200
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

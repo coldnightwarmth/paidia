@@ -1,0 +1,131 @@
+{
+  "id": "8201f37e-39f0-40be-a06e-9378a7e498db",
+  "slug": "debugging-game-history",
+  "title": "Debugging Game History",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Debugging-Game-History-8201f37e39f040bea06e9378a7e498db?pvs=21",
+  "createdTime": 1651697085541,
+  "lastEditedTime": 1681314037684,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Debugging Game History",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7ac56722ed2f.webp",
+  "blocks": [
+    {
+      "id": "538f5a9a-6853-4147-8c08-aa0adf32ca01",
+      "type": "divider"
+    },
+    {
+      "id": "2caf9347-07c9-4d44-8a69-a8189c247d51",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "286c1ef0-ce37-4d66-b10c-7fd7246adac1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a71cde30-a7ef-4fca-b23e-937d30735eea",
+          "type": "column",
+          "children": [
+            {
+              "id": "06cb671f-b666-4f53-b874-fb61f871d35f",
+              "type": "paragraph",
+              "html": "<em><strong>Debugging Game History: A Critical Lexicon</strong></em> is a collection of essays edited by Henry Lowood &amp; Raiford Guins, published by The MIT Press, June 3, 2016."
+            },
+            {
+              "id": "41f65659-1035-4d10-8607-d1061f267d2e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "991b625d-575a-4d7f-ae1b-6d1b04812613",
+              "type": "quote",
+              "html": "<strong><em>Essays discuss the terminology, etymology, and history of key terms, offering a foundation for critical historical studies of games.</em></strong><em><br><br>Even as the field of game studies has flourished, critical historical studies of games have lagged behind other areas of research. Histories have generally been fact-by-fact chronicles; fundamental terms of game design and development, technology, and play have rarely been examined in the context of their historical, etymological, and conceptual underpinnings. This volume attempts to “debug” the flawed historiography of video games. It offers original essays on key concepts in game studies, arranged as in a lexicon—from “Amusement Arcade” to “Embodiment” and “Game Art” to “Simulation” and “World Building.”<br><br>Written by scholars and practitioners from a variety of disciplines, including game development, curatorship, media archaeology, cultural studies, and technology studies, the essays offer a series of distinctive critical “takes” on historical topics. The majority of essays look at game history from the outside in; some take deep dives into the histories of play and simulation to provide context for the development of electronic and digital games; others take on such technological components of games as code and audio. Not all essays are history or historical etymology—there is an analysis of game design, and a discussion of intellectual property—but they nonetheless raise questions for historians to consider. Taken together, the essays offer a foundation for the emerging study of game history.</em>"
+            },
+            {
+              "id": "0f4d8f13-1e82-40f3-a748-3286311dfd80",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "243ed32d-239f-40e0-92af-8b0502f95cac",
+          "type": "column",
+          "children": [
+            {
+              "id": "a4fb0bd7-5e5e-4562-897e-d5fbbd981ea9",
+              "type": "image",
+              "src": "./assets/images/untitled-7ac56722ed2f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "897e3bdd-c5d1-4061-8f6b-2f63879db4d7",
+      "type": "divider"
+    },
+    {
+      "id": "d90307ee-c79b-4eb4-b1ad-814e81e73eff",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a29cb70b-5486-4c78-a7cd-917ff78cf836",
+          "type": "column",
+          "children": [
+            {
+              "id": "3366145c-b6f3-4d88-b7a9-5f4771812983",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c47a0d3f-9237-4bac-b83d-eaaf563d1c6d",
+          "type": "column",
+          "children": [
+            {
+              "id": "ad01d922-56b7-41ec-9a95-c46a6c591144",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3RsgWwR\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0bed5bd7-8090-4c2c-b051-560909bdb7e2",
+      "type": "divider"
+    }
+  ]
+}

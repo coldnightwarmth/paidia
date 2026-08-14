@@ -1,0 +1,141 @@
+{
+  "id": "5dc39372-b75f-40b3-88bc-36da822c26de",
+  "slug": "zathura",
+  "title": "Zathura",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Zathura-5dc39372b75f40b388bc36da822c26de?pvs=21",
+  "createdTime": 1658278404785,
+  "lastEditedTime": 1681313124194,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Zathura"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4ffe1b7e4528.webp",
+  "blocks": [
+    {
+      "id": "b49f7b79-2921-4ac0-8013-9c9bc6eca21f",
+      "type": "divider"
+    },
+    {
+      "id": "24a9bf8e-8258-45f2-8d13-054d60d74a91",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7dd6d00a-78c2-4b79-bffc-b227fa01ffef",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c04886c4-ab47-45a0-ac11-0a19805c7391",
+          "type": "column",
+          "children": [
+            {
+              "id": "65f5df1a-66a3-4019-b900-56779a5f5fff",
+              "type": "paragraph",
+              "html": "<em><strong>Zathura</strong></em> was a written by Chris Van Allsburg, published by Houghton Mifflin, October 28, 2002."
+            },
+            {
+              "id": "3815b7d3-0030-439f-a5aa-f5152ea4ff77",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "bff12328-a2c3-489d-89ab-fe9d8991886d",
+              "type": "quote",
+              "html": "<em><strong>The beautiful companion to Chris Van Allsburg's Caldecott Medal-winning </strong></em><strong>Jumanji</strong><em><strong>—a tale of intergalactic adventure and sibling rivalry where a roll the dice transports two brothers to the mythical land of Zathura.<br><br></strong></em><em>Taking place where </em>Jumanji<em> ended, older brother Walter warns his pesky little brother Danny not to bring home the mysterious board game they find at the park. But when Danny’s curiosity gets the better of him, the brothers have to battle homicidal robots, Zyborg pirates, and giant meteors in their living room!<br><br>Will this dynamic duo learn to work together before it’s too late? In double spread illustrations that shimmer against the surreal events of the story, readers will be holding their breath with each new threat the boys face in the satisfying enigma that is </em>Zathura<em>.<br><br>Like </em>Jumanji, Zathura<em> is also the inspiration of a popular major motion picture, now available for streaming.</em>"
+            },
+            {
+              "id": "6a646128-6181-4efd-8f35-1d7a8198ce06",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a93a3603-321c-47f1-a52c-65cfb5bf5dd8",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f753859-ac69-45d6-acc8-0d1fb1726488",
+              "type": "image",
+              "src": "./assets/images/untitled-4ffe1b7e4528.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa1b5838-d722-4d1c-8ff1-4106af5a5e3f",
+      "type": "divider"
+    },
+    {
+      "id": "687ef228-d610-486a-b903-9a37cfcc4de0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4467eb13-287c-46a0-9135-0c4c517b79b9",
+          "type": "column",
+          "children": [
+            {
+              "id": "305e9a81-d4f5-4b14-a057-23abfc315559",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79d4c43f-86f6-4f71-9728-5da07dd670aa",
+          "type": "column",
+          "children": [
+            {
+              "id": "53c00c9d-814b-49a5-aab1-8e26ec7fd39b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zd0BoT\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3fc4e41-2226-41f7-a64b-3b3638b8646b",
+      "type": "divider"
+    },
+    {
+      "id": "ff15d65c-6d15-4c18-bc7f-03810a93df42",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "024d8e02-9245-43a8-9da2-530a0eb80977",
+      "type": "paragraph",
+      "html": "<a href=\"#/jumanji\">Jumanji</a> (<em>book</em>)"
+    },
+    {
+      "id": "95f19659-155e-4ce0-827f-254ff5a328b7",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

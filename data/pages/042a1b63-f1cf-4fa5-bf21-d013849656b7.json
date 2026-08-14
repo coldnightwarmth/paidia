@@ -1,0 +1,126 @@
+{
+  "id": "042a1b63-f1cf-4fa5-bf21-d013849656b7",
+  "slug": "the-mathematical-theory-of-communication",
+  "title": "The Mathematical Theory of Communication",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/042a1b63f1cf4fa5bf21d013849656b7",
+  "createdTime": 1652535451286,
+  "lastEditedTime": 1681314187976,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Mathematical Theory of Communication",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-37112477a537.webp",
+  "blocks": [
+    {
+      "id": "abb02765-a5ce-48cb-9a7d-351efe3d3b9a",
+      "type": "divider"
+    },
+    {
+      "id": "2c934f49-701a-463f-8c12-a129a4489a65",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0ddc5140-679a-4235-9c9d-2dcad8fe566d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "13bcf8c2-1f0e-4a69-9319-83e27665b99a",
+          "type": "column",
+          "children": [
+            {
+              "id": "be29afa3-7fc9-4703-9d7f-4ef052663aaf",
+              "type": "paragraph",
+              "html": "<em><strong>The Mathematical Theory of Communication</strong></em> was written by Claude E. Shannon &amp; Warren Weaver, originally published in Bell System Technical Journal in 1948."
+            },
+            {
+              "id": "7ba52f13-d730-4cd3-b130-1ab4ce4e13e8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "00d4ee16-609f-4586-b2c0-512ad9eb5e19",
+              "type": "quote",
+              "html": "<em>Scientific knowledge grows at a phenomenal pace--but few books have had as lasting an impact or played as important a role in our modern world as </em>The Mathematical Theory of Communication<em>, published originally as a paper on communication theory more than fifty years ago. Republished in book form shortly thereafter, it has since gone through four hardcover and sixteen paperback printings.  It is a revolutionary work, astounding in its foresight and contemporaneity.  The University of Illinois Press is pleased and honored to issue this commemorative reprinting of a classic.</em>"
+            }
+          ]
+        },
+        {
+          "id": "81ab0ca2-c0ce-4f30-a112-ea50298e8a1f",
+          "type": "column",
+          "children": [
+            {
+              "id": "99366b34-d0fe-4607-b5f9-06e80d58b7f1",
+              "type": "image",
+              "src": "./assets/images/untitled-37112477a537.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "65611258-35bb-405f-ba8c-ed2340cb8cd8",
+      "type": "divider"
+    },
+    {
+      "id": "f46df532-652d-473c-8f0a-59536045fc42",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a4e9c7c5-3df1-4136-ac46-6719d3e7ec03",
+          "type": "column",
+          "children": [
+            {
+              "id": "0ed1e889-8961-4096-8bd1-044eacecc169",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "35f216f1-645b-49c2-8425-88cb0ff6d15e",
+          "type": "column",
+          "children": [
+            {
+              "id": "9322cc11-a393-4f43-b146-2d319787ff75",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xLnBdP\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3997270-68a5-4bed-83ec-87cfbd1788c7",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "6025d4f7-f374-41ce-b645-182e23971e90",
+  "slug": "rise-of-the-dungeon-master",
+  "title": "Rise of the Dungeon Master",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Rise-of-the-Dungeon-Master-6025d4f7f37441ceb645182e23971e90?pvs=21",
+  "createdTime": 1653176827040,
+  "lastEditedTime": 1681313999259,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Rise of the Dungeon Master",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4e119126927f.webp",
+  "blocks": [
+    {
+      "id": "2e49bb85-06b0-478c-8af5-ebf5ee8dedac",
+      "type": "divider"
+    },
+    {
+      "id": "ae4a253f-d024-43b3-a342-1adcca3f33e7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "370b1f86-fee2-4afc-bc92-0cd466fc8de1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "71d89a63-f322-42e4-a458-37801210a86c",
+          "type": "column",
+          "children": [
+            {
+              "id": "bd858233-f6fd-4ac8-a151-ecfd8f8c4c48",
+              "type": "paragraph",
+              "html": "<em><strong>Rise of the Dungeon Master: Gary Gygax &amp; the Creation of D&amp;D</strong></em> was written by David Kushner, published by Bold Type Books, May 9, 2017."
+            },
+            {
+              "id": "f754e6c8-4787-4c9b-a8c3-884c42ceedae",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "837c21a7-f9df-4144-87e4-4db8104c2c9a",
+              "type": "quote",
+              "html": "Rise of the Dungeon Master<em> tells, in graphic form, the story of </em><a href=\"#/gary-gygax\"><em>Gary Gygax</em></a><em>, co-creator of </em>Dungeons &amp; Dragons<em>, one of the most influential games ever made. Like the game itself, the narrative casts the reader into the adventure from a first person point of view, taking on the roles of the different characters in the story.<br><br>Gygax was the son of immigrants who grew up in Lake Geneva, WI, in the 1950s. An imaginative misfit, he escaped into a virtual world based on science fiction novels, military history and strategic games like chess. In the mid-1970s, he co-created the wildly popular </em>Dungeons &amp; Dragons<em> game. Starting out in the basement of his home, he was soon struggling to keep up with the demand. Gygax was a purist, in the sense that he was adamant that players use their imaginations and that the rules of the game remain flexible. A creative mind with no real knowledge of business, he made some strategic errors and had a falling out with the game's co-creator, his close friend and partner, </em><a href=\"#/dave-arneson\"><em>David Arneson</em></a><em>.<br><br>By the late 1970s the game had become so popular among kids that parents started to worry -- so much so that a mom's group was formed to alert parents to the dangers of role play and fantasy. The backlash only fueled the fires of the young fans who continued to play the game, escaping into imaginary worlds. Before long, </em>D&amp;D<em> conventions were set up around the country and the game inspired everything from movies to the first video games. With </em>D&amp;D<em>, Gygax created the kind of role playing fantasy that would fuel the multibillion dollar video game industry, and become a foundation of contemporary geek culture.</em>"
+            },
+            {
+              "id": "166a1c43-e494-4fdf-bd29-127da7aa9072",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d11c166f-38b4-4286-8fa4-c9eefbf2f7fe",
+          "type": "column",
+          "children": [
+            {
+              "id": "d4d99269-42c4-48ad-bd4b-342c3878c2a3",
+              "type": "image",
+              "src": "./assets/images/untitled-4e119126927f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51625c21-0fb4-4fce-ad14-22f862aa8c56",
+      "type": "divider"
+    },
+    {
+      "id": "09c80e27-13e6-4f82-af14-6d6020467ecb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c6e36e7e-b680-4e90-8a4c-1dab39604df0",
+          "type": "column",
+          "children": [
+            {
+              "id": "fb1ae492-f9d6-4ef5-a272-d70caaca6432",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9417f117-ddc1-4ccc-9178-c66f4fe2e616",
+          "type": "column",
+          "children": [
+            {
+              "id": "fcfc089e-d7bc-48f5-bca7-518b03b7f49a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FC32WC\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8ba2ba5d-2647-4939-87e8-6b8ea16d14a1",
+      "type": "divider"
+    }
+  ]
+}

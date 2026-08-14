@@ -1,0 +1,119 @@
+{
+  "id": "692da456-14ee-495a-97c8-6fda29730763",
+  "slug": "georges-h-bert",
+  "title": "Georges Hébert",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0a8568a2-35a2-4fcd-8817-4cfd69f98bf0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/692da45614ee495a97c86fda29730763",
+  "createdTime": 1666374000005,
+  "lastEditedTime": 1681329250015,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Georges Hébert",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a19e1aa515e4.webp",
+  "blocks": [
+    {
+      "id": "ceba01a4-f909-4a02-a087-6c6bf953a475",
+      "type": "divider"
+    },
+    {
+      "id": "903d6ff7-63e3-408f-ad7c-169877723b3e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6fb70f10-c67e-42eb-9e2f-3cf3107c4d52",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e5a71a0f-8f10-427f-b909-fbb9f105777e",
+          "type": "column",
+          "children": [
+            {
+              "id": "59c8d18a-e96a-4840-a0d3-9a7d51b8c54a",
+              "type": "paragraph",
+              "html": "<strong>Georges Hébert  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) was"
+            },
+            {
+              "id": "46c6a9c1-2616-4437-ba57-ebd8e39e7689",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "29597dee-c961-47fb-a02d-a02d9f8bc1e2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "78446022-9747-4bba-b9ed-89f7d678606d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "35d4a55b-16e7-4266-98ed-ce7e3ea50243",
+          "type": "column",
+          "children": [
+            {
+              "id": "7cd002f9-446d-4f3e-824d-72c4d9160636",
+              "type": "image",
+              "src": "./assets/images/untitled-a19e1aa515e4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4622a8f-09e1-4cc0-8a6e-cf327e24b89e",
+      "type": "divider"
+    },
+    {
+      "id": "c3f55b68-5fe7-4ca6-be66-81a0e9f22393",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "32db5a78-1be9-47a4-9e57-1f3779566e71",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "02ced385-7498-40af-80e2-a5630c47ccf4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7d8dbef0-bf46-4899-acdc-494727a76c76",
+      "type": "divider"
+    },
+    {
+      "id": "a88f1dd5-3004-4cac-9415-0e67d0c127a4",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

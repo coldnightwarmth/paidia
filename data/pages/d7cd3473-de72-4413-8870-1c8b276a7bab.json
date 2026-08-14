@@ -1,0 +1,121 @@
+{
+  "id": "d7cd3473-de72-4413-8870-1c8b276a7bab",
+  "slug": "dream-park",
+  "title": "Dream Park",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Dream-Park-d7cd3473de72441388701c8b276a7bab?pvs=21",
+  "createdTime": 1653173547500,
+  "lastEditedTime": 1681314128950,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Dream Park"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-74d9b1499e20.webp",
+  "blocks": [
+    {
+      "id": "d921a207-8b97-46c8-96db-2b8fb4ddb627",
+      "type": "divider"
+    },
+    {
+      "id": "e791afef-3345-4c1a-ac2f-bed51ee7d4f8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9b565a1e-2e05-4753-9761-58836eb2ab38",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7389fce6-bbf4-4b08-9fcb-7ecb176e1989",
+          "type": "column",
+          "children": [
+            {
+              "id": "8ca97d18-d566-4c19-92d3-1bd1d359ac9f",
+              "type": "paragraph",
+              "html": "<em><strong>Dream Park</strong></em> was written by Larry Niven &amp; Steven Barnes, published by Tor Books, May 11, 2010."
+            },
+            {
+              "id": "6c9c759e-cf5a-4984-9e63-22dd1c6eb869",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0d4a58b5-5a78-4be1-8fcb-4989d775f697",
+              "type": "quote",
+              "html": "<em>A group of pretend adventurers suit up for a campaign called &quot;</em>The South Seas Treasure Game<em>&quot;. As in the early Role Playing Games, there are Dungeon Masters, warriors, magicians, and thieves. The difference? At Dream Park, a futuristic fantasy theme park full of holographic attractions and the latest in VR technology, they play in an artificial enclosure that has been enhanced with special effects, holograms, actors, and a clever storyline. The players get as close as possible to truly living their adventure.<br><br>All's fun and games until a Park security guard is murdered, a valuable research property is stolen, and all evidence points to someone inside the game. The park's head of security, Alex Griffin, joins the game to find the killer, but finds new meaning in the games he helps keep alive.</em>"
+            }
+          ]
+        },
+        {
+          "id": "7899f55d-798d-476e-90a2-1ae404bae272",
+          "type": "column",
+          "children": [
+            {
+              "id": "4d303cf9-39d9-4e5f-abfb-ad232acbd345",
+              "type": "image",
+              "src": "./assets/images/untitled-74d9b1499e20.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "164a6912-d04f-40f0-af84-4e4b2eafe50d",
+      "type": "divider"
+    },
+    {
+      "id": "c59838fc-527b-425e-98a8-bcdbe4aa4234",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f1717924-7ea7-43ac-b6b3-f23a2cc61f34",
+          "type": "column",
+          "children": [
+            {
+              "id": "bd001a56-79e9-41a7-9534-2ad025d84411",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b3c11c03-66e2-42f4-a28d-9d8d7b4c5d0f",
+          "type": "column",
+          "children": [
+            {
+              "id": "08c87c00-cda3-4a27-b0d2-5e96079f44cd",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3qh4Uer\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79ba53bf-c3dd-4173-99fa-06d9011d2fee",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "7610ee13-579d-42f7-8f9d-7d24e944510d",
+  "slug": "literary-machines",
+  "title": "Literary Machines",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Literary-Machines-7610ee13579d42f78f9d7d24e944510d?pvs=21",
+  "createdTime": 1668799129735,
+  "lastEditedTime": 1681312395294,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Literary Machines",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b69b45e90d7c.webp",
+  "blocks": [
+    {
+      "id": "539680ee-8b34-4d6f-8364-0a4f137dbc65",
+      "type": "divider"
+    },
+    {
+      "id": "7392b86c-5f8d-4151-ac23-bec6549d3ae8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ed3011d5-c9af-40cf-9035-66c099c74641",
+      "type": "columns",
+      "children": [
+        {
+          "id": "71ce34b9-5169-4a45-8f41-e62caa5e74b0",
+          "type": "column",
+          "children": [
+            {
+              "id": "9a27122b-4ccf-4e23-8e8a-fba574307ac9",
+              "type": "paragraph",
+              "html": "<em><strong>Literary Machines</strong></em> was written by Theodor Holm Nelson, published, by Mindful Press in April of 1981."
+            },
+            {
+              "id": "91133389-8906-4d8d-b0a8-7e89a8e4192b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d07bf43c-a433-4879-89d5-a0c270783ceb",
+              "type": "quote",
+              "html": "<em>Ted Nelson's visionary book, which defined the term &quot;hypertext&quot; and foretold the Worldwide Web. A rare and historic book.<br><br></em>Literary Machines<em> (short title) is a book first published in 1981 by Ted Nelson, and republished nine times by 1993. It offers an extensive overview of Nelson's term &quot;hypertext&quot; as well as Nelson's Project Xanadu. It also includes other theories by Nelson, including &quot;tumblers&quot; for addressing bits in files past and present, &quot;transclusion&quot; as a method for including original work in one's own work, and &quot;micropayments&quot; to pay for the use. The format of the book is nonlinear, as the chapters are arranged in such a way that the text can be read out of order.</em>"
+            },
+            {
+              "id": "6a20d030-fb33-4d7d-bceb-d3ebcb9f4bc0",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7f2e87e5-8320-4729-acbd-8e2b45aefb4c",
+          "type": "column",
+          "children": [
+            {
+              "id": "ee7d9e4f-68b1-49a3-b555-15d54c9b0234",
+              "type": "image",
+              "src": "./assets/images/untitled-b69b45e90d7c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5091d6ac-26ec-4105-bee8-4f0261e1985e",
+      "type": "divider"
+    },
+    {
+      "id": "b95ff1d6-671c-4b09-904d-0d4d45a77a0f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "38fb8398-fa2d-4832-aed2-f7473ae1d2d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "7b8bc38a-4fb9-4665-8429-e0e29627be85",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "018838f2-9b93-4e96-a3ff-9c521efe1036",
+          "type": "column",
+          "children": [
+            {
+              "id": "4df43dd4-c56d-4e6f-9b2d-d95a2de48429",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Literary-Machines-Theodor-Holm-Nelson/dp/0893470554\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be2e0bec-6ee2-439a-bdaa-b542160771e3",
+      "type": "divider"
+    },
+    {
+      "id": "c4aa82b2-5157-48b6-9bc5-40d7d873ebeb",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

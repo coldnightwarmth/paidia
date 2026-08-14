@@ -1,0 +1,126 @@
+{
+  "id": "eadf08b2-e5ad-4cc3-b928-3484a1e83476",
+  "slug": "world-of-warcraft-and-philosophy",
+  "title": "World of Warcraft & Philosophy",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/World-of-Warcraft-Philosophy-eadf08b2e5ad4cc3b9283484a1e83476?pvs=21",
+  "createdTime": 1657303782031,
+  "lastEditedTime": 1681313911587,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "World of Warcraft & Philosophy",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a5329d08bdd5.webp",
+  "blocks": [
+    {
+      "id": "aa9d3ae2-a809-41e6-a8c1-a6bf7c4590ee",
+      "type": "divider"
+    },
+    {
+      "id": "464388ec-172f-4904-a092-ac5396260a1d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "698fa32b-312b-43b9-8cfc-b8cd70da6ccb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "782fc466-bdf5-4eb7-b987-f891989c9307",
+          "type": "column",
+          "children": [
+            {
+              "id": "8bc5e5ff-f472-4b1a-bc26-5ebc04df11f3",
+              "type": "paragraph",
+              "html": "<em><strong>World of Warcraft &amp; Philosophy: Wrath of the Philosopher King</strong></em> is a collection of essays edited by Luke Cuddy &amp; John Nordlinger, published by Open Court, October 27, 2009."
+            },
+            {
+              "id": "592ca460-d157-4def-9bd3-6f79393b564a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "49d42a83-eca3-4fb5-aae3-739e1bf5b9bc",
+              "type": "quote",
+              "html": "<em>Recognized by the </em>Guinness Book of World Records<em> as the most popular MMORPG (massively multiplayer online role-playing game) in videogame history, </em>World of Warcraft<em> is everywhere — from episodes of </em>South Park<em> and</em> The Simpsons<em>, to online series like </em>Watch the Guild<em>, accolades and awards from game critics, and prime-time commercials with Mr. T. Inevitably, such a cultural phenomenon triggers deeper questions. When does an assumed identity become real? Does the Corrupted Blood epidemic warn us of future public health catastrophes? What are the dangers when real life is invaded by events in the game? What can our own world learn from Azeroth’s blend of primitivism and high-tech? In these lively essays, a specially commissioned guild of philosophers, including Yara Mitsuishi, Monica Evans, Tim Christopher, and Anna Janssen, tackles these and other complex questions arising from </em>WoW<em>.</em>"
+            }
+          ]
+        },
+        {
+          "id": "434bfd66-45e4-4933-9ff5-c4f91e513f96",
+          "type": "column",
+          "children": [
+            {
+              "id": "988a5a05-1710-4851-8ca5-76cc109c61ef",
+              "type": "image",
+              "src": "./assets/images/untitled-a5329d08bdd5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "efedd4d6-115d-42cd-ae81-fbe90d0e0256",
+      "type": "divider"
+    },
+    {
+      "id": "0248a3c5-d3fd-4136-85ec-2e811a865582",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9e9a84a9-7d7f-4912-bdf7-ecfbdec0cdd9",
+          "type": "column",
+          "children": [
+            {
+              "id": "b08aba8e-85cf-4be4-b8e7-8e5c2e959c90",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d359454d-bcae-4604-aa1d-2d9d6e0fea5d",
+          "type": "column",
+          "children": [
+            {
+              "id": "bfadb5c4-f799-4d62-8e6b-fd3b0f8b669b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3RkEwwQ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "380a607c-1c2a-4d16-b8f8-e351c7a3d5b2",
+      "type": "divider"
+    }
+  ]
+}

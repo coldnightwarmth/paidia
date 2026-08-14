@@ -1,0 +1,136 @@
+{
+  "id": "47a44da9-ec0a-449a-a555-033a2d220527",
+  "slug": "religion-at-play",
+  "title": "Religion at Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Religion-at-Play-47a44da9ec0a449aa555033a2d220527?pvs=21",
+  "createdTime": 1651687177011,
+  "lastEditedTime": 1681313519033,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Religion at Play"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-559a27a1feb4.webp",
+  "blocks": [
+    {
+      "id": "6179efce-db92-4167-8c4e-ff2fcf4f3d65",
+      "type": "divider"
+    },
+    {
+      "id": "26348e2d-4b8c-4417-853a-71be7f3837a4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "383588eb-73f5-440f-819f-1c35f09c2045",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ea3cffbe-40f3-4f92-b1ef-598a4f53a247",
+          "type": "column",
+          "children": [
+            {
+              "id": "6023b458-55bc-480c-bf14-cca0fedb669f",
+              "type": "paragraph",
+              "html": "<em><strong>Religion at Play: A Manifesto</strong></em> was written by André Droogers, published by Wipf and Stock, October 8, 2014."
+            },
+            {
+              "id": "2035cdbb-6f53-4a98-957c-02522f61abe6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1dc354e3-cf80-4970-8abb-b34b18eeb4af",
+              "type": "quote",
+              "html": "<em>Is a powerful position a guarantee that a religion will continue? - Does God take sides in religious power struggles? - Can God survive religious exclusivity and diversity? - Is God migrating from &quot;&quot;out there&quot;&quot; to &quot;&quot;in here&quot;&quot;? - Is religion sustainable in the long run? In seeking answers to these questions, this book explores the possibilities afforded by playful religion. Religion has playful origins, but this aspect is forgotten as soon as institutional power becomes self-serving instead of subservient. Power changes the very essence of religion. Virtually all religions are distorted versions of a playful original. Institutionalization is religion's curse, not its blessing. Apparent success hides the failure of religion to be faithful to its original intent. This book helps find the way back from bordering to inclusivity and openness.</em>"
+            }
+          ]
+        },
+        {
+          "id": "c6c590e1-e44f-4f40-9b4c-8cd1cfbbda87",
+          "type": "column",
+          "children": [
+            {
+              "id": "a20f272a-3d91-4d11-b043-2658437901b6",
+              "type": "image",
+              "src": "./assets/images/untitled-559a27a1feb4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37a308d6-eb13-4136-834d-7bfbbed5ae2c",
+      "type": "divider"
+    },
+    {
+      "id": "50bbabb1-78f4-4580-b87d-a425b8baacc6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dc9eee19-23dd-48eb-80d6-3bf7a932862d",
+          "type": "column",
+          "children": [
+            {
+              "id": "a905fe3e-4a10-49aa-8862-dea96e540397",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a8e4e5eb-e3af-4315-892c-6d96bcf6ae3d",
+          "type": "column",
+          "children": [
+            {
+              "id": "b67abb35-2d5a-44ce-bebe-6f424caeb427",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3wIpmJr\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "665bef73-f53f-4c52-83f4-05b903e8bdac",
+      "type": "divider"
+    },
+    {
+      "id": "268f09f2-75ee-4406-9e10-14fb694d58ad",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "87313900-fda4-4eba-b2b6-107536e8c9fd",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "4100be74-e3e7-43c5-ab0c-4bdc5e78fa78",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

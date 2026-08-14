@@ -1,0 +1,131 @@
+{
+  "id": "d73013fd-d133-4967-8dc8-61a371ec1136",
+  "slug": "joy-of-making-indian-toys",
+  "title": "Joy of Making Indian Toys",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Joy-of-Making-Indian-Toys-d73013fdd13349678dc861a371ec1136?pvs=21",
+  "createdTime": 1668713014975,
+  "lastEditedTime": 1681312458843,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Joy of Making Indian Toys",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-83c9c93ce815.webp",
+  "blocks": [
+    {
+      "id": "72b6ae60-3253-4b26-9fcd-60ca62978f8b",
+      "type": "divider"
+    },
+    {
+      "id": "27b81f6a-5f0f-4c53-9a3d-fa25802ccc64",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2063c9ff-ef41-4838-b21b-bfd4f0f4537a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "440a9f8c-1dd8-48c1-afb3-31721eaf702a",
+          "type": "column",
+          "children": [
+            {
+              "id": "9465feec-3f1c-477c-89f6-37c6f3a3e100",
+              "type": "paragraph",
+              "html": "<em><strong>Joy of Making Indian Toys</strong></em> was written by Sudarshan Khanna, published by National Book Trust, January 1, 2002."
+            },
+            {
+              "id": "b6702016-4aff-4e42-ba2a-2c30eda8f951",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f64a7d84-b23a-4dc8-8c55-7a25cd582cbe",
+              "type": "quote",
+              "html": "<em>This simple activity book teaches two things, namely, how to make 101 handmade toys which are playthings even today in remote corners of our country and how toys, simple in design and based on science and technology, can be made at home with discarded materials.</em>"
+            },
+            {
+              "id": "9d792439-d4aa-469c-9382-2e2a46b91114",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c1d903d8-9b36-45a9-93c1-2873412bb23a",
+          "type": "column",
+          "children": [
+            {
+              "id": "2340d2c2-54a5-4b6d-8f75-ea81afae48f7",
+              "type": "image",
+              "src": "./assets/images/untitled-83c9c93ce815.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82f65bd0-4134-4c6b-baef-32ad50241107",
+      "type": "divider"
+    },
+    {
+      "id": "0b8b392f-23f3-4c06-9f11-5e418180831a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6a28be87-2926-44f8-8a0c-ff0f55c9be6b",
+          "type": "column",
+          "children": [
+            {
+              "id": "56e2b028-ae3b-4345-b44c-61610cf84224",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d0f91696-a8cd-4e59-a9fc-033caad0c40f",
+          "type": "column",
+          "children": [
+            {
+              "id": "91cdd144-1cee-424e-8466-c380618f4efc",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Joy-of-Making-Indian-Toys/dp/8123722443/ref=sr_1_1?crid=UO2DRKYBIPQD&amp;keywords=Joy+of+Making+Indian+Toys&amp;qid=1666793280&amp;qu=eyJxc2MiOiIwLjk5IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=joy+of+making+indian+toys%2Caps%2C105&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8562a110-6da2-402c-9cb2-960561d3ff74",
+      "type": "divider"
+    }
+  ]
+}

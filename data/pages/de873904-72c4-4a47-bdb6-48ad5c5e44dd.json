@@ -1,0 +1,143 @@
+{
+  "id": "de873904-72c4-4a47-bdb6-48ad5c5e44dd",
+  "slug": "digital-playgrounds",
+  "title": "Digital Playgrounds",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Digital-Playgrounds-de87390472c44a47bdb648ad5c5e44dd?pvs=21",
+  "createdTime": 1651767616030,
+  "lastEditedTime": 1681314313301,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Digital Playgrounds",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ae0390d01d45.webp",
+  "blocks": [
+    {
+      "id": "bf91241e-9094-4a63-a803-b4f5b406cf77",
+      "type": "divider"
+    },
+    {
+      "id": "2718d774-c99c-4b06-a06b-34455bacf32d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "041ff0cb-85f9-4819-bc09-e60b18f94d84",
+      "type": "columns",
+      "children": [
+        {
+          "id": "087c36ca-a681-4dee-b9af-c9f4d2ead5eb",
+          "type": "column",
+          "children": [
+            {
+              "id": "a63829e6-b778-4858-8b26-58d30c8b3ee7",
+              "type": "paragraph",
+              "html": "<em><strong>Digital Playgrounds: The Hidden Politics of Children’s Online Play Spaces, Virutal Worlds, &amp; Connected Games</strong></em> was written by Sara M. Grimes, published by University of Toronto Press July 22, 2021."
+            },
+            {
+              "id": "af8fcd88-7d9a-4a22-aa19-d7ee481099ad",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9d4d93c8-6bba-441a-89ef-c10d490a106d",
+              "type": "quote",
+              "html": "Digital Playgrounds <em>explores the key developments, trends, debates, and controversies that have shaped children’s commercial digital play spaces over the past two decades. It argues that children’s online playgrounds, virtual worlds, and connected games are much more than mere sources of fun and diversion – they serve as the sites of complex negotiations of power between children, parents, developers, politicians, and other actors with a stake in determining what, how, and where children’s play unfolds.<br></em>"
+            },
+            {
+              "id": "19cafdc0-5af5-4856-9a5d-365e0df9b6fe",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ef85e2a0-8ae1-42e9-844d-d134b4a2e76d",
+          "type": "column",
+          "children": [
+            {
+              "id": "4427570f-9bd5-423b-a632-f3db301ec396",
+              "type": "synced_block",
+              "sourceBlockId": "4427570f-9bd5-423b-a632-f3db301ec396",
+              "children": [
+                {
+                  "id": "ae121413-2110-4f6d-b402-0a6d98654274",
+                  "type": "image",
+                  "src": "./assets/images/untitled-ae0390d01d45.webp",
+                  "caption": "",
+                  "alt": "Untitled"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6eca36c3-4f36-4e9d-ab43-960024a079f6",
+      "type": "divider"
+    },
+    {
+      "id": "7fcc326a-edc0-45bf-8811-0d774eebb5ca",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a1419291-8de1-41f5-894e-5a2e3eff6cd1",
+          "type": "column",
+          "children": [
+            {
+              "id": "7417d9b9-92d9-47ca-acfe-a71bd07d45bc",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d0eee8be-46eb-4ea8-a95d-b13cbf22e517",
+          "type": "column",
+          "children": [
+            {
+              "id": "face5e55-6791-43f5-ba28-fdedec27bf4f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FE3C4d\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cbab2a37-9478-4d4a-957a-6395c371e215",
+      "type": "divider"
+    },
+    {
+      "id": "c54f80c7-736f-4c7e-a320-9df971322ed3",
+      "type": "paragraph",
+      "html": "<em>see also:</em><br><a href=\"#/people-in-the-playground\">People in the Playground</a> (<em>book</em>)"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "full-text-835-battlefields-of-negotiation",
+  "slug": "battlefields-of-negotiation",
+  "title": "Battlefields of Negotiation",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8b00db95-6902-4675-93fb-bd8023cf5614",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "",
+  "createdTime": null,
+  "lastEditedTime": null,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Battlefields of Negotiation"
+      ]
+    ],
+    "Full Text Database Row": [
+      [
+        "835"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "René Glas"
+      ]
+    ],
+    "Tags": [
+      [
+        "Theory, Videogames, Virtual Life"
+      ]
+    ],
+    "Released": [
+      [
+        "2013"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Amsterdam University Press"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "full-text-835-battlefields-of-negotiation-divider",
+      "type": "divider"
+    },
+    {
+      "id": "full-text-835-battlefields-of-negotiation-metadata",
+      "type": "paragraph",
+      "html": "<strong>Battlefields of Negotiation</strong>, by René Glas, Amsterdam University Press, 2013."
+    },
+    {
+      "id": "full-text-835-battlefields-of-negotiation-tags",
+      "type": "paragraph",
+      "html": "<em>Tags:</em> Theory, Videogames, Virtual Life"
+    },
+    {
+      "id": "full-text-835-battlefields-of-negotiation-note",
+      "type": "callout",
+      "html": "This spreadsheet row did not include a Notion source URL, so this local page was generated from the Full Text Database CSV metadata.",
+      "icon": "🗃️",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "1db74750-7257-4bd9-99a1-b33839889b30",
+  "slug": "edits-and-clips",
+  "title": "Edits & Clips",
+  "icon": "📼",
+  "cover": "./assets/images/wires2-281edf635a2c.webp",
+  "type": "page",
+  "parentId": "7997f5a8-b93f-4dc2-9bd1-0bf12a4e16e9",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/1db7475072574bd999a1b33839889b30",
+  "createdTime": 1673459458652,
+  "lastEditedTime": 1705028050077,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page"
+      ]
+    ],
+    "title": [
+      [
+        "Edits & Clips"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "7e666899-b888-4ee3-8099-5e6b66ccda02",
+      "type": "divider"
+    },
+    {
+      "id": "35de91a7-1a37-41ba-9d0a-b2a7d201503b",
+      "type": "callout",
+      "html": "<strong>paidiosophical vibes ( wip)</strong>",
+      "icon": "./assets/images/playback-play-button-gray-6af27e989bb7.webp",
+      "children": [
+        {
+          "id": "82e5d8ef-27ce-4a90-bf9d-11977430d11e",
+          "type": "columns",
+          "children": [
+            {
+              "id": "145f15e6-7554-4e95-bf24-1609e6b15d94",
+              "type": "column",
+              "children": [
+                {
+                  "id": "e36e6473-e7ef-4451-a04c-cf45c06b63d2",
+                  "type": "video",
+                  "src": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa85a82ed-a498-406c-8b1f-1c09f14a06c4%2Fgamezzzzz.mp4?table=block&id=e36e6473-e7ef-4451-a04c-cf45c06b63d2&spaceId=44027fb1-7c2b-4f10-bf30-bc638c76d64c&width=2000&cache=v2",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "538f9ef3-dc97-4670-b6c7-a4e6cce995b4",
+              "type": "column",
+              "children": [
+                {
+                  "id": "dd399b84-5a3c-49ce-99f1-b9ffb4e92d5c",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": "paidiosophical vibes ( wip)"
+                },
+                {
+                  "id": "56ae86c0-4c07-41d9-90bc-878b80fec5c1",
+                  "type": "paragraph",
+                  "html": "<strong>feat.</strong> (<em>in order of appearance</em>) clips #:<strong>  <br></strong><strong><a href=\"#/researchers-don-t-know-what-they-research\">3</a></strong><strong>, </strong><strong><a href=\"#/you-re-not-even-equipped-to-read-games\">9</a></strong><strong>, </strong><strong><a href=\"#/a-zone-to-excel-in\">13</a></strong><strong>, </strong><strong><a href=\"#/hyperagencies-as-infinite-game-players\">14</a></strong><strong>, </strong><strong><a href=\"#/games-lacking-depth\">1</a></strong><strong>, </strong><strong><a href=\"#/glass-bead-game-as-harmony-of-spheres\">6</a></strong><strong>, </strong><strong><a href=\"#/the-birth-of-new-worlds\">12</a></strong><strong>, </strong><strong><a href=\"#/board-games-as-a-language\">10</a></strong>"
+                },
+                {
+                  "id": "b9e3ec9b-9738-45ad-8218-87ce181e3812",
+                  "type": "paragraph",
+                  "html": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4083440-b928-4a3b-bece-2aa8d4efa231",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "07f8ba2c-1db2-4095-8577-4854f82c4ab9",
+      "type": "divider"
+    },
+    {
+      "id": "8be02cc5-3e4d-4d28-8129-2edfec74fd4f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d878c7f8-a418-406f-96bd-3a6f6ad7d100",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "827ee994-aaf0-4e04-881e-df719c4608ea",
+      "type": "paragraph",
+      "html": "☟ <em>Open the clips in side peek to watch them in full!</em>"
+    },
+    {
+      "id": "c365a80d-42d8-4e38-a0a7-29d83333543a",
+      "type": "collection_view",
+      "collectionId": "211619fd-6fe7-44e1-bf0d-c8f3f80a9c88",
+      "viewIds": [
+        "c67b46ec-9320-4d27-bd6a-7f528c9c32ff",
+        "6b0367b5-47ed-4417-b14d-4085a3e17848"
+      ],
+      "title": ""
+    },
+    {
+      "id": "994ff263-844b-4a18-bfa5-44e1acbe113a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d761ce2f-1849-4ae5-8f8e-df2500244c9c",
+      "type": "divider"
+    },
+    {
+      "id": "fb009a0f-04f6-41c3-90d2-09cde89a0554",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

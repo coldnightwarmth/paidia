@@ -1,0 +1,126 @@
+{
+  "id": "521a1f8b-e4a5-423b-887f-049e108d9554",
+  "slug": "mechanical-toys",
+  "title": "Mechanical Toys",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/521a1f8be4a5423b887f049e108d9554",
+  "createdTime": 1658276449587,
+  "lastEditedTime": 1681313132035,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Mechanical Toys",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-033c52dec9f3.webp",
+  "blocks": [
+    {
+      "id": "bc34b2c0-1709-48e8-9995-7bd386328296",
+      "type": "divider"
+    },
+    {
+      "id": "6158180f-cff5-461e-a277-496ac5aad185",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "12962ebe-3a86-4fe5-82aa-0700beabbe91",
+      "type": "columns",
+      "children": [
+        {
+          "id": "886e2474-add3-42cb-ba87-6092a770176f",
+          "type": "column",
+          "children": [
+            {
+              "id": "c3ce9a50-2a30-4a08-aaa5-ef834fe4abb1",
+              "type": "paragraph",
+              "html": "<em><strong>Mechanical Toys: How Old Toys Work</strong></em> was written by Athelstan &amp; Kathleen Spilhaus, published by Crown, August 12, 1989."
+            },
+            {
+              "id": "f68de3c1-f0d3-4f26-8c93-53355369d899",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "879b3db7-12b5-421b-ae33-4fe9cb6d6a61",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf93d091-13b8-4eb5-bc10-37ed234d2147",
+              "type": "image",
+              "src": "./assets/images/untitled-033c52dec9f3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f47c4633-c7a0-493f-9d90-b8456713e3f9",
+      "type": "divider"
+    },
+    {
+      "id": "1c4950d5-fc5f-4176-b876-131f3ed7c511",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1ab8763c-567a-48b3-b84a-0452a528fc14",
+          "type": "column",
+          "children": [
+            {
+              "id": "9975d4e6-d509-4ba0-96cf-936ed071de77",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7fe30a74-fdbb-41fc-98bb-8932e832905b",
+          "type": "column",
+          "children": [
+            {
+              "id": "31a64e4e-1992-449c-996b-4de9b54b213f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3csmCbq\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aea50f30-f099-4a23-a211-c859ec3493c8",
+      "type": "divider"
+    },
+    {
+      "id": "9442d94b-6196-4227-9276-3d1ffa48ad9f",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

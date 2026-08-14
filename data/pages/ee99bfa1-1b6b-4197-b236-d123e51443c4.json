@@ -1,0 +1,131 @@
+{
+  "id": "ee99bfa1-1b6b-4197-b236-d123e51443c4",
+  "slug": "10-print-chr-205-5-rnd-1-goto-10",
+  "title": "10 PRINT CHR$(205.5+RND(1)); : GOTO 10",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/10-PRINT-CHR-205-5-RND-1-GOTO-10-ee99bfa11b6b4197b236d123e51443c4?pvs=21",
+  "createdTime": 1657300569218,
+  "lastEditedTime": 1681309938108,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "10 PRINT CHR$(205.5+RND(1)); : GOTO 10",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-630c98fda854.webp",
+  "blocks": [
+    {
+      "id": "6edc92f2-1a71-4934-a631-f59f7db18875",
+      "type": "divider"
+    },
+    {
+      "id": "b9bf7fac-c66d-4c9b-b950-ae2ac2fcafd1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "528358e8-a53c-4218-abb3-751debd75190",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9c343519-058e-4fef-a2b0-f7cecd65fdef",
+          "type": "column",
+          "children": [
+            {
+              "id": "d9302b23-c42c-47a7-bd57-8cee89dac1eb",
+              "type": "paragraph",
+              "html": "<em><strong>10 PRINT CHR$(205.5+RND(1)); : GOTO 10</strong></em><strong> </strong>was written by Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, et al., published by The MIT Press, August 29, 2014."
+            },
+            {
+              "id": "bf598cd5-5ee5-4b39-9fcf-035c7cfca96d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "cec93e74-58b1-4b3c-834c-7466586fd56a",
+              "type": "quote",
+              "html": "<strong><em>A single line of code offers a way to understand the cultural context of computing.</em></strong><em><br><br>This book takes a single line of code—the extremely concise BASIC program for the Commodore 64 inscribed in the title—and uses it as a lens through which to consider the phenomenon of creative computing and the way computer programs exist in culture. The authors of this collaboratively written book treat code not as merely functional but as a text—in the case of 10 PRINT, a text that appeared in many different printed sources—that yields a story about its making, its purpose, its assumptions, and more. They consider randomness and regularity in computing and art, the maze in culture, the popular BASIC programming language, and the highly influential Commodore 64 computer.</em>"
+            },
+            {
+              "id": "54a9515e-8b3c-4827-a549-a5c3f4af80b6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b17c7070-5dcd-48a2-b63a-8b8c990a4926",
+          "type": "column",
+          "children": [
+            {
+              "id": "44846a62-8eef-4bd3-b871-ff0e504c55d9",
+              "type": "image",
+              "src": "./assets/images/untitled-630c98fda854.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2751481e-7f48-4ba4-9b59-c4052b02d374",
+      "type": "divider"
+    },
+    {
+      "id": "f063d0bd-c9d6-4238-958a-9a4347b42f5b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0dc9cb05-5a3e-4455-818f-b498490541b9",
+          "type": "column",
+          "children": [
+            {
+              "id": "7a56baac-b9b2-4c6e-8403-2a6e0c6cbd44",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "10dc948d-8aef-4c02-a305-bb64f0ed7988",
+          "type": "column",
+          "children": [
+            {
+              "id": "c7e2a184-3310-448e-81e4-770de0119413",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bOkQ3U\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0b0e326-127c-430e-b1c0-cb524c778157",
+      "type": "divider"
+    }
+  ]
+}

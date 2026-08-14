@@ -1,0 +1,131 @@
+{
+  "id": "50ace932-1bf1-4b33-ba1f-80a049e2d2b9",
+  "slug": "pretending-at-home",
+  "title": "Pretending at Home",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "941cc77c-8e6e-4869-a86c-9aaae44d9333",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Pretending-at-Home-50ace9321bf14b33ba1f80a049e2d2b9?pvs=21",
+  "createdTime": 1653073587798,
+  "lastEditedTime": 1681314057955,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Pretending at Home",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81gbif8m6yl-c54fb6c2bc83.webp",
+  "blocks": [
+    {
+      "id": "c7fd6f3d-4192-4eb6-893c-0ff6dad5d2cf",
+      "type": "divider"
+    },
+    {
+      "id": "11d0bee1-82cf-4078-96ad-53a9db38f562",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "deb3a9c7-006d-4cd4-a634-6a4aad62bf53",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e046fd26-1315-41a5-be72-a14c70c66115",
+          "type": "column",
+          "children": [
+            {
+              "id": "2b3ba2b0-3ac7-4cf4-8943-1d7f88a94947",
+              "type": "paragraph",
+              "html": "<em><strong>Pretending at Home</strong></em> was written by Wendy L. Haight &amp; Peggy J. Miller, published by SUNY Press, July 1, 1993."
+            },
+            {
+              "id": "2e2ac92b-43ee-4b90-9c8d-b8977aeefaaa",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6ab04d80-f7a3-4f0d-8fff-7138bdde6bc5",
+              "type": "quote",
+              "html": "Pretending at Home<em> provides a close look at how young, middle-class, Euroamerican children and their mothers engage in pretend play. Haight and Miller argue that pretend play is, from its origins, a social, not a solitary, activity. The rich analysis of the play episodes of nine children and their caregivers over the first few years of their lives together yields a very solid portrayal of the development of pretend play. The volume contributes to a growing interest in understanding how children’s development occurs through interactions with their companions in everyday sociocultural activities.</em>"
+            }
+          ]
+        },
+        {
+          "id": "e365cfe0-bc62-438c-94ea-570619aaf4bc",
+          "type": "column",
+          "children": [
+            {
+              "id": "803ecfb4-d541-4d1b-903d-e93db631a2ea",
+              "type": "image",
+              "src": "./assets/images/81gbif8m6yl-c54fb6c2bc83.webp",
+              "caption": "",
+              "alt": "81gbiF8m6YL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "94c8590e-a072-4dc2-96b4-55b98d709c80",
+      "type": "divider"
+    },
+    {
+      "id": "9475e979-2e0d-499c-9f80-fbeae7f0356c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4f58d1d6-84ac-4d58-8a1c-ab1e08e5624f",
+          "type": "column",
+          "children": [
+            {
+              "id": "04bbd052-d5d6-4f20-96ba-83beb2d5abda",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a6f49aed-01db-4458-9bb5-924ebc17825b",
+          "type": "column",
+          "children": [
+            {
+              "id": "8e4ce08d-d713-4ccf-bfa5-9cec373b3dcc",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3rb7sew\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "527322c8-f941-433c-84c6-d3a90d624733",
+      "type": "divider"
+    },
+    {
+      "id": "ec4ce7ab-c9d9-4274-b116-80b6064f1713",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

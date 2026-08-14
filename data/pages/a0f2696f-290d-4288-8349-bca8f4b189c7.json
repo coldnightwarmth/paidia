@@ -1,0 +1,121 @@
+{
+  "id": "a0f2696f-290d-4288-8349-bca8f4b189c7",
+  "slug": "a-history-of-recreation",
+  "title": "A History of Recreation",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2f2b48d3-00ef-46fe-b6f4-4b813ad7bd6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/a0f2696f290d42888349bca8f4b189c7",
+  "createdTime": 1657230417256,
+  "lastEditedTime": 1681310244216,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A History of Recreation",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-751d7d2cb106.webp",
+  "blocks": [
+    {
+      "id": "d2029ae3-5aac-4253-9bff-2966730810b0",
+      "type": "divider"
+    },
+    {
+      "id": "7e572422-67fd-40ca-b457-3553b13f835a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "154b672f-cd18-4b94-9aae-c219c6e98a32",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6da571ab-89e5-4c5a-9d26-fc62680a913f",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf1cf33e-1359-4497-afb9-c17e8143fb05",
+              "type": "paragraph",
+              "html": "<em><strong>A History of Recreation: America Learns to Play</strong></em> was written by Foster Rhea Dulles, originally published by D. Appleton-Century Company in 1940."
+            },
+            {
+              "id": "cba670e3-0657-4fb0-baaf-3de1ed46e536",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bbdc8f49-aaeb-464b-bbc5-6e4a2271168c",
+          "type": "column",
+          "children": [
+            {
+              "id": "3068f298-445f-4167-b7cd-27f9ea3edf04",
+              "type": "image",
+              "src": "./assets/images/untitled-751d7d2cb106.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d1dcd719-ddda-4d01-b7a7-1b6b27838a15",
+      "type": "divider"
+    },
+    {
+      "id": "03320379-0511-428f-8028-99849eae61bf",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e8453fce-2c5d-4800-85f4-cb1628cce264",
+          "type": "column",
+          "children": [
+            {
+              "id": "886a2bab-22c0-469c-90e0-9330d47f289b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5e6d21e9-b7c4-4157-90a7-9c376334ba6c",
+          "type": "column",
+          "children": [
+            {
+              "id": "29fe7652-5601-47fe-b7f1-be4211e23ece",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bXqr82\" target=\"_blank\" rel=\"noreferrer\">Link to purchase (*</a><a href=\"https://amzn.to/3bXqr82\" target=\"_blank\" rel=\"noreferrer\"><em>this supports Paidiasophia!</em></a><a href=\"https://amzn.to/3bXqr82\" target=\"_blank\" rel=\"noreferrer\">)</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08ace4c4-2223-435d-9758-a20db9b51353",
+      "type": "divider"
+    }
+  ]
+}

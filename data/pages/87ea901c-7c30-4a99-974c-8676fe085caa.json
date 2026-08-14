@@ -1,0 +1,126 @@
+{
+  "id": "87ea901c-7c30-4a99-974c-8676fe085caa",
+  "slug": "games-and-dances-of-the-maori-people",
+  "title": "Games & Dances of the Maori People",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Games-Dances-of-the-Maori-People-87ea901c7c304a99974c8676fe085caa?pvs=21",
+  "createdTime": 1671548145681,
+  "lastEditedTime": 1681312197716,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Games & Dances of the Maori People"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-614f35cd8633.webp",
+  "blocks": [
+    {
+      "id": "a12e7d9a-0b94-43a3-8a5b-fd7d8e02f628",
+      "type": "divider"
+    },
+    {
+      "id": "0f3f921e-af00-4d2a-a4ab-4ed00a05b9fb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "77a2dae5-7855-4783-af37-234728792e57",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d09d0820-e934-4f6f-a975-a9073cb32c8b",
+          "type": "column",
+          "children": [
+            {
+              "id": "d9699b4a-1e8c-41ec-81af-8f274f7529b3",
+              "type": "paragraph",
+              "html": "<em><strong>Games &amp; Dances of the Maori People</strong></em> was written by Alan Armstrong, published by Viking Sevenseas in 1986."
+            },
+            {
+              "id": "f2ce1322-a003-4f2d-8fe6-11bc366e9bea",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "024806b5-0f34-4c2b-add5-94f71ef90487",
+              "type": "quote",
+              "html": "<em>Provides an introduction to a selection of games and dances of the Maori people.</em>"
+            },
+            {
+              "id": "ab72a918-f8e1-465f-ae83-a24fe6943382",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "460fa379-2461-471a-a420-c21b26cee113",
+          "type": "column",
+          "children": [
+            {
+              "id": "0ac646b0-bc3f-42b6-8977-75a46e261f9f",
+              "type": "image",
+              "src": "./assets/images/untitled-614f35cd8633.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e787a6d0-5080-498e-8443-b506067b1f16",
+      "type": "divider"
+    },
+    {
+      "id": "04bba263-628e-4e80-b750-fb1f3fa8b4a4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "68e23bd0-1fb5-4145-b754-d55c47b73429",
+          "type": "column",
+          "children": [
+            {
+              "id": "bd0fa434-55ea-4bbd-8c34-0e7d5bf20115",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ce91e4b2-1d12-419d-b2ca-d7cc7eb01bf5",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b165111-a78e-4341-ab87-a014efcb6b4e",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Games-dances-Maori-people-Armstrong/dp/0854670882/ref=sr_1_1?keywords=9780854670888&amp;linkCode=qs&amp;qid=1668717270&amp;s=books&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eb9db2be-8cf4-4276-a4a4-33372209c332",
+      "type": "divider"
+    }
+  ]
+}

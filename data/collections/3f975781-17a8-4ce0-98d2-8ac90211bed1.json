@@ -1,0 +1,190 @@
+{
+  "id": "3f975781-17a8-4ce0-98d2-8ac90211bed1",
+  "name": "Management & Collaboration",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "89c7058f-9057-4f1e-b6fc-7e3ff59c4c7c",
+          "value": "Free",
+          "color": "gray"
+        },
+        {
+          "id": "2d4df465-2dde-4437-a5fb-cae33c1bd7d7",
+          "value": "Premium",
+          "color": "red"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "ae8f0ffc-9624-488b-877c-a3318149acea",
+      "collectionId": "3f975781-17a8-4ce0-98d2-8ac90211bed1",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "08e39d5f-533c-43b4-82e1-d30ac1bcd5e7",
+        "f670b3a7-1a91-4de1-8f84-a1b1d50b7dc3",
+        "486e3470-8b80-4407-b612-6502b72768d0",
+        "83f02207-4b1e-4ffc-9f1a-1b7d67247fa1",
+        "b6167178-7739-4360-97f0-1de245163afd",
+        "bf16ab7f-2760-44bf-88d6-c5e6329c91cb",
+        "37c96e64-ff5c-431e-b7b5-90fc903a1c89",
+        "f035760a-8fa0-4072-9263-ae4006d66d5a",
+        "366e0ea3-a72f-44a6-abb1-4763381425c5",
+        "f5e9569a-47bf-466d-99e7-ee19254751f3",
+        "8e0e9b6e-4b20-42a6-b2c3-4a8a2ac2ed78",
+        "902f61d5-8266-4da7-bd73-327d62389b30",
+        "f50aeca1-aa00-4921-9c64-7a517c861fc6",
+        "ae996f46-b6aa-4a2b-83f6-6925fcdab557",
+        "04d491cb-2872-4d95-bbf0-589f7d761693",
+        "cffa17b8-ef27-42ea-8c9f-9d7d9016daa7",
+        "f93f7cc7-9dc2-4b32-a3ca-108918954511",
+        "20093767-0838-442f-84c7-04fd4731f044",
+        "39f333a9-3739-464e-9d4e-2f04c71232ac",
+        "1d08ada3-477d-43ba-a04e-f864fb0d64e9",
+        "261d0634-cca8-4267-b062-0ef2003464f5"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "c8cb0eac-77cd-4f5d-b38c-42e1a1fb14cf",
+      "collectionId": "3f975781-17a8-4ce0-98d2-8ac90211bed1",
+      "type": "gallery",
+      "name": "Free",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "7823d0b2-af32-4b6a-a273-9f70d664947b",
+      "collectionId": "3f975781-17a8-4ce0-98d2-8ac90211bed1",
+      "type": "gallery",
+      "name": "Premium",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "18d812be-52cd-42c6-850f-f537d2726058",
+  "slug": "otaku",
+  "title": "Otaku",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Otaku-18d812be52cd42c6850ff537d2726058?pvs=21",
+  "createdTime": 1651768735397,
+  "lastEditedTime": 1681314211801,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Otaku",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1fb9d5052a87.webp",
+  "blocks": [
+    {
+      "id": "f7a143c8-9a8d-444c-8ef9-24c25fe2a3eb",
+      "type": "divider"
+    },
+    {
+      "id": "be5228e4-4d0a-4c8d-83c4-40ab187bc23f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "82fa4e32-1260-46f3-bb0c-43c54f83aa71",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ebbe4d69-49a1-41ca-92d3-e01767a4c004",
+          "type": "column",
+          "children": [
+            {
+              "id": "511b5113-bbb4-4cc1-8f99-641785cb9228",
+              "type": "paragraph",
+              "html": "<em><strong>Otaku: Japan’s Database Animals</strong></em> was written by Hiroki Azuma, published by University Of Minnesota Press, March 25, 2009."
+            },
+            {
+              "id": "f7c907e0-9f05-49aa-be20-863a9b17bd32",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "010a29f2-eabf-49ab-a21f-1baf5b0dbde8",
+              "type": "quote",
+              "html": "<em>In Japan, obsessive adult fans and collectors of manga and anime are known as otaku. Hiroki Azuma's 'Otaku' offers a critical, philosophical, and historical inquiry into the characteristics and consequences of this consumer subculture.</em>"
+            },
+            {
+              "id": "5acce594-d83b-47cd-86ff-27dcc6ad1b86",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bbc8ec68-5ceb-4e9b-8e9e-71ec44621e00",
+          "type": "column",
+          "children": [
+            {
+              "id": "9c88545e-1bb0-41a6-8d82-8c087a04605a",
+              "type": "image",
+              "src": "./assets/images/untitled-1fb9d5052a87.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38088dfb-6ae6-42ad-9898-7d36b0b04aa6",
+      "type": "divider"
+    },
+    {
+      "id": "0257df34-7d60-4784-b155-a71d2362d3ce",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c1cf6a76-5b38-41d8-834d-d06605cfe3c3",
+          "type": "column",
+          "children": [
+            {
+              "id": "51edfa1c-204a-4283-a3f7-ddf17d413f56",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fe6df733-dc3e-4286-b60f-8be83a8abeaf",
+          "type": "column",
+          "children": [
+            {
+              "id": "67f27e8f-b5a3-43a7-86c9-85d0746c15fe",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OC1RbD\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c38e7b51-2bcd-42c4-bf20-4d46a48fced0",
+      "type": "divider"
+    }
+  ]
+}

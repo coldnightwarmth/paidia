@@ -1,0 +1,131 @@
+{
+  "id": "a973bed2-5baa-433c-9962-f82c5455ab3c",
+  "slug": "the-life-of-a-sportsman",
+  "title": "The Life of a Sportsman",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Life-of-a-Sportsman-a973bed25baa433c9962f82c5455ab3c?pvs=21",
+  "createdTime": 1671546901585,
+  "lastEditedTime": 1681312201429,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Life of a Sportsman",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-eb4abbed7798.webp",
+  "blocks": [
+    {
+      "id": "a7076aa0-0fc4-46a7-9418-c6d4cbfce7d0",
+      "type": "divider"
+    },
+    {
+      "id": "1bbf46fa-70b6-4123-a9a5-6dd1b15b721b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8b30ff2c-c39e-4189-8899-e4afb44bd59b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fa888dd0-bbcc-4d3b-b3ec-f040ac59769c",
+          "type": "column",
+          "children": [
+            {
+              "id": "5677da5e-1211-4558-8306-693443615cc9",
+              "type": "paragraph",
+              "html": "<strong>The Life of a Sportsman</strong> was written by Charles James “Nimrod” Apperley, published by Eclipse Sporting Gallery in 1842."
+            },
+            {
+              "id": "03d0bde4-a03c-4549-b2ff-f9f93e456002",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7a2c11b8-957c-4870-a1bc-e7b391f8a7e5",
+              "type": "quote",
+              "html": "<em>&quot;When Lockhart said of 'Nimrod' that he could 'hunt like Hugo Meynell and write like Walter Scott,' he was doubtless excited into exaggeration by the pleasure of having hit upon a man who could write of sport without the vulgarity of Egan...The Life of a Sportsman, published in 1842, contains a very pleasant account of country life in days when sport was no longer confused with debauchery; while its descriptions of runs to hounds, its lore of hunting and of four-in-hand driving, and its variety of incident and anecdote make it still both valuable and agreeable. Apperley, though not a Walter Scott, was a good writer; he knew his subject thoroughly, on both the scientific and the personal sides, and this work of fiction, though poor in plot, is rich in interest&quot;</em> (Cambridge History of English and American Literature, Volume XIV. The Victorian Age, Part Two. Ch. 15, Nimrod)"
+            },
+            {
+              "id": "e53af843-f597-43c7-ad77-8b978b361bb9",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "037f1cf3-2593-4089-9b03-94d28477761c",
+          "type": "column",
+          "children": [
+            {
+              "id": "ad23a0f4-86d4-4416-8fa0-819edbae28ef",
+              "type": "image",
+              "src": "./assets/images/untitled-eb4abbed7798.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f3ea048-fdc4-48f0-8de9-a7bd00f336c3",
+      "type": "divider"
+    },
+    {
+      "id": "176a6446-8d80-45df-a103-5b87a6b7ea43",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3a07fd15-f838-4b3a-a6f2-b0cc7c6bc5df",
+          "type": "column",
+          "children": [
+            {
+              "id": "df4fccce-6959-47ab-a25f-434c8db2f206",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0f216499-9005-4d09-bb60-97ec5472444a",
+          "type": "column",
+          "children": [
+            {
+              "id": "3abbda42-1dc5-42bf-9538-0756a9f16e83",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Life-Sportsman-Charles-James-Apperley/dp/1377710971\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0dfb2bed-fb3e-4c7f-9789-c67e1a75564b",
+      "type": "divider"
+    }
+  ]
+}

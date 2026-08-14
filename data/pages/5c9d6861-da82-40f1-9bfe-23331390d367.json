@@ -1,0 +1,131 @@
+{
+  "id": "5c9d6861-da82-40f1-9bfe-23331390d367",
+  "slug": "tortured-cardboard",
+  "title": "Tortured Cardboard",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Tortured-Cardboard-5c9d6861da8240f19bfe23331390d367?pvs=21",
+  "createdTime": 1667274412209,
+  "lastEditedTime": 1681312689720,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Tortured Cardboard",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5cec1d48596f.webp",
+  "blocks": [
+    {
+      "id": "2b06181d-464d-496f-b82d-aaca00da3c44",
+      "type": "divider"
+    },
+    {
+      "id": "caa95d0a-df35-45ce-bf3b-f1e6b51a2181",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7e260d0e-4c19-4c84-b3af-01937ee39c63",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cf70387e-5a24-43ee-be3b-bd34f4645f17",
+          "type": "column",
+          "children": [
+            {
+              "id": "b20bd976-cbaf-4a9c-90ca-45478fd1a5ff",
+              "type": "paragraph",
+              "html": "<em><strong>Tortured Cardboard: How Great Board Games Arise from Chaos, Survive by Chance, Impart Wisdom, &amp; Gain Immortality</strong></em> was written by Philip E. Orbanes, published by Permuted Press, July 23, 2019."
+            },
+            {
+              "id": "24b00476-40b2-4a00-9fba-c49111577094",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0ecbb3c9-451d-4bc3-bc8e-ccba9d304b3d",
+              "type": "quote",
+              "html": "<strong><em>Be enlightened and entertained. Be prepared for irreverence. Come on this journey through time and witness how these games came to be, why they flourish, and what you can gain by applying their “secrets.”<br></em></strong><em><br>The term “tortured cardboard” sums up what happens to cardboard when making a board game (bound, cut, folded, punched). And, as you’ll learn, great board games often reflect whatever “tortures” culture. Each gained immortality after a chaotic beginning and a chance survival. Why? Because—be it chess, backgammon, </em>Clue, Monopoly, Scrabble, Settlers of Catan<em>, or one of ten others featured in this book—each is replete with “lessons” applicable to achievement in your life.<br><br>As the twenty-first century gathers momentum, our love affair with board games continues to strengthen. They involve us, they refine social skills, and they teach great lessons applicable in real life.<br><br>“Tortuous” is the journey of every great board game, from birth in chaotic times, through survival by mere chance, to raging popularity and eventual immortality. </em>Tortured Cardboard<em> reveals how the great ones came to endure and—all fun aside—how each teaches us something about our own behavior while providing “rules” that can work in your life.</em>"
+            },
+            {
+              "id": "10b900a7-1abd-435a-9dfe-78279a8eb03c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "532c02b4-d63a-4ed7-9436-f4f687c73b50",
+          "type": "column",
+          "children": [
+            {
+              "id": "ef8596b2-d7d3-494e-ba2e-9acd49922a25",
+              "type": "image",
+              "src": "./assets/images/untitled-5cec1d48596f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a8e69aa-9292-48ff-82ec-a6309dacd838",
+      "type": "divider"
+    },
+    {
+      "id": "5cc3bfeb-ed57-4f2d-80fd-93684192bd4a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8b59c14c-c7c1-4c91-833c-d25d9dc23304",
+          "type": "column",
+          "children": [
+            {
+              "id": "7faeeb56-c8bb-4854-9794-e6193a2b2d23",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "21b49288-d5b9-4f51-a899-68a65fe7df69",
+          "type": "column",
+          "children": [
+            {
+              "id": "a95abdf1-db5a-4245-8890-5b927d67f84a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3UbRayz\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a6dbec5-5178-4add-9dc5-ad792506626a",
+      "type": "divider"
+    }
+  ]
+}

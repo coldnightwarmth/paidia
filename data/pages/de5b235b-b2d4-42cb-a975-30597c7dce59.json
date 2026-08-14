@@ -1,0 +1,146 @@
+{
+  "id": "de5b235b-b2d4-42cb-a975-30597c7dce59",
+  "slug": "play-reconsidered",
+  "title": "Play Reconsidered",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Play-Reconsidered-de5b235bb2d442cba97530597c7dce59?pvs=21",
+  "createdTime": 1660317480002,
+  "lastEditedTime": 1681313024450,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play Reconsidered",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-567b3d8fd150.webp",
+  "blocks": [
+    {
+      "id": "396da83b-df8e-4708-8f3f-95c7b4294f47",
+      "type": "divider"
+    },
+    {
+      "id": "aafc02c1-07f7-462f-a504-c86fc2862b55",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0232d221-9ef9-452e-99e0-cd5d05fa0cfe",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6bd34cba-6990-45f7-b258-0ce8190d4003",
+          "type": "column",
+          "children": [
+            {
+              "id": "491688ca-9496-469e-8e6c-01c8526b3128",
+              "type": "paragraph",
+              "html": "<em><strong>Play Reconsidered: Sociological Perspectives on Human Expression</strong></em> was written by Thomas S. Henricks, published by University of Illinois Press, July 11, 2006."
+            },
+            {
+              "id": "7a7c3455-b22d-493a-a257-53a3d8f04092",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "04a86b0f-3ae8-4b36-8a29-408e92da0780",
+              "type": "quote",
+              "html": "<em>Arguing that play is a social and cultural phenomenon of adult life, enveloped by wider structures and processes of society, this work explores </em><a href=\"#/communism\"><em>Karl Marx</em></a><em>'s analysis of creativity in human labour, examines Emile Durkheim's observations on the role of </em><a href=\"#/ritual\"><em>ritual</em></a><em> and the formation of collective consciousness, and more.</em>"
+            },
+            {
+              "id": "8e235f45-fad1-4af1-bcc6-6291e36b9bf2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "13d4599e-6922-43e0-81ea-73fcb8524d7a",
+          "type": "column",
+          "children": [
+            {
+              "id": "67562b42-8460-4e9a-8543-5facc5918e91",
+              "type": "image",
+              "src": "./assets/images/untitled-567b3d8fd150.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1f6ea71b-70e4-43ef-be50-690afd9ca203",
+      "type": "divider"
+    },
+    {
+      "id": "a342c92e-e9b2-4bef-be1d-ee548a7c1974",
+      "type": "columns",
+      "children": [
+        {
+          "id": "de1efaf5-f091-460f-b598-f0c63a6c367c",
+          "type": "column",
+          "children": [
+            {
+              "id": "c117a107-f080-422a-8a06-5c74b92f040c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2d82db83-9b88-4ecf-a4fa-d7fde9c94a31",
+          "type": "column",
+          "children": [
+            {
+              "id": "f4d71d27-10cd-44a0-852e-e289a3729b03",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SO2XU4\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acd6885e-5864-42a9-bcbd-35500c0e8c2f",
+      "type": "divider"
+    },
+    {
+      "id": "8269fe1f-2bb2-4a19-8f90-5ab9e9c3d964",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bf318de6-7db9-47ad-aa1a-fd68f753c142",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "6d7b5db4-ef7f-4f38-ae86-19530828c57d",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

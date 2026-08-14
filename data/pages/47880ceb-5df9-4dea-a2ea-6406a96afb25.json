@@ -1,0 +1,141 @@
+{
+  "id": "47880ceb-5df9-4dea-a2ea-6406a96afb25",
+  "slug": "music-video-games",
+  "title": "Music Video Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "16515e7c-ec2f-4d98-9fec-861099f13e9d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Music-Video-Games-47880ceb5df94deaa2ea6406a96afb25?pvs=21",
+  "createdTime": 1659714795094,
+  "lastEditedTime": 1681313046027,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Music Video Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ce0534b2c8d5.webp",
+  "blocks": [
+    {
+      "id": "bf159511-bb4d-4ded-8094-23e32fd158a0",
+      "type": "divider"
+    },
+    {
+      "id": "37e0fdcf-7cf9-4177-ad49-8bcc45ebba02",
+      "type": "columns",
+      "children": [
+        {
+          "id": "da76e045-db0e-4496-82a8-c947edb0c2ea",
+          "type": "column",
+          "children": [
+            {
+              "id": "9dfa8676-752f-41d2-932c-15b41e646067",
+              "type": "paragraph",
+              "html": "<em><strong>Music Video Games: Performance, Politics, &amp; Play</strong></em> is a collection of essays edited by Michael Austin, published by Bloomsbury Academic, July 28, 2016."
+            },
+            {
+              "id": "9f0efd89-de7a-42fe-b6d2-2ef9e42b2c59",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3d44d0f5-e90f-4897-9d9d-b9c6d85c63b6",
+              "type": "quote",
+              "html": "Music Video Games <em>takes a look (and listen) at the popular genre of music games – video games in which music is at the forefront of player interaction and gameplay. With chapters on a wide variety of music games, ranging from well-known console games such as </em><a href=\"#/guitar-hero\">Guitar Hero</a><em> and </em><a href=\"#/rock-band\">Rock Band</a><em> to new, emerging games for smartphones and tablets, scholars from diverse disciplines and backgrounds discuss the history, development, and cultural impact of music games.<br><br>Each chapter investigates important themes surrounding the ways in which we play music and play with music in video games. Starting with the precursors to music games - including </em><a href=\"#/simon\">Simon</a><em>, the </em><a href=\"#/a-handheld-history\"><em>hand-held</em></a><em> electronic music game from the 1980s, Michael Austin's collection goes on to discuss issues in musicianship and performance, authenticity and “selling out,” and composing, creating, and learning music with video games. Including a glossary and detailed indices, Austin and his team shine a much needed light on the often overlooked subject of music video games.</em>"
+            },
+            {
+              "id": "1cfbdd36-909a-4259-9e27-16e8de99bd3b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "05f32526-024c-4e6a-844c-7c81a4557f0c",
+          "type": "column",
+          "children": [
+            {
+              "id": "647c3ff0-4db3-4028-b8fe-789b7309d5b5",
+              "type": "image",
+              "src": "./assets/images/untitled-ce0534b2c8d5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18327e30-e419-4317-9416-cc3651f9fa7a",
+      "type": "divider"
+    },
+    {
+      "id": "b917edd2-3155-4837-a690-dd8951abcf02",
+      "type": "columns",
+      "children": [
+        {
+          "id": "54f4f23c-c4ff-44d0-a2ee-6c3b6ba4d4f2",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b359abc-fab6-4747-90cc-7582cf7d2ba8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b18f2964-d289-4418-b6fc-7aeef1e11ecc",
+          "type": "column",
+          "children": [
+            {
+              "id": "988f2300-0725-45e8-bdd6-c4817104306f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3A1nkpa\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "171ea0ab-b189-402b-8061-41c46762a9ee",
+      "type": "divider"
+    },
+    {
+      "id": "1b83bfb0-e505-4eee-a0b4-272e7fd91670",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "13d4b2e7-8fff-476f-b9f6-fb88afb23d43",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "cf0c1100-709e-4c51-b526-4e5662eaf9d7",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

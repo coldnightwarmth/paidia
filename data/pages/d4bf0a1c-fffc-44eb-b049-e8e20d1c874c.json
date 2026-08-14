@@ -1,0 +1,136 @@
+{
+  "id": "d4bf0a1c-fffc-44eb-b049-e8e20d1c874c",
+  "slug": "game-on",
+  "title": "Game On!",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Game-On-d4bf0a1cfffc44ebb049e8e20d1c874c?pvs=21",
+  "createdTime": 1652657086621,
+  "lastEditedTime": 1681313865851,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Game On!",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-edddb511d40d.webp",
+  "blocks": [
+    {
+      "id": "8a2f55e0-456f-423d-a174-e7a5975b0d67",
+      "type": "divider"
+    },
+    {
+      "id": "dc2ad473-f186-4967-a875-4dbc90a5cd8b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5d53ea12-c884-4645-b762-d2ca73c47635",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9ac3c7cb-58fd-4cb0-8490-86d23d0855bb",
+          "type": "column",
+          "children": [
+            {
+              "id": "732116f8-161a-4db7-bbfc-176b20b3a8fe",
+              "type": "paragraph",
+              "html": "<em><strong>Game On!: Gamification, Gameful Design, &amp; the Rise of the Gamer Educator </strong></em>was written by Kevin Bell, published by Johns Hopkins University Press, December 15, 2017."
+            },
+            {
+              "id": "5881b9ae-c780-416a-870b-b09c43cf3cc0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "51b9e9ca-8804-4db4-924e-2deb6f146fb9",
+              "type": "quote",
+              "html": "<em><strong>Helping teachers take advantage of game design principles and intrinsic motivators to build more effective courses.<br><br></strong></em><em>The changing student body in American higher education demands a new approach to teaching, one that moves toward inclusive, hyperpersonalized learning environments that have much in common with games and social media. Kevin Bell’s </em>Game On!<em> presents dynamic case studies of gamer educators and game-derived techniques to help instructors creatively formulate their own teaching strategies.<br><br>Breaking gamefully designed classes into their component parts, Bell analyzes what these classes are actually doing and explains why they work. He offers faculty a rubric to assess their own courses for their propensity to engage students, particularly those from low socioeconomic and high-risk populations. Bell explores how game design, pedagogy, and intrinsic motivators can level the playing field to produce rigorous learning environments that are as addictive to all participants as the latest apps and social media systems. He also discusses best practices, lays out the broader context of computer-mediated teaching and learning, and considers the challenges and opportunities that gamification presents.<br><br>Instructors would do well to consider the key tenets of successful games if they are to engage and graduate the coming generations of learners. Bell’s careful analysis of the theories behind gamification, cognitive science, and instructional design will help them to do just that.</em>"
+            },
+            {
+              "id": "faeb99fd-5521-4fb0-ac04-53a47a1aad76",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d6c8ddc4-bd24-4b55-8d09-f37c06af019f",
+          "type": "column",
+          "children": [
+            {
+              "id": "9bfd01a9-05b8-4ab8-8774-b1e5936a656d",
+              "type": "image",
+              "src": "./assets/images/untitled-edddb511d40d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a16f0c90-bb0c-4269-b559-a5acbd13cd34",
+      "type": "divider"
+    },
+    {
+      "id": "47c740d0-fa69-4d26-b56b-1522db654c92",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ea9c5230-d56c-49c4-aad5-9e386776d915",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd348e01-bf06-4a47-9c09-e90094bf2d66",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7c90619d-b3aa-4c6e-b386-96509e683f5b",
+          "type": "column",
+          "children": [
+            {
+              "id": "a3160026-bfd1-4bf3-a4fa-20e84a0b2a15",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3wJUEiR\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e1421d8-8ab9-4a4f-93d0-ebf3251098b8",
+      "type": "divider"
+    },
+    {
+      "id": "37e3266a-6ec1-42f4-9c2b-efb6874b0fe2",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

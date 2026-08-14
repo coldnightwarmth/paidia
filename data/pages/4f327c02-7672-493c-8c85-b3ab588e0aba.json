@@ -1,0 +1,126 @@
+{
+  "id": "4f327c02-7672-493c-8c85-b3ab588e0aba",
+  "slug": "the-gamesman",
+  "title": "The Gamesman",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Gamesman-4f327c027672493c8c85b3ab588e0aba?pvs=21",
+  "createdTime": 1653178243602,
+  "lastEditedTime": 1681314127871,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Gamesman",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f27e759d4722.webp",
+  "blocks": [
+    {
+      "id": "ec34bf8d-aa93-4a5f-8aee-92ddd4a3f9e7",
+      "type": "divider"
+    },
+    {
+      "id": "faab77ca-390e-4bca-bb11-f41f61b1ee17",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "82b0ffe0-7c83-408c-95a0-d167adc8ace0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "98953671-ac5e-4cc6-bebb-0e64817fe93b",
+          "type": "column",
+          "children": [
+            {
+              "id": "99e492e1-7d22-4867-b3f8-973da6a2e0e1",
+              "type": "paragraph",
+              "html": "<em><strong>The Gamesman</strong></em> was written by Barry N. Malzberg, originally published by Pocket Books, November 1, 1975."
+            },
+            {
+              "id": "13139fed-5c68-41f3-9074-8cf4fb4edb40",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9821df93-8285-41a0-b303-aa8dc41bdd77",
+              "type": "quote",
+              "html": "<em>A staggering vision of Earth in the not-so-distant future. . .<br><br>In a controlled and mechanical world, the only reality is fear and killing boredom. The only escape from mind-blowing monotony is the Game, with predictable rules of stimulus and response. And if you pit yourself against the Games Master, you may lose your last vestige of sanity. Or your life!</em>"
+            }
+          ]
+        },
+        {
+          "id": "020ada58-7c59-4316-a96a-8c4e05460a3e",
+          "type": "column",
+          "children": [
+            {
+              "id": "34202d4d-2484-4025-9025-0e47668caf96",
+              "type": "image",
+              "src": "./assets/images/untitled-f27e759d4722.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ab0dfa6-1979-4892-aa94-11582b5822e6",
+      "type": "divider"
+    },
+    {
+      "id": "40a3379a-72fb-4712-8989-10ae373eb73c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3807a0b0-f395-4956-a1f7-e0519bb67f47",
+          "type": "column",
+          "children": [
+            {
+              "id": "be4e35c7-a94a-4b45-bf2d-6388c1d6d6e8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f1b35ce3-b76f-44d2-9f4c-4f0dd3ef284f",
+          "type": "column",
+          "children": [
+            {
+              "id": "94b23b85-1a41-45e6-b13d-2d9befbb5d85",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3RkDGzA\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "57d24260-c7e9-4348-904e-0beb88c72cae",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "9fb00d2b-636d-4878-ac29-c180404b835e",
+  "slug": "the-anime-ecology",
+  "title": "The Anime Ecology",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Anime-Ecology-9fb00d2b636d4878ac29c180404b835e?pvs=21",
+  "createdTime": 1651768735217,
+  "lastEditedTime": 1681314236784,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Anime Ecology",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4c99b16eec78.webp",
+  "blocks": [
+    {
+      "id": "ca2718b9-51c9-4abb-b8a2-fbc70663fbe6",
+      "type": "divider"
+    },
+    {
+      "id": "67fd2a49-886c-4719-9010-8bbd8b3855b3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "be384ae5-997f-4082-ae51-59af8ed779a3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b261a73a-6599-4444-b4a1-f14b89020f1d",
+          "type": "column",
+          "children": [
+            {
+              "id": "b08ea943-0645-40cf-b2f4-b686f4add570",
+              "type": "paragraph",
+              "html": "<em><strong>The Anime Ecology: A Genealogy of Television, Animation, &amp; Game Media</strong></em> was written by Thomas Lamarre, published by University Of Minnesota Press, March 13, 2018."
+            },
+            {
+              "id": "6b3d4f59-4b28-403c-bbf1-4d2a5280e84f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "115816c4-4be1-452a-9917-d440ba54ffdc",
+              "type": "quote",
+              "html": "<em>With the release of author Thomas Lamarre’s field-defining study </em>The Anime Machine<em>, critics established Lamarre as a leading voice in the field of Japanese animation. He now returns with </em>The Anime Ecology<em>, broadening his insights to give a complete account of anime’s relationship to television while placing it within important historical and global frameworks.<br><br>Lamarre takes advantage of the overlaps between television, anime, and new media—from console games and video to iOS games and streaming—to show how animation helps us think through television in the contemporary moment. He offers remarkable close readings of individual anime while demonstrating how infrastructures and platforms have transformed anime into emergent media (such as social media and transmedia) and launched it worldwide.<br><br>Thoughtful, thorough illustrations plus exhaustive research and an impressive scope make </em>The Anime Ecology <em>at once an essential reference book, a valuable resource for scholars, and a foundational textbook for students.</em>"
+            },
+            {
+              "id": "23ebdd2a-e12e-4f76-a3c0-2dea20bb382a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d928cdbb-924b-4561-812b-7de896e280f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "20e532b5-fe54-43f5-92fa-36043a8ff48c",
+              "type": "image",
+              "src": "./assets/images/untitled-4c99b16eec78.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0c6e06f3-8f36-4df2-b3ba-1ebacb7bd51f",
+      "type": "divider"
+    },
+    {
+      "id": "ef3ae949-896e-452a-96e2-d76652ddc312",
+      "type": "columns",
+      "children": [
+        {
+          "id": "018e72f2-9e33-48de-b28c-aa286b273bc7",
+          "type": "column",
+          "children": [
+            {
+              "id": "e85a28b9-1d87-4cb6-8e79-4841735e5e3a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3ddcc632-8536-45f5-8828-4ecfac329e2e",
+          "type": "column",
+          "children": [
+            {
+              "id": "44078484-1988-4420-8f2f-67fc2391693a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xQgT6o\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d1ee8cfd-82e9-467a-88d8-eca9f3e03008",
+      "type": "divider"
+    }
+  ]
+}

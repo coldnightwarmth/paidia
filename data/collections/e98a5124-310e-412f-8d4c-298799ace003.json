@@ -1,0 +1,280 @@
+{
+  "id": "e98a5124-310e-412f-8d4c-298799ace003",
+  "name": "Case Studies",
+  "schema": {
+    ":Crd": {
+      "id": ":Crd",
+      "name": "Author",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "KU^N": {
+      "id": "KU^N",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "834429ab-0a9f-4107-a583-b7db7ef98394",
+          "value": "Text",
+          "color": "brown"
+        },
+        {
+          "id": "6e975809-4ad3-463f-9eed-bfc446eb3354",
+          "value": "Video",
+          "color": "green"
+        },
+        {
+          "id": "2c56d12f-1380-4980-8dfd-bb464c4e1b4c",
+          "value": "Audio",
+          "color": "purple"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "425df47d-56c4-40e9-a1d2-5cce24daf999",
+      "collectionId": "e98a5124-310e-412f-8d4c-298799ace003",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "eb2572c6-5b79-4b88-9078-a777b7ecad1b",
+        "f6a656b6-1e54-4e81-a100-d7661b265561",
+        "3bcb4a4a-c3a3-4224-a357-a81a5ab9faf6",
+        "08833eaf-38a1-443a-bad8-c17d60b9457a",
+        "6ca1ca69-9893-41d1-9b92-b035679d0ec3",
+        "b03db1b5-3dd8-4d2d-a681-9bd9822a6c60",
+        "aa10a488-bd02-498d-8e15-3f1f4c5ac99b",
+        "f28f9b90-d8fc-46a5-8dda-f9601717fe22",
+        "b4cf57a8-b4c1-4ea0-a73d-babc8bbd8cdd",
+        "8f4a4499-ff2b-4252-ae1b-e587285c877b",
+        "0c864f2d-a5cc-4d1b-b3a7-d7de70370794",
+        "a2b3c7fb-ef25-43bd-8c9a-034af179ac96",
+        "93681ae9-f8f0-4707-bbeb-e9d357ac0cd7",
+        "5a24229f-f5f1-4057-9617-ab0de679cdfb",
+        "46a876ad-8323-4da0-999b-638cf18a4230",
+        "38a524a6-5437-40c9-97b0-1e0b28939a8f",
+        "8d42eb1a-6875-4195-a7f0-056dbfc5b759",
+        "1150384c-b168-450b-ab02-055718b036e6",
+        "5c1cb173-35cf-44bf-b777-e59f20e91dc0",
+        "52506843-bb35-47d2-ade8-6d1c37b38d59",
+        "42f0d41c-f7b7-4396-8486-5b72f600d14c",
+        "ee707c6d-519e-4ef6-8556-b5d35bd5d7f3",
+        "a31238f7-243a-47f2-8392-677c4f4e1665",
+        "d5773c1c-1339-4572-b9c5-13f06c5dd2bb",
+        "60351027-7b55-4e19-982d-b7549fadfeb4",
+        "11f1f4ff-7f8c-4974-9b08-500fdef24658",
+        "d457c979-8a97-4c20-b506-aa1f22e9f35e",
+        "d2f0e3dc-2ee1-4285-8200-249a290c7cb0",
+        "d689b126-cc97-4916-b2f7-05b35749bdcc",
+        "81d675b9-6967-4f67-9f8b-171dc04638cd",
+        "24f71f68-c733-4d03-945d-a765af9aec54",
+        "03d28012-1dba-4040-a35e-6a6a55202a76",
+        "42717eab-e886-4eb5-8d45-c01876204017",
+        "ebd1467c-566e-4d43-a2a1-2f6a0513f622",
+        "0cd9640d-42f3-49d6-94d6-9ee2308fe83c",
+        "572faf06-4f6c-49c2-af93-10ed30816d9a",
+        "4562dae4-519d-4057-96b5-700f04311062",
+        "8106a6b8-ab40-4f88-96cb-9d12f859d5e9",
+        "67699df4-de9a-4e45-8b00-c0fdf5698732",
+        "c49cd9de-fd31-4b3d-bce9-65a4e0cf3023",
+        "f8eb8343-3e05-4f88-bdd8-1ef30bbea413",
+        "1f7c2a57-c603-4c33-84b5-73b672235516",
+        "32f5291c-e1fd-4a72-87b3-ce9742b69405",
+        "629212f8-8e3d-4559-a562-7d6b8818c90b"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "340fe1e2-94a5-4e64-a798-715b7ac542ed",
+      "collectionId": "e98a5124-310e-412f-8d4c-298799ace003",
+      "type": "gallery",
+      "name": "Text",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "10a5c8b9-e126-4b17-bb4d-79a9ac66e382",
+      "collectionId": "e98a5124-310e-412f-8d4c-298799ace003",
+      "type": "gallery",
+      "name": "Video",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "1b9fbced-9683-419c-9417-8ba5f8ac1e00",
+      "collectionId": "e98a5124-310e-412f-8d4c-298799ace003",
+      "type": "gallery",
+      "name": "Audio",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

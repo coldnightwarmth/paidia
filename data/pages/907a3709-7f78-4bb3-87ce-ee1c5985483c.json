@@ -1,0 +1,137 @@
+{
+  "id": "907a3709-7f78-4bb3-87ce-ee1c5985483c",
+  "slug": "wavdashcore-blog-907a3709",
+  "title": ".Wavdashcore blog",
+  "icon": "🌊",
+  "cover": "./assets/images/fza-kcmxeasepwn-47529628cc52.webp",
+  "type": "page",
+  "parentId": "dcdce636-0430-48ea-98c8-b0c6e48368c3",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/907a37097f784bb387ceee1c5985483c",
+  "createdTime": 1656887460000,
+  "lastEditedTime": 1681311783638,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        ".Wavdashcore blog"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/hermeticist-rennaisance-manuscript-art-druid-sitting-in-fron-fa7966297fab.webp",
+  "blocks": [
+    {
+      "id": "c266b8a7-743a-4740-b3e2-68011590618b",
+      "type": "paragraph",
+      "html": "e<em>xploring the Paidiac Mysteries</em> 〜˚✛｡〜⋄〜˚✛｡〜"
+    },
+    {
+      "id": "001d1a52-30e5-4ca6-964c-44de025c2713",
+      "type": "divider"
+    },
+    {
+      "id": "26257160-4de4-45f5-990c-b5500e959cfe",
+      "type": "paragraph",
+      "html": "<em>Welcome.</em> This is a place dedicated to a fuller understanding of the nature of play &amp; games."
+    },
+    {
+      "id": "73312a73-d131-440a-81ef-a35b4212ca64",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d56b0bb6-788b-4ffe-bcd5-aafc019ddda3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9781c91b-2709-400c-b4b1-1d96fc725565",
+          "type": "column",
+          "children": [
+            {
+              "id": "6390d55d-68ce-4b79-99c6-5c4ee58d9560",
+              "type": "image",
+              "src": "./assets/images/hermeticist-rennaisance-manuscript-art-druid-sitting-in-fron-fa7966297fab.webp",
+              "caption": "",
+              "alt": "hermeticist rennaisance manuscript art druid sitting in front of a crt monitor playing street fighter snes videogames with a controller studying play in an ancient library with cyber fresco, detailed scene 4.png"
+            }
+          ]
+        },
+        {
+          "id": "4d871207-8f8b-4844-866f-a7a25223f8d6",
+          "type": "column",
+          "children": [
+            {
+              "id": "392da723-5617-49ce-ad2e-4740060b905e",
+              "type": "callout",
+              "html": "essay:1::k.meinong::<em>7/1/`22</em>",
+              "icon": "🪁",
+              "children": [
+                {
+                  "id": "8167f83d-a6cb-4700-b4a7-ed756f917574",
+                  "type": "subheader",
+                  "html": "<a href=\"#/paidiosophian-vision-ec716da6\">Paidiosophian Vision</a>",
+                  "anchorId": "paidiosophian-vision"
+                },
+                {
+                  "id": "5a4cf2b0-84e2-4761-b956-efc75c56031b",
+                  "type": "paragraph",
+                  "html": "<em>on the nature of the question of play &amp; a prehistory of game/play studies </em>"
+                },
+                {
+                  "id": "c14df7e7-8318-4fc1-8d7c-491d1baee004",
+                  "type": "paragraph",
+                  "html": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "345f4a18-9bca-433c-b5e1-11eea639a406",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bf312984-a5cc-4727-8d7b-a1e754e5fa04",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "373c76df-7f4e-497d-ad49-c82d3cfbcf4c",
+      "type": "divider"
+    },
+    {
+      "id": "d38a464b-4b2c-4041-8da2-bb47b64a071f",
+      "type": "embed",
+      "src": "https://tally.so/r/w2ElXp",
+      "caption": ""
+    },
+    {
+      "id": "375a068d-13f6-47ae-a0cd-78f1aa162bb4",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "492ff417-3e3c-4c05-99fc-8af0bcd3847d",
+      "type": "page_link",
+      "targetId": "492ff417-3e3c-4c05-99fc-8af0bcd3847d",
+      "title": "ALL ARTICLES",
+      "notionType": "page"
+    },
+    {
+      "id": "054af77c-9847-40e1-ad81-b348a78ab721",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "983e7d2c-6b34-4e3b-84bf-ed86168c36d7",
+  "slug": "playful-wisdom",
+  "title": "Playful Wisdom",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Playful-Wisdom-983e7d2c6b344e3b84bfed86168c36d7?pvs=21",
+  "createdTime": 1652726170408,
+  "lastEditedTime": 1681313523008,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playful Wisdom",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1b3a5908edd3.webp",
+  "blocks": [
+    {
+      "id": "4e73b4dd-69f3-42d7-b7b4-f94fcdfcadcb",
+      "type": "divider"
+    },
+    {
+      "id": "22cbb770-2f7a-4a6f-ad00-9da44c6bac6c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "39434879-dbd9-4bbf-83fb-77214db780fc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "45c892ea-b45f-457d-84d8-8ad8a1c87688",
+          "type": "column",
+          "children": [
+            {
+              "id": "9265a6df-ad5f-433e-a92c-d64dc782a383",
+              "type": "paragraph",
+              "html": "<em><strong>Playful Wisdom</strong></em> was written by Robert Leigh Davis, published by Lexington Books, October 6, 2020."
+            },
+            {
+              "id": "c21147eb-71d7-400a-be62-353b8bac1e37",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "37059644-315a-43ff-9345-09954aac1d42",
+              "type": "quote",
+              "html": "Playful Wisdom<em> examines how Henry David Thoreau’s thinking about religious “play” created a theological legacy in American literature—one that includes Emily Dickinson, Jack Kerouac, Thomas Merton, Annie Dillard, and Marilynne Robinson. Although these writers differ in many ways, they share with Thoreau an improvisational “looseness” or “mobility” in their thinking about the sacred, a sense that religious experience unsettles fixed belief and alters the very shape of the perceiving self. From this perspective, Robert Leigh Davis argues, unswerving orthodoxy is not as crucial to a life of faith as a light-handed responsiveness of spirit that constantly revises fixed assumptions in light of new experiences. Dickinson describes this responsiveness as “nimble believing” and Thoreau calls it “holy play.” Scholars of literature, religion, and philosophy will find this book particularly useful.</em>"
+            }
+          ]
+        },
+        {
+          "id": "38a61e04-dc22-403d-98b4-a851f3387520",
+          "type": "column",
+          "children": [
+            {
+              "id": "aaa6c0af-d8a7-4a6d-9577-8557bfe78048",
+              "type": "image",
+              "src": "./assets/images/untitled-1b3a5908edd3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1de32d67-c5bc-44e1-bb45-e628667b1a8d",
+      "type": "divider"
+    },
+    {
+      "id": "d34048e6-77d8-41ea-b475-b49d2aadfee4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a0945ea8-a800-4ed1-93cb-6366351be6c1",
+          "type": "column",
+          "children": [
+            {
+              "id": "7d4808cb-067d-4004-92ea-6075cd0877d6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8be3d9c5-7b52-41f6-8037-8df4f69dda4c",
+          "type": "column",
+          "children": [
+            {
+              "id": "32c9c157-ed6e-4288-8f49-c89b26cb5c2f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sQwEIE\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2113bc22-85b4-40b4-ac87-5b6ed53c825c",
+      "type": "divider"
+    },
+    {
+      "id": "91e02501-f87f-4627-82ae-0c2c3df4ccec",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b126de3c-d4e5-419b-b3d0-b8acbb253d1c",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "61544b89-597b-4b14-b99b-515c62b5ed7f",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

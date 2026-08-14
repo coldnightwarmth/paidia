@@ -1,0 +1,136 @@
+{
+  "id": "e68ddda8-cb96-4adb-8847-e66d1e9176c8",
+  "slug": "canine-play-behavior",
+  "title": "Canine Play Behavior",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Canine-Play-Behavior-e68ddda8cb964adb8847e66d1e9176c8?pvs=21",
+  "createdTime": 1659715598471,
+  "lastEditedTime": 1681311351526,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Canine Play Behavior",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7811509bd9a2.webp",
+  "blocks": [
+    {
+      "id": "1f2b3b7d-257b-4b91-b84d-96ddd61bdd4c",
+      "type": "divider"
+    },
+    {
+      "id": "46672feb-96a5-48aa-a388-8da0848a878c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "39ced44b-43bd-4924-b3b9-a90dc4f430b6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9a7fe9a7-1c3e-4ad2-8270-642b013e8746",
+          "type": "column",
+          "children": [
+            {
+              "id": "9c2c0c68-3681-42dc-a34b-046afcfa1f33",
+              "type": "paragraph",
+              "html": "<em><strong>Canine Play Behavior: The Science of Dogs at Play</strong></em> was written by Mechtild Käufer, published by Dogwise Publishing, September 11, 2014."
+            },
+            {
+              "id": "3e92ab37-5f43-41dc-a988-24b663080f6f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "bc3710bf-1ab5-49b5-b021-c0d03bbe0944",
+              "type": "quote",
+              "html": "<em>Dogs at play how it works! Almost all dogs love to play by themselves, with other dogs, people, objects and toys. But what do we really know about play? Is it possible that what looks like play is something else entirely? German author Mechtild Käufer presents findings from scores of researchers worldwide who study why dogs play, the benefits they get from play and how to recognize the rules of play that dogs follow to keep their play behaviors fun and safe. For those wanting to research this subject more, the book is thoroughly referenced. There are dozens of color photographs included to help illustrate the actions of dogs at play.</em>"
+            },
+            {
+              "id": "1650d03c-3134-460f-bcb2-39a540483736",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c59a8a3c-562d-409c-a727-adddb6114463",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e1a408e5-04b6-42a0-be6a-b52374980a5d",
+          "type": "column",
+          "children": [
+            {
+              "id": "8d5810ca-3d03-4842-a637-067be731ee10",
+              "type": "image",
+              "src": "./assets/images/untitled-7811509bd9a2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe3792a7-76bf-4d9e-bb57-d6258f586b38",
+      "type": "divider"
+    },
+    {
+      "id": "aa1c21b9-8cb5-40ef-9a82-30cbee56d184",
+      "type": "columns",
+      "children": [
+        {
+          "id": "87942e22-5447-42fd-a5ff-a5454e83a600",
+          "type": "column",
+          "children": [
+            {
+              "id": "66829e1a-8ce2-47c4-88a2-557012d7e5f4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e2159f9c-955f-4f8e-9130-ccad9e4838cf",
+          "type": "column",
+          "children": [
+            {
+              "id": "3ace64ba-0e6b-40be-8dc2-ff0127ed421f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3oWTNXz\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "085e1701-2d91-48e0-9068-d31ab4e2ba77",
+      "type": "divider"
+    }
+  ]
+}

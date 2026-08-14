@@ -1,0 +1,134 @@
+{
+  "id": "da73779a-e537-412f-91a3-85fbbbc0ae18",
+  "slug": "ready-player-two",
+  "title": "Ready Player Two",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Ready-Player-Two-da73779ae537412f91a385fbbbc0ae18?pvs=21",
+  "createdTime": 1651970345825,
+  "lastEditedTime": 1681314031930,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ready Player Two",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1d4aa47bf2f5.webp",
+  "blocks": [
+    {
+      "id": "c55e3854-1d24-409a-8408-42e2c552187e",
+      "type": "divider"
+    },
+    {
+      "id": "96c37bc0-3ed2-4026-8395-2ca5bc24a165",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "12da3820-1ea4-4e65-af3d-068f8d92a4cb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d64c0f99-f714-4bd9-861f-536eeb6e5940",
+          "type": "column",
+          "children": [
+            {
+              "id": "ad893025-bca3-4d5f-9456-6b111a9cfd50",
+              "type": "paragraph",
+              "html": "<em><strong>Ready Player Two: Women Gamers &amp; Designed Identity</strong></em> was written by Shira Chess, published by University Of Minnesota Press, October 1, 2017."
+            },
+            {
+              "id": "019b898d-4eb1-4f58-a1a9-d6d0b48549f4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d74d7685-ae93-4822-9d8a-b628a101e8a7",
+              "type": "quote",
+              "html": "<em>Cultural stereotypes to the contrary, approximately half of all video game players are now women. A subculture once dominated by men, video games have become a form of entertainment composed of gender binaries. Supported by games such as </em>Diner Dash, Mystery Case Files, Wii Fit<em>, and </em>Kim Kardashian: Hollywood<em>—which are all specifically marketed toward women—the gamer industry is now a major part of imagining what femininity should look like.<br><br>In </em>Ready Player Two<em>, media critic Shira Chess uses the concept of “Player Two”—the industry idealization of the female gamer—to examine the assumptions implicit in video games designed for women and how they have impacted gaming culture and the larger society. With Player Two, the video game industry has designed specifically for the feminine ideal: she is white, middle class, heterosexual, cis-gendered, and abled. Drawing on categories from time management and caregiving to social networking, consumption, and bodies, Chess examines how games have been engineered to shape normative ideas about women and leisure.<br><br></em>Ready Player Two<em> presents important arguments about how gamers and game developers must change their thinking about both women and games to produce better games, better audiences, and better industry practices. Ultimately, this book offers vital prescriptions for how one of our most powerful entertainment industries must evolve its ideas of women.</em>"
+            },
+            {
+              "id": "fb408867-d09c-474f-8e3b-9d7a9c03e8a6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "52531d63-1a14-466e-9c9e-87f379162826",
+          "type": "column",
+          "children": [
+            {
+              "id": "34e619b0-c990-4f2f-97d1-29ff311c6576",
+              "type": "image",
+              "src": "./assets/images/untitled-1d4aa47bf2f5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "df46059a-5a40-47a2-842a-136918eedc68",
+      "type": "divider"
+    },
+    {
+      "id": "d2df7bca-2062-425f-855d-e04b1923a444",
+      "type": "columns",
+      "children": [
+        {
+          "id": "824819a3-74a7-403c-9182-57583fb5d0cc",
+          "type": "column",
+          "children": [
+            {
+              "id": "1ef9f4b4-4b1f-4dbc-8e40-d07970ee7c06",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "66cafef8-3bc3-4324-8a58-ac063f0240bb",
+          "type": "column",
+          "children": [
+            {
+              "id": "368b3800-b62d-400d-8b50-a7d53ed2e3c6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3TKCaYN\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1d0c99d-ffa7-477b-9e6f-72dd7fb07493",
+      "type": "divider"
+    }
+  ]
+}

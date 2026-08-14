@@ -1,0 +1,134 @@
+{
+  "id": "830aee37-08ea-4e49-8e5f-77d0bb10085a",
+  "name": "Frameworks and resources",
+  "schema": {
+    "Uos|": {
+      "id": "Uos|",
+      "name": "Link",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "VAYC": {
+      "id": "VAYC",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "a5f673ae-9535-4c58-8266-2f03e51b11fb",
+          "value": "Social",
+          "color": "purple"
+        },
+        {
+          "id": "d69f8ef1-656c-446f-af10-2f826f4ec0a1",
+          "value": "Design",
+          "color": "blue"
+        },
+        {
+          "id": "8f94b688-2564-4d07-94ef-05ac15bfd3de",
+          "value": "Tool",
+          "color": "yellow"
+        },
+        {
+          "id": "15c31d7d-4c4d-48a1-895a-96d836f486af",
+          "value": "Vision",
+          "color": "default"
+        },
+        {
+          "id": "0411283d-1af6-458b-9329-d5bdc3db1e6e",
+          "value": "Communication",
+          "color": "brown"
+        },
+        {
+          "id": "014d3190-858b-4f89-85ba-683b85fc6c38",
+          "value": "Motivations",
+          "color": "red"
+        }
+      ]
+    },
+    "yWd}": {
+      "id": "yWd}",
+      "name": "Created",
+      "type": "created_time",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "50f9abbc-a0e0-4304-823c-9e72193ea218",
+      "collectionId": "830aee37-08ea-4e49-8e5f-77d0bb10085a",
+      "type": "gallery",
+      "name": "Gallery view",
+      "pagePointerId": null,
+      "pageSort": [
+        "9640ad1f-0929-4c35-8769-29add53838e0",
+        "f326089e-ce21-4f10-a96d-0d8fc76d0193",
+        "6f73066c-1cd8-45ab-bb08-732dbd295896",
+        "bd31f7dc-5b1e-489d-9933-4ac8a03ff4af",
+        "3fd491f3-d6c9-41f2-800d-11227beb99ee",
+        "921e31b9-8c31-4513-a4be-41e596e8379e",
+        "00d5932e-9535-4bd6-97e0-b88ad6e839f6",
+        "8826dc09-31be-48ba-8729-ea6cc658d8d1",
+        "0cd312a4-4242-4843-911a-40275b311b83",
+        "84f57467-a775-4f7d-bad3-d33502f8cce3",
+        "0732acbb-664a-488a-a8d0-c752e9c48ac6"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "Uos|",
+          "visible": false,
+          "width": null
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "yWd}",
+          "visible": false,
+          "width": null
+        },
+        {
+          "property": "VAYC",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_content",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

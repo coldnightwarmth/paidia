@@ -1,0 +1,439 @@
+{
+  "id": "12a4ea15-cc03-442d-a738-9b0732069d3d",
+  "slug": "all-miscellaneous-video",
+  "title": "all miscellaneous video…",
+  "icon": "",
+  "cover": "",
+  "type": "page",
+  "parentId": "fdbbd34a-ba8a-47e3-8173-30cea2938957",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/12a4ea15cc03442da7389b0732069d3d",
+  "createdTime": 1681321070463,
+  "lastEditedTime": 1681324632488,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "all miscellaneous video…"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "6c3a3218-7f72-4655-9ae3-569227295971",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a471e762-b12f-405b-96f7-5b0b3fdbda21",
+          "type": "column",
+          "children": [
+            {
+              "id": "6070d232-a34b-4b29-8c61-641be7fce2e4",
+              "type": "callout",
+              "html": "<strong>Building a Game Studies Community</strong>",
+              "icon": "🏫",
+              "children": [
+                {
+                  "id": "4801b0ce-2781-4659-af7a-4945b81d43f2",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCQ427CHSkJjDel-vDBDj8VA\" target=\"_blank\" rel=\"noreferrer\">Sagefist</a></strong>"
+                },
+                {
+                  "id": "a5dff30b-e112-4773-8a8f-9429ec76877a",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/ApVH_4VYsJg?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "5d1eccfa-fb2f-404d-a7b2-88aae17c43e9",
+              "type": "callout",
+              "html": "<strong>The World is Open for Play</strong>",
+              "icon": "🎭",
+              "children": [
+                {
+                  "id": "fbf83e58-4115-4554-9f3b-552940f35134",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg\" target=\"_blank\" rel=\"noreferrer\">Nerdwriter1</a></strong>"
+                },
+                {
+                  "id": "69d203e5-494f-4918-b945-eb54fe3ec8ff",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/9yVOd9TXNks?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "82c101b0-1be1-49a1-a6a1-b351ab8fb4e3",
+              "type": "callout",
+              "html": "<strong>My Game Research - An overview of resources I use to discover and learn about historical games.</strong>",
+              "icon": "📚",
+              "children": [
+                {
+                  "id": "9457730d-5f1e-4a6d-be37-d597ebd1bb8e",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCkmm8sybZg1lkPA_ptkk-Mg\" target=\"_blank\" rel=\"noreferrer\">NewVenture Games</a></strong>"
+                },
+                {
+                  "id": "3e3fc28e-c02d-4740-a682-853f94fe8846",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/0nt_uiPAI_4?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "ce013c6f-20f0-4caf-b317-e56a528b06be",
+              "type": "callout",
+              "html": "<strong>17776: What Immortality does to People and Football</strong>",
+              "icon": "🏈",
+              "children": [
+                {
+                  "id": "b03eea72-dd77-48b0-abfa-d194f6bdb2c5",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCqSzlk8sfwJ0SKWIh_qcegA\" target=\"_blank\" rel=\"noreferrer\">Ishmael Fisher</a></strong>"
+                },
+                {
+                  "id": "e01f0bb5-dd4a-4cb8-863b-62aa7636651c",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/ey-q8u-b_PU?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "8aa18b3f-7551-42a8-abb2-d0af16cf9caf",
+              "type": "callout",
+              "html": "<strong>Working at Valve: 'A Fearless Adventure' or 'Lord of the Flies'?</strong>",
+              "icon": "🏢",
+              "children": [
+                {
+                  "id": "6b91df85-16ca-4a45-a3cc-ca6bdd21f25b",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/@PeopleMakeGames\" target=\"_blank\" rel=\"noreferrer\">People Make Games</a></strong>"
+                },
+                {
+                  "id": "a75f3006-a5c0-4cb0-ade9-2a00d85f19a9",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/s9aCwCKgkLo?rel=0",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "82387d8e-16c7-4fa8-b679-8003cf051e39",
+              "type": "callout",
+              "html": "<strong>What Are &quot;Gamers&quot;?</strong>",
+              "icon": "🤓",
+              "children": [
+                {
+                  "id": "b0cbd584-374e-4ca2-96e6-aa6056cc3135",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/@ludusandpaidia8719\" target=\"_blank\" rel=\"noreferrer\">LudusAndPaidia</a></strong>"
+                },
+                {
+                  "id": "abd4f0fb-59df-4122-b171-78fce1969bc9",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/q95DRjgqdaU?rel=0",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4c8a3ba7-5636-45bc-826b-7c6fc15be50e",
+          "type": "column",
+          "children": [
+            {
+              "id": "a85ee096-9545-4993-8f8f-8e4cf92840b0",
+              "type": "callout",
+              "html": "<strong>Play the Glass Bead Game</strong>",
+              "icon": "📿",
+              "children": [
+                {
+                  "id": "0d8e48b5-50c3-4a50-870e-2fba4b1d5b54",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCoOTAo0oyvfwSIFKTf7e2Dw\" target=\"_blank\" rel=\"noreferrer\">Gospel of Sophia</a></strong>"
+                },
+                {
+                  "id": "981cc63f-432b-490b-a87f-b838522228f7",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/xfwTwbnTI7I?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=13",
+                  "caption": ""
+                },
+                {
+                  "id": "29cbbdc3-33db-4f38-a326-2862cc965aa4",
+                  "type": "page_link",
+                  "targetId": "29cbbdc3-33db-4f38-a326-2862cc965aa4",
+                  "title": "Play the Glass Bead Game",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "4e8d342a-9b57-4fa1-9495-4a43d0fd64e5",
+              "type": "callout",
+              "html": "<strong>The Joy of GUNPLA: Meditation for Otaku</strong>",
+              "icon": "🤖",
+              "children": [
+                {
+                  "id": "3bec3bd1-5f58-47a2-a014-d9b112fef13c",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/@MichaelSaba\" target=\"_blank\" rel=\"noreferrer\">Michael Saba</a></strong>"
+                },
+                {
+                  "id": "57770fb2-5c66-4148-846d-f340776e5219",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/B6D1EcW-G60?rel=0&start=4",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "e50964b2-d234-49f3-9a61-af58f2b68bed",
+              "type": "callout",
+              "html": "<strong>Middle Earth &amp; The Perils of Worldbuilding</strong>",
+              "icon": "🗺️",
+              "children": [
+                {
+                  "id": "9461d016-0a4a-43ed-a5ca-1406582521c1",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg\" target=\"_blank\" rel=\"noreferrer\">Nerdwriter1</a></strong>"
+                },
+                {
+                  "id": "c61cda2d-f56b-414b-80cf-29d8c922a14f",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/mA6MQHNM2yE?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "db80b237-ac44-45cd-8fcc-dc98ad740dea",
+              "type": "callout",
+              "html": "<strong>When Does Play Become Work?</strong>",
+              "icon": "💼",
+              "children": [
+                {
+                  "id": "f23b7196-94a8-4eb9-bb99-384add5dc3cf",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UC3LqW4ijMoENQ2Wv17ZrFJA\" target=\"_blank\" rel=\"noreferrer\">PBS Idea Channel</a></strong>"
+                },
+                {
+                  "id": "bce8c01d-ff88-4a5f-8b5a-16120df6f460",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/quWtUnDA8Uk?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "b4b80e8d-a348-4653-9657-db55164e6c92",
+              "type": "callout",
+              "html": "<strong>The Nintendo-fication of Jazz</strong>",
+              "icon": "🎷",
+              "children": [
+                {
+                  "id": "7445d422-18a3-4d5a-82b0-c189dac3a3bf",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/@AdamNeely\" target=\"_blank\" rel=\"noreferrer\">Adam Neely</a></strong>"
+                },
+                {
+                  "id": "fdc9b4dc-5455-4956-be41-8bbc1b450fc4",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/oKWgLe-jQjc?rel=0",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "41e7f333-9415-429f-848e-33b3e9a2346f",
+              "type": "callout",
+              "html": "<strong>Playful Strategy Weekly: Man, Play, and Games 2.1 &quot;Paidia&quot;</strong>",
+              "icon": "🃏",
+              "children": [
+                {
+                  "id": "742a1a43-8177-4e29-9d33-0dc64270247c",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/@WillemvanderHorst\" target=\"_blank\" rel=\"noreferrer\">Ice Cream for Everyone</a></strong>"
+                },
+                {
+                  "id": "505354cc-1907-42ff-badd-88b2914d386d",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/4nsII139HWQ?rel=0",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b34a4be9-fe95-4cf5-a253-149d960f6d28",
+          "type": "column",
+          "children": [
+            {
+              "id": "e72f7981-3d59-46fd-8288-57cd933d7890",
+              "type": "callout",
+              "html": "<strong>The Debate That Never Took Place</strong>",
+              "icon": "💥",
+              "children": [
+                {
+                  "id": "19944814-a6f1-4b20-9fe0-c34e73a0b9ab",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/channel/UCm4JnxTxtvItQecKUc4zRhQ\" target=\"_blank\" rel=\"noreferrer\">Errant Signal</a></strong>"
+                },
+                {
+                  "id": "ab0028e5-0d74-42ed-ab2e-a57fc54f4641",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/xBN3R0m31bA?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "1789aec7-4a5f-4305-9a00-d4bcdd70fac6",
+                  "type": "page_link",
+                  "targetId": "1789aec7-4a5f-4305-9a00-d4bcdd70fac6",
+                  "title": "The Debate That Never Took Place",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "5d84dc3a-9fe1-42ee-a9be-6b996d3d3901",
+              "type": "callout",
+              "html": "<strong>Jonathan Blow on Meaning in Art</strong>",
+              "icon": "❓",
+              "children": [
+                {
+                  "id": "3b956401-204c-4baa-bcf0-2a4c4172496d",
+                  "type": "paragraph",
+                  "html": "uploaded by <strong><a href=\"https://www.youtube.com/channel/UCbGGg1xyVana3IY4WInzgyg\" target=\"_blank\" rel=\"noreferrer\">Blow Fan</a></strong>"
+                },
+                {
+                  "id": "ecc17d8b-ef77-4229-a595-7cb353737e3b",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/BHca8xcKUko?start=618&feature=oembed&start=618",
+                  "caption": ""
+                },
+                {
+                  "id": "b87566f9-8698-4acf-9409-5c63dd303c72",
+                  "type": "page_link",
+                  "targetId": "b87566f9-8698-4acf-9409-5c63dd303c72",
+                  "title": "Jonathan Blow on Meaning in Art",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "266c46b9-3074-4c13-9ded-8764ba89b039",
+              "type": "callout",
+              "html": "<strong>Jonathan Blow on Escapism</strong>",
+              "icon": "🪜",
+              "children": [
+                {
+                  "id": "9d83e7ee-1f27-4753-b023-1e191078f892",
+                  "type": "paragraph",
+                  "html": "uploaded by <strong><a href=\"https://www.youtube.com/channel/UCbGGg1xyVana3IY4WInzgyg\" target=\"_blank\" rel=\"noreferrer\">Blow Fan</a></strong>"
+                },
+                {
+                  "id": "a21d4ad2-b61d-4448-a861-1a36353bb817",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/K8LP-4hoF2Y?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+                  "caption": ""
+                },
+                {
+                  "id": "0a6867ea-cf14-4d4e-afdb-e2ecc7cccfdc",
+                  "type": "page_link",
+                  "targetId": "0a6867ea-cf14-4d4e-afdb-e2ecc7cccfdc",
+                  "title": "Jonathan Blow on Escapism",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "1cc2005a-e664-4434-8021-4643bc8de7a9",
+              "type": "callout",
+              "html": "<strong>Jonathan Blow on Contemporary Art</strong>",
+              "icon": "🖼️",
+              "children": [
+                {
+                  "id": "68eb824b-ff24-4aa6-bd8f-d0e23723923f",
+                  "type": "paragraph",
+                  "html": "uploaded by <strong><a href=\"https://www.youtube.com/channel/UCbGGg1xyVana3IY4WInzgyg\" target=\"_blank\" rel=\"noreferrer\">Blow Fan</a></strong>"
+                },
+                {
+                  "id": "9e6f161e-4fb1-4618-9a4d-2b35f0daef01",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/zpufWTt4YY0?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+                  "caption": ""
+                },
+                {
+                  "id": "d6a0e46e-f1c3-43ba-86c1-ac364d1a8fb1",
+                  "type": "page_link",
+                  "targetId": "d6a0e46e-f1c3-43ba-86c1-ac364d1a8fb1",
+                  "title": "Jonathan Blow on Contemporary Art",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "f3f64aa1-1755-4769-bb0a-d12da6366b7f",
+              "type": "callout",
+              "html": "<strong>Arcade Culture is Weird</strong>",
+              "icon": "👾",
+              "children": [
+                {
+                  "id": "3fd95283-de14-4314-98e2-0a2551664198",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/@dreamyjellies\" target=\"_blank\" rel=\"noreferrer\">Dream Jelly</a></strong>"
+                },
+                {
+                  "id": "844e9345-2274-4b08-958b-5460d4f74649",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/TUEMT1AlI-g?rel=0&start=859",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3fd24b2e-12e0-4016-8286-749c478fc380",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "e685eb3f-2488-4a89-b710-3bf57bb41533",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a6c1fe9d-6aba-422a-84c4-af84ccda9516",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2b029761-cfcd-4048-8876-9e5c585fe669",
+      "type": "paragraph",
+      "html": "<a href=\"#/video-essays-and-lectures\"><u>☜back</u></a>"
+    },
+    {
+      "id": "b8b89dcd-9a2d-4497-9b68-29e358fe2286",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

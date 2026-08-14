@@ -1,0 +1,121 @@
+{
+  "id": "0dd8539d-3df9-4538-acaa-15a5c0d76f7a",
+  "slug": "america-s-sporting-heritage-1850-1950",
+  "title": "America's Sporting Heritage, 1850-1950",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2f2b48d3-00ef-46fe-b6f4-4b813ad7bd6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/America-s-Sporting-Heritage-1850-1950-0dd8539d3df94538acaa15a5c0d76f7a?pvs=21",
+  "createdTime": 1657230674095,
+  "lastEditedTime": 1681310827647,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "America's Sporting Heritage, 1850-1950",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c0670436b0d3.webp",
+  "blocks": [
+    {
+      "id": "91b56e09-1f61-4fda-b101-b978fb401316",
+      "type": "divider"
+    },
+    {
+      "id": "ab545ac9-4355-4d6c-9511-8000a2e962e8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ab2c55ee-dae3-4f7a-a7e7-dadd0cdb89ff",
+      "type": "columns",
+      "children": [
+        {
+          "id": "03e4c36e-72b6-48e9-b471-ebd15482869f",
+          "type": "column",
+          "children": [
+            {
+              "id": "cee4ab8f-7571-4e2e-b0da-095fffdeb829",
+              "type": "paragraph",
+              "html": "<em><strong>America's Sporting Heritage, 1850-1950</strong></em> was written by John Rickards Betts, published by Addison Wesley Publishing Company, January 1, 1974."
+            },
+            {
+              "id": "69f3504e-25e5-4f95-835d-6c13b8cddfc4",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "330549bc-49ad-4155-8320-df3579da45bb",
+          "type": "column",
+          "children": [
+            {
+              "id": "14d39c94-f080-47eb-ac87-1aad5c545b5f",
+              "type": "image",
+              "src": "./assets/images/untitled-c0670436b0d3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fafd2876-a9fb-4e81-b8d5-b0f1836e3ef7",
+      "type": "divider"
+    },
+    {
+      "id": "b3a73ce2-8cd4-4896-8fb3-7d9ca306c29b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4e9b1306-99a6-4d09-ac9e-e2feabde0d8a",
+          "type": "column",
+          "children": [
+            {
+              "id": "99045aa1-b0c9-4b1c-ba78-b532a3a808c8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f3a900e6-b159-4733-80e2-1af12cbefe40",
+          "type": "column",
+          "children": [
+            {
+              "id": "9395c314-f26f-42df-91d6-705cce4da7bd",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3P7F6Mo\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cbba4d0a-6e59-47b9-9ece-bbdb49107d04",
+      "type": "divider"
+    }
+  ]
+}

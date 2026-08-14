@@ -1,0 +1,131 @@
+{
+  "id": "d69e259c-c14b-489d-9c28-6c989fd5022e",
+  "slug": "games-and-pastimes-of-the-maori",
+  "title": "Games & Pastimes of the Maori",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Games-Pastimes-of-the-Maori-d69e259cc14b489d9c286c989fd5022e?pvs=21",
+  "createdTime": 1668717098059,
+  "lastEditedTime": 1681312434189,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Games & Pastimes of the Maori",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-cc4b85bd9ba7.webp",
+  "blocks": [
+    {
+      "id": "271c303a-f0ea-41d9-8d70-4d904f62d6cb",
+      "type": "divider"
+    },
+    {
+      "id": "d5f9128d-f3a2-46ae-9b79-f8b0cf4a52a2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0431ae4d-a487-4e39-b637-102e6e2c3f5e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8ded95c8-192d-4a19-8538-c0041408c61a",
+          "type": "column",
+          "children": [
+            {
+              "id": "4f81169a-83b6-4960-a7ce-86c199ab1a34",
+              "type": "paragraph",
+              "html": "<em><strong>Games &amp; Pastimes of the Maori: An Account of the Various Exercises, Games, &amp; Pastimes of the Natives of New Zealand, as Practiced in Former Times; Including Some Information Concerning their Vocal &amp; Instrumental Music</strong></em> was written by Elsdon Best, originally published by Whitcombe and Tombs limited, 1925."
+            },
+            {
+              "id": "6d4ad917-4339-447b-8f63-d242d38bba01",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "af6d10cd-7050-428e-9164-4c288f26d7bf",
+              "type": "quote",
+              "html": "<em>Includes bibliographical references and index. An account of the various exercises, games and pastimes of natives of New Zealand, as practiced id former times: including some information concerning their vocal and instrumental music.</em>"
+            },
+            {
+              "id": "47fcdca8-6d9e-410b-a21e-db3bdf717980",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fbd2b3b4-2ac8-4da6-9bfd-a0f3553edd8e",
+          "type": "column",
+          "children": [
+            {
+              "id": "f1c462e8-bbd5-41cf-afaa-8d98e900eb6b",
+              "type": "image",
+              "src": "./assets/images/untitled-cc4b85bd9ba7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c35db176-a43d-466d-981d-a69742777f51",
+      "type": "divider"
+    },
+    {
+      "id": "70d12125-ce48-4b19-b520-200c3ca243a7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "888d87d3-daca-4212-96c0-76060435cc86",
+          "type": "column",
+          "children": [
+            {
+              "id": "3a226b91-c5cf-4426-8c3e-38631961c976",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "416f38fb-21d0-479d-9036-192bf1dc7287",
+          "type": "column",
+          "children": [
+            {
+              "id": "28d60a25-f2ef-43eb-8c3e-3d65221d2d2d",
+              "type": "callout",
+              "html": "<a href=\"https://www.abebooks.com/servlet/BookDetailsPL?bi=18191613756&amp;searchurl=an%3Dbest%2Belsdon%26sortby%3D17%26tn%3Dgames%2Bpastimes%2Bmaori&amp;cm_sp=snippet-_-srp1-_-title1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04ba5b8c-3ab6-4842-9c4c-b0ee1e107e39",
+      "type": "divider"
+    }
+  ]
+}

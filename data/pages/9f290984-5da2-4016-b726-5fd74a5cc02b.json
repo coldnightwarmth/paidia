@@ -1,0 +1,146 @@
+{
+  "id": "9f290984-5da2-4016-b726-5fd74a5cc02b",
+  "slug": "critical-play",
+  "title": "Critical Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/9f2909845da24016b7265fd74a5cc02b",
+  "createdTime": 1651702950293,
+  "lastEditedTime": 1681313420058,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Critical Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-118239a20b8e.webp",
+  "blocks": [
+    {
+      "id": "b16ff8bf-ad0f-49ca-b21a-c2a37478231b",
+      "type": "divider"
+    },
+    {
+      "id": "f26293e9-4a67-4800-bffc-d7a5d2c3a907",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6112a6d7-4fd0-43d9-98f7-7068e3aea15b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d2a886a1-ee5e-49e1-b2ad-c8e677d136d5",
+          "type": "column",
+          "children": [
+            {
+              "id": "14d28550-28df-4f03-9834-7e270b6a9f72",
+              "type": "paragraph",
+              "html": "<em><strong>Critical Play: Radical Game Design</strong></em> was written by <a href=\"#/mary-flanagan\">Mary Flangan</a>, published by The MIT Press, February 8, 2013."
+            },
+            {
+              "id": "3aa02aef-f7ad-425e-89ae-2d0bcebe85d3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "396d6a3c-c234-459a-81df-69f5a13d4a7a",
+              "type": "quote",
+              "html": "<em>An examination of subversive games—games designed for political, aesthetic, and social critique.<br><br>For many players, games are entertainment, diversion, relaxation, fantasy. But what if certain games were something more than this, providing not only outlets for entertainment but a means for creative expression, instruments for conceptual thinking, or tools for social change? In </em>Critical Play<em>, artist and game designer Mary Flanagan examines alternative games—games that challenge the accepted norms embedded within the gaming industry—and argues that games designed by artists and activists are reshaping everyday game culture.<br><br>Flanagan provides a lively historical context for critical play through twentieth-century art movements, connecting subversive game design to subversive art: her examples of “playing house” include Dadaist puppet shows and </em><a href=\"#/space-invaders\">The Sims</a><em>. She looks at artists' alternative computer-based games and explores games for change, considering the way activist concerns—including worldwide </em><a href=\"#/representations-of-poverty-in-videogames\"><em>poverty</em></a><em> and AIDS—can be incorporated into game design.<br><br>Arguing that this kind of conscious practice—which now constitutes the avant-garde of the computer game medium—can inspire new working methods for designers, Flanagan offers a model for designing that will encourage the subversion of popular gaming tropes through new styles of game making, and proposes a theory of alternate game design that focuses on the reworking of contemporary popular game practices.</em>"
+            },
+            {
+              "id": "4803343c-221b-4890-832e-b634cc6d566b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "99b4affa-baba-4813-988d-9ebec4a01588",
+          "type": "column",
+          "children": [
+            {
+              "id": "0194f194-1a8c-423f-b8d3-d405f6681483",
+              "type": "image",
+              "src": "./assets/images/untitled-118239a20b8e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88a920e2-7d24-4e75-8e06-7c0695ec5506",
+      "type": "divider"
+    },
+    {
+      "id": "79222223-2c32-45f6-8bbc-438fceaeb30c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1120f3a5-23fb-456c-ad98-3d1e6bc7b402",
+          "type": "column",
+          "children": [
+            {
+              "id": "71136166-e364-4b83-8a7a-574c91109a6a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7fdd9fd2-f52d-403c-8481-e9886411be90",
+          "type": "column",
+          "children": [
+            {
+              "id": "8166bc4e-0b60-4b22-9859-6aba124a95ef",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OCZULs\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0a5c85ed-7da8-4fd2-ae13-e941a0150f61",
+      "type": "divider"
+    },
+    {
+      "id": "3e4a533b-b4f3-4bf3-a67c-42b36ee7f53d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "860420de-cde0-4887-9878-30512dc21d1b",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "415ad580-d082-4e15-b40e-faee5e455c34",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

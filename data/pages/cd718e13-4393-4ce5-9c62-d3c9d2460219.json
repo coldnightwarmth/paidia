@@ -1,0 +1,129 @@
+{
+  "id": "cd718e13-4393-4ce5-9c62-d3c9d2460219",
+  "slug": "alan-turing",
+  "title": "Alan Turing",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "366cc82f-2e46-4a02-92ec-406eb3394f24",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/cd718e1343934ce59c62d3c9d2460219",
+  "createdTime": 1673980350749,
+  "lastEditedTime": 1681329275650,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Alan Turing"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-cde55e9748f2.webp",
+  "blocks": [
+    {
+      "id": "5692d43f-9e60-45c0-9670-39e934574fdb",
+      "type": "divider"
+    },
+    {
+      "id": "ac29344a-dae4-4432-8fc4-edbe6929cae5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f921f182-d350-48b6-a3d1-17b706b6a8a5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "787d7c02-f874-40c3-b434-70e72b1ea5f5",
+          "type": "column",
+          "children": [
+            {
+              "id": "cc19d3b7-531f-4e3a-9840-11ee3420c500",
+              "type": "paragraph",
+              "html": "<strong>Alan Turing</strong>"
+            },
+            {
+              "id": "e4ca4393-1933-4dd8-842d-a3a703d44c24",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "618f959c-02ef-48f8-b442-a551a8f53f07",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "11c07e68-d50b-4f69-a545-0034bff6adb0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4abe6256-9615-4491-9919-cec1f825535a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "141649f0-6115-4329-ba83-bc9ac00907e8",
+          "type": "column",
+          "children": [
+            {
+              "id": "43d2f2ca-e224-4ce0-aa1a-b60c348594f4",
+              "type": "image",
+              "src": "./assets/images/untitled-cde55e9748f2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27327b1b-499c-4a3b-aab4-092e1f464a89",
+      "type": "divider"
+    },
+    {
+      "id": "4fd61811-35cf-44e0-9fab-840e8a897676",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "1c84e221-5650-46cc-a859-6b20403a7f37",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bb508194-3b87-4318-aa6f-f49d52f4539f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2084881c-79c0-4e50-9e6a-c0219082b3c2",
+      "type": "divider"
+    },
+    {
+      "id": "01972c05-5822-4409-9be2-67b05bf8642b",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "ac109c5d-d300-4955-b04d-90b661d9a4c4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "64fc34f1-23cc-49c3-acc2-983c6e603ff1",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

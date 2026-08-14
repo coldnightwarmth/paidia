@@ -1,0 +1,131 @@
+{
+  "id": "fa799d55-e425-4faf-88de-1e3f93af570b",
+  "slug": "golf-ball",
+  "title": "Golf Ball",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "17d09f5f-ece8-4928-8131-c463981d3711",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Golf-Ball-fa799d55e4254faf88de1e3f93af570b?pvs=21",
+  "createdTime": 1653399504234,
+  "lastEditedTime": 1681313983512,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Golf Ball",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-be0db3903f91.webp",
+  "blocks": [
+    {
+      "id": "ddfbd7b0-151d-4975-a1a0-e03dabf9d6c8",
+      "type": "divider"
+    },
+    {
+      "id": "48e41f30-b6a7-4b28-b35b-4835c0736363",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ea155627-b9b1-4034-b055-da3e6e577869",
+      "type": "columns",
+      "children": [
+        {
+          "id": "75a91a0c-c1cd-4dde-8f6c-85bcc7b8a472",
+          "type": "column",
+          "children": [
+            {
+              "id": "77e67076-7f87-4bf2-947a-2b6e2cee6189",
+              "type": "paragraph",
+              "html": "<em><strong>Golf Ball</strong></em> was written by Harry Brown, published by Bloomsbury Academic, January 29, 2015."
+            },
+            {
+              "id": "6a69765c-06c9-4250-b685-c85e274b5e5a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0931cfd0-af39-4958-b1e7-9438bc9c61f5",
+              "type": "quote",
+              "html": "<em>Harry Brown explores the composition, history, kinetic life, and the long deterioration of golf balls, which as it turns out may outlive their hitters by a thousand years, in places far beyond our reach. Golf balls embody our efforts to impose our will on the land, whether the local golf course or the Moon, but their unpredictable spin, bounce, and roll often defy our control. Despite their considerable technical refinements, golf balls reveal the futility of control. They inevitably disappear in plain sight and find their way into hazards. Golf balls play with people.</em>"
+            },
+            {
+              "id": "5996f966-04cf-49e7-bd2a-005183976bb4",
+              "type": "quote",
+              "html": "<em>Harry Brown's short treatise on the golf ball serves up surprising lessons about the human desire to tame and control the landscape through technology.</em>"
+            }
+          ]
+        },
+        {
+          "id": "0122416e-7bb8-41c5-a5f4-45b015b4f0f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "6253e509-de7a-4ff2-874b-94a1a88e5e7c",
+              "type": "image",
+              "src": "./assets/images/untitled-be0db3903f91.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0475bcfa-27b4-401d-8d1d-c168ae63c41a",
+      "type": "divider"
+    },
+    {
+      "id": "76c4247e-ce75-4f5d-a1ee-4a36471a54b2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3a5a1c47-cc06-4efa-bd4e-8d3ed43d9bcf",
+          "type": "column",
+          "children": [
+            {
+              "id": "756c4c2a-1006-49a3-8163-816f884030d5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4a43342a-803d-4cc3-88e6-911e35a0058b",
+          "type": "column",
+          "children": [
+            {
+              "id": "ca62486e-6ad8-4b22-be8c-f6720982b393",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OfWte3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fdcf10b3-09af-4dea-97ab-ee23e4493ad6",
+      "type": "divider"
+    }
+  ]
+}

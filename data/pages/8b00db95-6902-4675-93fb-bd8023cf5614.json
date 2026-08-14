@@ -1,0 +1,74 @@
+{
+  "id": "8b00db95-6902-4675-93fb-bd8023cf5614",
+  "slug": "books",
+  "title": "Full Text Database",
+  "icon": "🗃️",
+  "cover": "",
+  "type": "page",
+  "parentId": "dcdce636-0430-48ea-98c8-b0c6e48368c3",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/8b00db956902467593fbbd8023cf5614",
+  "createdTime": 1653067020000,
+  "lastEditedTime": 1734566859239,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Full Text Database"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/book-7fd56b0a4cba.webp",
+  "blocks": [
+    {
+      "id": "db3a6eb8-b10a-4174-8e15-0845031de16f",
+      "type": "paragraph",
+      "html": "<em>main page::</em> ‣ "
+    },
+    {
+      "id": "a1e2b5aa-09dd-4fe8-acb5-d9c7f7f882ca",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3f269580-7c44-4b11-beab-983764ed2eca",
+      "type": "collection_view",
+      "collectionId": "85c22710-f5f7-4bba-a3f8-03707fe75f2f",
+      "viewIds": [
+        "51a2f55f-a070-4cd9-9b1c-ca2a4000d419",
+        "227ec67c-1f19-4af6-9846-03a291fe6a21"
+      ],
+      "title": ""
+    },
+    {
+      "id": "2af268d1-7016-4560-bd81-49a8c0375a27",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "040c54c4-cce6-4f85-a211-2d791e72293b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a294ba44-d0f8-4738-afb1-ef261624d56b",
+      "type": "image",
+      "src": "./assets/images/book-7fd56b0a4cba.webp",
+      "caption": "",
+      "alt": "book.gif"
+    },
+    {
+      "id": "ad107a85-bac5-41ff-9439-ac9d2c58521f",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

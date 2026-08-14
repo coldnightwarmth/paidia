@@ -1,0 +1,141 @@
+{
+  "id": "b342d7f2-9abb-43d3-b172-1f00854cea40",
+  "slug": "press-start-to-play",
+  "title": "Press Start to Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Press-Start-to-Play-b342d7f29abb43d3b1721f00854cea40?pvs=21",
+  "createdTime": 1651979476833,
+  "lastEditedTime": 1681314109100,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Press Start to Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c2a830817a9b.webp",
+  "blocks": [
+    {
+      "id": "4e1cc439-21a1-4e63-ac46-1b8109d8a3af",
+      "type": "divider"
+    },
+    {
+      "id": "6b2b54d7-1bfd-4382-8d05-39709059eebc",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ea6cacd6-0cc0-421c-ad73-3f09ceaeece8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "892442a5-9b35-45fd-a64c-3a6e8a8a13ce",
+          "type": "column",
+          "children": [
+            {
+              "id": "b821ec53-7aa9-4914-b8e8-1553be5e199b",
+              "type": "paragraph",
+              "html": "<em><strong>Press Start to Play</strong></em> is a collection of short stories, edited by Daniel H. Wilson &amp; John Joseph Adams, published by Vintage, August 18, 2015."
+            },
+            {
+              "id": "992d5ea2-1020-4925-b52d-7384bbc7e7d7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "25d43195-e1cb-486a-900c-cd5e93323a5e",
+              "type": "quote",
+              "html": "<em>You are standing in a room filled with books, faced with a difficult decision. Suddenly, one with a distinctive cover catches your eye. It is a groundbreaking anthology of short stories from award-winning writers and game-industry titans who have embarked on a quest to explore what happens when video games and science fiction collide.<br><br>From text-based adventures to first-person shooters, dungeon crawlers to horror games, these twenty-six stories play with our notion of what video games can be—and what they can become—in smart and singular ways. With a foreword from Ernest Cline, bestselling author of </em>Ready Player One, Press Start to Play<em> includes work from: Daniel H. Wilson, Charles Yu, Hiroshi Sakurazaka, S.R. Mastrantone, Charlie Jane Anders, Holly Black, Seanan McGuire, Django Wexler, Nicole Feldringer, Chris Avellone, David Barr Kirtley,T.C. Boyle, Marc Laidlaw, Robin Wasserman, Micky Neilson, Cory Doctorow, Jessica Barber, Chris Kluwe, Marguerite K. Bennett, Rhianna Pratchett, Austin Grossman,  Yoon Ha Lee, Ken Liu, Catherynne M. Valente, Andy Weir, and Hugh Howey.<br><br>Your inventory includes keys, a cell phone, and a wallet. What would you like to do?</em>"
+            },
+            {
+              "id": "23a8a992-4589-406a-a6ca-c256c0dfcc38",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "771e3841-cbb5-47bf-9c6e-723106930cfe",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "dd5792aa-6912-4909-9dd9-7f39c0446321",
+          "type": "column",
+          "children": [
+            {
+              "id": "698ec63a-7da7-40c2-b42a-22ac4db5506b",
+              "type": "image",
+              "src": "./assets/images/untitled-c2a830817a9b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87f47af1-f634-4db3-b65a-70d58477eac9",
+      "type": "divider"
+    },
+    {
+      "id": "8999e194-0830-4a7c-8d67-c9c6a01047f3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4fa56469-aec9-4904-b383-59689bd983cf",
+          "type": "column",
+          "children": [
+            {
+              "id": "045fa3a6-a020-46cd-b917-30a6587be390",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1a98f18a-2dc2-42e6-9625-a7af665ffbf3",
+          "type": "column",
+          "children": [
+            {
+              "id": "874162f5-2557-4952-8ee3-69a970b2118f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SdBdHw\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53eb8eeb-2a31-44ca-a383-75375db9073b",
+      "type": "divider"
+    },
+    {
+      "id": "6e80697f-d527-4cc6-8964-5d62b0640d76",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "5ddb6b68-b3b3-4fcd-acce-97f8306c39b6",
+  "slug": "making-videogames",
+  "title": "Making Videogames",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Making-Videogames-5ddb6b68b3b34fcdacce97f8306c39b6?pvs=21",
+  "createdTime": 1665085148699,
+  "lastEditedTime": 1681312903970,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Making Videogames"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e1a19537f761.webp",
+  "blocks": [
+    {
+      "id": "5d5c8d76-92ee-4743-9652-b07f74c8fa4d",
+      "type": "divider"
+    },
+    {
+      "id": "b4207e85-f2a1-4059-adf2-62cbe00ddf41",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "21f681f3-6ba3-4628-bd41-ef91004641c8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1f98ff4d-11fc-4a62-a08d-5c4ea015bad5",
+          "type": "column",
+          "children": [
+            {
+              "id": "d180d262-264e-4752-888d-7c8f2c8dc6c3",
+              "type": "paragraph",
+              "html": "<em><strong>Making Videogames</strong></em> was written by Duncan Harris &amp; Alex Wiltshire, published by Thames &amp; Hudson, June 14, 2022."
+            },
+            {
+              "id": "c97780e3-4ef1-427a-8cb2-702cb9069634",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c30a1f4e-f125-4595-b27f-2fa50d440fcd",
+              "type": "quote",
+              "html": "<em><strong>An in-depth visual guide presenting the detailed creative journeys behind the development of the world's leading videogames.<br><br></strong></em>Making Videogames<em> is an extraordinary snapshot of modern interactive entertainment, with insight from pioneers about the most important games in the industry. Illustrated with some of the most arresting in-game images ever seen in print, this book explores the unique alchemy of a technical and artistic striking endeavor a captivating balance between insider insight and accessibility.<br><br>Across twelve chapters, each focusing on a specific game from AAA blockbusters such as </em>Control<em> and </em>Half-Life: Alyx<em> to cult breakthrough games including </em>No Man's Sky<em> and </em>Return of the Obra Dinn<em>, this volume documents the incredible craft of videogame worldbuilding. These chapters present masterful visual storytelling via the world's most popular, but seldom fully understood, entertainment medium.<br><br>Demonstrating the magic and method behind each studio's work, the book includes enlightening text by Alex Wiltshire complementing specially created imagery “</em><a href=\"#/the-art-of-video-game-photography\"><em>photographed</em></a><em>” in-engine by screen capture artist Duncan Harris. A book for die-hard videogame fanatics, aspiring designer-creatives, video game developers, and the visually curious alike, </em>Making Videogames<em> will showcase the boundless creativity of this thrilling industry.</em>"
+            },
+            {
+              "id": "ae370ba1-e245-4b4d-aa90-c97cb2e32fbd",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a8996cf5-d316-42ec-9842-348bdc62a5c3",
+          "type": "column",
+          "children": [
+            {
+              "id": "b1ff06d6-43a5-4fdb-9a0e-1986056a13ec",
+              "type": "image",
+              "src": "./assets/images/untitled-e1a19537f761.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c783eacf-e17d-4b95-859c-9ba1a74fec70",
+      "type": "divider"
+    },
+    {
+      "id": "9a2e8798-a88f-4bb4-a015-c0e7866e20bb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c460857b-3303-4171-b86f-4ce50f4e4c87",
+          "type": "column",
+          "children": [
+            {
+              "id": "d584c851-22b8-4ec7-8365-ae88f74430a0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9db9800e-17b0-4280-9775-7239bd928231",
+          "type": "column",
+          "children": [
+            {
+              "id": "4535fffd-2f97-4b91-8344-e815b01d8634",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3CeVPsh\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44806de4-a8ee-40f8-9606-c8d0aec69d46",
+      "type": "divider"
+    },
+    {
+      "id": "04baa731-0299-4822-90a2-540edc075b2e",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

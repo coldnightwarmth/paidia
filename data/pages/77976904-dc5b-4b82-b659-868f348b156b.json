@@ -1,0 +1,129 @@
+{
+  "id": "77976904-dc5b-4b82-b659-868f348b156b",
+  "slug": "satoru-iwata",
+  "title": "Satoru Iwata",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "f9d064b5-05b3-4706-badb-4050ffd4d3cf",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/77976904dc5b4b82b659868f348b156b",
+  "createdTime": 1651852610832,
+  "lastEditedTime": 1681329175390,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Satoru Iwata"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d179c99b4e21.webp",
+  "blocks": [
+    {
+      "id": "f40bf2ba-2b63-4898-ad3d-8de6618f33bf",
+      "type": "divider"
+    },
+    {
+      "id": "738a5e11-db19-4e8c-9996-3b3d4c5e7315",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1c9ad573-a79f-4b42-a9f6-d73f2500ac78",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5af7c46d-c333-4f3f-bec0-1461a920c671",
+          "type": "column",
+          "children": [
+            {
+              "id": "e538c0e7-b86c-482b-861a-f9e117165f9d",
+              "type": "paragraph",
+              "html": "<strong>Satoru Iwata  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) was"
+            },
+            {
+              "id": "776478ad-e452-4573-8a77-b4876020b57b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ff6d64bc-8345-4e74-91d6-da8f04804bd3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5db37182-4d1c-4e38-a3be-b946626421dd",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b2309957-8ce4-4373-91f5-595ca516c169",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "47d1ca9f-5251-42de-965b-bc0c8c28ee2b",
+          "type": "column",
+          "children": [
+            {
+              "id": "898ca09f-9877-42fa-ba8e-22e69e96c458",
+              "type": "image",
+              "src": "./assets/images/untitled-d179c99b4e21.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6277925-73b3-476e-88a9-ea9ff2f1765a",
+      "type": "divider"
+    },
+    {
+      "id": "269c2ac3-824d-47f8-aefb-839c9e17cca1",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "4112532d-1d8b-43a3-9715-239c018bb407",
+      "type": "paragraph",
+      "html": "<a href=\"#/ask-iwata\">Ask Iwata</a> (<em>book</em>)"
+    },
+    {
+      "id": "10a5c9d8-00aa-46a6-ae4a-75385deda0fc",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cda111a4-0655-45df-8c0c-cfb60834d32d",
+      "type": "divider"
+    },
+    {
+      "id": "4783f4d0-5baf-40a4-9dbc-0c61ee36a54c",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "63f51254-333c-47fc-8404-d9c1e6f3c13d",
+      "type": "paragraph",
+      "html": "<a href=\"#/satoru-iwata-heart-of-a-gamer\">Heart of a Gamer</a> (<em>lecture</em>)"
+    },
+    {
+      "id": "31c71f34-e7b8-41cb-883c-cfd13ac2ddd6",
+      "type": "paragraph",
+      "html": "<a href=\"#/satoru-iwata-ceo-game-developer-gamer\">Satoru Iwata: CEO, Game Developer, Gamer</a> (<em>video tribute)</em>"
+    }
+  ]
+}

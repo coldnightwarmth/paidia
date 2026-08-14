@@ -1,0 +1,161 @@
+{
+  "id": "c70781e5-c814-4663-821c-7bcf4ccdee92",
+  "slug": "experimental-games",
+  "title": "Experimental Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Experimental-Games-c70781e5c8144663821c7bcf4ccdee92?pvs=21",
+  "createdTime": 1651767617597,
+  "lastEditedTime": 1681313406363,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Experimental Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1d95ea0039ce.webp",
+  "blocks": [
+    {
+      "id": "ad74ef98-39ed-4688-a52d-fc875c7d9a86",
+      "type": "divider"
+    },
+    {
+      "id": "5bf53c03-e7e8-47b8-80f7-31ffb09ec0e7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "63c44108-f19f-45b2-a967-d5e91673c6d0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d7f9332c-3cc8-4b8c-8704-b0af9760d7cc",
+          "type": "column",
+          "children": [
+            {
+              "id": "b1b7489d-3550-4370-a383-0bbf2a95afa3",
+              "type": "paragraph",
+              "html": "<em><strong>Experimental Games: Critique, Play, &amp; Design in the Age of Gamification</strong></em> was written by Patrick Jagoda, published by University of Chicago Press, December 7, 2020."
+            },
+            {
+              "id": "1425a03d-b170-4137-9ee2-7e47d6b4001f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "dad0b6bd-286a-4aab-9768-762e186d67f1",
+              "type": "quote",
+              "html": "<em>In our unprecedentedly networked world, games have come to occupy an important space in many of our everyday lives. Digital games alone engage an estimated 2.5 billion people worldwide as of 2020, and other forms of gaming, such as board games, role playing, escape rooms, and puzzles, command an ever-expanding audience. At the same time, “gamification”—the application of game mechanics to traditionally nongame spheres, such as personal health and fitness, shopping, habit tracking, and more—has imposed unprecedented levels of competition, repetition, and quantification on daily life.<br><br>Drawing from his own experience as a game designer, Patrick Jagoda argues that games need not be synonymous with gamification. He studies experimental games that intervene in the neoliberal project from the inside out, examining a broad variety of mainstream and independent games, including </em><a href=\"/8c2b64d4a62441c38e53dac52876b3ec\" target=\"_blank\" rel=\"noreferrer\">StarCraft</a><em>, </em><a href=\"#/candy-crush\">Candy Crush Saga</a><em>, </em><a href=\"#/super-mario\">Stardew Valley</a><em>, </em><a href=\"#/call-of-duty\">Dys4ia</a><em>, </em><a href=\"/3b1d7d0d0eac4e64934fdbce4c60fe94\" target=\"_blank\" rel=\"noreferrer\">Braid</a><em>, and </em><a href=\"/346b35c97c0a415783ae29f2e9cee050\" target=\"_blank\" rel=\"noreferrer\">Undertale</a><em>. Beyond a diagnosis of gamification, Jagoda imagines ways that games can be experimental—not only in the sense of problem solving, but also the more nuanced notion of problem making that embraces the complexities of our digital present. The result is a game-changing book on the sociopolitical potential of this form of mass entertainment.</em>"
+            },
+            {
+              "id": "eaf886c0-d338-490a-9fef-c9e848138638",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fccc99e3-95d6-4a03-a4c6-9da1e1dc96ab",
+          "type": "column",
+          "children": [
+            {
+              "id": "7c1a8d85-c6f2-477a-8c62-5e5ab73ead39",
+              "type": "image",
+              "src": "./assets/images/untitled-1d95ea0039ce.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad077f15-a193-4879-9692-ed4f2e860997",
+      "type": "divider"
+    },
+    {
+      "id": "39c2964f-4a02-41cd-addb-adddcc62fe0b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e6658ff0-8dac-4119-8737-17a01019bb4c",
+          "type": "column",
+          "children": [
+            {
+              "id": "d3cbad91-79c3-4def-8d17-d5f7ffa47478",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6a07f1dc-db40-4a57-a756-4748c323e956",
+          "type": "column",
+          "children": [
+            {
+              "id": "7059f817-2228-481e-aa75-910e05d9e2e0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39RZ1zX\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01e27eee-5e0e-4581-b0f2-515a4e978257",
+      "type": "divider"
+    },
+    {
+      "id": "47146057-93bc-4e69-a0fa-187802c37164",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "45a66f76-f8f0-4923-80e6-042dc7306210",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-2017-experimental-gameplay-workshop\">The GDC Experimental Gameplay Workshop [2017]</a> (<em>video</em>)"
+    },
+    {
+      "id": "19ec0a70-034d-4206-a647-4533048ca31c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cb4c641a-0126-4c9f-9fa7-63aa33ed0052",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2a30ee56-3e8b-4210-b677-6e2b27d7dd9e",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "1aa1685a-1556-45ae-99d0-81b7e3e4a0e1",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

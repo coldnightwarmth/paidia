@@ -1,0 +1,131 @@
+{
+  "id": "e8689ffc-2d96-41eb-b1bf-6d1c3bb91507",
+  "slug": "death-at-the-ballpark",
+  "title": "Death at the Ballpark",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Death-at-the-Ballpark-e8689ffc2d9641ebb1bf6d1c3bb91507?pvs=21",
+  "createdTime": 1667273569384,
+  "lastEditedTime": 1681312693111,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Death at the Ballpark",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-422669d2d186.webp",
+  "blocks": [
+    {
+      "id": "324efaca-7bbb-4852-a1e3-41dfe87aba85",
+      "type": "divider"
+    },
+    {
+      "id": "c122d69e-de32-483a-b84f-f50d94f9ae36",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3be4eefb-a9d9-4644-90a4-190f5301a40a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e74607d7-f140-4e55-a16b-bf0193df1e5e",
+          "type": "column",
+          "children": [
+            {
+              "id": "15e81543-487a-464c-bdc0-fb7b79da0e43",
+              "type": "paragraph",
+              "html": "<em><strong>Death at the Ballpark: A Comprehensive Study of Game-Related Fatalities of Players, Other Personnel &amp; Spectators in Amateur &amp; Professional Baseball, 1862-2007</strong></em> was written by Robert M. Gorman &amp; David Weeks, published by McFarland, November 10, 2008."
+            },
+            {
+              "id": "d261e168-5626-4276-b78f-7acae93a2378",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6a89c80f-ba79-4d5c-af2c-9cd13bd0d5fe",
+              "type": "quote",
+              "html": "<em>Despite whizzing fastballs and screaming line drives, baseball today is not especially dangerous. But over the game's history, hundreds of players, coaches, and spectators have died at the ballpark. This ground-breaking study covers nearly 150 years of game-related fatalities. Providing the known details for each death, the authors also identify contributing factors and discuss changes to playing rules, protective equipment, crowd control, stadium structure, and the grounds themselves. Chapter topics include pitched- and batted-ball fatalities, weather and field condition accidents, structural failures, violence or risky behavior fatalities, and deaths from natural causes.</em>"
+            },
+            {
+              "id": "a7433340-83ea-41fa-978d-a283288c1ce2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "aa9db865-805f-43d6-b2bb-52fe4999b20a",
+          "type": "column",
+          "children": [
+            {
+              "id": "f054d988-95a4-4119-b7bf-4c26d8a485ca",
+              "type": "image",
+              "src": "./assets/images/untitled-422669d2d186.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f36986d-e839-421c-bec0-e2eb8b15db2c",
+      "type": "divider"
+    },
+    {
+      "id": "40ea624f-11c3-4646-8697-9875394aedf3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "58618872-799d-4eec-91b9-daf2aa62756e",
+          "type": "column",
+          "children": [
+            {
+              "id": "4ce89e3a-694a-483e-a56c-b565dd4f47c5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "85e8a6c2-fac2-481d-b9b6-b4cd507fd13a",
+          "type": "column",
+          "children": [
+            {
+              "id": "d25558e0-f811-4df5-9970-95218200e69a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SSAcUU\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "609ce235-b191-4859-b115-815a76f30ce3",
+      "type": "divider"
+    }
+  ]
+}

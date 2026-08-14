@@ -1,0 +1,56 @@
+{
+  "id": "47240f1a-bf17-44bf-b7dc-0e6042614bb0",
+  "slug": "level-summaries",
+  "title": "Level summaries",
+  "icon": "🏔️",
+  "cover": "",
+  "type": "page",
+  "parentId": "01323835-74dd-4c2d-bff5-d14e3a90761c",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/47240f1abf1744bfb7dc0e6042614bb0",
+  "createdTime": 1645294770229,
+  "lastEditedTime": 1645295100000,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Level summaries"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "54436460-1f86-4413-8eb3-52c081615c0a",
+      "type": "paragraph",
+      "html": "List of all the levels in the game and details of what the player will encounter in each."
+    },
+    {
+      "id": "3558c547-f7f7-4fe6-abed-cdc845828a57",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f03cc22b-7927-4980-b59d-64052e825bd5",
+      "type": "paragraph",
+      "html": "For example:"
+    },
+    {
+      "id": "1abe246d-9859-45c7-8701-aa5317cb824a",
+      "type": "collection_view",
+      "collectionId": "14553da4-50be-4030-a757-2e85f1340c86",
+      "viewIds": [
+        "11c7f170-e508-431b-bb70-fae8a987a0c5"
+      ],
+      "title": ""
+    },
+    {
+      "id": "f941bbba-9fa3-4ad8-b7b5-d2d42579ea2e",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

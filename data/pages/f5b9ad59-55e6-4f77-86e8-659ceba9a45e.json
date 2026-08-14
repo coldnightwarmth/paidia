@@ -1,0 +1,132 @@
+{
+  "id": "f5b9ad59-55e6-4f77-86e8-659ceba9a45e",
+  "slug": "game-boys",
+  "title": "Game Boys",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Game-Boys-f5b9ad5955e64f7786e8659ceba9a45e?pvs=21",
+  "createdTime": 1653174308254,
+  "lastEditedTime": 1681314034240,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Game Boys",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2474fe231cf9.webp",
+  "blocks": [
+    {
+      "id": "097472df-b0e4-4fc1-9e14-c37df29434df",
+      "type": "divider"
+    },
+    {
+      "id": "a32763d2-ee2a-4489-a1c2-5db2dda3584f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2de7caad-b099-4b25-9b29-31b7817c2a25",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3078f056-f27b-4b32-a4fa-58fc72e50a65",
+          "type": "column",
+          "children": [
+            {
+              "id": "5aa28bd6-2357-4bed-819d-bcf3f60a9865",
+              "type": "paragraph",
+              "html": "<em><strong>Game Boys: Professional Videogaming's Rise from the Basement to the Big Time</strong></em> was written by Michael Kane, published by Viking Adult, June 19, 2008."
+            },
+            {
+              "id": "fc271822-d567-4ad2-b202-d6bf8c7d412c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d7e1c055-dd88-4647-8f9c-8bfd1098475d",
+              "type": "quote",
+              "html": "<em>An inside look at the darker side of the competitive video-game industry traces the rivalries between such companies as 3D and CompLexity, describes the world of professional elite players, and evaluates videogaming as a big-money intersection between business and pop culture.</em>"
+            },
+            {
+              "id": "7ea0e89a-5548-43ab-b590-c00a9e39a65c",
+              "type": "alias_link",
+              "targetId": null,
+              "title": "Linked page"
+            }
+          ]
+        },
+        {
+          "id": "deaeba00-425f-481b-9c6f-1c1db76b2d89",
+          "type": "column",
+          "children": [
+            {
+              "id": "e7e586a5-1d0d-4859-996f-ed37cba75832",
+              "type": "image",
+              "src": "./assets/images/untitled-2474fe231cf9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f70fa01-4e82-4659-8848-91ad635da48c",
+      "type": "divider"
+    },
+    {
+      "id": "7bbe26c7-cf5c-4aab-85a0-6db05ceaa956",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bd4f4bc0-4e49-4b98-878e-6594c54736d1",
+          "type": "column",
+          "children": [
+            {
+              "id": "5e8db0e0-e3e8-423a-b6cc-5f2b0a5671ef",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e03a3515-9e58-49d0-ab97-23a5d54eff16",
+          "type": "column",
+          "children": [
+            {
+              "id": "7b8ce65c-7698-4f26-a14a-fc3acb94f4b4",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SZZK2I\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6b555204-d2cd-4101-98eb-2ba2f5ba12d8",
+      "type": "divider"
+    }
+  ]
+}

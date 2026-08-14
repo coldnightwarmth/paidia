@@ -1,0 +1,121 @@
+{
+  "id": "a6cba00f-4fcc-432f-b44a-e1a04d1ea0ee",
+  "slug": "artificial-intelligence-and-computer-games",
+  "title": "Artificial Intelligence & Computer Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Artificial-Intelligence-Computer-Games-a6cba00f4fcc432fb44ae1a04d1ea0ee?pvs=21",
+  "createdTime": 1657137788961,
+  "lastEditedTime": 1681310944991,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Artificial Intelligence & Computer Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3d51ae61be28.webp",
+  "blocks": [
+    {
+      "id": "7c378903-b139-4cf4-a152-09c53723248e",
+      "type": "divider"
+    },
+    {
+      "id": "c30e1aed-7ef6-4d80-b62f-76850c29c086",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4a76b962-a342-4299-943f-57ce9d7dc68b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3c69fc4a-cf45-4fff-9dcf-e973515b24c9",
+          "type": "column",
+          "children": [
+            {
+              "id": "65909431-b62c-44bd-af8b-8a484be87c11",
+              "type": "paragraph",
+              "html": "<em><strong>Artificial Intelligence &amp; Computer Games</strong></em><strong> </strong>was written by Richard A. Bartle, published by TBS The Book Service Ltd., July 25, 1985."
+            },
+            {
+              "id": "fa365592-3322-4529-a9f1-1eb2c72e14a4",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5d8d6ca1-5b2d-44b3-9850-30eb7eafcaaa",
+          "type": "column",
+          "children": [
+            {
+              "id": "a7b7e326-90ef-4f3a-9f8f-d52fe3be37ee",
+              "type": "image",
+              "src": "./assets/images/untitled-3d51ae61be28.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ae4b9e2f-beb0-46a8-a8a6-6dae2a7a46f0",
+      "type": "divider"
+    },
+    {
+      "id": "289251cd-a094-4362-b7d2-ce0978ee121d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "52722d33-6535-4029-a842-831109b469bf",
+          "type": "column",
+          "children": [
+            {
+              "id": "234bf9dc-c1a4-4ba8-b2cf-b0b271062f2a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e02f7bca-8176-4d4f-adec-059deee931d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "e10a168c-e2c9-48bd-aeec-a702391c3f92",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Ihd52R\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6012c174-d99c-444e-bbdc-50bcc94fcdd8",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "1f837741-e2a1-4ee7-9876-ff939d74cfe0",
+  "name": "Colour",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "72f14a47-bdab-4ccb-89eb-dd92608c1b1e",
+      "collectionId": "1f837741-e2a1-4ee7-9876-ff939d74cfe0",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "c4297255-032a-413c-8b38-c092f1a45b09",
+        "9b5131ef-349b-499f-b6ee-9660c980e768",
+        "caba71c4-7d5f-4082-a98a-f8540b53b07d",
+        "06237825-6cb0-49dc-8d26-101f923714db",
+        "d8fb5370-62c8-4dd7-b4cb-35cb9da148e4",
+        "d6aa432e-73a5-4847-81ab-a0e4b8750ba6",
+        "f9160bd1-d3fa-47fb-ae62-d2627e3727c6",
+        "2167cd27-976d-41e8-820e-e404c53348b2",
+        "bd49a223-8737-469a-be3f-cbaa0c5b2868",
+        "b1aca6bb-e0c4-4317-a2f4-9d5c902a3c1a",
+        "f1bd798a-0e94-4328-8d67-0d31fc801f5c",
+        "13ea40c3-cc68-4f18-8973-8481a064e967",
+        "fa4ceed6-961c-4372-b5bb-83d9610e69db",
+        "04811c02-eb4f-40e0-90df-28e794a645d1",
+        "9ecf4cad-20bf-490b-bd05-51a7f623b784",
+        "01d0ebd7-f4d9-41d9-a2ef-4de1c746bf9e",
+        "8a4cae4c-b887-4690-ba95-85a3660c1f7d",
+        "46419dee-40a5-4f04-ab1e-8cd446c50f46",
+        "7f426c52-b633-4b11-943c-9d04c522d936",
+        "32db3c1f-3a21-4d55-a96d-7ecf4090085c",
+        "4f07ce78-9283-4eef-b094-06b82f92bf9c",
+        "dd7fceb3-6511-45de-ac4b-d57edf341923",
+        "6c889280-001a-46cf-9435-91c58df314e5",
+        "ae69f2b5-7cf9-4438-b1b7-25abc9f342b8",
+        "d4345da6-3a7a-4c9e-8ff9-6a48045da534",
+        "fdadc29b-03ae-488b-bd06-ca78ada8567b",
+        "0218f7b5-169c-432d-b9f8-e158dca6d1bb",
+        "1998edf5-8a85-430a-8882-c20c5a25c0a8",
+        "32525b8b-03fd-460f-8676-b853f8072f9e",
+        "3371ee13-5dc2-4541-86b4-5fefd3d69279",
+        "d2fa14a2-09a9-499d-bdd8-396c7067ee99",
+        "1b2d826d-9e57-4be3-aa63-f33f37e3f862",
+        "e452cc89-41f9-442c-9d80-fee246d346c3",
+        "c2b4a521-8269-419f-8ca0-892754169a39",
+        "b4a07a77-bab5-40ae-bef6-019eb2a38e76",
+        "ce616a61-399f-4da2-926f-ccc8b1ea8b81"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    }
+  ],
+  "rows": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "e3c1010d-5575-4b4b-b08c-47166ed03e15",
+  "name": "Resources produced by chopping trees",
+  "schema": {
+    "LTdL": {
+      "id": "LTdL",
+      "name": "Produced item",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "P;{_": {
+      "id": "P;{_",
+      "name": "Value",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Tree type",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "4fda3183-df4e-405e-a449-2e3c1708ecc0",
+      "collectionId": "e3c1010d-5575-4b4b-b08c-47166ed03e15",
+      "type": "table",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "425f2cfe-9d5b-411e-9342-3f8a9d7a6ce5",
+        "47785af5-8a2f-4acf-991d-489bbc984c26",
+        "f18210c7-3ce7-4a0c-bd8a-d6be115a194f"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 169
+        },
+        {
+          "property": "LTdL",
+          "visible": true,
+          "width": 158
+        },
+        {
+          "property": "P;{_",
+          "visible": true,
+          "width": 100
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

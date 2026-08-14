@@ -1,0 +1,131 @@
+{
+  "id": "e7ae7f33-ee71-40e6-bb16-16349b0acbc0",
+  "slug": "larp-gameworld-design",
+  "title": "LARP Gameworld Design",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/LARP-Gameworld-Design-e7ae7f33ee7140e6bb1616349b0acbc0?pvs=21",
+  "createdTime": 1654844204038,
+  "lastEditedTime": 1681313862775,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "LARP Gameworld Design",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-361fe2f208a8.webp",
+  "blocks": [
+    {
+      "id": "8f44e25b-98f9-47a9-bfe7-42fe5f77cc6c",
+      "type": "divider"
+    },
+    {
+      "id": "2b762833-1191-494c-8d53-c30fbe4e11b6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ed0783ae-27ec-4707-8ed5-be93ed49d3c6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b4b6cf33-4140-4585-9293-67feec29cbbf",
+          "type": "column",
+          "children": [
+            {
+              "id": "0a28b902-e20f-4fba-93b4-3eb4e8b6db41",
+              "type": "paragraph",
+              "html": "<em><strong>LARP Gameworld Design: Cartographer's Journal</strong></em> was written by Benjamin Sanders, self-published through CreateSpace on June 5, 2017."
+            },
+            {
+              "id": "30b6a127-7351-46c3-9e52-dbeb1390ca40",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "77f3509e-a6b0-49e0-8cdd-a7bf1ca17593",
+              "type": "quote",
+              "html": "<em>The &quot;</em>Live-action Role-playing Gameworld Design: Cartographer's Journal<em>&quot; facilitates the creation of your world. This provides you, the game designer, with the structure, flexibility and depth to create your own world, creatures, items, skill trees and multitude of adventures. At over 450 pages long, with an appendix of all templates as photocopy resources, this journal is perfect for the educator or the dungeon master who runs LARP events in the field or in the classroom.</em>"
+            }
+          ]
+        },
+        {
+          "id": "97d5da5a-76d7-4cf7-9cb7-eb16f2af9997",
+          "type": "column",
+          "children": [
+            {
+              "id": "58460775-c4d0-458a-ae1d-7044f95e5735",
+              "type": "image",
+              "src": "./assets/images/untitled-361fe2f208a8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1053c55c-74c9-43f9-9817-4a49c81260ae",
+      "type": "divider"
+    },
+    {
+      "id": "57041b4a-dc06-4b57-a20d-dda62e22b067",
+      "type": "columns",
+      "children": [
+        {
+          "id": "abb18c45-75d9-4f6a-857d-75126521e3e7",
+          "type": "column",
+          "children": [
+            {
+              "id": "9bd60b7d-0f67-479c-bd92-05e273e1aa3f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0a83eb01-3362-473f-a51d-b4a30217909c",
+          "type": "column",
+          "children": [
+            {
+              "id": "05efa46b-b7f8-4e2c-9819-7506a34bc532",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3tnloDZ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5641a0a-e5d0-423f-86d9-76c531084128",
+      "type": "divider"
+    },
+    {
+      "id": "acc60540-f6f7-416f-b805-7f2f85b7e582",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

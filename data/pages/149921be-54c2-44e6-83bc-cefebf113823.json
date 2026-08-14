@@ -1,0 +1,134 @@
+{
+  "id": "149921be-54c2-44e6-83bc-cefebf113823",
+  "slug": "claude-shannon",
+  "title": "Claude Shannon",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "350879b3-a25b-4db5-8dae-34d54f50d8e6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/149921be54c244e683bccefebf113823",
+  "createdTime": 1666800825320,
+  "lastEditedTime": 1681329073386,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Claude Shannon"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-596c4079695e.webp",
+  "blocks": [
+    {
+      "id": "ed380101-2b7a-4cd6-ad6c-6793e828b83b",
+      "type": "divider"
+    },
+    {
+      "id": "d8d01dba-b7e3-4c41-bfb8-a4d05a121602",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2d06078d-7378-4c98-a48c-d1b604a0fff7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7766e95f-27ec-4a38-be59-2b9ec57755a8",
+          "type": "column",
+          "children": [
+            {
+              "id": "87c8c1af-b74c-4a5e-b55a-ff808793a72d",
+              "type": "paragraph",
+              "html": "<strong>Author  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "62dcaf5f-6ab4-45b8-8a39-7efd01b3d320",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f33812c9-b923-4fcc-9cad-92228318093d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8e73fb8e-e997-449c-bd5e-e356db804468",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7541ca3e-0593-4cf6-a248-c62ce690e1e1",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "35a7e879-ddfc-4758-abd9-6c8e206a1aac",
+          "type": "column",
+          "children": [
+            {
+              "id": "e1dbbcdb-12c0-4fef-9e46-f084c38cd7c3",
+              "type": "image",
+              "src": "./assets/images/untitled-596c4079695e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2bb9e7ee-aed6-4c51-bc39-5ac01f57638f",
+      "type": "divider"
+    },
+    {
+      "id": "30582f1a-b824-4518-be4f-61d686907321",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "19f59eb2-997b-4f96-8998-d720d96c65d7",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-mathematical-theory-of-communication\">The Mathematical Theory of Communication</a> (<em><em><em>book</em></em></em>)"
+    },
+    {
+      "id": "99632100-c860-4332-a3f4-34ca8e588d94",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ded55a9f-a896-43ea-8d7e-cff5b313552c",
+      "type": "divider"
+    },
+    {
+      "id": "068879d1-59e5-4f0e-a9fe-5c86bc336616",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ae0929cf-36f5-4a45-a9db-88e795f7c576",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "d871dbe2-07ad-468b-ada9-1fb75959c859",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "cda7f6a8-1358-492e-a3af-d36d114f3edd",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

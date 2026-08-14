@@ -1,0 +1,126 @@
+{
+  "id": "75bde06a-6b6d-4e58-930c-a0a0ae02fb4d",
+  "slug": "zones-of-control",
+  "title": "Zones of Control",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Zones-of-Control-75bde06a6b6d4e58930ca0a0ae02fb4d?pvs=21",
+  "createdTime": 1651688163325,
+  "lastEditedTime": 1681313882862,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Zones of Control"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-474a295fb883.webp",
+  "blocks": [
+    {
+      "id": "e1b14c80-0a52-4c15-8f9a-8bfe9ad791be",
+      "type": "divider"
+    },
+    {
+      "id": "0593f0a8-03a9-42ff-816d-df4d94823c97",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d94a93a3-ceed-4064-99c8-29f7937894a7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9fbff300-4ffe-4304-a370-87fb3e365fd5",
+          "type": "column",
+          "children": [
+            {
+              "id": "7b1ec6ab-5804-434a-888c-1f95d16e1461",
+              "type": "paragraph",
+              "html": "<em><strong>Zones of Control: Perspectives on Wargaming</strong></em> is a collection of essays edited by Pat Harrigan &amp; Matthew G. Kirschenbaum published by The MIT Press, April 15, 2016."
+            },
+            {
+              "id": "ccce60ed-af84-4c09-8323-3b79cdd6073f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b979e584-f55d-4cae-a646-b408c096654b",
+              "type": "quote",
+              "html": "<em>Games with military themes date back to antiquity, and yet they are curiously neglected in much of the academic and trade literature on games and game history. This volume fills that gap, providing a diverse set of perspectives on wargaming's past, present, and future. In </em>Zones of Control<em>, contributors consider wargames played for entertainment, education, and military planning, in terms of design, critical analysis, and historical contexts. They consider both digital and especially tabletop games, most of which cover specific historical conflicts or are grounded in recognizable real-world geopolitics. Game designers and players will find the historical and critical contexts often missing from design and hobby literature; military analysts will find connections to game design and the humanities; and academics will find documentation and critique of a sophisticated body of cultural work in which the complexity of military conflict is represented in ludic systems and procedures.<br><br>Each section begins with a long anchoring chapter by an established authority, which is followed by a variety of shorter pieces both analytic and anecdotal. Topics include the history of playing at war; operations research and systems design; wargaming and military history; wargaming's ethics and politics; gaming irregular and non-kinetic warfare; and wargames as artistic practice.</em>"
+            },
+            {
+              "id": "102c5b1d-6d13-48b3-bdce-646c236df9f5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d7a7373b-49c6-4e99-859e-65c86789e5bb",
+          "type": "column",
+          "children": [
+            {
+              "id": "84f29f75-c20b-4d93-bf92-329ed6fd517f",
+              "type": "image",
+              "src": "./assets/images/untitled-474a295fb883.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70d539f7-1794-48a9-8bd2-e67343f9fe5b",
+      "type": "divider"
+    },
+    {
+      "id": "53208595-2d27-4052-9025-73c08f57e58e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "786d207e-65d2-4f2f-b9cf-4590e36b9989",
+          "type": "column",
+          "children": [
+            {
+              "id": "13a91e21-f17a-44e2-b07a-9f965bfd5017",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "489f304b-a977-4f4e-81b1-b7008a2642c0",
+          "type": "column",
+          "children": [
+            {
+              "id": "776e994e-3a3e-4183-a7c5-8d614fc8ff69",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NkRQhi\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "436b2ac6-1ad9-4ffd-9546-0d0fddeb1ee1",
+      "type": "divider"
+    }
+  ]
+}

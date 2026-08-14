@@ -1,0 +1,99 @@
+{
+  "id": "84d7d297-2d3a-4421-8de1-255f22c3e486",
+  "slug": "mabel-addis",
+  "title": "Mabel Addis",
+  "icon": "./assets/images/user-circle-filled-gray-e6d9ecea2c26.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b8efda67-2f3c-494d-9828-53f54675de16",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/84d7d2972d3a44218de1255f22c3e486",
+  "createdTime": 1666475701942,
+  "lastEditedTime": 1673983375106,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Mabel Addis",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0384d163619e.webp",
+  "blocks": [
+    {
+      "id": "9a4dc0dc-942d-4c9c-a0d8-c45ff15dd996",
+      "type": "divider"
+    },
+    {
+      "id": "1c8c8a35-f9e3-4bba-aba0-69b51735b524",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cb25a876-19d2-469d-b429-4de18be81ae9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "27fea649-fdfe-49cb-aca3-7fc30c0d52bd",
+          "type": "column",
+          "children": [
+            {
+              "id": "356ef335-9de6-4380-a65d-c554df63d4e2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "9aa1ae59-2d43-4c95-a383-229410d0f036",
+          "type": "column",
+          "children": [
+            {
+              "id": "8adeaaa7-0fe0-439b-aa49-c446c7b231a9",
+              "type": "image",
+              "src": "./assets/images/untitled-0384d163619e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c82f6c19-e3ee-4c83-bf3b-04425892d79a",
+      "type": "divider"
+    },
+    {
+      "id": "78dbab02-3f01-4303-bc57-ec28f4d1bf95",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "72079eb2-1c50-4229-84ab-f435688cd3bc",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5e79cdfe-fdf5-4f4a-a1aa-bb4d0ba6b1a3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "646d7179-9473-407a-bb9f-57504f601c18",
+      "type": "divider"
+    },
+    {
+      "id": "0fd2b72d-0368-4291-8dfa-94c9237dd595",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

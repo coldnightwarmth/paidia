@@ -1,0 +1,136 @@
+{
+  "id": "946f7bdf-4bf2-4959-94a0-eaf488d8b618",
+  "slug": "ethics-and-game-design",
+  "title": "Ethics & Game Design",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/946f7bdf4bf2495994a0eaf488d8b618",
+  "createdTime": 1669916271311,
+  "lastEditedTime": 1681312286431,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ethics & Game Design",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9c1209b3e22d.webp",
+  "blocks": [
+    {
+      "id": "529fb9a9-b807-40e6-927e-50bdaedae461",
+      "type": "divider"
+    },
+    {
+      "id": "21d25c81-970b-4061-be38-c0f083f2a6b5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "03abfc4b-4130-4063-8ce2-d27e35b22f57",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5599ebe2-e55a-47ec-81c4-9b8df45e8c60",
+          "type": "column",
+          "children": [
+            {
+              "id": "4534a227-0205-4d2e-8f14-170c24035d5c",
+              "type": "paragraph",
+              "html": "<em><strong>Ethics &amp; Game Design: Teaching Values Through Play</strong></em> was written &amp; edited by Karen Schrier &amp; David Gibson, published by Information Science Reference, February 1, 2010."
+            },
+            {
+              "id": "bd6adcc7-e668-4b45-a1fd-0bbcbee4cfa8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "22e61932-adcd-4da9-aebf-201cde537aa3",
+              "type": "quote",
+              "html": "Ethics &amp; Game Design: Teaching Values through Play<em> is the first book in its field to challenge scholars and researchers to answer questions such as: How can game design be improved to foster ethical thinking and discourse? What are the theories and methodologies that will help us understand, model, and assess ethical thinking in games? How do we use games in classrooms and informal educational settings to support moral development? This distinguished publication approaches such questions from a multidisciplinary perspective with the ultimate goal of inspiring further interdisciplinary dialogue and research in order to continue building the ethics and games community.</em>"
+            },
+            {
+              "id": "123b6ccc-a465-4d41-a57c-ceb6eeb1c512",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c66a2c6b-daa5-4c26-904a-869ae41559a4",
+          "type": "column",
+          "children": [
+            {
+              "id": "00395f9f-1733-4b3a-8ae5-560cf030db96",
+              "type": "image",
+              "src": "./assets/images/untitled-9c1209b3e22d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f76ee6b-b4e6-437b-82e7-fb7c5ee0a000",
+      "type": "divider"
+    },
+    {
+      "id": "667abe9b-b21f-47ef-be1f-d550ce4173bd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5b149cf6-34ca-4028-9a0d-268313e405a3",
+          "type": "column",
+          "children": [
+            {
+              "id": "3494ba40-e21d-47b2-9aac-6f6a7301372c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a5858dca-fe5a-4d9d-a42d-7bddd7461c8d",
+          "type": "column",
+          "children": [
+            {
+              "id": "f4e29355-abc7-4308-9b48-86ea0dfe48c8",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Ethics-Game-Design-Teaching-Through/dp/1615208453/ref=sr_1_1?crid=1HVNF6Q2JWV49&amp;keywords=Ethics+and+Game+Design%3A+Teaching+Values+Through+Play&amp;qid=1666383083&amp;qu=eyJxc2MiOiIwLjg3IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=ethics+and+game+design+teaching+values+through+play%2Caps%2C123&amp;sr=8-1&amp;ufe=app_do%3Aamzn1.fos.18630bbb-fcbb-42f8-9767-857e17e03685\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75648354-0f87-4d84-8178-21b758c81ec8",
+      "type": "divider"
+    },
+    {
+      "id": "7dfd5b1b-ea3b-455f-ba22-16494eb82367",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

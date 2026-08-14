@@ -1,0 +1,126 @@
+{
+  "id": "4635c06e-7228-40ce-b781-7714b6f01cbe",
+  "slug": "the-folkgames-of-children",
+  "title": "The Folkgames of Children",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/4635c06e722840ceb7817714b6f01cbe",
+  "createdTime": 1651705309780,
+  "lastEditedTime": 1681313843774,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Folkgames of Children",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-bc9438d95e32.webp",
+  "blocks": [
+    {
+      "id": "7d7178c1-35ea-423d-92f0-295478db8668",
+      "type": "divider"
+    },
+    {
+      "id": "2f6387c4-2854-4dea-8b4f-af5f38d0b42e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cbca3b15-b53c-4801-9d0b-65be865d208e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cc31d950-875f-44b7-8cd9-457f7f45bff7",
+          "type": "column",
+          "children": [
+            {
+              "id": "d8638dae-cffc-45cd-adb0-bed5d29280b1",
+              "type": "paragraph",
+              "html": "<em><strong>The Folkgames of Children</strong></em> was written by Brian Sutton-Smith, published for the American Folklore Society by the University of Texas Press, January 1, 1972."
+            },
+            {
+              "id": "dd9dc745-ae4d-4c31-a92e-df03cf854ada",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3710ced8-91d2-4f7d-a386-ff6df1490745",
+              "type": "quote",
+              "html": "<em>A study of the history, function and changes in children's games.</em>"
+            }
+          ]
+        },
+        {
+          "id": "90a2d52f-7709-490d-9dd1-0937d09fb01d",
+          "type": "column",
+          "children": [
+            {
+              "id": "48b05517-4ade-40c4-b202-04efd26edf06",
+              "type": "image",
+              "src": "./assets/images/untitled-bc9438d95e32.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dac24d8a-ec67-4c9d-9a18-4a3542ba5026",
+      "type": "divider"
+    },
+    {
+      "id": "a048d31a-35df-4175-84e1-eb103647daeb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9e73d473-231b-4d23-8da7-a4cc77920069",
+          "type": "column",
+          "children": [
+            {
+              "id": "657cf326-0ef2-4792-b837-85414ca31183",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bac60cda-0f0b-49cd-a96e-34542e90d0fb",
+          "type": "column",
+          "children": [
+            {
+              "id": "f3c96606-ab02-4721-b86a-a8c0694d70ce",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yldSw0\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "806ac653-f103-48ad-b95e-53c17c5c3d3d",
+      "type": "divider"
+    }
+  ]
+}

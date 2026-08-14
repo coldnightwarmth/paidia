@@ -1,0 +1,131 @@
+{
+  "id": "d47377a1-63b0-42b6-95b3-d156fd3d6342",
+  "slug": "mazes-and-monsters",
+  "title": "Mazes & Monsters",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Mazes-Monsters-d47377a163b042b695b3d156fd3d6342?pvs=21",
+  "createdTime": 1657140356650,
+  "lastEditedTime": 1681314102767,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Mazes & Monsters",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-551fb7530e43.webp",
+  "blocks": [
+    {
+      "id": "832a327d-5b57-40f2-a362-a1f8b930515f",
+      "type": "divider"
+    },
+    {
+      "id": "4cb7a4d7-42b5-4b72-a8ea-176e21db1455",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e31b05d4-62d9-499f-93c9-ecfd38a053e8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "508ce28a-6643-4c7a-b4a1-5ba71e1996f3",
+          "type": "column",
+          "children": [
+            {
+              "id": "134c86e8-84ae-4ab6-8543-8a2587cc6c7a",
+              "type": "paragraph",
+              "html": "<em><strong>Mazes &amp; Monsters</strong></em> was written by Rona Jaffe, published by Delacorte Press, September 1, 1981."
+            },
+            {
+              "id": "f2784c08-d2af-4424-bc12-e480eafb0cc5",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9f418fff-8451-43fb-966c-cbf5f87426c4",
+              "type": "quote",
+              "html": "<em>Four university friends, obsessed with a fantasy, role-playing game delve into the darkest parts of their minds and carry the game one terrible step too far.</em>"
+            },
+            {
+              "id": "3adb1cbc-9313-4c30-bf87-16813e6a7d22",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "62bbbc41-85f8-4b41-88a6-6ff19c66c178",
+          "type": "column",
+          "children": [
+            {
+              "id": "9eaa4a1e-4e5c-4e57-8ed2-1b2cef96f55b",
+              "type": "image",
+              "src": "./assets/images/untitled-551fb7530e43.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5bfde4b6-0f34-4c6d-a039-3a7e4dcf6d23",
+      "type": "divider"
+    },
+    {
+      "id": "42c4f35a-3f88-4c1c-bfec-865bd1b3dad5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c12a60b3-971b-43bb-90e3-69a8ec39793e",
+          "type": "column",
+          "children": [
+            {
+              "id": "7b8a9acb-f107-4324-8809-a49549f9d6d0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "956a2ed3-58df-43f4-b2d8-b95daae41105",
+          "type": "column",
+          "children": [
+            {
+              "id": "7f71b3c6-8dc8-4b8e-801e-fe3034049c79",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3nJdyBf\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e221c39f-1ffb-4c17-aba2-4422311b6a82",
+      "type": "divider"
+    }
+  ]
+}

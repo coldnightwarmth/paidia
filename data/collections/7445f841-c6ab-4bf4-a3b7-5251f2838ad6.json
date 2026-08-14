@@ -1,0 +1,96 @@
+{
+  "id": "7445f841-c6ab-4bf4-a3b7-5251f2838ad6",
+  "name": "Community Founders",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "db26b895-fce9-4e35-9948-c12bb01331a0",
+      "collectionId": "7445f841-c6ab-4bf4-a3b7-5251f2838ad6",
+      "type": "gallery",
+      "name": "🗿",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "690a5aeb-e999-4a9a-82ff-9ead9f5a4734",
+        "dc797d5b-d875-4450-b4a9-ee2e6a8a3a2c",
+        "1cfe1e04-b1be-4e00-bc81-4896bf6a64ef",
+        "4b360770-5efe-426d-a236-73dda7cd4d08",
+        "1b43ea83-436f-4d13-a367-79478df5960f",
+        "b1839d06-1b1d-4d23-b8a7-795547d62ca6",
+        "8d61b1a9-122f-4fbd-b03f-d961309c1b41",
+        "d7fa151f-41a1-49ff-9d90-b98aafeac7ba",
+        "9423bbc5-b595-438c-b03f-2d81d5d899c7",
+        "b7e2a045-b557-4eb8-857e-9a26e720ec46",
+        "8a4b8507-7ba8-4dfe-a5f5-9d796a8d1e3b",
+        "f4fe6844-9306-4f9c-9e82-37bd6a80a4aa",
+        "99b6cffc-0884-41b7-bb52-f79f3a91089e",
+        "f6b6de97-7987-40d2-a746-e7dcac3065c5",
+        "ecc960af-d9c7-4b36-8806-19724ac1e856"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": false,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    }
+  ],
+  "rows": []
+}

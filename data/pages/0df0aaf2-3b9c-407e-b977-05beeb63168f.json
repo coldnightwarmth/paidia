@@ -1,0 +1,126 @@
+{
+  "id": "0df0aaf2-3b9c-407e-b977-05beeb63168f",
+  "slug": "melee-is-broken",
+  "title": "Melee is Broken",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Melee-is-Broken-0df0aaf23b9c407eb97705beeb63168f?pvs=21",
+  "createdTime": 1651684521101,
+  "lastEditedTime": 1681313939516,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Melee is Broken"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fa104480e195.webp",
+  "blocks": [
+    {
+      "id": "17326e8e-c64f-42d5-ba41-7371c04e2ada",
+      "type": "divider"
+    },
+    {
+      "id": "2c88e4af-bdf3-43d1-bf7a-0ded78b42870",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "00a94762-2a66-497a-bd44-bf7f7b3782ed",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1ed25a81-3ead-4f9a-8d7a-a22bddee2d6a",
+          "type": "column",
+          "children": [
+            {
+              "id": "2afd5191-1b53-4677-be9c-4af3c516c3a7",
+              "type": "paragraph",
+              "html": "<em><strong>Melee is Broken: Super Smash Bros. Melee: An Interdisciplinary Esports Ethnography</strong></em> was written by A.J. Rappaport, self-published through Lulu.com, November 18, 2020."
+            },
+            {
+              "id": "e311842e-86e3-45b7-9ae2-5d95ca0c4676",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f66720a9-9ad2-49ed-9a68-57c372790c32",
+              "type": "quote",
+              "html": "<em>In a world where most video game players crave the newest hardware or the latest game, one tight-knit global gaming community, thousands strong, has stood alone for nearly two decades: the competitive </em>Super Smash Bros. Melee (SSBM)<em> scene. </em>SSBM<em>'s release for the Nintendo GameCube in 2001 signaled an exciting moment in gaming history: a continuation of the popular </em>Smash Bros<em>. franchise, boasting even more characters and iconography from players’ favorite Nintendo properties. </em>Melee is Broken<em> argues that </em>SSBM<em>'s unique staying power is sourced from its reliance on hardware objects from the early 2000s, through which new life is breathed into ostensibly “dead” media objects. Through blending textual analysis with artistic research-creation, this book interrogates the ideologies and principles that have sustained the competitive</em> SSBM<em> scene for so many years through examining hardware, software, community discourse, and the formation of universally adopted techniques both in- and out-of-game. This groundbreaking work aims to invite everyone from long-time </em>SSBM<em> competitors to those on the peripheral of </em>SSBM<em>, or even gaming in general, to inquire and learn more about the passion and dedication that defines competitive </em>SSBM<em>. </em>"
+            },
+            {
+              "id": "7a4fef26-b2e6-4eaa-a12f-3f7aadfa8963",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "07400c7f-29ca-4351-82e8-11a71d048d22",
+          "type": "column",
+          "children": [
+            {
+              "id": "ed0d7c91-19ae-4e3a-ae6c-12f76e548983",
+              "type": "image",
+              "src": "./assets/images/untitled-fa104480e195.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28d45f2e-c18d-4bf5-8223-e867f2bb86ea",
+      "type": "divider"
+    },
+    {
+      "id": "70f872e7-80cb-4668-8723-f6e9b5670f45",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ccb0c62c-33c1-47ac-964e-7bc92dc57f10",
+          "type": "column",
+          "children": [
+            {
+              "id": "1a059687-da03-49e1-8160-a2d5a9a74028",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ae408878-c9ab-46ee-a954-5fa031ffd87a",
+          "type": "column",
+          "children": [
+            {
+              "id": "74235738-a30b-43c4-8158-bdd27da35ba8",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3h2idhu\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5fe19ec-c914-490b-bd27-7bad178b8839",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "id": "fce54068-54f0-475a-a21d-5fcd9fa5e668",
+  "slug": "job-application-manager",
+  "title": "Job Application Manager",
+  "icon": "🌻",
+  "cover": "./assets/images/sirani-elisabetta-timoclea-uccide-il-capitano-di-alessandro--86b635427afb.webp",
+  "type": "page",
+  "parentId": "df0eb763-a35f-4901-9fca-d77ce79248c9",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/fce5406854f0475aa21d5fcd9fa5e668",
+  "createdTime": 1665762300000,
+  "lastEditedTime": 1746979581818,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Job Application Manager"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/screen-shot-2022-10-14-at-12-01-18-pm-6fe4984a52bc.webp",
+  "blocks": [
+    {
+      "id": "e16764fa-32a6-4fb9-9071-4931e9bc8581",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8287fdc3-14f7-4cab-8a34-dba1367e8a40",
+          "type": "column",
+          "children": [
+            {
+              "id": "bdda8541-1e8f-4985-bd7b-53306850d91e",
+              "type": "subsubheader",
+              "html": "Table of Contents",
+              "anchorId": "table-of-contents"
+            },
+            {
+              "id": "faf656c4-623e-4e93-9780-1a2010146c5e",
+              "type": "table_of_contents"
+            },
+            {
+              "id": "bf9e7fd2-111e-49f7-bd15-18320cd7c4e6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "51e2b56b-e29d-4617-bbbe-c7a1dcd430cc",
+          "type": "column",
+          "children": [
+            {
+              "id": "7dc3d432-937d-4ff6-bc53-0176f5c95c00",
+              "type": "subsubheader",
+              "html": "💖 Welcome!",
+              "anchorId": "welcome"
+            },
+            {
+              "id": "78f54a98-a5b6-4bd9-81d7-0c3f4ed1b740",
+              "type": "callout",
+              "html": "This is a Notion template for a job application manager that makes the process of loo<a href=\"/3d5d37415ce0432bb104bc5d8c69491e?pvs=25\" target=\"_blank\" rel=\"noreferrer\">king for work a little less shitty by providing some foundational structure of where information coach</a>is deposited, and makes it easier to share new jobs you’re applying to with your Mentors and other people who can provide feedback on your applications.<br><br>Created by <a href=\"https://twitter.com/javierabegazo\" target=\"_blank\" rel=\"noreferrer\">Javiera Cordero</a>, if you have any other improvements or suggestions feel invited to let her know! 🌻 <br><br>To make this template your own, <strong>Click on the “DUPLICATE” button at the top right corner of the page. </strong>",
+              "icon": "💡",
+              "children": [
+                {
+                  "id": "f9ddf32e-4050-4b13-a7e0-48430ed862ee",
+                  "type": "image",
+                  "src": "./assets/images/screen-shot-2022-10-14-at-12-01-18-pm-6fe4984a52bc.webp",
+                  "caption": "",
+                  "alt": "Screen Shot 2022-10-14 at 12.01.18 PM.png"
+                },
+                {
+                  "id": "502111e9-8166-4fdd-9345-e2eb00308166",
+                  "type": "subsubheader",
+                  "html": "The actual Magic ✨✨✨ of this Template",
+                  "anchorId": "the-actual-magic-of-this-template"
+                },
+                {
+                  "id": "558384de-c6e6-434e-9c86-e2f13b99ef1b",
+                  "type": "bulleted_list",
+                  "html": "Notion has the ability to structure data within easy to use Databases"
+                },
+                {
+                  "id": "380a6de7-1fe6-4c45-8f79-acf51d5fc93e",
+                  "type": "bulleted_list",
+                  "html": "These databases can be envisioned as a 3D way to represent data if Spreadsheets like Google Sheets are a 2D way."
+                },
+                {
+                  "id": "1999da73-a6f5-46ee-933f-f62c3259c90d",
+                  "type": "bulleted_list",
+                  "html": "Databases can also be configured to have Properties that are Relational Properties, so that the Jobs and Companies and People Databases can show relations between items."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e180ae57-833b-4420-9895-9e548abb21a1",
+      "type": "header",
+      "html": "🎯 Goals - A general strategy recommendation",
+      "anchorId": "goals-a-general-strategy-recommendation"
+    },
+    {
+      "id": "5d3c29c1-d445-4327-9ae1-e02e9a750b30",
+      "type": "header",
+      "html": "📚 Application Materials",
+      "anchorId": "application-materials"
+    },
+    {
+      "id": "96969bd0-ad06-4bbf-bf00-95578167f54e",
+      "type": "callout",
+      "html": "A place for you to consolidate all of your working materials.",
+      "icon": "💡",
+      "children": []
+    },
+    {
+      "id": "ce8bbaeb-6e01-4911-bfe5-2ffefbad4e75",
+      "type": "collection_view",
+      "collectionId": "14ac0ee6-d28b-46aa-8bde-22214dcb9efc",
+      "viewIds": [
+        "33615bc2-bd41-42f6-80c5-345437ed40b3"
+      ],
+      "title": ""
+    },
+    {
+      "id": "66b9e470-9761-4acf-98db-1793396629bf",
+      "type": "header",
+      "html": "💼 Jobs",
+      "anchorId": "jobs"
+    },
+    {
+      "id": "7fe1af38-dd5b-4798-b626-2acb12f1198f",
+      "type": "callout",
+      "html": "A database of all the job opportunities you’re applying for.",
+      "icon": "💡",
+      "children": [
+        {
+          "id": "44c92c96-2a78-42f2-9256-a89c2856c04c",
+          "type": "subsubheader",
+          "html": "Example of a “successful” Cover Letter, one that resulted in an interview invitation",
+          "anchorId": "example-of-a-successful-cover-letter-one-that-resulted-in-an-interview-invitatio"
+        },
+        {
+          "id": "a9d8c03a-2b36-49a6-b6c1-ac570e98f8b9",
+          "type": "subsubheader",
+          "html": "⚠️ Instructions",
+          "anchorId": "instructions"
+        }
+      ]
+    },
+    {
+      "id": "c8a48f97-9040-4c9c-ab53-fb55b2c6a412",
+      "type": "collection_view",
+      "collectionId": "3489b432-56a3-441b-a5b5-d3218b5a7422",
+      "viewIds": [
+        "340e861b-b981-4c13-9713-2a3942d70c41",
+        "09397a78-0378-4626-a7b7-37a3a7b72af7",
+        "5bb16175-9509-4daa-9d77-749d94c2440a",
+        "5df37311-f94c-4a3e-8790-40c074db443a"
+      ],
+      "title": ""
+    },
+    {
+      "id": "d468f903-7648-47b9-afa7-85b5aada2925",
+      "type": "header",
+      "html": "🏠 Companies",
+      "anchorId": "companies"
+    },
+    {
+      "id": "f0abd633-cfc0-41dc-8745-b2fca00131c6",
+      "type": "callout",
+      "html": "It’s helpful to keep a list of all the studios you’re interested in working for, and frequently check their Careers page for any new job listings",
+      "icon": "💡",
+      "children": []
+    },
+    {
+      "id": "217fee47-a105-4900-a800-4409d74e04a5",
+      "type": "collection_view",
+      "collectionId": "5f8f81af-1b26-46a2-b328-d674bbff0edc",
+      "viewIds": [
+        "61362e78-d212-47b0-ab1f-2fa845899549"
+      ],
+      "title": ""
+    },
+    {
+      "id": "99a2927d-7af9-41ac-ab2c-e6c10235ae1f",
+      "type": "header",
+      "html": "👥 Contacts",
+      "anchorId": "contacts"
+    },
+    {
+      "id": "6c45e686-f9a8-4321-ac92-25df655b2477",
+      "type": "callout",
+      "html": "A database of all the people in the industry you know that could help you prepare for readiness in the job you’re looking for, such as <strong>recruiters</strong>, <strong>mentors</strong> or <strong>friends</strong> who work at companies you’re applying for.",
+      "icon": "💡",
+      "children": []
+    },
+    {
+      "id": "9bca2294-becc-4aec-846a-6f01a824269b",
+      "type": "collection_view",
+      "collectionId": "c37b732b-a4ee-4b1a-b2ec-f158da484fcf",
+      "viewIds": [
+        "1adcbc57-b4dc-41b3-bf1f-e6c046914b93"
+      ],
+      "title": ""
+    },
+    {
+      "id": "32b6da41-39f7-4c35-8098-41a6908b8686",
+      "type": "header",
+      "html": "🎪 Communities",
+      "anchorId": "communities"
+    },
+    {
+      "id": "0b9f63d9-b96e-478d-ac72-db94255e2e89",
+      "type": "callout",
+      "html": "Job opportunities are often shared directly to communities, here you can list out the communities you frequent for ease of reference.",
+      "icon": "💡",
+      "children": []
+    },
+    {
+      "id": "3fa088c2-819f-4c72-ad3a-d48994014f05",
+      "type": "collection_view",
+      "collectionId": "91286167-3382-4cf1-a6b7-866321a78cfa",
+      "viewIds": [
+        "708dbed5-18a1-44dd-9572-5f109b7c42b9"
+      ],
+      "title": ""
+    },
+    {
+      "id": "25d30796-3bfc-488a-ab77-b1eb5378bb98",
+      "type": "header",
+      "html": "🤔 Interview Questions",
+      "anchorId": "interview-questions"
+    },
+    {
+      "id": "6c48947e-a46b-4c75-9c36-d38d8df465cb",
+      "type": "callout",
+      "html": "Walking into interviews with well thought out questions can be incredibly helpful to showcase how your mind works with solving problems and to demonstrate areas of interest. The questions you ask in an interview are just as important as the questions you answer.<br><br>Add your own!",
+      "icon": "💡",
+      "children": []
+    },
+    {
+      "id": "3cef5c22-a850-4c65-8515-d6c1f86b73f5",
+      "type": "collection_view",
+      "collectionId": "17cabbc1-1b9e-4d4e-b281-24182ea8d8dc",
+      "viewIds": [
+        "1eca4cda-1581-4e70-ab34-1f39ecca18aa"
+      ],
+      "title": ""
+    },
+    {
+      "id": "13246e8f-e819-464e-92aa-10db104f7136",
+      "type": "header",
+      "html": "📖 Learning Resources",
+      "anchorId": "learning-resources"
+    },
+    {
+      "id": "f20b5ff7-d6b9-459d-9103-e46bb014a1e8",
+      "type": "callout",
+      "html": "Here you can list out any resources, articles, blogs, books, panels, TED / GDC talks or other resources that are helpful.",
+      "icon": "💡",
+      "children": []
+    },
+    {
+      "id": "03cc4fc3-b8d8-411d-a7ee-bd9b5b21c93e",
+      "type": "collection_view",
+      "collectionId": "cf0dab87-9f8d-4378-8dd5-aff82ff77355",
+      "viewIds": [
+        "596161c5-6528-4460-b6b1-fb332c419ce9"
+      ],
+      "title": ""
+    },
+    {
+      "id": "cfcbd721-413e-4fbe-83e0-df069d4e2366",
+      "type": "header",
+      "html": "🔭 Job Engines",
+      "anchorId": "job-engines"
+    },
+    {
+      "id": "c4ee9f53-45ac-417b-9401-665ff034beee",
+      "type": "callout",
+      "html": "This is a linked view of Game Dev LFW Resources showing popular game dev communities, frequently trafficked websites where new job postings are added daily, and other helpful resources.<br><br>There are different ‘tabs’ to this database, so click on them to switch around:",
+      "icon": "💡",
+      "children": [
+        {
+          "id": "5c62f932-f196-4f59-b826-34e828b548e9",
+          "type": "image",
+          "src": "./assets/images/screen-shot-2022-10-14-at-1-11-52-pm-648969f8af1d.webp",
+          "caption": "",
+          "alt": "Screen Shot 2022-10-14 at 1.11.52 PM.png"
+        }
+      ]
+    },
+    {
+      "id": "eadbf041-0e20-4e6a-b5fa-39cda79f81d6",
+      "type": "collection_view",
+      "collectionId": "06c3b0cf-2ef0-4531-a75c-4d2c1cbc3ded",
+      "viewIds": [
+        "e35b5100-49ae-44da-b4d2-18e67e70996d",
+        "6e8b53c3-6375-49f2-b1f6-3cda74d61270",
+        "9cec312d-c2aa-405f-a9e7-fbe92688ed1b",
+        "ea9a38b3-465b-4456-a199-d09119559c8d",
+        "29992dcd-1053-44a6-827a-c42552c49492"
+      ],
+      "title": ""
+    },
+    {
+      "id": "e7a90c01-db06-4f90-a090-3f59ed185ca2",
+      "type": "header",
+      "html": "Got a Job, Now what?",
+      "anchorId": "got-a-job-now-what"
+    },
+    {
+      "id": "256c157e-d012-4e1a-9989-f02521eec67b",
+      "type": "subsubheader",
+      "html": "New Hire at a Company",
+      "anchorId": "new-hire-at-a-company"
+    },
+    {
+      "id": "b2332301-b507-4c22-a320-5bc2c5e219a0",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

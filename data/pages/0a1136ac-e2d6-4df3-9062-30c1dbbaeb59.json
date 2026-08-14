@@ -1,0 +1,129 @@
+{
+  "id": "0a1136ac-e2d6-4df3-9062-30c1dbbaeb59",
+  "slug": "james-joyce",
+  "title": "James Joyce",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "168b4ff9-9835-46d8-acec-a0b44ae2427e",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/0a1136ace2d64df3906230c1dbbaeb59",
+  "createdTime": 1669827287099,
+  "lastEditedTime": 1681328956888,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "James Joyce"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-959143b5328f.webp",
+  "blocks": [
+    {
+      "id": "b765ac1c-7255-4fd0-b110-2cb098986ccb",
+      "type": "divider"
+    },
+    {
+      "id": "49a5f095-a61b-4b04-aa60-260a87de57e8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "feccb8e8-888c-48a7-b71f-f814b7559f40",
+      "type": "columns",
+      "children": [
+        {
+          "id": "19a99e08-2ccf-4d6d-87ee-b4ef6c245c62",
+          "type": "column",
+          "children": [
+            {
+              "id": "d6a1af43-3a76-4823-bbc2-de0da7b07578",
+              "type": "paragraph",
+              "html": "<strong>James Joyce  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) was"
+            },
+            {
+              "id": "d1c1b11b-aa3f-48b1-81f2-2c418fdfa00e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "341403ad-b435-448c-b18a-aa637960a73d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c38606ba-f2f6-46bb-9655-db9a75799777",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4b4b5e37-dd37-4260-8008-c7592e2fdd0c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c96aa4c7-f993-48de-8630-35ba803552d6",
+          "type": "column",
+          "children": [
+            {
+              "id": "278d29e6-e072-461f-8be9-1c24245e4b76",
+              "type": "image",
+              "src": "./assets/images/untitled-959143b5328f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72464c64-95fb-4dcb-9749-718d62593966",
+      "type": "divider"
+    },
+    {
+      "id": "8d48ad00-3f73-4302-9995-0cbc3c725ea5",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "7ba565a5-4fdc-4e69-b4aa-0e0885417756",
+      "type": "paragraph",
+      "html": "<a href=\"#/finnegans-wake\">Finnegans Wake</a> (<em>book</em>)"
+    },
+    {
+      "id": "bbd92bbf-1873-4e75-b393-a03e753080ad",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9c5741f4-328b-4d4b-85fa-dc8354fdffe8",
+      "type": "divider"
+    },
+    {
+      "id": "987f2594-cd54-4334-a90b-c14d2ae165ad",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "7b2cdba2-9de2-4f70-9aa5-c2527cd71fcc",
+      "type": "paragraph",
+      "html": "<a href=\"#/children-s-lore-in-finnegans-wake\">Children’s Lore in Finnegans Wake</a> (<em>book</em>)"
+    },
+    {
+      "id": "bb3a16ad-9d2f-48df-816c-f43ba84a5b81",
+      "type": "paragraph",
+      "html": "<a href=\"#/wordplay\">Wordplay</a> (<em><em><em><em><em><em><em>concept</em></em></em></em></em></em></em>)"
+    }
+  ]
+}

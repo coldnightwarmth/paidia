@@ -1,0 +1,131 @@
+{
+  "id": "f23f418d-278c-4416-9a37-ce2f33135781",
+  "slug": "the-digital-dialectic",
+  "title": "The Digital Dialectic",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Digital-Dialectic-f23f418d278c44169a37ce2f33135781?pvs=21",
+  "createdTime": 1651767039458,
+  "lastEditedTime": 1681314238155,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Digital Dialectic",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-66e9f4d0c30a.webp",
+  "blocks": [
+    {
+      "id": "4d4de2b5-7c35-43a5-849a-0edab151af2c",
+      "type": "divider"
+    },
+    {
+      "id": "450a8999-4e41-4ca4-952e-3b09a4817d24",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "86d2de55-1854-4092-8699-a69826a6a08a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8d38c51e-3729-43fa-913a-d69f03516af7",
+          "type": "column",
+          "children": [
+            {
+              "id": "517d0ada-36d7-47ac-a924-df0c72dab7ba",
+              "type": "paragraph",
+              "html": "<em><strong>The Digital Dialectic: New Essays on New Media</strong></em> is a collection of essay edited by Peter Lunenfeld, published by The MIT Press, April 9, 1999."
+            },
+            {
+              "id": "e12f28d4-1eea-4437-b86b-865e43fc9124",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a393412c-de92-41f2-a4d1-64aa92231e1f",
+              "type": "quote",
+              "html": "<em>Computers linked to networks have created the first broadly used systems that allow individuals to create, distribute, and receive audiovisual content with the same box. They challenge theorists of digital culture to develop interaction-based models to replace the more primitive models that allow only passive use. <br><br></em>The Digital Dialectic<em> is an interdisciplinary jam session about our visual and intellectual cultures as the computer recodes technologies, media, and art forms. Unlike purely academic texts on new media, the book includes contributions by scholars, artists, and entrepreneurs, who combine theoretical investigations with hands-on analysis of the possibilities (and limitations) of new technology. The key concept is the digital dialectic: a method to ground the insights of theory in the constraints of practice. The essays move beyond journalistic reportage and hype into serious but accessible discussion of new technologies, new media, and new cultural forms.</em>"
+            },
+            {
+              "id": "1cbb1832-4039-45e5-9016-a2a3d8a52df3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "64a524a4-76f1-461d-830f-255d4e02dcb3",
+          "type": "column",
+          "children": [
+            {
+              "id": "1ffc5ed8-9ed6-4513-9616-61af469e9717",
+              "type": "image",
+              "src": "./assets/images/untitled-66e9f4d0c30a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c663ba9-8d2f-4249-9d30-bf9afc400158",
+      "type": "divider"
+    },
+    {
+      "id": "ea24ee13-079d-481b-af98-55c32fb33de1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "80c5beaf-5fd7-4a2d-95ce-1c287e327052",
+          "type": "column",
+          "children": [
+            {
+              "id": "dfc95114-9ff3-4e50-847c-ccac183f9f9c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8694f878-d6ef-4923-9a66-9aa3d4b9f8c7",
+          "type": "column",
+          "children": [
+            {
+              "id": "7c19899e-df17-4c5e-b39c-3e40c5334817",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3tY7uZm\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "969776d3-686e-4bfa-9e87-67bec7f7783c",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "36e3f4cb-8159-4ee5-a4df-3583ba5105d4",
+  "slug": "video-games-and-storytelling",
+  "title": "Video Games & Storytelling",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Video-Games-Storytelling-36e3f4cb81594ee5a4df3583ba5105d4?pvs=21",
+  "createdTime": 1651975239035,
+  "lastEditedTime": 1681314143251,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Video Games & Storytelling",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ff4c903a7734.webp",
+  "blocks": [
+    {
+      "id": "e89eeea8-870c-40bd-9d8d-3cee6b383165",
+      "type": "divider"
+    },
+    {
+      "id": "7f128493-bea8-43af-b97c-52096a756d49",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6d90a3cd-5fb1-4f40-b37b-85b52b32cd3c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ba81c9a3-2d48-4594-b194-34ddbeebfb36",
+          "type": "column",
+          "children": [
+            {
+              "id": "67960c7c-45e5-4d7e-bca9-352c00ab0f71",
+              "type": "paragraph",
+              "html": "<em><strong>Video Games and Storytelling: Reading Games &amp; Playing Books</strong></em><strong> </strong>was written by Souvik Mukherjee, published by Palgrave Macmillan, September 15, 2015."
+            },
+            {
+              "id": "d49a7336-21c3-481c-b47d-fa0c9a2c967e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "fe950639-d5bb-406b-a1e9-ebfa8c6366a9",
+              "type": "quote",
+              "html": "<em>The potential of video games as storytelling media and the deep involvement that players feel when they are part of the story needs to be analysed vis-à-vis other narrative media. This book underscores the importance of video games as narratives and offers a framework for analysing the many-ended stories that often redefine real and virtual lives.</em>"
+            }
+          ]
+        },
+        {
+          "id": "4cb0f5d3-7c66-4396-9169-68b37d354d93",
+          "type": "column",
+          "children": [
+            {
+              "id": "cf8fc885-8b23-4829-8b54-0fc0409b9722",
+              "type": "image",
+              "src": "./assets/images/untitled-ff4c903a7734.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad68b3e5-9a22-41f6-ae24-18ed623f4195",
+      "type": "divider"
+    },
+    {
+      "id": "c0ae60f3-1a67-4b31-b1f4-3b06ce9afb31",
+      "type": "columns",
+      "children": [
+        {
+          "id": "251bf3ff-2608-457c-8c6b-cb37f214d137",
+          "type": "column",
+          "children": [
+            {
+              "id": "6e230ba4-4d2d-49f7-9ae2-24596bde7abf",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4a034b99-93b7-42c1-974d-779c174a7b46",
+          "type": "column",
+          "children": [
+            {
+              "id": "df68f25c-2946-4b7d-8971-866a11c95474",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3l6I0Ea\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34d28d7b-e8fe-463d-9df9-e4ea950cd248",
+      "type": "divider"
+    },
+    {
+      "id": "05940ac3-b0fc-4b57-a54a-ff10bacfaafd",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "055bcd00-d398-4d3a-8d73-7d78533238b7",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

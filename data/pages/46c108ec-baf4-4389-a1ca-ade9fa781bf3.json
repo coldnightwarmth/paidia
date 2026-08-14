@@ -1,0 +1,131 @@
+{
+  "id": "46c108ec-baf4-4389-a1ca-ade9fa781bf3",
+  "slug": "work-and-play-in-early-childhood",
+  "title": "Work & Play in Early Childhood",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Work-Play-in-Early-Childhood-46c108ecbaf44389a1caade9fa781bf3?pvs=21",
+  "createdTime": 1652721810998,
+  "lastEditedTime": 1681314062958,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Work & Play in Early Childhood",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f25368382318.webp",
+  "blocks": [
+    {
+      "id": "c8580faa-0144-45a0-9d2e-e3ccb0350ea8",
+      "type": "divider"
+    },
+    {
+      "id": "31ff11f8-a256-4233-8e80-53da6b800b5b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5db71850-d6d3-4a75-9559-e9e4fb6605ea",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6d81b883-f348-4e03-a31c-629d0afc99af",
+          "type": "column",
+          "children": [
+            {
+              "id": "b698b138-1dbc-46f2-a760-cf4b79f74c00",
+              "type": "paragraph",
+              "html": "<strong>Work &amp; Play in Early Childhood</strong> was written by Freya Jaffke, published by Floris Books, July 15, 1996."
+            },
+            {
+              "id": "be3c8604-113a-4f51-a3c5-627d8bb558d2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d93c01d5-3521-474f-8d35-07355edaea31",
+              "type": "quote",
+              "html": "<em>Rhythm and repetition, together with example and imitation, are pillars on which early learning is based. Freya Jaffke applies these simple principles in practical and sensible ways.<br><br>She describes children's play in a Steiner-Waldorf kindergarten setting, and provides tried and tested advice on this important stage of development.<br><br>This book includes sections on Planning the day; Festivals; Rhythms; Materials; Educating the Will; Imagination; Spontaneous and Planned Play; Example and imitation of adults; Stages of development; From crawling to contrariness; Work and play; Craft and handicraft; Creating a protective environment; Hyperactive and inactive children.</em>"
+            }
+          ]
+        },
+        {
+          "id": "756a7a59-65f6-4e26-9b7c-8758d43a3927",
+          "type": "column",
+          "children": [
+            {
+              "id": "5652df4d-7c92-4e74-8dcf-49c4641c4bb4",
+              "type": "image",
+              "src": "./assets/images/untitled-f25368382318.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "77395cfa-33d5-4103-a5de-8606bcfcaee0",
+      "type": "divider"
+    },
+    {
+      "id": "0e67b175-0e7b-4301-9d17-8d0ce559c17f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "61a49761-e856-4a07-89ea-90f2e38ffea7",
+          "type": "column",
+          "children": [
+            {
+              "id": "dfcd7ec3-9303-4ebf-8588-4c100df83e24",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2dfe628a-410b-4857-8142-a66a1b97ce91",
+          "type": "column",
+          "children": [
+            {
+              "id": "9c00a7af-3fb4-4130-8e24-be74e9704c12",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3MjdHWP\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9c3bb5ab-c940-4e63-9d1e-5e8f7dd7d34a",
+      "type": "divider"
+    },
+    {
+      "id": "56f97677-023c-461c-ba16-e8a05def8696",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

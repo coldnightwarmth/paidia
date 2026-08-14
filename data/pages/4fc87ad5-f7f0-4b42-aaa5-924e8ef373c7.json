@@ -1,0 +1,126 @@
+{
+  "id": "4fc87ad5-f7f0-4b42-aaa5-924e8ef373c7",
+  "slug": "children-at-play",
+  "title": "Children at Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Children-at-Play-4fc87ad5f7f04b42aaa5924e8ef373c7?pvs=21",
+  "createdTime": 1651862178415,
+  "lastEditedTime": 1681311495839,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Children at Play"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-35691d4afc8e.webp",
+  "blocks": [
+    {
+      "id": "2c2e067b-a135-4fec-b75b-4ed0e8f275e9",
+      "type": "divider"
+    },
+    {
+      "id": "7b81ee0b-9fc0-4907-b015-ab8a09ca5404",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d96c1386-a418-439e-8b3d-fb831e58cab1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6e130775-7b8c-429b-9b16-17b075fd203d",
+          "type": "column",
+          "children": [
+            {
+              "id": "0abd993e-13b2-4fd3-a6da-2552b44ff9ee",
+              "type": "paragraph",
+              "html": "<em><strong>Children at Play: An American History </strong></em>was written by Howard P. Chudacoff, published by NYU Press, September 1, 2008."
+            },
+            {
+              "id": "d68a64fc-25fc-420f-b64e-38fb9d57767a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "430513dc-6ebd-442e-92dd-0ca7df7762db",
+              "type": "quote",
+              "html": "<strong><em>A chronological history of children's playtime over the last 200 years.<br></em></strong><em><br>If you believe the experts, “child’s play”; is serious business. From sociologists to psychologists and from anthropologists to social critics, writers have produced mountains of books about the meaning and importance of play. But what do we know about how children actually play, especially American children of the last two centuries? In this fascinating and enlightening book, Howard Chudacoff presents a history of children’s play in the United States and ponders what it tells us about ourselves.<br><br>Through expert investigation in primary sources-including dozens of children's diaries, hundreds of autobiographical recollections of adults, and a wealth of child―rearing manuals―along with wide―ranging reading of the work of educators, journalists, market researchers, and scholars-Chudacoff digs into the “underground” of play. He contrasts the activities that genuinely occupied children's time with what adults thought children should be doing.<br><br>Filled with intriguing stories and revelatory insights, Children at Play provides a chronological history of play in the U.S. from the point of view of children themselves. Focusing on youngsters between the ages of about six and twelve, this is history “from the bottom up.” It highlights the transformations of play that have occurred over the last 200 years, paying attention not only to the activities of the cultural elite but to those of working-class men and women, to slaves, and to Native Americans. In addition, the author considers the findings, observations, and theories of numerous social scientists along with those of fellow historians.<br><br>Chudacoff concludes that children's ability to play independently has attenuated over time and that in our modern era this diminution has frequently had unfortunate consequences. By examining the activities of young people whom marketers today call “tweens,” he provides fresh historical depth to current discussions about topics like childhood obesity, delinquency, learning disability, and the many ways that children spend their time when adults aren’t looking.</em>"
+            },
+            {
+              "id": "b0613ae2-aef8-486e-acab-8771af44b473",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a5cbab1c-e67d-46ca-bab6-c0ccf347f788",
+          "type": "column",
+          "children": [
+            {
+              "id": "6598c56a-53bc-4a34-9b83-9de364573e8c",
+              "type": "image",
+              "src": "./assets/images/untitled-35691d4afc8e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c50a6520-5811-49fe-bcbf-7cfb8521d1e7",
+      "type": "divider"
+    },
+    {
+      "id": "f3714a81-fb36-491b-b48d-2ee7153569a4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "179c5c9d-cbb3-48c4-a977-1bbf134306af",
+          "type": "column",
+          "children": [
+            {
+              "id": "36fb50f0-a28b-46da-8751-ac7966f0e1fe",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "89b7fae8-10b6-45d2-a9bf-8b264eb16bba",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd484d3d-a06b-46d7-8cb8-6ed2328b3e54",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fxaibc\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb05b88b-da95-497b-b123-f8b146c27eb2",
+      "type": "divider"
+    }
+  ]
+}

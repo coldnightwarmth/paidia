@@ -1,0 +1,51 @@
+{
+  "id": "a94b3241-1d6d-4c86-ab3c-8c0d27f285b9",
+  "slug": "characters",
+  "title": "Characters",
+  "icon": "🧑🏽‍🤝‍🧑🏻",
+  "cover": "",
+  "type": "page",
+  "parentId": "01323835-74dd-4c2d-bff5-d14e3a90761c",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/a94b32411d6d4c86ab3c8c0d27f285b9",
+  "createdTime": 1645294446403,
+  "lastEditedTime": 1645294740000,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Characters"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "9d7909a5-2c2f-4232-85d7-c05dd763fcba",
+      "type": "paragraph",
+      "html": "Summary page of all the characters in the game."
+    },
+    {
+      "id": "1868f907-7406-4018-ad6c-16ad7749ba3a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1f255846-1baa-4feb-b573-b0b25497c583",
+      "type": "paragraph",
+      "html": "For example:"
+    },
+    {
+      "id": "cd7f5e8f-b3b8-4098-88a4-545ef923950b",
+      "type": "collection_view",
+      "collectionId": "8f8b44c0-dde2-4c2c-b13d-df4f296c07d0",
+      "viewIds": [
+        "fb3b7fef-37e4-4171-9a53-5b276a3b5ddd"
+      ],
+      "title": ""
+    }
+  ]
+}

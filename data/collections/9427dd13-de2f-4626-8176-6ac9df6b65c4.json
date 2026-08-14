@@ -1,0 +1,3390 @@
+{
+  "id": "9427dd13-de2f-4626-8176-6ac9df6b65c4",
+  "name": "Quotes",
+  "schema": {
+    "]a>f": {
+      "id": "]a>f",
+      "name": "By",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "8246d9fa-27b4-4723-a323-6ab1cdc57b2e",
+          "value": "Ernest Hemingway",
+          "color": "brown"
+        }
+      ]
+    },
+    "jSC:": {
+      "id": "jSC:",
+      "name": "From",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mm=~": {
+      "id": "mm=~",
+      "name": "Created time",
+      "type": "created_time",
+      "icon": "",
+      "default": null,
+      "dateFormat": "MM/DD/YYYY",
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Quote",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "297c4e76-1ba8-436f-a4ff-d07ed1adc452",
+      "collectionId": "9427dd13-de2f-4626-8176-6ac9df6b65c4",
+      "type": "gallery",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "4abc8097-d609-4f9c-8d52-de43bb276409",
+        "7d47b6f1-f0ae-4243-a2bf-7a361e657730",
+        "9429ffd3-3918-4efa-9d8c-e218185e03ee",
+        "75b6176f-c2c5-4af8-a06a-d95887a5fe81",
+        "0c3f7754-8db9-466f-8eaa-3db2d46dd01d",
+        "17975918-ba9b-4686-b83f-fd54f0441a18",
+        "69573c51-0a89-4739-898d-2b06c1592a88",
+        "e899b73b-ff8d-4dc2-8b49-9940e36b21ad",
+        "6cbc72ed-7cba-4fb9-acd6-f3eed6626d88",
+        "e37028e7-616a-4d21-b849-da8a80f3f199",
+        "ec52ffc4-d057-42c7-a185-62b9edde2200",
+        "49204801-044b-4c60-a10b-a908791ff8c7",
+        "5e7f2b90-36bf-40c5-96ee-025d689d1632",
+        "23cb7d09-89d3-4ec9-9ad3-28e050072e86",
+        "71fa37ac-324a-4c99-a601-7951524e8c76",
+        "a3970cb5-5e51-440e-925d-4202544d06c4",
+        "ba1e992d-22fd-4d48-85d8-d10de03df75d",
+        "6d68227b-71a3-4e38-af87-2b7f1b72e7dd",
+        "ac7873f9-8745-4a97-8021-44b675972e91",
+        "d31086fd-f519-41ec-b624-8b7a01d34369",
+        "d4608b60-c250-455f-9fa4-8f14999e8898",
+        "71c42875-853a-46f8-98a8-b213bae3fa5c",
+        "7bfb62e7-abf0-44b1-abf2-6347bef0505e",
+        "212c864c-d8b1-4df6-914e-b568d8a9467c",
+        "82a55241-30d3-489c-beca-04a37e334805",
+        "1f67f33a-d5aa-4e21-a82d-404a2e7442ad",
+        "2cd8cde1-4e6a-49fc-97a7-5d107d5e8479",
+        "86cb94aa-b896-434b-85aa-270eb90eec59",
+        "5aecdce8-b778-4391-9763-793d3dda4731",
+        "d6e61452-b7db-44ef-b923-b6f7970fb596",
+        "1219ec3e-0081-4dd8-96dd-9e8808a4ad99",
+        "9be8bcff-d219-4c80-a7d1-6a9950b1c47b",
+        "09412165-9c2d-4008-85b2-1860f618413a",
+        "ee884207-3c65-4ec5-a948-3ca8cf5a799a",
+        "d0744131-f374-4fbb-bade-deb5f074feb0",
+        "3b04f2e0-4285-48a6-be06-74940725b753",
+        "d598e91e-d90d-4df8-b175-55a9c3a86ef9",
+        "5cd8b618-90d3-4075-9e60-8587e952539b",
+        "db4ceeb0-28f4-4c97-a40b-ee5996d274ae",
+        "dd80a700-53c2-4fb5-9086-aa61d1765222",
+        "7e7e8e9b-1392-4ccc-a393-4f1065a2bd0c",
+        "43b98b57-dd08-4f85-82b6-26bca0bb8398",
+        "34a7b31d-04a7-4cd4-b3ee-47b6e7e8f3f5",
+        "709fad28-c6d2-433f-996d-25ec51a7702e",
+        "fafbc3f5-1f62-4817-bd2b-fbd6eee56534",
+        "be775231-8966-4df2-85f6-ef7a78ad75cc",
+        "56616507-ec3f-4ed1-9e55-cbe31e03412a",
+        "4096a839-9ecd-443e-a456-d7276d8afbf2",
+        "32febc15-09ec-4189-94d2-e4507e3c93cd",
+        "18b99753-c4b8-4f7d-949e-8aa8f2aef287",
+        "02da202e-1a70-4cda-8b3d-7f383e679426",
+        "3dbd83aa-0b5c-4c0a-853b-0f047ca49410",
+        "b53e51ec-d491-463f-b462-a57ea4b14431",
+        "a7bd1b5c-dee8-4fbf-a407-b0f7ec3050ab",
+        "c76a2325-49b5-4c0c-b452-db9b47cf698d",
+        "7ffb03c7-4cf2-422f-af4b-6f29818edd3d",
+        "37b540df-8fc2-463b-b540-9b434253d963",
+        "8edc8bf4-b614-4c21-a8be-782518eaffaa",
+        "66d18db5-b28c-4a17-bcd8-085e95cc3218",
+        "eea84c70-2321-45d6-8333-c5c9fcc1e315",
+        "47776060-5580-4e8e-9b3b-77a40c433435",
+        "34d782c2-369d-408a-9ae8-b12520e982f6",
+        "1c0523b0-3bdb-4bec-b777-7aa5c2b1516a",
+        "63bc1495-3ec2-45b4-a98f-2f2f7e3655b3",
+        "ce370746-414f-4f13-adfe-fee0b4d4f5c7",
+        "e1fa6ddb-2617-4d2c-969e-f638ee2754d7",
+        "6fc8f4f4-90f9-4ac9-a350-dfd50e038a46",
+        "59dd5c1a-db69-4220-98c7-89ad7264cfdd",
+        "4d4a6748-b374-4acc-af2e-371837b4cdf8",
+        "9bb87d50-763b-40b2-ad35-7b436ece9989",
+        "44b8710f-d457-4766-a34f-46c7a6fa34be",
+        "3e62cd4a-08f0-49b6-8688-3b78a31f7d09",
+        "9ae06411-2a49-42c9-a532-b4dcce4fcf94",
+        "c733f20f-0ca7-4383-bfc1-58c59863178e",
+        "417ce27e-3a0c-4d94-82e0-0d9afa421490",
+        "a787d51b-936b-48cf-a432-a68c8e598eba",
+        "64f5be90-c8f5-480b-8afb-1c963758ba9b",
+        "b0bfdba0-192c-487a-a16a-e83131137e29",
+        "acd52060-879d-4591-a127-80d9af505914",
+        "d920a8d0-9697-4b13-85d5-42a88ea552b4",
+        "e45407c0-16b7-453d-87d3-ab47da4404b8",
+        "fb46fb99-cead-41ac-8b22-36deb984193e",
+        "405f47a9-7c21-4517-8c0d-1300bb1a9cdf",
+        "a8e40e45-a246-4f52-bc75-cd9c743affb9",
+        "34df3c91-a29b-423e-b6cb-d3c98de7ea9b",
+        "442d3738-4e64-45b3-bd79-a477d4df5e6f",
+        "c6180fd1-ffd9-4e71-a40f-e01c7380e718",
+        "7ec6acf4-59da-46e5-9428-62f6a0951518",
+        "235f58fe-99ab-4da8-9c2b-852dcc89f04b",
+        "f64aadf6-a8f2-49f8-86fd-cd1991d55642",
+        "28cb60b3-a967-4ed1-b9ec-d33d473cca8e",
+        "eca97f81-7eb2-4e0d-9c95-e6381908acc7",
+        "28b5c145-3fbe-4df8-9a19-997de15ea2d2",
+        "cca373e9-c637-47a9-9b33-5964943eb755",
+        "be0b1d5e-8137-4efd-b711-431b21190459",
+        "9071ca58-82f2-40b1-9a5b-ebcaac783592",
+        "8c1e2ed9-873b-4b55-a348-720c746f7db4",
+        "59931ae0-4425-4d0e-afaf-0f89f9790ede",
+        "9e2e670d-812b-42a9-aa24-5fe92eb115f6",
+        "4b14c1b5-c8dc-4502-8ad5-fff6a8fe7e4d",
+        "05443ead-1015-4c3e-92df-278cd12354ec",
+        "3b059fdb-889f-496c-acab-1e7200bbafc5",
+        "a0b8159d-535a-452a-9f33-7db1b1465511",
+        "70c096b3-1266-4acf-b7b5-70baa3866abd",
+        "efeb3c70-35a4-4fb0-84f1-4f09bfd548f3",
+        "8989ceb9-18b1-462e-bb56-54385e833b0c",
+        "5a6aa2d8-121a-4924-be68-ed2d8ff30b8f",
+        "1fc61560-bdb3-4b51-9520-6fb9c6dc208e",
+        "6fce4f91-e11b-4762-a63f-e03610ba7f9a",
+        "c3686aee-2751-4b60-8ceb-5c206824c467",
+        "368cc547-cc41-4995-8828-e4d4837e4d41",
+        "c6a7b353-4c6f-4f35-a1ce-955893000429",
+        "b3103111-1b59-4ba1-8e30-73ccebde21d3",
+        "d8cab256-3f97-4c05-bb00-520558217d23",
+        "2d1dfd8c-7bcd-4734-acc4-3ec3174de3be",
+        "1d816903-0dab-47d7-b740-8973de45000c",
+        "43581e60-cfed-4e07-8b6a-558f9bce9961",
+        "6a0bc43e-8bd1-481e-8d47-9ffd43479f3c",
+        "c504d040-7b66-4ecd-9bf4-1ecde357e585"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "jSC:",
+          "visible": false,
+          "width": null
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "]a>f",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "955e81e5-d82c-4282-b426-8f8ffadc88fb",
+      "collectionId": "9427dd13-de2f-4626-8176-6ac9df6b65c4",
+      "type": "table",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "d598e91e-d90d-4df8-b175-55a9c3a86ef9",
+        "37b540df-8fc2-463b-b540-9b434253d963",
+        "a8e40e45-a246-4f52-bc75-cd9c743affb9",
+        "9e2e670d-812b-42a9-aa24-5fe92eb115f6",
+        "ce370746-414f-4f13-adfe-fee0b4d4f5c7",
+        "9071ca58-82f2-40b1-9a5b-ebcaac783592",
+        "9be8bcff-d219-4c80-a7d1-6a9950b1c47b",
+        "56616507-ec3f-4ed1-9e55-cbe31e03412a",
+        "417ce27e-3a0c-4d94-82e0-0d9afa421490",
+        "e1fa6ddb-2617-4d2c-969e-f638ee2754d7",
+        "8c1e2ed9-873b-4b55-a348-720c746f7db4",
+        "ba1e992d-22fd-4d48-85d8-d10de03df75d",
+        "1fc61560-bdb3-4b51-9520-6fb9c6dc208e",
+        "a0b8159d-535a-452a-9f33-7db1b1465511",
+        "acd52060-879d-4591-a127-80d9af505914",
+        "43b98b57-dd08-4f85-82b6-26bca0bb8398",
+        "0c3f7754-8db9-466f-8eaa-3db2d46dd01d",
+        "7e7e8e9b-1392-4ccc-a393-4f1065a2bd0c",
+        "05443ead-1015-4c3e-92df-278cd12354ec",
+        "c76a2325-49b5-4c0c-b452-db9b47cf698d",
+        "7ffb03c7-4cf2-422f-af4b-6f29818edd3d",
+        "f64aadf6-a8f2-49f8-86fd-cd1991d55642",
+        "2d1dfd8c-7bcd-4734-acc4-3ec3174de3be",
+        "5aecdce8-b778-4391-9763-793d3dda4731",
+        "7ec6acf4-59da-46e5-9428-62f6a0951518",
+        "be775231-8966-4df2-85f6-ef7a78ad75cc",
+        "02da202e-1a70-4cda-8b3d-7f383e679426",
+        "43581e60-cfed-4e07-8b6a-558f9bce9961",
+        "6fc8f4f4-90f9-4ac9-a350-dfd50e038a46",
+        "23cb7d09-89d3-4ec9-9ad3-28e050072e86",
+        "69573c51-0a89-4739-898d-2b06c1592a88",
+        "1c0523b0-3bdb-4bec-b777-7aa5c2b1516a",
+        "a787d51b-936b-48cf-a432-a68c8e598eba",
+        "c6a7b353-4c6f-4f35-a1ce-955893000429",
+        "9bb87d50-763b-40b2-ad35-7b436ece9989",
+        "368cc547-cc41-4995-8828-e4d4837e4d41",
+        "1219ec3e-0081-4dd8-96dd-9e8808a4ad99",
+        "6a0bc43e-8bd1-481e-8d47-9ffd43479f3c",
+        "4d4a6748-b374-4acc-af2e-371837b4cdf8",
+        "e45407c0-16b7-453d-87d3-ab47da4404b8",
+        "eca97f81-7eb2-4e0d-9c95-e6381908acc7",
+        "09412165-9c2d-4008-85b2-1860f618413a",
+        "eea84c70-2321-45d6-8333-c5c9fcc1e315",
+        "405f47a9-7c21-4517-8c0d-1300bb1a9cdf",
+        "59dd5c1a-db69-4220-98c7-89ad7264cfdd",
+        "cca373e9-c637-47a9-9b33-5964943eb755",
+        "71fa37ac-324a-4c99-a601-7951524e8c76",
+        "efeb3c70-35a4-4fb0-84f1-4f09bfd548f3",
+        "71c42875-853a-46f8-98a8-b213bae3fa5c",
+        "7d47b6f1-f0ae-4243-a2bf-7a361e657730",
+        "28b5c145-3fbe-4df8-9a19-997de15ea2d2",
+        "c6180fd1-ffd9-4e71-a40f-e01c7380e718",
+        "e899b73b-ff8d-4dc2-8b49-9940e36b21ad",
+        "86cb94aa-b896-434b-85aa-270eb90eec59",
+        "28cb60b3-a967-4ed1-b9ec-d33d473cca8e",
+        "2cd8cde1-4e6a-49fc-97a7-5d107d5e8479",
+        "709fad28-c6d2-433f-996d-25ec51a7702e",
+        "4b14c1b5-c8dc-4502-8ad5-fff6a8fe7e4d",
+        "66d18db5-b28c-4a17-bcd8-085e95cc3218",
+        "6fce4f91-e11b-4762-a63f-e03610ba7f9a",
+        "6cbc72ed-7cba-4fb9-acd6-f3eed6626d88",
+        "b53e51ec-d491-463f-b462-a57ea4b14431",
+        "4096a839-9ecd-443e-a456-d7276d8afbf2",
+        "b3103111-1b59-4ba1-8e30-73ccebde21d3",
+        "64f5be90-c8f5-480b-8afb-1c963758ba9b",
+        "d6e61452-b7db-44ef-b923-b6f7970fb596",
+        "17975918-ba9b-4686-b83f-fd54f0441a18",
+        "7bfb62e7-abf0-44b1-abf2-6347bef0505e",
+        "34d782c2-369d-408a-9ae8-b12520e982f6",
+        "47776060-5580-4e8e-9b3b-77a40c433435",
+        "44b8710f-d457-4766-a34f-46c7a6fa34be",
+        "34df3c91-a29b-423e-b6cb-d3c98de7ea9b",
+        "d31086fd-f519-41ec-b624-8b7a01d34369",
+        "a7bd1b5c-dee8-4fbf-a407-b0f7ec3050ab",
+        "d4608b60-c250-455f-9fa4-8f14999e8898",
+        "8edc8bf4-b614-4c21-a8be-782518eaffaa",
+        "59931ae0-4425-4d0e-afaf-0f89f9790ede",
+        "3dbd83aa-0b5c-4c0a-853b-0f047ca49410",
+        "c733f20f-0ca7-4383-bfc1-58c59863178e",
+        "be0b1d5e-8137-4efd-b711-431b21190459",
+        "49204801-044b-4c60-a10b-a908791ff8c7",
+        "5e7f2b90-36bf-40c5-96ee-025d689d1632",
+        "442d3738-4e64-45b3-bd79-a477d4df5e6f",
+        "3b04f2e0-4285-48a6-be06-74940725b753",
+        "5a6aa2d8-121a-4924-be68-ed2d8ff30b8f",
+        "ec52ffc4-d057-42c7-a185-62b9edde2200",
+        "82a55241-30d3-489c-beca-04a37e334805",
+        "ee884207-3c65-4ec5-a948-3ca8cf5a799a",
+        "63bc1495-3ec2-45b4-a98f-2f2f7e3655b3",
+        "1f67f33a-d5aa-4e21-a82d-404a2e7442ad",
+        "fb46fb99-cead-41ac-8b22-36deb984193e",
+        "ac7873f9-8745-4a97-8021-44b675972e91",
+        "d920a8d0-9697-4b13-85d5-42a88ea552b4",
+        "8989ceb9-18b1-462e-bb56-54385e833b0c",
+        "9429ffd3-3918-4efa-9d8c-e218185e03ee",
+        "34a7b31d-04a7-4cd4-b3ee-47b6e7e8f3f5",
+        "5cd8b618-90d3-4075-9e60-8587e952539b",
+        "70c096b3-1266-4acf-b7b5-70baa3866abd",
+        "3b059fdb-889f-496c-acab-1e7200bbafc5",
+        "e37028e7-616a-4d21-b849-da8a80f3f199",
+        "d0744131-f374-4fbb-bade-deb5f074feb0",
+        "dd80a700-53c2-4fb5-9086-aa61d1765222",
+        "32febc15-09ec-4189-94d2-e4507e3c93cd",
+        "6d68227b-71a3-4e38-af87-2b7f1b72e7dd",
+        "c3686aee-2751-4b60-8ceb-5c206824c467",
+        "db4ceeb0-28f4-4c97-a40b-ee5996d274ae",
+        "212c864c-d8b1-4df6-914e-b568d8a9467c",
+        "9ae06411-2a49-42c9-a532-b4dcce4fcf94",
+        "3e62cd4a-08f0-49b6-8688-3b78a31f7d09",
+        "235f58fe-99ab-4da8-9c2b-852dcc89f04b",
+        "d8cab256-3f97-4c05-bb00-520558217d23",
+        "75b6176f-c2c5-4af8-a06a-d95887a5fe81",
+        "1d816903-0dab-47d7-b740-8973de45000c",
+        "18b99753-c4b8-4f7d-949e-8aa8f2aef287",
+        "5322b81f-acde-4af0-a2b6-0e9a79fd8e55",
+        "ce12f3e6-3246-4ca2-8801-1d45ed5a8419"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 569
+        },
+        {
+          "property": "]a>f",
+          "visible": true,
+          "width": 200
+        },
+        {
+          "property": "jSC:",
+          "visible": true,
+          "width": 200
+        },
+        {
+          "property": "mm=~",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": [
+    {
+      "id": "4abc8097-d609-4f9c-8d52-de43bb276409",
+      "slug": "the-game-of-life-is-unique-in-that-we-often-forget-we-are-playing-a-game-we-take",
+      "title": "“The game of life is unique in that we often forget we are playing a game. We take it all too seriously and forget it is meant to be played for the sheer joy of it”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/4abc8097d6094f9c8d52de43bb276409",
+      "createdTime": 1680716738441,
+      "lastEditedTime": 1680716776119,
+      "properties": {
+        "]a>f": [
+          [
+            "~Alan Watts"
+          ]
+        ],
+        "title": [
+          [
+            "“The game of life is unique in that we often forget we are playing a game. We take it all too seriously and forget it is meant to be played for the sheer joy of it”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7d47b6f1-f0ae-4243-a2bf-7a361e657730",
+      "slug": "it-strikes-mick-that-imagining-ourselves-as-seen-from-some-superior-elevation-so",
+      "title": "“It strikes Mick that imagining ourselves as seen from some superior elevation, some projected and omniscient point of view, is probably as old as literature, old as civilization; Harryhausen’s Greek gods ar their fatalistic chessboard peering down through tattered cirrus. Perhaps modern scepticism and the consequent dieback of deities is what has made survaillance cameras necessary, to preseve a sense that our performances have the attention of invisible spectators now that God’s gone, to sustain the notion that our arbitrary acts are validated by unseen authorities sat at their screens or at unearthly gaming-tables, looking down upon the play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/7d47b6f1f0ae4243a2bf7a361e657730",
+      "createdTime": 1674074090264,
+      "lastEditedTime": 1675879153351,
+      "properties": {
+        "]a>f": [
+          [
+            "~Alan Moore"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Jerusalem"
+          ]
+        ],
+        "title": [
+          [
+            "“It strikes Mick that imagining ourselves as seen from some superior elevation, some projected and omniscient point of view, is probably as old as literature, old as civilization; Harryhausen’s Greek gods ar their fatalistic chessboard peering down through tattered cirrus. Perhaps modern scepticism and the consequent dieback of deities is what has made survaillance cameras necessary, to preseve a sense that our performances have the attention of invisible spectators now that God’s gone, to sustain the notion that our arbitrary acts are validated by unseen authorities sat at their screens or at unearthly gaming-tables, looking down upon the play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9429ffd3-3918-4efa-9d8c-e218185e03ee",
+      "slug": "this-is-the-real-secret-of-life-to-be-completely-engaged-with-what-you-are-doing",
+      "title": "“This is the real secret of life to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/9429ffd339184efa9d8ce218185e03ee",
+      "createdTime": 1666990500000,
+      "lastEditedTime": 1666990560000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Alan Watts"
+          ]
+        ],
+        "title": [
+          [
+            "“This is the real secret of life to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "75b6176f-c2c5-4af8-a06a-d95887a5fe81",
+      "slug": "you-have-to-learn-the-rules-of-the-game-and-then-you-have-to-play-better-than-an",
+      "title": "“You have to learn the rules of the game. And then you have to play better than anyone else.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/75b6176fc2c54af8a06ad95887a5fe81",
+      "createdTime": 1667849760000,
+      "lastEditedTime": 1667849820000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Albert Einstein"
+          ]
+        ],
+        "title": [
+          [
+            "“You have to learn the rules of the game. And then you have to play better than anyone else.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0c3f7754-8db9-466f-8eaa-3db2d46dd01d",
+      "slug": "combinatory-play-seems-to-be-the-essential-feature-in-productive-thought",
+      "title": "“Combinatory play seems to be the essential feature in productive thought.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/0c3f77548db9466f8eaa3db2d46dd01d",
+      "createdTime": 1667847960000,
+      "lastEditedTime": 1673991927402,
+      "properties": {
+        "]a>f": [
+          [
+            "~Albert Einstein"
+          ]
+        ],
+        "title": [
+          [
+            "“Combinatory play seems to be the essential feature in productive thought.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "17975918-ba9b-4686-b83f-fd54f0441a18",
+      "slug": "play-is-the-highest-form-of-research",
+      "title": "“Play is the highest form of research.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/17975918ba9b4686b83ffd54f0441a18",
+      "createdTime": 1666990500000,
+      "lastEditedTime": 1666990500000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Albert Einstein"
+          ]
+        ],
+        "title": [
+          [
+            "“Play is the highest form of research.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "69573c51-0a89-4739-898d-2b06c1592a88",
+      "slug": "god-has-intended-men-to-enjoy-themselves-with-many-games-games-bring-them-comfor",
+      "title": "“God has intended men to enjoy themselves with many games. [Games]… bring them comfort and dispel their boredom.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/69573c510a894739898d2b06c1592a88",
+      "createdTime": 1668717900000,
+      "lastEditedTime": 1668718020000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Alfonso X of Castile"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Libros de los Juegos",
+            [
+              [
+                "a",
+                "/989a02b918a543e1be3f350dece77630"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“God has intended men to enjoy themselves with many games. [Games]… bring them comfort and dispel their boredom.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e899b73b-ff8d-4dc2-8b49-9940e36b21ad",
+      "slug": "learn-at-first-concentration-without-effort-transform-work-into-play-make-every",
+      "title": "“Learn at first concentration without effort’ transform work into play; make every yoke that you have accepted easy and every burden that you carry light! - this counsel, or command, or even warning, however you wish to take it, is most serious; this is attested by its original source, namely the words of the Master Himself: ‘My yoke is easy, and my burden is light’ (Matthew xi, 30).”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/e899b73bff8d4dc28b499940e36b21ad",
+      "createdTime": 1667404980000,
+      "lastEditedTime": 1675878829688,
+      "properties": {
+        "]a>f": [
+          [
+            "~Anonymous (likely Valentin Tomberg)"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Meditations on the Tarot",
+            [
+              [
+                "a",
+                "/0ca47020cb8840758209125d90eb312e"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“Learn at first concentration without effort’ transform work into play; make every yoke that you have accepted easy and every burden that you carry light! - this counsel, or command, or even warning, however you wish to take it, is most serious; this is attested by its original source, namely the words of the Master Himself: ‘My yoke is easy, and my burden is light’ (Matthew xi, 30).”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6cbc72ed-7cba-4fb9-acd6-f3eed6626d88",
+      "slug": "originally-leisure-was-included-in-education-because-nature-herself-as-has-been",
+      "title": "“Originally, [leisure] was included in education, because nature herself, as has been ofen said, requires that we should be able, not only to work well, but to use leisure well.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/6cbc72ed7cba4fb9acd6f3eed6626d88",
+      "createdTime": 1674087542381,
+      "lastEditedTime": 1674087622020,
+      "properties": {
+        "]a>f": [
+          [
+            "~Aristotle"
+          ]
+        ],
+        "title": [
+          [
+            "“Originally, [leisure] was included in education, because nature herself, as has been ofen said, requires that we should be able, not only to work well, but to use leisure well.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e37028e7-616a-4d21-b849-da8a80f3f199",
+      "slug": "videogames-reconfigure-the-body-around-a-method-of-input-and-they-are-experience",
+      "title": "“Videogames reconfigure the body [around a method of input], and they are experienced through this reconfigured body… Videogames attune players… [they] don’t just train their players but prime them to affectively orient themselves to the videogame in a particular way.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/e37028e7616a4d21b849da8a80f3f199",
+      "createdTime": 1667404740000,
+      "lastEditedTime": 1675878924016,
+      "properties": {
+        "]a>f": [
+          [
+            "~Brendan Keogh"
+          ]
+        ],
+        "jSC:": [
+          [
+            "A Play of Bodies",
+            [
+              [
+                "a",
+                "/eb1a767513004c2a988388b5aceb6094"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“Videogames reconfigure the body [around a method of input], and they are experienced through this reconfigured body… Videogames attune players… [they] don’t just train their players but prime them to affectively orient themselves to the videogame in a particular way.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ec52ffc4-d057-42c7-a185-62b9edde2200",
+      "slug": "the-opposite-of-play-is-not-work-it-s-depression",
+      "title": "“The opposite of play is not work. It’s depression.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/ec52ffc4d05742c7a18562b9edde2200",
+      "createdTime": 1667848200000,
+      "lastEditedTime": 1667848200000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Brian Sutton-Smith"
+          ]
+        ],
+        "title": [
+          [
+            "“The opposite of play is not work. It’s depression.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "49204801-044b-4c60-a10b-a908791ff8c7",
+      "slug": "the-creation-of-something-new-is-not-accomplished-by-the-intellect-but-by-the-pl",
+      "title": "“The creation of something new is not accomplished by the intellect but by the play instinct acting from inner necessity. The creative mind plays with the objects it loves.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/49204801044b4c60a10ba908791ff8c7",
+      "createdTime": 1666989840000,
+      "lastEditedTime": 1667405760000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Carl Jung"
+          ]
+        ],
+        "title": [
+          [
+            "“The creation of something new is not accomplished by the intellect but by the play instinct acting from inner necessity. The creative mind plays with the objects it loves.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5e7f2b90-36bf-40c5-96ee-025d689d1632",
+      "slug": "the-debt-we-owe-to-the-play-of-the-imagination-is-incalculable",
+      "title": "“The debt we owe to the play of the imagination is incalculable.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/5e7f2b9036bf40c596ee025d689d1632",
+      "createdTime": 1666991700000,
+      "lastEditedTime": 1666991700000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Carl Jung"
+          ]
+        ],
+        "title": [
+          [
+            "“The debt we owe to the play of the imagination is incalculable.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "23cb7d09-89d3-4ec9-9ad3-28e050072e86",
+      "slug": "games-are-thus-the-most-ancient-and-time-honored-vehicle-for-education-we-don-t",
+      "title": "“Games are thus the most ancient and time-honored vehicle for education… We don’t see mother lions lecturing cubs at the chalkboard... In light of this, the question, ‘Can games have educational value?’ becomes absurd. It is not games but schools that are the newfangled notion, the untested fad, the violator of tradition.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/23cb7d0989d34ec99ad328e050072e86",
+      "createdTime": 1667851260000,
+      "lastEditedTime": 1667853300000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Chris Bateman"
+          ]
+        ],
+        "title": [
+          [
+            "“Games are thus the most ancient and time-honored vehicle for education… We don’t see mother lions lecturing cubs at the chalkboard... In light of this, the question, ‘Can games have educational value?’ becomes absurd. It is not games but schools that are the newfangled notion, the untested fad, the violator of tradition.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "71fa37ac-324a-4c99-a601-7951524e8c76",
+      "slug": "it-is-better-to-play-than-do-nothing",
+      "title": "“It is better to play than do nothing.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/71fa37ac324a4c99a6017951524e8c76",
+      "createdTime": 1666989840000,
+      "lastEditedTime": 1666992600000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Confucius"
+          ]
+        ],
+        "title": [
+          [
+            "“It is better to play than do nothing.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a3970cb5-5e51-440e-925d-4202544d06c4",
+      "slug": "men-are-born-for-games-nothing-else-every-child-knows-that-play-is-nobler-than-w",
+      "title": "“Men are born for games. Nothing else. Every child knows that play is nobler than work. He knows too that the worth or merit of a game is not inherent in the game itself but rather in the value of that which is put at hazard. Games of chance require a wager to have meaning at all. Games of sport involve the skill and strength of the opponents and the humiliation of defeat and the pride of victory are in themselves sufficient stake because they inhere in the worth of the principals and define them. But trial of chance or trial of worth all games aspire to the condition of war for here that which is wagered swallows up game, player, all.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/a3970cb55e51440e925d4202544d06c4",
+      "createdTime": 1676254762151,
+      "lastEditedTime": 1683745645526,
+      "properties": {
+        "]a>f": [
+          [
+            "~Cormac McCarthy"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Blood Meridian"
+          ]
+        ],
+        "title": [
+          [
+            "“"
+          ],
+          [
+            "Men are born for games. Nothing else. Every child knows that play is nobler than work. He knows too that the worth or merit of a game is not inherent in the game itself but rather in the value of that which is put at hazard. Games of chance require a wager to have meaning at all. Games of sport involve the skill and strength of the opponents and the humiliation of defeat and the pride of victory are in themselves sufficient stake because they inhere in the worth of the principals and define them. But trial of chance or trial of worth all games aspire to the condition of war for here that which is wagered swallows up game, player, all.”",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6d68227b-71a3-4e38-af87-2b7f1b72e7dd",
+      "slug": "what-would-happen-if-we-proceeded-from-the-reverse-perspective-and-agreed-to-tre",
+      "title": "“What would happen if we proceeded from the reverse perspective and agreed to treat play not as some peculiar anomaly, but as our starting point, a principle already present not just in lobsters and indeed all living creatures, but also on every level where we find what physicists, chemists, and biologists refer to as ‘self-organizing systems’?”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/6d68227b71a34e38af872b7f1b72e7dd",
+      "createdTime": 1670002680000,
+      "lastEditedTime": 1675878933963,
+      "properties": {
+        "]a>f": [
+          [
+            "~David Graeber"
+          ]
+        ],
+        "jSC:": [
+          [
+            "What’s The Point If We Can’t have Fun?",
+            [
+              [
+                "a",
+                "/fc7a46b8a6fb4053a88bdf14cc54b598"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“What would happen if we proceeded from the reverse perspective and agreed to treat play not as some peculiar anomaly, but as our starting point, a principle already present not just in lobsters and indeed all living creatures, but also on every level where we find what physicists, chemists, and biologists refer to as ‘self-organizing systems’?”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ac7873f9-8745-4a97-8021-44b675972e91",
+      "slug": "there-are-some-obcscurities-secrets-which-cannot-be-named-only-played-these-are",
+      "title": "“There are some obcscurities, secrets, which cannot be named, only played. These are the Ideas, or activities.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/ac7873f987454a97802144b675972e91",
+      "createdTime": 1668002340000,
+      "lastEditedTime": 1675878914432,
+      "properties": {
+        "]a>f": [
+          [
+            "~David Kanaga"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Structure & Alchemy in New Fractal Playspaces p. 21-22"
+          ]
+        ],
+        "title": [
+          [
+            "“There are some obcscurities, secrets, which cannot be named, only played. These are the Ideas, or activities.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d31086fd-f519-41ec-b624-8b7a01d34369",
+      "slug": "psuedoscience-will-need-to-be-embraced-but-not-others-i-believe-it-s-possible-th",
+      "title": "“Psuedoscience will need to be embraced. But not others’— 𝘺𝘰𝘶𝘳 𝘰𝘸𝘯… I believe it’s possible that a properly useful theory of play & videogames requires the composition of a ‘Third Culture’ as a dissolving agent/medium between the Two Cultures… one which will naturally offend science and humanities both (offending the science by being psuedoscientific; offending the humanities by dissolving all works of art (objects, artists)).”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/d31086fdf51941ecb6248b7a01d34369",
+      "createdTime": 1667841120000,
+      "lastEditedTime": 1675878866642,
+      "properties": {
+        "]a>f": [
+          [
+            "~David Kanaga"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Notes on Eric Zimmerman’s Manifesto for a Ludic Century",
+            [
+              [
+                "a",
+                "/98e915ab6e5c4a749836d79fbdcc5030"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“Psuedoscience will need to be embraced. But not others’— 𝘺𝘰𝘶𝘳 𝘰𝘸𝘯… I believe it’s possible that a properly useful theory of play & videogames requires the composition of a ‘Third Culture’ as a dissolving agent/medium between the Two Cultures… one which will naturally offend science and humanities both (offending the science by being psuedoscientific; offending the humanities by dissolving all works of art (objects, artists)).”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d4608b60-c250-455f-9fa4-8f14999e8898",
+      "slug": "so-in-all-these-spheres-in-painting-sculpture-drawing-music-singing-dancing-gymn",
+      "title": "“So, in all these spheres—in painting, sculpture, drawing, music, singing, dancing, gymnastics, games, sports, writing, and speech—we can carry on to our heart’s content, all through our long lives, complex and specialized forms of exploration and experiment.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/d4608b60c250455f9fa48f14999e8898",
+      "createdTime": 1666992000000,
+      "lastEditedTime": 1666992780000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Desmond Morris"
+          ]
+        ],
+        "title": [
+          [
+            "“So, in all these spheres—in painting, sculpture, drawing, music, singing, dancing, gymnastics, games, sports, writing, and speech—we can carry on to our heart’s content, all through our long lives, complex and specialized forms of exploration and experiment.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "71c42875-853a-46f8-98a8-b213bae3fa5c",
+      "slug": "it-is-only-in-playing-that-the-individual-is-able-to-be-creative-and-to-use-the",
+      "title": "“It is only in playing that the individual is able to be creative and to use the whole personality, and it is only in being creative that the individual discovers the self.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/71c42875853a46f898a8b213bae3fa5c",
+      "createdTime": 1666990200000,
+      "lastEditedTime": 1667404140000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Donald Winnicott"
+          ]
+        ],
+        "title": [
+          [
+            "“It is only in playing that the individual is able to be creative and to use the whole personality, and it is only in being creative that the individual discovers the self.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7bfb62e7-abf0-44b1-abf2-6347bef0505e",
+      "slug": "play-is-the-mediator-of-the-invisible-and-visible",
+      "title": "“Play is the mediator of the invisible and visible.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/7bfb62e7abf044b1abf26347bef0505e",
+      "createdTime": 1666991400000,
+      "lastEditedTime": 1666991400000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Dora M. Kalff"
+          ]
+        ],
+        "title": [
+          [
+            "“Play is the mediator of the invisible and visible.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "212c864c-d8b1-4df6-914e-b568d8a9467c",
+      "slug": "wisdom-god-s-playmate-the-feminine-principle-of-the-godhead-is-at-work-ever-deli",
+      "title": "“Wisdom, God’s Playmate, the Feminine Principle of the Godhead- is at work- ever delighting in birthing new possibilities and inviting open hearts to rise up and respond to visions and dreams by enfleshing them.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/212c864cd8b14df6914eb568d8a9467c",
+      "createdTime": 1667404620000,
+      "lastEditedTime": 1667404740000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Edwina Gateley"
+          ]
+        ],
+        "title": [
+          [
+            "“Wisdom, God’s Playmate, the Feminine Principle of the Godhead- is at work- ever delighting in birthing new possibilities and inviting open hearts to rise up and respond to visions and dreams by enfleshing them.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "82a55241-30d3-489c-beca-04a37e334805",
+      "slug": "the-playing-adult-steps-sideward-into-another-reality-the-playing-child-advances",
+      "title": "“The playing adult steps sideward into another reality; the playing child advances forward to new stages of mastery.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/82a5524130d3489cbeca04a37e334805",
+      "createdTime": 1666991880000,
+      "lastEditedTime": 1666991940000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Erik H. Erikson"
+          ]
+        ],
+        "title": [
+          [
+            "“The playing adult steps sideward into another reality; the playing child advances forward to new stages of mastery.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1f67f33a-d5aa-4e21-a82d-404a2e7442ad",
+      "slug": "there-are-only-three-sports-bullfighting-motor-racing-and-mountaineering-all-the",
+      "title": "“There are only three sports: bullfighting, motor racing, and mountaineering; all the rest are merely games.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/1f67f33ad5aa4e21a82d404a2e7442ad",
+      "createdTime": 1666890222565,
+      "lastEditedTime": 1666992540000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Ernest Hemingway"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Possible misattribution"
+          ]
+        ],
+        "title": [
+          [
+            "“There are only three sports: bullfighting, motor racing, and mountaineering; all the rest are merely games.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2cd8cde1-4e6a-49fc-97a7-5d107d5e8479",
+      "slug": "life-to-me-is-the-greatest-of-all-games-the-danger-lies-in-treating-it-as-a-triv",
+      "title": "“Life to me is the greatest of all games. The danger lies in treating it as a trivial game, to be taken lightly, and a game in which the rules don’t matter much. The rules matter a great deal. The game has to be played fairly or it is no game at all. And even to the game is not the chief end. The chief end is to win it honorably and splendidly.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/2cd8cde14e6a49fc97a75d107d5e8479",
+      "createdTime": 1667850480000,
+      "lastEditedTime": 1673991933930,
+      "properties": {
+        "]a>f": [
+          [
+            "~Ernest Shackleton"
+          ]
+        ],
+        "title": [
+          [
+            "“Life to me is the greatest of all games. The danger lies in treating it as a trivial game, to be taken lightly, and a game in which the rules don’t matter much. The rules matter a great deal. The game has to be played fairly or it is no game at all. And even to the game is not the chief end. The chief end is to win it honorably and splendidly.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "86cb94aa-b896-434b-85aa-270eb90eec59",
+      "slug": "leisure-and-philosophy-go-hand-in-hand-in-that-they-both-have-what-we-call-the-g",
+      "title": "“Leisure and philosophy go hand in hand, in that they both have what we call ‘the good life’ in mind & that is what they both set out to accomplish… While philosophy is the contemplative part of the good life, leisure is the good life in action.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/86cb94aab896434b85aa270eb90eec59",
+      "createdTime": 1674078195115,
+      "lastEditedTime": 1675878841973,
+      "properties": {
+        "]a>f": [
+          [
+            "~Four Fourths"
+          ]
+        ],
+        "jSC:": [
+          [
+            "The Art of Leisure",
+            [
+              [
+                "a",
+                "/4031f4ccd8ef4d40bd1917133b291318"
+              ]
+            ]
+          ],
+          [
+            ", p. 3"
+          ]
+        ],
+        "title": [
+          [
+            "“Leisure and philosophy go hand in hand, in that they both have what we call ‘the good life’ in mind & that is what they both set out to accomplish… While philosophy is the contemplative part of the good life, leisure is the good life in action.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5aecdce8-b778-4391-9763-793d3dda4731",
+      "slug": "for-of-the-knowledges-which-contemplate-the-works-of-nature-the-holy-philosopher",
+      "title": "“For of the knowledges which contemplate the works of Nature, the holy Philosopher hath said expressly; that the glory of God is to conceal a thing, but the glory of the King is to find it out: as if the Divine Nature, according to the innocent and sweet play of children… took delight to hide his works, to the end they might be found out; and of his indulgence and goodness to mankind, had chosen the Soule of man to be his Play-fellow in this game.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/5aecdce8b77843919763793d3dda4731",
+      "createdTime": 1666992420000,
+      "lastEditedTime": 1675878746693,
+      "properties": {
+        "]a>f": [
+          [
+            "~Francis Bacon"
+          ]
+        ],
+        "jSC:": [
+          [
+            "preface to the "
+          ],
+          [
+            "Advancement of Learning",
+            [
+              [
+                "i"
+              ]
+            ]
+          ],
+          [
+            " (1640)"
+          ]
+        ],
+        "title": [
+          [
+            "“For of the knowledges which contemplate the works of Nature, the holy Philosopher hath said expressly; that the glory of God is to conceal a thing, but the glory of the King is to find it out: as if the Divine Nature, according to the innocent and sweet play of children… took delight to hide his works, to the end they might be found out; and of his indulgence and goodness to mankind, had chosen the Soule of man to be his Play-fellow in this game.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d6e61452-b7db-44ef-b923-b6f7970fb596",
+      "slug": "play-is-the-highest-expression-of-human-development-in-childhood-for-it-alone-is",
+      "title": "“Play is the highest expression of human development in childhood, for it alone is the free expression of what is in a child’s soul.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/d6e61452b7db44efb923b6f7970fb596",
+      "createdTime": 1667849160000,
+      "lastEditedTime": 1667849160000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Friedrich Froebel"
+          ]
+        ],
+        "title": [
+          [
+            "“Play is the highest expression of human development in childhood, for it alone is the free expression of what is in a child’s soul.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1219ec3e-0081-4dd8-96dd-9e8808a4ad99",
+      "slug": "i-do-not-know-any-other-way-of-associating-with-great-tasks-than-as-a-sign-of-gr",
+      "title": "“I do not know any other way of associating with great tasks than 𝘱𝘭𝘢𝘺; as a sign of greatness, it is and essential presupposition.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/1219ec3e00814dd896dd9e8808a4ad99",
+      "createdTime": 1667573280000,
+      "lastEditedTime": 1667573340000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Friedrich Nietzche"
+          ]
+        ],
+        "title": [
+          [
+            "“I do not know any other way of associating with great tasks than 𝘱𝘭𝘢𝘺; as a sign of greatness, it is and essential presupposition.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9be8bcff-d219-4c80-a7d1-6a9950b1c47b",
+      "slug": "a-person-s-maturity-consists-in-having-found-again-the-seriousness-one-had-as-a",
+      "title": "“A person's maturity consists in having found again the seriousness one had as a child, at play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/9be8bcffd2194c80a7d16a9950b1c47b",
+      "createdTime": 1666990140000,
+      "lastEditedTime": 1668718020000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Friedrich Nietzsche"
+          ]
+        ],
+        "title": [
+          [
+            "“A person's maturity consists in having found again the seriousness one had as a child, at play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "09412165-9c2d-4008-85b2-1860f618413a",
+      "slug": "in-every-real-man-a-child-is-hidden-that-wants-to-play",
+      "title": "“In every real man a child is hidden that wants to play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/094121659c2d400885b21860f618413a",
+      "createdTime": 1666990080000,
+      "lastEditedTime": 1667404140000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Friedrich Nietzsche"
+          ]
+        ],
+        "title": [
+          [
+            "“In every real man a child is hidden that wants to play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ee884207-3c65-4ec5-a948-3ca8cf5a799a",
+      "slug": "the-true-object-of-all-human-life-is-play-earth-is-a-task-garden-heaven-is-a-pla",
+      "title": "“The true object of all human life is play. Earth is a task garden; heaven is a playground.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/ee8842073c654ec5a9483ca8cf5a799a",
+      "createdTime": 1666990020000,
+      "lastEditedTime": 1666992540000,
+      "properties": {
+        "]a>f": [
+          [
+            "~G.K. Chesterton"
+          ]
+        ],
+        "title": [
+          [
+            "“The true object of all human life is play. Earth is a task garden; heaven is a playground.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d0744131-f374-4fbb-bade-deb5f074feb0",
+      "slug": "we-don-t-stop-playing-because-we-grow-old-we-grow-old-because-we-stop-playing",
+      "title": "“We don't stop playing because we grow old; we grow old because we stop playing.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/d0744131f3744fbbbadedeb5f074feb0",
+      "createdTime": 1666990260000,
+      "lastEditedTime": 1666990320000,
+      "properties": {
+        "]a>f": [
+          [
+            "~George Bernard Shaw"
+          ]
+        ],
+        "title": [
+          [
+            "“We don't stop playing because we grow old; we grow old because we stop playing.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3b04f2e0-4285-48a6-be06-74940725b753",
+      "slug": "the-game-has-logic-so-that-there-is-a-definite-end-to-be-obtained-the-actions-of",
+      "title": "“The game has logic, so that there is a definite end to be obtained; the actions of the different individuals are all related to each other with reference to that end… so that they further the purpose of the game itself. They are interrelated in a unitary, organic fashion.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/3b04f2e0428548a6be0674940725b753",
+      "createdTime": 1668719040000,
+      "lastEditedTime": 1669150800000,
+      "properties": {
+        "]a>f": [
+          [
+            "~George H. Mead"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Play, the Game, & the Generalized Other, Mind, Self, & Society"
+          ]
+        ],
+        "title": [
+          [
+            "“The game has logic, so that there is a definite end to be obtained; the actions of the different individuals are all related to each other with reference to that end… so that they further the purpose of the game itself. They are interrelated in a unitary, organic fashion.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d598e91e-d90d-4df8-b175-55a9c3a86ef9",
+      "slug": "everest-s-summit-s-existence-is-a-challenge-the-answer-is-instinctive-a-part-i-s",
+      "title": "“[Everest’s summit’]s existence is a challenge. The answer is instinctive; a part, I suppose, of man’s desire to conquer the universe.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/d598e91ed90d4df8b17555a9c3a86ef9",
+      "createdTime": 1667935560000,
+      "lastEditedTime": 1667935740000,
+      "properties": {
+        "]a>f": [
+          [
+            "~George Mallory"
+          ]
+        ],
+        "title": [
+          [
+            "“[Everest’s summit’]s existence is a challenge. The answer is instinctive; a part, I suppose, of man’s desire to conquer the universe.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5cd8b618-90d3-4075-9e60-8587e952539b",
+      "slug": "to-the-art-of-working-well-a-civilized-race-would-add-the-art-of-playing-well",
+      "title": "“To the art of working well a civilized race would add the art of playing well.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/5cd8b61890d340759e608587e952539b",
+      "createdTime": 1666991520000,
+      "lastEditedTime": 1666991520000,
+      "properties": {
+        "]a>f": [
+          [
+            "~George Santayana"
+          ]
+        ],
+        "title": [
+          [
+            "“To the art of working well a civilized race would add the art of playing well.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "db4ceeb0-28f4-4c97-a40b-ee5996d274ae",
+      "slug": "whoever-wants-to-understand-much-must-play-much",
+      "title": "“Whoever wants to understand much must play much.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/db4ceeb028f44c97a40bee5996d274ae",
+      "createdTime": 1667849100000,
+      "lastEditedTime": 1667849100000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Gottfried Benn"
+          ]
+        ],
+        "title": [
+          [
+            "“Whoever wants to understand much must play much.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "dd80a700-53c2-4fb5-9086-aa61d1765222",
+      "slug": "we-shouldn-t-stick-too-close-to-everyday-reality-but-give-room-to-the-reality-of",
+      "title": "“We shouldn’t stick too close to everyday reality but give room to the reality of the heart, of the mind, and of the imagination. Those things can help us in life.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/dd80a70053c24fb59086aa61d1765222",
+      "createdTime": 1666992060000,
+      "lastEditedTime": 1666992060000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Hayao Miyazaki"
+          ]
+        ],
+        "title": [
+          [
+            "“We shouldn’t stick too close to everyday reality but give room to the reality of the heart, of the mind, and of the imagination. Those things can help us in life.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7e7e8e9b-1392-4ccc-a393-4f1065a2bd0c",
+      "slug": "creative-people-are-curious-flexible-persistent-and-independent-with-a-tremendou",
+      "title": "“Creative people are curious, flexible, persistent, and independent with a tremendous spirit of adventure and a love of play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/7e7e8e9b13924ccca3934f1065a2bd0c",
+      "createdTime": 1666991640000,
+      "lastEditedTime": 1666991640000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Henri Matisse"
+          ]
+        ],
+        "title": [
+          [
+            "“Creative people are curious, flexible, persistent, and independent with a tremendous spirit of adventure and a love of play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "43b98b57-dd08-4f85-82b6-26bca0bb8398",
+      "slug": "children-who-play-life-discern-its-true-law-and-relations-more-clearly-than-men",
+      "title": "“Children, who play life, discern its true law and relations more clearly than men, who fail to live it worthily, but who think that they are wiser by experience, that is, by failure.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/43b98b57dd084f8582b626bca0bb8398",
+      "createdTime": 1666990320000,
+      "lastEditedTime": 1666990380000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Henry David Thoreau"
+          ]
+        ],
+        "title": [
+          [
+            "“Children, who play life, discern its true law and relations more clearly than men, who fail to live it worthily, but who think that they are wiser by experience, that is, by failure.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "34a7b31d-04a7-4cd4-b3ee-47b6e7e8f3f5",
+      "slug": "time-is-a-game-played-beautifully-by-children",
+      "title": "“Time is a game played beautifully by children.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/34a7b31d04a74cd4b3ee47b6e7e8f3f5",
+      "createdTime": 1667849280000,
+      "lastEditedTime": 1667849280000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Heraclitus"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Fragments"
+          ]
+        ],
+        "title": [
+          [
+            "“Time is a game played beautifully by children.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "709fad28-c6d2-433f-996d-25ec51a7702e",
+      "slug": "man-is-most-nearly-himself-when-he-achieves-the-seriousness-of-a-child-at-play",
+      "title": "“Man is most nearly himself when he achieves the seriousness of a child at play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/709fad28c6d2433f996d25ec51a7702e",
+      "createdTime": 1666990320000,
+      "lastEditedTime": 1666990320000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Heraclitus"
+          ]
+        ],
+        "title": [
+          [
+            "“Man is most nearly himself when he achieves the seriousness of a child at play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fafbc3f5-1f62-4817-bd2b-fbd6eee56534",
+      "slug": "the-aeon-is-a-child-at-play-playing-draughts-the-kingship-is-a-child-s",
+      "title": "“The Aeon is a child at play, playing draughts; the kingship is a child's.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/fafbc3f51f624817bd2bfbd6eee56534",
+      "createdTime": 1682304338151,
+      "lastEditedTime": 1682304375173,
+      "properties": {
+        "]a>f": [
+          [
+            "~Heraclitus"
+          ]
+        ],
+        "title": [
+          [
+            "“The Aeon is a child at play, playing draughts; the kingship is a child's.”",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "be775231-8966-4df2-85f6-ef7a78ad75cc",
+      "slug": "game-creation-keeps-on-expanding-just-like-the-universe-that-is-why-i-keep-makin",
+      "title": "“Game creation keeps on expanding, just like the Universe. That is why I keep making games.",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/be77523189664df285f6ef7a78ad75cc",
+      "createdTime": 1667850720000,
+      "lastEditedTime": 1668718020000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Hideo Kojima"
+          ]
+        ],
+        "title": [
+          [
+            "“Game creation keeps on expanding, just like the Universe. That is why I keep making games."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "56616507-ec3f-4ed1-9e55-cbe31e03412a",
+      "slug": "all-play-just-as-much-as-every-task-we-set-ourselves-to-master-with-real-earnest",
+      "title": "“All play - just as much as every task we set ourselves to master with real earnestness of purpose - is an attempt to approximate to the Creator, who performs his work with the divine seriousness which its meaning and purpose demand, and yet with the spontaneity and effortless skill of the great artist he is, creating because he wills to create and not because he must.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/56616507ec3f4ed19e55cbe31e03412a",
+      "createdTime": 1667503320000,
+      "lastEditedTime": 1675878789448,
+      "properties": {
+        "]a>f": [
+          [
+            "~Hugo Rahner"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Man At Play",
+            [
+              [
+                "a",
+                "/99f05101403149238613f0f1f25c9fac"
+              ]
+            ]
+          ],
+          [
+            " p. 28"
+          ]
+        ],
+        "title": [
+          [
+            "“All play - just as much as every task we set ourselves to master with real earnestness of purpose - is an attempt to approximate to the Creator, who performs his work with the divine seriousness which its meaning and purpose demand, and yet with the spontaneity and effortless skill of the great artist he is, creating because he wills to create and not because he must.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4096a839-9ecd-443e-a456-d7276d8afbf2",
+      "slug": "play-is-foundational-for-bonding-relationships-and-fostering-tolerance-it-s-wher",
+      "title": "“Play is foundational for bonding relationships and fostering tolerance. It’s where we learn to trust and where we learn about the rules of the game. Play increases creativity and resilience, and it’s all about the generation of diversity—diversity of interactions, diversity of behaviors, diversity of connections.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/4096a8399ecd443ea456d7276d8afbf2",
+      "createdTime": 1666991340000,
+      "lastEditedTime": 1667404620000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Isabel Behncke"
+          ]
+        ],
+        "title": [
+          [
+            "“Play is foundational for bonding relationships and fostering tolerance. It’s where we learn to trust and where we learn about the rules of the game. Play increases creativity and resilience, and it’s all about the generation of diversity—diversity of interactions, diversity of behaviors, diversity of connections.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "32febc15-09ec-4189-94d2-e4507e3c93cd",
+      "slug": "we-were-hunter-gatherers-of-information-and-we-moved-from-that-to-becoming-farme",
+      "title": "“We were hunter-gatherers of information, and we moved from that to becoming farmers and cultivators of information.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/32febc1509ec418994d2e4507e3c93cd",
+      "createdTime": 1671211620000,
+      "lastEditedTime": 1671211620000,
+      "properties": {
+        "]a>f": [
+          [
+            "~J.P. Rangaswami"
+          ]
+        ],
+        "title": [
+          [
+            "“We were hunter-gatherers of information, and we moved from that to becoming farmers and cultivators of information.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "18b99753-c4b8-4f7d-949e-8aa8f2aef287",
+      "slug": "freeplay-is-always-an-interplay-of-absence-and-presence-but-if-it-is-to-be-radic",
+      "title": "“Freeplay is always an interplay of absence and presence, but if it is to be radically conceived, freeplay must be conceived of before the alternative of presence and absence; being must be conceived of as presence or absence beginning with the possibility of freeplay and not the other way around.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/18b99753c4b84f7d949e8aa8f2aef287",
+      "createdTime": 1675878708398,
+      "lastEditedTime": 1675878760390,
+      "properties": {
+        "]a>f": [
+          [
+            "~Jacques Derrida"
+          ]
+        ],
+        "jSC:": [
+          [
+            "\""
+          ],
+          [
+            "Structure, Sign & Play",
+            [
+              [
+                "a",
+                "/61b04201cfb64649bfeeb9c232e519ee"
+              ]
+            ]
+          ],
+          [
+            "\" in "
+          ],
+          [
+            "Writing and Difference",
+            [
+              [
+                "i"
+              ]
+            ]
+          ],
+          [
+            ", p. 294"
+          ]
+        ],
+        "title": [
+          [
+            "“Freeplay is always an interplay of absence and presence, but if it is to be radically conceived, freeplay must be conceived of before the alternative of presence and absence; being must be conceived of as presence or absence beginning with the possibility of freeplay and not the other way around.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "02da202e-1a70-4cda-8b3d-7f383e679426",
+      "slug": "game-design-isn-t-just-a-technological-craft-it-s-a-twenty-first-century-way-of",
+      "title": "“Game design isn’t just a technological craft. It’s a twenty-first-century way of thinking and leading.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/02da202e1a704cda8b3d7f383e679426",
+      "createdTime": 1667850600000,
+      "lastEditedTime": 1667850720000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Jane McGonigal "
+          ]
+        ],
+        "title": [
+          [
+            "“Game design isn’t just a technological craft. It’s a twenty-first-century way of thinking and leading.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3dbd83aa-0b5c-4c0a-853b-0f047ca49410",
+      "slug": "the-art-form-of-the-next-century-is-being-born-right-now-it-will-be-a-fusion-of",
+      "title": "“The art form of the next century is being born right now. It will be a fusion of the great arts of the 20th century: Jazz, Cinema, and Programming”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/3dbd83aa0b5c4c0a853b0f047ca49410",
+      "createdTime": 1667837580000,
+      "lastEditedTime": 1667837640000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Jaron Lanier"
+          ]
+        ],
+        "jSC:": [
+          [
+            "1996"
+          ]
+        ],
+        "title": [
+          [
+            "“The art form of the next century is being born right now. It will be a fusion of the great arts of the 20th century: Jazz, Cinema, and Programming”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b53e51ec-d491-463f-b462-a57ea4b14431",
+      "slug": "play-is-a-uniquely-adaptive-act-not-subordinate-to-some-other-adaptive-act-but-w",
+      "title": "“Play is a uniquely adaptive act, not subordinate to some other adaptive act, but with a special function of its own in human experience.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/b53e51ecd491463fb462a57ea4b14431",
+      "createdTime": 1666989960000,
+      "lastEditedTime": 1666992780000,
+      "properties": {
+        "]a>f": [
+          [
+            "~"
+          ],
+          [
+            "Johan Huizinga",
+            [
+              [
+                "a",
+                "/7520c54e07354659b851bd3c13529ae7"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“Play is a uniquely adaptive act, not subordinate to some other adaptive act, but with a special function of its own in human experience.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a7bd1b5c-dee8-4fbf-a407-b0f7ec3050ab",
+      "slug": "ritual-grew-up-in-sacred-play-poetry-was-born-in-play-and-nourished-on-play-musi",
+      "title": "“Ritual grew up in sacred play; poetry was born in play and nourished on play; music and dancing were pure play…. We have to conclude, therefore, that civilization is, in its earliest phases, played. It does not come from play…it arises in and as play, and never leaves it.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/a7bd1b5cdee84fbfa407b0f7ec3050ab",
+      "createdTime": 1666991880000,
+      "lastEditedTime": 1666992600000,
+      "properties": {
+        "]a>f": [
+          [
+            "~"
+          ],
+          [
+            "Johan Huizinga",
+            [
+              [
+                "a",
+                "/7520c54e07354659b851bd3c13529ae7"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“Ritual grew up in sacred play; poetry was born in play and nourished on play; music and dancing were pure play…. We have to conclude, therefore, that civilization is, in its earliest phases, played. It does not come from play…it arises in and as play, and never leaves it.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c76a2325-49b5-4c0c-b452-db9b47cf698d",
+      "slug": "culture-arises-and-unfolds-in-and-as-play",
+      "title": "“Culture arises and unfolds in and as play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/c76a232549b54c0cb452db9b47cf698d",
+      "createdTime": 1666991460000,
+      "lastEditedTime": 1666991460000,
+      "properties": {
+        "]a>f": [
+          [
+            "~"
+          ],
+          [
+            "Johan Huizinga",
+            [
+              [
+                "a",
+                "/7520c54e07354659b851bd3c13529ae7"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“Culture arises and unfolds in and as play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7ffb03c7-4cf2-422f-af4b-6f29818edd3d",
+      "slug": "deep-meaning-lies-often-in-childish-play",
+      "title": "“Deep meaning lies often in childish play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/7ffb03c74cf2422faf4b6f29818edd3d",
+      "createdTime": 1667848860000,
+      "lastEditedTime": 1667848860000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Johann Friedrich von Schiller"
+          ]
+        ],
+        "title": [
+          [
+            "“Deep meaning lies often in childish play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "37b540df-8fc2-463b-b540-9b434253d963",
+      "slug": "life-is-like-a-game-of-goose-the-further-you-go-the-sooner-you-reach-the-end-whe",
+      "title": "“[Life is] like a Game of Goose: The further you go, the sooner you reach the end, where no one wants to be.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/37b540df8fc2463bb5409b434253d963",
+      "createdTime": 1670007900000,
+      "lastEditedTime": 1670008020000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Johann Wolfgang von Goethe"
+          ]
+        ],
+        "title": [
+          [
+            "“[Life is] like a Game of Goose: The further you go, the sooner you reach the end, where no one wants to be.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8edc8bf4-b614-4c21-a8be-782518eaffaa",
+      "slug": "surely-all-god-s-people-like-to-play",
+      "title": "“Surely all God’s people…like to play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/8edc8bf4b6144c21a8be782518eaffaa",
+      "createdTime": 1666991580000,
+      "lastEditedTime": 1666991580000,
+      "properties": {
+        "]a>f": [
+          [
+            "~"
+          ],
+          [
+            "John Muir",
+            [
+              [
+                "a",
+                "/553b6bf67fb045e09654b4ffc3ff8d56"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“Surely all God’s people…like to play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "66d18db5-b28c-4a17-bcd8-085e95cc3218",
+      "slug": "no-no-chess-is-not-a-game-chess-is-a-well-defined-form-of-computation-you-may-no",
+      "title": "“No, no- chess is not a game. Chess is a well-defined form of computation. You may not be able to work out the answers, but in theory there must be a solution, a right procedure in any position. Now, real games are not like that at all. Real life is not like that. Real life consists of bluffing, of little tactics of deception, of asking yourself what is the other man going to think I mean to do. And that is what games are about in my theory.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/66d18db5b28c4a17bcd8085e95cc3218",
+      "createdTime": 1673991690489,
+      "lastEditedTime": 1673991913606,
+      "properties": {
+        "]a>f": [
+          [
+            "~John von Neumann"
+          ]
+        ],
+        "jSC:": [
+          [
+            "conversation with mathematician Jacob Bronowski, described in Ascent of Man"
+          ]
+        ],
+        "title": [
+          [
+            "“No, no- chess is not a game. Chess is a well-defined form of computation. You may not be able to work out the answers, but in theory there must be a solution, a right procedure in any position. Now, real games are not like that at all. Real life is not like that. Real life consists of bluffing, of little tactics of deception, of asking yourself what is the other man going to think I mean to do. And that is what games are about in my theory.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "eea84c70-2321-45d6-8333-c5c9fcc1e315",
+      "slug": "in-games-all-there-is-is-the-user-experience-there-is-no-proof-of-play",
+      "title": "“In games, all there is is the user-experience… there is no proof of play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/eea84c70232145d68333c5c9fcc1e315",
+      "createdTime": 1667405220000,
+      "lastEditedTime": 1667405220000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Jonathan Blow"
+          ]
+        ],
+        "title": [
+          [
+            "“In games, all there is is the user-experience… there is no proof of play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "47776060-5580-4e8e-9b3b-77a40c433435",
+      "slug": "play-is-the-royal-road-to-childhood-happiness-and-adult-brilliance",
+      "title": "“Play is the royal road to childhood happiness and adult brilliance.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/4777606055804e8e9b3b77a40c433435",
+      "createdTime": 1667848980000,
+      "lastEditedTime": 1667848980000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Joseph Chilton Pearce"
+          ]
+        ],
+        "title": [
+          [
+            "“Play is the royal road to childhood happiness and adult brilliance.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "34d782c2-369d-408a-9ae8-b12520e982f6",
+      "slug": "play-is-the-only-way-the-highest-intelligence-of-humankind-can-unfold",
+      "title": "“Play is the only way the highest intelligence of humankind can unfold.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/34d782c2369d408a9ae8b12520e982f6",
+      "createdTime": 1667848080000,
+      "lastEditedTime": 1667848140000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Joseph Chilton Pearce"
+          ]
+        ],
+        "title": [
+          [
+            "“Play is the only way the highest intelligence of humankind can unfold.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1c0523b0-3bdb-4bec-b777-7aa5c2b1516a",
+      "slug": "google-is-the-portal-through-which-adulting-enters-its-video-game-layer-and-most",
+      "title": "“Google is the portal through which ‘adulting’ enters its video game layer— and mostly stays there indefinitely.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/1c0523b03bdb4becb7777aa5c2b1516a",
+      "createdTime": 1669145460000,
+      "lastEditedTime": 1675878806879,
+      "properties": {
+        "]a>f": [
+          [
+            "~Justin Murphy"
+          ]
+        ],
+        "jSC:": [
+          [
+            "“Video Game Syndrome” Other Life Blog"
+          ]
+        ],
+        "title": [
+          [
+            "“Google is the portal through which ‘adulting’ enters its video game layer— and mostly stays there indefinitely.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "63bc1495-3ec2-45b4-a98f-2f2f7e3655b3",
+      "slug": "the-very-existence-of-youth-is-due-in-part-to-the-necessity-for-play-the-animal",
+      "title": "“The very existence of youth is due in part to the necessity for play; the animal does not play because he is young, he has a period of youth because he must play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/63bc14953ec245b4a98f2f2f7e3655b3",
+      "createdTime": 1666991760000,
+      "lastEditedTime": 1666991760000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Karl Groos"
+          ]
+        ],
+        "title": [
+          [
+            "“The very existence of youth is due in part to the necessity for play; the animal does not play because he is young, he has a period of youth because he must play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ce370746-414f-4f13-adfe-fee0b4d4f5c7",
+      "slug": "a-master-in-the-art-of-living-draws-no-sharp-distinction-between-his-work-and-hi",
+      "title": "“A master in the art of living draws no sharp distinction between his work and his play; his labor and his leisure; his mind and his body; his education and his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing, and leaves others to determine whether he is working or playing. To himself, he always appears to be doing both.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/ce370746414f4f13adfefee0b4d4f5c7",
+      "createdTime": 1667153640000,
+      "lastEditedTime": 1667153640000,
+      "properties": {
+        "]a>f": [
+          [
+            "~L.P. Jacks"
+          ]
+        ],
+        "title": [
+          [
+            "“"
+          ],
+          [
+            "A master in the art of living draws no sharp distinction between his work and his play; his labor and his leisure; his mind and his body; his education and his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing, and leaves others to determine whether he is working or playing. To himself, he always appears to be doing both.”",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e1fa6ddb-2617-4d2c-969e-f638ee2754d7",
+      "slug": "as-soon-as-you-have-made-a-thought-laugh-at-it",
+      "title": "“As soon as you have made a thought, laugh at it.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/e1fa6ddb26174d2c969ef638ee2754d7",
+      "createdTime": 1666990800000,
+      "lastEditedTime": 1666990800000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Lao Tzu"
+          ]
+        ],
+        "title": [
+          [
+            "“As soon as you have made a thought, laugh at it.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6fc8f4f4-90f9-4ac9-a350-dfd50e038a46",
+      "slug": "games-are-nature-s-most-beautiful-creation",
+      "title": "“Games are nature’s most beautiful creation.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/6fc8f4f490f94ac9a350dfd50e038a46",
+      "createdTime": 1667849880000,
+      "lastEditedTime": 1667849880000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Leonard Cohen"
+          ]
+        ],
+        "title": [
+          [
+            "“Games are nature’s most beautiful creation.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "59dd5c1a-db69-4220-98c7-89ad7264cfdd",
+      "slug": "in-play-a-child-always-behaves-beyond-his-average-age-above-his-daily-behavior-i",
+      "title": "“In play a child always behaves beyond his average age, above his daily behavior. In play it is as though he were a head taller than himself.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/59dd5c1adb69422098c789ad7264cfdd",
+      "createdTime": 1667848980000,
+      "lastEditedTime": 1667849040000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Lev Vygotsky"
+          ]
+        ],
+        "title": [
+          [
+            "“In play a child always behaves beyond his average age, above his daily behavior. In play it is as though he were a head taller than himself.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4d4a6748-b374-4acc-af2e-371837b4cdf8",
+      "slug": "i-ve-always-thought-that-gaming-and-youtube-and-the-web-is-a-very-post-punk-extr",
+      "title": "“I've always thought that gaming and YouTube and the web is a very post-punk extravaganza.“",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/4d4a6748b3744accaf2e371837b4cdf8",
+      "createdTime": 1667849640000,
+      "lastEditedTime": 1674078511721,
+      "properties": {
+        "]a>f": [
+          [
+            "~Malcolm McLaren"
+          ]
+        ],
+        "title": [
+          [
+            "“I've always thought that gaming and YouTube and the web is a very post-punk extravaganza.“"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9bb87d50-763b-40b2-ad35-7b436ece9989",
+      "slug": "i-am-still-a-victim-of-chess-it-has-all-the-beauty-of-art-and-much-more-it-canno",
+      "title": "“I am still a victim of chess. It has all the beauty of art - and much more. It cannot be commercialized. Chess is much purer than art in its social position.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/9bb87d50763b40b2ad357b436ece9989",
+      "createdTime": 1669238820000,
+      "lastEditedTime": 1670007960000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Marcel Duchamp"
+          ]
+        ],
+        "title": [
+          [
+            "“I am still a victim of chess. It has all the beauty of art - and much more. It cannot be commercialized. Chess is much purer than art in its social position.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "44b8710f-d457-4766-a34f-46c7a6fa34be",
+      "slug": "play-is-the-work-of-the-child",
+      "title": "“Play is the work of the child.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/44b8710fd4574766a34f46c7a6fa34be",
+      "createdTime": 1667396700000,
+      "lastEditedTime": 1667404140000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Maria Montessori"
+          ]
+        ],
+        "title": [
+          [
+            "“Play is the work of the child.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3e62cd4a-08f0-49b6-8688-3b78a31f7d09",
+      "slug": "work-consists-of-whatever-a-body-is-obliged-to-do-play-consists-of-whatever-a-bo",
+      "title": "“Work consists of whatever a body is obliged to do. Play consists of whatever a body is not obliged to do.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/3e62cd4a08f049b686883b78a31f7d09",
+      "createdTime": 1667848200000,
+      "lastEditedTime": 1667848200000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Mark Twain"
+          ]
+        ],
+        "title": [
+          [
+            "“Work consists of whatever a body is obliged to do. Play consists of whatever a body is not obliged to do.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9ae06411-2a49-42c9-a532-b4dcce4fcf94",
+      "slug": "work-and-play-are-words-used-to-describe-the-same-thing-under-differing-conditio",
+      "title": "“Work and play are words used to describe the same thing under differing conditions.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/9ae064112a4942c9a532b4dcce4fcf94",
+      "createdTime": 1666990560000,
+      "lastEditedTime": 1666990560000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Mark Twain"
+          ]
+        ],
+        "title": [
+          [
+            "“Work and play are words used to describe the same thing under differing conditions.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c733f20f-0ca7-4383-bfc1-58c59863178e",
+      "slug": "the-artist-must-ever-play-and-experiment-with-new-means-of-arranging-experience",
+      "title": "“The artist must ever play and experiment with new means of arranging experience, even though the majority of his audience may prefer to remain fixed in their old perceptual attitudes.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/c733f20f0ca74383bfc158c59863178e",
+      "createdTime": 1667851440000,
+      "lastEditedTime": 1667851440000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Marshall McLuhan"
+          ]
+        ],
+        "title": [
+          [
+            "“The artist must ever play and experiment with new means of arranging experience, even though the majority of his audience may prefer to remain fixed in their old perceptual attitudes.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "417ce27e-3a0c-4d94-82e0-0d9afa421490",
+      "slug": "anyone-who-makes-a-distinction-between-games-and-learning-clearly-does-not-know",
+      "title": "“Anyone who makes a distinction between games and learning clearly does not know the first thing about either one.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/417ce27e3a0c4d9482e00d9afa421490",
+      "createdTime": 1667851020000,
+      "lastEditedTime": 1667853480000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Marshall McLuhan"
+          ]
+        ],
+        "title": [
+          [
+            "“Anyone who makes a distinction between games and learning clearly does not know the first thing about either one.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a787d51b-936b-48cf-a432-a68c8e598eba",
+      "slug": "how-art-became-a-sort-of-civilized-substitute-for-magical-games-and-rituals-is-t",
+      "title": "“How art became a sort of civilized substitute for magical games and rituals is the the story of the detribalization whichcame with literacy. Art, like games, became a mimentic echo of, and relief from, the old magic of total involvement.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/a787d51b936b48cfa432a68c8e598eba",
+      "createdTime": 1667404500000,
+      "lastEditedTime": 1675878813669,
+      "properties": {
+        "]a>f": [
+          [
+            "~Marshall McLuhan"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Understanding Media",
+            [
+              [
+                "a",
+                "/e2b5444982af4fbd8c23886c59ec74a9"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“How art became a sort of civilized substitute for magical games and rituals is the the story of the detribalization whichcame with literacy. Art, like games, became a mimentic echo of, and relief from, the old magic of total involvement.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "64f5be90-c8f5-480b-8afb-1c963758ba9b",
+      "slug": "play-is-the-exultation-of-the-possible",
+      "title": "“Play is the exultation of the possible.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/64f5be90c8f5480b8afb1c963758ba9b",
+      "createdTime": 1667849100000,
+      "lastEditedTime": 1667849100000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Martin Buber"
+          ]
+        ],
+        "title": [
+          [
+            "“Play is the exultation of the possible.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b0bfdba0-192c-487a-a16a-e83131137e29",
+      "slug": "there-has-always-been-this-play-going-on-in-the-father-nature-from-the-father-s",
+      "title": "“There has always been this play going on in the Father-nature. From the Father’s embrace of his own nature there comes this eternal playing of the Son. This play was played eternally before all creatures. The playing of the twain is the Holy Ghost in whom they both disport themselves and he disports himself in both. Sport and players are the same… not that this joy first began with the creation, no, for it was from eternity… The creation is the same sport out of himself.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/b0bfdba0192c487aa16ae83131137e29",
+      "createdTime": 1676138944795,
+      "lastEditedTime": 1676139153285,
+      "properties": {
+        "]a>f": [
+          [
+            "~Meister Eckhart"
+          ]
+        ],
+        "title": [
+          [
+            "“There has always been this play going on in the Father-nature. From the Father’s embrace of his own nature there comes this eternal playing of the Son. This play was played eternally before all creatures. The playing of the twain is the Holy Ghost in whom they both disport themselves and he disports himself in both. Sport and players are the same… not that this joy first began with the creation, no, for it was from eternity… The creation is the same sport out of himself.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "acd52060-879d-4591-a127-80d9af505914",
+      "slug": "children-at-play-are-not-playing-about-their-games-should-be-seen-as-their-most",
+      "title": "“Children at play are not playing about. Their games should be seen as their most serious minded activity.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/acd52060879d4591a12780d9af505914",
+      "createdTime": 1667848920000,
+      "lastEditedTime": 1667848920000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Michel de Montaigne"
+          ]
+        ],
+        "title": [
+          [
+            "“Children at play are not playing about. Their games should be seen as their most serious minded activity.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d920a8d0-9697-4b13-85d5-42a88ea552b4",
+      "slug": "there-is-no-history-of-play-because-we-fetishize-what-the-video-game-object-is",
+      "title": "“There is no history of play because we fetishize what the video game object is.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/d920a8d096974b1385d542a88ea552b4",
+      "createdTime": 1669606140000,
+      "lastEditedTime": 1675878907532,
+      "properties": {
+        "]a>f": [
+          [
+            "~Miguel Sicart"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Liberating Play: An Interview with Anna Anthropy & Miguel Sicart",
+            [
+              [
+                "a",
+                "/af1a0d28661845c2ad02300cd05a348d"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“There is no history of play because we fetishize what the video game object is.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e45407c0-16b7-453d-87d3-ab47da4404b8",
+      "slug": "if-gaming-were-seen-as-an-art-the-important-question-would-be-not-whether-games",
+      "title": "“If gaming were seen as an art, the important question would be not whether games are good for us but whether they are good, full stop.“",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/e45407c016b7453d87d3ab47da4404b8",
+      "createdTime": 1667849700000,
+      "lastEditedTime": 1674078505631,
+      "properties": {
+        "]a>f": [
+          [
+            "~Naomi Alderman"
+          ]
+        ],
+        "title": [
+          [
+            "“If gaming were seen as an art, the important question would be not whether games are good for us but whether they are good, full stop.“"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fb46fb99-cead-41ac-8b22-36deb984193e",
+      "slug": "there-are-only-two-industries-this-has-always-been-true-there-is-the-industry-of",
+      "title": "“There are only two industries. This has always been true... There is the industry of things, and the industry of entertainment... After people have the things they need to live, everything else is entertainment. Everything.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/fb46fb99cead41ac8b2236deb984193e",
+      "createdTime": 1667463480000,
+      "lastEditedTime": 1667463540000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Neal Stephenson"
+          ]
+        ],
+        "title": [
+          [
+            "“There are only two industries. This has always been true... There is the industry of things, and the industry of entertainment... After people have the things they need to live, everything else is entertainment. Everything.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "405f47a9-7c21-4517-8c0d-1300bb1a9cdf",
+      "slug": "in-our-play-we-reveal-what-kind-of-people-we-are",
+      "title": "“In our play we reveal what kind of people we are.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/405f47a97c2145178c0d1300bb1a9cdf",
+      "createdTime": 1667849040000,
+      "lastEditedTime": 1667849040000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Ovid"
+          ]
+        ],
+        "title": [
+          [
+            "“In our play we reveal what kind of people we are.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a8e40e45-a246-4f52-bc75-cd9c743affb9",
+      "slug": "a-child-who-does-not-play-is-not-a-child-but-the-man-who-does-not-play-has-lost",
+      "title": "“A child who does not play is not a child, but the man who does not play has lost forever the child who lived in him.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/a8e40e45a2464f52bc75cd9c743affb9",
+      "createdTime": 1666991760000,
+      "lastEditedTime": 1666991820000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Pablo Neruda"
+          ]
+        ],
+        "title": [
+          [
+            "“"
+          ],
+          [
+            "A child who does not play is not a child, but the man who does not play has lost forever the child who lived in him.”",
+            [
+              [
+                "b"
+              ],
+              [
+                "b"
+              ],
+              [
+                "i"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "34df3c91-a29b-423e-b6cb-d3c98de7ea9b",
+      "slug": "play-while-it-cannot-change-the-external-realities-of-children-s-lives-can-be-a",
+      "title": "“Play, while it cannot change the external realities of children’s lives, can be a vehicle for children to explore and enjoy their differences and similarities and to create, even for a brief time, a more just world where everyone is an equal and valued participant.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/34df3c91a29b423eb6cbd3c98de7ea9b",
+      "createdTime": 1666992060000,
+      "lastEditedTime": 1666992060000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Patricia G. Ramsey"
+          ]
+        ],
+        "title": [
+          [
+            "“Play, while it cannot change the external realities of children’s lives, can be a vehicle for children to explore and enjoy their differences and similarities and to create, even for a brief time, a more just world where everyone is an equal and valued participant.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "442d3738-4e64-45b3-bd79-a477d4df5e6f",
+      "slug": "the-drive-to-play-freely-is-a-basic-biological-drive-lack-of-free-play-may-not-k",
+      "title": "“The drive to play freely is a basic, biological drive. Lack of free play may not kill the physical body, as would lack of air, food, or water, but it kills the spirit and stunts mental growth.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/442d37384e6445b3bd79a477d4df5e6f",
+      "createdTime": 1666991400000,
+      "lastEditedTime": 1666991400000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Peter Gray"
+          ]
+        ],
+        "title": [
+          [
+            "“The drive to play freely is a basic, biological drive. Lack of free play may not kill the physical body, as would lack of air, food, or water, but it kills the spirit and stunts mental growth.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c6180fd1-ffd9-4e71-a40f-e01c7380e718",
+      "slug": "joy-is-the-infallible-sign-of-the-presence-of-god",
+      "title": "“Joy is the infallible sign of the presence of God.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/c6180fd1ffd94e71a40fe01c7380e718",
+      "createdTime": 1666990920000,
+      "lastEditedTime": 1666990920000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Pierre Teilhard de Chardin"
+          ]
+        ],
+        "title": [
+          [
+            "“Joy is the infallible sign of the presence of God.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7ec6acf4-59da-46e5-9428-62f6a0951518",
+      "slug": "fun-and-gravity-are-sisters",
+      "title": "“Fun and gravity are sisters.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/7ec6acf459da46e5942862f6a0951518",
+      "createdTime": 1667503200000,
+      "lastEditedTime": 1667503260000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Plato"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Epistulae, 6"
+          ]
+        ],
+        "title": [
+          [
+            "“Fun and gravity are sisters.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "235f58fe-99ab-4da8-9c2b-852dcc89f04b",
+      "slug": "you-can-discover-more-about-a-person-in-an-hour-of-play-than-in-a-year-of-conver",
+      "title": "“You can discover more about a person in an hour of play than in a year of conversation.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/235f58fe99ab4da89c2b852dcc89f04b",
+      "createdTime": 1666989720000,
+      "lastEditedTime": 1675878958787,
+      "properties": {
+        "]a>f": [
+          [
+            "~"
+          ],
+          [
+            "Plato",
+            [
+              [
+                "a",
+                "/a322f30e8cef4380812df0634c5588bd"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“You can discover more about a person in an hour of play than in a year of conversation.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f64aadf6-a8f2-49f8-86fd-cd1991d55642",
+      "slug": "do-not-keep-children-to-their-studies-by-compulsion-but-by-play",
+      "title": "“Do not… keep children to their studies by compulsion but by play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/f64aadf6a8f249f886fdcd1991d55642",
+      "createdTime": 1666991580000,
+      "lastEditedTime": 1667853540000,
+      "properties": {
+        "]a>f": [
+          [
+            "~"
+          ],
+          [
+            "Plato",
+            [
+              [
+                "a",
+                "/a322f30e8cef4380812df0634c5588bd"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“Do not… keep children to their studies by compulsion but by play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "28cb60b3-a967-4ed1-b9ec-d33d473cca8e",
+      "slug": "life-must-be-lived-as-play",
+      "title": "“Life must be lived as play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/28cb60b3a9674ed1b9ecd33d473cca8e",
+      "createdTime": 1666989660000,
+      "lastEditedTime": 1667853540000,
+      "properties": {
+        "]a>f": [
+          [
+            "~"
+          ],
+          [
+            "Plato",
+            [
+              [
+                "a",
+                "/a322f30e8cef4380812df0634c5588bd"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“Life must be lived as play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "eca97f81-7eb2-4e0d-9c95-e6381908acc7",
+      "slug": "if-play-can-be-viewed-as-the-amount-of-movement-allowed-in-relationship-to-a-giv",
+      "title": "“If play can be viewed as the amount of movement allowed in relationship to a given system, then play is a producer of possibilities.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/eca97f817eb24e0d9c95e6381908acc7",
+      "createdTime": 1666992660000,
+      "lastEditedTime": 1675878821576,
+      "properties": {
+        "]a>f": [
+          [
+            "~Rachel Wagner"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Godwired",
+            [
+              [
+                "a",
+                "/8c26e28608ab4da8b096a9b8e5102069"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "“If play can be viewed as the amount of movement allowed in relationship to a given system, then play is a producer of possibilities.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "28b5c145-3fbe-4df8-9a19-997de15ea2d2",
+      "slug": "joy-is-a-marvelous-increasing-of-what-exists-a-pure-addition-out-of-nothingness",
+      "title": "“Joy is a marvelous increasing of what exists, a pure addition out of nothingness.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/28b5c1453fbe4df89a19997de15ea2d2",
+      "createdTime": 1666991040000,
+      "lastEditedTime": 1666992840000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Rainer Maria Rilke"
+          ]
+        ],
+        "title": [
+          [
+            "“Joy is a marvelous increasing of what exists, a pure addition out of nothingness.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "cca373e9-c637-47a9-9b33-5964943eb755",
+      "slug": "it-is-a-happy-talent-to-know-how-to-play",
+      "title": "“It is a happy talent to know how to play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/cca373e9c63747a99b335964943eb755",
+      "createdTime": 1667848020000,
+      "lastEditedTime": 1673991923247,
+      "properties": {
+        "]a>f": [
+          [
+            "~Ralph Waldo Emerson"
+          ]
+        ],
+        "title": [
+          [
+            "“It is a happy talent to know how to play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "be0b1d5e-8137-4efd-b711-431b21190459",
+      "slug": "the-child-amidst-his-baubles-is-learning-the-action-of-light-motion-gravity-musc",
+      "title": "“The child amidst his baubles is learning the action of light, motion, gravity, muscular force.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/be0b1d5e81374efdb711431b21190459",
+      "createdTime": 1666992000000,
+      "lastEditedTime": 1668002880000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Ralph Waldo Emerson"
+          ]
+        ],
+        "title": [
+          [
+            "“The child amidst his baubles is learning the action of light, motion, gravity, muscular force.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9071ca58-82f2-40b1-9a5b-ebcaac783592",
+      "slug": "a-painter-told-me-that-nobody-could-draw-a-tree-without-in-some-sort-becoming-a",
+      "title": "“A painter told me that nobody could draw a tree without in some sort becoming a tree; or draw a child by studying the outlines of its form merely... but by watching for a time his motions and plays, the painter enters into his nature and can then draw him at every attitude.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/9071ca5882f240b19a5bebcaac783592",
+      "createdTime": 1666990740000,
+      "lastEditedTime": 1666990800000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Ralph Waldo Emerson"
+          ]
+        ],
+        "title": [
+          [
+            "“A painter told me that nobody could draw a tree without in some sort becoming a tree; or draw a child by studying the outlines of its form merely... but by watching for a time his motions and plays, the painter enters into his nature and can then draw him at every attitude.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8c1e2ed9-873b-4b55-a348-720c746f7db4",
+      "slug": "based-on-my-reading-the-human-brain-is-mostly-a-voracious-consumer-of-patterns-a",
+      "title": "“Based on my reading, the human brain is mostly a voracious consumer of patterns, a soft pudgy gray Pac-man of concepts. Games are just exceptionally tasty patterns to eat up.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/8c1e2ed9873b4b55a348720c746f7db4",
+      "createdTime": 1667850960000,
+      "lastEditedTime": 1668002520000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Raph Koster"
+          ]
+        ],
+        "title": [
+          [
+            "“Based on my reading, the human brain is mostly a voracious consumer of patterns, a soft pudgy gray Pac-man of concepts. Games are just exceptionally tasty patterns to eat up.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "59931ae0-4425-4d0e-afaf-0f89f9790ede",
+      "slug": "that-s-what-games-are-in-the-end-teachers-fun-is-just-another-word-for-learning",
+      "title": "“That’s what games are, in the end. Teachers. Fun is just another word for learning.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/59931ae044254d0eafaf0f89f9790ede",
+      "createdTime": 1667850900000,
+      "lastEditedTime": 1667850900000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Raph Koster"
+          ]
+        ],
+        "title": [
+          [
+            "“That’s what games are, in the end. Teachers. Fun is just another word for learning.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9e2e670d-812b-42a9-aa24-5fe92eb115f6",
+      "slug": "a-little-nonsense-now-and-then-is-cherished-by-the-wisest-men",
+      "title": "“A little nonsense now and then is cherished by the wisest men.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/9e2e670d812b42a9aa245fe92eb115f6",
+      "createdTime": 1667848800000,
+      "lastEditedTime": 1667848860000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Roald Dahl"
+          ]
+        ],
+        "title": [
+          [
+            "“A little nonsense now and then is cherished by the wisest men.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4b14c1b5-c8dc-4502-8ad5-fff6a8fe7e4d",
+      "slug": "necessity-may-be-the-mother-of-invention-but-play-is-certainly-the-father",
+      "title": "“Necessity may be the mother of invention, but play is certainly the father.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/4b14c1b5c8dc45028ad5fff6a8fe7e4d",
+      "createdTime": 1666989960000,
+      "lastEditedTime": 1668002520000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Roger von Oech"
+          ]
+        ],
+        "title": [
+          [
+            "“Necessity may be the mother of invention, but play is certainly the father.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "05443ead-1015-4c3e-92df-278cd12354ec",
+      "slug": "creativity-arises-out-of-the-tension-between-spontaneity-and-limitations-the-lat",
+      "title": "“Creativity arises out of the tension between spontaneity and limitations, the latter (like the river banks) forcing the spontaneity into the various forms which are essential to the work of art.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/05443ead10154c3e92df278cd12354ec",
+      "createdTime": 1666990680000,
+      "lastEditedTime": 1666990740000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Rollo May"
+          ]
+        ],
+        "title": [
+          [
+            "“Creativity arises out of the tension between spontaneity and limitations, the latter (like the river banks) forcing the spontaneity into the various forms which are essential to the work of art.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3b059fdb-889f-496c-acab-1e7200bbafc5",
+      "slug": "video-games-are-bad-for-you-that-s-what-they-said-about-rock-n-roll",
+      "title": "“Video games are bad for you? That's what they said about rock n' roll.“",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/3b059fdb889f496cacab1e7200bbafc5",
+      "createdTime": 1667849520000,
+      "lastEditedTime": 1674078493353,
+      "properties": {
+        "]a>f": [
+          [
+            "~Shigeru Miyamoto"
+          ]
+        ],
+        "title": [
+          [
+            "“Video games are bad for you? That's what they said about rock n' roll.“"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a0b8159d-535a-452a-9f33-7db1b1465511",
+      "slug": "but-we-enjoyed-playing-games-and-were-punished-for-them-by-men-who-played-games",
+      "title": "“But we enjoyed playing games and were punished for them by men who played games themselves. However, grown-up games are known as 'business' and even though boys' games are much the same, they are punished for them by their elders. No one pities either the boys or the men, though surely we deserved pity, for I cannot believe that a good judge would approve of the beatings I received as a boy on the gounds that my games delayed my progress in studying subjects which would enable me to play a less creditable game later in life.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/a0b8159d535a452a9f337db1b1465511",
+      "createdTime": 1668718740000,
+      "lastEditedTime": 1674078434736,
+      "properties": {
+        "]a>f": [
+          [
+            "~St. Augustine"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Confessions, Book 1:10"
+          ]
+        ],
+        "title": [
+          [
+            "“B"
+          ],
+          [
+            "ut we enjoyed playing games and were punished for them by men who played games themselves. However, grown-up games are known as 'business' and even though boys' games are much the same, they are punished for them by their elders. No one pities either the boys or the men, though surely we deserved pity, for I cannot believe that a good judge would approve of the beatings I received as a boy on the gounds that my games delayed my progress in studying subjects which would enable me to play a less creditable game later in life.”",
+            [
+              [
+                "i"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "70c096b3-1266-4acf-b7b5-70baa3866abd",
+      "slug": "to-the-eyes-of-the-beholder-the-person-appears-to-come-out-of-the-baptismal-font",
+      "title": "“To the eyes of the beholder the person appears to come out of the baptismal font the same as he went in, and all that is done seems no more than a piece of play.“",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/70c096b312664acfb7b570baa3866abd",
+      "createdTime": 1667503380000,
+      "lastEditedTime": 1674078497600,
+      "properties": {
+        "]a>f": [
+          [
+            "~St. Bede"
+          ]
+        ],
+        "title": [
+          [
+            "“To the eyes of the beholder the person appears to come out of the baptismal font the same as he went in, and all that is done seems no more than a piece of play.“"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "efeb3c70-35a4-4fb0-84f1-4f09bfd548f3",
+      "slug": "it-is-not-fitting-when-one-is-in-god-s-service-to-have-a-gloomy-face-or-a-chilli",
+      "title": "“It is not fitting, when one is in God's service, to have a gloomy face or a chilling look.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/efeb3c7035a44fb084f14f09bfd548f3",
+      "createdTime": 1666991100000,
+      "lastEditedTime": 1668718020000,
+      "properties": {
+        "]a>f": [
+          [
+            "~St. Francis of Assisi"
+          ]
+        ],
+        "title": [
+          [
+            "“It is not fitting, when one is in God's service, to have a gloomy face or a chilling look.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8989ceb9-18b1-462e-bb56-54385e833b0c",
+      "slug": "therefore-unmitigated-seriousness-betokens-a-lack-of-virtue-because-it-wholly-de",
+      "title": "“Therefore, unmitigated seriousness betokens a lack of virtue because it wholly despises play, which is a necessary for a good human life as rest is.“",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/8989ceb918b1462ebb5654385e833b0c",
+      "createdTime": 1667503260000,
+      "lastEditedTime": 1674078502184,
+      "properties": {
+        "]a>f": [
+          [
+            "~St. Thomas Aquinas"
+          ]
+        ],
+        "title": [
+          [
+            "“Therefore, unmitigated seriousness betokens a lack of virtue because it wholly despises play, which is a necessary for a good human life as rest is.“"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5a6aa2d8-121a-4924-be68-ed2d8ff30b8f",
+      "slug": "the-opposite-of-play-is-not-work-it-s-depression-5a6aa2d8",
+      "title": "“The opposite of play is not work, it’s depression.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/5a6aa2d8121a4924be68ed2d8ff30b8f",
+      "createdTime": 1666990620000,
+      "lastEditedTime": 1666990680000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Stuart Brown"
+          ]
+        ],
+        "title": [
+          [
+            "“The opposite of play is not work, it’s depression.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1fc61560-bdb3-4b51-9520-6fb9c6dc208e",
+      "slug": "becoming-virtuous-according-to-aristotle-requires-that-we-engage-in-a-process-of",
+      "title": "“Becoming virtuous, according to Aristotle, requires that we engage in a process of habituation by acting as if we were virtuous, just as musicians master their instruments by playing them.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/1fc61560bdb34b5195206fb9c6dc208e",
+      "createdTime": 1667483640000,
+      "lastEditedTime": 1667483820000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Tamar Gendler"
+          ]
+        ],
+        "jSC:": [
+          [
+            "Yale PHIL 181 Lecture 6- The Disordered Soul: Thémis and PTSD"
+          ]
+        ],
+        "title": [
+          [
+            "“Becoming virtuous, according to Aristotle, requires that we engage in a process of habituation by acting as if we were virtuous, just as musicians master their instruments by playing them.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6fce4f91-e11b-4762-a63f-e03610ba7f9a",
+      "slug": "only-a-shaman-knows-that-culture-is-a-game-everyone-else-takes-it-seriously-that",
+      "title": "“Only a shaman knows that culture is a game. Everyone else takes it seriously- that’s how he can do his magic.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/6fce4f91e11b4762a63fe03610ba7f9a",
+      "createdTime": 1667404920000,
+      "lastEditedTime": 1667404980000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Terence McKenna"
+          ]
+        ],
+        "title": [
+          [
+            "“Only a shaman knows that culture is a game. Everyone else takes it seriously- that’s how he can do his magic.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c3686aee-2751-4b60-8ceb-5c206824c467",
+      "slug": "where-our-work-is-there-let-our-joy-be",
+      "title": "“Where our work is, there let our joy be.“",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/c3686aee27514b608ceb5c206824c467",
+      "createdTime": 1666990620000,
+      "lastEditedTime": 1674078483995,
+      "properties": {
+        "]a>f": [
+          [
+            "~Tertullian"
+          ]
+        ],
+        "title": [
+          [
+            "“Where our work is, there let our joy be.“"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "368cc547-cc41-4995-8828-e4d4837e4d41",
+      "slug": "i-believe-that-those-boys-who-take-part-in-rough-hard-play-outside-of-school-wil",
+      "title": "“I believe that those boys who take part in rough, hard play outside of school will not find any need for horse-play in school.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/368cc547cc4149958828e4d4837e4d41",
+      "createdTime": 1666991820000,
+      "lastEditedTime": 1666991820000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Theodore Roosevelt"
+          ]
+        ],
+        "title": [
+          [
+            "“I believe that those boys who take part in rough, hard play outside of school will not find any need for horse-play in school.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c6a7b353-4c6f-4f35-a1ce-955893000429",
+      "slug": "humanity-has-advanced-when-it-has-advanced-not-because-it-has-been-sober-respons",
+      "title": "“Humanity has advanced, when it has advanced, not because it has been sober, responsible, and cautious, but because it has been playful, rebellious, and immature.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/c6a7b3534c6f4f35a1ce955893000429",
+      "createdTime": 1666990440000,
+      "lastEditedTime": 1666990500000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Tom Robbins"
+          ]
+        ],
+        "title": [
+          [
+            "“Humanity has advanced, when it has advanced, not because it has been sober, responsible, and cautious, but because it has been playful, rebellious, and immature.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b3103111-1b59-4ba1-8e30-73ccebde21d3",
+      "slug": "play-is-not-a-break-from-learning-it-is-endless-delightful-deep-engaging-practic",
+      "title": "“Play is not a break from learning. It is endless, delightful, deep, engaging, practical learning. It’s the doorway into the child’s heart!”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/b31031111b594ba18e3073ccebde21d3",
+      "createdTime": 1667849220000,
+      "lastEditedTime": 1667849220000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Vince Gowmon"
+          ]
+        ],
+        "title": [
+          [
+            "“Play is not a break from learning. It is endless, delightful, deep, engaging, practical learning. It’s the doorway into the child’s heart!”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d8cab256-3f97-4c05-bb00-520558217d23",
+      "slug": "you-have-not-seen-desperation-and-helplessness-till-you-have-seen-a-man-hopeless",
+      "title": "“You have not seen desperation and helplessness till you have seen a man hopeless in love. Of course, unless you have seen a gamer.“",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/d8cab2563f974c05bb00520558217d23",
+      "createdTime": 1667849400000,
+      "lastEditedTime": 1674078488488,
+      "properties": {
+        "]a>f": [
+          [
+            "~Vineet Raj Kapoor"
+          ]
+        ],
+        "title": [
+          [
+            "“You have not seen desperation and helplessness till you have seen a man hopeless in love. Of course, unless you have seen a gamer.“"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2d1dfd8c-7bcd-4734-acc4-3ec3174de3be",
+      "slug": "each-player-must-accept-the-cards-life-deals-him-or-her-but-once-they-are-in-han",
+      "title": "“Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/2d1dfd8c7bcd4734acc43ec3174de3be",
+      "createdTime": 1667848080000,
+      "lastEditedTime": 1667848080000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Voltaire"
+          ]
+        ],
+        "title": [
+          [
+            "“Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1d816903-0dab-47d7-b740-8973de45000c",
+      "slug": "you-ve-achieved-success-in-your-field-when-you-don-t-know-whether-what-you-re-do",
+      "title": "“You’ve achieved success in your field when you don’t know whether what you’re doing is work or play.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/1d8169030dab47d7b7408973de45000c",
+      "createdTime": 1667848260000,
+      "lastEditedTime": 1667848260000,
+      "properties": {
+        "]a>f": [
+          [
+            "~Warren Beatty"
+          ]
+        ],
+        "title": [
+          [
+            "“You’ve achieved success in your field when you don’t know whether what you’re doing is work or play.”"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "43581e60-cfed-4e07-8b6a-558f9bce9961",
+      "slug": "gamers-both-demand-and-deserve-novelty-they-need-something-new-as-a-game-develop",
+      "title": "“Gamers both demand and deserve novelty. They need something new. As a game developer, one of my rules is there will be at least one thing in every game that I worked on that no one on the planet has seen before.“",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/43581e60cfed4e078b6a558f9bce9961",
+      "createdTime": 1667849460000,
+      "lastEditedTime": 1674078515911,
+      "properties": {
+        "]a>f": [
+          [
+            "~Warren Spector"
+          ]
+        ],
+        "title": [
+          [
+            "“Gamers both demand and deserve novelty. They need something new. As a game developer, one of my rules is there will be at least one thing in every game that I worked on that no one on the planet has seen before.“"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6a0bc43e-8bd1-481e-8d47-9ffd43479f3c",
+      "slug": "i-must-create-create-a-system-or-be-enslaved-by-another-man-s-i-will-not-reason",
+      "title": "“I must create create a system or be enslaved by another man’s; I will not reason and compare, my business is to create.”",
+      "icon": "💬",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/6a0bc43e8bd1481e8d479ffd43479f3c",
+      "createdTime": 1667581440000,
+      "lastEditedTime": 1667581500000,
+      "properties": {
+        "]a>f": [
+          [
+            "~William Blake"
+          ]
+        ],
+        "jSC:": [
+          [
+            "The Marriage of Heaven & Hell"
+          ]
+        ],
+        "title": [
+          [
+            "“I must create create a system or be enslaved by another man’s; I will not reason and compare, my business is to create.”"
+          ]
+        ]
+      }
+    }
+  ]
+}

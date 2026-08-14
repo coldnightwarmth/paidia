@@ -1,0 +1,141 @@
+{
+  "id": "c7f24698-c782-4356-900b-b9c7db6639fd",
+  "slug": "the-gamer-s-brain",
+  "title": "The Gamer's Brain",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/c7f24698c7824356900bb9c7db6639fd",
+  "createdTime": 1667274867366,
+  "lastEditedTime": 1681312687163,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Gamer's Brain",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5f154d7edd82.webp",
+  "blocks": [
+    {
+      "id": "fd6fdfa1-3bb0-4f78-a379-90c6d4e5ce24",
+      "type": "divider"
+    },
+    {
+      "id": "c2128c36-4eb7-49a0-88f0-195cd0f48b9c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b2f5427c-e321-47a5-bff7-d396e802f9f6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8ede7574-2cf1-45eb-b5cb-42740ea05cd0",
+          "type": "column",
+          "children": [
+            {
+              "id": "f1e1103f-e5e6-4a49-8f4d-6adc6087ee6b",
+              "type": "paragraph",
+              "html": "<em><strong>The Gamer's Brain: How Neuroscience and UX Can Impact Video Game Design </strong></em>was written by Celia Hodent, published by CRC Press, September 28, 2017."
+            },
+            {
+              "id": "d244884d-d375-49ed-811e-e5be2210dea4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "08b3c006-f0b5-4f02-961a-027c816c9e78",
+              "type": "quote",
+              "html": "<em>Making a successful video game is hard. Even games that are well-received at launch may fail to engage players in the long term due to issues with the user experience (UX) that they are delivering. That’s why makers of successful video games like </em>Fortnite<em> and </em>Assassin’s Creed <em>invest both time and money perfecting their UX strategy. These top video game creators know that a bad user experience can ruin the prospects for any game, regardless of its budget, scope, or ambition.<br><br>The game UX accounts for the whole experience players have with a video game, from first hearing about it to navigating menus and progressing in the game. UX as a discipline offers guidelines to assist developers in creating the optimal experience they want to deliver, including shipping higher quality games (whether indie, triple-A or &quot;serious&quot; games) and meeting business goals -- all while staying true to design vision and artistic intent.<br><br>At its core, UX is about understanding the gamer’s brain: understanding human capabilities and limitations to anticipate how a game will be perceived, the emotions it will elicit, how players will interact with it, and how engaging the experience will be. This book is designed to equip readers of all levels, from student to professional, with cognitive science knowledge and user experience guidelines and methodologies. These insights will help readers identify the ingredients for successful and engaging video games, empowering them to develop their own unique game recipe more efficiently, while providing a better experience for their audience.</em>"
+            },
+            {
+              "id": "937e6588-51cb-427b-9708-aa0ad9591ac8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7da3751b-6bae-4785-ad46-4d190f37df56",
+          "type": "column",
+          "children": [
+            {
+              "id": "ac0d7cec-8373-4270-b0a5-1d39a474bcf9",
+              "type": "image",
+              "src": "./assets/images/untitled-5f154d7edd82.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f353caa2-7082-4eb2-b550-90e2659326c7",
+      "type": "divider"
+    },
+    {
+      "id": "9b241297-3678-4e2b-aeb8-230f7409724b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e74cdf4f-1fe1-42f4-9217-e2d850f20293",
+          "type": "column",
+          "children": [
+            {
+              "id": "cb56c019-24d5-430e-ae0b-2d3f44538e58",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "324c56e8-77cf-4ed2-8d9d-6ed32249045c",
+          "type": "column",
+          "children": [
+            {
+              "id": "9e033b55-ce99-4009-b300-5138e2f508e2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DOYkUb\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9e38944a-f430-4e12-9cc6-1d2221a0a71e",
+      "type": "divider"
+    },
+    {
+      "id": "e3bc4fc7-85cd-4542-ae88-2a75f95776c5",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "74bf4e05-8010-44fa-9ae5-357e0168d3ee",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-playful-brain\">The Playful Brain</a> (<em><em><em><em>book</em></em></em></em>)"
+    }
+  ]
+}

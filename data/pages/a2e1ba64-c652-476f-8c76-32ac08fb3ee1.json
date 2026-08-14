@@ -1,0 +1,131 @@
+{
+  "id": "a2e1ba64-c652-476f-8c76-32ac08fb3ee1",
+  "slug": "gaming-globally",
+  "title": "Gaming Globally",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Gaming-Globally-a2e1ba64c652476f8c7632ac08fb3ee1?pvs=21",
+  "createdTime": 1657304511322,
+  "lastEditedTime": 1681314301126,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gaming Globally",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-997a04984088.webp",
+  "blocks": [
+    {
+      "id": "728c6244-0fc4-40bf-a52b-7ba94fdbd9d0",
+      "type": "divider"
+    },
+    {
+      "id": "30b0133a-bbf2-4225-8d21-c8236fa18ad2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3132b0c2-92e0-4d00-bf92-7b99a71e1a28",
+      "type": "columns",
+      "children": [
+        {
+          "id": "06059714-690b-4f58-927e-e28b92d4ed9f",
+          "type": "column",
+          "children": [
+            {
+              "id": "9a23db7f-2d70-4d0c-96d6-7757e10d2d6b",
+              "type": "paragraph",
+              "html": "<em><strong>Gaming Globally: Production, Play, &amp; Place</strong></em> is a collection of essays edited by Nina B. Huntemann &amp; Ben Aslinger, published by Palgrave Macmillan, December 28, 2012."
+            },
+            {
+              "id": "37828501-df9e-4954-be4d-371a0892e132",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9a63da20-2b13-4ccd-a301-7b22b9d2fb7a",
+              "type": "quote",
+              "html": "<em>Video games are inherently transnational by virtue of industrial, textual, and player practices. The contributors touch upon nations not usually examined by game studies - including the former Czechoslovakia, Turkey, India, and Brazil - and also add new perspectives to the global hubs of China, Singapore, Australia, Japan, and the United States.</em>"
+            },
+            {
+              "id": "fbddde9b-f879-46a2-833a-9161565407e9",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "87d3a78b-4b4c-478d-b5ad-53bd406677b9",
+          "type": "column",
+          "children": [
+            {
+              "id": "71b7a86e-ea37-40c5-b0fb-a90308be96b2",
+              "type": "image",
+              "src": "./assets/images/untitled-997a04984088.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "489fe3aa-d584-427d-afd4-f47f2c4e3c50",
+      "type": "divider"
+    },
+    {
+      "id": "182b5db9-2c80-4324-bec4-b0d6a5840cae",
+      "type": "columns",
+      "children": [
+        {
+          "id": "58d423cc-f70c-4489-ac96-f7b0ff5b7335",
+          "type": "column",
+          "children": [
+            {
+              "id": "e8fd7918-2244-41e3-bfa1-e23825d00b19",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "581a9811-0567-47ad-b021-729aed595c6f",
+          "type": "column",
+          "children": [
+            {
+              "id": "d7678b1b-ae09-4183-ad29-98232e3cb4df",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3ImvqLX\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5ea4fcbc-0165-496a-bfa1-cffa4fa94187",
+      "type": "divider"
+    }
+  ]
+}

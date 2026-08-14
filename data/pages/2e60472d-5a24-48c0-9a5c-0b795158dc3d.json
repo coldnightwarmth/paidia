@@ -1,0 +1,134 @@
+{
+  "id": "2e60472d-5a24-48c0-9a5c-0b795158dc3d",
+  "slug": "the-second-life-herald",
+  "title": "The Second Life Herald",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Second-Life-Herald-2e60472d5a2448c09a5c0b795158dc3d?pvs=21",
+  "createdTime": 1652118652466,
+  "lastEditedTime": 1681314019180,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Second Life Herald",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b85e98604700.webp",
+  "blocks": [
+    {
+      "id": "10e7af9d-6a0b-445c-bddc-bab6a37fd690",
+      "type": "divider"
+    },
+    {
+      "id": "810e4388-24ad-4e32-a39e-369ea3255189",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b93a2757-bdd8-4c63-8d8e-234a5138ebaf",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e32c2704-29b7-4a9c-8dd3-bbbe68fd291f",
+          "type": "column",
+          "children": [
+            {
+              "id": "fa26dfaf-d73d-4b15-8162-d9a879168214",
+              "type": "paragraph",
+              "html": "<em><strong>The Second Life Herald: The Virtual Tabloid that Witnessed the Dawn of the Metaverse</strong></em> was written by Peter Ludlow &amp; Mark Wallace, published by The MIT Press, October 19, 2007."
+            },
+            {
+              "id": "5efa5bdf-9c0c-41e7-8ab5-d2646901ae15",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "45c70cab-47bd-44b3-bfba-664ae66f5da3",
+              "type": "quote",
+              "html": "<em>When a virtual journalist for a virtual newspaper reporting on the digital world of an online game lands on the real-world front page of the New York Times, it just might signal the dawn of a new era. Virtual journalist Peter Ludlow was banned from </em>The Sims Online<em> for being a bit too good at his job--for reporting in his virtual tabloid The Alphaville Herald on the cyber-brothels, crimes, and strong-arm tactics that had become rife in the game--and when the Times, the BBC, CNN, and other media outlets covered the story, users all over the Internet called the banning censorship. Seeking a new virtual home, Ludlow moved the Herald to another virtual world--the powerful online environment of </em>Second Life<em>--just as it was about the explode onto the international mediascape and usher in the next iteration of the Internet. In The Second Life Herald, Ludlow and his colleague Mark Wallace take us behind the scenes of the Herald as they report on the emergence of a fascinating universe of virtual spaces that will become the next generation of the World Wide Web: a 3-D environment that provides richer, more expressive interactions than the Web we know today. In 1992, science fiction writer Neal Stephenson imagined &quot;the Metaverse,&quot; a virtual space that we would enter via the Internet and in which we would conduct important parts of our daily lives. According to Ludlow and Wallace, that future is coming sooner than we may think. They chronicle its chaotic, exhilarating, frightening birth, including the issue that the mainstream media often ignore: conflicts across the client-server divide over who should write the laws governing virtual worlds.</em>"
+            },
+            {
+              "id": "4e1c1321-37a7-40c1-8314-f2f1f4c0496b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4d4e730b-e77b-48ea-9847-b737eb54aad6",
+          "type": "column",
+          "children": [
+            {
+              "id": "27286d9f-06b6-4b24-99e4-da57e45bc60c",
+              "type": "image",
+              "src": "./assets/images/untitled-b85e98604700.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6404e042-f47e-4b4e-b04a-faebaee4c68a",
+      "type": "divider"
+    },
+    {
+      "id": "19f04cb7-edbc-4c65-8828-2a434497e254",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f10320ac-f0ad-40ab-a939-22e3e878df1e",
+          "type": "column",
+          "children": [
+            {
+              "id": "78d2ce3e-7841-4a5d-855c-a1c254d4fce7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "45ab67ec-ef9f-456e-a2dd-97b2414ed998",
+          "type": "column",
+          "children": [
+            {
+              "id": "1021926c-72b6-4028-87e2-21e5ff0e5d53",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zwligb\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2c2ebd00-627c-4607-be2c-4eebac7337e9",
+      "type": "divider"
+    }
+  ]
+}

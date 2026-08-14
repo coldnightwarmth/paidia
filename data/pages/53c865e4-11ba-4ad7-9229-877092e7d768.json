@@ -1,0 +1,140 @@
+{
+  "id": "53c865e4-11ba-4ad7-9229-877092e7d768",
+  "slug": "concepts",
+  "title": "Concepts",
+  "icon": "⚙",
+  "cover": "./assets/images/sims-subway-862746326c11.webp",
+  "type": "page",
+  "parentId": "aedae6cc-3de7-4c4b-8cb3-305b4e9b560a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/53c865e411ba4ad79229877092e7d768",
+  "createdTime": 1701394269827,
+  "lastEditedTime": 1725455433015,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Concepts"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "0af2ea65-c975-4738-aa44-0c60d0d4b015",
+      "type": "header",
+      "html": "   Concepts",
+      "anchorId": "concepts"
+    },
+    {
+      "id": "e94100f7-324d-44fd-a652-4ab157d92512",
+      "type": "paragraph",
+      "html": "<em>       master list of relevant key concepts</em>"
+    },
+    {
+      "id": "83bbc3e0-7d43-4f2a-bf1b-61b1a5a8810f",
+      "type": "divider"
+    },
+    {
+      "id": "b3c5544e-315d-447c-a0fa-8ae9191993f6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "064143ff-40a6-42ff-965b-798cc2b9f80d",
+          "type": "column",
+          "children": [
+            {
+              "id": "b532ea05-49a8-4a4b-8a71-e92e6ae4a5a7",
+              "type": "synced_block",
+              "sourceBlockId": "b532ea05-49a8-4a4b-8a71-e92e6ae4a5a7",
+              "children": [
+                {
+                  "id": "ab903cb2-9e65-4ec0-9f3b-64e7583ca3b7",
+                  "type": "page_link",
+                  "targetId": "ab903cb2-9e65-4ec0-9f3b-64e7583ca3b7",
+                  "title": "Game Mechanics",
+                  "notionType": "page"
+                },
+                {
+                  "id": "fcd1534b-ae52-4f1f-a3f3-e755fa639440",
+                  "type": "page_link",
+                  "targetId": "fcd1534b-ae52-4f1f-a3f3-e755fa639440",
+                  "title": "Computers",
+                  "notionType": "page"
+                },
+                {
+                  "id": "4ab9a952-f622-4302-b62f-121000cdb1cb",
+                  "type": "page_link",
+                  "targetId": "4ab9a952-f622-4302-b62f-121000cdb1cb",
+                  "title": "Art",
+                  "notionType": "page"
+                },
+                {
+                  "id": "73abd464-5c74-4972-8429-088e3ecc47a3",
+                  "type": "page_link",
+                  "targetId": "73abd464-5c74-4972-8429-088e3ecc47a3",
+                  "title": "Sports",
+                  "notionType": "page"
+                },
+                {
+                  "id": "87a83d93-737b-4e8e-ac98-4d87566b48ed",
+                  "type": "page_link",
+                  "targetId": "87a83d93-737b-4e8e-ac98-4d87566b48ed",
+                  "title": "Historical",
+                  "notionType": "page"
+                },
+                {
+                  "id": "656b74d9-fbb9-4f6e-996b-36026b50a10d",
+                  "type": "page_link",
+                  "targetId": "656b74d9-fbb9-4f6e-996b-36026b50a10d",
+                  "title": "Religion",
+                  "notionType": "page"
+                },
+                {
+                  "id": "9639c5af-3836-4abb-bb33-1c8dd0237cec",
+                  "type": "page_link",
+                  "targetId": "9639c5af-3836-4abb-bb33-1c8dd0237cec",
+                  "title": "Theory",
+                  "notionType": "page"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a4f2e77c-3441-4a50-9085-ae11fa30dfe5",
+          "type": "column",
+          "children": [
+            {
+              "id": "4bacd700-cf36-44b5-8e20-18e3d15eba0e",
+              "type": "collection_view",
+              "collectionId": "fd057e07-0673-49e0-a479-a2a0ad9c5ad4",
+              "viewIds": [
+                "72a940f5-e9ac-4bd4-9fe3-00527d4ad84d"
+              ],
+              "title": ""
+            },
+            {
+              "id": "5af201b9-de42-41ea-80eb-6ebd99d40716",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e7a3283-c884-4b14-a92c-390282a02e91",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

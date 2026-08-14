@@ -1,0 +1,134 @@
+{
+  "id": "e84512a6-372c-4362-96f1-20e2e84d4a8f",
+  "slug": "self-versus-others",
+  "title": "Self Versus Others",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Self-Versus-Others-e84512a6372c436296f120e2e84d4a8f?pvs=21",
+  "createdTime": 1653066811322,
+  "lastEditedTime": 1681314200667,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Self Versus Others",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3e490fd989bd.webp",
+  "blocks": [
+    {
+      "id": "a9966d28-4fc1-4d83-bc9d-30c0db6d1539",
+      "type": "divider"
+    },
+    {
+      "id": "d96fa5f5-d6fd-480e-a0bb-b18f47d72a2d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4b7ef0ae-f5f8-4156-93a2-4c330ce473b3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a5d17996-e723-4d24-8a70-9f2ca83e745b",
+          "type": "column",
+          "children": [
+            {
+              "id": "f54ad501-68d4-4087-bf58-ad7481498571",
+              "type": "paragraph",
+              "html": "<em><strong>Self Versus Others: Media, Messages, &amp; the Third-Person Effect</strong></em> was written by Julie L. Andsager &amp; H. Allen White, published by Routledge, December 11, 2013."
+            },
+            {
+              "id": "865a20c9-747e-4a60-9143-049159b2b0df",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3d477500-2754-4e0c-a8c7-cccff00727c4",
+              "type": "quote",
+              "html": "Self Versus Others<em> explores the third-person effect and its role in media as a means of persuasion. This scholarly work synthesizes more than two decades of research on the third-person effect, the process in which individuals do not perceive themselves to be impacted by particular messages―such as persuaded to engage in risky behaviors or encouraged to be violent―but they believe others will be. Authors Julie L. Andsager and H. Allen White focus their analysis specifically on the role of media and media messages, and assert that the third-person effect functions as a means of persuasion. They explore the underlying concepts and connections this effect shares with established theories of persuasion and mediated communication.</em>"
+            },
+            {
+              "id": "341b5c7b-179a-4d63-82fd-ee14e55540f6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5eadcc58-f53f-429d-9f24-c24d8fb77e9e",
+          "type": "column",
+          "children": [
+            {
+              "id": "b225702c-bdd7-4ebc-86cd-b3f714a4d9d3",
+              "type": "image",
+              "src": "./assets/images/untitled-3e490fd989bd.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46f18ccf-90ad-4902-921a-ddbcbbd1a026",
+      "type": "divider"
+    },
+    {
+      "id": "e06073f3-a69f-46fd-813f-ed9ff37140a3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "67da1a7d-87b2-4626-95f2-84a3b2bda726",
+          "type": "column",
+          "children": [
+            {
+              "id": "4118752f-ae51-4f73-a4b2-6a118eba1642",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a508c4a6-57ec-44e0-b86e-82fff61ff15e",
+          "type": "column",
+          "children": [
+            {
+              "id": "2a9c9c0e-b6b0-4d32-8306-7a4a35228106",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bfJ8n9\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "58ad6345-5ef6-497a-9743-9ba33c26dadf",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "02a91418-f521-4be5-81d6-571f26ab8cea",
+  "slug": "the-book-of-knowledge-of-ingenious-mechanical-devices",
+  "title": "The Book of Knowledge of Ingenious Mechanical Devices",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Book-of-Knowledge-of-Ingenious-Mechanical-Devices-02a91418f5214be581d6571f26ab8cea?pvs=21",
+  "createdTime": 1651710960002,
+  "lastEditedTime": 1681314179705,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Book of Knowledge of Ingenious Mechanical Devices"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f80ad7d8ed70.webp",
+  "blocks": [
+    {
+      "id": "6bc89385-8c76-4402-8dc8-430c00347901",
+      "type": "divider"
+    },
+    {
+      "id": "5dd19c8b-d096-4cde-916f-87192a9194d3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6e8cf995-09de-4a8f-8126-37668f814435",
+      "type": "columns",
+      "children": [
+        {
+          "id": "382c817f-6cbf-4226-bcd5-43d3cb22e307",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd140261-0ea8-486f-b2f9-19456ffdebf8",
+              "type": "paragraph",
+              "html": "<em><strong>The Book of Knowledge of Ingenious Mechanical Devices </strong></em><em>(Kitāb fī ma 'rifat al-ḥiyal al-handasiyya)</em> was written by Ismāʻīl ibn al-Razzāz Jazarī, originally published in 1206."
+            },
+            {
+              "id": "8784b3a3-9ac9-42d7-aea2-32fcef68664d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d39414f1-4e7f-4fb7-b03f-d946b2ec848d",
+              "type": "quote",
+              "html": "<em>The </em>Book of Ingenious Devices<em><strong> </strong></em><em>(Arabic: كتاب الحيل Kitab al-Hiyal, Persian: كتاب ترفندها  Ketab tarfandha, literally: &quot;The Book of Tricks&quot;) is a large illustrated work on mechanical devices, including automata, published in 850 by the three brothers of Persian descent, known as the Banu Musa (Ahmad, Muhammad and Hasan bin Musa ibn Shakir) working at the House of Wisdom (Bayt al-Hikma) in Baghdad, Iraq, under the Abbasid Caliphate. The book described about one hundred devices and how to use them.</em>"
+            }
+          ]
+        },
+        {
+          "id": "36597629-70e1-4849-a7c2-ac8fce66a5bc",
+          "type": "column",
+          "children": [
+            {
+              "id": "c2d3b3d2-008f-46d0-bb2c-7719de037124",
+              "type": "image",
+              "src": "./assets/images/untitled-f80ad7d8ed70.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83ac8039-bb20-46cf-a941-b7c40735ada5",
+      "type": "divider"
+    },
+    {
+      "id": "4da3065e-e346-45ed-85cb-dd2961621804",
+      "type": "columns",
+      "children": [
+        {
+          "id": "89819943-ceb5-4f83-91b1-8b73b8cadabd",
+          "type": "column",
+          "children": [
+            {
+              "id": "51c87a64-e9a3-49a3-9c6e-ee06b9a315bf",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c8b86201-5773-454f-9435-5bfcef984e68",
+          "type": "column",
+          "children": [
+            {
+              "id": "186a02be-edf3-4f0c-87c9-6fbf451d526a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OwgY5N\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "869f4f15-2a2c-4b99-9129-d4f1e9fb169b",
+      "type": "divider"
+    }
+  ]
+}

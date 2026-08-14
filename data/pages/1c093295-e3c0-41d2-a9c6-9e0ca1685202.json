@@ -1,0 +1,146 @@
+{
+  "id": "1c093295-e3c0-41d2-a9c6-9e0ca1685202",
+  "slug": "play-the-city",
+  "title": "Play the City",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Play-the-City-1c093295e3c041d2a9c69e0ca1685202?pvs=21",
+  "createdTime": 1651771348476,
+  "lastEditedTime": 1681313545320,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play the City",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ae26a2872c56.webp",
+  "blocks": [
+    {
+      "id": "a8828c01-638b-46da-9750-0ba2e69e5442",
+      "type": "divider"
+    },
+    {
+      "id": "ee8191c0-e7fc-4ee3-964b-9404ec13736f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "32c6822f-a941-4b58-bf89-82276f9d8d6e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f9d3cb3f-19d3-4e0e-ae11-3ca34543f149",
+          "type": "column",
+          "children": [
+            {
+              "id": "1cd1bdb2-4fdd-44ae-b5db-57d0dae555b1",
+              "type": "paragraph",
+              "html": "<em><strong>Play the City: Games Informing the Urban Development</strong></em> was written by Ekim Tan, published by Onomatopee, March 18, 2018."
+            },
+            {
+              "id": "c2645916-26ab-45d9-b399-e5b4fbe24e1d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "71b48c24-f91e-47ef-845c-8227162a4f58",
+              "type": "quote",
+              "html": "<em>From Cape Town to Amsterdam and Istanbul,</em> Play the City<em> sheds light into the specific applications and outcomes of city gaming in various planning and city-making regimes worldwide. During her research, Ekim Tan realized that city games can inform urban development by turning the various stakeholders into players who actively influence their urban environment. Tan is the director of foundation Play the City, a successful city gaming company in Amsterdam. Designed to make Tan’s research more accessible to all, the book includes an extensive chapter dedicated to unraveling the city-gaming method as developed by the Play the City teams, with case studies from Shenzhen, Cape Town, Amsterdam, Almere, and Istanbul. Also included are reviews about influential city games from around the world, plus numerous interviews from gaming experts such as eric Gordon, Pablo Suarez, and Mohini Dutta. </em>Play the City<em> will inspire not only the city officers or experts in city making as </em><a href=\"#/interactive-architecture\"><em>architects</em></a><em> and planners, but also anyone who feels interested and responsible for their living environments.</em>"
+            },
+            {
+              "id": "10296689-0a67-44df-8d7e-ede52b2de8ab",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b12582a0-b159-4dd6-b537-158de895edb6",
+          "type": "column",
+          "children": [
+            {
+              "id": "05b7d408-c55b-4e63-9466-972dff03b9a5",
+              "type": "image",
+              "src": "./assets/images/untitled-ae26a2872c56.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "25a6f4f6-7d90-4078-8491-b1199ebeb886",
+      "type": "divider"
+    },
+    {
+      "id": "eef0237b-bac7-42db-934b-d95f4d7a2373",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1f7e9363-6ce4-477a-8078-4aca36dda52d",
+          "type": "column",
+          "children": [
+            {
+              "id": "c67ae28b-833e-40f2-86b2-8e1bb308fbe1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "68c83567-c83b-42cc-ba05-6173b38c312b",
+          "type": "column",
+          "children": [
+            {
+              "id": "e1e2be2b-92ea-4821-a536-756b4456a115",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/38qa2aP\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96028846-979b-4429-9f0c-d954006a09d0",
+      "type": "divider"
+    },
+    {
+      "id": "e9330f7e-c911-4551-87bd-c580a2454249",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "0232f026-ef69-4585-a024-8d9325cfaee4",
+      "type": "paragraph",
+      "html": "<a href=\"#/urban-play\">Urban Play</a> (<em>book</em>)"
+    },
+    {
+      "id": "f8607d0d-7238-4b00-90d6-97c0eedae9b1",
+      "type": "paragraph",
+      "html": "<a href=\"#/interactive-architecture\">Interactive Architecture</a> (<em>book</em>)"
+    }
+  ]
+}

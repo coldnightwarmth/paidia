@@ -1,0 +1,131 @@
+{
+  "id": "58384fce-1fba-46fa-988d-917c857476e7",
+  "slug": "the-puzzle-instinct",
+  "title": "The Puzzle Instinct",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Puzzle-Instinct-58384fce1fba46fa988d917c857476e7?pvs=21",
+  "createdTime": 1659422714532,
+  "lastEditedTime": 1681313094635,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Puzzle Instinct",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-dc346a38041b.webp",
+  "blocks": [
+    {
+      "id": "1328d44b-f666-449d-bfb8-bd8589667416",
+      "type": "divider"
+    },
+    {
+      "id": "100cfc91-c874-49b2-8f49-ca5fdea977b4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4b18b962-1a3a-41f3-a6d7-e5758ac88446",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fb4dae70-6c9f-4e24-b14e-fcc6174021cf",
+          "type": "column",
+          "children": [
+            {
+              "id": "d33e7a51-0622-4701-826c-334fc22d3b7c",
+              "type": "paragraph",
+              "html": "<em><strong>The Puzzle Instinct: The Meaning of Puzzles in Human Life</strong></em> was written by Marcel Danesi, originally published by Indiana University Press, May 1, 2002."
+            },
+            {
+              "id": "9fdb5f21-e2c5-492d-adfb-cf5a84dde46e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d349a69c-51b5-4cd1-9429-eda847e3e14e",
+              "type": "quote",
+              "html": "<em>Humans are the only animals who create and solve puzzles―for the sheer pleasure of it―and there is no obvious genetic reason why we would do this. Marcel Danesi explores the psychology of puzzles and puzzling, with scores of classic examples. His pioneering book is both entertaining and enlightening.<br><br>Puzzle fanatics will enjoy the many riddles, illusions, cryptograms and other mind-benders offered for analysis. . . . a bristlingly clear . . . always intriguing survey of the history and rationale of puzzles. . . . a splendid study. . . .</em>"
+            },
+            {
+              "id": "f472285f-d23a-4a81-94f5-a9e678a68cfc",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "818ac085-db57-4661-ab6a-1a2b2ee472f6",
+          "type": "column",
+          "children": [
+            {
+              "id": "bb05a8a0-7d8b-4bb6-bd74-fc6231533d95",
+              "type": "image",
+              "src": "./assets/images/untitled-dc346a38041b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32969fed-6705-459b-a5e0-92f49da142ab",
+      "type": "divider"
+    },
+    {
+      "id": "fde38609-5b39-484c-8869-febc9d98ee6e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1ed92abd-c875-46ea-a40a-801e53736fa7",
+          "type": "column",
+          "children": [
+            {
+              "id": "30f824b0-d249-4e6f-aa2e-194cf4f3c2ce",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d7417dc6-404c-4a3b-826f-86b60c094e3b",
+          "type": "column",
+          "children": [
+            {
+              "id": "64934661-33fc-4569-be4a-52a99f4cd502",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3oLHvkD\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9233a098-c3b4-4a56-a7d4-321ede050bb0",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "8080988e-7bff-4fa4-8122-b77775c96803",
+  "slug": "art-by-the-book",
+  "title": "Art by the Book",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Art-by-the-Book-8080988e7bff4fa48122b77775c96803?pvs=21",
+  "createdTime": 1669915269112,
+  "lastEditedTime": 1681310935090,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Art by the Book",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2a121c29d416.webp",
+  "blocks": [
+    {
+      "id": "b4a26dd7-6655-4daf-8ec5-e68c4529906f",
+      "type": "divider"
+    },
+    {
+      "id": "954a831f-25de-412c-9963-68ab7a509654",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3a4e5381-5724-4908-a5c8-6c03a3630a9b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "24916a9d-9b94-415d-a893-df29134bcf04",
+          "type": "column",
+          "children": [
+            {
+              "id": "7391b99e-660e-4af8-94f6-37692e977ea7",
+              "type": "paragraph",
+              "html": "<em><strong>Art by the Book: Painting Manuals &amp; the Leisure Life in Late Ming China</strong></em> was written by J.P. Park, published by University of Washington Press, February 21, 2012."
+            },
+            {
+              "id": "455b18d4-5581-4884-b5e5-fdb5ff252ffd",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3adddb4b-0337-44b1-9ae8-93723256a61e",
+              "type": "quote",
+              "html": "<em>Sometime before 1579, Zhou Lujing, a professional writer living in a bustling commercial town in southeastern China, published a series of lavishly illustrated books, which constituted the first multigenre painting manuals in Chinese history. Their popularity was immediate and their contents and format were widely reprinted and disseminated in a number of contemporary publications. Focusing on Zhou's work, </em>Art by the Book<em> describes how such publications accommodated the cultural taste and demands of the general public, and shows how painting manuals functioned as a form in which everything from icons of popular culture to graphic or literary cliche was presented to both gratify and shape the sensibilities of a growing reading public. As a special commodity of early modern China, when cultural standing was measured by a person's command of literati taste and lore, painting manuals provided nonelite readers with a device for enhancing social capital.<br><br>J. P. Park builds on important recent research on social status, economic development, and print publishing in late imperial China to show how a world of social meaning is evident in the literary subgenre of painting manuals, and provides insight into the links between art history, print culture, and social history.</em>"
+            },
+            {
+              "id": "3258b2e8-46f3-4418-8ae8-e0b4f0b48066",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2704b821-c05e-4261-8c39-e29e124d023d",
+          "type": "column",
+          "children": [
+            {
+              "id": "3b291e24-15cf-43c9-aa89-bfdb88b51198",
+              "type": "image",
+              "src": "./assets/images/untitled-2a121c29d416.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64269e12-7598-4acc-a6cb-c4adf7540179",
+      "type": "divider"
+    },
+    {
+      "id": "049f12b4-86f1-4c4d-8484-3fa934430dce",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b9e2f577-e6fb-4c3a-981f-acbb4f457187",
+          "type": "column",
+          "children": [
+            {
+              "id": "05697e8c-ae9c-40b7-b47d-7289a08da9f0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9fb274b2-61d5-4940-8812-d0cff3bf0839",
+          "type": "column",
+          "children": [
+            {
+              "id": "62c2406c-a202-4a23-a820-76f4ec874f23",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Art-Book-Painting-Manuals-Hardcover/dp/0295991763/ref=sr_1_1?crid=2XM3QCPSTQJZY&amp;keywords=Art+by+the+Book%3A+Painting+Manuals+and+the+Leisure+Life+in+Late+Ming+China&amp;qid=1666371655&amp;qu=eyJxc2MiOiIwLjU0IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=art+by+the+book+painting+manuals+and+the+leisure+life+in+late+ming+china%2Caps%2C118&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0f8d39f-defa-44d9-8aba-6fd5652b526f",
+      "type": "divider"
+    }
+  ]
+}

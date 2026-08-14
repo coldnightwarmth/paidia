@@ -1,0 +1,43 @@
+{
+  "id": "29cbbdc3-33db-4f38-a326-2862cc965aa4",
+  "slug": "play-the-glass-bead-game",
+  "title": "Play the Glass Bead Game",
+  "icon": "./assets/images/playback-play-gray-3ec25554f6f9.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "a85ee096-9545-4993-8f8f-8e4cf92840b0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/29cbbdc333db4f38a3262862cc965aa4",
+  "createdTime": 1681321172741,
+  "lastEditedTime": 1681321172744,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Play the Glass Bead Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "ea77c71f-1727-4bbe-9283-1137d5d1b440",
+      "type": "paragraph",
+      "html": "by <strong><a href=\"https://www.youtube.com/channel/UCoOTAo0oyvfwSIFKTf7e2Dw\" target=\"_blank\" rel=\"noreferrer\">Gospel of Sophia</a></strong>"
+    },
+    {
+      "id": "16db0873-5f55-4728-b1ee-a87c7c70bbe2",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/xfwTwbnTI7I?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=13",
+      "caption": ""
+    }
+  ]
+}

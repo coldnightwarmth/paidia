@@ -1,0 +1,126 @@
+{
+  "id": "e027f97c-3815-4d75-8e8d-f99506f80b99",
+  "slug": "cruelty-and-civilization",
+  "title": "Cruelty & Civilization",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Cruelty-Civilization-e027f97c38154d758e8df99506f80b99?pvs=21",
+  "createdTime": 1671478832706,
+  "lastEditedTime": 1681312217860,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Cruelty & Civilization"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4f84610bce5e.webp",
+  "blocks": [
+    {
+      "id": "0ce89bef-8a07-4d07-a5d5-45051eb1d1f5",
+      "type": "divider"
+    },
+    {
+      "id": "7f1b713f-220a-4dfd-8f18-210f5e1b5535",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ef785b8c-31c3-444f-b46e-9305dba9fe83",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0cc339fa-8c09-4796-80b4-09a0550ac6ca",
+          "type": "column",
+          "children": [
+            {
+              "id": "086b4511-445b-45c0-b95f-73946f338b5f",
+              "type": "paragraph",
+              "html": "<em><strong>Cruelty and Civilization: The Roman Games </strong></em>was written by Roland Auguet, published by Routledge, March 10, 1994."
+            },
+            {
+              "id": "25590bb9-d039-4a09-9d3b-ab4582bcecbe",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1c44f1fd-9fb8-43fa-8283-dacc6665c3ad",
+              "type": "quote",
+              "html": "<em>Roland Auguet examines the Roman taste for blood and considers what the games, that strange combination of cruelty and civilization, reveal about the Roman mentality. He shows how the great spectacles became a part of city life - they were awaited with impatience, everyone discussed them, some applauded the action in the arena, while others booed frantically.<br><br>This book provides an exciting history of gladiators, chariot racing and other games as well as an investigation of their function and significance within society. It is essential reading for anyone who is interested in the Romans' violent form of entertainment.</em>"
+            },
+            {
+              "id": "7fdc58e7-07e7-46b1-8093-f36ba00b0349",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "95397244-1729-4fc7-bf57-63cc43c6b936",
+          "type": "column",
+          "children": [
+            {
+              "id": "30b596ce-41f8-4848-8b9a-b7d1755f467a",
+              "type": "image",
+              "src": "./assets/images/untitled-4f84610bce5e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d707e966-e99f-4833-886b-20e4b1045f4d",
+      "type": "divider"
+    },
+    {
+      "id": "833b208c-11fd-48c0-aab6-6e72c1029eb0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ac89f40e-93cf-4165-bfd9-a9ecf4e6c4c8",
+          "type": "column",
+          "children": [
+            {
+              "id": "e39a798c-fbe8-491b-b3c8-d54ed27b80c8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "05248937-33e9-4e79-8ea0-960d222af3fb",
+          "type": "column",
+          "children": [
+            {
+              "id": "411d62bb-ffa3-4971-8fda-f2d4b61143c7",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Cruelty-Civilization-Roman-Roland-Auguet/dp/0415104521/ref=sr_1_1?crid=ZBRI2TWFA2FT&amp;keywords=Cruelty+and+Civilization%3A+The+Roman+Games&amp;qid=1666372771&amp;qu=eyJxc2MiOiIwLjc4IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=cruelty+and+civilization+the+roman+games%2Caps%2C105&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2691796c-ad80-4289-902c-def7e9848bc2",
+      "type": "divider"
+    }
+  ]
+}

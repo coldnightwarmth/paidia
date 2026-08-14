@@ -1,0 +1,121 @@
+{
+  "id": "ffebd8fa-a60e-4203-8f51-786a69d7abcc",
+  "slug": "trickster-makes-this-world",
+  "title": "Trickster Makes This World",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Trickster-Makes-This-World-ffebd8faa60e42038f51786a69d7abcc?pvs=21",
+  "createdTime": 1651688835306,
+  "lastEditedTime": 1681314041163,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Trickster Makes This World"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-418cb9846116.webp",
+  "blocks": [
+    {
+      "id": "fc0885e4-d93d-4895-b3cb-b6a754f97fbd",
+      "type": "divider"
+    },
+    {
+      "id": "51368ef0-abe0-4d7b-8a83-5a12c23660aa",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "655578ec-0a43-45ad-b7c0-91559e675385",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d5d0edd3-2eb6-4529-8adf-d0a03370f7a8",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf310a60-c027-46f5-bd5e-f4593031141a",
+              "type": "paragraph",
+              "html": "<em><strong>Trickster Makes This World: Mischief, Myth &amp; Art</strong></em> was written by Lewis Hyde, published by Farrar Straus &amp; Giroux, January 1, 1998."
+            },
+            {
+              "id": "944f6de8-07b0-4f64-9ca9-5d128f01b872",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7293f036-c2ec-4799-a73d-53425397ade7",
+              "type": "quote",
+              "html": "<em>In </em>Trickster Makes This World<em>, Lewis Hyde brings to life the playful and disruptive side of human imagination as it is embodied in trickster mythology. He first visits the old stories—Hermes in Greece, Eshu in West Africa, Krishna in India, Coyote in North America, among others—and then holds them up against the lives and work of more recent creators: Picasso, Duchamp, Ginsberg, John Cage, and Frederick Douglass. Twelve years after its first publication, </em>Trickster Makes This World<em>—authoritative in its scholarship, loose-limbed in its style—has taken its place among the great works of modern cultural criticism.</em>"
+            }
+          ]
+        },
+        {
+          "id": "c4b22d01-9c35-49bf-be83-8172711ff97b",
+          "type": "column",
+          "children": [
+            {
+              "id": "a1acf127-ad43-4974-99c6-943e83d801c6",
+              "type": "image",
+              "src": "./assets/images/untitled-418cb9846116.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd303753-de50-4fa3-a5a7-5e284f1881ea",
+      "type": "divider"
+    },
+    {
+      "id": "62cc0e4c-7f6f-4b55-b9a2-b5b0a47e14cd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7583d9d5-99b4-4be3-8ee8-ca671b717ae8",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f92dc17-5b06-4e2a-a037-7584084382e2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2770fd8d-72b3-4821-b330-1f2579cb4d9f",
+          "type": "column",
+          "children": [
+            {
+              "id": "ffe1a1aa-c394-4274-aa09-d36a96b3b709",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DNnrH5\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a0735c8-8b0f-4774-ab97-bc8712b02fd2",
+      "type": "divider"
+    }
+  ]
+}

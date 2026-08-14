@@ -1,0 +1,131 @@
+{
+  "id": "a3489f03-aab1-4461-89ea-b7e50c30ceea",
+  "slug": "fools-are-everywhere",
+  "title": "Fools Are Everywhere",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Fools-Are-Everywhere-a3489f03aab1446189eab7e50c30ceea?pvs=21",
+  "createdTime": 1651689129991,
+  "lastEditedTime": 1681314052452,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Fools Are Everywhere",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3142f04f97d8.webp",
+  "blocks": [
+    {
+      "id": "777dbbf4-4cf5-407b-9511-6f9e9d93e4af",
+      "type": "divider"
+    },
+    {
+      "id": "02641df6-13ae-48f1-86e8-3791251ca57c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "00e560db-53dc-461b-a42f-5bc5689c7bbf",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9b87b4cc-b561-49c9-9233-eed55d0e2b5f",
+          "type": "column",
+          "children": [
+            {
+              "id": "8f4220b6-fd50-4f88-b793-a2ed66aea838",
+              "type": "paragraph",
+              "html": "<em><strong>Fools Are Everywhere: The Court Jester around the World</strong></em> was written by Beatrice K. Otto, published by University of Chicago Press, August 1, 2007."
+            },
+            {
+              "id": "96786356-89f8-4e01-a275-b1576f14c158",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2023c3bb-c63c-46e4-b2eb-cb63317d3a60",
+              "type": "quote",
+              "html": "<em>In this lively work, Beatrice K. Otto takes us on a journey around the world in search of one of the most colorful characters in history—the court jester. Though not always clad in cap and bells, these witty, quirky characters crop up everywhere, from the courts of ancient China and the Mogul emperors of India to those of medieval Europe, Africa, the Middle East, and the Americas. With a wealth of anecdotes, jokes, quotations, epigraphs, and illustrations (including flip art), Otto brings to light little-known jesters, highlighting their humanizing influence on people with power and position and placing otherwise remote historical figures in a more idiosyncratic, intimate light.<br><br>Most of the work on the court jester has concentrated on Europe; Otto draws on previously untranslated classical Chinese writings and other sources to correct this bias and also looks at jesters in literature, mythology, and drama. Written with wit and humor, </em>Fools Are Everywhere<em> is the most comprehensive look at these roguish characters who risked their necks not only to mock and entertain but also to fulfill a deep and widespread human and social need.</em>"
+            },
+            {
+              "id": "586a01fb-da06-4c37-ba1d-d63f90c410e9",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f57e962c-51f6-4a22-9b3f-e4b5d115446b",
+          "type": "column",
+          "children": [
+            {
+              "id": "32e6a081-70f7-464e-9302-3dcc1e86ee69",
+              "type": "image",
+              "src": "./assets/images/untitled-3142f04f97d8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d1d5cfb1-8438-4f83-ae06-8c3328bac4d6",
+      "type": "divider"
+    },
+    {
+      "id": "cfe47f28-1723-4aad-965b-b97acbc9cfe4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "808cceab-7c48-4f7b-9135-de246269929f",
+          "type": "column",
+          "children": [
+            {
+              "id": "8db90759-ff35-4f7e-8696-e0306cef4a87",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6659a76e-6481-4e68-b03e-79d2dc6cd7d1",
+          "type": "column",
+          "children": [
+            {
+              "id": "99090866-bf5f-4a53-8545-a20ca8f75d69",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3E6ed9b\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d68d415e-b34c-400e-a146-35530c7453f9",
+      "type": "divider"
+    }
+  ]
+}

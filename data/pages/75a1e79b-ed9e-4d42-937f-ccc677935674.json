@@ -1,0 +1,84 @@
+{
+  "id": "75a1e79b-ed9e-4d42-937f-ccc677935674",
+  "slug": "quotes-posts",
+  "title": "Quotes/Posts",
+  "icon": "🗨️",
+  "cover": "./assets/images/shape-terminal-5917f519adf4.webp",
+  "type": "page",
+  "parentId": "aedae6cc-3de7-4c4b-8cb3-305b4e9b560a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/75a1e79bed9e4d42937fccc677935674",
+  "createdTime": 1704853086175,
+  "lastEditedTime": 1704905051067,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Quotes/Posts"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "8a34f609-4e77-49c4-b543-e2f22a64a087",
+      "type": "divider"
+    },
+    {
+      "id": "2b93e5ce-96e4-43e8-a5b4-d308acf68e3a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b9df4924-3c9c-4c40-a4d1-cf494bf07ee3",
+      "type": "page_link",
+      "targetId": "b9df4924-3c9c-4c40-a4d1-cf494bf07ee3",
+      "title": "Quotes",
+      "notionType": "page"
+    },
+    {
+      "id": "b28fd2ec-e50e-40eb-b7d9-62bab232c800",
+      "type": "page_link",
+      "targetId": "b28fd2ec-e50e-40eb-b7d9-62bab232c800",
+      "title": "Tweets & Threads",
+      "notionType": "page"
+    },
+    {
+      "id": "5e8f02fd-ce2f-4c8f-9a4d-a3fcd951bb2c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d85f61a8-f545-4317-83e9-bdaf7c94beff",
+      "type": "divider"
+    },
+    {
+      "id": "ca66bda8-cfa2-4197-bac7-6ecb9c2ea96d",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "8ec89b46-4a17-48b6-9e4a-a9f1e916ae57",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "32d92d30-c277-4b09-9919-be0c6c0259df",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    },
+    {
+      "id": "6b1c67dc-dd44-4a9e-8ccb-e7f6911df93f",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

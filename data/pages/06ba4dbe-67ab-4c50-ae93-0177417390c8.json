@@ -1,0 +1,131 @@
+{
+  "id": "06ba4dbe-67ab-4c50-ae93-0177417390c8",
+  "slug": "toys-and-communication",
+  "title": "Toys & Communication",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/06ba4dbe67ab4c50ae930177417390c8",
+  "createdTime": 1669917537695,
+  "lastEditedTime": 1681312278340,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Toys & Communication",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3d5ea9418217.webp",
+  "blocks": [
+    {
+      "id": "4537c50f-207b-4607-84e9-b0e1dde19743",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bf728aef-6b31-4c18-9043-80ddf4776521",
+      "type": "divider"
+    },
+    {
+      "id": "d9db0729-835b-4ec2-89af-5e66e7a68935",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8feb4612-672e-4d8c-a289-6f6b28d4d374",
+          "type": "column",
+          "children": [
+            {
+              "id": "87f2f1ab-d475-4fae-a37e-90c3ec064df7",
+              "type": "paragraph",
+              "html": "<em><strong>Toys &amp; Communication</strong></em> is a collection of essays edited by Luísa Magalhães &amp; Jeffrey Goldstein, published by Palgrave Macmillan, October 24, 2017."
+            },
+            {
+              "id": "56af4988-c8cf-4434-af1d-bd1caf75bfa9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6e1ad381-9899-4c57-b010-10155c696e41",
+              "type": "quote",
+              "html": "<em>There are few scholarly books about toys, and even fewer that consider toys within the context of culture and communication. Toys and Communication is an innovative collection that effectively showcases work by specialists who have sought to examine toys throughout history and in many cultures, including 1930’s Europe, Morocco, India, Spanish art of the 16th-19th centuries. Psychologists stress the importance of the role of toys and play in children’s language development and intellectual skills, and this book demonstrates the recurrent theme of the transmission of cultural norms through the portrayal, presentation and use of toys. The text establishes the role of toy and play park design in eliciting particular forms of play, as well as stressing the child’s use of toys to ‘become’ more adult. It will be beneficial for courses in education, developmental psychology, communications, media studies, and toy design.</em>"
+            },
+            {
+              "id": "95773adc-02ca-4cbc-9812-70df7094bd63",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "804b68a2-d14c-41aa-97d4-cf5f5ad0fc2e",
+          "type": "column",
+          "children": [
+            {
+              "id": "4147b791-9182-4e76-9ad2-281e201788f8",
+              "type": "image",
+              "src": "./assets/images/untitled-3d5ea9418217.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32ea6b38-53f5-4985-b77e-3543bcf5cc8e",
+      "type": "divider"
+    },
+    {
+      "id": "e451b09e-071e-4e81-81ce-ab9f0c455d2a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "802ef828-0cbd-4d87-9626-68227d1872f7",
+          "type": "column",
+          "children": [
+            {
+              "id": "d649e829-b024-4d2c-a061-99a4f44aaeaa",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ea481cbe-3790-4b0e-ab63-a42d3bc7f526",
+          "type": "column",
+          "children": [
+            {
+              "id": "2c616de5-2700-4c1c-b9b6-05a616d0b301",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Toys-Communication-Lu%C3%ADsa-Magalh%C3%A3es/dp/1137591358/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4a93cbe-5411-47e5-8fc4-3106050ee840",
+      "type": "divider"
+    }
+  ]
+}

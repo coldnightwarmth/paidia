@@ -1,0 +1,131 @@
+{
+  "id": "7de2d279-793c-445e-bfa8-d93728de8d0b",
+  "slug": "libraries-got-game",
+  "title": "Libraries Got Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Libraries-Got-Game-7de2d279793c445ebfa8d93728de8d0b?pvs=21",
+  "createdTime": 1668456748322,
+  "lastEditedTime": 1681312500922,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Libraries Got Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f9478e7df268.webp",
+  "blocks": [
+    {
+      "id": "4366bf21-aeb3-47de-aede-a27ef49ab00b",
+      "type": "divider"
+    },
+    {
+      "id": "bc6ca5d3-a47c-4996-ae0e-6be193931350",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "56b54e3e-271d-4557-8d7f-c2afd425f055",
+      "type": "columns",
+      "children": [
+        {
+          "id": "92a511bc-e86f-4141-b4ef-59beaf4b8dde",
+          "type": "column",
+          "children": [
+            {
+              "id": "36957287-3db6-4bcb-b315-6cdef1740364",
+              "type": "paragraph",
+              "html": "<em><strong>Libraries Got Game: Aligned Learning through Modern Board Games</strong></em><em> </em>was written by Brian Mayer &amp; Christopher Harris, published by ALA Editions, January 1, 2009."
+            },
+            {
+              "id": "28f7a079-73d9-49e6-9a68-f0c9e681c4aa",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "340f665c-d013-4451-863a-ec402326c074",
+              "type": "quote",
+              "html": "<em>The high-profile topic of gaming in libraries gets thorough consideration from two educator-librarians, who explain exactly how designer board games―which are worlds apart from games produced strictly for the educational market―can become curricular staples for students of all ages. Drawing on their experience as game aficionados and developers of a nationally recognized program that brings games to school library media centers, the authors equip colleagues with everything they need to initiate a board game project with * Direct links between board games and curriculum * Suggestions for building a core collection across grade levels * Strategies for program development and implementationFrom promoting the idea to teachers and administrators to aligning specific games to state and national education standards, this book will help you build a strong collection that speaks to enhanced learning and social development and is just plain fun.</em>"
+            },
+            {
+              "id": "e33df53f-1e24-48fe-bc5a-7968f72ba5a8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "154da5fb-276e-4989-875e-3869681f51c8",
+          "type": "column",
+          "children": [
+            {
+              "id": "63fd21c3-3687-4b76-87c6-9e7a9c675673",
+              "type": "image",
+              "src": "./assets/images/untitled-f9478e7df268.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d262c5f-7271-4e11-afd2-a4b430352709",
+      "type": "divider"
+    },
+    {
+      "id": "f561b187-8119-498f-a880-028baf8a8bae",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e50a0410-c0bb-450e-91e1-78cc4c22172d",
+          "type": "column",
+          "children": [
+            {
+              "id": "2a9fa66c-fe08-4448-85a0-08cb0b869e15",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b614fa48-2b07-4f4f-9f98-2158418175d3",
+          "type": "column",
+          "children": [
+            {
+              "id": "63606374-3f2b-42df-b2f4-5b200b8383ab",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3oQGfg3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "125a15e4-3afd-4728-9c07-0327a205648a",
+      "type": "divider"
+    }
+  ]
+}

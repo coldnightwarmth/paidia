@@ -1,0 +1,176 @@
+{
+  "id": "c291b276-4480-40a6-b69f-df7f0f77fe20",
+  "slug": "pastimes",
+  "title": "Pastimes",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/c291b276448040a6b69fdf7f0f77fe20",
+  "createdTime": 1667320691412,
+  "lastEditedTime": 1681312671571,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Pastimes",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-85a3bfd4079a.webp",
+  "blocks": [
+    {
+      "id": "e1ce6ec3-52bb-43fd-b4b7-94fbe8eab4dc",
+      "type": "divider"
+    },
+    {
+      "id": "aadeca3d-1ebd-49b8-be13-091c3a07f21e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "54a13e62-40cb-4d2e-95db-8344af25aaac",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9a7b8257-9418-458d-b091-40c9542e9e19",
+          "type": "column",
+          "children": [
+            {
+              "id": "0007996c-7509-4503-a676-08b22a2039bd",
+              "type": "paragraph",
+              "html": "<em><strong>Pastimes: The Context of Contemporary Leisure</strong></em> was written by Ruth V. Russell, originally published by Brown &amp; Benchmark Pub, January 1, 1995."
+            },
+            {
+              "id": "a745762b-4267-4131-8850-4c35353de48c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "939151fb-5864-4091-b247-15089cb13df8",
+              "type": "quote",
+              "html": "<em>This text introduces the reader to the study of recreation and </em><a href=\"#/leisure\"><em>leisure</em></a><em>, the various sub-fields and the leisure services industry. It contains applications in the form of boxes with vignettes, biographies and case studies which show readers how to make the most of leisure in their lives and gives them an understanding of how leisure fits in and contributes to various cultures. The book takes a historical and cross-cultural approach, giving the reader a larger context for understanding modern leisure, how it evolved and how it compares to leisure in other cultures. The chapter on &quot;using leisure to solve problems&quot; contains insights on the relevancy of leisure, and also a section on careers in the field.</em>"
+            },
+            {
+              "id": "7b440317-7225-4acd-9238-d01606246914",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "976c3f74-739c-4475-8ec8-426292a60c56",
+          "type": "column",
+          "children": [
+            {
+              "id": "ef77a7eb-d528-4572-9bba-f5c13b178521",
+              "type": "image",
+              "src": "./assets/images/untitled-85a3bfd4079a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f2ab905-a82b-41dc-9152-33847954cf5b",
+      "type": "divider"
+    },
+    {
+      "id": "72a6cdfa-19e8-48a5-a209-8eb94ebc2f92",
+      "type": "columns",
+      "children": [
+        {
+          "id": "88119539-a6cb-42c0-96f8-df86e65469a5",
+          "type": "column",
+          "children": [
+            {
+              "id": "c5a9ed62-8d46-4389-8c90-cb02227b4481",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ccdd8a7e-bfc3-4fe8-b165-4eb5ce99ebdc",
+          "type": "column",
+          "children": [
+            {
+              "id": "d807e0df-9c89-42a4-bed2-33c72f5f4bc6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zyejDB\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba012404-c962-4cbb-9b84-42f618d648cb",
+      "type": "divider"
+    },
+    {
+      "id": "fb18e346-c278-481f-8b7f-fab69f70e227",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "5c4571cc-3ea2-4c4a-acbc-87aa5b618594",
+      "type": "paragraph",
+      "html": "<a href=\"#/leisure-the-basis-of-culture\">Leisure, The Basis of Culture</a> (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "3c624363-7e42-4711-98a3-66bb36cbdcfb",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-art-of-leisure\">The Art of Leisure</a> (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "332654fc-58ba-470b-9930-d7315a93bf67",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-theory-of-the-leisure-class\">The Theory of the Leisure Class</a> (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "d251d90b-67ce-4015-a846-5f6d0811a330",
+      "type": "paragraph",
+      "html": "<a href=\"#/leisure-class\">Leisure Class</a> (<em>concept</em>)"
+    },
+    {
+      "id": "42546320-c9b9-480f-8ec4-a9fe6a32175a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "36c10bf3-e2b8-4a79-bb7d-126cccb341c3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "474f1cf2-1c2d-40c8-8ebd-4042e87b8e47",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "4853aaba-14aa-4b62-a3d8-193ad452847e",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

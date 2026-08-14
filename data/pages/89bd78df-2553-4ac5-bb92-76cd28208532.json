@@ -1,0 +1,131 @@
+{
+  "id": "89bd78df-2553-4ac5-bb92-76cd28208532",
+  "slug": "knowing-the-score",
+  "title": "Knowing the Score",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Knowing-the-Score-89bd78df25534ac5bb9276cd28208532?pvs=21",
+  "createdTime": 1652119942513,
+  "lastEditedTime": 1681313989406,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Knowing the Score",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7d4a25680bdc.webp",
+  "blocks": [
+    {
+      "id": "f1ceb638-030b-4224-bde8-50df1cb5c88b",
+      "type": "divider"
+    },
+    {
+      "id": "9ec00c78-43c9-4217-8ff8-0bc3b7f11d95",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "11de150e-e72f-4481-aac3-2b12d1fffd36",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f4699841-2501-4cb9-bacd-b8ed6d90d204",
+          "type": "column",
+          "children": [
+            {
+              "id": "d5178d2b-b50f-4e13-a033-bbb07fd3897a",
+              "type": "paragraph",
+              "html": "<em><strong>Knowing the Score: What Sports Can Teach Us About Philosophy (And What Philosophy Can Teach Us About Sports)</strong></em> was written by David Papineau, published by Basic Books, May 2, 2017."
+            },
+            {
+              "id": "76bb11c9-12d7-407b-a083-11d03f64973d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0dbd50df-6a65-4969-8914-b20eb3c90f74",
+              "type": "quote",
+              "html": "<em>In </em>Knowing the Score<em>, philosopher David Papineau uses sports to illuminate some of modern philosophy's most perplexing questions. As Papineau demonstrates, the study of sports clarifies, challenges, and sometimes confuses crucial issues in philosophy. The tactics of road bicycle racing shed new light on questions of altruism, while sporting family dynasties reorient the nature v. nurture debate. Why do sports competitors choke? Why do fans think God will favor their team over their rivals? How can it be moral to deceive the umpire by framing a pitch? From all of these questions, and many more, philosophy has a great deal to learn.<br><br>An entertaining and erudite book that ranges far and wide through the sporting world, </em>Knowing the Score<em> is perfect reading for armchair philosophers and Monday morning quarterbacks alike.</em>"
+            },
+            {
+              "id": "dca7fdaa-f4d0-40d6-a53b-8a4e87b9f9a9",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "cb162b5b-8bbd-4966-8ddf-75f1a911085a",
+          "type": "column",
+          "children": [
+            {
+              "id": "0c05688f-a9d1-49bd-b515-28d0fde37caa",
+              "type": "image",
+              "src": "./assets/images/untitled-7d4a25680bdc.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a409d586-6962-4581-afd5-8ef769036fe6",
+      "type": "divider"
+    },
+    {
+      "id": "36c5216f-ad64-4eec-a4c6-3c01764b3c14",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b8a52a93-0841-4f53-9e9a-81357dea0d6f",
+          "type": "column",
+          "children": [
+            {
+              "id": "a5967ef7-ab62-4394-b85e-891869536689",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bb4ceec3-0b76-4f15-ad58-52f9ecd93d25",
+          "type": "column",
+          "children": [
+            {
+              "id": "3c5b6871-d45a-4b05-ac35-460ef43730b4",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3QBkkpU\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0d1cf50c-e7d2-416b-bcf0-d2c67b2a1e48",
+      "type": "divider"
+    }
+  ]
+}

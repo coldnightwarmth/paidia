@@ -1,0 +1,131 @@
+{
+  "id": "92007d8b-91ce-44e9-93ca-6aabdef0ffbe",
+  "slug": "tao-of-jeet-kune-do",
+  "title": "Tao of Jeet Kune Do",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/92007d8b91ce44e993ca6aabdef0ffbe",
+  "createdTime": 1666026404546,
+  "lastEditedTime": 1681312890005,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Tao of Jeet Kune Do",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3ed74784d0b2.webp",
+  "blocks": [
+    {
+      "id": "f938dc3f-a374-4f29-926a-30eb229ff944",
+      "type": "divider"
+    },
+    {
+      "id": "5ab28491-8615-446e-9904-80e60b9992a3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fa5daafc-22ac-49a1-80f1-70117264cc44",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a6454989-d698-442c-8b5b-7f0b67631b82",
+          "type": "column",
+          "children": [
+            {
+              "id": "6a8440bb-13eb-402c-b77c-2ad0e322dd01",
+              "type": "paragraph",
+              "html": "<em><strong>Tao of Jeet Kune Do</strong></em><em> </em>was written by Bruce Lee, originally published by Ohara Publications Inc., 1975."
+            },
+            {
+              "id": "7db9ea8d-363b-438c-8e14-4f39a16dcbff",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "47d4eb3e-5349-4922-85fa-0d9d20ef5267",
+              "type": "quote",
+              "html": "<em>Compiled from Bruce Lee’s notes and essays and originally published in 1975, this iconic volume is one of the seminal martial arts guides of its time. The science and philosophy behind the fighting system Lee pioneered himself—jeet kune do—is explained in detail, depicted through hundreds of Lee’s own illustrations.</em>"
+            },
+            {
+              "id": "88b93085-cecb-4081-a4b7-73f5c0f03d69",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "67c71296-7373-48e1-be49-52bca5a03b65",
+          "type": "column",
+          "children": [
+            {
+              "id": "ac3c8705-642d-4009-b6e5-1f654bccfe2a",
+              "type": "image",
+              "src": "./assets/images/untitled-3ed74784d0b2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7eedb198-8fe6-4ff9-9e91-403523997483",
+      "type": "divider"
+    },
+    {
+      "id": "5ef522f9-d1a0-42a1-a34e-6a44e5b1d3bb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "21db4e83-8e26-4b02-b35c-1873ce672a6c",
+          "type": "column",
+          "children": [
+            {
+              "id": "3d5adc6b-5458-4d9e-b36f-490b2c7f2c06",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "198a1cd9-c515-4d75-ad50-027c8be4f309",
+          "type": "column",
+          "children": [
+            {
+              "id": "2c00e4a3-73e6-45b0-abfb-88f95a9ecf91",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3s3qFzs\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c18ae63e-0991-41bd-9fa9-e41f0fa45b09",
+      "type": "divider"
+    }
+  ]
+}

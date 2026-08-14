@@ -1,0 +1,136 @@
+{
+  "id": "80cbde7e-95ae-4f5a-9ff2-862d7622f35e",
+  "slug": "atari-design",
+  "title": "Atari Design",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Atari-Design-80cbde7e95ae4f5a9ff2862d7622f35e?pvs=21",
+  "createdTime": 1653079104133,
+  "lastEditedTime": 1681310969161,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Atari Design",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81ib-thvd2l-11860923bc5b.webp",
+  "blocks": [
+    {
+      "id": "e952c4df-d7b1-4d0b-aae5-21d5cab61e33",
+      "type": "divider"
+    },
+    {
+      "id": "bf1cb009-8cd5-4c3d-867b-0cd9b3bef3b6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f3d2d758-fc68-4c5d-8b18-b77f8d8de2a8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a50bf6dc-efa8-48b7-b31c-011618e3972c",
+          "type": "column",
+          "children": [
+            {
+              "id": "aceff2eb-7275-4dfa-8aa9-c43639035513",
+              "type": "paragraph",
+              "html": "<em><strong>Atari Design</strong></em> was written by Raiford Guins, published by Bloomsbury Visual Arts, December 2, 2020."
+            },
+            {
+              "id": "b0890c74-f91e-4f9c-a70b-93de073ca711",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "eece9210-f505-4c04-a8f5-46aeeb954166",
+              "type": "quote",
+              "html": "<em>Drawing from deep archival research and extensive interviews, Atari Design is a rich, historical study of how Atari's industrial and graphic designers contributed to the development of the video game machine.<br><br>Innovative game design played a key role in the growth of Atari – from </em>Pong<em> to </em>Asteroids<em> and beyond – but fun, challenging and exciting game play was not unique to the famous Silicon Valley company. What set it apart from its competitors was innovation in the coin-op machine's cabinet. Atari did not just make games, it designed products for environments.<br><br>With “tasteful packaging”, Atari exceeded traditional locations like bars, amusement parks and arcades, developing the look and feel of their game cabinets for new locations such as fast food restaurants, department stores, country clubs, university unions, and airports, making game-play a ubiquitous social and cultural experience. By actively shaping the interaction between user and machine, overcoming styling limitations and generating a distinct corporate identity, Atari designed products that impacted the everyday visual and material culture of the late 20th century<br><br>Design was never an afterthought at Atari.</em>"
+            },
+            {
+              "id": "813509fd-f6d0-4e82-8517-8ba3f57018a2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fc5dab04-132b-4ba5-8c59-3181ccbb10a3",
+          "type": "column",
+          "children": [
+            {
+              "id": "c4df10bb-01b0-4509-8f26-d3ade7f5b9f2",
+              "type": "image",
+              "src": "./assets/images/81ib-thvd2l-11860923bc5b.webp",
+              "caption": "",
+              "alt": "81IB-ThVD2L.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91c626e1-3141-4478-ab22-52e8abffe243",
+      "type": "divider"
+    },
+    {
+      "id": "a34e3799-a910-4a42-9721-3ef80fe08c2d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "daf8f99e-d1e7-45ee-86db-7a0c659b23d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b84ee9f-3135-43ac-b318-32b53ea37f08",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6fb1d828-9ff1-4a7f-9a9c-331c91372ae4",
+          "type": "column",
+          "children": [
+            {
+              "id": "f39ce5d8-8aa6-4b14-9d59-2b12534b3e96",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/38kPYXA\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "770bd7cc-cc15-4179-aa6c-552d9887562a",
+      "type": "divider"
+    },
+    {
+      "id": "b42fba90-c6f9-4959-a7b9-3f1a6a9bff4a",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

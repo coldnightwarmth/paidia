@@ -1,0 +1,131 @@
+{
+  "id": "7f3e91cd-f08f-49fc-95db-f2e4bc57cb83",
+  "slug": "drive",
+  "title": "Drive",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Drive-7f3e91cdf08f49fc95dbf2e4bc57cb83?pvs=21",
+  "createdTime": 1665085918036,
+  "lastEditedTime": 1681312898691,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Drive"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2f27c4158e97.webp",
+  "blocks": [
+    {
+      "id": "b03a8dc0-dc68-4321-b147-f42b8d349b00",
+      "type": "divider"
+    },
+    {
+      "id": "50f49784-a677-452a-82d6-7ba1d07420e9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "65ea9362-668c-4372-b7bb-0511f53489ed",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3fbe3c5e-7e7b-44f0-acee-d81eff1bc064",
+          "type": "column",
+          "children": [
+            {
+              "id": "839b77db-9256-40ec-b11b-f08c759b178c",
+              "type": "paragraph",
+              "html": "<em><strong>Drive: The Surprising Truth About What Motivates Us</strong></em> was written by Daniel H. Pink, published by Riverhead Books, April 5, 2011."
+            },
+            {
+              "id": "11c032ea-d5a8-43b3-9c51-6a2f58a7fa4f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5454d7a2-f4f5-43ff-b6dd-3698abf7a038",
+              "type": "quote",
+              "html": "<strong><em>The New York Times bestseller that gives readers a paradigm-shattering new way to think about motivation from the author of </em></strong><strong>When: The Scientific Secrets of Perfect Timing</strong><br><em><br>Most people believe that the best way to motivate is with rewards like money—the carrot-and-stick approach. That's a mistake, says Daniel H. Pink (author of </em>To Sell Is Human: The Surprising Truth About Motivating Others<em>). In this provocative and persuasive new book, he asserts that the secret to high performance and satisfaction-at work, at school, and at home—is the deeply human need to direct our own lives, to learn and create new things, and to do better by ourselves and our world.<br><br>Drawing on four decades of scientific research on human motivation, Pink exposes the mismatch between what science knows and what business does—and how that affects every aspect of life. He examines the three elements of true motivation—autonomy, mastery, and purpose-and offers smart and surprising techniques for putting these into action in a unique book that will change how we think and transform how we live.</em>"
+            },
+            {
+              "id": "be5f7d30-63ee-4569-8bb3-e57fce1efcf4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1ed7e08c-bc37-44dd-9daf-d2991f383c49",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0d1e0d1a-84c6-4d60-9ebe-60e6a14afea0",
+          "type": "column",
+          "children": [
+            {
+              "id": "5959c911-e06c-4c6d-a99a-6c502f0b79a4",
+              "type": "image",
+              "src": "./assets/images/untitled-2f27c4158e97.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d53a11d6-c5a6-4393-abd8-f3fa482eeecf",
+      "type": "divider"
+    },
+    {
+      "id": "cd9bf9ad-ad91-402d-92f0-29f8c8325f77",
+      "type": "columns",
+      "children": [
+        {
+          "id": "02b292ca-378a-4bc4-ab63-cdbf06406dc7",
+          "type": "column",
+          "children": [
+            {
+              "id": "877a53c0-1763-4f39-b3bf-df425d3930d7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "84925324-79e6-401a-bad7-2fb902769811",
+          "type": "column",
+          "children": [
+            {
+              "id": "9f81e73a-20d3-40b2-ae02-0915c7f6e228",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SEj462\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14098730-de49-4f68-a7ec-ee3e49635258",
+      "type": "divider"
+    }
+  ]
+}

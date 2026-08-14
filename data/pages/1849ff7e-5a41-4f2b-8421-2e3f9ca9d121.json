@@ -1,0 +1,131 @@
+{
+  "id": "1849ff7e-5a41-4f2b-8421-2e3f9ca9d121",
+  "slug": "toys-as-culture",
+  "title": "Toys As Culture",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/1849ff7e5a414f2b84212e3f9ca9d121",
+  "createdTime": 1653072179293,
+  "lastEditedTime": 1681313805102,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Toys As Culture",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-88784f49db56.webp",
+  "blocks": [
+    {
+      "id": "ff85f0b3-d665-4603-99d2-b74c22772c7a",
+      "type": "divider"
+    },
+    {
+      "id": "81e62d40-2b7f-4f01-a9cb-8d8ba59517e6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "dcaa62b9-f91f-4f00-b258-94a63a9406df",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5b1a6c7c-eb3f-4d28-862b-408fc1348957",
+          "type": "column",
+          "children": [
+            {
+              "id": "fa1058d3-4add-4a37-af5a-e4f772a2a16b",
+              "type": "paragraph",
+              "html": "<em><strong>Toys As Culture</strong></em> was written by Brian Sutton-Smith, published by Gardner Press, January 1, 1986."
+            },
+            {
+              "id": "a034909c-543b-44e1-bbf3-142e09a32d73",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "44d3b003-26e3-4576-b25e-4a7f0ec2b848",
+              "type": "quote",
+              "html": "<em>This interpretive book explores some of the contexts in modern American society within which toys seem to be very important and discusses some of the conflicting interpretations regarding those contexts. Part I, which concerns the toy in the family, discusses the toy as bond and obligation, as solitariness, and as consolation. Part II discusses the toy as technology, focuses on video games and the toy as machine, the technology of toys for infants, and toys as tools for infants. The toy as education is the theme of part III. Discussion in this section explores the toy as achievement, as the work of the 1-year-old, and as play and work during the child's second year. Part IV, which concerns the toy as market, discusses the toy as novelty and agency, describes the idealization of toys, and offers conclusions. In addition, the larger context of history is explored in order to discover forces that seem to underpin what is said about family, technology, and education. It is concluded that the discussion turns on the four toy contexts, eight ideological interpretations, and three kinds of toys: toys of acquaintance, toys of age- and sex-stereotypes, and toys of identity.</em>"
+            },
+            {
+              "id": "536ab38f-4a46-4d0f-8e8c-e7c3c78b6502",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0040a677-ef17-42aa-b45a-7f0c6b3eeaec",
+          "type": "column",
+          "children": [
+            {
+              "id": "85d9cf1c-5b9e-42c0-a24f-203d667b9da9",
+              "type": "image",
+              "src": "./assets/images/untitled-88784f49db56.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55c95d3c-be3b-4e15-bad4-a05eb9532821",
+      "type": "divider"
+    },
+    {
+      "id": "583542cd-fbe7-4b04-b57b-768ca1f4b57a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f5bfb7ea-af9e-4e0b-b4ce-a52f82081125",
+          "type": "column",
+          "children": [
+            {
+              "id": "a84ad25c-3bd8-4ef8-b410-21e88dbe7e2d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ff3f0c5f-34c0-4949-a2ba-b5bc3a979863",
+          "type": "column",
+          "children": [
+            {
+              "id": "b9912037-f71e-449d-a91c-bcbf3a06f76a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39PiO2S\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "581916a8-2f58-4823-a229-b21a15d96e36",
+      "type": "divider"
+    }
+  ]
+}

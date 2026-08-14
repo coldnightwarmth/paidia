@@ -1,0 +1,111 @@
+{
+  "id": "14553da4-50be-4030-a757-2e85f1340c86",
+  "name": "Levels",
+  "schema": {
+    "DLDS": {
+      "id": "DLDS",
+      "name": "Description",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "Ecua": {
+      "id": "Ecua",
+      "name": "Setting",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "^r^J": {
+      "id": "^r^J",
+      "name": "Obstacles",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mmHv": {
+      "id": "mmHv",
+      "name": "Mechanics needed",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Level",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "11c7f170-e508-431b-bb70-fae8a987a0c5",
+      "collectionId": "14553da4-50be-4030-a757-2e85f1340c86",
+      "type": "table",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "14d85f0f-ddd5-47d4-9a99-d30a6c1bc676",
+        "57b05eff-d96c-4634-9669-8245b6978696",
+        "8061979c-7f91-4af3-a713-b359575af29e"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 126
+        },
+        {
+          "property": "mmHv",
+          "visible": true,
+          "width": 176
+        },
+        {
+          "property": "^r^J",
+          "visible": true,
+          "width": 171
+        },
+        {
+          "property": "Ecua",
+          "visible": true,
+          "width": 166
+        },
+        {
+          "property": "DLDS",
+          "visible": true,
+          "width": 200
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

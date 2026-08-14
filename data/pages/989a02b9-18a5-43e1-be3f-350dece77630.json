@@ -1,0 +1,94 @@
+{
+  "id": "989a02b9-18a5-43e1-be3f-350dece77630",
+  "slug": "libro-de-los-juegos",
+  "title": "Libro de los Juegos",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/989a02b918a543e1be3f350dece77630",
+  "createdTime": 1651710688936,
+  "lastEditedTime": 1681314518311,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Libro de los Juegos",
+        [
+          [
+            "b"
+          ],
+          [
+            "i"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6ac61aacabec.webp",
+  "blocks": [
+    {
+      "id": "ae865eaa-185e-4798-924e-00bfadef58c1",
+      "type": "divider"
+    },
+    {
+      "id": "93d0130c-3329-4535-ae0e-db8777c97381",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "011e3da7-977c-4758-94b3-b05378ed7c3e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "efeb0f2e-cc61-4233-9a99-968144fac833",
+          "type": "column",
+          "children": [
+            {
+              "id": "2e9a2f1a-45d3-40fd-88fd-2f58dbc8162a",
+              "type": "paragraph",
+              "html": "The <strong><em>Libro de los Juegos</em></strong> (&quot;<em>Book of games</em>&quot;), or <em>Libro de axedrez, dados e tablas</em> (&quot;<em>Book of chess, dice and tables</em>&quot;, in Old Spanish), was a Castilian translation of Arabic texts on chess, dice and tables (backgammon variants) games, commissioned by <a href=\"#/alfonso-x-of-castile\">Alfonso X of Castile</a>, Galicia and León and completed in his scriptorium in Toledo in 1283. It contains the earliest European treatise on chess as well as being the oldest document on European tables games, and is an exemplary piece of the literary legacy of the Toledo School of Translators."
+            }
+          ]
+        },
+        {
+          "id": "57baf45e-9f91-4a0c-9b1d-eb6ee98c1cb2",
+          "type": "column",
+          "children": [
+            {
+              "id": "326d1e33-adb4-443d-a0ad-a70c357daa6d",
+              "type": "image",
+              "src": "./assets/images/untitled-6ac61aacabec.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b42203a6-340f-49c5-9183-a3423b3382fc",
+      "type": "divider"
+    },
+    {
+      "id": "0b6d2146-5bf1-4e08-b9f5-bd433507eade",
+      "type": "callout",
+      "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+      "icon": "📚",
+      "children": []
+    },
+    {
+      "id": "3c756c0e-12fa-4885-8562-7c9ed3c152a4",
+      "type": "divider"
+    }
+  ]
+}

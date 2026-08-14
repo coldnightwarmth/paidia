@@ -1,0 +1,136 @@
+{
+  "id": "1697c1f0-daaa-439c-8525-26b12687e1b5",
+  "slug": "in-tune-with-the-world",
+  "title": "In Tune With the World",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/1697c1f0daaa439c852526b12687e1b5",
+  "createdTime": 1651684522301,
+  "lastEditedTime": 1681313203704,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "In Tune With the World"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/917f3ac0ywl-6741f2928fda.webp",
+  "blocks": [
+    {
+      "id": "2fe87cb3-5929-4f31-8d31-3dc1e04f39a0",
+      "type": "divider"
+    },
+    {
+      "id": "0df2a1dc-9d19-4fa1-ae9a-b37cb6dadab5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c997a464-dd42-4a73-a4e0-0fb32dc3dab8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3757d3b3-679b-4ce5-a3e6-2a3d635dc92a",
+          "type": "column",
+          "children": [
+            {
+              "id": "bdc12dfd-7d79-4696-84eb-3ddacc1d8afd",
+              "type": "paragraph",
+              "html": "<em><strong>In Tune with the World: A Theory of Festivity</strong></em> was written by <a href=\"#/josef-pieper\">Josef Pieper</a>, originally published by the University of Michigan Press in 1965."
+            },
+            {
+              "id": "7a045e2e-7218-4142-afc0-b1a82844cb2b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "700bfa9e-f26f-4c2a-a169-2ab7b852ad39",
+              "type": "quote",
+              "html": "<em>In this stimulating and still-timely study, Josef Pieper takes up a theme of paramount importance to his thinking – that festivals belong by rights among the great topics of philosophical discussion. As he develops his theory of festivity, the modern age comes under close and painful scrutiny. It is obvious that we no longer know what festivity is, namely, the celebration of existence under various symbols<br><br>Pieper exposes the pseudo-festivals, in their harmless and their sinister forms: traditional feasts contaminated by commercialism; artificial holidays created in the interest of merchandisers; holidays by coercion, decreed by dictators the world over; festivals as military demonstrations; holidays empty of significance. And lastly we are given the apocalyptic vision of a nihilistic world which would seek its release not in festivities but in destruction.<br><br>Formulated with Pieper's customary clarity and elegance, enhanced by brilliantly chosen quotations, this is an illuminating contribution to the understanding of traditional and contemporary experience.</em>"
+            }
+          ]
+        },
+        {
+          "id": "aca1b247-0d43-476b-a0b9-7325b5c0532b",
+          "type": "column",
+          "children": [
+            {
+              "id": "3a66dd7f-7e56-478a-b555-96867f2d5a4d",
+              "type": "image",
+              "src": "./assets/images/917f3ac0ywl-6741f2928fda.webp",
+              "caption": "",
+              "alt": "917f3AC0YwL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f5dabd89-9f53-4717-a637-01764c03fefa",
+      "type": "divider"
+    },
+    {
+      "id": "9a47d7ae-0b1c-4ff4-bb05-94192fb875e9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a00a1af2-3685-4a0c-946a-6c7d48bce5a6",
+          "type": "column",
+          "children": [
+            {
+              "id": "3b26f176-78df-4749-803c-6ff30b9b5746",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "02d91ab8-e80b-4ad0-8b61-4bf31553742b",
+          "type": "column",
+          "children": [
+            {
+              "id": "ce1e420b-5306-4fd2-ae40-58207bf1a207",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yv0xC5\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5c185fb-53be-43a5-a2ce-ec5c2fe462e2",
+      "type": "divider"
+    },
+    {
+      "id": "aa5e4879-3c13-412e-8004-b1a4f92b8462",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "a50c6ad9-f6f0-4b4e-baba-ca28ce386f75",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-feast-of-fools\">The Feast of Fools</a> (<em>book</em>)"
+    },
+    {
+      "id": "7562bc96-b0b6-4bbb-826d-039a8dc9c349",
+      "type": "paragraph",
+      "html": "<a href=\"#/leisure-the-basis-of-culture\">Leisure, The Basis of Society</a> (<em>book</em>)"
+    }
+  ]
+}

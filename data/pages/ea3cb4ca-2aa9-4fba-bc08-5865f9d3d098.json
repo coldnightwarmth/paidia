@@ -1,0 +1,151 @@
+{
+  "id": "ea3cb4ca-2aa9-4fba-bc08-5865f9d3d098",
+  "slug": "essays-upon-gaming",
+  "title": "Essays Upon Gaming",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/ea3cb4ca2aa94fbabc085865f9d3d098",
+  "createdTime": 1651770235041,
+  "lastEditedTime": 1681313410472,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Essays Upon Gaming"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-70893b8915a6.webp",
+  "blocks": [
+    {
+      "id": "49adb354-8309-4850-8c18-6b18cbe8eca7",
+      "type": "divider"
+    },
+    {
+      "id": "3e222d75-d7d0-40b0-815f-8cd16d9a4b80",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "088d8480-68c2-465e-9e5a-32c3032711de",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4527c4ad-b9a6-4368-9881-d521c3eed7bb",
+          "type": "column",
+          "children": [
+            {
+              "id": "4b87ce7a-2308-458a-be97-1fda13b4fc83",
+              "type": "paragraph",
+              "html": "<em><strong>Essays Upon Gaming</strong></em> is a dialogue written by Jeremy Collier, originally published in 1713."
+            },
+            {
+              "id": "e0938d8a-1510-4353-b2a9-8331b2fc897a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b754827b-664c-45f0-ac03-359baa439be1",
+              "type": "quote",
+              "html": "<em>And to bring the Enemy to a more decisive Contest, 'tis your Method to conceal your Force, to give way a little at the first Shock, and retire Fighting.</em>"
+            }
+          ]
+        },
+        {
+          "id": "39a1d514-c52d-4e36-9e74-9288fb80cb0e",
+          "type": "column",
+          "children": [
+            {
+              "id": "f59f3af2-fab4-4815-aaa1-3055038b1371",
+              "type": "image",
+              "src": "./assets/images/untitled-70893b8915a6.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "951f9deb-d726-45ab-8cb2-93f71295687d",
+      "type": "divider"
+    },
+    {
+      "id": "a20fe8b4-6085-4102-bd5c-ba60838e7ae6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8e3fe159-a222-4a76-9b67-72b50df7ec56",
+          "type": "column",
+          "children": [
+            {
+              "id": "916009c2-8859-4b41-925d-152749afc118",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "22d9606e-3383-4cd1-9b34-e5c4cff08650",
+          "type": "column",
+          "children": [
+            {
+              "id": "cb5871f6-7bb1-4246-a597-a9bd50aa1209",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3M9dPIv\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a2bf485-db3f-45ff-9fb3-e31e289a020b",
+      "type": "divider"
+    },
+    {
+      "id": "355141c6-1497-42c7-80d4-55737b3aea92",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "e20f7448-37a7-4e9d-a1d7-778f7ec621a3",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-play-of-the-platonic-dialogues\">The Play of the Platonic Dialogues</a> (<em>book</em>)"
+    },
+    {
+      "id": "7a4ca53b-7e03-4cab-a16a-bcb6fe5ac146",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "86f4e946-64e3-48c6-a369-824a35c9c7e5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "67138647-13e6-4444-b65d-9cfb8daadf4c",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "549655f4-c3c1-4e46-bc7d-c1378e5f12ad",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

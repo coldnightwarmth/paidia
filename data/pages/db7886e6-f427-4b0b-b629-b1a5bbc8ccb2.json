@@ -1,0 +1,163 @@
+{
+  "id": "db7886e6-f427-4b0b-b629-b1a5bbc8ccb2",
+  "slug": "software-db7886e6",
+  "title": "Software",
+  "icon": "💾",
+  "cover": "",
+  "type": "page",
+  "parentId": "4660ba5f-2a4f-4fc9-a8be-359780c6a067",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/db7886e6f4274b0bb629b1a5bbc8ccb2",
+  "createdTime": 1652062740000,
+  "lastEditedTime": 1681313456490,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Software"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "78fc6211-0833-4d05-900b-01bd65c75aaa",
+      "type": "paragraph",
+      "html": "<strong>[UNDER CONSTRUCTION]</strong>"
+    },
+    {
+      "id": "088e6247-003b-4b22-92ea-79503e26f79d",
+      "type": "divider"
+    },
+    {
+      "id": "dc0e8351-0ccd-4f1a-b0fd-0c8482034272",
+      "type": "columns",
+      "children": [
+        {
+          "id": "83225e96-ff29-49ea-b507-80e0a564646b",
+          "type": "column",
+          "children": [
+            {
+              "id": "9d0960e4-eb15-48cd-9429-5d2fe6a987da",
+              "type": "page_link",
+              "targetId": "9d0960e4-eb15-48cd-9429-5d2fe6a987da",
+              "title": "Adobe CS",
+              "notionType": "page"
+            },
+            {
+              "id": "fe348655-7b49-48c2-bbd6-18d33d2f958c",
+              "type": "toggle",
+              "html": "AI Art Tools",
+              "children": []
+            },
+            {
+              "id": "a3d47d7e-0143-4b5c-8ea5-3e3508569b0e",
+              "type": "page_link",
+              "targetId": "a3d47d7e-0143-4b5c-8ea5-3e3508569b0e",
+              "title": "Blender",
+              "notionType": "page"
+            },
+            {
+              "id": "0e1f0a96-5b21-49bd-959b-f676352c3cda",
+              "type": "page_link",
+              "targetId": "0e1f0a96-5b21-49bd-959b-f676352c3cda",
+              "title": "BYOND",
+              "notionType": "page"
+            },
+            {
+              "id": "95410a18-3c18-4443-9b39-a3f6ae0624ac",
+              "type": "toggle",
+              "html": "Game Engines",
+              "children": []
+            },
+            {
+              "id": "62330b98-9e63-4cec-ad06-a52c19ef546e",
+              "type": "page_link",
+              "targetId": "62330b98-9e63-4cec-ad06-a52c19ef546e",
+              "title": "GitHub",
+              "notionType": "page"
+            }
+          ]
+        },
+        {
+          "id": "080cddda-f214-40b7-8e4a-72b00eae5a2a",
+          "type": "column",
+          "children": [
+            {
+              "id": "93460da1-e075-432d-8994-6dd4bbf3fa33",
+              "type": "page_link",
+              "targetId": "93460da1-e075-432d-8994-6dd4bbf3fa33",
+              "title": "itch.io",
+              "notionType": "page"
+            },
+            {
+              "id": "a9447564-3f6b-497c-9118-fe591e43e89b",
+              "type": "page_link",
+              "targetId": "a9447564-3f6b-497c-9118-fe591e43e89b",
+              "title": "Notion",
+              "notionType": "page"
+            },
+            {
+              "id": "0c29f2e1-8213-4fd9-bb98-af8994e0e58a",
+              "type": "page_link",
+              "targetId": "0c29f2e1-8213-4fd9-bb98-af8994e0e58a",
+              "title": "TempleOS",
+              "notionType": "page"
+            },
+            {
+              "id": "7e8da4bf-03ae-4c08-90b7-9cb04d158645",
+              "type": "page_link",
+              "targetId": "7e8da4bf-03ae-4c08-90b7-9cb04d158645",
+              "title": "Steam",
+              "notionType": "page"
+            },
+            {
+              "id": "1c147319-0fc5-4d29-b0ed-56baa4ffcd29",
+              "type": "page_link",
+              "targetId": "1c147319-0fc5-4d29-b0ed-56baa4ffcd29",
+              "title": "Urbit",
+              "notionType": "page"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7abd9f0-18d8-44b5-af5a-b0b849a636bb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b0120b1d-6860-4e35-b7d9-09f321686c96",
+      "type": "divider"
+    },
+    {
+      "id": "5edbee4e-5391-43bf-b990-dc82c534d25c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "93399829-4b9e-4f69-af24-643c6f520712",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5a268161-dcaa-44ab-8adb-f2311f6db152",
+      "type": "paragraph",
+      "html": "<a href=\"#/games-549e6748\"><u>☜Games</u></a>"
+    },
+    {
+      "id": "eb87137e-3cd5-4b11-87dc-1107f1d9d203",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

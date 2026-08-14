@@ -1,0 +1,146 @@
+{
+  "id": "f742b609-d9c4-43b2-9d77-4931f3361b94",
+  "slug": "gaming-and-the-divine",
+  "title": "Gaming & the Divine",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Gaming-the-Divine-f742b609d9c443b29d774931f3361b94?pvs=21",
+  "createdTime": 1652535200393,
+  "lastEditedTime": 1681313534860,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gaming & the Divine",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-592d00edbbb1.webp",
+  "blocks": [
+    {
+      "id": "23c82ec8-dabb-4d0c-bb0b-7717fd70813e",
+      "type": "divider"
+    },
+    {
+      "id": "5d10a03f-430d-4358-af44-77cac2be183d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ac81db7c-7426-450b-9f62-a6f124b75520",
+      "type": "columns",
+      "children": [
+        {
+          "id": "33141a4a-f9e3-4900-9af6-c4bc3d0c8059",
+          "type": "column",
+          "children": [
+            {
+              "id": "ae9acbf3-3fa4-4ea3-a7d3-a09470510b5d",
+              "type": "paragraph",
+              "html": "<em><strong>Gaming &amp; the Divine: A New Systematic Theology of Video Games</strong></em> was written by Frank G. Bosman, published by Routledge, March 31, 2021."
+            },
+            {
+              "id": "433b8ae5-15e0-4bf9-9e7f-5ef343678f6c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b6624ad3-6b9b-4043-a408-ffa332676af0",
+              "type": "quote",
+              "html": "<em>This book formulates a new theological approach to the study of religion in gaming. Video games have become one of the most important cultural artifacts of modern society, both as mediators of cultural, social, and religious values and in terms of commercial success. This has led to a significant increase in the critical analysis of this relatively new medium, but theology as an academic discipline is noticeably behind the other humanities on this subject.<br><br>The book first covers the fundamentals of cultural theology and video games. It then moves on to set out a Christian systematic theology of gaming, focusing on creational theology, Christology, anthropology, evil, moral theology, and thanatology. Each chapter introduces case studies from video games connected to the specific theme. In contrast to many studies which focus on online multiplayer games, the examples considered are largely single player games with distinct narratives and ‘end of game’ moments. The book concludes by synthesizing these themes into a new theology of video games.</em>"
+            },
+            {
+              "id": "bce509ca-2e23-4ff3-aad1-4a1b3749f85c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c7f39e22-2bb5-46ba-ae68-8944de4beb5f",
+          "type": "column",
+          "children": [
+            {
+              "id": "537f31d3-dcf4-4967-ba8e-5346564c0207",
+              "type": "image",
+              "src": "./assets/images/untitled-592d00edbbb1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab324e48-cbc7-42cd-9ecf-6b46faea9a1c",
+      "type": "divider"
+    },
+    {
+      "id": "149cc636-1020-43b8-a4f7-e9233b02927b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "14e5dc28-994a-45dd-8c72-777c229b2da8",
+          "type": "column",
+          "children": [
+            {
+              "id": "49fd4bfd-92d7-447c-b2bf-0fc9b90406e9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7dfcbd69-839e-4098-9ab3-d20985722cdb",
+          "type": "column",
+          "children": [
+            {
+              "id": "12edb8bc-b7fe-4ccc-be08-254713a91669",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yWURkC\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1afb8ae-f468-4ec2-909d-748bfcecc3e6",
+      "type": "divider"
+    },
+    {
+      "id": "3fbe1e89-bde6-46fa-87a2-51ae981241e6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "16a3ddb9-4f98-45c3-ac41-ce45fb5e9ec4",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "bb2301c2-cb7b-48d7-bd68-17e1a194b3a6",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

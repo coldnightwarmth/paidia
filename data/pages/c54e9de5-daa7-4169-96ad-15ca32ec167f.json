@@ -1,0 +1,131 @@
+{
+  "id": "c54e9de5-daa7-4169-96ad-15ca32ec167f",
+  "slug": "significant-zero",
+  "title": "Significant Zero",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Significant-Zero-c54e9de5daa7416996ad15ca32ec167f?pvs=21",
+  "createdTime": 1653075831913,
+  "lastEditedTime": 1681313812130,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Significant Zero",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81yflm6i0yl-a6a973c2c8c0.webp",
+  "blocks": [
+    {
+      "id": "8c14eee9-2440-49d5-9b41-1e22a9571f66",
+      "type": "divider"
+    },
+    {
+      "id": "5e03b647-b43c-4fa2-90a3-cb7ed221a1ba",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ccb8eac1-8685-4287-918e-8ac2c3f26ad3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5373a610-4026-4f63-912e-6fe0e4fdf4a1",
+          "type": "column",
+          "children": [
+            {
+              "id": "a4a491e5-270a-4d98-93a4-2e96a6e950b1",
+              "type": "paragraph",
+              "html": "<em><strong>Significant Zero: Heroes, Villains, &amp; the Fight for Art &amp; Soul in Video Games</strong></em> was written by Walt Williams, published by Atria Books, September 19, 2017."
+            },
+            {
+              "id": "88d17ebf-9f4b-4adc-a514-816593b46fd3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7a59a5f3-43a6-4d03-b337-fb51e3b9e82b",
+              "type": "quote",
+              "html": "<em>From the award-winning videogame writer behind </em>Spec Ops: The Line <em>comes an exclusive behind-the-scenes look at how today’s blockbuster video games are made.<br><br>When his satirical musings in a college newspaper got him discharged from the Air Force, it became clear to Walt Williams that his destiny in life was to be a writer—he just never thought he’d end up writing video games, let alone working on some of the most successful franchises in the industry—</em>Bioshock, Civilization, Borderlands<em>, and </em>Mafia <em>among others.<br><br>Williams pulls back the curtain on an astonishingly profitable industry that has put its stamp on pop culture and yet is little known to those outside its walls. In his reflective yet comically-observant voice, Williams walks you through his unlikely and at times inglorious rise within one of the world’s top gaming companies, exposing an industry abundant in brain power and out-sized egos, but struggling to stay innovative. </em>Significant Zero<em> also provides clear-eyed criticism of the industry’s addiction to violence and explains how the role of the narrative designer—the poor soul responsible for harmonizing gameplay with storylines—is crucial for expanding the scope of video games into more immersive and emotional experiences.<br><br></em>Significant Zero<em> offers a rare look inside this fascinating, billion-dollar industry and a path forward for its talented men and women—gamers and nongamers alike—that imagines how video games might inspire the best in all of us.</em>"
+            },
+            {
+              "id": "93bf829d-8d90-475e-9a3e-6221d482b817",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "15f0f174-ce32-44a6-bbb5-20075b3b9608",
+          "type": "column",
+          "children": [
+            {
+              "id": "a5653c63-f898-40fd-bf93-685fe5fcc3f6",
+              "type": "image",
+              "src": "./assets/images/81yflm6i0yl-a6a973c2c8c0.webp",
+              "caption": "",
+              "alt": "81yFlM6i0yL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cc3ecd6c-2eb2-4ddd-8fba-d437d8f32a63",
+      "type": "divider"
+    },
+    {
+      "id": "4d460d4a-ea5d-442e-ac39-3ea561912b85",
+      "type": "columns",
+      "children": [
+        {
+          "id": "61771890-fa4c-41ff-a50f-22d24e55ce6a",
+          "type": "column",
+          "children": [
+            {
+              "id": "f36febfe-4d65-462a-ba8b-609d146c8d67",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c074a1b8-4507-403c-b699-cfad75ae0976",
+          "type": "column",
+          "children": [
+            {
+              "id": "a4e2f7a0-a073-4610-88af-bc62bf0a2b6b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Fy5HAP\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dcaf744a-cfbe-4c72-868d-8843f925ff23",
+      "type": "divider"
+    }
+  ]
+}

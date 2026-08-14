@@ -1,0 +1,131 @@
+{
+  "id": "2112e099-8537-4f28-8852-0bf14114e4fe",
+  "slug": "shared-fantasy",
+  "title": "Shared Fantasy",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Shared-Fantasy-2112e09985374f2888520bf14114e4fe?pvs=21",
+  "createdTime": 1657139992341,
+  "lastEditedTime": 1681313885693,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Shared Fantasy",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-037aebf22b5e.webp",
+  "blocks": [
+    {
+      "id": "29147d62-fb57-4d10-9975-de1eca05117b",
+      "type": "divider"
+    },
+    {
+      "id": "46f6721f-9209-435c-954c-5b47ee1e1531",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "29a56645-3646-4520-a588-9f2fa4a84690",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5b8e8cdf-332d-41fb-abe4-81cb2cb61465",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf3d52f4-c21b-4a09-b353-e55853769604",
+              "type": "paragraph",
+              "html": "<em><strong>Shared Fantasy: Role Playing Games As Social Worlds</strong></em> was written by Gary Alan Fine, published by University of Chicago Press, December 1, 1983."
+            },
+            {
+              "id": "38fb1be8-64e3-4fa2-8b20-77fbc9a84196",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1110ae15-28cd-458b-ac95-7ea2bfe2d6d7",
+              "type": "quote",
+              "html": "<em>This classic study still provides one of the most acute descriptions available of an often misunderstood subculture: that of fantasy role playing games like </em>Dungeons &amp; Dragons<em>. Gary Alan Fine immerses himself in several different gaming systems, offering insightful details on the nature of the games and the patterns of interaction among players,as well as their reasons for playing.</em>"
+            },
+            {
+              "id": "d8b697a2-e5c9-4c0b-b1e3-e4bfc2f8965b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "6fc47ec1-9702-4e35-b605-d8930e64549d",
+          "type": "column",
+          "children": [
+            {
+              "id": "d4e28ed3-b625-4579-9c99-3862539eb27b",
+              "type": "image",
+              "src": "./assets/images/untitled-037aebf22b5e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64e29cd0-f569-48df-8249-af5c124e5158",
+      "type": "divider"
+    },
+    {
+      "id": "8d8360b4-a7cf-4b72-8c49-f3716838a67e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8c024f4b-4277-42b3-9a06-5389876b08d9",
+          "type": "column",
+          "children": [
+            {
+              "id": "6b8b5b07-69aa-4fbb-a99d-20c39abce20f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b280dffe-3832-401e-bfe5-bbdd13faaace",
+          "type": "column",
+          "children": [
+            {
+              "id": "a327df5b-d2fe-42ef-8ee1-b100de8eb375",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3nJcFbT\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "504d11c4-0d02-454f-8ab2-33ccc99c83c6",
+      "type": "divider"
+    }
+  ]
+}

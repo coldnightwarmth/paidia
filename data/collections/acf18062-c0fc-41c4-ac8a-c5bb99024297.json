@@ -1,0 +1,263 @@
+{
+  "id": "acf18062-c0fc-41c4-ac8a-c5bb99024297",
+  "name": "Tutorials",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "bdb69f31-bbec-427b-9783-3acb0d958819",
+          "value": "Premium",
+          "color": "orange"
+        },
+        {
+          "id": "740440de-0d3c-4c4e-8b22-56d215f26cb6",
+          "value": "Free",
+          "color": "blue"
+        },
+        {
+          "id": "82e1d48b-f4b4-46f2-9669-5f9ee0c33039",
+          "value": "AfterEffects",
+          "color": "brown"
+        },
+        {
+          "id": "3b59985c-9d1a-4571-a3db-268d7afc7c30",
+          "value": "Cinema4D",
+          "color": "yellow"
+        },
+        {
+          "id": "63b8ed1d-1525-4f1d-9efd-63a958aacf6c",
+          "value": "Photoshop",
+          "color": "green"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "85c9d33b-2287-49e5-8ee4-c265f30247c3",
+      "collectionId": "acf18062-c0fc-41c4-ac8a-c5bb99024297",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "0d673e60-1c3d-42a2-b3e0-d3a919a34c07",
+        "66244e88-dcf5-4caf-9c8f-64a391358125",
+        "87d90570-4924-4d2a-b274-ed04bf9cecbb",
+        "0a5861d5-f19c-440e-8cfc-6cd63d0f3a0b",
+        "331066b3-afb2-4502-81ad-18d51acb3095",
+        "019898af-f898-4681-8847-b357426d5808",
+        "a7a0cd9a-5d60-423d-8670-b967aa89f65b",
+        "7827eafb-f9c0-4cd6-89e8-6f3ef8f5d528",
+        "1ff3dcd2-f24d-45d7-887e-2644124c6042",
+        "ddc41135-0e81-453a-b03d-58435b9da3da",
+        "cd938c10-e6f3-4839-944f-d89960d91dc3",
+        "7134d653-bece-484d-82ba-0d1ffee4e07c",
+        "29552926-3099-4564-984e-7576714a9f7e"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "44222b0f-d230-4d2e-8f76-0bae0dffc1cf",
+      "collectionId": "acf18062-c0fc-41c4-ac8a-c5bb99024297",
+      "type": "gallery",
+      "name": "Free",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "8bc7b436-a006-4921-9788-d5d078744e48",
+      "collectionId": "acf18062-c0fc-41c4-ac8a-c5bb99024297",
+      "type": "gallery",
+      "name": "Premium",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "24f31057-b425-4a07-98dc-dbc97ce0ac17",
+      "collectionId": "acf18062-c0fc-41c4-ac8a-c5bb99024297",
+      "type": "gallery",
+      "name": "AfterEffects",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "23763fd8-2aba-47e0-b79e-6abfce14ab1d",
+      "collectionId": "acf18062-c0fc-41c4-ac8a-c5bb99024297",
+      "type": "gallery",
+      "name": "Cinema4D",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

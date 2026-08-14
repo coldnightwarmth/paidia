@@ -1,0 +1,116 @@
+{
+  "id": "4016c514-1c9d-4075-9450-bff81acf4e6b",
+  "slug": "i-ching",
+  "title": "I Ching",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/I-Ching-4016c5141c9d40759450bff81acf4e6b?pvs=21",
+  "createdTime": 1651689131656,
+  "lastEditedTime": 1681313835282,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "I Ching"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-789f19bac029.webp",
+  "blocks": [
+    {
+      "id": "81922b8b-14aa-4140-b2e8-6ba3de36f488",
+      "type": "divider"
+    },
+    {
+      "id": "835804a6-bad6-4f23-b55d-49bfe26aa339",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1464b706-6b97-40c9-9aba-b9823c3e0bab",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f8e7d60a-7e2c-4775-ba9b-99a6fd6c0118",
+          "type": "column",
+          "children": [
+            {
+              "id": "e9074802-708e-4155-8b76-aa57c5e60df8",
+              "type": "quote",
+              "html": "<em>At least 5000 years old, the &quot;</em>I Ching<em>&quot; is a book of oracles containing the whole of human experience. Used for divination, it is a method of exploring the unconscious; through the symbolism of its hexagrams we are guided towards the solution of difficult problems and life situations. It can also be read as a book of wisdom revealing the laws of life to which we must all attune ourselves if we are to live in peace and harmony.</em>"
+            },
+            {
+              "id": "097a5549-d085-4d56-926a-b6b54fffa63f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "cd5b286a-1860-43a7-8978-9744d12e2e6c",
+          "type": "column",
+          "children": [
+            {
+              "id": "801a6075-971f-4954-983f-b476d95b7da5",
+              "type": "image",
+              "src": "./assets/images/untitled-789f19bac029.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a2b5abb-20d6-48f3-907c-96fa8e837c24",
+      "type": "divider"
+    },
+    {
+      "id": "dd850a27-fee0-4daf-ba55-a475694988e8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d0cd537c-884b-4a13-b309-fc8c20cbe7c9",
+          "type": "column",
+          "children": [
+            {
+              "id": "1daffd45-d7f7-4192-b7f0-3e1abba5d169",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c3f758c1-7a3e-478b-86e8-891d74700769",
+          "type": "column",
+          "children": [
+            {
+              "id": "33bd50c3-e42a-465e-bb62-b65c0120c3fe",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3LIMR9A\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ebd25ec-8210-416b-a980-5b9adad2148d",
+      "type": "divider"
+    }
+  ]
+}

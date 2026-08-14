@@ -1,0 +1,126 @@
+{
+  "id": "e5cfa62c-ed17-471f-a039-1a03827331d0",
+  "slug": "surrealism-at-play",
+  "title": "Surrealism at Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Surrealism-at-Play-e5cfa62ced17471fa0391a03827331d0?pvs=21",
+  "createdTime": 1651868835056,
+  "lastEditedTime": 1681314239550,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Surrealism at Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7ff13bb99e05.webp",
+  "blocks": [
+    {
+      "id": "7aa06767-5e78-472d-919f-22203034c274",
+      "type": "divider"
+    },
+    {
+      "id": "b6aff669-8c6f-473e-9ab9-f9fb69ef254f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8e83badb-dbfb-4e79-a0d2-d6b7d6822f17",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5d7c8354-472a-4c71-8de0-a8dd65b61c27",
+          "type": "column",
+          "children": [
+            {
+              "id": "31b0abb3-463d-4462-9e3b-01498be5435f",
+              "type": "paragraph",
+              "html": "<em><strong>Surrealism at Play</strong></em> was written by Susan Laxton, published by Duke University Press Books, February 12, 2019."
+            },
+            {
+              "id": "6c139a9e-837c-45a8-9ba4-1ae2bdf24969",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5b9a3075-0dde-4214-b572-7b8b4b3dc1ee",
+              "type": "quote",
+              "html": "<em>In </em>Surrealism at Play<em> Susan Laxton writes a new history of surrealism in which she traces the centrality of play to the movement and its ongoing legacy. For surrealist artists, play took a consistent role in their aesthetic as they worked in, with, and against a post-World War I world increasingly dominated by technology and functionalism. Whether through exquisite-corpse drawings, Man Ray’s rayographs, or Joan Miró’s visual puns, surrealists became adept at developing techniques and processes designed to guarantee aleatory outcomes. In embracing chance as the means to produce unforeseeable ends, they shifted emphasis from final product to process, challenging the disciplinary structures of industrial modernism. As Laxton demonstrates, play became a primary method through which surrealism refashioned artistic practice, everyday experience, and the nature of subjectivity.</em>"
+            }
+          ]
+        },
+        {
+          "id": "09f819d6-ce1a-43d3-b7bd-ac36ec983e23",
+          "type": "column",
+          "children": [
+            {
+              "id": "54141b0c-fa70-4d4f-b88a-4495ef1ac536",
+              "type": "image",
+              "src": "./assets/images/untitled-7ff13bb99e05.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18a8866f-1051-4f58-821a-04877dd70e15",
+      "type": "divider"
+    },
+    {
+      "id": "f9f1c314-bd59-4029-b948-4cc7deccd384",
+      "type": "columns",
+      "children": [
+        {
+          "id": "58094685-6f52-4dcc-a0ab-3f6d4d6b61bd",
+          "type": "column",
+          "children": [
+            {
+              "id": "a9fa2ed9-8f65-439e-96f7-3de290bb6fd4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "04fc1e7d-81a9-4e60-8520-db005debb429",
+          "type": "column",
+          "children": [
+            {
+              "id": "677552e4-b612-4e3d-87e8-f9be1b366f45",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3MGKiGa\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4631836d-29f6-4ff4-8866-d23b752fefe8",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "66809476-7f57-4067-a721-bf585d1d576c",
+  "slug": "the-future-was-here",
+  "title": "The Future Was Here",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "46177b24-2d03-4a55-945a-07bf7464a995",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Future-Was-Here-668094767f574067a721bf585d1d576c?pvs=21",
+  "createdTime": 1651704183467,
+  "lastEditedTime": 1681313936733,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Future Was Here",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-123f92a549d5.webp",
+  "blocks": [
+    {
+      "id": "2180860a-ec39-4d3f-ab41-74ba0508a87d",
+      "type": "divider"
+    },
+    {
+      "id": "2ecb3c9d-2ea4-4fd3-9a9a-7ad849011417",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a50fd7c8-69c6-480e-9f3a-72798680cfbf",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2b311747-0a5e-4a4d-bf82-58768f6d68db",
+          "type": "column",
+          "children": [
+            {
+              "id": "b20e352b-04b2-48bb-a989-70672bb40276",
+              "type": "paragraph",
+              "html": "<em><strong>The Future Was Here: The Commodore Amiga</strong></em> was written by Jimmy Maher, published by The MIT Press, April 13, 2012."
+            },
+            {
+              "id": "5dc085ed-951a-47a9-abe3-349e31fde61a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f337f186-00d1-44fa-969b-91668b2f904a",
+              "type": "quote",
+              "html": "<strong><em>Exploring the often-overlooked history and technological innovations of the world's first true multimedia computer.</em></strong><em><br><br>Long ago, in 1985, personal computers came in two general categories: the friendly, childish game machine used for fun (exemplified by Atari and Commodore products); and the boring, beige adult box used for business (exemplified by products from IBM). The game machines became fascinating technical and artistic platforms that were of limited real-world utility. The IBM products were all utility, with little emphasis on aesthetics and no emphasis on fun. Into this bifurcated computing environment came the Commodore Amiga 1000. This personal computer featured a palette of 4,096 colors, unprecedented animation capabilities, four-channel stereo sound, the capacity to run multiple applications simultaneously, a graphical user interface, and powerful processing potential. It was, Jimmy Maher writes in </em>The Future Was Here<em>, the world's first true multimedia personal computer.<br><br>Maher argues that the Amiga's capacity to store and display color photographs, manipulate video (giving amateurs access to professional tools), and use recordings of real-world sound were the seeds of the digital media future: digital cameras, Photoshop, MP3 players, and even YouTube, Flickr, and the blogosphere. He examines different facets of the platform―from Deluxe Paint to AmigaOS to Cinemaware―in each chapter, creating a portrait of the platform and the communities of practice that surrounded it. Of course, Maher acknowledges, the Amiga was not perfect: the DOS component of the operating systems was clunky and ill-matched, for example, and crashes often accompanied multitasking attempts. And Commodore went bankrupt in 1994. But for a few years, the Amiga's technical qualities were harnessed by engineers, programmers, artists, and others to push back boundaries and transform the culture of computing.</em>"
+            },
+            {
+              "id": "90b8ef7c-2351-4d06-8a53-98df427f1339",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c4230e83-004e-4666-939a-5b9d8c475e37",
+          "type": "column",
+          "children": [
+            {
+              "id": "ac20a107-e833-4925-a3c8-94551e305296",
+              "type": "image",
+              "src": "./assets/images/untitled-123f92a549d5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4f3d1ec-b98a-4f45-8756-219fb299488f",
+      "type": "divider"
+    },
+    {
+      "id": "b7d4e1d6-ebf5-4d30-be0e-7043ca060e38",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e44438df-3b80-483c-a940-106b750bcfcf",
+          "type": "column",
+          "children": [
+            {
+              "id": "f1a8a0f4-da27-4c32-8ee4-ab4d6d223233",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a05d9486-c891-4cf8-9651-b1ea9164e796",
+          "type": "column",
+          "children": [
+            {
+              "id": "86b49e47-0b51-4a9e-896b-80d60acc1eb5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DNg2Y9\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "25fcf3d3-4ed0-4245-a719-76a6fdc6bb5a",
+      "type": "divider"
+    }
+  ]
+}

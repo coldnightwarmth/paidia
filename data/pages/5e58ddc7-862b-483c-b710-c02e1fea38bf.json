@@ -1,0 +1,131 @@
+{
+  "id": "5e58ddc7-862b-483c-b710-c02e1fea38bf",
+  "slug": "growing-artificial-societies",
+  "title": "Growing Artificial Societies",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Growing-Artificial-Societies-5e58ddc7862b483cb710c02e1fea38bf?pvs=21",
+  "createdTime": 1652535528058,
+  "lastEditedTime": 1681314186873,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Growing Artificial Societies",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7419bf343d74.webp",
+  "blocks": [
+    {
+      "id": "a55c8d92-e4a3-4dd5-9a6d-2665f5b9787a",
+      "type": "divider"
+    },
+    {
+      "id": "5cb7e175-1425-4634-a4b4-0575675753b4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3434730e-a0c8-44f3-95ba-6884450119bd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0ef6f52e-c6da-4708-ac12-96f4290d7cc2",
+          "type": "column",
+          "children": [
+            {
+              "id": "2e366619-abc5-480e-815d-36513313cac9",
+              "type": "paragraph",
+              "html": "<em><strong>Growing Artificial Societies: Social Science From the Bottom Up</strong></em> was written by Joshua M. Epstein &amp; Robert Axtell originally published by The MIT Press, November 1994."
+            },
+            {
+              "id": "8e827b4c-32b5-4158-a1a8-3f21e944c5c0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "65416946-fdbf-400f-938d-b86aa78c2337",
+              "type": "quote",
+              "html": "Growing Artificial Societies<em> is a groundbreaking book that posits a new mechanism for studying populations and their evolution. By combining the disciplines of cellular automata and &quot;artificial life&quot;, Joshua M. Epstein and Robert Axtell have developed a mechanism for simulating all sorts of emergent behavior within a grid of cells managed by a computer. In their simulations, simple rules governing individuals' &quot;genetics&quot;&quot; and their competition for foodstuffs result in highly complex societal behaviors. Epstein and Axtell explore the role of seasonal migrations, pollution, sexual reproduction, combat, and transmission of disease or even &quot;culture&quot; within their artificial world, using these results to draw fascinating parallels with real- world societies. In their simulation, for instance, allowing the members to &quot;trade&quot; increases overall well-being but also increases economic inequality. In </em>Growing Artificial Societies<em>, the authors provide a workable framework for studying social processes in microcosm, a thoroughly fascinating accomplishment.</em>"
+            },
+            {
+              "id": "6d3e7a24-1070-4d4c-9852-22d0951d063b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "3413ec12-b7d4-4b2b-ba9e-e957d58d588c",
+          "type": "column",
+          "children": [
+            {
+              "id": "428e3208-839c-45e4-a5d9-1b3872c74fa8",
+              "type": "image",
+              "src": "./assets/images/untitled-7419bf343d74.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "500a9a24-1826-460f-8577-7c8f280e2b29",
+      "type": "divider"
+    },
+    {
+      "id": "9c0da30e-b180-4853-8e77-95c768f6c5a6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f93820fd-4c8f-428e-a326-cf597dea1ae5",
+          "type": "column",
+          "children": [
+            {
+              "id": "35fdbb65-c0e9-4bcc-824b-c9ddaadd001f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d5a16980-909f-40e0-b60d-7fc2c6eecbae",
+          "type": "column",
+          "children": [
+            {
+              "id": "f6f6cfd8-1811-4121-b544-fb580851166e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bhTEuc\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31cdf492-949d-4cd9-9782-5147c4f9bdb9",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": "f7a6ae5b-b1de-47e8-a0d3-7551c3a5399f",
+  "slug": "poems-and-short-stories",
+  "title": "Poems & Short Stories",
+  "icon": "📜",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2bb7067-ebca-4210-9eca-0eae38e4f7d3",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/f7a6ae5bb1de47e8a0d37551c3a5399f",
+  "createdTime": 1651977780000,
+  "lastEditedTime": 1681313194797,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Poems & Short Stories"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "7fe7d0a2-c52a-451a-bf12-c81469db4178",
+      "type": "paragraph",
+      "html": "<em>master list of collected individual poems &amp; short fiction::</em>"
+    },
+    {
+      "id": "286a415a-cbdf-4259-8881-13b2c5850da7",
+      "type": "divider"
+    },
+    {
+      "id": "65d5feea-49fb-4980-8894-5680d4573996",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "72361386-b4f6-4f76-83f8-d29e6eeaf4c7",
+      "type": "toggle",
+      "html": "<strong>Poetry</strong> [11]",
+      "children": [
+        {
+          "id": "2de20dcc-dab3-46fc-9cca-ca472a6439dc",
+          "type": "page_link",
+          "targetId": "2de20dcc-dab3-46fc-9cca-ca472a6439dc",
+          "title": "All Hail! Ye Infant Martyr Flowers",
+          "notionType": "page"
+        },
+        {
+          "id": "34e8bcab-d89e-4694-8dc9-5ea380afb91c",
+          "type": "page_link",
+          "targetId": "34e8bcab-d89e-4694-8dc9-5ea380afb91c",
+          "title": "Arcane Kids Manife$to",
+          "notionType": "page"
+        },
+        {
+          "id": "4f2d478e-ea43-454e-8f2f-5302cc205ece",
+          "type": "page_link",
+          "targetId": "4f2d478e-ea43-454e-8f2f-5302cc205ece",
+          "title": "Chess & Cruelty",
+          "notionType": "page"
+        },
+        {
+          "id": "e7584892-a657-457d-a9d2-e600e325e79c",
+          "type": "page_link",
+          "targetId": "e7584892-a657-457d-a9d2-e600e325e79c",
+          "title": "Childhood’s Retreat",
+          "notionType": "page"
+        },
+        {
+          "id": "b9453578-3a2f-44af-979e-026d016a3206",
+          "type": "page_link",
+          "targetId": "b9453578-3a2f-44af-979e-026d016a3206",
+          "title": "A Message from Studio Founder, Hideo Kojima",
+          "notionType": "page"
+        },
+        {
+          "id": "4793db98-2da1-43fa-95e1-ff9205649976",
+          "type": "page_link",
+          "targetId": "4793db98-2da1-43fa-95e1-ff9205649976",
+          "title": "Poetry Games",
+          "notionType": "page"
+        },
+        {
+          "id": "feca7a93-0b5b-47ad-b448-71d1164537de",
+          "type": "page_link",
+          "targetId": "feca7a93-0b5b-47ad-b448-71d1164537de",
+          "title": "Thoughts about the Person from Porlock",
+          "notionType": "page"
+        },
+        {
+          "id": "c20b148c-f884-49a5-8ee7-08a18066b010",
+          "type": "page_link",
+          "targetId": "c20b148c-f884-49a5-8ee7-08a18066b010",
+          "title": "Untitled Hymn on the Cross",
+          "notionType": "page"
+        },
+        {
+          "id": "2458c70e-6239-42e9-b1f5-93576403410b",
+          "type": "page_link",
+          "targetId": "2458c70e-6239-42e9-b1f5-93576403410b",
+          "title": "Untitled Stanza",
+          "notionType": "page"
+        },
+        {
+          "id": "6e9fc559-0111-4feb-bea5-5750b725ff8d",
+          "type": "page_link",
+          "targetId": "6e9fc559-0111-4feb-bea5-5750b725ff8d",
+          "title": "Weiqi Fu (Go Rhapsody)",
+          "notionType": "page"
+        },
+        {
+          "id": "26f07e87-a0e7-4bac-8f44-1aeb17073d53",
+          "type": "page_link",
+          "targetId": "26f07e87-a0e7-4bac-8f44-1aeb17073d53",
+          "title": "Your Arkansas - A Strategy Guide",
+          "notionType": "page"
+        }
+      ]
+    },
+    {
+      "id": "3884ccfd-7196-4e34-809f-760e027bc69b",
+      "type": "toggle",
+      "html": "<strong>Short Stories</strong> [6]",
+      "children": [
+        {
+          "id": "7e14aadc-560c-4183-af7b-4a8879384594",
+          "type": "page_link",
+          "targetId": "7e14aadc-560c-4183-af7b-4a8879384594",
+          "title": "The Cypher Indecypherable",
+          "notionType": "page"
+        },
+        {
+          "id": "7bffcc57-cbf4-4f99-b9fe-7d0d08e765ba",
+          "type": "page_link",
+          "targetId": "7bffcc57-cbf4-4f99-b9fe-7d0d08e765ba",
+          "title": "I Have No Mouth & I Must Scream",
+          "notionType": "page"
+        },
+        {
+          "id": "f6e04818-07e5-4eff-aee5-306dcbfd0cb2",
+          "type": "page_link",
+          "targetId": "f6e04818-07e5-4eff-aee5-306dcbfd0cb2",
+          "title": "The Lottery",
+          "notionType": "page"
+        },
+        {
+          "id": "2af63929-a4e8-4804-a947-4a4ee4ed256f",
+          "type": "page_link",
+          "targetId": "2af63929-a4e8-4804-a947-4a4ee4ed256f",
+          "title": "The Most Dangerous Game",
+          "notionType": "page"
+        },
+        {
+          "id": "a0f00684-7d1e-477d-a7f0-c7e5fddb2d28",
+          "type": "page_link",
+          "targetId": "a0f00684-7d1e-477d-a7f0-c7e5fddb2d28",
+          "title": "Myth of Mitéra & Paidia",
+          "notionType": "page"
+        },
+        {
+          "id": "addfadcc-6d47-4aff-ae47-817bed9ec9a7",
+          "type": "page_link",
+          "targetId": "addfadcc-6d47-4aff-ae47-817bed9ec9a7",
+          "title": "War Game",
+          "notionType": "page"
+        }
+      ]
+    },
+    {
+      "id": "989fb582-743b-4b17-8812-7df520ce358a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f07583e8-c4ad-4e35-a8be-f0ecf75c607d",
+      "type": "paragraph",
+      "html": "<em>total:17</em>"
+    },
+    {
+      "id": "34ad70f4-fe59-40f3-8051-9e81eafffb68",
+      "type": "divider"
+    },
+    {
+      "id": "423af89f-50ab-43ae-90cb-849527b503f2",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "4b65b960-ef57-4fea-8179-fbde32a6977d",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\">Playful Poetics (section in 📖Books)</a>"
+    },
+    {
+      "id": "ddd961ec-01d7-4339-a30c-100d5ef29ced",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1ecd4181-8e24-46d2-9292-5e1f0a870640",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "843e89d3-54a0-4323-9358-115ae9acf14b",
+      "type": "paragraph",
+      "html": "<a href=\"#/shortform-writing\"><u>☜Essays(+)</u></a>"
+    },
+    {
+      "id": "d901a757-5d8d-43ae-9f32-a552fc2e1fc4",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    },
+    {
+      "id": "b5bab6bd-b08b-43fd-80ec-ee5fc8eb14a6",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

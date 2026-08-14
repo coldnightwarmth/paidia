@@ -1,0 +1,129 @@
+{
+  "id": "8989e482-54ec-4b35-95ac-f454f9076703",
+  "slug": "raph-koster",
+  "title": "Raph Koster",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ff095af8-c4a1-4725-a95d-eede18d6c32a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/8989e48254ec4b3595acf454f9076703",
+  "createdTime": 1673984814409,
+  "lastEditedTime": 1681329183469,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Raph Koster"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/raph-koster-ff950cdbaee0.webp",
+  "blocks": [
+    {
+      "id": "f068d625-fda9-46cd-bc79-ec0e084602d3",
+      "type": "divider"
+    },
+    {
+      "id": "73016480-ab0b-4136-94cc-24407cc93dd0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a92ae4bd-de8a-450d-b452-403c98b8b187",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b23b6149-e0a2-4a09-a887-5f4485eaf517",
+          "type": "column",
+          "children": [
+            {
+              "id": "6a8c7428-b39f-4134-87f8-da14368860f2",
+              "type": "paragraph",
+              "html": "<strong>Raph Koster  </strong>(<em>Born xx, xxxx – </em>) is"
+            },
+            {
+              "id": "25420442-96bd-4688-9a06-4c3b3817543b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "75acc694-2512-4f4a-bc7d-73c30c74b76d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e82f7a9c-742a-4f3a-9a26-943eddf2bd65",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8199ca9e-369d-4d29-be02-07c6e96fb257",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ca28e9f0-0417-4ac4-9cd0-1ae1caff98c8",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd081a90-6238-4876-8206-63e4dc81cfc9",
+              "type": "image",
+              "src": "./assets/images/raph-koster-ff950cdbaee0.webp",
+              "caption": "",
+              "alt": "raph-koster.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43ad347a-c1e6-4dbb-b93f-01098b109886",
+      "type": "divider"
+    },
+    {
+      "id": "a2988fcf-a1c0-4a1d-900d-88bf942a7e78",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "e66eef9c-43c5-4c4c-aa7f-2e80aeb90f76",
+      "type": "paragraph",
+      "html": "<a href=\"#/a-theory-of-fun-for-game-design\">A Theory of Fun for Game Design</a> (2004) (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "ee5f5927-6b6d-40fb-871d-4ec0b67c2050",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f3665946-8d3b-463c-8f21-d950f2a70946",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "35c1bb44-b26b-4f36-96a7-15e4c5ff523b",
+      "type": "divider"
+    },
+    {
+      "id": "11e1e482-04ad-4674-b282-4e973847efa8",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "16024802-efa9-4dbf-a76b-b50bccddd945",
+      "type": "paragraph",
+      "html": "Ultima Online"
+    }
+  ]
+}

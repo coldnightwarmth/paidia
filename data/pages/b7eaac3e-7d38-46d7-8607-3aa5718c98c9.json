@@ -1,0 +1,131 @@
+{
+  "id": "b7eaac3e-7d38-46d7-8607-3aa5718c98c9",
+  "slug": "child-s-play",
+  "title": "Child's Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Child-s-Play-b7eaac3e7d3846d786073aa5718c98c9?pvs=21",
+  "createdTime": 1677089016975,
+  "lastEditedTime": 1681311476460,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Child's Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-080633bde418.webp",
+  "blocks": [
+    {
+      "id": "e0bc2709-9988-449f-8eda-be4d53991ca6",
+      "type": "divider"
+    },
+    {
+      "id": "c7b793b6-9a62-445e-8a25-6fcbe27d25a9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "982f86a2-64b9-4234-b0f1-d0e3cb4f2039",
+      "type": "columns",
+      "children": [
+        {
+          "id": "095cb246-a9c9-4dd6-b378-5885027e279a",
+          "type": "column",
+          "children": [
+            {
+              "id": "f3ca2948-0d84-4036-9980-ad5af4879ece",
+              "type": "paragraph",
+              "html": "<em><strong>Child's Play: Myth, Mimesis and Make-Believe </strong></em>was written by Laurence R. Goldman, published by Routledge, March 1, 1998."
+            },
+            {
+              "id": "6eb19ef0-97c2-4bb9-ae4b-5998f3b6ab4f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0827b24b-600b-41de-a4e7-d1c4092d2c96",
+              "type": "quote",
+              "html": "<em>This innovative book finally takes seriously the need for anthropologists to produce in-depth ethnographies of </em><a href=\"#/childhood\"><em>children</em></a><em>'s play. In examining the subject from a cross-cultural perspective, the author argues that our understanding of the way children transform their environment to create </em><a href=\"#/imagination\"><em>make-believe</em></a><em> is enhanced by viewing their creations as oral poetry. The result is a richly detailed ‘thick description' of how pretence is socially mediated and linguistically constructed, how children make sense of their own play, how play relates to other imaginative genres in Huli life, and the relationship between play and cosmology. Informed by theoretical approaches in the anthropology of play, developmental and child psychology, philosophy and </em><a href=\"#/phenomenology-of-the-gameworld\"><em>phenomenology</em></a><em> and drawing on ethnographic data from Melanesia, the book analyzes the sources for imitation, the kinds of identities and </em><a href=\"#/role-playing\"><em>roles</em></a><em> emulated, and the structure of </em><a href=\"#/collaboration-co-op\"><em>collaborative</em></a><em> make-believe talk to reveal the complex way in which children invoke their </em><a href=\"#/experience-exp\"><em>experiences</em></a><em> of the world and re-invent them as types of </em><a href=\"#/virtual-reality-vr\"><em>virtual reality</em></a><em>. Particular importance is placed on how the figures of the ogre and </em><a href=\"#/trickster\"><em>trickster</em></a><em> are articulated. The author demonstrates that while the concept of ‘imagination' has been the cornerstone of Western intellectual traditions from </em><a href=\"#/plato\"><em>Plato</em></a><em> to Postmodernism, models of child fantasy play have always intruded into such theorizing because of children's unique capacity to throw into relief our understanding of the relationship between representation and reality.</em>"
+            },
+            {
+              "id": "7a307408-4765-4b96-802a-b04fb2b7f83c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "384e9b43-5b52-4acc-9720-0ae808865f91",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b268d32-798b-419e-ac1e-6c45f5c6bbcb",
+              "type": "image",
+              "src": "./assets/images/untitled-080633bde418.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1d218c3-04af-4980-9728-ab4db064b403",
+      "type": "divider"
+    },
+    {
+      "id": "5b021aed-d5b3-4463-a018-151263d82224",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5fc2a48c-9c1a-4a01-b8f8-839ff5da0384",
+          "type": "column",
+          "children": [
+            {
+              "id": "1ba2e574-f357-4a78-b87b-4805292d7c53",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "24ad4a2b-9791-4065-85b4-ff3f9277bfe5",
+          "type": "column",
+          "children": [
+            {
+              "id": "66be0624-d10f-4372-ae32-6d12cc5ae91c",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Childs-Play-Make-Believe-Explorations-Anthropology/dp/1859739180\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c64e69c-ba0a-4e28-adde-7b9009f026af",
+      "type": "divider"
+    }
+  ]
+}

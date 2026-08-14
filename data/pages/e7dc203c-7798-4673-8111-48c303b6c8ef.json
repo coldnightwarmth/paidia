@@ -1,0 +1,131 @@
+{
+  "id": "e7dc203c-7798-4673-8111-48c303b6c8ef",
+  "slug": "jacked",
+  "title": "Jacked",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Jacked-e7dc203c77984673811148c303b6c8ef?pvs=21",
+  "createdTime": 1653079851525,
+  "lastEditedTime": 1681313940656,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Jacked",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6cdfc62331cc.webp",
+  "blocks": [
+    {
+      "id": "f6effea3-8470-4efb-b05a-94d6ad847360",
+      "type": "divider"
+    },
+    {
+      "id": "65d6d51e-a5d0-44cb-b82a-dd64af4a5193",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c0272a0a-d0ec-448c-8efe-a42fe48579ea",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a88e8d84-0784-49e7-8ba7-7826f12f45cc",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b08fb46-fc18-4451-b012-1f65a8d5d8ea",
+              "type": "paragraph",
+              "html": "<em><strong>Jacked: The Outlaw Story of Grand Theft Auto</strong></em> was written by David Kushner, published by Turner, April 1, 2012."
+            },
+            {
+              "id": "21b124e7-81db-4360-ae81-710c250cba57",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8c230ef1-9117-4fe0-b66d-f138c3d4b1d4",
+              "type": "quote",
+              "html": "<strong><em>Inside the making of a videogame that defined a generation: </em></strong><strong>Grand Theft Auto</strong><em><br><br></em>Grand Theft Auto<em> is one of the biggest and most controversial videogame franchises of all time. Since its first release in 1997, </em>GTA<em> has pioneered the use of everything from 3D graphics to the voices of top Hollywood actors and repeatedly transformed the world of gaming. Despite its incredible innovations in the $75 billion game industry, it has also been a lightning rod of debate, spawning accusations of ethnic and sexual discrimination, glamorizing violence, and inciting real-life crimes. </em>Jacked<em> tells the turbulent and mostly unknown story of </em>GTA'<em>s wildly ambitious creators, Rockstar Games, the invention and evolution of the franchise, and the cultural and political backlash it has provoked.<br><br>Explains how British prep school brothers Sam and Dan Houser took their dream of fame, fortune, and the glamor of American pop culture and transformed it into a worldwide videogame blockbuster<br><br>Written by David Kushner, author of </em><a href=\"#/masters-of-doom\">Masters of Doom</a> <em>and a top journalist on gaming, and drawn from over ten years of interviews and research, including firsthand knowledge of </em>Grand Theft Auto<em>'s creators and detractors<br><br>Offers inside details on key episodes in the development of the series, including the financial turmoil of Rockstar games, the infamous &quot;&quot;Hot Coffee&quot;&quot; sex mini-game incident, and more<br><br>Whether you love </em>Grand Theft Auto<em> or hate it, or just want to understand the defining entertainment product of a generation, you'll want to read </em>Jacked<em> and get the real story behind this boundary-pushing game.</em>"
+            },
+            {
+              "id": "8a22c8eb-cc50-4376-8ab0-307df0739fc0",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "81ef80eb-c6c2-4ae0-b9b1-379505a730a9",
+          "type": "column",
+          "children": [
+            {
+              "id": "798a6ba3-9684-48ba-9a2a-f1cffcb57c6c",
+              "type": "image",
+              "src": "./assets/images/untitled-6cdfc62331cc.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37ce1951-dfe4-4690-b2cd-ffee82c2c519",
+      "type": "divider"
+    },
+    {
+      "id": "70c50572-620b-46ab-baf5-b0e2416f4919",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7ddd6ecc-77c6-4af3-9947-6971ff3ea5a9",
+          "type": "column",
+          "children": [
+            {
+              "id": "3809944a-92ff-475d-8b20-c04ea4666561",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1114794d-24f5-41c1-a857-1cfa5665bab7",
+          "type": "column",
+          "children": [
+            {
+              "id": "46c7b825-fec1-4794-b1ff-369ee566109a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3TWNYap\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53357b95-8524-4813-8a27-e5c436462263",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "aa3ffe56-ec47-4243-a387-d2bb80f7b443",
+  "slug": "creating-the-big-game",
+  "title": "Creating the Big Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2f2b48d3-00ef-46fe-b6f4-4b813ad7bd6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Creating-the-Big-Game-aa3ffe56ec474243a387d2bb80f7b443?pvs=21",
+  "createdTime": 1667273811851,
+  "lastEditedTime": 1681312691963,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Creating the Big Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-48fde2096d80.webp",
+  "blocks": [
+    {
+      "id": "f72f89f2-9dd0-4583-8bc1-bb5e2e0c5f54",
+      "type": "divider"
+    },
+    {
+      "id": "575b8a9a-54e0-425a-9c49-cf29f3bae490",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ead792be-1c34-4ade-b99e-e6995e5ec3d7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dcc00edb-5789-4bdc-bfab-053a0b804077",
+          "type": "column",
+          "children": [
+            {
+              "id": "a196c852-18b8-4850-8985-87e52f537b97",
+              "type": "paragraph",
+              "html": "<em><strong>Creating the Big Game: John W. Heisman &amp; the Invention of American Football</strong></em> was written by Wiley L. Umphlett, published by Praeger, October 26, 1992."
+            },
+            {
+              "id": "4247d3f7-ae76-42ed-9c19-c0ac03032b75",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e0e0b79d-fa99-460b-bdd6-831bd3040ebf",
+              "type": "quote",
+              "html": "<em>John W. Heisman (1869-1936) was a man of many faces whose public image has suffered from a diffused, enigmatic, and mostly misunderstood private personality. Since his death the popular reception of the memorial trophy named in his honor has also obscured his identity. In singling out his many innovative contributions to the development of intercollegiate football, this book attempts to present a true picture of Heisman as both man and coach.<br><br>Because he coached at schools throughout the country during some of the most eventful years in our history, Heisman's life relates to significant political, economic, and social developments that impacted on American society as well as sports. However, this book is much more than the story of John Heisman's 36-year coaching career. It is also the story of how an indigenous American public ritual--the Big Game---came about and how college football evolved into the complex, problematic, and highly structured big business that it is today.</em>"
+            },
+            {
+              "id": "48f4ce56-303c-43aa-a8e1-567cb36679f3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b656bc01-ba6e-4015-b2b2-f4dd17480eac",
+          "type": "column",
+          "children": [
+            {
+              "id": "caec6446-4e00-48b7-983d-6a28fd301701",
+              "type": "image",
+              "src": "./assets/images/untitled-48fde2096d80.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa7359ef-f3da-4b6b-a99e-7d9650130908",
+      "type": "divider"
+    },
+    {
+      "id": "92369056-048d-4c7e-9e5b-d17fd00e324c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ae8b5781-da63-4889-b59d-3996bb70f1ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "a37ef50b-f392-4801-8b39-f9ad770507a5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3233e48d-a4d5-421a-b235-0d7e617e6649",
+          "type": "column",
+          "children": [
+            {
+              "id": "144e3b89-fb2a-4605-8bdc-a6c337175f12",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DMnRxo\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9c01126d-e49b-4b79-9a13-738e6a488b6a",
+      "type": "divider"
+    }
+  ]
+}

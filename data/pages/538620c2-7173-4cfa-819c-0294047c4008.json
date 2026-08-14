@@ -1,0 +1,134 @@
+{
+  "id": "538620c2-7173-4cfa-819c-0294047c4008",
+  "slug": "play-and-playscapes",
+  "title": "Play & Playscapes",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/538620c271734cfa819c0294047c4008",
+  "createdTime": 1659710205929,
+  "lastEditedTime": 1681313052883,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play & Playscapes",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ed323effeba1.webp",
+  "blocks": [
+    {
+      "id": "c208ba02-ce94-4d05-9019-1e4f64a0e147",
+      "type": "divider"
+    },
+    {
+      "id": "810075a8-e524-4fcf-8b73-7fbd755f1745",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "43bb0dbd-2ebd-42b1-967e-277e839c1057",
+      "type": "columns",
+      "children": [
+        {
+          "id": "000a399d-221a-4a2b-bb76-f7b01e90ab70",
+          "type": "column",
+          "children": [
+            {
+              "id": "6d514519-abd5-4107-8b6e-5a37954086f3",
+              "type": "paragraph",
+              "html": "<em><strong>Play &amp; Playscapes</strong></em> was written by Joe L. Frost, published by Wadsworth Publishing, August 1, 1991."
+            },
+            {
+              "id": "3248414d-13d7-4103-ad22-d63eb7f22aa3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3521bba4-82d2-4a73-a962-322aac79e1d5",
+              "type": "quote",
+              "html": "<em>Excellent play setting book to define your child’s play area.</em>"
+            },
+            {
+              "id": "74490a5b-347a-4575-b47c-7d9d60e4328a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f7817ebe-0d9c-4ff5-8b6e-39c7e2054d6c",
+          "type": "column",
+          "children": [
+            {
+              "id": "487a861e-956c-4863-8bad-3f5b836087f1",
+              "type": "image",
+              "src": "./assets/images/untitled-ed323effeba1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e913faa-ea06-4208-8587-95253279d047",
+      "type": "divider"
+    },
+    {
+      "id": "87f3d8fd-d91d-46e0-be1d-fc0c0c359d21",
+      "type": "columns",
+      "children": [
+        {
+          "id": "74d24c1a-ee45-4855-9634-1606c0626886",
+          "type": "column",
+          "children": [
+            {
+              "id": "188b173e-0875-4131-ab81-8f13082f846d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ad54bf3e-6ccf-4237-a98a-605fff4f5a51",
+          "type": "column",
+          "children": [
+            {
+              "id": "54f4ed99-2bcf-4ee2-a395-4741fd2f9664",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Sqehp8\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1bea2256-2717-40fe-85d2-76cb73c9610a",
+      "type": "divider"
+    }
+  ]
+}

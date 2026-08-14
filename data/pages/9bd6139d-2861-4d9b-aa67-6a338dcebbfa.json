@@ -1,0 +1,146 @@
+{
+  "id": "9bd6139d-2861-4d9b-aa67-6a338dcebbfa",
+  "slug": "unstable-aesthetics",
+  "title": "Unstable Aesthetics",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Unstable-Aesthetics-9bd6139d28614d9baa676a338dcebbfa?pvs=21",
+  "createdTime": 1657235484253,
+  "lastEditedTime": 1681313278989,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Unstable Aesthetics",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-eb3b599c710d.webp",
+  "blocks": [
+    {
+      "id": "1bf75538-9913-4215-abce-0546474c5577",
+      "type": "divider"
+    },
+    {
+      "id": "1d6a92b2-ba99-4e75-9994-3c24a2458341",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8fdf1718-5a64-46b5-a6d2-f968d205d222",
+      "type": "columns",
+      "children": [
+        {
+          "id": "103aee6e-f184-4686-820a-b12e542a0115",
+          "type": "column",
+          "children": [
+            {
+              "id": "80cd9b41-733e-4efb-9214-105cb47d0d81",
+              "type": "paragraph",
+              "html": "<em><strong>Unstable Aesthetics: Game Engines and the Strangeness of Modding</strong></em> was written by Eddie Lohmeyer, published by Bloomsbury Academic, February 25, 2021."
+            },
+            {
+              "id": "f266ff04-e502-49ee-955e-eb63e567cd3f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "409642d1-4095-4b49-83d4-d397f4a28f1c",
+              "type": "quote",
+              "html": "<em>Throughout the 1990s, artists experimented with </em><a href=\"#/game-engine\"><em>game engine</em></a><em> technologies to disrupt our habitual relationships to video games. They </em><a href=\"#/cheat-hack\"><em>hacked</em></a><em>, </em><a href=\"#/glitch\"><em>glitched</em></a><em>, and dismantled popular first-person shooters such as </em><a href=\"#/doom\">Doom</a><em> (1993) and</em> <a href=\"#/quake\">Quake</a><em> (1996) to engage players in new kinds of embodied activity. In </em>Unstable Aesthetics: Game Engines &amp; the Strangeness of Art Modding<em>, Eddie Lohmeyer investigates historical episodes of art </em><a href=\"#/mod\"><em>modding</em></a><em> practices-the alteration of a game system's existing code or </em><a href=\"#/hardware\"><em>hardware</em></a><em> to generate abstract spaces-situated around a recent archaeology of the game engine: software for rendering two and three-dimensional gameworlds.<br><br>The contemporary artists highlighted throughout this book-</em><a href=\"#/cory-arcangel\"><em>Cory Arcangel</em></a><em>, JODI, Julian Oliver, Krista Hoefle, and Brent Watanabe, among others –- were attracted to the architectures of engines because they allowed them to explore vital relationships among abstraction, technology, and the body. Artists employed a range of modding techniques-hacking the ROM chips on Nintendo cartridges to produce experimental video, deconstructing source code to </em><a href=\"#/procedural-generation\"><em>generate </em></a><em>psychedelic glitch patterns, and collaging together </em><a href=\"#/surrealism\"><em>surreal</em></a><em> gameworlds-to intentionally dissect the engine's operations and unveil illusions of movement within algorithmic spaces. Through key moments in game engine history, Lohmeyer formulates a rich </em><a href=\"#/phenomenology-of-the-gameworld\"><em>phenomenology</em></a><em> of video games by focusing on the liminal spaces of interaction among system and body, or rather the strangeness of art modding.</em>"
+            },
+            {
+              "id": "1063ef4f-7fe5-4314-ba8f-c559bce01737",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "72dff3ef-51e8-407e-878a-ab8386de365b",
+          "type": "column",
+          "children": [
+            {
+              "id": "b6e2eb25-5f6b-42bd-b167-0cba6232c2f0",
+              "type": "image",
+              "src": "./assets/images/untitled-eb3b599c710d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af5ae9a8-84b0-433c-84ca-ae5b04f8a206",
+      "type": "divider"
+    },
+    {
+      "id": "33503400-fffa-4bb5-887c-a1cb35f8a3cd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "45606b84-99b0-4868-9a50-7c3e5cb24847",
+          "type": "column",
+          "children": [
+            {
+              "id": "2b0e41d0-b8d0-4c0a-8c07-1e9971149ace",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3f45d297-43cf-4798-a532-7d1256368237",
+          "type": "column",
+          "children": [
+            {
+              "id": "d09bc678-98fe-4570-b235-d5769beabd5e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3c0ZLUd\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dedd58d4-bbca-4548-819a-06e526c210f6",
+      "type": "divider"
+    },
+    {
+      "id": "e04f239b-0e9c-4489-b94d-899d0574d20f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "da21a40a-5452-42f5-a64f-3584684602ea",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "f45b280f-4c65-4587-b126-8712ae62c5a7",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

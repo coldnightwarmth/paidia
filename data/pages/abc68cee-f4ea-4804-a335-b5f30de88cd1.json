@@ -1,0 +1,126 @@
+{
+  "id": "abc68cee-f4ea-4804-a335-b5f30de88cd1",
+  "slug": "playful-design",
+  "title": "Playful Design",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Playful-Design-abc68ceef4ea4804a335b5f30de88cd1?pvs=21",
+  "createdTime": 1667268939011,
+  "lastEditedTime": 1681312708566,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playful Design"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-beb42260c7e7.webp",
+  "blocks": [
+    {
+      "id": "85b9a54c-581d-41cb-801c-97eb1f43a78f",
+      "type": "divider"
+    },
+    {
+      "id": "ec1868f8-f10e-42dc-9a8b-7e8452a9d607",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d4f3b5c9-3b57-4c2e-9669-502bcc63e761",
+      "type": "columns",
+      "children": [
+        {
+          "id": "13222a67-8693-4556-bfac-41714e511b74",
+          "type": "column",
+          "children": [
+            {
+              "id": "8552869b-4c41-419c-956c-aa39e73d4c17",
+              "type": "paragraph",
+              "html": "<em><strong>Playful Design: Creating Game Experiences in Everyday Interfaces</strong></em> was written by John Ferrara, published by Rosenfeld Media, May 17, 2012."
+            },
+            {
+              "id": "4949ec2a-c66e-4a10-85c5-a0032b607554",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "93b29491-4d5b-4f51-b472-d142cf185c25",
+              "type": "quote",
+              "html": "<em>Game design is a sibling discipline to software and Web design, but they're siblings that grew up in different houses. They have much more in common than their perceived distinction typically suggests, and user experience practitioners can realize enormous benefit by exploiting the solutions that games have found to the real problems of design. This book will show you how.</em>"
+            },
+            {
+              "id": "06a67949-3f65-475e-892c-69856baf7edb",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fcd48bdb-c3d3-4d38-8ecb-d95b10ffcaab",
+          "type": "column",
+          "children": [
+            {
+              "id": "a08624e1-e00a-41ad-b5b4-0ae9dc32088d",
+              "type": "image",
+              "src": "./assets/images/untitled-beb42260c7e7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce155dce-1239-4e76-bd73-b1d22eb70055",
+      "type": "divider"
+    },
+    {
+      "id": "6e78a84c-7228-413d-b47d-17a34df6be81",
+      "type": "columns",
+      "children": [
+        {
+          "id": "80effaf8-be93-41e1-93fb-20bf608722e5",
+          "type": "column",
+          "children": [
+            {
+              "id": "079c205c-657d-43ed-91bf-5d3ca820b580",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7b1f4fc8-bbab-4286-846a-715406fbaa5d",
+          "type": "column",
+          "children": [
+            {
+              "id": "55903c30-74aa-4204-97f8-e60719d07278",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FylFdX\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88d48aef-38e5-4a35-8135-4fd460e54c54",
+      "type": "divider"
+    }
+  ]
+}

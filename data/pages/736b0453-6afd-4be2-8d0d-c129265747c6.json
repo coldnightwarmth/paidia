@@ -1,0 +1,131 @@
+{
+  "id": "736b0453-6afd-4be2-8d0d-c129265747c6",
+  "slug": "a-theory-of-fun-for-game-design",
+  "title": "A Theory of Fun for Game Design",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/736b04536afd4be28d0dc129265747c6",
+  "createdTime": 1651684522105,
+  "lastEditedTime": 1681310285105,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A Theory of Fun for Game Design"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-cc066d678169.webp",
+  "blocks": [
+    {
+      "id": "00a349de-5205-4581-a46d-4a2bc3870703",
+      "type": "divider"
+    },
+    {
+      "id": "924a5847-1924-4251-8443-a99845c07234",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1794c0ca-bc09-415a-a4f3-92b496cd7672",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f2ed27e5-287d-4652-a76b-472a2a363d0a",
+          "type": "column",
+          "children": [
+            {
+              "id": "47cb7fd3-9051-476e-8238-bfbdd43dadf3",
+              "type": "paragraph",
+              "html": "<em><strong>A Theory of Fun for Game Design</strong></em> was written by game designer Raph Koster, published by O'Reilly Media, Nov 6, 2004."
+            },
+            {
+              "id": "795fc60b-2927-4e34-b4ef-05a5b4cfc6cc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ff45ee43-fc70-4403-864d-ccf52284212c",
+              "type": "quote",
+              "html": "<em>A </em>Theory of Fun for Game Design<em> is not your typical how-to book. It features a novel way of teaching interactive designers how to create and improve their designs to incorporate the highest degree of fun. As the book shows, designing for fun is all about making interactive products like games highly entertaining, engaging, and addictive. The book's unique approach of providing a highly visual storyboard approach combined with a narrative on the art and practice of designing for fun is sure to be a hit with game and interactive designers, At first glance </em>A Theory of Fun for Game Design<em><br> is a book that will truly inspire and challenge game designers to think in new ways; however, its universal message will influence designers from all walks of life. This book captures the real essence of what drives us to seek out products and experiences that are truly fun and entertaining. The author masterfully presents his engaging theory by showing readers how many designs are lacking because they are predictable and not engaging enough. He then explains how great designers use different types of elements in new ways to make designs more fun and compelling. Anyone who is interested in design will enjoy how the book works on two levels--as a quick inspiration guide to game design, or as an informative discussion that details the insightful thinking from a great mind in the game industry.</em>"
+            },
+            {
+              "id": "cabffcb7-239f-4b8a-80de-359779a3ebc9",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a0c85ddb-7516-4bbf-87b8-341223900969",
+          "type": "column",
+          "children": [
+            {
+              "id": "aeeb55a0-6292-432e-97b8-78a57520574e",
+              "type": "image",
+              "src": "./assets/images/untitled-cc066d678169.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9756fbbb-df8e-473b-8ed0-446f78973795",
+      "type": "divider"
+    },
+    {
+      "id": "3c7ee460-7b2c-4553-b066-ff2055ceb788",
+      "type": "columns",
+      "children": [
+        {
+          "id": "22923e2f-f72b-41bd-a692-758dee31dbfa",
+          "type": "column",
+          "children": [
+            {
+              "id": "7ca8c812-7474-4535-8e1a-ef4f26b741d1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f132cf18-5103-41cc-a2b2-4c724de4b0e6",
+          "type": "column",
+          "children": [
+            {
+              "id": "f825b9e3-f2c3-499f-bb28-70c7fe11404a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3l1Vscx\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d504f1a7-7ced-4869-a38d-d5a08c2228f6",
+      "type": "divider"
+    },
+    {
+      "id": "8e6f2e98-d8df-4717-b57b-284578c34190",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

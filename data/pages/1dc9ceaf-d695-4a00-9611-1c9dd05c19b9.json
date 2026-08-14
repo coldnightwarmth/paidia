@@ -1,0 +1,131 @@
+{
+  "id": "1dc9ceaf-d695-4a00-9611-1c9dd05c19b9",
+  "slug": "error",
+  "title": "Error",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Error-1dc9ceafd6954a0096111c9dd05c19b9?pvs=21",
+  "createdTime": 1651709331351,
+  "lastEditedTime": 1681313775897,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Error",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2c4b2d27cfcc.webp",
+  "blocks": [
+    {
+      "id": "aa6d4c07-8f37-4dfe-be7f-c932b537721a",
+      "type": "divider"
+    },
+    {
+      "id": "d5101469-0be4-4457-86ed-b2224587e895",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5b3d46a6-000b-457d-a609-ec6151099b12",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c85fbce5-7ff3-44b3-b165-51d577ed78ad",
+          "type": "column",
+          "children": [
+            {
+              "id": "8c502a06-2e4d-44a3-9be3-8e42f20e5438",
+              "type": "paragraph",
+              "html": "<em><strong>Error: Glitch, Noise, and Jam in New Media Cultures</strong></em> is a collection of essays edited by Mark Nunes, published by Bloomsbury Academic, October 28, 2010."
+            },
+            {
+              "id": "d4dfa1f3-6e0c-45d7-9b91-6bc52f81c5df",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "26e7d5b5-7baf-41d1-99b8-8e0f00863427",
+              "type": "paragraph",
+              "html": "<em>Divided into three sections, </em>Error<em> brings together established critics and emerging voices to offer a significant contribution to the field of new media studies. In the first section, &quot;Hack,&quot; contributors explore the ways in which errors, glitches, and failure provide opportunities for critical and aesthetic intervention within new media practices. In the second section, &quot;Game,&quot; they examine how errors allow for intentional and accidental co-opting of rules and protocols toward unintended ends. The final section, &quot;Jam,&quot; considers the role of error as both an inherent &quot;counterstrategy&quot; and a mode of tactical resistance within a network society.<br><br>By offering a timely and novel exploration into the ways in which error and noise &quot;slip through&quot; in systems dominated by principles of efficiency and control, this collection provides a unique take on the ways in which information theory and new media technologies inform cultural practice.</em>"
+            },
+            {
+              "id": "2b7a3b4d-bb9b-4daf-bd54-343c3a2135ea",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "86990aa3-408d-454f-a734-1df2ed9af006",
+          "type": "column",
+          "children": [
+            {
+              "id": "901ca634-1d1b-4e71-b0b3-5664240027d1",
+              "type": "image",
+              "src": "./assets/images/untitled-2c4b2d27cfcc.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c186957c-49aa-4dba-a765-4405d48c9e54",
+      "type": "divider"
+    },
+    {
+      "id": "edfeefcb-3451-46ed-8c14-6fe3b77cc15f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a67408f8-0892-4f05-acf6-0d2e6e421731",
+          "type": "column",
+          "children": [
+            {
+              "id": "ba8ce21c-4054-4714-8f56-58b548e81399",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1b42c57f-e3fa-480a-a4db-0e2e0b708352",
+          "type": "column",
+          "children": [
+            {
+              "id": "0fdef02e-7503-4101-8878-41a2468ea08c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xMMjKL\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f59b7538-db64-45e5-9be4-a907730cd613",
+      "type": "divider"
+    }
+  ]
+}

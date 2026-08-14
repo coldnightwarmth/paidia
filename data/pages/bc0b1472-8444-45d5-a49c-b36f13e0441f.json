@@ -1,0 +1,131 @@
+{
+  "id": "bc0b1472-8444-45d5-a49c-b36f13e0441f",
+  "slug": "leisure-and-positive-psychology",
+  "title": "Leisure & Positive Psychology",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Leisure-Positive-Psychology-bc0b1472844445d5a49cb36f13e0441f?pvs=21",
+  "createdTime": 1667320867446,
+  "lastEditedTime": 1681312669891,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Leisure & Positive Psychology",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7fc1ddc18dee.webp",
+  "blocks": [
+    {
+      "id": "9c2e2030-ebd1-4a44-8c43-613656f59720",
+      "type": "divider"
+    },
+    {
+      "id": "15882ffa-869a-450e-b9b4-e1b2125d5db7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "087841c7-7547-4ebb-b6b7-1a8165e5099a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4d25855e-a7a5-496b-9e25-3e2a76c6c34c",
+          "type": "column",
+          "children": [
+            {
+              "id": "a3140243-414b-406e-88f6-abd3f0de8ea4",
+              "type": "paragraph",
+              "html": "<em><strong>Leisure &amp; Positive Psychology: Linking Activities with Positiveness</strong></em> was written by Robert A. Stebbins, published by Palgrave Macmillan, September 24, 2015."
+            },
+            {
+              "id": "7cb49a29-4ab1-498f-84ba-d0ecb577ca12",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "88ee726f-ae87-4cc6-9924-e84e2c72f77e",
+              "type": "quote",
+              "html": "<em>This book explores, from a leisure studies perspective, the central role that leisure has to play in positive psychology, exploring themes such as flow, fulfilment, altruism, well-being, and interpersonal relationships.</em>"
+            },
+            {
+              "id": "a96f3c9e-312d-4019-9eb5-7bb58e03082f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c694213e-836d-4981-9f99-612eead0a163",
+          "type": "column",
+          "children": [
+            {
+              "id": "37277df5-b4bf-4d59-9144-e0a3ff65408f",
+              "type": "image",
+              "src": "./assets/images/untitled-7fc1ddc18dee.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc1283fc-a1be-44ab-9c8b-c43c7fe78f36",
+      "type": "divider"
+    },
+    {
+      "id": "0ba0ee18-26e8-4cec-95c8-27b9e285cbc9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "90d046d8-ede4-42c4-a011-a2390785bf4a",
+          "type": "column",
+          "children": [
+            {
+              "id": "6d356579-fca1-4e16-9771-d108af964a9e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ea5201a1-8807-4948-aacb-c7aee825dee6",
+          "type": "column",
+          "children": [
+            {
+              "id": "9ff8fc5f-4047-4a0a-94d9-8a7d47df9143",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Ds4SXr\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13bc226d-046f-4c41-9785-c77190cd1121",
+      "type": "divider"
+    }
+  ]
+}

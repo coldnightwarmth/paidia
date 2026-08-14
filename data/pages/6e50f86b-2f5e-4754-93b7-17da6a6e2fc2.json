@@ -1,0 +1,131 @@
+{
+  "id": "6e50f86b-2f5e-4754-93b7-17da6a6e2fc2",
+  "slug": "the-world-as-a-mathematical-game",
+  "title": "The World as a Mathematical Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-World-as-a-Mathematical-Game-6e50f86b2f5e475493b717da6a6e2fc2?pvs=21",
+  "createdTime": 1668452998067,
+  "lastEditedTime": 1681312506308,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The World as a Mathematical Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-28f8e18e9bb6.webp",
+  "blocks": [
+    {
+      "id": "6ba9af44-f450-49d0-b492-4e323df12be9",
+      "type": "divider"
+    },
+    {
+      "id": "e4973f2e-4ea9-4939-b1be-8e6a9b553433",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "91b88a65-2a9a-41fd-b33a-aae4ce2d770d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1a671f2d-aa53-4e0e-9318-17518e0d76ad",
+          "type": "column",
+          "children": [
+            {
+              "id": "989d62c0-8491-49c4-b70c-1d96ebce390d",
+              "type": "paragraph",
+              "html": "<em><strong>The World as a Mathematical Game: John von Neumann &amp; Twentieth Century Science </strong></em>was written by Giorgio Israel &amp; Ana Millán Gasca, published by Birkhäuser, March 13, 2009."
+            },
+            {
+              "id": "94a099c9-7cea-4f3a-be14-6e7a6941d4fb",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "cd0d52cc-a07c-4f15-8cf6-7be77e6afe31",
+              "type": "quote",
+              "html": "<em>Galileo and Newton’s work towards the mathematisation of the physical world; Leibniz’s universal logical calculus; the Enlightenment’s mathématique sociale. </em><a href=\"#/john-von-neumann\"><em>John von Neumann</em></a><em> inherited all these aims and philosophical intuitions, together with an idea that grew up around the Vienna Circle of an ethics in the form of an exact science capable of guiding individuals to make correct decisions. With the help of his boundless mathematical capacity, von Neumann developed a conception of the world as a mathematical game, a world globally governed by a universal logic in which individual consciousness moved following different strategies: his vision guided him from set theory to quantum mechanics, to economics and to his theory of automata (anticipating artificial intelligence and cognitive science). This book provides the first comprehensive scientific and intellectual biography of John von Neumann, a man who perhaps more than any other is representative of twentieth century science.</em>"
+            },
+            {
+              "id": "882acbd3-d26c-4d65-a62b-5ab7af8c3c74",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c5427790-aa71-400b-b7e1-8b41dc4cb1b0",
+          "type": "column",
+          "children": [
+            {
+              "id": "14c6e270-4c20-47a1-9577-62acbfabc48e",
+              "type": "image",
+              "src": "./assets/images/untitled-28f8e18e9bb6.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a40269c8-5e1c-4937-b94e-686f3e1f4344",
+      "type": "divider"
+    },
+    {
+      "id": "2fde3450-3ef1-4592-8068-e5ba2d148deb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b586c7b1-271b-464d-b132-dc66d0cb458d",
+          "type": "column",
+          "children": [
+            {
+              "id": "e3b0b977-44cd-46d6-bf59-c8cf9d7240c6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "47313fd8-0421-4365-83b7-ae664c16924d",
+          "type": "column",
+          "children": [
+            {
+              "id": "eb923cd2-4a8d-41a1-b197-e13bda5ec932",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/World-Mathematical-Game-Twentieth-Historical/dp/3764398957/ref=sr_1_1?crid=3NM7VLREXQYYN&amp;keywords=The+World+as+a+Mathematical+Game%3A+John+von+Neumann+and+Twentieth+Century+Science&amp;qid=1666800479&amp;qu=eyJxc2MiOiIxLjM3IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=the+world+as+a+mathematical+game+john+von+neumann+and+twentieth+century+science%2Cstripbooks%2C84&amp;sr=1-1&amp;ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "317f484d-ee0a-4e81-94f0-b68cd108a379",
+      "type": "divider"
+    }
+  ]
+}

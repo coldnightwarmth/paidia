@@ -1,0 +1,139 @@
+{
+  "id": "1afdf085-bc8b-460c-b806-adabd744cabd",
+  "slug": "an-architectural-approach-to-level-design",
+  "title": "An Architectural Approach to Level Design",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/An-Architectural-Approach-to-Level-Design-1afdf085bc8b460cb806adabd744cabd?pvs=21",
+  "createdTime": 1651707192159,
+  "lastEditedTime": 1681310840352,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "An "
+      ],
+      [
+        "Architectural Approach to Level Design",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3ac802c25e2d.webp",
+  "blocks": [
+    {
+      "id": "ef2d3486-0faf-4930-90b9-f2e2d82ac1d8",
+      "type": "divider"
+    },
+    {
+      "id": "a8f25ae4-4921-485b-9da8-1464d38929ea",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9bf46469-ca8f-493a-bb1f-50096f724c79",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9b04b00e-f097-445e-988a-1bc23f9849c6",
+          "type": "column",
+          "children": [
+            {
+              "id": "6667f270-cb4d-4e67-9fff-509798f09403",
+              "type": "paragraph",
+              "html": "<em><strong>An Architectural Approach to Level Design </strong></em>was written by Christopher W. Toten, published by A K Peters/CRC Press, June 12, 2014."
+            },
+            {
+              "id": "c8f3d607-a646-4566-8b59-1583deb441e8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8f77db87-d9f5-48a6-b693-16b980eb37ec",
+              "type": "quote",
+              "html": "<em>Written by a game developer and professor trained in architecture, </em>An Architectural Approach to Level Design<em> is one of the first books to integrate architectural and spatial design theory with the field of level design. It explores the principles of level design through the context and history of architecture.<br><br>Now in its second edition, </em>An Architectural Approach to Level Design<em> presents architectural techniques and theories for you to use in your own work. The author connects architecture and level design in different ways that address the practical elements of how designers construct space and the experiential elements of how and why humans interact with that space. It also addresses industry issues like how to build interesting tutorial levels and how to use computer-generated level design systems without losing the player-focused design of handmade levels. Throughout the text, you will learn skills for spatial layout, evoking emotion through gamespaces, and creating better levels through architectural theory.</em>"
+            },
+            {
+              "id": "d100d107-4aa5-4b26-afff-d5f845227d71",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "38e975cb-42d5-43d9-af91-e1408d654caf",
+          "type": "column",
+          "children": [
+            {
+              "id": "158640bc-7205-490c-98af-b9873ee3a3f0",
+              "type": "image",
+              "src": "./assets/images/untitled-3ac802c25e2d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "176a7888-7e1d-4481-bc77-513de7039896",
+      "type": "divider"
+    },
+    {
+      "id": "10b635bd-047d-4fc1-9fab-64bdcf93067d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d5efb5bc-7237-4873-b755-994006b649ec",
+          "type": "column",
+          "children": [
+            {
+              "id": "8ceebc03-203f-430f-86d2-8c60d085f499",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a423a89e-6e53-4a36-92cc-63353b7cda9b",
+          "type": "column",
+          "children": [
+            {
+              "id": "42e679aa-9a26-45b1-87bb-146a593b76f7",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sSKNF5\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42b6aad4-e744-4adf-8373-338601b7d810",
+      "type": "divider"
+    },
+    {
+      "id": "0794b613-7491-44a0-9a78-e5c187f5e46e",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

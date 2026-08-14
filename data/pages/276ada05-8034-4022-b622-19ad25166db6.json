@@ -1,0 +1,131 @@
+{
+  "id": "276ada05-8034-4022-b622-19ad25166db6",
+  "slug": "park-and-recreation-structures",
+  "title": "Park & Recreation Structures",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Park-Recreation-Structures-276ada0580344022b62219ad25166db6?pvs=21",
+  "createdTime": 1653492168687,
+  "lastEditedTime": 1681313888390,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Park & Recreation Structures",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-365749219817.webp",
+  "blocks": [
+    {
+      "id": "6121045c-ed1f-4572-89a4-c2753140f73c",
+      "type": "divider"
+    },
+    {
+      "id": "530e98f5-4f88-441e-8756-8cda66f42a9b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "80fab09e-e7a4-47b5-ba89-1bb08921d680",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0777b410-2023-4e5e-a8b8-eb815a48b02a",
+          "type": "column",
+          "children": [
+            {
+              "id": "f082c5d6-75e9-49c0-a6bc-87ba2711caad",
+              "type": "paragraph",
+              "html": "<em><strong>Park &amp; Recreation Structures</strong></em> was written by Albert Good, originally published by the United States Department of the Interior National Park Service in 1938."
+            },
+            {
+              "id": "549d1bbe-5fc5-4f69-8329-7d72738cd782",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "80a718d4-22d2-4105-9f83-68323be3ade7",
+              "type": "quote",
+              "html": "<em>America's parks-and their architectural companion, the log cabin-hold a powerful grip on our imagination. Harkening back to a simpler time, these rustic structures serve as a reminder of America's frontier spirit, and serve as a popular source of inspiration for contemporary architecture, in everything from simple vacation homes to the mansion &quot;lodges&quot; favored by today's wealthy elites. This classic three-volume survey, first published in 1938 by the National Park Service, details in photographs and measured drawings the rich legacy of America's park structures. In over 500 illustrations, </em>Park and Recreation Structures <em>documents picnic tables, dams, drinking fountains, trail signs, storage sheds, bridges, boathouses, lodges, and inns from the glory days of park construction. Reproduced in its entirety in a single volume, this book will serve as a source of ideas, details, and imagery for architects, landscapists, gardeners, and anyone interested in America's national parks.</em>"
+            },
+            {
+              "id": "fbcc1e28-e8d6-4251-9d1d-2f7a571d4a75",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "79b29a32-faac-4f14-abcb-35e941e40f0a",
+          "type": "column",
+          "children": [
+            {
+              "id": "3ba94372-cc22-4ca1-8307-ff5132f8273e",
+              "type": "image",
+              "src": "./assets/images/untitled-365749219817.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14007fe6-7771-484f-b6a0-cc6e26d9b52b",
+      "type": "divider"
+    },
+    {
+      "id": "74a9d270-f20d-4638-b7b1-cdf44192b8bb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "95cb3445-4811-4327-8076-4b1404e64ad7",
+          "type": "column",
+          "children": [
+            {
+              "id": "d353e2dc-49a1-4d82-bdf1-00baa6d8e97c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fc20bb41-ca00-46f1-9bb9-39425f70bbd4",
+          "type": "column",
+          "children": [
+            {
+              "id": "2fd16668-65d6-4bd3-acdf-58e4be93c108",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sRNtTF\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4ba2b51-d626-4ab2-a969-cd9daa9835be",
+      "type": "divider"
+    }
+  ]
+}

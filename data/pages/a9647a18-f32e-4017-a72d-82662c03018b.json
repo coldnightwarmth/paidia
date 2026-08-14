@@ -1,0 +1,134 @@
+{
+  "id": "a9647a18-f32e-4017-a72d-82662c03018b",
+  "slug": "serious-games-1970",
+  "title": "Serious Games (1970)",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Serious-Games-1970-a9647a18f32e4017a72d82662c03018b?pvs=21",
+  "createdTime": 1679668618095,
+  "lastEditedTime": 1681311829626,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Serious Games (",
+        [
+          [
+            "b"
+          ]
+        ]
+      ],
+      [
+        "1970)"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-343af68c2140.webp",
+  "blocks": [
+    {
+      "id": "e377d4d8-63ee-40a7-a8a6-e0c081600190",
+      "type": "divider"
+    },
+    {
+      "id": "743709d6-24be-4f9e-b77d-2d56d7417a3e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "53283493-c6c4-4e98-be4b-9ff4b22f873d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ced67ab3-6700-41c8-9ec8-e56d066eba85",
+          "type": "column",
+          "children": [
+            {
+              "id": "de3bc4fc-8e4c-4b72-9795-edbfcde0e17e",
+              "type": "paragraph",
+              "html": "<em><strong>Serious Games</strong></em> was written by by Clark C. Abt, originally published by The Viking Press, March 6, 1970."
+            },
+            {
+              "id": "276ef7e0-0d55-44f5-b1e7-0b615d50be36",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a7c86803-d4d0-4f30-8da5-f372edc4e488",
+              "type": "quote",
+              "html": "<em>The author explores the ways in which games can be used to instruct and inform as well as provide pleasure. He uses innovative approaches to problem solving through individualized game techniques.</em>"
+            },
+            {
+              "id": "5eb4af1c-65b4-46eb-9067-3487c500b59b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "45d85ca7-c63e-430a-9229-d91dbfec8938",
+          "type": "column",
+          "children": [
+            {
+              "id": "d6e816f3-9861-41f1-a7b5-e9a99fd95d9f",
+              "type": "image",
+              "src": "./assets/images/untitled-343af68c2140.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a33ba776-06ee-4fc3-9090-9fecedb2d8d3",
+      "type": "divider"
+    },
+    {
+      "id": "b2bb74e7-ae2f-42d6-ab9f-8d0fb18ece7a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "98b83889-4fb7-417a-9984-ed5a9316709d",
+          "type": "column",
+          "children": [
+            {
+              "id": "727108dc-a4e5-4d52-90a4-f58aae83052c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1f9703b0-20a6-40d5-91b6-a3fead16e107",
+          "type": "column",
+          "children": [
+            {
+              "id": "4d27340a-7ba0-4d6a-ad92-827a2f40689a",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Serious-Games-Clark-C-Abt/dp/0670634905/ref=sr_1_1?keywords=Abt%2C+Clark+C.+Serious+Games&amp;qu=eyJxc2MiOiItMC4wMSIsInFzYSI6IjAuMDAiLCJxc3AiOiIwLjAwIn0%3D&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1f262b9e-c894-4716-8d39-ab96d88a68aa",
+      "type": "divider"
+    }
+  ]
+}

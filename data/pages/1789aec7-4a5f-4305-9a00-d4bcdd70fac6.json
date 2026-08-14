@@ -1,0 +1,43 @@
+{
+  "id": "1789aec7-4a5f-4305-9a00-d4bcdd70fac6",
+  "slug": "the-debate-that-never-took-place",
+  "title": "The Debate That Never Took Place",
+  "icon": "",
+  "cover": "",
+  "type": "page",
+  "parentId": "e72f7981-3d59-46fd-8288-57cd933d7890",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/1789aec74a5f43059a00d4bcdd70fac6",
+  "createdTime": 1681321440649,
+  "lastEditedTime": 1681321440650,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "The Debate That Never Took Place",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "a2bba3c9-e9f5-4b38-a20f-5879c21d0abc",
+      "type": "paragraph",
+      "html": "by <strong><a href=\"https://www.youtube.com/channel/UCm4JnxTxtvItQecKUc4zRhQ\" target=\"_blank\" rel=\"noreferrer\">Errant Signal</a></strong>"
+    },
+    {
+      "id": "f98424fc-8f04-4d91-9667-3c06525c388c",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/xBN3R0m31bA?feature=oembed",
+      "caption": ""
+    }
+  ]
+}

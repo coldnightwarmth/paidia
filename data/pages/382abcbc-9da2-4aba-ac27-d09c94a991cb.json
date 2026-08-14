@@ -1,0 +1,131 @@
+{
+  "id": "382abcbc-9da2-4aba-ac27-d09c94a991cb",
+  "slug": "reality-is-broken",
+  "title": "Reality Is Broken",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/382abcbc9da24abaac27d09c94a991cb",
+  "createdTime": 1651684522480,
+  "lastEditedTime": 1681314283989,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Reality Is Broken"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a09d26b1e3bb.webp",
+  "blocks": [
+    {
+      "id": "5ce9c990-be4c-4e09-8719-2bafb18cf00a",
+      "type": "divider"
+    },
+    {
+      "id": "4314609f-1346-4358-9e87-71cb369db85b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4e0af60c-c3ce-482f-b960-4193967501dd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a7ef8f52-c9e6-46e3-971a-ff12b349a499",
+          "type": "column",
+          "children": [
+            {
+              "id": "15468103-2983-450a-8c8a-de0f0f420c45",
+              "type": "paragraph",
+              "html": "<em><strong>Reality is Broken: Why Games Make Us Better &amp; How They Can Change the World</strong></em> was written by Jane McGonical, published by Penguin, December 27, 2011."
+            },
+            {
+              "id": "3ba1e04c-f60f-493f-9bb1-f7b6e75e8c14",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f0682a54-1c37-40c6-9b5c-a77d9a6cdd6c",
+              "type": "quote",
+              "html": "<em>A visionary game designer reveals how we can harness the power of games to boost global happiness.<br><br>With 174 million gamers in the United States alone, we now live in a world where every generation will be a gamer generation. But why, Jane McGonigal asks, should games be used for escapist entertainment alone? In this groundbreaking book, she shows how we can leverage the power of games to fix what is wrong with the real world-from social problems like depression and obesity to global issues like poverty and climate change-and introduces us to cutting-edge games that are already changing the business, education, and nonprofit worlds. Written for gamers and non-gamers alike, </em>Reality Is Broken<em> shows that the future will belong to those who can understand, design, and play games.</em>"
+            }
+          ]
+        },
+        {
+          "id": "8db150fc-dec8-4959-9b30-013ff02f3393",
+          "type": "column",
+          "children": [
+            {
+              "id": "c9181c35-f9fb-4c78-b29f-3f5391f2b891",
+              "type": "image",
+              "src": "./assets/images/untitled-a09d26b1e3bb.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47e4a590-ba86-4915-9fb9-b6a4e2653cda",
+      "type": "divider"
+    },
+    {
+      "id": "4ef07410-bbf9-4391-ad50-0264d23ee3d9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "08265530-1e21-42fb-919e-7e66de160330",
+          "type": "column",
+          "children": [
+            {
+              "id": "c9a8ecb4-10cf-476e-abf2-0b5c8912cbec",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d714c342-8023-434d-9f49-9a6a559e5092",
+          "type": "column",
+          "children": [
+            {
+              "id": "ca2cce90-9dfc-4254-a109-2a33c5a93cd1",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/38mZt8B\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85f068e6-c2e7-4c93-8353-fdcd43bc53c1",
+      "type": "divider"
+    },
+    {
+      "id": "352e0e98-f833-4cf4-aff9-d868653bd8c3",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "8d9f4304-642f-4d92-af9e-35df1c5bbac3",
+      "type": "paragraph",
+      "html": "<a href=\"#/alternate-reality-games-and-the-cusp-of-digital-gameplay\">Alternate Reality Games &amp; the Cusp of Digital Gameplay</a> (<em>book</em>)"
+    }
+  ]
+}

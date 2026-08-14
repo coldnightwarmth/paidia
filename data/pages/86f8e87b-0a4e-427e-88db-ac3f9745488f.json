@@ -1,0 +1,131 @@
+{
+  "id": "86f8e87b-0a4e-427e-88db-ac3f9745488f",
+  "slug": "bioshock-and-philosophy",
+  "title": "BioShock & Philosophy",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/BioShock-Philosophy-86f8e87b0a4e427e88dbac3f9745488f?pvs=21",
+  "createdTime": 1657299255088,
+  "lastEditedTime": 1681311180296,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "BioShock & Philosophy",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6b7cc907eb3d.webp",
+  "blocks": [
+    {
+      "id": "130a1e65-bc7c-4271-8e70-4918a48091d7",
+      "type": "divider"
+    },
+    {
+      "id": "e4be6fc2-fbd3-4753-8905-0bc7ea0b4ea3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ad7e14ff-c4d0-46f7-b1e2-00024581341f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "047b2341-7762-499e-8622-9fa0777bbb4c",
+          "type": "column",
+          "children": [
+            {
+              "id": "5f00aec7-9847-42c4-812f-1d3abc249c67",
+              "type": "paragraph",
+              "html": "<em><strong>BioShock &amp; Philosophy: Irrational Game, Rational Book</strong></em> was written by Luke Cuddy, published by Wiley-Blackwell, June 12, 2015."
+            },
+            {
+              "id": "5675f602-f5c3-48e8-95d8-b216faabc536",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ef7b4d67-34f3-43c2-801a-4996bebf69eb",
+              "type": "quote",
+              "html": "<em>Considered a sign of the ‘coming of age’ of video games as an artistic medium, the award-winning BioShock franchise covers vast philosophical ground. </em>BioShock and Philosophy: Irrational Game, Rational Book <em>presents expert reflections by philosophers (and Bioshock connoisseurs) on this critically acclaimed and immersive fan-favorite.</em>"
+            },
+            {
+              "id": "e0c9eb66-8aa2-41df-b485-618796aa5175",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bd2a98db-9fb8-4452-b0be-00b2cf9f6ef8",
+          "type": "column",
+          "children": [
+            {
+              "id": "1692f302-bd13-4a08-a26f-89e2cc4cf366",
+              "type": "image",
+              "src": "./assets/images/untitled-6b7cc907eb3d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "936b957a-2d01-466e-88aa-db0aa8f7ef84",
+      "type": "divider"
+    },
+    {
+      "id": "65f704d8-e688-4372-be48-4b06ffdf62ce",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5b274328-a620-43aa-bc2f-465e9292be09",
+          "type": "column",
+          "children": [
+            {
+              "id": "9bdb8913-697f-484e-8a17-b9abbde81723",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "47e75c64-2fe7-4c4f-9146-249d4a8b1eb4",
+          "type": "column",
+          "children": [
+            {
+              "id": "5acaffab-3585-4fa4-9411-f0069f80162d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3c509Ba\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9b24be36-b024-4c4a-95a9-07ed22bb1375",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "2723832f-dc73-42ae-9688-478fc0c45785",
+  "slug": "flatland",
+  "title": "Flatland",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Flatland-2723832fdc7342ae9688478fc0c45785?pvs=21",
+  "createdTime": 1652132721909,
+  "lastEditedTime": 1681314130009,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Flatland"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c7998ab63eba.webp",
+  "blocks": [
+    {
+      "id": "de7a0406-b1db-4bc9-b1e5-a644145b7187",
+      "type": "divider"
+    },
+    {
+      "id": "17c6b1d8-ac73-40d0-9302-25c9ab962c59",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8dc29565-5554-44a5-b641-682a324b47ef",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7a3c302e-465e-4fb5-a641-98a890c529fb",
+          "type": "column",
+          "children": [
+            {
+              "id": "f396aba4-81e3-479a-9fff-61cb22015283",
+              "type": "paragraph",
+              "html": "<em><strong>Flatland</strong></em> was written by Edwin A. Abbott, originally published by Seeley &amp; Co. of London in 1884."
+            },
+            {
+              "id": "cb9ba36a-ba5e-4df2-b682-78d687fd3f52",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b5241057-ec14-4511-908b-606007d74089",
+              "type": "quote",
+              "html": "Flatland: A Romance of Many Dimensions <em>is a satirical novella by the English schoolmaster Edwin Abbott Abbott, first published in 1884. Written pseudonymously by &quot;A Square&quot;, the book used the fictional two-dimensional world of Flatland to comment on the hierarchy of Victorian culture, but the novella's more enduring contribution is its examination of dimensions.<br><br>Physicists and science popularizers Carl Sagan and Stephen Hawking have both commented on and postulated about the effects of Flatland. Sagan recreates the thought experiment as a set-up to discussing the possibilities of higher dimensions of the physical universe in both the book and television series Cosmos, whereas Hawking notes the peculiarity of life in two-dimensional space.</em>"
+            }
+          ]
+        },
+        {
+          "id": "09138c89-6449-4211-8e0d-48ee0fcb58eb",
+          "type": "column",
+          "children": [
+            {
+              "id": "ef5959b7-b864-4d1f-a450-6f007f7a91ae",
+              "type": "image",
+              "src": "./assets/images/untitled-c7998ab63eba.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "173db7c7-1687-42f0-87d3-23fc8def07a8",
+      "type": "divider"
+    },
+    {
+      "id": "3d745d2f-941d-41e5-bb74-54639d57a892",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e50eb831-8fa3-4ec1-ba90-ad12f97a003a",
+          "type": "column",
+          "children": [
+            {
+              "id": "c821e018-7e21-4ae0-86e1-de665941edd1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7b9b0065-cced-48fb-80d4-0c9ba6f386b7",
+          "type": "column",
+          "children": [
+            {
+              "id": "70db876f-80bf-49b0-a8be-9fa47cd3fed6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3BkroBG\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f620667-d2ef-4697-989a-70a0f451c0a1",
+      "type": "divider"
+    },
+    {
+      "id": "784da8c0-ba28-4bd0-86e6-85471f28080d",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "83bfdc30-90b5-4cfc-b7f3-b10264e2c594",
+      "type": "paragraph",
+      "html": "<a href=\"#/isekai\">Isekai</a>"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "1900cad9-db44-48b3-910d-b962539ea068",
+  "slug": "the-gamework",
+  "title": "The gamework",
+  "icon": "./assets/images/document-gray-7f1467ecac3d.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73db07c6-c5bc-4f9b-aeda-693985988a22",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/1900cad9db4448b3910db962539ea068",
+  "createdTime": 1651758360000,
+  "lastEditedTime": 1681314450015,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Essay/Article"
+      ]
+    ],
+    "title": [
+      [
+        "The gamework"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "7dae25dc-4ef5-401a-915a-1633c789b8b5",
+      "type": "paragraph",
+      "html": "<em>by Judd E. Ruggill, et. al</em>"
+    },
+    {
+      "id": "49a180d8-9725-4236-95cb-9ad8ff724424",
+      "type": "divider"
+    },
+    {
+      "id": "3df0ee83-1d1e-4621-a478-e3e35ebac20e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "54ddf6f4-f66e-4d9b-9d51-41a363b4bcdc",
+      "type": "file",
+      "kind": "pdf",
+      "src": "./assets/documents/the-gamework-e66665f2a7.pdf",
+      "title": "the gamework.pdf",
+      "size": "90.2KB",
+      "downloadName": "the gamework.pdf"
+    },
+    {
+      "id": "3f80e1fe-4c5d-41da-b8ea-3751cbfac85e",
+      "type": "file",
+      "kind": "file",
+      "src": "./assets/documents/the-gamework-e66665f2a7.pdf",
+      "title": "the gamework.pdf",
+      "size": "90.2KB",
+      "downloadName": "the gamework.pdf"
+    }
+  ]
+}

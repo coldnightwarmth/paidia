@@ -1,0 +1,52 @@
+{
+  "id": "2051fa00-5190-42a6-af57-6eca9f5b55d0",
+  "slug": "images",
+  "title": "Images",
+  "icon": "🖼️",
+  "cover": "./assets/images/billboard-fariries-77e28baf2d06.webp",
+  "type": "page",
+  "parentId": "e0713fca-6e95-4df5-be44-8c3a75e00061",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/2051fa00519042a6af576eca9f5b55d0",
+  "createdTime": 1652731740000,
+  "lastEditedTime": 1681313438515,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page"
+      ]
+    ],
+    "title": [
+      [
+        "Images"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "6bf40829-216f-433b-9e7d-7e4174697349",
+      "type": "divider"
+    },
+    {
+      "id": "4fe1a8a9-9c97-4dc6-bc3a-8a48b13a309d",
+      "type": "paragraph",
+      "html": "<strong>[UNDER CONSTRUCTION, jus vibes for now]</strong>"
+    },
+    {
+      "id": "02959951-1394-400f-98bc-e35877b195eb",
+      "type": "embed",
+      "src": "https://albumizr.com/skins/bandana/index.php?key=Kvop",
+      "caption": ""
+    },
+    {
+      "id": "752ccc94-ac52-4354-ae44-eab9dd8d4156",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

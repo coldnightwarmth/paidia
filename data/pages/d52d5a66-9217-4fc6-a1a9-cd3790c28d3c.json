@@ -1,0 +1,141 @@
+{
+  "id": "d52d5a66-9217-4fc6-a1a9-cd3790c28d3c",
+  "slug": "church-games",
+  "title": "Church Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Church-Games-d52d5a6692174fc6a1a9cd3790c28d3c?pvs=21",
+  "createdTime": 1651863316519,
+  "lastEditedTime": 1681311558406,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Church Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-91e1dc706099.webp",
+  "blocks": [
+    {
+      "id": "a93b7944-98be-46d9-bc93-d4294baf4919",
+      "type": "divider"
+    },
+    {
+      "id": "08d235ac-ddb8-44b7-8787-6b9d7cfb9382",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "45646c87-2c89-4ee8-8676-1bad6477db9b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8792caf4-3c39-49dd-87dd-67bb131bb5d9",
+          "type": "column",
+          "children": [
+            {
+              "id": "e66d3f81-0a65-4451-9bde-a73c61f18d9e",
+              "type": "paragraph",
+              "html": "<em><strong>Church Games: Identifying Tactics used in Church that Prevent Spiritual Growth</strong></em> was written by Eanya Prout, published by Eanya Prout, February 5, 2018."
+            },
+            {
+              "id": "9ac622fa-3716-41f5-8f13-8c86f724e87b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1d20e0d3-dda4-4842-89f7-9540f9340b78",
+              "type": "quote",
+              "html": "<em>The Body of Christ is in need of true spiritual revival. In</em> Church Games<em>, Eanya Prout reveals six tactics used in local churches that prevent spiritual growth. She explains how people and the Holy Scriptures have been manipulated to pervert spiritual principles such as Prosperity, Spiritual Parenting, Mentoring and more! Eanya reveals the true meaning of these processes and relationships while encouraging you to grow in grace and truth. It’s God’s desire that you grow unhindered by the sinister tactics of church games. You don’t have to be a pawn if you don’t want to. After reading </em>Church Games<em>, you can be free!</em>"
+            }
+          ]
+        },
+        {
+          "id": "3ed9cab9-102c-4e71-b803-52b089b2129b",
+          "type": "column",
+          "children": [
+            {
+              "id": "9f1ed3b3-21a2-4b15-8caf-3b54db2b587d",
+              "type": "image",
+              "src": "./assets/images/untitled-91e1dc706099.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2cec29b6-7a92-45a6-a4d3-b58d8fa18d3f",
+      "type": "divider"
+    },
+    {
+      "id": "09a2b0a0-a851-477a-99b8-afc5a1afd76f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "52696ec2-33d9-491a-97c3-615f9df04959",
+          "type": "column",
+          "children": [
+            {
+              "id": "be832aba-ea06-487c-9acb-b41e4da7ece2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1e94602f-6475-4a26-aaaf-ec221c0f27f4",
+          "type": "column",
+          "children": [
+            {
+              "id": "f18b447e-36a7-406f-88e0-2e1ada864477",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39PZ4f4\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9401d30-8e50-42a5-a65a-f4859eb6285e",
+      "type": "divider"
+    },
+    {
+      "id": "1dc8b022-07ab-4652-aa61-f93eb8f31ae7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6f7584c7-3a34-4f1a-b216-63eed9b30de0",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "da922ae9-a620-44b7-a215-a3c648c497a5",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

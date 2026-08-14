@@ -1,0 +1,136 @@
+{
+  "id": "2f872bc0-8502-4f70-a3fc-48e38678dad6",
+  "slug": "the-ludic-city",
+  "title": "The Ludic City",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Ludic-City-2f872bc085024f70a3fc48e38678dad6?pvs=21",
+  "createdTime": 1668450283091,
+  "lastEditedTime": 1681312530367,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Ludic City",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/1889786-uy400-ss400-b5f25015dc67.webp",
+  "blocks": [
+    {
+      "id": "96ea3285-7c15-47f5-83aa-92e1c56a9361",
+      "type": "divider"
+    },
+    {
+      "id": "d421a838-c88e-4814-9f04-7d6e76848fe0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ccd5d14f-ee57-448a-8f08-4a0f58059978",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f670eea2-d489-44ca-8d53-f760018320eb",
+          "type": "column",
+          "children": [
+            {
+              "id": "cd421cfb-f27e-4812-9825-b7769a77289e",
+              "type": "paragraph",
+              "html": "<em><strong>The Ludic City: Exploring the Potential of Public Spaces </strong></em>was written by Quentin Stevens, published by Routledge, March 28, 2007."
+            },
+            {
+              "id": "973b03b9-9b9f-4fec-97f5-80ff42026ff8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "dec55213-fa81-41f2-a84d-934154cec9ff",
+              "type": "quote",
+              "html": "<em>This international and illustrated work challenges current writings focussing on the problems of urban public space to present a more nuanced and dialectical conception of urban life.<br><br>Detailed and extensive international urban case studies show how urban open spaces are used for play, which is defined and discussed using Caillois' four-part definition – competition, chance, simulation and vertigo. Stevens explores and analyzes these case studies according to locations where play has been observed: paths, intersections, thresholds, boundaries and props.<br><br>Applicable to a wide-range of countries and city forms, </em>The Ludic City<em> is a fascinating and stimulating read for all who are involved or interested in the design of urban spaces.</em>"
+            },
+            {
+              "id": "cbc47fcd-6146-4b4b-b096-c60d94068c0c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "75db8c4c-060f-4c5e-a274-e5a0a814de5f",
+          "type": "column",
+          "children": [
+            {
+              "id": "865a57c1-cf75-481b-8111-f0393be1f396",
+              "type": "image",
+              "src": "./assets/images/1889786-uy400-ss400-b5f25015dc67.webp",
+              "caption": "",
+              "alt": "1889786._UY400_SS400_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db3ebdda-77a7-469a-b26c-bc9199a3a960",
+      "type": "divider"
+    },
+    {
+      "id": "35367e90-e8bd-4ffb-a46c-c7686a789e2f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "578cbe36-d568-4a9a-99ce-bcba3ed67477",
+          "type": "column",
+          "children": [
+            {
+              "id": "c23ddcec-2e2a-4fa4-ad77-acbf2373cb53",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2fad3694-4c96-4a16-8eb6-5206a0d50b3b",
+          "type": "column",
+          "children": [
+            {
+              "id": "4d230e2c-064a-4559-b202-fec50051d825",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Ludic-City-Exploring-Potential-Public/dp/0415401798/ref=sr_1_5?crid=1XJEWXO1M0ZRQ&amp;keywords=Ludics&amp;qid=1667234891&amp;qu=eyJxc2MiOiIzLjAyIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=ludics%2Cstripbooks%2C93&amp;sr=1-5&amp;ufe=app_do%3Aamzn1.fos.18630bbb-fcbb-42f8-9767-857e17e03685\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a768e444-b140-432d-81f2-7ec0188b60a3",
+      "type": "divider"
+    },
+    {
+      "id": "d58420cb-a033-4948-8ed0-78a845abfe98",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

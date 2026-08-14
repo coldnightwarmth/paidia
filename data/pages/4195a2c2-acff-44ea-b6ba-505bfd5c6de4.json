@@ -1,0 +1,131 @@
+{
+  "id": "4195a2c2-acff-44ea-b6ba-505bfd5c6de4",
+  "slug": "situational-game-design",
+  "title": "Situational Game Design",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Situational-Game-Design-4195a2c2acff44eab6ba505bfd5c6de4?pvs=21",
+  "createdTime": 1651769415505,
+  "lastEditedTime": 1681313858159,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Situational Game Design",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6590ed34bfd6.webp",
+  "blocks": [
+    {
+      "id": "7c36e86b-d1a7-4982-8ead-f4bb79338c8b",
+      "type": "divider"
+    },
+    {
+      "id": "730fda8e-0920-4d24-92ea-f87d1f9ebbbb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f5a885ae-5044-4f3f-b382-1804de9245d1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "70662b4c-9a7a-4fba-a561-52ddf17663e5",
+          "type": "column",
+          "children": [
+            {
+              "id": "9be1a15d-0a63-4dfd-a248-ba7cbf2411a9",
+              "type": "paragraph",
+              "html": "<em><strong>Situational Game Design</strong></em> was written by Brian Upton, published by A K Peters/CRC Press, October 31, 2017."
+            },
+            {
+              "id": "c50fe95d-1966-4ba4-b98e-56f7943fe694",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4ccdb912-a4bf-48a9-81d9-d62d0d751a15",
+              "type": "quote",
+              "html": "Situational Design<em> lays out a new methodology for designing and critiquing videogames. While most game design books focus on games as formal systems, </em>Situational Design<em> concentrates squarely on player experience. It looks at how playfulness is not a property of a game considered in isolation, but rather the result of the intersection of a game with an appropriate player. Starting from simple concepts, the book advances step-by-step to build up a set of practical tools for designing player-centric playful situations. While these tools provide a fresh perspective on familiar design challenges as well as those overlooked by more transactional design paradigms.</em>"
+            }
+          ]
+        },
+        {
+          "id": "1c6898a4-b2ae-4185-b380-0ef8a8b45d72",
+          "type": "column",
+          "children": [
+            {
+              "id": "3104332b-fb08-4041-9ade-6ef56dad4884",
+              "type": "image",
+              "src": "./assets/images/untitled-6590ed34bfd6.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "77102f15-3fc3-4897-bff8-5325a734c412",
+      "type": "divider"
+    },
+    {
+      "id": "f919db79-3a03-4df9-8db2-64f4d53062b4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "24119b26-629c-489f-8881-d82a9d4dc51a",
+          "type": "column",
+          "children": [
+            {
+              "id": "6b6ff18d-0525-4cb0-b7e1-1c88e21875be",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9adc8387-e5db-4c9f-8035-d1b0af5081d8",
+          "type": "column",
+          "children": [
+            {
+              "id": "4dec5a35-fe6f-4eb3-b00d-4a94f7615c00",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3MSdEl1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d765cc37-ba1a-4ddb-bb60-00946639526a",
+      "type": "divider"
+    },
+    {
+      "id": "3e068439-fef2-4114-9ce2-c6891b153f40",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

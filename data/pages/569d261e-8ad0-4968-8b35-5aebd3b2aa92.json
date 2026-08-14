@@ -1,0 +1,136 @@
+{
+  "id": "569d261e-8ad0-4968-8b35-5aebd3b2aa92",
+  "slug": "chess-story-the-royal-game",
+  "title": "Chess Story (The Royal Game)",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Chess-Story-The-Royal-Game-569d261e8ad049688b355aebd3b2aa92?pvs=21",
+  "createdTime": 1658275211524,
+  "lastEditedTime": 1681311468736,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Chess Story (The Royal Game)",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81uy6v33adl-198cb7ad5c38.webp",
+  "blocks": [
+    {
+      "id": "2910e2c2-6176-4ab1-a08a-e864d249f765",
+      "type": "divider"
+    },
+    {
+      "id": "02ce552f-8bda-4cc8-9bd0-291ddae1bf6c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9a141e63-c40b-455a-8f4a-f3aee764cc6c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "000cddab-3350-4ad6-93dc-aac4038e65b6",
+          "type": "column",
+          "children": [
+            {
+              "id": "03d08987-6c3c-433e-9cd0-0ab44f9e62a6",
+              "type": "paragraph",
+              "html": "<em><strong>Chess Story</strong></em> (also published as <em>The Royal Game </em>and <em>Chess: A Novel</em>) was written by Stefan Zweig, originally published in 1943."
+            },
+            {
+              "id": "de6c3bae-b598-4f31-a1ad-28d8d33212cd",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "09e0efaa-89a4-4f4b-8cb8-79255639e149",
+              "type": "quote",
+              "html": "<em>'... a human being, an intellectual human being who constantly bends the entire force of his mind on the ridiculous task of forcing a wooden king into the corner of a wooden board, and does it without going mad!' A group of passengers on a cruise ship challenge the world chess champion to a match. At first, they crumble, until they are helped by whispered advice from a stranger in the crowd - a man who will risk everything to win. Stefan Zweig's acclaimed novella </em>Chess<em> is a disturbing, intensely dramatic depiction of obsession and the price of genius.</em>"
+            },
+            {
+              "id": "641f2f34-4d2f-41c1-b95d-ec9b68352996",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2cd19cbc-e8b5-45a4-98e5-79870c4700ef",
+          "type": "column",
+          "children": [
+            {
+              "id": "ef91de00-809d-4a55-8fc8-4b81046fe7e5",
+              "type": "image",
+              "src": "./assets/images/81uy6v33adl-198cb7ad5c38.webp",
+              "caption": "",
+              "alt": "81uY6v33adL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c12da83-d511-4750-81c6-038fc95b6278",
+      "type": "divider"
+    },
+    {
+      "id": "d700bafd-aea2-4aa1-bb46-93410959f42e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9b65dfef-44a0-47b6-abfd-20ddef6f6b41",
+          "type": "column",
+          "children": [
+            {
+              "id": "08af1bf2-a861-45e2-8d86-a21149218d5d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "aa536976-1a23-43c2-a724-07f817e47e8c",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd85f956-6cc9-426f-b46c-c05eb80ffc17",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3RJKtmZ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d84bf15e-778f-42ac-b7ff-3a2e6015374f",
+      "type": "divider"
+    },
+    {
+      "id": "c67a8c89-41df-4056-bfa6-c988f794f517",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

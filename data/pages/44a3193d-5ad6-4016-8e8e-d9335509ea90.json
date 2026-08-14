@@ -1,0 +1,137 @@
+{
+  "id": "44a3193d-5ad6-4016-8e8e-d9335509ea90",
+  "slug": "the-secret-history-of-balls",
+  "title": "The Secret History of Balls",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2f2b48d3-00ef-46fe-b6f4-4b813ad7bd6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Secret-History-of-Balls-44a3193d5ad640168e8ed9335509ea90?pvs=21",
+  "createdTime": 1659422244937,
+  "lastEditedTime": 1681313096044,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Secret History of Balls",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c9a44b51b111.webp",
+  "blocks": [
+    {
+      "id": "cce1d555-3ede-4af2-8c82-822a88990159",
+      "type": "divider"
+    },
+    {
+      "id": "f85549bc-131d-4be3-ad87-460286cc0a6c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "dd43ef13-6a78-4e64-bff5-d7f3bbae17d3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "06093a4d-d7be-46fd-bc38-d0912cdea614",
+          "type": "column",
+          "children": [
+            {
+              "id": "cc0ae1ae-00db-49e0-a8a3-998ecbf008a2",
+              "type": "paragraph",
+              "html": "<em><strong>The Secret History of Balls: The Stories Behind the Things We Love to Catch, Whack, Throw, Kick, Bounce &amp; Bat </strong></em>was written by Josh Chetwynd, published by Perigee Trade, May 3, 2011."
+            },
+            {
+              "id": "0143c44e-7cf8-4ca4-961e-06f81c064f6e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "655d46a7-0bf5-4914-8597-d67c5a746695",
+              "type": "quote",
+              "html": "<em>A fish eyeball was used as the center of some nineteenth-century baseballs<br><br>The race to make better billiard balls led to the invention of plastics</em>"
+            },
+            {
+              "id": "63e64268-b748-42dd-b4b5-edb502a1b090",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fa9bf1e9-278a-4fa7-a8df-38f11eaaece6",
+          "type": "column",
+          "children": [
+            {
+              "id": "52f89341-4543-4a76-ae07-4703e4e0c930",
+              "type": "image",
+              "src": "./assets/images/untitled-c9a44b51b111.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "854c2823-41c3-422e-aeb9-d7fd3f517ef5",
+      "type": "divider"
+    },
+    {
+      "id": "917a7cdb-6b07-4c32-b3dc-0d9dbdb4a8f1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d1078f4c-b554-42e7-bbb3-8bf1797c8731",
+          "type": "column",
+          "children": [
+            {
+              "id": "78e22cd0-22dd-48d3-bc1b-544948d32340",
+              "type": "callout",
+              "html": "",
+              "icon": "📚",
+              "children": [
+                {
+                  "id": "0155782c-ca68-42f6-b5f9-a2f962b1666b",
+                  "type": "paragraph",
+                  "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6c23ba24-5b5a-4e93-b947-9b89913825a3",
+          "type": "column",
+          "children": [
+            {
+              "id": "7eaac53e-e873-43e2-8c32-264c8b106d95",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3vzdBUu\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a14c0ac8-7f2b-4a76-8ca0-6515fcb20d00",
+      "type": "divider"
+    }
+  ]
+}

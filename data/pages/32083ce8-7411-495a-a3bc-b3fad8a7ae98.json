@@ -1,0 +1,141 @@
+{
+  "id": "32083ce8-7411-495a-a3bc-b3fad8a7ae98",
+  "slug": "third-person",
+  "title": "Third Person",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e5dbabf1-59e3-4e8d-9f3b-ee45e757afd8",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/32083ce87411495aa3bcb3fad8a7ae98",
+  "createdTime": 1651959530590,
+  "lastEditedTime": 1681313350360,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Third Person"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d1661258e632.webp",
+  "blocks": [
+    {
+      "id": "f560f567-e87f-40d1-a0bb-44c330b87d67",
+      "type": "divider"
+    },
+    {
+      "id": "a88a818b-2a6e-46a4-8796-59dce4258afd",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1e9e809f-b151-4180-8d55-99e96fe14928",
+      "type": "columns",
+      "children": [
+        {
+          "id": "670feab2-8fe7-44a6-abc2-802d7bea011d",
+          "type": "column",
+          "children": [
+            {
+              "id": "ea4fab1f-9142-4392-a304-1df0c1decb92",
+              "type": "paragraph",
+              "html": "<em><strong>Third Person: Authoring &amp; Exploring Vast Narratives</strong></em> is a collection of essays edited by Pat Harrigan &amp; <a href=\"#/noah-wardrip-fruin\">Noah Wardrip-Fruin</a>, published by The MIT Press, March 13, 2009."
+            },
+            {
+              "id": "fd0be4dc-9520-45fb-91fe-711f67768fc9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "70acb121-d941-4995-bdb9-28aa54071180",
+              "type": "quote",
+              "html": "<em><strong>Narrative strategies for vast </strong></em><a href=\"#/fictionality\"><em><strong>fictional</strong></em></a><em><strong> worlds across a variety of media, from </strong></em><a href=\"#/wii-sports\"><strong>World of Warcraft</strong></a><em><strong> to </strong></em><strong>The Wire</strong><em><strong>.<br><br></strong></em><em>The ever-expanding capacities of computing offer new narrative possibilities for virtual worlds. Yet vast narratives―featuring an ongoing and intricately developed storyline, many characters, and multiple settings―did not originate with, and are not limited to, Massively Multiplayer Online Games. Thomas Mann's </em>Joseph and His Brothers<em>, J. R. R. Tolkien's </em><a href=\"#/lord-of-the-rings\">Lord of the Rings</a><em>, Marvel's </em>Spiderman<em>, and the complex stories of such television shows as </em>Dr. Who, The Sopranos<em>, and </em>Lost<em> all present vast fictional worlds. </em>Third Person<em> explores strategies of vast narrative across a variety of media, including video games, television, literature, comic books, tabletop games, and digital art. The contributors―media and television scholars, novelists, comic creators, game designers, and others―investigate such issues as continuity, </em><a href=\"#/canon\"><em>canonicity</em></a><em>, interactivity, fan fiction, technological innovation, and cross-media phenomena. Chapters examine a range of topics, including storytelling in a multiplayer environment; narrative techniques for a 3,000,000-page novel; continuity (or the impossibility of it) in </em>Doctor Who<em>; managing multiple intertwined narratives in superhero comics; the spatial experience of the </em><a href=\"/d7d06e7d63044a22981cc886cb8b5c74\" target=\"_blank\" rel=\"noreferrer\">Final Fantasy</a><em> role-playing games; </em>World of Warcraft<em> adventure texts created by designers and fans; and the serial storytelling of </em>The Wire<em>. Taken together, the multidisciplinary conversations in </em>Third Person<em>, along with Harrigan and Wardrip-Fruin's earlier collections </em><a href=\"#/first-person\">First Person</a><em> and </em><a href=\"#/second-person\">Second Person</a><em>, offer essential insights into how fictions are constructed and maintained in very different forms of media at the beginning of the twenty-first century.</em>"
+            },
+            {
+              "id": "bdd1d086-eb66-4130-a3a8-2a8748e429fb",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "15152936-3278-454a-a870-88150365e6de",
+          "type": "column",
+          "children": [
+            {
+              "id": "492ce182-9117-421e-b3be-9da4b84fad2f",
+              "type": "image",
+              "src": "./assets/images/untitled-d1661258e632.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6cb1ff9d-ee4c-45aa-aa02-12bb10b91610",
+      "type": "divider"
+    },
+    {
+      "id": "308be265-b043-4a72-bdc5-2318e3747f3d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c5b2c7d8-d431-4834-bc4c-b99079b17377",
+          "type": "column",
+          "children": [
+            {
+              "id": "9e44fa83-8bc9-48a4-a93a-40150ff2aaff",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ee20f7f0-6b53-4791-a81f-161699c2f5ef",
+          "type": "column",
+          "children": [
+            {
+              "id": "2af4c641-cb8c-4793-93e2-434686fdd66d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3UbqxtF\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "872cd75d-1060-49ad-a84d-25e43ce88251",
+      "type": "divider"
+    },
+    {
+      "id": "7cf550be-a386-44da-9bdc-e7d4471577d4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "423ac838-3ba5-4cde-a28f-3eab3abf63b6",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "941d8ae7-1a38-447e-8614-b48a922db0c6",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

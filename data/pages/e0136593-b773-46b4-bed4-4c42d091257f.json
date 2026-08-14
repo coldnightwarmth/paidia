@@ -1,0 +1,139 @@
+{
+  "id": "e0136593-b773-46b4-bed4-4c42d091257f",
+  "slug": "twisty-little-passages",
+  "title": "Twisty Little Passages",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Twisty-Little-Passages-e0136593b77346b4bed44c42d091257f?pvs=21",
+  "createdTime": 1652117532977,
+  "lastEditedTime": 1681314142246,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Twisty Little Passages",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-edadac2b5d61.webp",
+  "blocks": [
+    {
+      "id": "0c4fc891-646d-4220-86c0-a2a7d35df922",
+      "type": "divider"
+    },
+    {
+      "id": "e13905dc-0d01-4564-9c84-97c889bb2913",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ea4a3313-8e5c-47ac-a2a0-50515e2aa284",
+      "type": "columns",
+      "children": [
+        {
+          "id": "53b9b5ed-0850-4942-a950-e38ed8f35974",
+          "type": "column",
+          "children": [
+            {
+              "id": "083f0555-407b-478f-894b-405a8ab3619c",
+              "type": "paragraph",
+              "html": "<em><strong>Twisty Little Passages: An Approach to Interactive Fiction </strong></em>was written by Nick Montfort, published by The MIT Press, February 11, 2005."
+            },
+            {
+              "id": "8ca7e764-d4c2-49b1-8920-bb33b5751962",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2b1f0439-5bd6-47f4-9aff-6025428110e3",
+              "type": "quote",
+              "html": "<em><strong>A critical approach to interactive fiction, as literature and game.<br><br></strong></em><em>Interactive fiction—the best-known form of which is the text game or text adventure—has not received as much critical attention as have such other forms of electronic literature as hypertext fiction and the conversational programs known as chatterbots. </em>Twisty Little Passages<em> (the title refers to a maze in Adventure, the first interactive fiction) is the first book-length consideration of this form, examining it from gaming and literary perspectives. Nick Montfort, an interactive fiction author himself, offers both aficionados and first-time users a way to approach interactive fiction that will lead to a more pleasurable and meaningful experience of it.<br><br></em>Twisty Little Passage<em>s looks at interactive fiction beginning with its most important literary ancestor, the riddle. Montfort then discusses Adventure and its precursors (including the I Ching and Dungeons and Dragons), and follows this with an examination of mainframe text games developed in response, focusing on the most influential work of that era, Zork. He then considers the introduction of commercial interactive fiction for home computers, particularly that produced by Infocom. Commercial works inspired an independent reaction, and Montfort describes the emergence of independent creators and the development of an online interactive fiction community in the 1990s. Finally, he considers the influence of interactive fiction on other literary and gaming forms. With </em>Twisty Little Passages<em>, Nick Montfort places interactive fiction in its computational and literary contexts, opening up this still-developing form to new consideration.</em>"
+            },
+            {
+              "id": "c0922696-32b2-4e01-96a3-19b497b81807",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f65c5977-7e4c-4a72-aadb-36064c389684",
+          "type": "column",
+          "children": [
+            {
+              "id": "f403d171-e22a-4b95-ad88-179b754c6a9e",
+              "type": "image",
+              "src": "./assets/images/untitled-edadac2b5d61.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "df5086e2-05da-4b01-9bf0-1cbda7166cd6",
+      "type": "divider"
+    },
+    {
+      "id": "5239768a-41fe-476f-88f7-885267dd991f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "51de7ae7-cd3f-413f-9365-4fd97ef5091b",
+          "type": "column",
+          "children": [
+            {
+              "id": "4a1b8b96-24ed-4d32-9315-90b25ab0d3a1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e6b762cd-99ea-4fcb-9a5c-27ad59ad0f4a",
+          "type": "column",
+          "children": [
+            {
+              "id": "573e18cc-3aa2-40c3-97c5-ca73c286bbd0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3MdegRR\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e147ff67-8caf-4950-9c44-ef4564b6e7a5",
+      "type": "divider"
+    },
+    {
+      "id": "fee599e8-af3a-48dc-a46e-72bf44140520",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ff329aa5-506b-4dda-8e2a-85cf0d99d56f",
+  "slug": "a-mind-forever-voyaging",
+  "title": "A Mind Forever Voyaging",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/A-Mind-Forever-Voyaging-ff329aa5506b4dda8e2a85cf0d99d56f?pvs=21",
+  "createdTime": 1657304701062,
+  "lastEditedTime": 1681317264507,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A Mind Forever Voyaging",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-09faca3f792a.webp",
+  "blocks": [
+    {
+      "id": "f834b1c8-a6f1-4edb-80db-6dc216bf882c",
+      "type": "divider"
+    },
+    {
+      "id": "c9055a3c-6046-4c55-9eb5-c0dfc0d9f17b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5deb1650-7a6e-4fef-8ca2-05ce02c9fc20",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d7d83638-6aa5-4d20-8fec-c3705b4f3747",
+          "type": "column",
+          "children": [
+            {
+              "id": "3d0cefcb-2cec-4c02-8a4c-ce7972b007eb",
+              "type": "paragraph",
+              "html": "<em><strong>A Mind Forever Voyaging: A History of Storytelling in Video Games</strong></em> was written by Dylan Holmes, self-published through CreateSpace, November 7, 2012."
+            },
+            {
+              "id": "4bbb108c-e964-4b4a-8a83-b0973b9f0460",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1695988f-ff89-420b-9eb3-e03e303f41c0",
+              "type": "quote",
+              "html": "<em>An engaging and entertaining read for veteran gamers and curious newcomers alike, </em>A Mind Forever Voyaging<em> traces the evolution of interactive video games by examining 13 landmark titles that challenged convention and captured players’ imaginations worldwide. Alternative gaming blogger Dylan Holmes focuses on games that tell stories in innovative and fascinating ways and examines the opportunities—and challenges—presented when players are given the ability to direct how a story plays out. From the text-based adventure of </em>Planetfall<em> and the interactive cinema of </em>Heavy Rain<em> to the one-act play of </em>Façade <em>and the simulated world of </em>Shenmue<em>, Holmes showcases the diversity of video game stories that have emerged in the last 30 years. Along the way, he addresses such questions as:</em>"
+            },
+            {
+              "id": "4d3f02de-5e0b-4372-b86d-44e8a9160d38",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a37aa2bd-2239-4f2e-b9ee-3def70a2f2c2",
+          "type": "column",
+          "children": [
+            {
+              "id": "a634f2fc-50f6-426d-b49c-1031d0684130",
+              "type": "image",
+              "src": "./assets/images/untitled-09faca3f792a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "65c5b7a5-e9c5-4483-8922-58ef4aba6151",
+      "type": "divider"
+    },
+    {
+      "id": "e12b7461-c97d-491e-be1a-4c9728b1ab0b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6b05e460-7ddd-4cf5-bbf7-b13cd58c0f5f",
+          "type": "column",
+          "children": [
+            {
+              "id": "04bf0f87-ca6c-4148-8917-3678831b019c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "343e4cdb-f45c-47a6-b767-38d7f2ebb61d",
+          "type": "column",
+          "children": [
+            {
+              "id": "fc132a8f-f1e0-4459-a145-7fcb06c37ccb",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NTMrOo\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3308c46-7ac1-4ab3-9c6f-fba8e13f715d",
+      "type": "divider"
+    }
+  ]
+}

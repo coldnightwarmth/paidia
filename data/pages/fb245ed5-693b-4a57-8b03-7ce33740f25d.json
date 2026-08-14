@@ -1,0 +1,126 @@
+{
+  "id": "fb245ed5-693b-4a57-8b03-7ce33740f25d",
+  "slug": "invincible",
+  "title": "Invincible",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Invincible-fb245ed5693b4a578b037ce33740f25d?pvs=21",
+  "createdTime": 1651710983131,
+  "lastEditedTime": 1681313895881,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Invincible"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-abac5344cb99.webp",
+  "blocks": [
+    {
+      "id": "291aa18b-5994-42c8-a75e-b50abbdd4bbe",
+      "type": "divider"
+    },
+    {
+      "id": "41d36717-769e-4b60-9b7c-66bf1e3eae3d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d5abc229-cf87-4c43-ac0d-ff2b31c05047",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c7471920-66af-430d-b9e0-6cf0b713bce3",
+          "type": "column",
+          "children": [
+            {
+              "id": "252b050a-d763-4713-884b-68f846dbb7d9",
+              "type": "paragraph",
+              "html": "<em><strong>Invincible: The Games of Shusaku</strong></em> was written by Shusaku, translated &amp; edited by John Power, originally published by Kiseido Publishing Company in 1982."
+            },
+            {
+              "id": "0486ce76-8679-4653-9580-78df4002712f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1c05ac91-3c3d-472d-8fbc-dbff8926baa5",
+              "type": "quote",
+              "html": "<em>THE SAINT OF GO: Shusaku was the leading player of the golden age of go in the mid-19th century. He has become known to later generations as the Saint of Go (Kisei or Gosei) and is recognized by modern players as one of the greatest geniuses in the history of the game. His victories over his contemporaries in a number of matches contributed to his reputation, but its main foundation is his perfect record, not even approached by any other player, of nineteen successive wins in the annual castle games played in the presence of the shogun. <br><br>SHUSAKU'S REPUTATION: Shusaku is considered the best model for aspiring professional players to study, especially his games with black. He was unexcelled in his complete mastery of the strategic principles and the practical techniques of go. His games are a treasure house of all the varied elements of the game, from the fuseki to the endgame, but in particular they provide amateur players with ideal material for studying the art of fighting in the middle game. Here are some 20th century views of Shusaku: &quot;Shusaku simplified the complexity of go, concealing his great strength and profound analysis beneath the smooth surface of his game... It is not an exaggeration to say that all the principles and all the techniques of go are embodied in concentrated form in Shusaku's go.&quot; - Segoe Kensaku 9-dan &quot;The speed and forcefulness of Shusaku's play with black are like lightning striking the go board; his skill at finishing off his opponent once he took the lead is unrivalled.&quot; - Hayashi Yutaka, go historian</em>"
+            },
+            {
+              "id": "460a8a8e-8250-451f-8052-72b2022dfe8b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5a0d53ba-efaf-4de3-9094-25ef27061f95",
+          "type": "column",
+          "children": [
+            {
+              "id": "4f335edf-e979-42a5-8725-d0b6607fca05",
+              "type": "image",
+              "src": "./assets/images/untitled-abac5344cb99.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8b00739f-91bf-472c-ab28-0f0eecee32cf",
+      "type": "divider"
+    },
+    {
+      "id": "090791c9-b7ab-4008-ba12-f07e1d245599",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7dc1528e-0ed5-4b9d-ab08-1650ad4cd292",
+          "type": "column",
+          "children": [
+            {
+              "id": "7e955737-7082-4a0b-9c29-3a775bc7e713",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b5d86386-0d30-46e7-b24b-b8aaed1fcb8d",
+          "type": "column",
+          "children": [
+            {
+              "id": "3936711b-0d06-4931-a515-be526e113695",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3A3Xxx2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e86ac76-5797-44f2-b1d3-df24ef25ec72",
+      "type": "divider"
+    }
+  ]
+}

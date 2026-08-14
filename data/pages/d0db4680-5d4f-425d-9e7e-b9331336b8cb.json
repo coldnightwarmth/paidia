@@ -1,0 +1,141 @@
+{
+  "id": "d0db4680-5d4f-425d-9e7e-b9331336b8cb",
+  "slug": "the-art-of-play",
+  "title": "The Art of Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Art-of-Play-d0db46805d4f425d9e7eb9331336b8cb?pvs=21",
+  "createdTime": 1653072028311,
+  "lastEditedTime": 1681313909203,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Art of Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8fb4190294cd.webp",
+  "blocks": [
+    {
+      "id": "5c04a6c7-2757-475e-9200-25cdc48ab26c",
+      "type": "divider"
+    },
+    {
+      "id": "3631d20f-23ad-4db8-9688-2e0d6f37b548",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "24d2aa87-299c-43b9-8428-536124faa69a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bbb7052a-29b0-4641-9e3e-87091b134838",
+          "type": "column",
+          "children": [
+            {
+              "id": "6034bd7c-be00-47ee-ac8a-10a60fc94d44",
+              "type": "paragraph",
+              "html": "<em><strong>The Art of Play: Recess &amp; the Practice of Invention</strong></em> was written by Anna R. Beresin, published by Temple University Press, December 1, 2013."
+            },
+            {
+              "id": "913a1fa9-b5b5-4e15-82c5-e955d36cc569",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "46d3ba35-616b-4c7f-a3db-bc85c9a6769b",
+              "type": "quote",
+              "html": "<em>What can the art of play teach us about the art of play? Showcasing the paintings of more than one hundred Philadelphia public elementary school children, folklorist Anna Beresin’s innovative book, </em>The Art of Play<em>, presents images and stories that illustrate what children do at recess, and how it makes them feel.<br><br>Beresin provides a nuanced, child-centered discussion of the intersections of play, art, and learning. She describes a widespread institutionalized fear of play and expressive art, and the transformative power of simple materials like chalk and paint. Featuring more than 150 paintings and a dozen surreal photographs of masked children enjoying recess, </em>The Art of Play<em> weaves together the diverse voices of kids and working artists with play scholarship.<br><br>This book emerged from </em>Recess Access<em>, a service-learning project that donated chalk, ropes, balls, and hoops to nine schools in different sections of Philadelphia. A portion of the proceeds of </em>The Art of Play <em>will support recess advocacy.</em>"
+            },
+            {
+              "id": "d95012e5-1bed-47d3-bc4a-fb9cf89f40d8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bf95a23c-7ba6-4964-81e7-531a4a8cc509",
+          "type": "column",
+          "children": [
+            {
+              "id": "ff5fa590-341b-404b-8c37-69fff48bdc04",
+              "type": "image",
+              "src": "./assets/images/untitled-8fb4190294cd.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad2049ff-cec6-4fa7-a3f7-3801f08c5fd1",
+      "type": "divider"
+    },
+    {
+      "id": "033db838-c63e-4075-9121-53ff4553079d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c0cc637b-b114-4cbf-97bd-9cfd869c760a",
+          "type": "column",
+          "children": [
+            {
+              "id": "69e79361-1779-4e19-b0cf-94585cb5bf81",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e40a4a98-88a6-4338-bff5-48e4f3e512a0",
+          "type": "column",
+          "children": [
+            {
+              "id": "49a8be0a-4726-4a98-9423-5e4173a2fbe1",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zY1oMi\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7f8b392-1f6e-4a09-9ccb-574e1218a7ac",
+      "type": "divider"
+    },
+    {
+      "id": "523263f5-b329-4c84-afb1-cf459770cfc2",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "752e6a77-8f71-4adb-a484-6eb13cd11f5f",
+      "type": "paragraph",
+      "html": "<a href=\"#/recess-battles\">Recess Battles</a> (<em>book</em>)"
+    }
+  ]
+}

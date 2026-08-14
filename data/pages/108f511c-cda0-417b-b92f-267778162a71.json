@@ -1,0 +1,131 @@
+{
+  "id": "108f511c-cda0-417b-b92f-267778162a71",
+  "slug": "fields-in-vision",
+  "title": "Fields in Vision",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Fields-in-Vision-108f511ccda0417bb92f267778162a71?pvs=21",
+  "createdTime": 1657228801147,
+  "lastEditedTime": 1681314523400,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Fields in Vision",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a738578da9db.webp",
+  "blocks": [
+    {
+      "id": "2a2dab86-4448-4de2-9433-cfcd91f99c87",
+      "type": "divider"
+    },
+    {
+      "id": "0f6af1a4-430d-42be-b8e0-2d860f06d18a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6ef05497-31c4-492d-a03f-eb9f74be8b0e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3304902d-50eb-4d6e-83f1-3d04c914542d",
+          "type": "column",
+          "children": [
+            {
+              "id": "bae5a419-9160-436e-b790-dae9782342c7",
+              "type": "paragraph",
+              "html": "<em><strong>Fields in Vision: Television Sport &amp; Cultural Transformation</strong></em> was written by Garry Whannel, published by Routledge, October 15, 1992."
+            },
+            {
+              "id": "99251847-3100-406c-8cf7-742aac20f940",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5c7e98f9-b388-499d-ab63-9763abce85c5",
+              "type": "quote",
+              "html": "Fields in Vision<em> offers a comprehensive and analytical study of the international phenomenon of television sports coverage. Garry Whannel considers the historical development of sport on television, the growth of sponsorship and the way that television and sponsorship have re-shaped sport in the context of the enterprise culture.<br><br>Drawing on archival research, Whannel first charts the development of the BBC Outside Broadcast department, and the growing battle for dominance between BBC and ITV, showing how sponsorship and the rising power of sports agents began to transform sport - not only in the UK but across the world - in the 1960s. He goes on to examine the implications of this vast and escalating global network during the 1980s by analysing the central role that stars and narratives began to play in television sport, presenting case studies of major contests such as Coe versus Ovett and Decker versus Budd. His study also takes into account one of the more indirect, but no less significant results of international televised sport - the rise of popular fitness chic and the American monopoly of the workout boom of the 1980s.<br><br></em>Fields in Vision<em> explains the development of television sport by linking its economic transformation with the cultural forms through which it is represented, offering a study encompassing not simply the sports world, but our relationship with television and the media industries as a whole.</em>"
+            },
+            {
+              "id": "12bf6a85-9cd2-4491-8744-9524eefe7187",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "830a476d-2bd5-4a48-add9-52753b8d7850",
+          "type": "column",
+          "children": [
+            {
+              "id": "2dae5913-cae4-439b-9ba0-a198f3ab64ec",
+              "type": "image",
+              "src": "./assets/images/untitled-a738578da9db.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be093803-b7da-4b93-bf31-b64067c3c439",
+      "type": "divider"
+    },
+    {
+      "id": "31c4aaf0-be95-4b1f-8cbc-43eba71b6dca",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a388f3a1-b0f9-46b8-80cc-d67fddacf335",
+          "type": "column",
+          "children": [
+            {
+              "id": "fae7969d-a9d5-4f93-9eaf-ca6fe0c75053",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1352e9b1-4bc4-4949-9beb-10f283a0d2ef",
+          "type": "column",
+          "children": [
+            {
+              "id": "e7a2428c-e111-4eff-8264-52ee97270209",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NKeKyY\" target=\"_blank\" rel=\"noreferrer\">Link to purchase (*</a><a href=\"https://amzn.to/3NKeKyY\" target=\"_blank\" rel=\"noreferrer\"><em>this supports Paidiasophia!</em></a><a href=\"https://amzn.to/3NKeKyY\" target=\"_blank\" rel=\"noreferrer\">)</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e6a7a0ff-f62c-4235-96fd-9ae21005f566",
+      "type": "divider"
+    }
+  ]
+}

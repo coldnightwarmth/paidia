@@ -1,0 +1,88 @@
+{
+  "id": "a88009c1-b224-4b2a-b864-eec3437c16c5",
+  "slug": "the-leisurely-manifesto",
+  "title": "The leisurely manifesto",
+  "icon": "./assets/images/document-gray-7f1467ecac3d.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9c037dff-199b-4b26-b8e4-11ec8e49d8f9",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/a88009c1b2244b2ab864eec3437c16c5",
+  "createdTime": 1651762140000,
+  "lastEditedTime": 1681314387563,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Essay/Article"
+      ]
+    ],
+    "title": [
+      [
+        "The leisurely manifesto"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "b9bdc570-9dff-408a-b1c8-e69e3f7097c1",
+      "type": "paragraph",
+      "html": "<em>by Four Fourths</em>"
+    },
+    {
+      "id": "fa5e2660-6548-4411-aca4-0169825141bf",
+      "type": "divider"
+    },
+    {
+      "id": "aef3748d-13fd-4b0e-aa8d-f00cd38b0564",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d0758542-dbe2-49aa-a481-a390304ab843",
+      "type": "file",
+      "kind": "pdf",
+      "src": "./assets/documents/the-leisurely-manifesto-4601cd22a2.pdf",
+      "title": "the leisurely manifesto.pdf",
+      "size": "4736.3KB",
+      "downloadName": "the leisurely manifesto.pdf"
+    },
+    {
+      "id": "9afa62df-686e-440b-957b-845188013d25",
+      "type": "file",
+      "kind": "file",
+      "src": "./assets/documents/the-leisurely-manifesto-4601cd22a2.pdf",
+      "title": "the leisurely manifesto.pdf",
+      "size": "4736.3KB",
+      "downloadName": "the leisurely manifesto.pdf"
+    },
+    {
+      "id": "67ec6ecf-c394-4ee5-a5b3-439ee9b0ee13",
+      "type": "divider"
+    },
+    {
+      "id": "31dacfc7-b3e7-40e2-b43d-c08cc6ca8406",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "56c7e88a-d554-43d1-bccb-6ab2d2fb855c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cb79e5a2-9449-4e32-aad8-e140a132a12e",
+      "type": "paragraph",
+      "html": "<a href=\"#/essays-articles-and-blogposts\"><u>☜Written Essays &amp; Articles</u></a>"
+    },
+    {
+      "id": "63118b60-7238-4383-befb-c065e27c5d86",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

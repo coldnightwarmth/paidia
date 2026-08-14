@@ -1,0 +1,136 @@
+{
+  "id": "35d72c4a-1e3b-4270-920b-7a49a2fb0df6",
+  "slug": "theraplay",
+  "title": "Theraplay",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Theraplay-35d72c4a1e3b4270920b7a49a2fb0df6?pvs=21",
+  "createdTime": 1669913525673,
+  "lastEditedTime": 1681312299857,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Theraplay",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1f95e38cba29.webp",
+  "blocks": [
+    {
+      "id": "1f3cbbb7-191d-4f75-b0bc-8cc6c5dbe23b",
+      "type": "divider"
+    },
+    {
+      "id": "ec07ac22-7553-491e-97a2-e2fbccf5a958",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4a0b26b3-95f8-4fb6-81da-3721d7421e0e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5639885e-0350-46e2-89be-7d555d7196c9",
+          "type": "column",
+          "children": [
+            {
+              "id": "d266bad7-de5d-4e8d-a284-168803ed636d",
+              "type": "paragraph",
+              "html": "<strong>Theraplay: Helping Parents &amp; Children Build Better Relationships Through Attachment-Based Play</strong> was written by Phyllis B. Booth &amp; Ann M. Jernberg, originally published by John Wiley &amp; Sons in 1979."
+            },
+            {
+              "id": "f4c5e91a-5340-4a09-8db0-775a640e234b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "57c91a43-9dcd-49ea-ba18-ce982e3135b7",
+              "type": "quote",
+              "html": "<em>Theraplay©️ a pioneering application of attachment theory to clinical work—helps parents learn and practice how to provide the playful engagement, empathic responsiveness, and clear guidance that lead to secure attachment and lifelong mental health in their children. This third edition of the groundbreaking book </em>Theraplay <em>shows how to use play to engage children in interactions that lead to competence, self-regulation, self-esteem, and trust. Theraplay's relationship-based approach is uniquely designed to help families facing today's busy and often chaotic lifestyle challenges form joyful, loving relationships.</em>"
+            },
+            {
+              "id": "65bca839-614c-4d2f-a1c3-b6e005f73b8c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "71147745-3475-4658-b27d-8525a08ea4d4",
+          "type": "column",
+          "children": [
+            {
+              "id": "f7068a58-53d3-4811-be69-36fb975d83f0",
+              "type": "image",
+              "src": "./assets/images/untitled-1f95e38cba29.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1b12d3f-3987-43dd-a23a-b43f39eb0b5e",
+      "type": "divider"
+    },
+    {
+      "id": "3d18abb8-f6f4-442d-af6f-7fa5dc39e68f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "10d4e4f6-bb0c-44ac-8732-0e2d049bbadc",
+          "type": "column",
+          "children": [
+            {
+              "id": "3e7730d4-079b-4755-9a83-2a8b3b99c188",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ea5bb0bb-734a-4464-9c2b-226370ee794d",
+          "type": "column",
+          "children": [
+            {
+              "id": "3cbfbc7c-a02c-4815-9494-da10dcda1e2a",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Theraplay-Helping-Children-Relationships-Attachment-Based/dp/0470281669/ref=sr_1_1?crid=3MLV62YH6CKRJ&amp;keywords=Theraplay%3A+Helping+Parents+and+Children+Build+Better+Relationships+Through+Attachment-Based+Play&amp;qid=1666371149&amp;qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=theraplay+helping+parents+and+children+build+better+relationships+through+attachment-based+play%2Caps%2C136&amp;sr=8-1&amp;ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "164f0be8-7925-4697-b4eb-2accba40135f",
+      "type": "divider"
+    },
+    {
+      "id": "3b856438-e0fc-4919-943c-90fffec85535",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

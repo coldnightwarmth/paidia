@@ -1,0 +1,137 @@
+{
+  "id": "69ee4197-d6a4-40b9-be2a-93519c40917b",
+  "slug": "adventure",
+  "title": "Adventure",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Adventure-69ee4197d6a440b9be2a93519c40917b?pvs=21",
+  "createdTime": 1653073280820,
+  "lastEditedTime": 1681310382627,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Adventure",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-480013cb8d88.webp",
+  "blocks": [
+    {
+      "id": "00bf8c12-45a7-472b-82dc-c7f26646c157",
+      "type": "divider"
+    },
+    {
+      "id": "ce69406b-c80d-4c63-86cb-f18c81e05255",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "114b5f8f-bae0-46c8-b3a5-220246e5685a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6e219cdb-a284-4b96-bc49-94153dd858a1",
+          "type": "column",
+          "children": [
+            {
+              "id": "089479d6-e3d9-4290-b3af-40f124cae581",
+              "type": "paragraph",
+              "html": "<em><strong>Adventure: The Atari 2600 at the Dawn of Console Gaming</strong></em> was written by Jamie Lendino, published by Ziff Davis, June 4, 2018."
+            },
+            {
+              "id": "a00fa051-d026-4412-968c-ff0af2610818",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d4281a9e-f667-48f6-a60e-b3fd5666ac20",
+              "type": "quote",
+              "html": "<em>The sprawl of </em>Adventure<em>. The addictiveness of </em>Breakout<em>. The intensity of </em>Space Invaders<em>.<br><br>Once upon a time, you could only experience this kind of excitement at the arcade. But in 1977 that changed forever. You, and maybe a friend or a sibling, could instantly teleport from your own living room to a dazzling new world—with nothing more than a small plastic cartridge.<br><br>This was the promise of the Atari 2600—and it was delivered in ways no one ever expected. No, the games it put on your TV weren’t what you saw when you plunked in your quarters at the convenience store or in the noisy, smoky business on the other side of town. But they brought the arcade home—and it hasn’t left since.<br><br>With </em>Adventure: The Atari 2600 at the Dawn of Console Gaming<em>, Jamie Lendino takes you to the front lines of the home gaming revolution, exploring the history of the world-changing console and delves into the coin-op ports and original titles that still influence gaming today.<br><br>Before your next trip to a magical universe with your Xbox One, PlayStation 4, or Nintendo Switch, see how the home gaming industry truly began.</em>"
+            },
+            {
+              "id": "31ac5b7c-c5da-4f83-a556-bc4947d59aab",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5258c258-4414-4af1-8a22-0ba7baec05af",
+          "type": "column",
+          "children": [
+            {
+              "id": "b709fca2-3a55-44a9-a2c6-7b3bf1123143",
+              "type": "image",
+              "src": "./assets/images/untitled-480013cb8d88.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bbbff9dd-472f-4c0b-b7f8-991c165ebd61",
+      "type": "divider"
+    },
+    {
+      "id": "3d99a0c1-7a18-4f48-9c9d-247954e6f802",
+      "type": "columns",
+      "children": [
+        {
+          "id": "79d6fb6c-9fbc-408d-a270-67558f847835",
+          "type": "column",
+          "children": [
+            {
+              "id": "f6695d43-fd7d-4bd1-bb5c-8d037e02280b",
+              "type": "callout",
+              "html": "",
+              "icon": "📚",
+              "children": [
+                {
+                  "id": "01d6c786-80e7-4c38-a196-d58ba53033f4",
+                  "type": "paragraph",
+                  "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8f9916b6-3f43-48ac-b8ef-2ba48ce4e745",
+          "type": "column",
+          "children": [
+            {
+              "id": "461f11a1-a8cc-4bb7-8563-480c92b3164d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fnPpQ4\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9308bf0-7fef-44a9-967d-85273475f5e6",
+      "type": "divider"
+    }
+  ]
+}

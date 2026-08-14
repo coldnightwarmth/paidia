@@ -1,0 +1,88 @@
+{
+  "id": "addfadcc-6d47-4aff-ae47-817bed9ec9a7",
+  "slug": "war-game",
+  "title": "War Game",
+  "icon": "https://www.notion.so/icons/bookmark_gray.svg",
+  "cover": "",
+  "type": "page",
+  "parentId": "3884ccfd-7196-4e34-809f-760e027bc69b",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/addfadcc6d474affae47817bed9ec9a7",
+  "createdTime": 1651978266819,
+  "lastEditedTime": 1681313578020,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Poem"
+      ]
+    ],
+    "title": [
+      [
+        "War Game"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "41c9a689-107c-4daf-a2a7-6f6f412a1757",
+      "type": "paragraph",
+      "html": "<em>by Philip K. Dick</em>"
+    },
+    {
+      "id": "164487f4-94a7-4bc7-a946-5dce188e2b8f",
+      "type": "divider"
+    },
+    {
+      "id": "968be7df-1198-4049-87bb-eeca9f110908",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7b660f2f-a27f-4694-9e04-6711d21df8d1",
+      "type": "file",
+      "kind": "pdf",
+      "src": "./assets/documents/war-game-52dab565fb.pdf",
+      "title": "war game.pdf",
+      "size": "217.7KB",
+      "downloadName": "war game.pdf"
+    },
+    {
+      "id": "5537c4df-39f4-41f8-8c72-d11b9b78a32b",
+      "type": "file",
+      "kind": "file",
+      "src": "./assets/documents/war-game-52dab565fb.pdf",
+      "title": "war game.pdf",
+      "size": "217.7KB",
+      "downloadName": "war game.pdf"
+    },
+    {
+      "id": "f607ccc3-8d6d-4642-abca-6b5e0096de14",
+      "type": "divider"
+    },
+    {
+      "id": "2573606e-3d01-45c4-b3d2-11a3436ca7f6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ba17e8a6-b92d-4402-8319-67a4a5caf493",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "13f4fc37-817e-4377-85bf-836a9dd93e18",
+      "type": "paragraph",
+      "html": "<a href=\"#/poems-and-short-stories\"><u>☜Poems &amp; Short Stories</u></a>"
+    },
+    {
+      "id": "0c2b86e4-2f09-444d-9bc3-550909e297d4",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

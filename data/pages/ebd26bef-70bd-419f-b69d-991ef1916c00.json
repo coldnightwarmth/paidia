@@ -1,0 +1,134 @@
+{
+  "id": "ebd26bef-70bd-419f-b69d-991ef1916c00",
+  "slug": "everest-pipkin",
+  "title": "Everest Pipkin",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ff095af8-c4a1-4725-a95d-eede18d6c32a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/ebd26bef70bd419fb69d991ef1916c00",
+  "createdTime": 1651864820104,
+  "lastEditedTime": 1681329196113,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Everest Pipkin"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/everest-headshot-vertical-scaled-31d71ea41fd8.webp",
+  "blocks": [
+    {
+      "id": "66c0b0f6-08bf-44ae-87eb-3c05d30b819a",
+      "type": "divider"
+    },
+    {
+      "id": "d2b25321-3c53-432e-a5e7-4084084ec4de",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "389317e3-a275-4b9e-912f-76c81cc42a45",
+      "type": "columns",
+      "children": [
+        {
+          "id": "834e3e02-fb74-4b18-a8fc-b0f13709554e",
+          "type": "column",
+          "children": [
+            {
+              "id": "7cc2c256-9309-480b-936d-5dd113fab3c6",
+              "type": "paragraph",
+              "html": "<strong>Everest Pipkin  </strong>(<em>Born xx, xxxx – </em>) is"
+            },
+            {
+              "id": "c615f43a-c214-4df4-95be-460f9eed47d9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "41ed576a-d1af-4951-bde4-fc46c41450da",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "98aa6347-f807-4165-94ba-be482d75fe2c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "cdab06e0-3424-434b-9520-510e2add8eea",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e2fcabdc-b2fc-4726-a687-fe11788fb7d6",
+          "type": "column",
+          "children": [
+            {
+              "id": "40b76dd5-4382-4b5f-b920-6b33b492c7c9",
+              "type": "image",
+              "src": "./assets/images/everest-headshot-vertical-scaled-31d71ea41fd8.webp",
+              "caption": "",
+              "alt": "everest_headshot_vertical-scaled.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0a73846e-8fc0-4fa5-ae94-6b6825bd935c",
+      "type": "divider"
+    },
+    {
+      "id": "9a636463-92f7-4b16-8d9a-47456960f913",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "20d2ca5d-ba1b-4ffc-b47d-88ad16f59afa",
+      "type": "paragraph",
+      "html": "The Ground Itself (<em>game</em>)"
+    },
+    {
+      "id": "05eb841f-ce64-4ed2-936a-82d58f1b19ed",
+      "type": "paragraph",
+      "html": "<a href=\"#/language-after-the-writing-machine\">Writing After</a>"
+    },
+    {
+      "id": "c0efd222-197f-41ff-9808-a7fcd9599839",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ef73b672-4473-4d54-bd75-66fd8d57bdd1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2ccda72d-e53a-4d89-b6aa-2dab254ffabe",
+      "type": "divider"
+    },
+    {
+      "id": "9d8f6ac6-8426-40ce-9d29-6917690a26ca",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "d26ec76c-9c5a-4412-91e8-9ce5c7d5bf2e",
+      "type": "paragraph",
+      "html": "<a href=\"https://everest-pipkin.com/\" target=\"_blank\" rel=\"noreferrer\">everest’s personal site</a>"
+    }
+  ]
+}

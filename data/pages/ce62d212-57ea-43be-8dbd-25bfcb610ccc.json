@@ -1,0 +1,126 @@
+{
+  "id": "ce62d212-57ea-43be-8dbd-25bfcb610ccc",
+  "slug": "video-game-worlds",
+  "title": "Video Game Worlds",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Video-Game-Worlds-ce62d21257ea43be8dbd25bfcb610ccc?pvs=21",
+  "createdTime": 1651971955680,
+  "lastEditedTime": 1681313917173,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Video Game Worlds",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-275c6d5f6fd8.webp",
+  "blocks": [
+    {
+      "id": "84f7db63-f5a1-4932-a1b9-aaf375dbb0b7",
+      "type": "divider"
+    },
+    {
+      "id": "a096f6c3-2e00-4dff-a505-5de927757200",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fd1e58ae-e899-4735-bf2a-edb4e04a53d8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "36325b85-4ea0-4d02-ad6f-6cf3b2e26289",
+          "type": "column",
+          "children": [
+            {
+              "id": "4be6823d-654c-47fd-bbe2-4cd705a24084",
+              "type": "paragraph",
+              "html": "<em><strong>Video Game Worlds: Working at Play in the Culture of EverQuest</strong></em> was written by Timothy Rowlands, published by Routledge, January 15, 2012."
+            },
+            {
+              "id": "9e91d1a9-df64-4775-9d2b-83dc34cc9541",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "aa0e7084-ccf4-4420-b588-06f809ebec1f",
+              "type": "quote",
+              "html": "<em>As massively multiplayer online (MMO) games grow in scope and popularity, what are the characteristics of their emerging gaming culture? How is this culture shaped by the decisions made by game designers and the collective interpretations of a game’s player base? In this book, Timothy Rowlands brings a diverse mix of ethnographic, semiotic, and analytical approaches to the virtual world of </em>EverQuest<em>. Through first-hand player experiences and interviews of other gamers, Rowlands analyzes a gaming environment that, as time goes on, looks less like leisure and more like a workspace. This groundbreaking fusion of sociology and the world of MMOs is a must read for scholars and gamers alike.</em>"
+            }
+          ]
+        },
+        {
+          "id": "0c6badaf-5915-4ed4-a59b-4f5ebdbcf498",
+          "type": "column",
+          "children": [
+            {
+              "id": "d85bf0bf-140b-4026-96da-5aa51e943040",
+              "type": "image",
+              "src": "./assets/images/untitled-275c6d5f6fd8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6f0cdd9-7317-450d-a6ec-6c98e0da75e4",
+      "type": "divider"
+    },
+    {
+      "id": "b700647f-0715-4d31-9271-fd7fe328339a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "39d7705d-5e5d-4c3a-b442-f9a745fb8487",
+          "type": "column",
+          "children": [
+            {
+              "id": "226a78f1-ea2d-4416-979a-ee56178a0ebb",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "305ee09d-080a-4be2-8f19-bc6255ec811e",
+          "type": "column",
+          "children": [
+            {
+              "id": "450e7714-c2a9-4e3e-8bda-35f5a2047904",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SYbuT9\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79e3b686-ddfc-4d61-93db-a16ffc2f1812",
+      "type": "divider"
+    }
+  ]
+}

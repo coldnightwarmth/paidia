@@ -1,0 +1,126 @@
+{
+  "id": "09ebf862-fcd5-422a-91ec-70aa7f248fb9",
+  "slug": "arete",
+  "title": "Arete",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Arete-09ebf862fcd5422a91ec70aa7f248fb9?pvs=21",
+  "createdTime": 1651854665796,
+  "lastEditedTime": 1681310916917,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Arete"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6c42555d3238.webp",
+  "blocks": [
+    {
+      "id": "b361f3ca-e3f3-46dd-a6d2-096fd29e17e3",
+      "type": "divider"
+    },
+    {
+      "id": "1f17428f-c6a0-4e5f-a871-27026ce537c8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ff35a603-f214-436e-bbf0-2ac119d8da47",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5508997b-dc7d-4e8b-8ccc-7f96411d04fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "50a4a9e5-8144-4815-8a4d-4e226b8f6ce9",
+              "type": "paragraph",
+              "html": "<em><strong>Arete: Greek Sports from Ancient Sources</strong></em> was written by Stephen G. Miller, originally published by University of California Press in 1991."
+            },
+            {
+              "id": "35b4d637-9126-4c3c-acb1-8af1d0f61261",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "07d8fed4-a6fa-4f0c-b111-994a3231a2f4",
+              "type": "quote",
+              "html": "<em>From the informal games of Homer's time to the highly organized contests of the Roman world, Miller has compiled a trove of ancient sources: Plutarch on boxing, Aristotle on the pentathlon, Philostratos on the buying and selling of victories, Vitruvius on literary competitions, and Xenophon on female body building. </em>Arete <em>offers readers an absorbing lesson in the culture of Greek athletics from the greatest of teachers, the ancients themselves, and demonstrates that the concepts of virtue, skill, pride, valor, and nobility embedded in the word arete are only part of the story from antiquity. This bestselling volume on the culture of Greek athletics is updated with a new preface by leading scholar Paul Christesen that discusses the book's continued importance for students of ancient athletics.</em>"
+            },
+            {
+              "id": "6cf6a7f1-ceab-4a35-bcf1-b6b809d75a6b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "007f80c2-4181-4e64-afdb-825397dbe345",
+          "type": "column",
+          "children": [
+            {
+              "id": "b68cef57-db25-4461-bb73-3e49a7838e23",
+              "type": "image",
+              "src": "./assets/images/untitled-6c42555d3238.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5670c435-fdc6-4f7b-818d-e88b9a9e4dc8",
+      "type": "divider"
+    },
+    {
+      "id": "d7fb7c96-75f0-4fe3-95ef-95b97f7ed970",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d2d514f3-2d0b-46c3-b56d-c1fdba8eb0fe",
+          "type": "column",
+          "children": [
+            {
+              "id": "d89e08cd-977d-4b73-bf8d-7ccdd616aff4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6c5aef22-c865-4734-8937-f04111b5cf8c",
+          "type": "column",
+          "children": [
+            {
+              "id": "9f8b48d3-8898-41a9-9a8b-95f1042ce249",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39M4Bnv\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d4965a9-2834-4398-bae8-bab4ffee30fc",
+      "type": "divider"
+    }
+  ]
+}

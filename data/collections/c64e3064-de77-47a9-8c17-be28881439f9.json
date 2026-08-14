@@ -1,0 +1,290 @@
+{
+  "id": "c64e3064-de77-47a9-8c17-be28881439f9",
+  "name": "Portfolio Platforms",
+  "schema": {
+    "DZgC": {
+      "id": "DZgC",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "_uPu": {
+      "id": "_uPu",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "6fdbd7fe-d790-4073-9854-84b2c17b8877",
+          "value": "Free",
+          "color": "green"
+        },
+        {
+          "id": "d3e96965-6102-4afe-885a-71cceb6f742d",
+          "value": "Premium",
+          "color": "gray"
+        },
+        {
+          "id": "9c4740f8-9f0c-47cd-b84f-ffe78115b050",
+          "value": "Art & Design",
+          "color": "purple"
+        },
+        {
+          "id": "1db87ccb-9847-43c0-b5ce-c33566798f8a",
+          "value": "UX",
+          "color": "yellow"
+        },
+        {
+          "id": "9545e095-3112-40d6-91b0-68c14ad4dbd1",
+          "value": "Code",
+          "color": "blue"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "706ecf1d-212c-4359-92d0-cca8cee9a8ac",
+      "collectionId": "c64e3064-de77-47a9-8c17-be28881439f9",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "006dc11d-6362-4734-a02a-ea5a09fe6175",
+        "2b4cb46d-574a-4073-9247-8ce25453f1c7",
+        "32f90fd1-675d-4cd4-9b1a-7fd05f21de94",
+        "1a5a2a13-36b8-470e-886b-36ca63207f23",
+        "2d77032a-85ab-45e6-8742-28ff4eddadce",
+        "746a95a2-848e-4fa8-a6db-f298ff25092d",
+        "bb95ff4c-f97b-4db0-bb05-bbfff0cc5709",
+        "ed88051b-4d75-416a-b517-c6b652fbd61b",
+        "93e82e7c-a38c-45b2-b6f2-e962cdc2b66b",
+        "2a18cf01-62af-4727-a425-188816f7da20",
+        "23410623-fc58-4d6a-a9d6-9cc86ba650b7",
+        "a4215824-2cb3-4848-a370-047dd0ad3749",
+        "366e0ea3-a72f-44a6-abb1-4763381425c5",
+        "5e164e47-2c38-4b86-aea5-a2609bc9c4f8",
+        "c6762750-eb73-4c86-9293-8aa23c888223",
+        "04d491cb-2872-4d95-bbf0-589f7d761693",
+        "9872e465-d2db-4526-8a78-4965d107ff73",
+        "8bd6108e-a555-405c-8f2f-82c953b62a35",
+        "fa7f9680-577b-49c3-b673-7c1542fbdc8b",
+        "f9cbc319-8519-47cb-86bd-67fac206235b",
+        "5d845953-1948-4a40-89ff-68897dfb708d",
+        "261d0634-cca8-4267-b062-0ef2003464f5",
+        "9b24045e-5431-458d-91d4-d6aec73a8a57"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "_uPu",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "DZgC",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "78709c03-01e6-45e6-8a1e-4c76517058ec",
+      "collectionId": "c64e3064-de77-47a9-8c17-be28881439f9",
+      "type": "gallery",
+      "name": "Free",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "_uPu",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "DZgC",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "c55b05d2-67c9-4977-8e3a-a2f24f175130",
+      "collectionId": "c64e3064-de77-47a9-8c17-be28881439f9",
+      "type": "gallery",
+      "name": "Premium",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "_uPu",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "DZgC",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "301c3b76-ab9b-4d04-83e2-daffaa756522",
+      "collectionId": "c64e3064-de77-47a9-8c17-be28881439f9",
+      "type": "gallery",
+      "name": "Art & Design",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "_uPu",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "DZgC",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "4d3b7b0f-678e-4fd6-b424-c258f73a2740",
+      "collectionId": "c64e3064-de77-47a9-8c17-be28881439f9",
+      "type": "gallery",
+      "name": "UX",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "_uPu",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "DZgC",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "3200bd70-3052-4057-a134-edfa91c85d89",
+      "collectionId": "c64e3064-de77-47a9-8c17-be28881439f9",
+      "type": "gallery",
+      "name": "Code",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "_uPu",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "DZgC",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

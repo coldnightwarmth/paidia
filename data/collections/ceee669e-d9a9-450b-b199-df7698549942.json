@@ -1,0 +1,127 @@
+{
+  "id": "ceee669e-d9a9-450b-b199-df7698549942",
+  "name": "Job Portals",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "a0caeea9-a824-4964-98ea-ee932fe7f293",
+      "collectionId": "ceee669e-d9a9-450b-b199-df7698549942",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "c4297255-032a-413c-8b38-c092f1a45b09",
+        "9b5131ef-349b-499f-b6ee-9660c980e768",
+        "caba71c4-7d5f-4082-a98a-f8540b53b07d",
+        "06237825-6cb0-49dc-8d26-101f923714db",
+        "d8fb5370-62c8-4dd7-b4cb-35cb9da148e4",
+        "d6aa432e-73a5-4847-81ab-a0e4b8750ba6",
+        "f9160bd1-d3fa-47fb-ae62-d2627e3727c6",
+        "2167cd27-976d-41e8-820e-e404c53348b2",
+        "bd49a223-8737-469a-be3f-cbaa0c5b2868",
+        "b1aca6bb-e0c4-4317-a2f4-9d5c902a3c1a",
+        "f1bd798a-0e94-4328-8d67-0d31fc801f5c",
+        "13ea40c3-cc68-4f18-8973-8481a064e967",
+        "fa4ceed6-961c-4372-b5bb-83d9610e69db",
+        "04811c02-eb4f-40e0-90df-28e794a645d1",
+        "9ecf4cad-20bf-490b-bd05-51a7f623b784",
+        "e961d50e-fa5e-46f4-999c-064f47eb8409",
+        "eeb8f0fd-e9fd-47cb-b70b-425b743e9727",
+        "322632dc-a538-4f69-abb5-47642457b62c",
+        "f6dfecc8-90fa-44bc-83c2-deaea3c82150",
+        "b8c20f5c-fb6f-4394-85b4-7b9aa62117cd",
+        "8414d62d-a902-495e-a3c4-feb9b1f42b62",
+        "7e8a844c-410f-495e-b6a1-bb6ade24c9b3",
+        "04046e4c-3846-4ce9-bea3-22a52880c89d",
+        "d70df5ba-a481-4bd1-9189-57ea33dd0677",
+        "26d68eb6-2cbd-40af-af1b-e0d4c3356928",
+        "9ec45c43-ac03-4867-a42f-1fe93c0db15a",
+        "31e40295-a7f9-40e8-ab0e-2d2d2a4ca275",
+        "f65cf38d-d9d8-4d72-bbe1-1390ebac2dd9",
+        "fb73a7c9-36a6-4c5d-8e52-485b1c369429",
+        "3acf955c-4abf-4189-99ac-c1f6604d9de6",
+        "7dd8b29e-9a6d-48df-8e48-7af1ae27a4f9",
+        "f8c8cae2-7ff2-48d3-9917-aa858b6801cc",
+        "c873ea4f-5024-4bd0-9cf0-0b572ee8ea83",
+        "6b1cb61c-81ca-4e6b-a3fe-6487d5c47752",
+        "a3820b4e-f472-40b8-8973-5e4fe57af7c2",
+        "5be34824-5cbb-4c95-87f4-9df8b49b59e7",
+        "da213e45-707a-47a9-af2a-dbe8f4473569"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    }
+  ],
+  "rows": []
+}

@@ -1,0 +1,139 @@
+{
+  "id": "28e92ef6-bdb2-4894-bfeb-c31898144105",
+  "slug": "miguel-sicart",
+  "title": "Miguel Sicart",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "350879b3-a25b-4db5-8dae-34d54f50d8e6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/28e92ef6bdb24894bfebc31898144105",
+  "createdTime": 1673451504046,
+  "lastEditedTime": 1681329070280,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Miguel Sicart"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/48704972911-fbaf0399ea-b-91ff8725ed33.webp",
+  "blocks": [
+    {
+      "id": "c2b40b3b-1ded-4a61-927f-d83bb448178e",
+      "type": "divider"
+    },
+    {
+      "id": "169d63f3-935f-46f4-89e6-97da890927ce",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4d0ad62d-2ab4-4968-87fa-33a82b92e908",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b990274e-55d2-4d8e-9fd8-f1805bf51d90",
+          "type": "column",
+          "children": [
+            {
+              "id": "26411967-de2b-41b9-b02b-e5f7251e699d",
+              "type": "paragraph",
+              "html": "<strong>Author  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "06798125-c5f2-4a7f-a61d-36c4ee5deff0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d09aaedb-e552-4032-8b9a-ce13fed4145c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6b7b7ed6-e380-4f0b-b5ba-1afb0df86a72",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "27c93fa3-cb72-428c-9997-189b94e263ba",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bf823ec6-a5f6-4c72-8ed5-a50e470e7dbd",
+          "type": "column",
+          "children": [
+            {
+              "id": "2874256f-32e3-4613-be6e-4ced0ace5455",
+              "type": "image",
+              "src": "./assets/images/48704972911-fbaf0399ea-b-91ff8725ed33.webp",
+              "caption": "",
+              "alt": "48704972911_fbaf0399ea_b.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03de4f4d-a45d-458a-ae44-5b20eb59183a",
+      "type": "divider"
+    },
+    {
+      "id": "22e384bd-4d8c-4d08-baba-97c36c062976",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "1ec56e52-14b0-414f-b778-237a512c564d",
+      "type": "paragraph",
+      "html": "<a href=\"#/beyond-choices\">Beyond Choices</a> (2013) (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "9aa5eb71-6a6d-46e7-bad4-e30ec08684ad",
+      "type": "paragraph",
+      "html": "<a href=\"#/play-matters\">Play Matters</a> (2014) (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "5a0fa590-dddd-456b-b707-cbbd33ce071e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d7f77666-debe-4006-9f90-ed85e86f5532",
+      "type": "divider"
+    },
+    {
+      "id": "8f1eae10-3f43-4bcc-be36-ce5954fcfef2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b7995314-3009-4e44-b6c9-48fd6a9100eb",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "1c16a2dd-0de4-4622-befe-bb6a6917e6d1",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "8257ef10-2432-4a27-9ce7-5d466eb29b4e",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

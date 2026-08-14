@@ -1,0 +1,126 @@
+{
+  "id": "5cabd714-dce4-432a-8a27-02a2f97e989a",
+  "slug": "rise-of-the-videogame-zinesters",
+  "title": "Rise of the Videogame Zinesters",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Rise-of-the-Videogame-Zinesters-5cabd714dce4432a8a2702a2f97e989a?pvs=21",
+  "createdTime": 1651709126653,
+  "lastEditedTime": 1681314024438,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Rise of the Videogame Zinesters"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8b091a78b092.webp",
+  "blocks": [
+    {
+      "id": "8cc04076-99c6-43fa-b477-fd5b94fd3f2c",
+      "type": "divider"
+    },
+    {
+      "id": "adc478e1-8339-4422-8cc1-a5a194d41e59",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "23540aec-dfbf-4838-bddf-fe1225ba1904",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6f7b43c9-13a4-4c35-99ec-6d7a30d8de0f",
+          "type": "column",
+          "children": [
+            {
+              "id": "a536fe7e-30a8-4d52-8a74-705b4bd11151",
+              "type": "paragraph",
+              "html": "<em><strong>Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Drop-outs, Queers, Housewives, &amp; People Like You Are Taking Back an Art Form</strong></em> was written by Anna Anthropy, published by Seven Stories Press, March 20, 2012. "
+            },
+            {
+              "id": "071fda14-2181-44e2-9a1f-0d1a7d8d4775",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b023ad0c-feae-4e67-87ae-11a670ef492a",
+              "type": "quote",
+              "html": "<em>Part critical essay, part manifesto, part DIY guide, and altogether unprecedented, </em>Rise of the Videogame Zinesters<em> shows why the multi-billion dollar videogame industry needs to change—and how a new generation of artists can change it. Indie game designer extraordinaire Anna Anthropy makes an ardent plea for the industry to move beyond the corporate systems of production and misogynistic culture and to support games that represent a wider variety of human experiences.<br><br></em>Rise of the Videogame Zinesters<em> is a call to arms for anyone who's ever dreamed of making their own games. Anna’s guide to game design encourages budding designers to bring their unique backgrounds and experiences to their creations and widen the playing field of an industry that has for too long catered to an adolescent male consumer base. Anna’s newest game, </em>Dys4ia<em>, an autobiographical game about her experiences with hormone replacement therapy, has been featured in The Penny Arcade, IndieGames, and TigSource.</em>"
+            },
+            {
+              "id": "a3c88c15-e60d-4fd9-9b98-343a52320d2b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fddb6531-d054-4f56-9331-6fa714284709",
+          "type": "column",
+          "children": [
+            {
+              "id": "0eb58180-0779-49b8-a944-1c7999dedad7",
+              "type": "image",
+              "src": "./assets/images/untitled-8b091a78b092.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baffe53b-d884-4265-8126-211227e86fd4",
+      "type": "divider"
+    },
+    {
+      "id": "fffd1953-1d2c-4b4f-b164-184f197f8cb3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ac93f91a-f054-4a09-9110-8747b570e4b9",
+          "type": "column",
+          "children": [
+            {
+              "id": "2eeab58f-cabe-419a-9ea4-0f89ad5064cd",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6b1ae344-8ed5-4a71-b836-e4888b12984c",
+          "type": "column",
+          "children": [
+            {
+              "id": "18eee7ab-e1df-4bc8-9bdf-2511b01e35f5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SsFFSX\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a84615bb-3d1d-49fe-87e9-29576a080311",
+      "type": "divider"
+    }
+  ]
+}

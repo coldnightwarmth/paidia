@@ -1,0 +1,136 @@
+{
+  "id": "f291ccfe-e6a9-44e2-8151-01dfebc2710d",
+  "slug": "emergence-f291ccfe",
+  "title": "Emergence",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Emergence-f291ccfee6a944e2815101dfebc2710d?pvs=21",
+  "createdTime": 1668442442805,
+  "lastEditedTime": 1681312543134,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Emergence",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7b39ab6bf720.webp",
+  "blocks": [
+    {
+      "id": "13105049-5684-4887-9de2-3a133773e555",
+      "type": "divider"
+    },
+    {
+      "id": "42288a11-7462-4b4f-92b9-4ff16f6da874",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "186c815b-91ff-47c7-b057-d5380e5c4932",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b2d578e3-2aff-4481-9d0f-a929399daf33",
+          "type": "column",
+          "children": [
+            {
+              "id": "6ac197d4-93b9-426d-ac26-c186f9d953a2",
+              "type": "paragraph",
+              "html": "<em><strong>Emergence: The Connected Lives of Ants, Brains, Cities, and Software</strong></em> was written by Steven Johnson, published by Scribner, August 28, 2001."
+            },
+            {
+              "id": "c0faf2c8-0b6e-43a1-a033-9f6797380a5c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4db98555-97c8-455f-ae78-e6d640c15b0b",
+              "type": "quote",
+              "html": "<em><strong>In the tradition of </strong></em><strong>Being Digital</strong><em><strong> and </strong></em><strong>The Tipping Point</strong><em><strong>, Steven Johnson, acclaimed as a &quot;cultural critic with a poet's heart&quot; (</strong></em><strong>The Village Voice</strong><em><strong>), takes readers on an eye-opening journey through emergence theory and its applications.</strong></em><em><br><br>Explaining why the whole is sometimes smarter than the sum of its parts, Johnson presents surprising examples of feedback, self-organization, and adaptive learning. How does a lively neighborhood evolve out of a disconnected group of shopkeepers, bartenders, and real estate developers? How does a media event take on a life of its own? How will new software programs create an intelligent World Wide Web?<br><br>In the coming years, the power of self-organization -- coupled with the connective technology of the Internet -- will usher in a revolution every bit as significant as the introduction of electricity. Provocative and engaging, </em>Emergence<em> puts you on the front lines of this exciting upheaval in science and thought.<br><br>Drawing on urban studies, neuroscience, computer games, cultural criticism, and more, a thought-provoking book combines scientific theory, cultural analysis, and reportage to shed new light on the cutting-edge theory of emergence and its impact on the world.</em>"
+            },
+            {
+              "id": "2bc224e8-49b7-47e0-9f30-3ec8b1581f95",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1490019d-be6a-4aa2-b112-e055750768ab",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "61c8680b-818c-409a-b98d-4470ca347abc",
+          "type": "column",
+          "children": [
+            {
+              "id": "5464dc66-80c0-47f2-89ee-fe1ccc55e7b0",
+              "type": "image",
+              "src": "./assets/images/untitled-7b39ab6bf720.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6158b1a7-192b-4126-b0e7-2bb30f20c225",
+      "type": "divider"
+    },
+    {
+      "id": "e1312251-5daf-4c27-966c-cf299b205344",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d9734942-4cd9-4a71-9f10-949e0f66a7b9",
+          "type": "column",
+          "children": [
+            {
+              "id": "bb88d312-4eb1-4593-a3f1-f12fbd2d1c4f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "24ed83ce-15c4-42ac-a62b-e12274684c1a",
+          "type": "column",
+          "children": [
+            {
+              "id": "d6ee4c1a-bd3d-44bf-8eae-4885d7779f5e",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Emergence-Connected-Brains-Cities-Software/dp/068486875X/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "059ecb0d-d4ef-411e-86d9-a9688d031aa7",
+      "type": "divider"
+    }
+  ]
+}

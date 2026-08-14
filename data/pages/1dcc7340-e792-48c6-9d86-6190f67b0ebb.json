@@ -1,0 +1,131 @@
+{
+  "id": "1dcc7340-e792-48c6-9d86-6190f67b0ebb",
+  "slug": "a-history-of-children-s-play-and-play-environments",
+  "title": "A History of Children's Play & Play Environments",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/1dcc7340e79248c69d866190f67b0ebb",
+  "createdTime": 1652724147355,
+  "lastEditedTime": 1681310234536,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A History of Children's Play & Play Environments",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/41t680jl3wl-15f59a135744.webp",
+  "blocks": [
+    {
+      "id": "528d35a9-5131-4e91-99e0-0892622a71b1",
+      "type": "divider"
+    },
+    {
+      "id": "21c16ba4-a365-48ae-8c26-26c5a1f74c90",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e36a19f8-0223-43bd-a2d5-18e05391c097",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1e1dba31-bc48-4351-bd9f-4b811f7f3091",
+          "type": "column",
+          "children": [
+            {
+              "id": "20a90fe9-3bbf-4c40-83ff-6f32f8046248",
+              "type": "paragraph",
+              "html": "<em><strong>A History of Children's Play and Play Environments: Toward a Contemporary Child-Saving Movement</strong></em> was written by Joe L. Frost, published by Routledge, October 27, 2009."
+            },
+            {
+              "id": "2fcf02ad-eccc-4c0c-bb80-65a879a559cc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "900f5470-16a5-419a-ba3a-8cb9a1ad7814",
+              "type": "quote",
+              "html": "<em>Children’s play throughout history has been free, spontaneous, and intertwined with work, set in the playgrounds of the fields, streams, and barnyards. Children in cities enjoyed similar forms of play but their playgrounds were the vacant lands and parks. Today, children have become increasingly inactive, abandoning traditional outdoor play for sedentary, indoor cyber play and poor diets. The consequences of play deprivation, the elimination and diminution of recess, and the abandonment of outdoor play are fundamental issues in a growing crisis that threatens the health, development, and welfare of children.<br><br>This valuable book traces the history of children’s play and play environments from their roots in ancient Greece and Rome to the present time in the high stakes testing environment. Through this exploration, scholar Dr. Joe Frost shows how this history informs where we are today and why we need to re-establish play as a priority. Ultimately, the author proposes active solutions to play deprivation. This book is a must-read for scholars, researchers, and students in the fields of early childhood education and child development.</em>"
+            },
+            {
+              "id": "2e30dcee-d956-4e03-820d-7f3c815d0162",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2610e47a-6dfc-4db8-b4c3-89f075b95381",
+          "type": "column",
+          "children": [
+            {
+              "id": "04f01aa2-50b0-4792-9923-eca6a9286eb7",
+              "type": "image",
+              "src": "./assets/images/41t680jl3wl-15f59a135744.webp",
+              "caption": "",
+              "alt": "41t680Jl3wL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29e707c2-fe96-4850-ad96-0f876d1048a0",
+      "type": "divider"
+    },
+    {
+      "id": "42ed7d1d-188c-4d07-9f7b-393235efb8db",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2e42b345-fc74-4f75-8bf2-4b10e13cb879",
+          "type": "column",
+          "children": [
+            {
+              "id": "69f914aa-25bc-4ed7-9614-e7d166049550",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6fae98ed-3cba-4875-9099-5acb88eb9841",
+          "type": "column",
+          "children": [
+            {
+              "id": "f78c4e43-5bf3-4d8e-ba4c-1899e9b1b0a1",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Dr38gW\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb8a3cac-622c-4a73-aa81-5705164d2f50",
+      "type": "divider"
+    }
+  ]
+}

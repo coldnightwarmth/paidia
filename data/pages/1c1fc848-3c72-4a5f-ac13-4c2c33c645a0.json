@@ -1,0 +1,126 @@
+{
+  "id": "1c1fc848-3c72-4a5f-ac13-4c2c33c645a0",
+  "slug": "the-primacy-of-movement",
+  "title": "The Primacy of Movement",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/1c1fc8483c724a5fac134c2c33c645a0",
+  "createdTime": 1659571164506,
+  "lastEditedTime": 1681313074821,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Primacy of Movement",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b63a11e30082.webp",
+  "blocks": [
+    {
+      "id": "ebd387dc-b7ae-4f03-89ca-6c8cf4b4dde0",
+      "type": "divider"
+    },
+    {
+      "id": "016f9182-3e87-44c8-95b3-6c480291b606",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2cc79586-d4b0-4406-9846-55b1e0eaa79b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "28bc7b6e-2da8-48e4-874b-6563fe4ceba7",
+          "type": "column",
+          "children": [
+            {
+              "id": "9b2b36c4-e2e2-4ead-a255-76bc21653f24",
+              "type": "paragraph",
+              "html": "<em><strong>The Primacy of Movement</strong></em> was written by Dr. Maxine Sheets-Johnstone, published by John Benjamins in 1999."
+            },
+            {
+              "id": "7b66f8d9-b554-40d5-8bac-ac98d93ed829",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f557083a-247d-4f98-9e5f-b0d3c0892548",
+              "type": "quote",
+              "html": "<em>This expanded second edition carries forward the initial insights into the biological and existential significances of animation by taking contemporary research findings in cognitive science and philosophy and in neuroscience into critical and constructive account. It first takes affectivity as its focal point, elucidating it within both an enactive and qualitative affective-kinetic dynamic. It follows through with a thoroughgoing interdisciplinary inquiry into movement from three perspectives: mind, brain, and the conceptually reciprocal realities of receptivity and responsivity as set forth in phenomenology and evolutionary biology, respectively. It ends with a substantive afterword on kinesthesia, pointing up the incontrovertible significance of the faculty to cognition and affectivity.</em>"
+            }
+          ]
+        },
+        {
+          "id": "221137ce-7c29-4a96-b303-3962b7bc5320",
+          "type": "column",
+          "children": [
+            {
+              "id": "8c773984-172f-4768-bb0f-2c7844e2f973",
+              "type": "image",
+              "src": "./assets/images/untitled-b63a11e30082.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5442003d-36dc-4e71-8cee-82c7458faf0e",
+      "type": "divider"
+    },
+    {
+      "id": "7581116a-0b90-475f-a003-0eb2d49ed4b2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f43f0e40-419f-40e6-80da-59210abef19e",
+          "type": "column",
+          "children": [
+            {
+              "id": "e788101b-62e9-48ce-9e0d-3a0ae9c706a5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "079cb59b-e90e-409c-a748-0a2390d6ac18",
+          "type": "column",
+          "children": [
+            {
+              "id": "1713b83b-3fbf-4dc9-8c1b-e9d0d91309dc",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3QjSltS\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5206247-e078-4806-8387-d2cffcb4e929",
+      "type": "divider"
+    }
+  ]
+}

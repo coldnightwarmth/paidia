@@ -1,0 +1,126 @@
+{
+  "id": "93ebe8b7-5059-493b-a2e6-5cb96d344760",
+  "slug": "exodus-to-the-virtual-world",
+  "title": "Exodus to the Virtual World",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/93ebe8b75059493ba2e65cb96d344760",
+  "createdTime": 1657234813225,
+  "lastEditedTime": 1681314310359,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Exodus to the Virtual World",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-59c9f349bcd8.webp",
+  "blocks": [
+    {
+      "id": "bb733c67-1d2c-4393-8e42-65fee6773454",
+      "type": "divider"
+    },
+    {
+      "id": "5f252b2e-a950-41ff-bec4-c955aa2be9b9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f46a8b66-e631-4fc1-8062-49580739be81",
+      "type": "columns",
+      "children": [
+        {
+          "id": "66d6c8ef-ac28-4e6b-9739-37ad3e3ea118",
+          "type": "column",
+          "children": [
+            {
+              "id": "627e7c00-990b-4430-90bc-d742c336a586",
+              "type": "paragraph",
+              "html": "<em><strong>Exodus to the Virtual World: How Online Fun Is Changing Reality</strong></em> was written by Edward Castronova, published by St. Martin's Griffin, November 11, 2008."
+            },
+            {
+              "id": "3ea85935-3fd7-4145-9984-c1b800a936d0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "88693a18-c1eb-48d4-b345-13c9467f7d6f",
+              "type": "quote",
+              "html": "<em>Virtual worlds have exploded out of online game culture and now capture the attention of millions of ordinary people: husbands, wives, fathers, mothers, workers, retirees. Devoting dozens of hours each week to massively multiplayer virtual reality environments (like </em>World of Warcraft<em> and </em>Second Life<em>), these millions are the start of an exodus into the refuge of fantasy, where they experience life under a new social, political, and economic order built around fun. Given the choice between a fantasy world and the real world, how many of us would choose reality? </em>Exodus to the Virtual World<em><br> explains the growing migration into virtual reality, and how it will change the way we live--both in fantasy worlds and in the real one.</em>"
+            }
+          ]
+        },
+        {
+          "id": "4c63c76b-e2c8-425f-8e73-4598dcfc4639",
+          "type": "column",
+          "children": [
+            {
+              "id": "52e8a8ef-0db3-4185-bf92-aadc4ca9e496",
+              "type": "image",
+              "src": "./assets/images/untitled-59c9f349bcd8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "442499c2-bc8a-4d4d-b934-59d188b7dcf1",
+      "type": "divider"
+    },
+    {
+      "id": "37279841-9ca6-4b05-ad6c-aa86d8b29082",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6361fe04-9cc0-4d4a-82e2-c5b52a82083f",
+          "type": "column",
+          "children": [
+            {
+              "id": "dba7df01-018b-4c57-a602-6ad8a477ef96",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9ac8fee4-7103-4b70-917a-740b25d429f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "658dbb86-05a4-45cb-84e0-50e3e44d34cd",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3ORooRP\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ef25882b-23f5-4484-924c-2cbe3f2046ca",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "9b70e366-c6b0-48e6-b176-6664d9716bb4",
+  "slug": "the-playful-brain",
+  "title": "The Playful Brain",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/9b70e366c6b048e6b1766664d9716bb4",
+  "createdTime": 1659935098954,
+  "lastEditedTime": 1681313028972,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Playful Brain",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-780ceab35482.webp",
+  "blocks": [
+    {
+      "id": "d61dee1f-0eeb-4626-b7a8-fbe02f7ba237",
+      "type": "divider"
+    },
+    {
+      "id": "539a0f48-16a6-404c-bc35-5bac2a23e9ce",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6f1680cd-ed82-4eba-97f9-c91d72021344",
+      "type": "columns",
+      "children": [
+        {
+          "id": "66ba8fd9-bd35-4514-8293-cee021dc22cd",
+          "type": "column",
+          "children": [
+            {
+              "id": "2ebba3cb-6245-4836-b5bf-4f266f21484a",
+              "type": "paragraph",
+              "html": "<em><strong><strong>The Playful Brain: Venturing to the Limits of Neuroscience</strong></strong></em> was written by Serio Pellis &amp; Vivien Pellis, originally published by Oneworld Publications, May 16, 2009."
+            },
+            {
+              "id": "a2bad831-00b5-4217-b3bf-377b45b652cb",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "88a46a27-73f8-484f-b13b-05fe331a5f55",
+              "type": "quote",
+              "html": "<em>For centuries the phenomenon of play has perplexed scientists across the board. Studies by biologists, psychologists, neuroscientists, anthropologists, and educators have excited keen debate and contention, producing diverse opinions that pose play as both a childish waste of time and a necessary tool in the development of a healthy fulfilled individual. But so far the lack of empirical research has meant that questions about functionality of play, its origins, and variety amongst different species remain unanswered. In this fully integrated study Sergio and Vivien Pellis address these questions synthesizing three decades of empirical research to create a truly seminal study into the whys and wherefores of play. With implications for so many disciplines, the Pellis’ original research and novel findings will not only expand our current knowledge of play behaviour, but will inspire change and progress from the laboratory to the playground.</em>"
+            },
+            {
+              "id": "47e4b346-9a03-45a5-875f-207fa61be15b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7a1c6f52-c394-430a-9127-27fb186fda67",
+          "type": "column",
+          "children": [
+            {
+              "id": "fc712cb6-c004-448b-8af2-74fa8c50d887",
+              "type": "image",
+              "src": "./assets/images/untitled-780ceab35482.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "086eebda-3e84-4ce7-852d-b33ff778ebdd",
+      "type": "divider"
+    },
+    {
+      "id": "b9cb1c9f-9477-420c-99cc-494420d0eb7e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dac209e3-42bf-4ed4-8a71-79eb0ce5378e",
+          "type": "column",
+          "children": [
+            {
+              "id": "31951eb8-d316-423d-a01f-31aed6567aea",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c032cb84-208e-411b-a916-2fca97534b1f",
+          "type": "column",
+          "children": [
+            {
+              "id": "eadc92e2-803b-408e-8200-32f372df7e1e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3A4LVtl\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9251de46-6f99-438b-8258-2f4bf6aef26f",
+      "type": "divider"
+    },
+    {
+      "id": "76993baa-ddf1-48ae-af09-08781e01361f",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "eb247a75-b0e3-4934-8279-ad0a0c98f6fe",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-gamer-s-brain\">The Gamer’s Brain</a> (<em><em><em><em>book</em></em></em></em>)"
+    }
+  ]
+}

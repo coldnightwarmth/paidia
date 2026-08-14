@@ -1,0 +1,126 @@
+{
+  "id": "a449468f-f920-4689-8fa5-c9be806fef3d",
+  "slug": "the-first-computers",
+  "title": "The First Computers",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-First-Computers-a449468ff92046898fa5c9be806fef3d?pvs=21",
+  "createdTime": 1651710265592,
+  "lastEditedTime": 1681314182268,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The First Computers"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6f0124f0afa4.webp",
+  "blocks": [
+    {
+      "id": "b771ef57-d3ac-4692-a09d-71a779f35e5e",
+      "type": "divider"
+    },
+    {
+      "id": "2a95c505-e8a7-4c5c-b785-769474d5e66d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1426722c-b5f6-4698-aa68-7bd335f95cb5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1a3ca090-7570-4f3a-a1ac-7b7423c027f6",
+          "type": "column",
+          "children": [
+            {
+              "id": "4f70cc1b-2f2d-4538-9355-6ed6e7542cc2",
+              "type": "paragraph",
+              "html": "<em><strong>The First Computers: History and Architectures</strong></em> is a collection of essays edited by Raúl Rojas &amp; Ulf Hashtagen, published by The MIT Press, July 7, 2000."
+            },
+            {
+              "id": "67a2e016-f0b5-48a4-b903-c574185d3057",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b612ebf8-1adb-4e0e-ac6b-2f489221c699",
+              "type": "quote",
+              "html": "<em>This history of computing focuses not on chronology (what came first and who deserves credit for it) but on the actual architectures of the first machines that made electronic computing a practical reality. The book covers computers built in the United States, Germany, England, and Japan. It makes clear that similar concepts were often pursued simultaneously and that the early researchers explored many architectures beyond the von Neumann architecture that eventually became canonical. The contributors include not only historians but also engineers and computer pioneers.<br><br>An introductory chapter describes the elements of computer architecture and explains why &quot;being first&quot; is even less interesting for computers than for other areas of technology. The essays contain a remarkable amount of new material, even on well-known machines, and several describe reconstructions of the historic machines. These investigations are of more than simply historical interest, for architectures designed to solve specific problems in the past may suggest new approaches to similar problems in today's machines.</em>"
+            },
+            {
+              "id": "45a07225-3a17-4799-a51b-7d79ed91d18b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e7f92d79-5c2c-483f-9387-6362b61f9a6f",
+          "type": "column",
+          "children": [
+            {
+              "id": "5f76a2bc-af12-46a5-81fb-ba8994eeb49a",
+              "type": "image",
+              "src": "./assets/images/untitled-6f0124f0afa4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d339943b-1435-43a3-bfad-e0bf6be81eda",
+      "type": "divider"
+    },
+    {
+      "id": "b520cd2a-92e1-48e0-8b8b-48b5c5c8f64a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5e9be419-44fc-4495-bcfc-deb26328b901",
+          "type": "column",
+          "children": [
+            {
+              "id": "8f494874-61f1-4df6-8398-d5da0f2e7a13",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6592b013-cbb3-436b-8186-c9f60bbc0e40",
+          "type": "column",
+          "children": [
+            {
+              "id": "4a6dbd22-ce0d-4726-8f70-438df87a2b62",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xQ7Vpo\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e00a12e1-78c7-40ea-90cd-b4d413274a5a",
+      "type": "divider"
+    }
+  ]
+}

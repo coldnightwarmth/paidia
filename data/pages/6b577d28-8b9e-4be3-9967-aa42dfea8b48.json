@@ -1,0 +1,126 @@
+{
+  "id": "6b577d28-8b9e-4be3-9967-aa42dfea8b48",
+  "slug": "the-grace-of-playing",
+  "title": "The Grace of Playing",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/6b577d288b9e4be39967aa42dfea8b48",
+  "createdTime": 1651688333115,
+  "lastEditedTime": 1681314096057,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Grace of Playing"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1ad5e0d3fac7.webp",
+  "blocks": [
+    {
+      "id": "fe3bcff1-562b-444b-84f0-1ae0d8770bc8",
+      "type": "divider"
+    },
+    {
+      "id": "4ef85477-f146-4d1c-85a5-0e8bc5abb140",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e03cb22e-d71a-4c0f-bc8e-5112cbd992f8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "029f1ea7-d732-42c0-9e30-ef85e044aca9",
+          "type": "column",
+          "children": [
+            {
+              "id": "f7d2397d-9f49-4db2-9545-5e33199d7ccf",
+              "type": "paragraph",
+              "html": "<em><strong>The Grace of Playing: Pedagogies for Leaning into God's New Creation</strong></em> was written by Courtney T. Goto, published by Pickwick Publications, February 10, 2016."
+            },
+            {
+              "id": "90200672-e6d5-4848-b1fc-9bfb8ac3011c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "38e1b819-c525-4186-9c4d-ae4aeb51a55a",
+              "type": "quote",
+              "html": "<em>Believers and teachers of faith regularly know the in-breaking of God's Spirit in their midst, when revelatory experiencing unexpectedly shifts habits of thinking, feeling, and doing toward more life-giving ways of being and becoming. When the moment is right, Spirit breathes new life into dry bones. Though religious educators have much practical wisdom about facilitating learning that is creative and transformative, sharper concepts, cases, and theory can help them do it more critically and assist learners to practice openness to wonder, surprise, and authenticity. </em>The Grace of Playing<em> explains how we can create the conditions for revelatory experiencing by understanding it in light of playing. The notion of playing &quot;as if&quot; can be powerfully reclaimed from ecclesial ambivalence, casual speech, and commercial interests that often lead playing to be associated with childishness, frivolity, or entertainment. This book theorizes adults playing for the sake of faith, drawing on D. W. Winnicott's psychoanalytic theory, a revision of Jürgen Moltmann's theology of play, biblical texts, medieval devotional practices, as well as art and aesthetics that help local faith communities engage in theological reflection. Communal forms of playing in/at God's new creation provide insights into pedagogies in which learners are creating and are created anew.</em>"
+            },
+            {
+              "id": "c88fce6b-a74f-4a4b-828b-4f3d9d711055",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2c4096c7-bc6d-4bd2-bb12-c151b46c30b7",
+          "type": "column",
+          "children": [
+            {
+              "id": "642d5bf0-bd53-4905-96e6-af9b3ae60c37",
+              "type": "image",
+              "src": "./assets/images/untitled-1ad5e0d3fac7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f93eb7fd-bb67-4bb4-9b6c-92f814536e1a",
+      "type": "divider"
+    },
+    {
+      "id": "9fde9fd6-b64a-465b-b5ce-90fbcdd37823",
+      "type": "columns",
+      "children": [
+        {
+          "id": "160d07bf-9831-4e07-842f-ae00eebe38de",
+          "type": "column",
+          "children": [
+            {
+              "id": "6bb3a3cb-b485-4a15-b442-78c0dc3f441a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "08e16766-12a3-46c2-b9a2-4eb0b71d95ad",
+          "type": "column",
+          "children": [
+            {
+              "id": "9f194f95-b3bc-4de7-b84e-0c4f72c064a3",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NsTBsJ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d51d4b82-8b5c-488d-814a-b91fe14d2506",
+      "type": "divider"
+    }
+  ]
+}

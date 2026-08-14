@@ -1,0 +1,43 @@
+{
+  "id": "f68a1194-8953-4081-994c-601ed8df1155",
+  "slug": "jonathan-blow-truth-in-game-design",
+  "title": "Jonathan Blow - Truth In Game Design",
+  "icon": "./assets/images/playback-play-gray-3ec25554f6f9.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "dfb226d0-9bb2-4abd-82ab-d1febe22540e",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/f68a119489534081994c601ed8df1155",
+  "createdTime": 1651864133418,
+  "lastEditedTime": 1677090654168,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Jonathan Blow - Truth In Game Design",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "0fae621b-d0d5-4f1c-b479-e60ec6acbef9",
+      "type": "paragraph",
+      "html": "by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\"><strong>GDC</strong></a>"
+    },
+    {
+      "id": "8a103836-a18b-4a01-9a1b-c3905d5e82ee",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/C5FUtrmO7gI?feature=oembed",
+      "caption": ""
+    }
+  ]
+}

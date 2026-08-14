@@ -1,0 +1,131 @@
+{
+  "id": "3474fb24-58ac-49c9-b736-17aadc1cc309",
+  "slug": "gaming-the-stage",
+  "title": "Gaming the Stage",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Gaming-the-Stage-3474fb2458ac49c9b73617aadc1cc309?pvs=21",
+  "createdTime": 1651868228125,
+  "lastEditedTime": 1681314049931,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gaming the Stage",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-db714dcee36a.webp",
+  "blocks": [
+    {
+      "id": "ac5c7fef-79f1-4317-8cdc-7afb234ad0da",
+      "type": "divider"
+    },
+    {
+      "id": "2442fe73-2393-44c2-a33c-f9a7707a211e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e5222c36-c1bc-42a1-80ed-3d3fe5a553be",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2b240bf3-5a9d-48e3-8adc-e04c3ffd4ffe",
+          "type": "column",
+          "children": [
+            {
+              "id": "a0eeaee1-2d9c-4b18-b5de-335c0022aa49",
+              "type": "paragraph",
+              "html": "<em><strong>Gaming the Stage: Playable Media and the Rise of English Commercial Theater</strong></em> was written by Gina Bloom, published by University of Michigan Press, July 12, 2018."
+            },
+            {
+              "id": "8d45fcb3-dac1-4f63-bb8e-0b5a1ce1b645",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0eb0f228-69a8-448a-ba91-baeb5dcf103d",
+              "type": "quote",
+              "html": "<em>Rich connections between gaming and theater stretch back to the 16th and 17th centuries, when England's first commercial theaters appeared right next door to gaming houses and blood-sport arenas. In the first book-length exploration of gaming in the early modern period, Gina Bloom shows that theaters succeeded in London's new entertainment marketplace largely because watching a play and playing a game were similar experiences. Audiences did not just see a play; they were encouraged to play the play, and knowledge of gaming helped them become better theatergoers. Examining dramas written for these theaters alongside evidence of analog games popular then and today, Bloom argues for games as theatrical media and theater as an interactive gaming technology.<br><br></em>Gaming the Stage<em> also introduces a new archive for game studies: scenes of onstage gaming, which appear at climactic moments in dramatic literature. Bloom reveals plays to be systems of information for theater spectators: games of withholding, divulging, speculating, and wagering on knowledge. Her book breaks new ground through examinations of plays such as </em>The Tempest, Arden of Faversham, A Woman Killed with Kindness<em>, and </em>A Game at Chess<em>; the histories of familiar games such as cards, backgammon, and chess; less familiar ones, like </em>Game of the Goose<em>; and even a mixed-reality theater videogame.</em>"
+            },
+            {
+              "id": "12418d93-6c5e-4a1b-a65e-ac714add590f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a3cc1679-bbee-4d7b-b3dd-97687dd720ef",
+          "type": "column",
+          "children": [
+            {
+              "id": "3971bff4-2482-4ec2-97c8-6df3226b8ed3",
+              "type": "image",
+              "src": "./assets/images/untitled-db714dcee36a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4fe3b233-eb8b-47e7-aa56-9a890243f8bf",
+      "type": "divider"
+    },
+    {
+      "id": "a463d3f4-b72f-47bb-863e-2c650646a84d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "23b060af-b467-44be-b03b-aebcdd1db909",
+          "type": "column",
+          "children": [
+            {
+              "id": "e57e5eff-ed44-4e84-b05a-7fedd9df63ef",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4c238d08-ead2-4556-b5b0-833ae0fec8c8",
+          "type": "column",
+          "children": [
+            {
+              "id": "2f232354-2169-45d0-b104-ffdcdbeae041",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FvTBYI\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8f02fc2-a278-4be1-9bc8-5b98796e16de",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "id": "a6766383-9a4a-4bbe-9065-930eaa9ff788",
+  "name": "Font Management & Creation",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "efffd272-d4fe-45db-938b-9efab67cbaea",
+          "value": "Font Management",
+          "color": "brown"
+        },
+        {
+          "id": "531fae0c-08f9-4ad3-a6e9-5ac0917f81f0",
+          "value": "Font Creation",
+          "color": "blue"
+        },
+        {
+          "id": "dc80439c-2370-4188-b268-f89c0ae0eb06",
+          "value": "Free",
+          "color": "purple"
+        },
+        {
+          "id": "2cca9250-e519-4879-afd2-e51be9ce60fc",
+          "value": "Premium",
+          "color": "green"
+        },
+        {
+          "id": "32c18315-fe48-4b7f-afe7-8a0181513dd2",
+          "value": "⭐ Editor's Choice",
+          "color": "yellow"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "55883d66-e29f-4eb9-a1d7-04174d2d808e",
+      "collectionId": "a6766383-9a4a-4bbe-9065-930eaa9ff788",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "11ea12c7-6a62-4944-b33c-91f5fcf5ab67",
+        "78880192-353b-43ee-b99f-a5a7383ce995",
+        "d23612be-941e-4225-b5b7-a9c3461471db",
+        "25e572d0-c4d1-4fa7-9db6-69618b31416d",
+        "082da31f-a4fc-41a8-9bd4-60e5ded5b003",
+        "a80a2160-b315-4305-a267-73aaad961b85",
+        "12149ba0-e1e1-4722-b5d9-2af06745a73e",
+        "67139851-3788-4f56-8f93-1ce0401482ad",
+        "c46380de-2b9c-4896-9016-e0a989c9eb87",
+        "60dd11d4-4860-4861-838a-2769332e3573",
+        "93c03d29-3302-4dc7-9996-bf6297b4c4a3",
+        "785f0539-918b-46d5-9f0c-0d680c0869db",
+        "db35c76c-45f9-4b24-9b16-24caca2d295b",
+        "a709b3a8-7e71-45cf-8832-9282863560c4",
+        "d0d0b56d-5753-467f-8316-7ac0612c3b3a",
+        "0042c758-8ee2-42ac-9f79-59c19d20cd73",
+        "1c26d716-e76c-45d0-bf99-b4f6642b392c"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "d525e0fe-f430-49f1-9c5b-4e27ee2df77c",
+      "collectionId": "a6766383-9a4a-4bbe-9065-930eaa9ff788",
+      "type": "gallery",
+      "name": "Font Management",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "d6a6bec8-9575-4293-a7a7-691205fcff41",
+      "collectionId": "a6766383-9a4a-4bbe-9065-930eaa9ff788",
+      "type": "gallery",
+      "name": "Font Creation",
+      "pagePointerId": null,
+      "pageSort": [
+        "93c03d29-3302-4dc7-9996-bf6297b4c4a3",
+        "67139851-3788-4f56-8f93-1ce0401482ad"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "414b5363-42eb-4593-be4e-2924f96947af",
+      "collectionId": "a6766383-9a4a-4bbe-9065-930eaa9ff788",
+      "type": "gallery",
+      "name": "Free",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "867268e4-9e64-4d45-be84-3c0d01494669",
+      "collectionId": "a6766383-9a4a-4bbe-9065-930eaa9ff788",
+      "type": "gallery",
+      "name": "Premium",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "5d9eacdb-ab08-41bb-acc6-ef90baf979de",
+      "collectionId": "a6766383-9a4a-4bbe-9065-930eaa9ff788",
+      "type": "gallery",
+      "name": "⭐ Editor's Choice",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

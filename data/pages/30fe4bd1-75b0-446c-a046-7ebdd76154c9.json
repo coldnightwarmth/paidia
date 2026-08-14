@@ -1,0 +1,134 @@
+{
+  "id": "30fe4bd1-75b0-446c-a046-7ebdd76154c9",
+  "slug": "play-in-american-life",
+  "title": "Play in American Life",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Play-in-American-Life-30fe4bd175b0446ca0467ebdd76154c9?pvs=21",
+  "createdTime": 1659709471286,
+  "lastEditedTime": 1681313055666,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play in American Life",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-20b40e7933de.webp",
+  "blocks": [
+    {
+      "id": "b230d861-16db-4f0e-80dd-b162b64cf82f",
+      "type": "divider"
+    },
+    {
+      "id": "9426868f-2297-426d-aeec-735549788e2d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "695cf16c-d389-498a-b0b2-36c8ec54ece5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1d903ce3-1506-4bca-b13c-1808e6aa9cc5",
+          "type": "column",
+          "children": [
+            {
+              "id": "97dfe01e-b5c8-4fba-9e89-9e4b30cc8e0a",
+              "type": "paragraph",
+              "html": "<em><strong>Play in American Life</strong></em> is a collection of essay edited by Mary Ruth Moore &amp; Constance Sabo-Risley, published by Archway Publishing, January 16, 2017."
+            },
+            {
+              "id": "8c4af5f1-35c4-44ab-8592-81345ebd6b35",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "520de899-decc-4b02-a9be-d22beda9f2be",
+              "type": "quote",
+              "html": "<em>With growing numbers of children living in poverty and standardized tests becoming increasingly important, there’s never been a better time for a volume of essays on the value of play in mental and emotional development.<br><br>Mary Ruth Moore and Constance Sabo-Risley honor and build upon the work of Joe L. Frost, the father of play advocacy, in this essential resource for educators, parents, and anyone concerned about the future of our children.<br><br>The essays examine play in America from historical, psychological, economic, and other perspectives, focusing on why we should worry about children playing less than they did twenty years ago, the benefits of letting children play without constant supervision, how playing can promote a love of nature, and the importance of risk assessment in play.<br><br>Specific articles include: “</em>A Place for Play in the Liberal Arts<em>,” by Michael J. Bell; “</em>Play Deprivation<em>,” by Stuart Brown; “</em>Caretakers of Wonder<em>” by Vivien Geneser; and “</em>Social Media as a 21st Century Playground<em>” by Stephanie Grote-Garcia, Tammy Francis Donaldson, Olive Kajoina, and Norman St. Clair. Several other authors also contribute articles to this well-researched book.<br><br>Pay tribute to one of early childhood education’s most important pioneers, and discover the valuable benefits of Play in American Life.</em>"
+            },
+            {
+              "id": "22f41dca-45a1-499a-8e95-afcaf769d2ec",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "384364b6-1bd7-4f7f-85e3-9938ec0931fa",
+          "type": "column",
+          "children": [
+            {
+              "id": "73bcbfaa-f4e1-4920-a17f-cd26633c7e2d",
+              "type": "image",
+              "src": "./assets/images/untitled-20b40e7933de.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7de9009c-f6e8-43f1-aac8-0a0435eedb12",
+      "type": "divider"
+    },
+    {
+      "id": "bb82ef67-fa69-435d-91cd-5f1267fd5045",
+      "type": "columns",
+      "children": [
+        {
+          "id": "04abd475-b69c-4fc9-8e9b-81225bfa2640",
+          "type": "column",
+          "children": [
+            {
+              "id": "9e093619-9b96-4156-b480-8b0d958a5fca",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "aa386a0b-4d5d-49fe-ade8-92f5bd158a82",
+          "type": "column",
+          "children": [
+            {
+              "id": "35024fe5-791b-422d-8bbc-c07e5527c903",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bvS6NQ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb6a9c93-bd30-47b3-a145-bd50275fa918",
+      "type": "divider"
+    }
+  ]
+}

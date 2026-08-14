@@ -1,0 +1,131 @@
+{
+  "id": "2339de1f-a726-4df4-9292-e0e478c52403",
+  "slug": "appendix-n",
+  "title": "Appendix N",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Appendix-N-2339de1fa7264df49292e0e478c52403?pvs=21",
+  "createdTime": 1652117610616,
+  "lastEditedTime": 1681310892197,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Appendix N",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4a986afd5ded.webp",
+  "blocks": [
+    {
+      "id": "f07ba4ce-84c9-4b43-b213-da13cff68aa5",
+      "type": "divider"
+    },
+    {
+      "id": "c4f847e6-dbe0-4a7b-b841-a40ad5158e13",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "55c26260-5b90-4f0e-8821-72cba8d88a5f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9830f7c1-47ad-47b2-a13e-9e1913526393",
+          "type": "column",
+          "children": [
+            {
+              "id": "255df1e4-4a9e-46f5-a72f-4e2a5c8b5506",
+              "type": "paragraph",
+              "html": "<em><strong>Appendix N: The Eldritch Roots of Dungeons &amp; Dragons</strong></em> is a collection of essays edited by Peter Bebergal, published by Strange Attractor Press, February 23, 2021."
+            },
+            {
+              "id": "664dce77-2157-4684-b234-d9dd27ece245",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "725059db-230a-419c-9dd5-052783dc8c49",
+              "type": "quote",
+              "html": "<em>An anthology investigating the influences behind </em>Dungeons &amp; Dragons<em>, the most popular modern role-playing game.<br><br>Drawing upon the original list of &quot;inspirational reading&quot; provided by Gary Gygax in the first </em>Dungeon Master's Guide<em>, published in 1979, as well as related periodicals that helped to define the modern role-playing game, </em>Appendix N<em> offers a collection of short fiction and resonant fragments that reveal the literary influences that shaped </em>Dungeons &amp; Dragons<em>, the world's most popular RPG. The stories in </em>Appendix N<em> contextualize the ambitious lyrical excursions that helped set the adventurous tone and dank, dungeon-crawling atmospheres of fantasy roleplay as we know it today.</em>"
+            },
+            {
+              "id": "fe58e90e-db1c-44f3-91bd-3e59d40ddbdd",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e84624c6-c93e-47aa-b4a6-3dabaf452372",
+          "type": "column",
+          "children": [
+            {
+              "id": "e0b30e43-aacb-41ad-9df7-7c28cd8f7356",
+              "type": "image",
+              "src": "./assets/images/untitled-4a986afd5ded.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "73460427-d5e4-45f0-b4a9-9543107a61c4",
+      "type": "divider"
+    },
+    {
+      "id": "e7783f4f-cb16-4fcf-b803-cc2267fa5e64",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c8dd2c05-d5a6-4fe6-9713-e0db497cd653",
+          "type": "column",
+          "children": [
+            {
+              "id": "3bfaae90-8578-419d-972e-57e728f33223",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7c14aa71-6ab2-4b58-aa26-44154bf01c2f",
+          "type": "column",
+          "children": [
+            {
+              "id": "112c79b2-eba5-4244-93a6-8354babe7f90",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39NP1YB\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1387ebcc-bc6a-493e-bf26-70c1136bd07e",
+      "type": "divider"
+    }
+  ]
+}

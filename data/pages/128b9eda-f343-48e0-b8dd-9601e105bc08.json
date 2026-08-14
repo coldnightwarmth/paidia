@@ -1,0 +1,126 @@
+{
+  "id": "128b9eda-f343-48e0-b8dd-9601e105bc08",
+  "slug": "ways-of-worldmaking",
+  "title": "Ways of Worldmaking",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Ways-of-Worldmaking-128b9edaf34348e0b8dd9601e105bc08?pvs=21",
+  "createdTime": 1652535048811,
+  "lastEditedTime": 1681314231595,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ways of Worldmaking",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ae3b7664371f.webp",
+  "blocks": [
+    {
+      "id": "4afe1da7-e1db-4a9c-9993-c05f43df0cec",
+      "type": "divider"
+    },
+    {
+      "id": "22955729-c87d-459e-9f53-0410d991499c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b3ff28bc-0f99-48f3-aea8-f0fe92fad2f7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "51f3924d-8d1c-4c12-ad83-57ae5b90191b",
+          "type": "column",
+          "children": [
+            {
+              "id": "2bd25373-a005-40ed-a83c-060e194a9c0d",
+              "type": "paragraph",
+              "html": "<em><strong>Ways of Worldmaking </strong></em>was written by Nelson Goodman, published by Hackett Publishing Company, Inc., June 15, 1978."
+            },
+            {
+              "id": "3b0b2167-2dfa-44b5-98a7-38827b511565",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5216af00-e5f3-4669-a3e2-dab683f1b23a",
+              "type": "quote",
+              "html": "<em>Adventurous and iconoclastic, </em>Ways of Worldmaking<em><br> examines ways the actual worlds in which we live—worlds of the sciences, the arts, practice—are made and how they are related. Defying sacrosanct platitudes (and risking the wrath of the rationalist, the enmity of the empiricist, the malice of the modalist, and the antipathy of the absolutist), Goodman argues that some true statements and some right versions conflict with one another and that therefore there must be 'many worlds if any'. Included are detailed studies of aspects or examples of worldmaking found in the psychological laboratory, in literary criticism, in scientific theories, and in works of art—all contributing to the central themes that facts are fabricated and that knowing or understanding is no more a matter of finding than of making.</em>"
+            }
+          ]
+        },
+        {
+          "id": "0ab3f964-2249-4149-9c94-785394e44e15",
+          "type": "column",
+          "children": [
+            {
+              "id": "4de40928-9525-4873-8747-f5040437cc77",
+              "type": "image",
+              "src": "./assets/images/untitled-ae3b7664371f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1dfad6eb-2386-49c9-ae5e-f7ee76dc17e2",
+      "type": "divider"
+    },
+    {
+      "id": "6b276828-1133-4afd-80b1-921537319033",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3b802287-7059-4a6b-9c25-b357604615b3",
+          "type": "column",
+          "children": [
+            {
+              "id": "c805f92d-752a-4777-aa64-6aec7a9d87d7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "61f4037c-a885-4a7f-88b0-cb55852e1f6a",
+          "type": "column",
+          "children": [
+            {
+              "id": "0e01a93a-9c7d-4bf8-a56b-d1c1e85df4c1",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3GeunMM\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9d8727df-e611-4faa-9a81-eb4dbdfeb406",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "d03f99b7-214c-4ee0-baf6-112b9db3f355",
+  "slug": "the-walkthrough",
+  "title": "The Walkthrough",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Walkthrough-d03f99b7214c4ee0baf6112b9db3f355?pvs=21",
+  "createdTime": 1673289170101,
+  "lastEditedTime": 1681312176168,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Walkthrough",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0c6f34ece49d.webp",
+  "blocks": [
+    {
+      "id": "993e6d46-e6e2-4e4a-bb2c-a2e1a62187ac",
+      "type": "divider"
+    },
+    {
+      "id": "677d1e26-c161-4a1b-ab98-442cbd98939c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "89a1665f-e33b-4c42-836c-18b6b8aa9e43",
+      "type": "columns",
+      "children": [
+        {
+          "id": "aa2912fe-86d4-4eed-982a-eefb8472990b",
+          "type": "column",
+          "children": [
+            {
+              "id": "1cd6bb1b-b2bf-4424-9f31-9e2b23dcee2c",
+              "type": "paragraph",
+              "html": "<em><strong>The Walkthrough: Insider Tales from a Life in Strategy Guides</strong></em> was written by Doug Walsh, published by Snoke Valley Books, May 16, 2019."
+            },
+            {
+              "id": "2bc16580-3087-44a4-9a7c-c62ae7088eb0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ad5f4cd8-9374-4dd3-831d-f7d9db2e9897",
+              "type": "quote",
+              "html": "<strong><em>An insider's look at the rise and fall of the video game strategy guide industry, from the author of over one hundred official books for BradyGames and Prima Games.<br></em></strong><em><br></em>The Walkthrough<em> offers a rare peek behind the curtain of the secretive video game industry from an unlikely perspective, that of a career strategy guide writer. For eighteen years, Doug Walsh was one of the most prolific authors of officially licensed video game strategy guides. And now he's ready to talk.<br><br>One part memoir and one part industry tell-all, </em>The Walkthrough <em>takes players on an entertaining march through gaming’s recent history, from the dawn of the PlayStation to the Xbox 360 and Nintendo Switch. Follow along as Walsh retraces his career and reveals how the books were made, what it was like writing guides to some of the industry’s most celebrated — and derided — titles, and why the biggest publishers of guidebooks are no longer around.Walsh devotes entire chapters to many of gaming’s most popular franchises, including </em>Tony Hawk’s Pro Skater, Gears of War<em>, and </em>Diablo<em>, among others.<br><br>From inauspicious beginnings with </em>Daikatana <em>to authoring the books for the entire </em>Bioshock<em> trilogy, with plenty of highs, lows, and Warp Pipes along the way, Walsh delivers a rare treat to twenty-first century gamers. </em>The Walkthrough <em>is sure to satisfy the curiosity of anyone who grew up with the works of BradyGames and Prima Games sprawled across their laps. With over one hundred books to his credit, and countless weeks spent at many of the most famous studios in North America, he is uniquely qualified to give an insider’s perspective of a little-known niche within the multi-billion-dollar industry.</em>"
+            },
+            {
+              "id": "49bd9a65-8a5f-4c98-a173-04f3a28d23d2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5c39620b-c611-4fe2-8457-ef208cf22c97",
+          "type": "column",
+          "children": [
+            {
+              "id": "a66ee29c-3243-4674-acfb-9191cfb921a9",
+              "type": "image",
+              "src": "./assets/images/untitled-0c6f34ece49d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e06da9cc-253b-4dda-b52a-193f597f6129",
+      "type": "divider"
+    },
+    {
+      "id": "d97412e5-505e-4250-a772-ef402f016e9f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "522cd19a-ba34-402b-8c71-9f33221bb076",
+          "type": "column",
+          "children": [
+            {
+              "id": "4edb6ebd-3b6a-48bc-b78d-26ce6de88446",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1c9ef250-d5fe-4328-94ed-51ee14717e83",
+          "type": "column",
+          "children": [
+            {
+              "id": "9a80b2ac-56d5-4f52-af1c-8de233b58f5d",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Walkthrough-Insider-Tales-Strategy-Guides-ebook/dp/B07P6P9SG2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc1977df-de49-40da-b4a9-127cd74d2f60",
+      "type": "divider"
+    }
+  ]
+}

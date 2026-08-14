@@ -1,0 +1,134 @@
+{
+  "id": "2ec2e7bd-3c93-45df-8faf-3fabe1f6eec5",
+  "slug": "play-to-learn",
+  "title": "Play to Learn",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Play-to-Learn-2ec2e7bd3c9345df8faf3fabe1f6eec5?pvs=21",
+  "createdTime": 1659708520619,
+  "lastEditedTime": 1681313058566,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play to Learn",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ef2eaebe09d8.webp",
+  "blocks": [
+    {
+      "id": "b7b8dc52-251f-4132-b91b-5227803743f6",
+      "type": "divider"
+    },
+    {
+      "id": "b3114a35-b8a9-428d-a1b6-c589c6a975b2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8c14f1e0-7f66-4273-a877-dd24fa6ebb13",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d1e06d87-9162-4880-8186-6a4ad74ef85b",
+          "type": "column",
+          "children": [
+            {
+              "id": "e3db7a87-3102-4085-997b-beba469fc8b0",
+              "type": "paragraph",
+              "html": "<em><strong>Play to Learn: Everything You Need to Know About Designing Effective Learning Games </strong></em>was written by Sharon Boller &amp; Karl M. Kapp, published by the Association for Talent Development, April 4, 2017."
+            },
+            {
+              "id": "9dba1ea8-b0cf-4e19-87c4-dcf825c91595",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6ec6bc85-2aa9-4009-a0c8-0beff70b0fa8",
+              "type": "quote",
+              "html": "<em>When trainers use games, learners win big. As a trainer interested in game design, you know that games are more effective than lectures. You've seen firsthand how immersive games hold learners' interest, helping them explore new skills and experience different points of view. But how do you become the Milton Bradley of learning games? Play to Learn is here to help.<br><br>This book bridges the gap between instructional design and game design; it's written to grow your game literacy and strengthen crucial game design skills. Experts Sharon Boller and Karl Kapp share real examples of in-person and online games, and offer an online game for you to try as you read. They walk you through evaluating entertainment and learning games, so you can apply the best to your own designs.<br><br></em>Play to Learn<em> will also show you how to:</em>"
+            },
+            {
+              "id": "86a17f55-dd96-4c8a-9565-37a43cc54efd",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7b94a327-29cd-4e1d-a843-c6f348037a57",
+          "type": "column",
+          "children": [
+            {
+              "id": "dc98c980-e4e6-4412-aead-189828c77dae",
+              "type": "image",
+              "src": "./assets/images/untitled-ef2eaebe09d8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad1fb8ef-c626-473e-894f-0657db44b0cb",
+      "type": "divider"
+    },
+    {
+      "id": "c356167e-a829-4b31-a7b1-974eb3f0487f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7f4b5aa6-3a72-4854-be90-9624fca1f15a",
+          "type": "column",
+          "children": [
+            {
+              "id": "c95cf311-5980-4552-a90e-c993ab378b38",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ca0f8828-ea0f-4366-913f-3c57e7bfc0e8",
+          "type": "column",
+          "children": [
+            {
+              "id": "26c6a8dd-1413-4786-9710-51545c979ade",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Q6rCkU\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01257dc6-0e09-4475-9528-7bee26cc824b",
+      "type": "divider"
+    }
+  ]
+}

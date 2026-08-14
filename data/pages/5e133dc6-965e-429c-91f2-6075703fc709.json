@@ -1,0 +1,136 @@
+{
+  "id": "5e133dc6-965e-429c-91f2-6075703fc709",
+  "slug": "gameplay-mode",
+  "title": "Gameplay Mode",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Gameplay-Mode-5e133dc6965e429c91f26075703fc709?pvs=21",
+  "createdTime": 1651869650202,
+  "lastEditedTime": 1681314048813,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gameplay Mode",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4b7aa3c46b5c.webp",
+  "blocks": [
+    {
+      "id": "f62f6973-94c2-4241-b952-38da17256a1e",
+      "type": "divider"
+    },
+    {
+      "id": "01caf7e1-392f-45fb-9180-a044af0d6491",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0c95dde9-ebab-45d6-9861-ecf714ae8ed9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b4ec920f-6971-4fb9-9b71-8ad577a670f1",
+          "type": "column",
+          "children": [
+            {
+              "id": "33b16deb-2904-4308-9c2e-405228ceaace",
+              "type": "paragraph",
+              "html": "<em><strong>Gameplay Mode: War, Simulation, and Technoculture</strong></em> was written by Patrick Crogan, published by University Of Minnesota Press, November 9, 2011."
+            },
+            {
+              "id": "142ff97c-7d34-473c-9d19-81b80c9df65a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "47774cde-6854-43a2-be5d-b270fca836c9",
+              "type": "quote",
+              "html": "<em>From flight simulators and first-person shooters to MMPOG and innovative strategy games like 2008’s Spore, computer games owe their development to computer simulation and imaging produced by and for the military during the Cold War. To understand their place in contemporary culture, Patrick Crogan argues, we must first understand the military logics that created and continue to inform them. </em>Gameplay Mode<em> situates computer games and gaming within the contemporary technocultural moment, connecting them to developments in the conceptualization of pure war since the Second World War and the evolution of simulation as both a technological achievement and a sociopolitical tool.<br><br>Crogan begins by locating the origins of computer games in the development of cybernetic weapons systems in the 1940s, the U.S. Air Force’s attempt to use computer simulation to protect the country against nuclear attack, and the U.S. military’s development of the SIMNET simulated battlefield network in the late 1980s. He then examines specific game modes and genres in detail, from the creation of virtual space in fight simulation games and the co-option of narrative forms in gameplay to the continuities between online gaming sociality and real-world communities and the potential of experimental or artgame projects like </em>September 12th: A Toy World<em> and </em>Painstation<em>, to critique conventional computer games.<br><br>Drawing on critical theoretical perspectives on computer-based technoculture, Crogan reveals the profound extent to which today’s computer games—and the wider culture they increasingly influence—are informed by the technoscientific program they inherited from the military-industrial complex. But, Crogan concludes, games can play with, as well as play out, their underlying logic, offering the potential for computer gaming to anticipate a different, more peaceful and hopeful future.</em>"
+            },
+            {
+              "id": "7ed92e41-4e98-44b8-9dfb-1e966010c555",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a828a96b-82fa-4891-adbe-4b0fd6fe5817",
+          "type": "column",
+          "children": [
+            {
+              "id": "2324fdd7-b05e-4b32-94e2-574a9690dc22",
+              "type": "image",
+              "src": "./assets/images/untitled-4b7aa3c46b5c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a468e5c2-efbf-4254-b54f-6e49fef9d64a",
+      "type": "divider"
+    },
+    {
+      "id": "d0c0208c-ab56-4d51-91bd-d35c6e14759e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b20dd842-92c4-4c74-ad13-c8197dbd619c",
+          "type": "column",
+          "children": [
+            {
+              "id": "e71f7efc-b46e-4c18-aee0-6cb4797ddc1f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "91ae18c8-e8f3-487c-9a1a-9b5dd6cc9acb",
+          "type": "column",
+          "children": [
+            {
+              "id": "7a2c210e-ee26-4626-8e77-218b451a4ed7",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sIIEvd\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bca95250-6a6e-4437-b560-b4a97fae0520",
+      "type": "divider"
+    },
+    {
+      "id": "93228b90-64db-4b5d-b29f-45bafe4e816e",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

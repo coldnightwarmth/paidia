@@ -1,0 +1,146 @@
+{
+  "id": "c3c2b8f2-3866-4436-a8ff-616a6e3f4224",
+  "slug": "dual-wield",
+  "title": "Dual Wield",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Dual-Wield-c3c2b8f238664436a8ff616a6e3f4224?pvs=21",
+  "createdTime": 1657299700804,
+  "lastEditedTime": 1681313415887,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Dual Wield",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-55e2a6dd26a5.webp",
+  "blocks": [
+    {
+      "id": "7960fb36-bf9a-4c20-959a-5c20bbd96565",
+      "type": "divider"
+    },
+    {
+      "id": "52c766ce-4c19-4c77-885c-60bd91c585e1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "53cae3b4-d1ff-4877-bfe9-5b6cf8a06f9b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dd788896-6bef-4888-97fb-d184bf45d291",
+          "type": "column",
+          "children": [
+            {
+              "id": "892ec430-e58f-4138-af9e-31e99994a80a",
+              "type": "paragraph",
+              "html": "<em><strong>Dual Wield: The Interplay of Poetry &amp; Videogames</strong></em> was written by Jon Stone, published by De Gruyter Oldenbourg, March 7, 2022."
+            },
+            {
+              "id": "b39c1ba1-7a99-4f52-98da-12e1f8bc1af7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "03a05262-77fa-4388-806e-3b84c7e588ba",
+              "type": "quote",
+              "html": "<em>In recent years, poetry and video games have begun talking to - and taking from - one another in earnest. Poets, ever in pursuit of meaning, now draw inspiration from digital-interactive fantasy worlds, while video game developers aim to enrich their creations by imbuing them with poetic depth. This book investigates the phenomena of poem-game hybrids and other forms of poetic-ludic interplay, making use of both a multidisciplinary critical approach and the author's own experiments in building and testing hybrid artefacts. What emerges is the suggestion of a future where reading and playing are no longer seen as separate endeavours, where the quests for sensory pleasure and philosophic insight are one and the same.</em>"
+            },
+            {
+              "id": "696bc3bf-e0fe-479e-b58e-173860dc4e91",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e2aa0dad-903d-4bd1-9952-1b49a00b1cf8",
+          "type": "column",
+          "children": [
+            {
+              "id": "4032aa6d-a252-4d02-8c5f-cfa799b1c1c6",
+              "type": "image",
+              "src": "./assets/images/untitled-55e2a6dd26a5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7e8d075-a73b-4fc2-bb72-30d9c6fff90b",
+      "type": "divider"
+    },
+    {
+      "id": "b159ea2b-636e-42f2-9615-9d2470e65a65",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e0cd9d1c-4590-45eb-baaa-e6172faa28bb",
+          "type": "column",
+          "children": [
+            {
+              "id": "a5624246-9b12-48a6-90f1-451933a06263",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "91edea63-f6bf-40f4-a431-3b52ee2b3dd7",
+          "type": "column",
+          "children": [
+            {
+              "id": "b7d8bec0-2ff0-4c3c-a6ab-9d5ee2b2aa38",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3nNOLvX\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "41d328bc-feac-4d5e-9b95-edaeae4b1c44",
+      "type": "divider"
+    },
+    {
+      "id": "750d030b-d38f-4462-98c5-fc42f3363f72",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9336c670-324c-4db0-b9e1-3d3182e7b5fe",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "5f28cd98-2fe3-402b-8626-d1d49770b898",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

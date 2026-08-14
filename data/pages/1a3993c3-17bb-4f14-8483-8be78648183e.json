@@ -1,0 +1,131 @@
+{
+  "id": "1a3993c3-17bb-4f14-8483-8be78648183e",
+  "slug": "image-objects",
+  "title": "Image Objects",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Image-Objects-1a3993c317bb4f1484838be78648183e?pvs=21",
+  "createdTime": 1652116932687,
+  "lastEditedTime": 1681314219614,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Image Objects",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-310f3897c5d5.webp",
+  "blocks": [
+    {
+      "id": "42992ad5-47c7-4d2e-85ee-6ad5006fa60b",
+      "type": "divider"
+    },
+    {
+      "id": "5a3628cc-0381-4df7-8f62-8f160bc9be5c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0c70839a-041c-4e58-b6db-d8cefc41b433",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5003179b-02bb-4f28-b8f8-5f607a60f800",
+          "type": "column",
+          "children": [
+            {
+              "id": "a4c6b48e-6a93-4b7d-a975-debbe3a7a5d1",
+              "type": "paragraph",
+              "html": "<em><strong>Image Objects: An Archaeology of Computer Graphics</strong></em> was written by Jacob Gaboury, published by The MIT Press, August 3, 2021."
+            },
+            {
+              "id": "10ad20c6-9f52-4787-a5f1-a8be86724052",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "12757b37-05e6-4473-9f9c-78feaae5a09c",
+              "type": "quote",
+              "html": "<em>How computer graphics transformed the computer from a calculating machine into an interactive medium, as seen through the histories of five technical objects.<br><br>Most of us think of computer graphics as a relatively recent invention, enabling the spectacular visual effects and lifelike simulations we see in current films, television shows, and digital games. In fact, computer graphics have been around as long as the modern computer itself, and played a fundamental role in the development of our contemporary culture of computing. In </em>Image Objects<em>, Jacob Gaboury offers a prehistory of computer graphics through an examination of five technical objects--an algorithm, an interface, an object standard, a programming paradigm, and a hardware platform--arguing that computer graphics transformed the computer from a calculating machine into an interactive medium.<br><br>Gaboury explores early efforts to produce an algorithmic solution for the calculation of object visibility; considers the history of the computer screen and the random-access memory that first made interactive images possible; examines the standardization of graphical objects through the Utah teapot, the most famous graphical model in the history of the field; reviews the graphical origins of the object-oriented programming paradigm; and, finally, considers the development of the graphics processing unit as the catalyst that enabled an explosion in graphical computing at the end of the twentieth century.<br><br>The development of computer graphics, Gaboury argues, signals a change not only in the way we make images but also in the way we mediate our world through the computer--and how we have come to reimagine that world as computational.</em>"
+            },
+            {
+              "id": "17d97667-d81f-4ca7-ba60-6f3a2a1bce13",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "cde05250-86ce-433d-8033-d2ad86d3c463",
+          "type": "column",
+          "children": [
+            {
+              "id": "6fac7e35-1968-4136-a70f-e20f49c13427",
+              "type": "image",
+              "src": "./assets/images/untitled-310f3897c5d5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb9fc84e-f9b3-48f5-883f-067cc809cfa0",
+      "type": "divider"
+    },
+    {
+      "id": "4826e733-629f-438b-a7de-09473e561e5e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ef5af08f-7378-4e91-ad09-b3ac4f9f0f44",
+          "type": "column",
+          "children": [
+            {
+              "id": "b6ed59cd-eef5-4674-bc7a-a593b18f33e9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "81750c22-06c3-42d3-bab5-36456709e998",
+          "type": "column",
+          "children": [
+            {
+              "id": "bd57d43d-613d-4d2d-b251-2266215bd523",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Nt62Fi\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "192715bc-937a-4152-9986-fdef69407267",
+      "type": "divider"
+    }
+  ]
+}

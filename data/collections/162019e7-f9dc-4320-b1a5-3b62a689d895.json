@@ -1,0 +1,254 @@
+{
+  "id": "162019e7-f9dc-4320-b1a5-3b62a689d895",
+  "name": "Soft Skills",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "4024248c-861d-4093-b68b-ed93d22a62a0",
+          "value": "Leadership",
+          "color": "default"
+        },
+        {
+          "id": "8ef08d2b-5ef7-4569-b27a-92bec766b39f",
+          "value": "Design",
+          "color": "green"
+        },
+        {
+          "id": "a07d5628-02ab-4673-b631-220d5f7070c5",
+          "value": "⭐ Editor's Choice",
+          "color": "yellow"
+        },
+        {
+          "id": "ffb2331d-4a44-451b-8381-597fa8482ddd",
+          "value": "Self-Improvement",
+          "color": "red"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "b23da9e8-ba96-47df-a77f-336f60d6f9b6",
+      "collectionId": "162019e7-f9dc-4320-b1a5-3b62a689d895",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "ad81d7e5-e7c0-4221-9a6c-0b623bca61e6",
+        "909c77d2-c77b-4622-af96-d0dee01dabb7",
+        "9f1c90cb-b885-4ff7-9891-4d30541ff911",
+        "c2b89766-709a-40f5-84bc-2e730bd60af5",
+        "10ff486e-d712-4d95-851f-1bdf99f0eeb6",
+        "25f3045f-8735-4f0c-8860-7dd051ba5f9c",
+        "c9eccbb1-089e-4131-bcf5-a28a5b31497e",
+        "88e4e870-204c-4af4-b127-478d48c31868",
+        "37f0349b-eb0d-4182-8f81-1c268ff76545",
+        "40e7bc7d-f657-484b-96b0-3e87cf990ead",
+        "fa486bf7-c24b-4c30-8510-da421b1fb521",
+        "a1568d2b-b026-4038-a92b-d9fa9f14f07a",
+        "be594715-eb23-4fda-9fa3-91f74feb6281",
+        "c137ea53-658b-4828-b172-ca52179522c8",
+        "08b61710-4a2b-4645-b1b3-abde68a33d4c",
+        "0f67a789-7dc0-4e34-942a-3b4589f4391c",
+        "4da58645-e11b-4888-8a0d-d14a04882a2c",
+        "5434fb23-1f21-4ef3-ada9-f325db506316",
+        "2fbc8302-91be-489a-b7fd-950c715014c9",
+        "f53d7d67-30c4-4aac-807c-0915ef1c9bdb",
+        "4b620f6c-4705-4620-a9dc-956ab5efeed7",
+        "1e895e69-d82f-4d80-b189-8f6b1dc473dc",
+        "6169bdae-c3e5-4baa-850e-2df657207587",
+        "e4caaf30-2b0a-480b-80d0-3a502fff0bc9"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "9e388f5f-5354-499f-b021-afc833c48003",
+      "collectionId": "162019e7-f9dc-4320-b1a5-3b62a689d895",
+      "type": "gallery",
+      "name": "⭐ Editor's Choice",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "b3e3a1ec-6752-4225-bd8a-e11f65d70a68",
+      "collectionId": "162019e7-f9dc-4320-b1a5-3b62a689d895",
+      "type": "gallery",
+      "name": "Design",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "1b49828a-a0d3-40a8-a62d-5a7b4cf410ee",
+      "collectionId": "162019e7-f9dc-4320-b1a5-3b62a689d895",
+      "type": "gallery",
+      "name": "Leadership",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "3bb428b7-3a83-4ba5-b2ff-50e691c28b34",
+      "collectionId": "162019e7-f9dc-4320-b1a5-3b62a689d895",
+      "type": "gallery",
+      "name": "Self-Improvement",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

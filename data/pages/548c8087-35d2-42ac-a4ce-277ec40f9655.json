@@ -1,0 +1,131 @@
+{
+  "id": "548c8087-35d2-42ac-a4ce-277ec40f9655",
+  "slug": "the-genesis-of-animal-play",
+  "title": "The Genesis of Animal Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/548c808735d242aca4ce277ec40f9655",
+  "createdTime": 1652723080444,
+  "lastEditedTime": 1681314191560,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Genesis of Animal Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-556744901033.webp",
+  "blocks": [
+    {
+      "id": "69a9713c-a69a-4062-a37f-6a7146f2f8a6",
+      "type": "divider"
+    },
+    {
+      "id": "a0874447-3c96-477c-ae78-65aa91eadd98",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "93c4c9da-9463-49c6-808e-2b7bfaddcf43",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8e25eab2-6eda-4759-817e-63cdcd961580",
+          "type": "column",
+          "children": [
+            {
+              "id": "4e1d5166-83c8-4252-abb4-6e98a48f3e79",
+              "type": "paragraph",
+              "html": "<em><strong>The Genesis of Animal Play</strong></em> was written by Gordon M. Burghardt, published by MIT Press, August 11, 2006."
+            },
+            {
+              "id": "0f17f6b8-402b-476d-92b0-18f7ed0fcce8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "61743da8-4143-45ac-9bba-152e8d3cee0c",
+              "type": "quote",
+              "html": "<em>In </em>The Genesis of Animal Play<em>, Gordon Burghardt examines the origins and evolution of play in humans and animals. He asks what play might mean in our understanding of evolution, the brain, behavioral organization, and psychology. Is play essential to development? Is it the driving force behind human and animal behavior? What is the proper place for the study of play in the cognitive, behavioral, and biological sciences?<br><br>The engaging nature of play—who does not enjoy watching a kitten attack a ball of yarn?—has made it difficult to study. Some scholars have called play undefinable, nonexistent, or a mystery outside the realm of scientific analysis. Using the comparative perspectives of ethology and psychology, The Genesis of Animal Play goes further than other studies in reviewing the evidence of play throughout the animal kingdom, from human babies to animals not usually considered playful. Burghardt finds that although playfulness may have been essential to the origin of much that we consider distinctive in human (and mammalian) behavior, it only develops through a specific set of interactions among developmental, evolutionary, ecological, and physiological processes. Furthermore, play is not always beneficial or adaptive.</em>"
+            },
+            {
+              "id": "a7434004-b5ac-47e8-9ad9-4a51e2ca9d58",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "484d10ed-2d06-4f54-baae-fd88e0372f67",
+          "type": "column",
+          "children": [
+            {
+              "id": "5710ac38-b89a-48d2-8b1d-f9f2ed6f7952",
+              "type": "image",
+              "src": "./assets/images/untitled-556744901033.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60b0995a-1bc7-46e0-ba57-71a4d3a43968",
+      "type": "divider"
+    },
+    {
+      "id": "75ec47cb-4b0c-411c-9f63-eb80a1014d57",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d7b29326-1a87-4326-8c2b-6a82bc279d93",
+          "type": "column",
+          "children": [
+            {
+              "id": "6c05f30d-01b7-4339-8475-d96f802204b6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "53ed780c-f10e-421b-ab52-4c6bf77d8b1c",
+          "type": "column",
+          "children": [
+            {
+              "id": "4c022d13-0c54-4869-bf8d-85721a968fab",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yBsZBZ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a019f23-49b6-4c23-a8af-38eee48e08b5",
+      "type": "divider"
+    }
+  ]
+}

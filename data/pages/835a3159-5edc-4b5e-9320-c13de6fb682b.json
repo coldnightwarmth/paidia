@@ -1,0 +1,131 @@
+{
+  "id": "835a3159-5edc-4b5e-9320-c13de6fb682b",
+  "slug": "games-of-the-north-american-indians",
+  "title": "Games of The North American Indians",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/835a31595edc4b5e9320c13de6fb682b",
+  "createdTime": 1651694341091,
+  "lastEditedTime": 1681313842313,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Games of The North American Indians",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/91w6o4ckel-c6211351f283.webp",
+  "blocks": [
+    {
+      "id": "42f34955-602f-427f-83c0-5d9d713e06e5",
+      "type": "divider"
+    },
+    {
+      "id": "0185a826-e3ba-494e-8307-af71eab41e2a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6b3ceb41-17c1-4d9c-8387-fba4586b0249",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7828619d-8b29-48f4-806a-b8e97210c49e",
+          "type": "column",
+          "children": [
+            {
+              "id": "5d29de58-d50a-4711-9c03-9b49d0c808a6",
+              "type": "paragraph",
+              "html": "<em><strong>Games Of The North American Indians</strong></em> was written by <a href=\"#/stewart-culin\">Stewart Culin</a>, originally published by the Bureau of American Ethnology in 1907."
+            },
+            {
+              "id": "d187e0a1-dbf5-4994-9279-e1c0ac53c418",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "efc55b1e-fc7f-4602-a767-237896491de5",
+              "type": "quote",
+              "html": "<em>Games figured prominently in the myths of North American Indian tribes, and also in their ceremonies for bringing rain and fertility and combating misfortune. In his classic study, originally published in 1907 as a report of the Bureau of American Ethnology, Stewart Culin divided the games played by Indian men and women into two general types.<br><br>Volume 1 of this Bison Books edition takes up games of chance, involving guessing and throwing dice. Culin was able to show that the games of North American tribes were remarkably similar in method and purpose. He found that games using dice of various materials—wood, cane, bone, animal teeth, fruit stones—existed among 130 tribes belonging to 30 linguistic groups. The games are described in detail in this volume, and so are the popular guessing games drawing on sticks and wooden disks and involving hidden objects.<br><br>Volume 2 is just as absorbing in its elaboration of skills like archery and games like snow-snake, in which darts or javelins were hurled over snow or ice. Played throughout the continent north of Mexico were the hoop and pole game and its miniature, solitaire form called ring and pin, here illustrated. With equal authority Culin discusses ball games: racket, shinny, football, and hot ball. He includes accounts of &quot;minor amusements&quot;: shuttlecock, tipcat, quoits, popgun, bean shooter, and cat's cradle.</em>"
+            },
+            {
+              "id": "ae706927-21e1-490b-90f7-623d802e1193",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "88f9e479-0c26-4d53-940a-cdc0fef5b907",
+          "type": "column",
+          "children": [
+            {
+              "id": "8f04afb1-1eed-49cc-a595-c833dd196332",
+              "type": "image",
+              "src": "./assets/images/91w6o4ckel-c6211351f283.webp",
+              "caption": "",
+              "alt": "91w6o4ckE+L.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a880b46-24b3-4790-903d-4c4e2f127d5d",
+      "type": "divider"
+    },
+    {
+      "id": "48900521-d2dd-4d4e-b2a7-6886b6aa0c36",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5614ba5e-0e4d-4a5c-9dee-f6fd172e2068",
+          "type": "column",
+          "children": [
+            {
+              "id": "28f50d3f-6bab-408e-a681-2a76eea2359d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d1087eda-b405-4e02-ba44-be958659d3d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "7713b9c6-a270-4533-b9ed-057acf6c0e2e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NjSD2e\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1f570f44-208e-42e1-bcb3-f9036664356d",
+      "type": "divider"
+    }
+  ]
+}

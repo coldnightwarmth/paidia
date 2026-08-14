@@ -1,0 +1,126 @@
+{
+  "id": "0bb4bc49-fd0a-4928-add7-78dccd85c179",
+  "slug": "games-and-gaming-in-medieval-literature",
+  "title": "Games & Gaming in Medieval Literature",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Games-Gaming-in-Medieval-Literature-0bb4bc49fd0a4928add778dccd85c179?pvs=21",
+  "createdTime": 1673372486079,
+  "lastEditedTime": 1681312093076,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Games & Gaming in Medieval Literature"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b0bfc3e71183.webp",
+  "blocks": [
+    {
+      "id": "3c81d7fd-0c3d-4805-983c-cd16f61b6824",
+      "type": "divider"
+    },
+    {
+      "id": "6719fee9-cc1c-4245-a040-7ca4e5c50a2a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d2a2669a-caf4-4571-8c6b-290f032d9fd8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c33c5392-c345-4272-a2a7-dc5a6caf0b8e",
+          "type": "column",
+          "children": [
+            {
+              "id": "cc328bcc-cce0-497e-847e-f8cda407c0e6",
+              "type": "paragraph",
+              "html": "<em><strong>Games &amp; Gaming in Medieval Literature</strong></em> is a collection of essays edited by Serina Patterson, published by Palgrave Macmillan, July 29, 2015."
+            },
+            {
+              "id": "e8fae54c-a3b8-4350-8759-0f3e5f854141",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6766bc05-deca-484c-98bd-17ea5c095584",
+              "type": "quote",
+              "html": "<em>The first-of-its-kind, </em>Games &amp; Gaming in Medieval Literature <em>explores the depth and breadth of games in medieval literature and culture. Chapters span from the twelfth to the sixteenth centuries, and cover England, France, Denmark, Poland, and Spain, re-examining medieval games in diverse social settings such as the church, court, and household.</em>"
+            },
+            {
+              "id": "23e8c6aa-5671-4ea0-8b4a-4d3a30d56081",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "49f32bcd-42f7-470e-ae3d-bfaaa287073e",
+          "type": "column",
+          "children": [
+            {
+              "id": "ad765546-97ac-4eff-bc91-0dde96719441",
+              "type": "image",
+              "src": "./assets/images/untitled-b0bfc3e71183.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c5056bf-5557-4ba5-bd92-459eef7b8d62",
+      "type": "divider"
+    },
+    {
+      "id": "161db518-3351-44f8-a354-d95755ba98ff",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0c7ae908-12a3-403e-975c-d01168840bad",
+          "type": "column",
+          "children": [
+            {
+              "id": "58ae6d74-f374-45ce-a441-d3c76b146242",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6c56d756-9b42-40ab-9920-e5989a1851ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "14cac04b-19bb-448c-b38d-2469bfbce6c9",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Games-Gaming-Medieval-Literature-Middle-ebook/dp/B013C5G55S\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "140cb05a-cb16-4a8b-b5a5-5e1ea3f5d36a",
+      "type": "divider"
+    }
+  ]
+}

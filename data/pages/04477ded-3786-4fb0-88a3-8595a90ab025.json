@@ -1,0 +1,127 @@
+{
+  "id": "04477ded-3786-4fb0-88a3-8595a90ab025",
+  "slug": "the-book-of-american-pastimes",
+  "title": "The Book of American Pastimes",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Book-of-American-Pastimes-04477ded37864fb088a38595a90ab025?pvs=21",
+  "createdTime": 1657230031098,
+  "lastEditedTime": 1681313993186,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Book of American Pastimes",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-51c974d62af1.webp",
+  "blocks": [
+    {
+      "id": "d3e60349-6f0a-4ab3-973b-0b6831ffd1e7",
+      "type": "divider"
+    },
+    {
+      "id": "79e1b586-b2ff-4c4d-bcf0-64aa64d5ed54",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "96e30eaa-90e9-4165-b438-8e539c3faf26",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2399537d-5879-4a68-b534-b6a86389e252",
+          "type": "column",
+          "children": [
+            {
+              "id": "5186562f-ed13-460f-ba47-702b085b013c",
+              "type": "paragraph",
+              "html": "<em><strong>The Book of American Pastimes: Containing a History of the Principal Base Ball, Cricket, Rowing, &amp; Yachting Clubs of the United States</strong></em> was written by Charles A. Peverelly, originally published in 1866."
+            },
+            {
+              "id": "a83caaef-29b3-4e3a-ab84-fa00d7c1eb81",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "84be775b-e6f7-497c-b6aa-31c4cdd9d1af",
+          "type": "column",
+          "children": [
+            {
+              "id": "549c17b6-c1b4-4c14-83da-1e7c34dd4540",
+              "type": "image",
+              "src": "./assets/images/untitled-51c974d62af1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60fb8e28-bc49-48f4-93cc-7c818a3c7cc3",
+      "type": "divider"
+    },
+    {
+      "id": "0354b42a-6637-4fb7-80eb-a5d5bfb8774b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1ba0ad8b-e971-4d59-88e6-294fb2d77b27",
+          "type": "column",
+          "children": [
+            {
+              "id": "753028df-29c8-431c-902f-ea9c65ec0539",
+              "type": "callout",
+              "html": "",
+              "icon": "📚",
+              "children": [
+                {
+                  "id": "00b34da7-fdc4-4387-9f9c-414d4443a307",
+                  "type": "paragraph",
+                  "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1df0d7f6-ac6c-481b-b15e-f6741d3b111f",
+          "type": "column",
+          "children": [
+            {
+              "id": "cd9b12b8-37e7-499b-97d3-e992f48d93c8",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Ipt0Mg\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec7efcb2-2080-4d7d-a713-f9859fca9443",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "b7d30932-11b5-49fb-ac5c-88f75c873a40",
+  "slug": "the-magician",
+  "title": "The Magician",
+  "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "4231da41-594a-42e5-b414-229c0a16aa23",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/b7d3093211b549fbac5c88f75c873a40",
+  "createdTime": 1667508840897,
+  "lastEditedTime": 1681312588223,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Concept"
+      ]
+    ],
+    "title": [
+      [
+        "The Magician"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "98b3ed19-075f-4488-a496-c74ca7ec82c5",
+      "type": "divider"
+    },
+    {
+      "id": "7f19a862-bde3-4e71-8032-599b28be14aa",
+      "type": "paragraph",
+      "html": "Tarot"
+    },
+    {
+      "id": "0dde0c80-af5e-4471-a23e-dd2f92f1ccf7",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

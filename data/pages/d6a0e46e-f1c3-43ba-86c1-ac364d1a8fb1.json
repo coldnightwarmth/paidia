@@ -1,0 +1,43 @@
+{
+  "id": "d6a0e46e-f1c3-43ba-86c1-ac364d1a8fb1",
+  "slug": "jonathan-blow-on-contemporary-art",
+  "title": "Jonathan Blow on Contemporary Art",
+  "icon": "./assets/images/playback-play-gray-3ec25554f6f9.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1cc2005a-e664-4434-8021-4643bc8de7a9",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d6a0e46ef1c343ba86c1ac364d1a8fb1",
+  "createdTime": 1681321365693,
+  "lastEditedTime": 1681321365694,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Jonathan Blow on Contemporary Art",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "b0387b16-b208-4106-9690-898a3681aebf",
+      "type": "paragraph",
+      "html": "uploaded by <strong><a href=\"https://www.youtube.com/channel/UCbGGg1xyVana3IY4WInzgyg\" target=\"_blank\" rel=\"noreferrer\">Blow Fan</a></strong>"
+    },
+    {
+      "id": "076b2d4c-2edd-4bf5-9cb2-d093af36ac11",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/zpufWTt4YY0?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "caption": ""
+    }
+  ]
+}

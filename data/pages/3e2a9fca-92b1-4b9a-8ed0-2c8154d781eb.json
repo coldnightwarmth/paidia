@@ -1,0 +1,126 @@
+{
+  "id": "3e2a9fca-92b1-4b9a-8ed0-2c8154d781eb",
+  "slug": "rocket-jump",
+  "title": "Rocket Jump",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/3e2a9fca92b14b9a8ed02c8154d781eb",
+  "createdTime": 1653080651323,
+  "lastEditedTime": 1681314020515,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Rocket Jump"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/717qa8upk2l-b6fd97e1307d.webp",
+  "blocks": [
+    {
+      "id": "316773f0-7b56-4c75-8f36-85d89cb77496",
+      "type": "divider"
+    },
+    {
+      "id": "acc1b140-ac3d-458c-82a3-198be48c1c32",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "86900f4e-32d3-4f61-804f-d77345a00b51",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2e648f44-1162-4285-b12c-bbc8465f71b9",
+          "type": "column",
+          "children": [
+            {
+              "id": "7d0ae9c3-9559-4ed5-9a8c-19d6175c911f",
+              "type": "paragraph",
+              "html": "<em><strong>Rocket Jump: Quake &amp; the Golden Age of First-Person Shooters</strong></em> was written by David L. Craddock, self-published, November 8, 2019."
+            },
+            {
+              "id": "9e9ff19a-e2c5-4985-ba6a-ae83d8ce9cd2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5e6ed258-d411-48ce-951c-13ce61aa52a7",
+              "type": "quote",
+              "html": "<em>In 1992, </em>Wolfenstein 3D<em> ushered gamers into the ultra-fast, ultra-bloody third world of first-person gaming. One year later, </em>Doom<em> opened a portal to hell that flooded university and office networks with rocket launchers and cyberdemons. Then came </em>Quake<em>, a CD-ROM packed with slick 3D graphics and online-ready gameplay that shook the games industry to its core. For some of the designers at id Software, </em>Quake<em> marked the end of an era. Others were just getting warmed up. </em>Rocket Jump: Quake and the Golden Age of First-Person Shooters<em> explores the making of id Software’s seminal trilogy, uncovers the internal culture that simultaneously shaped and fractured id Software, and reveals the indelible mark </em>Quake<em> left on game designers, computing technology, and popular culture.</em>"
+            },
+            {
+              "id": "82708b6b-7673-4989-8ea3-0993739af4d7",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "192e5a55-77dd-4ebd-a615-4adb3694e9f7",
+          "type": "column",
+          "children": [
+            {
+              "id": "50895c89-50d4-44ae-abd2-5b6b8c373946",
+              "type": "image",
+              "src": "./assets/images/717qa8upk2l-b6fd97e1307d.webp",
+              "caption": "",
+              "alt": "717Qa8uPk2L.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9469f92-f1b0-4492-8a74-1c6382c38de4",
+      "type": "divider"
+    },
+    {
+      "id": "d1787b8d-5f15-4520-9f97-509452d4c140",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a2e13ad5-c323-4d71-a03d-bb22f6dd68ad",
+          "type": "column",
+          "children": [
+            {
+              "id": "f3459a27-8cb5-490b-8514-30e28ac34ade",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "56fed975-a042-4e69-b637-b9adcd8b4f6b",
+          "type": "column",
+          "children": [
+            {
+              "id": "6580061b-d547-4c4c-8dd7-ac39bef1284b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DMqUpa\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ca353ac-e10b-4c6e-b690-0ef38db5146c",
+      "type": "divider"
+    }
+  ]
+}

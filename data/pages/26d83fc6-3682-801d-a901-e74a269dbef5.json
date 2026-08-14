@@ -1,0 +1,47 @@
+{
+  "id": "26d83fc6-3682-801d-a901-e74a269dbef5",
+  "slug": "paintings",
+  "title": "Paintings",
+  "icon": "🖼️",
+  "cover": "",
+  "type": "page",
+  "parentId": "e0713fca-6e95-4df5-be44-8c3a75e00061",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/26d83fc63682801da901e74a269dbef5",
+  "createdTime": 1757741893080,
+  "lastEditedTime": 1757742859608,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page"
+      ]
+    ],
+    "title": [
+      [
+        "Paintings"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "26d83fc6-3682-8024-a6c1-f50781699224",
+      "type": "collection_view",
+      "collectionId": "26d83fc6-3682-8032-9eeb-000b5d7f737b",
+      "viewIds": [
+        "26d83fc6-3682-803e-b622-000cdb5f4041",
+        "26d83fc6-3682-8023-acaa-000c73fca4be"
+      ],
+      "title": ""
+    },
+    {
+      "id": "26d83fc6-3682-80ab-98c4-db622761078d",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

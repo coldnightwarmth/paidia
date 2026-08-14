@@ -1,0 +1,139 @@
+{
+  "id": "553b6bf6-7fb0-45e0-9654-b4ffc3ff8d56",
+  "slug": "john-muir",
+  "title": "John Muir",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "168b4ff9-9835-46d8-acec-a0b44ae2427e",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/553b6bf67fb045e09654b4ffc3ff8d56",
+  "createdTime": 1666885121198,
+  "lastEditedTime": 1681328998573,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "John Muir"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b5edd929420e.webp",
+  "blocks": [
+    {
+      "id": "ae841013-c506-44a3-8074-7dfe9756f08e",
+      "type": "divider"
+    },
+    {
+      "id": "ec779c83-5a83-4d39-8c4c-d504ade4bc35",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1bd95a71-3ce9-4ade-a4d7-790714775491",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b2565634-a6c1-4692-866c-69e5a19ad6c6",
+          "type": "column",
+          "children": [
+            {
+              "id": "f053e09a-1408-4cda-bc1d-6ab545c4b89d",
+              "type": "paragraph",
+              "html": "<strong>Author  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "461986e6-e57a-4cd7-b2fd-75bf96479854",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f09282af-f123-4d28-89af-e8e807ebf7d9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e71dc253-c45e-40f2-9546-81b342cbc68d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9333d91d-7b67-486d-a807-6a8eb26d771f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "aca8367c-838e-42a6-9df0-094084d0fdc7",
+          "type": "column",
+          "children": [
+            {
+              "id": "8bbf64af-b137-4224-a4ca-187a45abbf7c",
+              "type": "image",
+              "src": "./assets/images/untitled-b5edd929420e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1b49e805-a3bf-4643-9e49-9e42f9fc7c00",
+      "type": "divider"
+    },
+    {
+      "id": "45cd69e6-47f8-4de6-8c87-833be4cd6c55",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "b10d8e3c-f235-42c5-8e3e-35aee1ad5613",
+      "type": "paragraph",
+      "html": "<a href=\"#/our-national-parks\">Our National Parks</a> (1901) (<em>book</em>)"
+    },
+    {
+      "id": "da4a427d-ecd4-431f-a0d8-072719bf7292",
+      "type": "paragraph",
+      "html": "My First Summer in the Sierra (1911) (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "5ddbd461-a783-4d87-aa98-e83973b71b5e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7e8755ce-09f7-45d8-8cc7-92e249cfbbfa",
+      "type": "divider"
+    },
+    {
+      "id": "f16ff51d-b33d-452d-8710-691a7d790f6e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0c078845-8a69-4a6e-8ae2-4f8c911f4a58",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "23bf9d1a-f2f4-409b-9a7f-39f793ffe069",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "8895465e-f1d8-4277-b8db-39d968add055",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

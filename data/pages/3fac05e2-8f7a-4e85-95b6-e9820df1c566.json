@@ -1,0 +1,126 @@
+{
+  "id": "3fac05e2-8f7a-4e85-95b6-e9820df1c566",
+  "slug": "project-dolphin",
+  "title": "Project Dolphin",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Project-Dolphin-3fac05e28f7a4e8595b6e9820df1c566?pvs=21",
+  "createdTime": 1657236748249,
+  "lastEditedTime": 1681314025587,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Project Dolphin",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-71f82888abe3.webp",
+  "blocks": [
+    {
+      "id": "d44727db-d7bb-4197-85e4-980e02995e73",
+      "type": "divider"
+    },
+    {
+      "id": "70c077a6-6a63-45be-91af-46f3c7f9313f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4c64dd53-7679-4ddf-a752-9ab0722d0026",
+      "type": "columns",
+      "children": [
+        {
+          "id": "afb60303-cfa0-4678-9e6d-653c07a6f59b",
+          "type": "column",
+          "children": [
+            {
+              "id": "70b53b1b-4840-4d02-a742-a67dbb77cf3a",
+              "type": "paragraph",
+              "html": "<em><strong>Project Dolphin: The History of The GameCube</strong></em> was written by Travis Nicholas, self-published, April 13, 2021."
+            },
+            {
+              "id": "385e07ca-c1a2-4f23-81fb-09c403ad93ef",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e265bf60-fbb6-4e36-be81-d482837fc23c",
+              "type": "quote",
+              "html": "<em>The Nintendo GameCube has a long history starting with ideas that would be omitted from the N64 and a controller that would go on to be used for generations after it. Project Dolphin covers the complete history of the GameCube and its library of games released all over the world. </em>"
+            }
+          ]
+        },
+        {
+          "id": "35b75189-9151-46b3-9c13-c0975fa114be",
+          "type": "column",
+          "children": [
+            {
+              "id": "662d634f-58b3-41dc-9fae-0196deeee0b7",
+              "type": "image",
+              "src": "./assets/images/untitled-71f82888abe3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52dff914-43a9-4db1-91c0-92e58df71037",
+      "type": "divider"
+    },
+    {
+      "id": "c6efde32-a2f5-4ba3-94bc-e92f721762af",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e83d0b2c-680a-4184-bdc6-e37f974a7b6d",
+          "type": "column",
+          "children": [
+            {
+              "id": "289f3503-9884-4222-b736-ab439a871753",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cc1b7fcf-04e4-47cb-825f-bb886f73f93f",
+          "type": "column",
+          "children": [
+            {
+              "id": "e32898d5-4c0b-4d93-bef0-68fb461ed2b4",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3ADprAn\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b45d1219-7cf6-4f4c-8a23-ffbdfd187070",
+      "type": "divider"
+    }
+  ]
+}

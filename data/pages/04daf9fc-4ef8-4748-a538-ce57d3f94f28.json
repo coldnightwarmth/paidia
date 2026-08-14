@@ -1,0 +1,141 @@
+{
+  "id": "04daf9fc-4ef8-4748-a538-ce57d3f94f28",
+  "slug": "sport-and-religion",
+  "title": "Sport & Religion",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Sport-Religion-04daf9fc4ef84748a538ce57d3f94f28?pvs=21",
+  "createdTime": 1668808620327,
+  "lastEditedTime": 1681312376742,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Sport & Religion",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5d9c31429938.webp",
+  "blocks": [
+    {
+      "id": "c73f425d-edc5-4f02-8561-e5c6c746f5a8",
+      "type": "divider"
+    },
+    {
+      "id": "30d446cf-bf25-4256-8909-f2044c7d826b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fdf3c931-6475-43b7-992f-22634a0c3266",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b106d46b-40df-4e70-83c3-05198ed0b1cf",
+          "type": "column",
+          "children": [
+            {
+              "id": "56a16b49-45d9-40a3-88f8-2c2e3f84fdbc",
+              "type": "paragraph",
+              "html": "<em><strong>Sport &amp; Religion</strong></em><strong> i</strong>s a collection of essays edited by Shirl J. Hoffman, published by Human Kinetics, January 1, 1992."
+            },
+            {
+              "id": "7666a754-5b20-4e78-a8d6-76774d18dbba",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2efa47c0-6f4e-4fc9-8b53-98073b63360e",
+              "type": "quote",
+              "html": "<em>Hoffman has compiled a provocative collection of articles and written insightful introductions to the four sections of the book: sport as religion (and sport is not a religion); sport as religious experience; religion in sport; and sport, religion, and ethics. Of interest to a broad audience; the similarities, differences, and interplay offer unique windows into American culture and the collective social conscience.</em>"
+            }
+          ]
+        },
+        {
+          "id": "ef96ce4f-c1a8-4159-8b8a-fc57de398e66",
+          "type": "column",
+          "children": [
+            {
+              "id": "4f0dc51a-9832-4ffd-8603-03cb5dba8b54",
+              "type": "image",
+              "src": "./assets/images/untitled-5d9c31429938.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c532bef2-26bf-4146-8462-ad3eb4cf8d6d",
+      "type": "divider"
+    },
+    {
+      "id": "e0e0eaa0-e902-4f28-b1a1-590446d3eea7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8b7bbc05-c818-4960-a293-50fc38c21a0f",
+          "type": "column",
+          "children": [
+            {
+              "id": "688ddc18-5d6b-4c9b-be0d-a174cdc0075d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "98c7f3b3-59fd-4a06-9e73-4679923ceca8",
+          "type": "column",
+          "children": [
+            {
+              "id": "7f3df2e0-bf1d-4cf3-ab7f-d84fa5ee5ff2",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Sport-Religion-Shirl-J-Hoffman/dp/0873223411/ref=sr_1_49?crid=2PR9U5T8NO9WW&amp;keywords=Sports+and+Christianity&amp;qid=1666894701&amp;qu=eyJxc2MiOiIxLjExIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=sports+and+christianity%2Caps%2C259&amp;sr=8-49\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "999a5483-aa22-442f-8c68-f2ce01666d8e",
+      "type": "divider"
+    },
+    {
+      "id": "badd881c-89f8-46b7-b9e9-fe435d58c1a6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c1460e6b-7f36-4b9c-aa72-647fd0e0b0eb",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "7cd8fa3b-e582-4418-8220-7d15f0d6b399",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

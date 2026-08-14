@@ -1,0 +1,131 @@
+{
+  "id": "8d01bb8f-01cc-448a-b158-54f62a4e605f",
+  "slug": "a-casual-revolution",
+  "title": "A Casual Revolution",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/8d01bb8f01cc448ab15854f62a4e605f",
+  "createdTime": 1651709810745,
+  "lastEditedTime": 1681310013217,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A Casual Revolution",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-bbfe0654de9b.webp",
+  "blocks": [
+    {
+      "id": "a158e09d-0d23-42a5-8263-966b7b4ff1d6",
+      "type": "divider"
+    },
+    {
+      "id": "474f71f6-c04c-4adb-abc5-c45d25b1a514",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0e0df16e-3ebd-45a3-aac5-e9cae5678e36",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6356150a-ac7b-46d1-bc8b-89a4a7826495",
+          "type": "column",
+          "children": [
+            {
+              "id": "8535301f-7bb5-4120-88b5-d43dafb2b7a5",
+              "type": "paragraph",
+              "html": "<em><strong>A Casual Revolution: Reinventing Video Games &amp; Their Players</strong></em> was written by <a href=\"#/jesper-juul\">Jesper Juul</a>, published by The MIT Press, October 9, 2009."
+            },
+            {
+              "id": "b1fde34f-46d9-45e3-8439-5acd446014d4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "63d4b7d1-287c-4215-9838-5b18b57a7b60",
+              "type": "quote",
+              "html": "<em>We used to think that video games were mostly for young men, but with the success of the Nintendo Wii, and the proliferation of games in browsers, cell phone games, and social games video games changed changed fundamentally in the years from 2000 to 2010. These new casual games are now played by men and women, young and old. Players need not possess an intimate knowledge of video game history or devote weeks or months to play. At the same time, many players of casual games show a dedication and skill that is anything but casual. In </em>A Casual Revolution<em>, Jesper Juul describes this as a reinvention of video games, and of our image of video game players, and explores what this tells us about the players, the games, and their interaction. With this reinvention of video games, the game industry reconnects with a general audience. Many of today's casual game players once enjoyed </em>Pac-Man, Tetris<em>, and other early games, only to drop out when video games became more time-consuming and complex. Juul shows that it is only by understanding what a game requires of players, what players bring to a game, how the game industry works, and how video games have developed historically that we can understand what makes video games fun and why we choose to play (or not to play) them.</em>"
+            },
+            {
+              "id": "aebeccb9-c2c3-4b61-9f91-268f2fe501ae",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b387ca7f-cdc1-4dfc-854d-780c8fc714d2",
+          "type": "column",
+          "children": [
+            {
+              "id": "0820e398-93b7-4c17-9433-5c6e683acc18",
+              "type": "image",
+              "src": "./assets/images/untitled-bbfe0654de9b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ec7e4ff-2ee6-4bc4-ab3b-eb58c447afc7",
+      "type": "divider"
+    },
+    {
+      "id": "7e2e6a29-54fc-4494-a524-2973de5bf352",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fee079e2-8813-4564-839a-9d5c5254b1eb",
+          "type": "column",
+          "children": [
+            {
+              "id": "58779f0a-5399-4696-9856-fb89c2f25758",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7db5b8bb-b5cc-4915-b1e4-1a08d08da9f7",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd23abc1-b345-4364-9f12-d9aaf1bff342",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zTed9Z\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3bba96f8-7941-44f9-8a99-adbbb2a91ab1",
+      "type": "divider"
+    }
+  ]
+}

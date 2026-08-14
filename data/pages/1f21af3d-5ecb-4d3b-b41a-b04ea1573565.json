@@ -1,0 +1,146 @@
+{
+  "id": "1f21af3d-5ecb-4d3b-b41a-b04ea1573565",
+  "slug": "the-gods-at-play",
+  "title": "The Gods at Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Gods-at-Play-1f21af3d5ecb4d3bb41ab04ea1573565?pvs=21",
+  "createdTime": 1651706226382,
+  "lastEditedTime": 1681313531183,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Gods at Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-bda92ae7b54d.webp",
+  "blocks": [
+    {
+      "id": "76ffa6eb-d0df-4054-8170-19d436d33ec9",
+      "type": "divider"
+    },
+    {
+      "id": "b018384b-e022-4320-ab42-9684cb7a781a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "117e2036-2b56-459a-8c26-42162c3ed3a0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bfb2e2ce-38c5-4955-af2c-8d357e5efb70",
+          "type": "column",
+          "children": [
+            {
+              "id": "44222761-050a-4dfe-880f-36f75ce3f1b9",
+              "type": "paragraph",
+              "html": "<em><strong>The Gods at Play: Līlā in South Asia </strong></em>is a collection of essays edited by William S. Sax, published by Oxford University Press, March 16, 1995."
+            }
+          ]
+        },
+        {
+          "id": "dfc28f30-db5a-44f3-a8bf-43c7758fe859",
+          "type": "column",
+          "children": [
+            {
+              "id": "cf3e7d05-4984-4d5c-8c61-587fb109ca3d",
+              "type": "image",
+              "src": "./assets/images/untitled-bda92ae7b54d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ba68bc1-8159-4708-8a99-751633f3a6eb",
+      "type": "divider"
+    },
+    {
+      "id": "a56c5abc-caa3-43f5-a57e-944fb0648246",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6c45acfd-b820-4c2a-9029-5ccd9510bfc6",
+          "type": "column",
+          "children": [
+            {
+              "id": "e39e436e-30e5-46c7-8a63-3e2e2e725d4c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9e808dd5-350f-46c9-b5c0-39c008d2950d",
+          "type": "column",
+          "children": [
+            {
+              "id": "73f37b18-0976-4c1c-8a34-ef645e54487e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3GcV8RX\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da4d4ddf-4d16-4a68-97cb-435be20f74e5",
+      "type": "divider"
+    },
+    {
+      "id": "06bc9a30-53b9-4a73-ba32-2a391a950025",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "9b5c7222-4b7d-4b9a-8f99-a8437ea5ab86",
+      "type": "paragraph",
+      "html": "<a href=\"#/l-l\">Līlā</a> (<em>concept</em>)"
+    },
+    {
+      "id": "9e75dacf-5723-48a4-983f-98b486446eca",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "eb76ef33-fae2-43e4-b537-998cb42816d2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b2f18646-c22d-4db9-b249-cd5790f2f915",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "aa9743d7-0ad8-4ab8-807c-17ef72ce9309",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

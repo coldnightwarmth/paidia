@@ -1,0 +1,136 @@
+{
+  "id": "fb2adce3-1057-4d86-80ad-5a72b43df590",
+  "slug": "hamlet-on-the-holodeck",
+  "title": "Hamlet on the Holodeck",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Hamlet-on-the-Holodeck-fb2adce310574d8680ad5a72b43df590?pvs=21",
+  "createdTime": 1651868069010,
+  "lastEditedTime": 1681314159948,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Hamlet on the Holodeck",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8613661a5e72.webp",
+  "blocks": [
+    {
+      "id": "a2ce763b-a6be-4bd3-a68e-d3b72875d1d4",
+      "type": "divider"
+    },
+    {
+      "id": "b088e34d-2ee3-4a7f-803e-63e522f7ab84",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f8c1e374-c626-45e8-ae54-19e55e8cdf03",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d8b2a2cd-5a11-4643-9d82-fd72be4f3d8d",
+          "type": "column",
+          "children": [
+            {
+              "id": "c65b1aa6-e274-4599-8512-f28f67b4927d",
+              "type": "paragraph",
+              "html": "<em><strong>Hamlet on the Holodeck: The Future of Narrative in Cyberspace </strong></em>was written by Janet H. Murray, published by The MIT Press in 1997."
+            },
+            {
+              "id": "489ba9be-ca34-4140-bb8e-92699f825660",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d22a72fe-7b84-482f-ab06-63087c4df0f1",
+              "type": "quote",
+              "html": "<em>Janet Murray's </em>Hamlet on the Holodeck<em> was instantly influential and controversial when it was first published in 1997. Ahead of its time, it accurately predicted the rise of new genres of storytelling from the convergence of traditional media forms and computing. Taking the long view of artistic innovation over decades and even centuries, it remains forward-looking in its description of the development of new artistic traditions of practice, the growth of participatory audiences, and the realization of still-emerging technologies as consumer products. This updated edition of a book the New Yorker calls a “cult classic” offers a new introduction by Murray and chapter-by-chapter commentary relating Murray's predictions and enduring design insights to the most significant storytelling innovations of the past twenty years, from long-form television to artificial intelligence to virtual reality.<br><br>Murray identifies the powerful new set of expressive affordances that computing offers for the ancient human activity of storytelling and considers what would be necessary for interactive narrative to become a mature and compelling art form. Her argument met with some resistance from print loyalists and postmodern hypertext enthusiasts, and it provoked a foundational debate in the emerging field of game studies on the relationship between narrative and videogames. But since Hamlet on the Holodeck's publication, a practice that was largely speculative has been validated by academia, artistic practice, and the marketplace. In this substantially updated edition, Murray provides fresh examples of expressive digital storytelling and identifies new directions for narrative innovation.</em>"
+            },
+            {
+              "id": "69cd7c13-ee79-428c-93d3-123ecd6a66ba",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "22636d94-af5e-4c5b-ad2e-7181fd01c87e",
+          "type": "column",
+          "children": [
+            {
+              "id": "e0b00483-d08c-4f4c-9df7-03306ecc360f",
+              "type": "image",
+              "src": "./assets/images/untitled-8613661a5e72.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe9671a5-c66e-4868-bfbc-548d2644f18e",
+      "type": "divider"
+    },
+    {
+      "id": "a78bd7dd-e294-4d8b-beab-9b0e54f9fb66",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2077cfbb-f3ab-4389-b2c7-9fd224aa0baa",
+          "type": "column",
+          "children": [
+            {
+              "id": "24cd4390-b5ec-4142-b14a-3c86803be3a9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "49649a8a-5c81-4642-9f95-c1f997432e4b",
+          "type": "column",
+          "children": [
+            {
+              "id": "ae8790b0-1483-44ff-befc-29b95fbc5d06",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3MdhLHZ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b34e1ab4-4526-4139-bfb1-56a5e4ae62e6",
+      "type": "divider"
+    },
+    {
+      "id": "d2294ef3-8756-4896-b10c-e129139f07e4",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

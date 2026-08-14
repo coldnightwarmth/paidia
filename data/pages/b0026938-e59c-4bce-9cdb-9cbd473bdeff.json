@@ -1,0 +1,121 @@
+{
+  "id": "b0026938-e59c-4bce-9cdb-9cbd473bdeff",
+  "slug": "alphago-vs-lee-seedol",
+  "title": "AlphaGo vs. Lee Seedol",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/AlphaGo-vs-Lee-Seedol-b0026938e59c4bce9cdb9cbd473bdeff?pvs=21",
+  "createdTime": 1651685303790,
+  "lastEditedTime": 1681310813351,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "AlphaGo vs. Lee Seedol"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0a9a53bd5ae7.webp",
+  "blocks": [
+    {
+      "id": "bef81776-f32b-45a9-8f59-3ec6d968a464",
+      "type": "divider"
+    },
+    {
+      "id": "9a383f28-7b8b-4784-856f-7153e38ce7ce",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "26cb1e72-da2d-4c59-a1ab-80150c891f0c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d180b880-ca62-4b1e-80d5-8650f9d05091",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd88cdbc-efc7-4eff-99a7-e039fb9d0d5e",
+              "type": "paragraph",
+              "html": "<em><strong>AlphaGo vs Lee Sedol: The Match that Changed the World of Go</strong></em><strong> </strong>was written by Yuan Zhou, self-published  through CreateSpace on January 31, 2017."
+            },
+            {
+              "id": "5aba03b9-5131-4680-b171-971bf50cd51c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d41d31d5-4ce8-479c-b803-db8229379f50",
+              "type": "quote",
+              "html": "<em>Zhou gives detailed commentaries on the five game match between the computer program AlphaGo and the top professional go player Lee Sedol. He gives special attention to the strengths and weaknesses of this computer program that is creating a sensation in the go world by winning virtually all its games against the strongest human players.</em>"
+            }
+          ]
+        },
+        {
+          "id": "1b8f5643-922c-41ec-87f2-dde2f589509b",
+          "type": "column",
+          "children": [
+            {
+              "id": "1be27dc9-3b30-4d2c-b89b-3843603096d9",
+              "type": "image",
+              "src": "./assets/images/untitled-0a9a53bd5ae7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "149d4304-847a-4225-8079-ecd433248f32",
+      "type": "divider"
+    },
+    {
+      "id": "38078a62-c1bf-42af-8427-80d881f88964",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bf7c3342-e3c5-4ec9-947f-44f25766e392",
+          "type": "column",
+          "children": [
+            {
+              "id": "a62a23c6-9616-43e1-8eba-316abe6737d9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f18f10ea-8aa2-4ad1-9286-397462a8932a",
+          "type": "column",
+          "children": [
+            {
+              "id": "198bb6f1-6c60-4042-b4f1-f4470355b163",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xQ0H57\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e14d53a-a1f8-4b28-b136-c83d30e6a8b1",
+      "type": "divider"
+    }
+  ]
+}

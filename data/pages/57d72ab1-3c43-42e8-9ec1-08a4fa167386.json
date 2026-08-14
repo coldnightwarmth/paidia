@@ -1,0 +1,46 @@
+{
+  "id": "57d72ab1-3c43-42e8-9ec1-08a4fa167386",
+  "slug": "game-design-library",
+  "title": "Game design library",
+  "icon": "📚",
+  "cover": "",
+  "type": "page",
+  "parentId": "d02701b6-e3a0-42cc-aba7-e48629f57331",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/57d72ab13c4342e89ec108a4fa167386",
+  "createdTime": 1680081713525,
+  "lastEditedTime": 1713942644146,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Game design library"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "d7dc88fa-5368-4ed1-b805-65305b207b4d",
+      "type": "paragraph",
+      "html": "A collection of specialist game design books to learn and expand your game design skills."
+    },
+    {
+      "id": "68de26ee-6c2a-45dc-a507-075d72e98926",
+      "type": "paragraph",
+      "html": "Know of a useful book and want to add it? Reach out to me on my socials: <a href=\"https://twitter.com/moreelen\" target=\"_blank\" rel=\"noreferrer\">Twitter</a> | <a href=\"https://www.tiktok.com/@moreelen\" target=\"_blank\" rel=\"noreferrer\">TikTok</a> | <a href=\"https://www.linkedin.com/in/moreelen/\" target=\"_blank\" rel=\"noreferrer\">LinkedIn</a>."
+    },
+    {
+      "id": "03cb98f9-83ae-4f4d-96f7-d18c316ed2f7",
+      "type": "collection_view",
+      "collectionId": "a07b292a-7982-4db7-bd3f-ace70b0ad1ea",
+      "viewIds": [
+        "ce9b5ec5-4ff9-46e1-b59e-96295a1ec2de"
+      ],
+      "title": ""
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "a64014d2-2ca9-42ac-bf80-f2cc492416d4",
+  "slug": "quest-for-excitement",
+  "title": "Quest for Excitement",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Quest-for-Excitement-a64014d22ca942acbf80f2cc492416d4?pvs=21",
+  "createdTime": 1667319795145,
+  "lastEditedTime": 1681312674098,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Quest for Excitement",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-35c60ce3e7dc.webp",
+  "blocks": [
+    {
+      "id": "1df0b23c-a46e-4107-a1ff-f68a6024da4c",
+      "type": "divider"
+    },
+    {
+      "id": "65947a89-471d-4104-9f27-dcd2b7e37c66",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "12da001e-6369-4630-b219-ce08ae812bb0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a3cbf6a3-c848-4053-8010-e009484b5a96",
+          "type": "column",
+          "children": [
+            {
+              "id": "226d2e6f-56d6-4d73-8a6a-48e4923ce288",
+              "type": "paragraph",
+              "html": "<em><strong>Quest for Excitement: Sport &amp; Leisure in the Civilizing Process </strong></em>was written by Norbert Elias &amp; Eric Dunning, published by Basil Blackwell, January 1, 1986."
+            },
+            {
+              "id": "08936100-8577-4554-88e6-483e68895c1e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e672255f-11ff-4466-9456-610a557d1004",
+              "type": "quote",
+              "html": "<em>Discusses classical Greek wrestling, the English foxhunt, medieval ball games, and modern soccer, and examines the psychological, sociological, and biological aspects of sports.</em>"
+            }
+          ]
+        },
+        {
+          "id": "17006c90-f77f-4e6c-acb9-8a653a82765a",
+          "type": "column",
+          "children": [
+            {
+              "id": "f10c2186-3035-49ca-86a3-851d8b10896c",
+              "type": "image",
+              "src": "./assets/images/untitled-35c60ce3e7dc.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8be4c7d2-0c54-4a49-b843-239563d67918",
+      "type": "divider"
+    },
+    {
+      "id": "8d514f70-838c-4791-802d-fcdda22e81d5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f56121b7-602f-4b51-bbdc-3055e47429cd",
+          "type": "column",
+          "children": [
+            {
+              "id": "1515ba7b-9963-492d-9d1f-2670b5819427",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a760552e-2a98-45f0-bdbc-0764ce1d609c",
+          "type": "column",
+          "children": [
+            {
+              "id": "d3063d17-a191-47a2-8d8a-77c351b8ef0b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DugFVh\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f6cf649-314f-446f-b609-ca25fbef348d",
+      "type": "divider"
+    },
+    {
+      "id": "af41defc-fe35-4a18-84bd-33d3d496e000",
+      "type": "paragraph",
+      "html": "see also:"
+    },
+    {
+      "id": "3c9f9709-c024-4afe-8578-aba7f23e926e",
+      "type": "paragraph",
+      "html": "<a href=\"#/sport-and-leisure-in-the-civilizing-process\">Sport &amp; Leisure in the Civilizing Process</a> (<em><em><em><em><em>book</em></em></em></em></em>)"
+    }
+  ]
+}

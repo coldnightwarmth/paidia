@@ -1,0 +1,126 @@
+{
+  "id": "495faecc-a06f-4aeb-961e-294e60cd9f4a",
+  "slug": "techgnosis",
+  "title": "TechGnosis",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/TechGnosis-495faecca06f4aeb961e294e60cd9f4a?pvs=21",
+  "createdTime": 1651684893609,
+  "lastEditedTime": 1681313585788,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "TechGnosis"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-67ca98463825.webp",
+  "blocks": [
+    {
+      "id": "c7972a94-427e-41ce-b25a-041d4903e519",
+      "type": "divider"
+    },
+    {
+      "id": "173a69de-7193-4ec8-bc2e-053daa4b1694",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b617ba05-2510-4755-ab06-76452cc8186b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "625d7c3b-82dd-458e-838c-60b62d57990d",
+          "type": "column",
+          "children": [
+            {
+              "id": "ea7276a6-8519-469b-ac21-af806d9ce904",
+              "type": "paragraph",
+              "html": "<em><strong>TechGnosis: Myth, Magic, and Mysticism in the Age of Information</strong></em> was written by Erik Davis, originally published by Harmony Books in 1998."
+            },
+            {
+              "id": "d6310520-5f90-48a2-9daa-be6ae4b66206",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d6c1803f-3c78-40d6-8ead-50fa7626a51b",
+              "type": "quote",
+              "html": "TechGnosis<em> is a cult classic of media studies that straddles the line between academic discourse and popular culture; it appeals to both those secular and spiritual, to fans of cyberpunk and hacker literature and culture as much as new-thought adherents and spiritual seekers.<br><br>How does our fascination with technology intersect with the religious imagination? In </em>TechGnosis<em>—a cult classic now updated and reissued with a new afterword—Erik Davis argues that while the realms of the digital and the spiritual may seem worlds apart, esoteric and religious impulses have in fact always permeated (and sometimes inspired) technological communication.<br><br>Davis uncovers startling connections between such seemingly disparate topics as electricity and alchemy; online roleplaying games and religious and occult practices; virtual reality and gnostic mythology; programming languages and Kabbalah. The final chapters address the apocalyptic dreams that haunt technology, providing vital historical context as well as new ways to think about a future defined by the mutant intermingling of mind and machine, nightmare and fantasy.</em>"
+            },
+            {
+              "id": "bf2e92b3-3460-4692-a5cb-72837fbd35b2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ab850af2-bf89-464a-8aea-912a7836c9e2",
+          "type": "column",
+          "children": [
+            {
+              "id": "812d78d4-c6e5-4c87-a082-fb4755164687",
+              "type": "image",
+              "src": "./assets/images/untitled-67ca98463825.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bcf146b2-c476-491d-b358-760b9451a7c5",
+      "type": "divider"
+    },
+    {
+      "id": "dfdc88f6-b87d-413e-aad6-3bc13fb6277c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6cde1dac-4731-42fe-abf0-faac71bd9866",
+          "type": "column",
+          "children": [
+            {
+              "id": "11eefe96-95f3-49b4-9521-7ca5d8884f01",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6a404ec1-a790-47d3-bfc9-21e230378163",
+          "type": "column",
+          "children": [
+            {
+              "id": "057614a1-0a60-4c1c-961f-951d511d4ed2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NeDAXh\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a6b1506-4972-46d5-bedc-e2dd768cde7d",
+      "type": "divider"
+    }
+  ]
+}

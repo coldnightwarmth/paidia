@@ -1,0 +1,99 @@
+{
+  "id": "a91c429c-121f-4a12-8320-bd15cea4b1a3",
+  "name": "Games Database",
+  "schema": {
+    "Wkec": {
+      "id": "Wkec",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "ZLnP": {
+      "id": "ZLnP",
+      "name": "Creator",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "3f87aa4e-f6f9-43f0-a1a3-e14fc33ff584",
+      "collectionId": "a91c429c-121f-4a12-8320-bd15cea4b1a3",
+      "type": "gallery",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "aced1a44-db22-4f31-856a-a4ca4d33acdb",
+        "b465730a-c303-49b8-ad76-9710f029927f",
+        "fe15832c-eaf1-49b3-836a-fcea52c2d380",
+        "4956bc94-142a-4569-b6f3-a661a75be4ae",
+        "578e13ae-0a5d-48e5-95a7-ab5c5ee3cdcf",
+        "237680b5-9154-4851-914c-a7eb89c9553a",
+        "f9c88309-5a5c-406c-91d1-30345a37d52b",
+        "654967a7-65a7-420f-9045-3f4e95976380",
+        "0f0d5f2a-328a-4e0c-8540-b7ca50119f2a",
+        "e9244068-9464-4d94-9969-af44325b666e",
+        "842b54c4-bb8c-4d16-9838-abb450477051",
+        "928a43a1-02bb-4a09-9ebe-227b2eff7c55"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 276
+        },
+        {
+          "property": "Wkec",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "ZLnP",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "Wkec",
+          "visible": false,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "medium",
+      "galleryCoverAspect": "contain"
+    }
+  ],
+  "rows": []
+}

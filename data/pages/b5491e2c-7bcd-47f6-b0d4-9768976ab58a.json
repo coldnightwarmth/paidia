@@ -1,0 +1,126 @@
+{
+  "id": "b5491e2c-7bcd-47f6-b0d4-9768976ab58a",
+  "slug": "inter-vention",
+  "title": "Inter/vention",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Inter-vention-b5491e2c7bcd47f6b0d49768976ab58a?pvs=21",
+  "createdTime": 1651684357271,
+  "lastEditedTime": 1681314228877,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Inter/vention"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4cf8d963c4b3.webp",
+  "blocks": [
+    {
+      "id": "3790b840-d0ec-4f1a-a8ab-ef623cfac923",
+      "type": "divider"
+    },
+    {
+      "id": "192dda42-9431-43a6-8351-77c89caab6e4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "31a331e6-f0c5-48c0-96d7-31c4847afa72",
+      "type": "columns",
+      "children": [
+        {
+          "id": "863be236-ae4d-402a-9d55-34a0c8de5d0f",
+          "type": "column",
+          "children": [
+            {
+              "id": "31344021-ab51-4664-878e-6166d333306a",
+              "type": "paragraph",
+              "html": "<em><strong>Inter/vention: Free Play in the Age of Electracy</strong></em> was written by Jan Rune Holmevik, published by The MIT Press, March 23, 2012."
+            },
+            {
+              "id": "b5e897c6-df4b-4985-859f-8f7587c7f9db",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ffc2fbc4-7777-47f5-98d4-b580d9f698c9",
+              "type": "quote",
+              "html": "<em>A proposal that electracy―the special skills needed to navigate and understand our digital world―can be developed through play.<br><br>In today's complex digital world, we must understand new media expressions and digital experiences not simply as more technologically advanced forms of “writing” that can be understood and analyzed as “texts” but as artifacts in their own right that require a unique skill set. Just as agents seeking to express themselves in alphabetic writing need to be literate, “egents” who seek to express themselves in digital media need to be―to use a term coined by cybertheorist Gregory Ulmer―electrate. In </em>Inter/vention<em>, Jan Holmevik helps to invent electracy. He does so by tracing its path across the digital and rhetorical landscape―informatics, hacker heuretics, ethics, pedagogy, virtual space, and monumentality―and by introducing play as a new genre of electracy. Play, he argues, is the electrate ludic transversal. Holmevik contributes to the repertoire of electrate practices in order to understand and demonstrate how play invents electracy.<br><br>Holmevik's argument straddles two divergences: in rhetoric, between how we study rhetoric as play and how we play rhetorically; and in game studies, between ludology and narratology. Games studies has forged ludology practice by distinguishing it from literate practice (and often allying itself with the scientific tradition). Holmevik is able to link ludology and rhetoric through electracy.<br><br>Play can and does facilitate invention: play invented the field of ludology. Holmevik proposes a new heuretic in which play acts as a conductor for the invention of electracy. Play is a meta behavior that touches on every aspect of Ulmer's concept of electracy.</em>"
+            },
+            {
+              "id": "14b1e729-5955-47d0-9e2d-80054c00479f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8139c6e4-3763-420e-bfad-ba17b4d1ee50",
+          "type": "column",
+          "children": [
+            {
+              "id": "113dd458-fcf6-4797-941f-c663c1cef188",
+              "type": "image",
+              "src": "./assets/images/untitled-4cf8d963c4b3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3624a24-43ed-4dad-828f-261b83a5f025",
+      "type": "divider"
+    },
+    {
+      "id": "0787d867-2b19-45f0-ae86-26bfbc18119a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ee9cabf7-a791-43d2-816b-7e223649105c",
+          "type": "column",
+          "children": [
+            {
+              "id": "0221a678-c894-42be-9973-a931d0ad8d2b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "09c5e877-0044-4092-9dcf-0f72c0f278ff",
+          "type": "column",
+          "children": [
+            {
+              "id": "61dec42c-7235-433a-9d1f-6efac0f5d381",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3HONY7e\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b30faad-8d57-4865-8aa3-d8fae02650c2",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ac571ad7-290e-480c-b0fe-5257bc64731d",
+  "slug": "balance-of-power",
+  "title": "Balance of Power",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Balance-of-Power-ac571ad7290e480cb0fe5257bc64731d?pvs=21",
+  "createdTime": 1653170753626,
+  "lastEditedTime": 1681311091165,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Balance of Power",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9e0170616840.webp",
+  "blocks": [
+    {
+      "id": "b73176bf-9d0a-4760-8953-c336830d338a",
+      "type": "divider"
+    },
+    {
+      "id": "9c954d20-e54d-41b1-8475-27fd08426730",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0c86d57f-e24d-48f8-8be6-01dd3437a2d2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6f537e9f-deaf-44b6-a7e5-e66afe54a4fa",
+          "type": "column",
+          "children": [
+            {
+              "id": "281e489e-0ca2-4ec7-9277-c7ec7c04f897",
+              "type": "paragraph",
+              "html": "<em><strong>Balance of Power: International Politics As the Ultimate Global Game</strong></em> was written by Chris Crawford, published by Microscope Pubns Ltd, January 1, 1986."
+            },
+            {
+              "id": "4866cc79-7ef4-4a66-8897-c3c2bd2b07a0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "083f3f96-7abe-479a-9918-b1699592f070",
+              "type": "quote",
+              "html": "<em>A work that explores the subtleties of the game </em>Balance of Power<em> and the strategems of geopolitics. </em>Balance of Power <em>is a computer strategy game of geopolitics during the Cold War, created by Chris Crawford and published in 1985 on the Apple Macintosh by Mindscape, followed by ports to a variety of platforms over the next two years. In the game, the player takes the role of the President of the United States or General Secretary of the Soviet Union. The goal is to improve the player's country's standing in the world relative to the other superpower. During each yearly turn, random events occur that may have effects on the player's international prestige. The player can choose to respond to these events in various ways, which may prompt a response from the other superpower. This creates brinkmanship situations between the two nations, potentially escalating to a nuclear war, which ends the game.</em>"
+            },
+            {
+              "id": "57c98bbd-2369-46ed-b942-799032591d50",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "76e743de-526d-4048-9439-1bc156e0a526",
+          "type": "column",
+          "children": [
+            {
+              "id": "8651b06f-65d7-4b53-8347-94789778e079",
+              "type": "image",
+              "src": "./assets/images/untitled-9e0170616840.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2c59545d-fb7b-47e6-8ade-8c0b25985afd",
+      "type": "divider"
+    },
+    {
+      "id": "65363b2a-acd7-4c8d-b4c2-b79f81fa5978",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ac1a9a75-6369-4673-b5f1-788110636d6b",
+          "type": "column",
+          "children": [
+            {
+              "id": "0d9f8f48-3c92-4804-9e25-89bc75a12f5c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b6011bb0-6679-4a65-8311-7fd610c49783",
+          "type": "column",
+          "children": [
+            {
+              "id": "228c4662-d03a-4393-9bc8-270592252aa7",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fpnSxN\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d67cf8bf-e5f3-4963-8076-f386d61dd379",
+      "type": "divider"
+    }
+  ]
+}

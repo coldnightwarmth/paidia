@@ -1,0 +1,131 @@
+{
+  "id": "016aa47a-789e-4314-ad87-54546e5b30b2",
+  "slug": "play-and-literacy",
+  "title": "Play & Literacy",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "dc1a5b41-989b-4ad9-aea0-7c0116e8c23a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Play-Literacy-016aa47a789e4314ad8754546e5b30b2?pvs=21",
+  "createdTime": 1652724915647,
+  "lastEditedTime": 1681314084762,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play & Literacy",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c434a38df6ce.webp",
+  "blocks": [
+    {
+      "id": "218b24e6-83ee-4fdb-961f-312763d160cd",
+      "type": "divider"
+    },
+    {
+      "id": "51c38212-cfa9-4cb0-a7a8-363039700bf1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a88357d5-6a90-477a-b784-8aad97ce72f1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1ae0902b-7156-466e-a943-b9919f56ad98",
+          "type": "column",
+          "children": [
+            {
+              "id": "414c25a6-7896-4e28-bd3d-a1971708b2f6",
+              "type": "paragraph",
+              "html": "<strong><em>Play &amp; Literacy: Play &amp; Culture Studies</em></strong><em> </em>is a collection of essays edited by Myae Han &amp; James E. Johnson, published by Hamilton Books, February 4, 2021."
+            },
+            {
+              "id": "856561ef-1cb1-41c5-a363-352213c49b03",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0afbd1df-6a8b-4ab5-98f5-37358c6dec2c",
+              "type": "quote",
+              "html": "How do we save play in a standard-driven educational environment? This edited collection, <em>Play and Literacy: Play &amp; Culture Studies</em> provides a direct answer and solutions to this question. Researchers and theorists have argued for decades that play is the best way to learn language and literacy for children. This book provides theoretical and historical foundation of connection between play and literacy, applied research studies as well as practical strategies to connect play and literacy in early childhood and in teacher education. This book features chapters on the history of play and literacy research, book-play paradigm, play in digital writing, book-based play activities, play-based reader responses, classroom dynamics affecting literacy learning in play, and using play with adults in teacher education such as drama-based instruction. Variety of chapters addressing the strong connection between play and literacy will satisfy the readers who seek to understand the relationship between play and literacy and implement ways to use play to support language and literacy."
+            }
+          ]
+        },
+        {
+          "id": "c39cbce9-af9c-460b-8520-5224ff2b3f40",
+          "type": "column",
+          "children": [
+            {
+              "id": "008a0cc1-d674-4a9c-9ecf-1b49aefe591b",
+              "type": "image",
+              "src": "./assets/images/untitled-c434a38df6ce.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "702e6859-61e5-431a-98e5-e9ec14ec8ba3",
+      "type": "divider"
+    },
+    {
+      "id": "fc1de561-8622-407f-b5f8-0f7327ab1396",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ac598a73-c093-41e8-b44e-55a88cfcb37b",
+          "type": "column",
+          "children": [
+            {
+              "id": "12bc7443-7139-426f-bd36-546e182a0b95",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0507861a-5617-421b-9777-36bb2fca5cfb",
+          "type": "column",
+          "children": [
+            {
+              "id": "afeea86a-a1e4-4b5d-bf79-3d9cb205c0bf",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3nk9yHq\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa83d0b7-1890-4a35-9ebd-655542221c13",
+      "type": "divider"
+    },
+    {
+      "id": "3552701d-1386-4bd4-a208-41108ae990ae",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

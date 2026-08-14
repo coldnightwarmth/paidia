@@ -1,0 +1,131 @@
+{
+  "id": "50c3ded4-4aca-4ff4-994e-cd8fa7a7401e",
+  "slug": "the-montessori-method",
+  "title": "The Montessori Method",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Montessori-Method-50c3ded44aca4ff4994ecd8fa7a7401e?pvs=21",
+  "createdTime": 1667399176178,
+  "lastEditedTime": 1681312659938,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Montessori Method",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-739915fe0e02.webp",
+  "blocks": [
+    {
+      "id": "feff6466-7bab-4ca1-a9f1-7339b50f3bdc",
+      "type": "divider"
+    },
+    {
+      "id": "628f1f95-9f7f-44c6-af64-d7496ea45544",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a40eb726-c01b-4c75-b41a-f7d30e968bfa",
+      "type": "columns",
+      "children": [
+        {
+          "id": "01ad33ef-733a-46f0-945c-bfaca781bd09",
+          "type": "column",
+          "children": [
+            {
+              "id": "5f3d75bb-2f8e-42d0-b5f6-535006f531ff",
+              "type": "paragraph",
+              "html": "<em><strong>The Montessori Method</strong></em> was written by <a href=\"#/maria-montessori\">Maria Montessori</a>, originally published by Frederick A. Stokes Company in 1912."
+            },
+            {
+              "id": "8e360aaf-bbc2-479d-bc16-67448bb02b30",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b4c863f8-d088-4b5d-93d2-a16dfbd093e7",
+              "type": "quote",
+              "html": "<em>This is, quite simply, one of the landmark books in the history of education. Written by influential Italian educator Maria Montessori (1870–1952), it describes a new system for educating young children based on materials and methods she originally developed to teach retarded students. The techniques proved highly effective with normal children as well. Her system, based on a radical conception of liberty for the pupil and a highly formal training of separate sensory, motor, and mental capacities, led to rapid and substantial mastery of reading, writing, and arithmetic. In </em>The Montessori Method<em> (1912), her first book, Dr. Montessori outlines her techniques in discussions of such topics as scientific pedagogy; discipline; diet; gymnastics; manual labor; education of the senses; methods for teaching reading, writing, and arithmetic; and many other topics. The Dover edition is the least expensive edition available, making this seminal classic widely accessible to teachers, principals, parents — anyone interested in the education of young children.</em>"
+            },
+            {
+              "id": "d896ec83-6af7-4f71-bb66-d276ef52a169",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f2c85cfa-54ed-4e5d-866a-b178dc61c114",
+          "type": "column",
+          "children": [
+            {
+              "id": "c433d332-0345-4031-af2c-83db73fd9dcc",
+              "type": "image",
+              "src": "./assets/images/untitled-739915fe0e02.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de2b78cb-d6c4-444f-81c7-a4ac7b7b4da1",
+      "type": "divider"
+    },
+    {
+      "id": "6959b4fd-bdc5-4314-8f8d-1dc93ca57511",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a31beff7-b9e8-4f4e-8132-350cc49a31b1",
+          "type": "column",
+          "children": [
+            {
+              "id": "1e52a0a0-bdc2-4377-b9a4-6a6109bab025",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "29923797-b0e3-468d-835e-89a47ba3c6b3",
+          "type": "column",
+          "children": [
+            {
+              "id": "f2295235-5775-4443-9926-31936cbf0321",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DnRBis\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7798d203-fb96-4290-b567-a6d928af3c35",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "d7a8101b-b259-4bbf-a548-400e715319f0",
+  "slug": "game-feel",
+  "title": "Game Feel",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Game-Feel-d7a8101bb2594bbfa548400e715319f0?pvs=21",
+  "createdTime": 1651769065699,
+  "lastEditedTime": 1681313872858,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Game Feel",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-892d6810bfb0.webp",
+  "blocks": [
+    {
+      "id": "c9d25de3-273e-4eda-9048-6960ca238742",
+      "type": "divider"
+    },
+    {
+      "id": "a829f499-c648-4d17-9038-df7ed7c0f32a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "333993a7-e80f-4800-aebb-204398233312",
+      "type": "columns",
+      "children": [
+        {
+          "id": "193cd16e-1b8e-41e8-a55d-a5b2610497de",
+          "type": "column",
+          "children": [
+            {
+              "id": "235230bc-80e2-45d2-b1fb-16765957f900",
+              "type": "paragraph",
+              "html": "<em><strong>Game Feel: A Game Designer's Guide to Virtual Sensation </strong></em>was written by Steve Swink, published by CRC Press, October 13, 2008."
+            },
+            {
+              "id": "09697c01-7858-4db4-b6d9-382d63c7753a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c698a64a-8004-4e41-b49f-3e0407f239a2",
+              "type": "quote",
+              "html": "Game Feel <em>exposes &quot;feel&quot; as a hidden language in game design that no one has fully articulated yet. The language could be compared to the building blocks of music (time signatures, chord progressions, verse) - no matter the instruments, style or time period - these building blocks come into play. Feel and sensation are similar building blocks where game design is concerned. They create the meta-sensation of involvement with a game.<br><br>The understanding of how game designers create feel, and affect feel are only partially understood by most in the field and tends to be overlooked as a method or course of study, yet a game's feel is central to a game's success. This book brings the subject of feel to light by consolidating existing theories into a cohesive book.<br><br>The book covers topics like the role of sound, ancillary indicators, the importance of metaphor, how people perceive things, and a brief history of feel in games.<br><br>The associated web site contains a playset with ready-made tools to design feel in games, six key components to creating virtual sensation. There's a play palette too, so the desiger can first experience the importance of that component by altering variables and feeling the results. The playset allows the reader to experience each of the sensations described in the book, and then allows them to apply them to their own projects. Creating game feel without having to program, essentially. The final version of the playset will have enough flexibility that the reader will be able to use it as a companion to the exercises in the book, working through each one to create the feel described.</em>"
+            },
+            {
+              "id": "60f51580-14fe-4f08-9b7b-8311203b3685",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "54ceeb74-5b22-4f9c-98f1-d328c280af20",
+          "type": "column",
+          "children": [
+            {
+              "id": "84acd4d4-1d4d-4b24-a25e-be33302fadb5",
+              "type": "image",
+              "src": "./assets/images/untitled-892d6810bfb0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d00d2750-b86f-4ba7-9758-42703a800a63",
+      "type": "divider"
+    },
+    {
+      "id": "1b53df1e-f042-4d24-85b4-8a071e78cddb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "59f9a736-d768-47ec-8c69-f41c21853bec",
+          "type": "column",
+          "children": [
+            {
+              "id": "cabae171-6f28-4a70-a12e-7571ff9acdcc",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "da518107-df66-4afc-8b9f-faae290cef99",
+          "type": "column",
+          "children": [
+            {
+              "id": "83a7d04d-8aed-499c-819e-ad6be9a1fed6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3MRfEKu\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dad337b4-ffb4-42c3-8a12-3cf6dcaebfcd",
+      "type": "divider"
+    },
+    {
+      "id": "abd23b23-06fa-47ef-968e-04f5c8f36482",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "5af88f6b-df31-42f3-a528-0f87bfcfd9a2",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

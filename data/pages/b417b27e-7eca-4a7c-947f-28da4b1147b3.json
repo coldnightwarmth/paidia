@@ -1,0 +1,126 @@
+{
+  "id": "b417b27e-7eca-4a7c-947f-28da4b1147b3",
+  "slug": "arcade-perfect",
+  "title": "Arcade Perfect",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/b417b27e7eca4a7c947f28da4b1147b3",
+  "createdTime": 1653080260713,
+  "lastEditedTime": 1681310903140,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Arcade Perfect",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7d371b139b91.webp",
+  "blocks": [
+    {
+      "id": "ae941825-c429-478f-a62e-a91618c5a62f",
+      "type": "divider"
+    },
+    {
+      "id": "0e1152da-abb9-45f1-afbd-9f79ce8cd932",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9d6e74a2-f8ed-44c1-bcf0-3a74c1555bf2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "aec1cec2-2398-4a8b-8a8d-3a49ffd61da9",
+          "type": "column",
+          "children": [
+            {
+              "id": "e37be649-d016-4950-93db-ec0383ce160b",
+              "type": "paragraph",
+              "html": "<em><strong>Arcade Perfect: How Pac-Man, Mortal Kombat, &amp; Other Coin-Op Classics Invaded the Living Room</strong></em> was written by David L. Craddock, published by Press Start Press, August 31, 2019."
+            },
+            {
+              "id": "e8e7532f-2434-44bb-948e-94ff7bb1e181",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "845fe121-495a-4736-876d-6b6b5ce11428",
+              "type": "quote",
+              "html": "<em>Before personal computers and game consoles, video arcades hosted cutting-edge software consumers couldn’t play anywhere else.<br><br>As companies like Atari, Commodore, and Nintendo disrupted the status quo, publishers charged their developers with an impossible task: Cram the world’s most successful coin-op games into microchips with a fraction of the computing power of arcade hardware.<br><br>From the first Pong machine through the dystopian raceways of San Francisco Rush 2049, A</em>rcade Perfect: How Pac-Man, Mortal Kombat, &amp; Other Coin-Op Classics Invaded the Living Room<em> takes readers on an unprecedented behind-the-scenes tour of the decline of arcades and the rise of the multibillion-dollar home games industry.</em>"
+            }
+          ]
+        },
+        {
+          "id": "10bc0f51-d036-4c8b-8f9f-cfee33f23d48",
+          "type": "column",
+          "children": [
+            {
+              "id": "5c51f4f9-4b91-4649-a44f-bc9fe14d751d",
+              "type": "image",
+              "src": "./assets/images/untitled-7d371b139b91.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72f1ad56-d96a-4004-9fbf-03da615462ff",
+      "type": "divider"
+    },
+    {
+      "id": "ecd8e031-2d33-466d-bae5-176288fbc35c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a35df864-660a-4e84-a172-dc27c6f94e3a",
+          "type": "column",
+          "children": [
+            {
+              "id": "d5967924-b729-41fc-9d4a-e33dca2718e8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7dea7933-92a1-4125-91b1-82b4a5cbc6f2",
+          "type": "column",
+          "children": [
+            {
+              "id": "9bf73b87-a9a1-41c7-a94b-acaec2ef8b43",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zxLYxb\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5dd2f74-0368-464a-b9ea-a25c2eaf2b88",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "97bbc1dd-b63c-480c-b1ef-109eac606852",
+  "slug": "aisthesis",
+  "title": "Aisthesis",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Aisthesis-97bbc1ddb63c480cb1ef109eac606852?pvs=21",
+  "createdTime": 1651856154238,
+  "lastEditedTime": 1681310421342,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Aisthesis",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d46f88f731e8.webp",
+  "blocks": [
+    {
+      "id": "a533ab1b-d7e9-4a74-afc3-863206e8e792",
+      "type": "divider"
+    },
+    {
+      "id": "be6ef1d6-96f6-45a2-a314-c81b99ca617e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0d1199ee-7c10-4ce7-be67-a97fde24d037",
+      "type": "columns",
+      "children": [
+        {
+          "id": "17691214-e373-4353-872d-b38ff252aada",
+          "type": "column",
+          "children": [
+            {
+              "id": "b07e44f1-6647-4dca-9d60-51d3dff9d70b",
+              "type": "paragraph",
+              "html": "<em><strong>Aisthesis</strong></em> was written by Jacques Rancière, published by Verso, June 4, 2013."
+            },
+            {
+              "id": "3b2d4d2c-f8ad-4ec2-9721-d9f699f6e1d1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "11bf1ae7-1a52-437b-a8ac-7c10c1ea7527",
+              "type": "quote",
+              "html": "<em>Composed in a series of scenes, </em>Aisthesis<em><br>–Rancière’s definitive statement on the aesthetic–takes its reader from Dresden in 1764 to New York in 1941. Along the way, we view the Belvedere Torso with Winckelmann, accompany Hegel to the museum and Mallarmé to the Folies-Bergère, attend a lecture by Emerson, visit exhibitions in Paris and New York, factories in Berlin, and film sets in Moscow and Hollywood. Rancière uses these sites and events—some famous, others forgotten—to ask what becomes art and what comes of it. He shows how a regime of artistic perception and interpretation was constituted and transformed by erasing the specificities of the different arts, as well as the borders that separated them from ordinary experience. This incisive study provides a history of artistic modernity far removed from the conventional postures of modernism.</em>"
+            }
+          ]
+        },
+        {
+          "id": "8e35148c-5f9e-42b2-bde4-5c7232541f61",
+          "type": "column",
+          "children": [
+            {
+              "id": "af391d06-292c-4e1e-99c3-73ee1b0d0ceb",
+              "type": "image",
+              "src": "./assets/images/untitled-d46f88f731e8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebb398cf-5e45-470f-ad6f-d602593752ac",
+      "type": "divider"
+    },
+    {
+      "id": "451e8b3a-3e2d-420e-8a0c-811526a313a2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c42a921e-5cfb-43ff-83ed-46b63b01dc46",
+          "type": "column",
+          "children": [
+            {
+              "id": "687d4e5e-6167-4fd2-8012-a0c2171f3a23",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1dc383fc-7997-4121-a76f-54323f8e5412",
+          "type": "column",
+          "children": [
+            {
+              "id": "f7fd07db-bb49-4a65-806a-4727ea3d2fcb",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/38j9SCg\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43548c9b-1f63-4c90-8f14-c881f4ba7ac0",
+      "type": "divider"
+    }
+  ]
+}

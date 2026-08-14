@@ -1,0 +1,131 @@
+{
+  "id": "93471317-7903-4473-955f-a8049d898ef4",
+  "slug": "the-master-of-go",
+  "title": "The Master of Go",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Master-of-Go-9347131779034473955fa8049d898ef4?pvs=21",
+  "createdTime": 1658274823268,
+  "lastEditedTime": 1681314122059,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Master of Go",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-630a317306dd.webp",
+  "blocks": [
+    {
+      "id": "bc965940-3b18-46bc-920c-ba8b3bda93bd",
+      "type": "divider"
+    },
+    {
+      "id": "098af3ca-ec26-4653-beb1-9c870f6baac6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "92e8fddd-a9b5-4aee-b091-6cc4b98d04e1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "10424eec-2378-44fc-9f9f-2f9304b44e5b",
+          "type": "column",
+          "children": [
+            {
+              "id": "4de6d706-590d-4081-a57a-c0ebe695e41c",
+              "type": "paragraph",
+              "html": "<strong><em>The Master of Go</em></strong><em> </em>was written by Yasunari Kawabata, originally published in Shincho magazine in 1951, later published as a book in 1954."
+            },
+            {
+              "id": "47f7f9ee-d12f-441b-8d37-deb3e57083fa",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "62250996-74b1-4de0-b41a-63ed52133877",
+              "type": "quote",
+              "html": "<em>Go is a game of strategy in which two players attempt to surround each other’s black or white stones. Simple in its fundamentals, infinitely complex in its execution, Go is an essential expression of the Japanese spirit. And in his fictional chronicle of a match played between a revered and heretofore invincible Master and a younger, more modern challenger, Yasunari Kawabata captured the moment in which the immutable traditions of imperial Japan met the onslaught of the twentieth century.<br><br>The competition between the Master of Go and his opponent, Otaké, is waged over several months and layered in ceremony. But beneath the game’s decorum lie tensions that consume not only the players themselves but their families and retainers—tensions that turn this particular contest into a duel that can only end in death. Luminous in its detail, both suspenseful and serene,<br><br></em>The Master of Go<em> is an elegy for an entire society, written with the poetic economy and psychological acumen that brought Kawabata the Nobel Prize for Literature.</em>"
+            },
+            {
+              "id": "0f2f035a-2f59-46dd-8123-c3bbbf6bc44b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b534774f-f296-478c-996b-705ec90361a4",
+          "type": "column",
+          "children": [
+            {
+              "id": "8bb6f5ce-cdfe-4e9e-9548-95587370b56d",
+              "type": "image",
+              "src": "./assets/images/untitled-630a317306dd.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5043e32a-f8b9-48a6-b27d-81e9fd7518a6",
+      "type": "divider"
+    },
+    {
+      "id": "f22986aa-92b6-4b49-a95a-70357de9f565",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9c2f8559-911c-411a-a571-856f749fa727",
+          "type": "column",
+          "children": [
+            {
+              "id": "11575ee6-7f8a-43c4-b28d-37ecf39f27c0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "52db332b-58ff-4d1d-973c-75a5b1b84590",
+          "type": "column",
+          "children": [
+            {
+              "id": "3601ea4b-63cf-4de3-af12-b0f9d972a646",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OmnueK\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8a8500f-0081-447b-bc06-141c6e1392e7",
+      "type": "divider"
+    }
+  ]
+}

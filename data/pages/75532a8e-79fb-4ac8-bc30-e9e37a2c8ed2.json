@@ -1,0 +1,121 @@
+{
+  "id": "75532a8e-79fb-4ac8-bc30-e9e37a2c8ed2",
+  "slug": "the-incorruptible-cashier",
+  "title": "The Incorruptible Cashier",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Incorruptible-Cashier-75532a8e79fb4ac8bc30e9e37a2c8ed2?pvs=21",
+  "createdTime": 1658276065515,
+  "lastEditedTime": 1681313134306,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Incorruptible Cashier",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-59617a194bba.webp",
+  "blocks": [
+    {
+      "id": "31b3fc8d-2f5e-49ac-9003-2bee6cd76548",
+      "type": "divider"
+    },
+    {
+      "id": "bf02514e-658c-45c5-a8ad-0b8df25aee9f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e9951371-5c7d-4236-b78d-530710be53fb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c035e7ba-3e7c-4710-8a5f-b89e1cd4da4e",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd25c2d2-29ab-4747-8383-b92bcfdff227",
+              "type": "paragraph",
+              "html": "<em><strong>The Incorruptible Cashier, Vol. 1: The Formation of an Industry, 1876-1890</strong></em><strong> </strong>was written by Richard L. Crandall &amp; Sam Robins, published by Vestal Press Ltd, January 1, 1988."
+            },
+            {
+              "id": "cfbf30fa-1725-45af-a7bc-3faecb242e86",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "769f5d61-2b70-4a40-890a-928de72b2a52",
+          "type": "column",
+          "children": [
+            {
+              "id": "b45dcc92-d41f-468c-9c03-adcda64e5b05",
+              "type": "image",
+              "src": "./assets/images/untitled-59617a194bba.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "78419f80-07cc-486b-9f33-897f6809baba",
+      "type": "divider"
+    },
+    {
+      "id": "db272489-ddc7-4467-9b57-64cc198bc713",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f0926632-a442-4a5a-8819-20649f114874",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd22133c-1a94-49dc-b5e5-0c183b524e2d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "73a991b4-5375-4800-903e-aa01484c678a",
+          "type": "column",
+          "children": [
+            {
+              "id": "24bfc596-e3a9-48ff-800b-c04cc2fd6dcc",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3coAQKj\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27891545-ace2-4524-a49e-e8df1050e976",
+      "type": "divider"
+    }
+  ]
+}

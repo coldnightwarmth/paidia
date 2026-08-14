@@ -1,0 +1,136 @@
+{
+  "id": "697123a3-18c0-4059-a7c7-018ce0e319d0",
+  "slug": "cybertext",
+  "title": "Cybertext",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/697123a318c04059a7c7018ce0e319d0",
+  "createdTime": 1651709231385,
+  "lastEditedTime": 1681314161425,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Cybertext"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2a09dd15cd56.webp",
+  "blocks": [
+    {
+      "id": "13d81b8e-dd56-4b1e-9456-c68a4e41a072",
+      "type": "divider"
+    },
+    {
+      "id": "7c9dcb80-a831-429e-baf4-f2ca493fc6bf",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "35be3d4b-2b33-4564-babf-2a77e7073801",
+      "type": "columns",
+      "children": [
+        {
+          "id": "aec88e23-3493-4828-8d73-256f38e6b737",
+          "type": "column",
+          "children": [
+            {
+              "id": "ad22b981-ce28-4d09-a547-0b3b91c497dd",
+              "type": "paragraph",
+              "html": "<em><strong>Cybertext: Perspectives on Ergodic Literature</strong></em> was written by Espen Aarseth, published by Johns Hopkins University Press, September 11, 1997."
+            },
+            {
+              "id": "26fee79a-97a0-4dac-9bbe-feab9f1d354d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e621db35-573e-4ab6-b3f6-9028656ec2b2",
+              "type": "quote",
+              "html": "<em><strong>From computer games to hypertext fiction, Aarseth explores the aesthetics and textual dynamics of digital literature<br><br></strong></em><em>Can computer games be great literature? Do the rapidly evolving and culturally expanding genres of digital literature mean that the narrative mode of discourse―novels, films, television series―is losing its dominant position in our culture? Is it necessary to define a new aesthetics of cyborg textuality?<br><br>In </em>Cybertext<em>, Espen Aarseth explores the aesthetics and textual dynamics of digital literature and its diverse genres, including hypertext fiction, computer games, computer-generated poetry and prose, and collaborative Internet texts such as MUDs. Instead of insisting on the uniqueness and newness of electronic writing and interactive fiction, however, Aarseth situates these literary forms within the tradition of &quot;ergodic&quot; literature―a term borrowed from physics to describe open, dynamic texts such as the </em>I Ching<em> or Apollinaire's calligrams, with which the reader must perform specific actions to generate a literary sequence.<br><br>Constructing a theoretical model that describes how new electronic forms build on this tradition, Aarseth bridges the widely assumed divide between paper texts and electronic texts. He then uses the perspective of ergodic aesthetics to reexamine literary theories of narrative, semiotics, and rhetoric and to explore the implications of applying these theories to materials for which they were not intended.</em>"
+            },
+            {
+              "id": "9531534b-0d2d-42ad-9151-88d9867561f5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "cf98b116-4ed5-4be6-8ee9-988ada76216a",
+          "type": "column",
+          "children": [
+            {
+              "id": "21194d3d-e8c5-4eb4-a163-8dcb2ef99b87",
+              "type": "image",
+              "src": "./assets/images/untitled-2a09dd15cd56.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2760601-1020-4412-b164-588ee4f24dfb",
+      "type": "divider"
+    },
+    {
+      "id": "6b497589-b796-44ce-b07f-736d6be94c41",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6f4cfa8a-8d45-4135-aac3-7d1a53f571df",
+          "type": "column",
+          "children": [
+            {
+              "id": "d3370128-25d6-42c8-aa14-e8f2f1e41e3a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "45305d7b-7c85-48c8-ba95-de550f2ece7a",
+          "type": "column",
+          "children": [
+            {
+              "id": "cecf4cd1-5a20-4257-81a9-6389ad2dc505",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3l3Lw2b\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ce9647e-8f82-4863-9d1b-8dfb64dfa83f",
+      "type": "divider"
+    },
+    {
+      "id": "0a23339c-a402-4ebd-8005-25693f09d2bb",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "f5eab9f0-9459-4768-9a35-82294fdf2234",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

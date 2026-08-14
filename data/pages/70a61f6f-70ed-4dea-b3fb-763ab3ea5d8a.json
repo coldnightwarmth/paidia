@@ -1,0 +1,142 @@
+{
+  "id": "70a61f6f-70ed-4dea-b3fb-763ab3ea5d8a",
+  "slug": "gaelic-games-in-society",
+  "title": "Gaelic Games in Society",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Gaelic-Games-in-Society-70a61f6f70ed4deab3fb763ab3ea5d8a?pvs=21",
+  "createdTime": 1667261705395,
+  "lastEditedTime": 1681312725066,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gaelic Games in Society",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-521c52803c44.webp",
+  "blocks": [
+    {
+      "id": "a9c9acf2-0f34-4c2d-985b-eec9417e4ab9",
+      "type": "divider"
+    },
+    {
+      "id": "81a9aecc-531d-4594-af3a-710ce2272303",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c8debcaa-9ac1-437d-9ed2-c5487ba89dd0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0d5a4040-6c2a-4f55-adcf-dbc7866423a1",
+          "type": "column",
+          "children": [
+            {
+              "id": "3a34220e-9271-4fb9-acd8-7f130f91037f",
+              "type": "paragraph",
+              "html": "<em><strong>Gaelic Games in Society: Civilising Processes, Players, Administrators &amp; Spectators</strong></em> was written by John Connolly &amp; Paddy Dolan, published by Palgrave Macmillan, December 17, 2019."
+            },
+            {
+              "id": "4b022088-39b8-4c18-96f9-c6828acbb06d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a362e010-c2a9-45a7-a7dc-30eee584bfa2",
+              "type": "quote",
+              "html": "<em>In this book John Connolly and Paddy Dolan illustrate and explain developments in Gaelic games, the Gaelic Athletic Association (GAA), and Irish society over the course of the last 150 years. The main themes in the book include: advances in the threshold of repugnance towards violence in the playing of Gaelic games, changes in the structure of spectator violence, diminishing displays of superiority towards the competing sports of soccer and rugby, the tension between decentralising and centralising processes, the movement in the balance between amateurism and professionalism, changes in the power balance between ‘elite’ players and administrators, and the difficulties in developing a new hybrid sport. The authors also explain how these developments were connected to various social processes including changes in the structure of Irish society and in the social habitus of people in Ireland.</em>"
+            },
+            {
+              "id": "9e1918e8-7b7e-4f73-b1b0-2db4d3a39618",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "dd9e3fd6-96a5-4ee5-ac4d-78ff89a4b719",
+          "type": "column",
+          "children": [
+            {
+              "id": "732cf721-3a7d-40cb-8891-fd21423e233a",
+              "type": "image",
+              "src": "./assets/images/untitled-521c52803c44.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de0f211c-8485-434f-8113-522c73a881d9",
+      "type": "divider"
+    },
+    {
+      "id": "4aeb01e6-a411-48a8-a7c3-9a3d321e7d5c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "813d80b4-3ded-46a0-84ea-e59bfc2fd89b",
+          "type": "column",
+          "children": [
+            {
+              "id": "4463ce7e-213c-4342-9bcc-21d5fafde887",
+              "type": "callout",
+              "html": "",
+              "icon": "📚",
+              "children": [
+                {
+                  "id": "01533668-2f45-4211-a0d8-aff61e92e909",
+                  "type": "paragraph",
+                  "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2fe2f713-828c-4805-a2ea-3ec5ddabcb90",
+          "type": "column",
+          "children": [
+            {
+              "id": "cce48469-603d-48db-b084-35cfe0c2e9b6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3TV5Z91\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90ce7033-e1c6-4cf8-8608-cd45651017de",
+      "type": "divider"
+    },
+    {
+      "id": "30933132-adf7-4307-b7b4-4c033cbea3ff",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "3d8b3e14-5a1b-4584-8e49-71a34ba6e698",
+  "slug": "the-natural-method",
+  "title": "The Natural Method",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Natural-Method-3d8b3e145a1b45848e4971a34ba6e698?pvs=21",
+  "createdTime": 1667262088411,
+  "lastEditedTime": 1681312721109,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Natural Method",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-271be4c85113.webp",
+  "blocks": [
+    {
+      "id": "874d3888-dae0-4541-be02-c642aa5c6ec3",
+      "type": "divider"
+    },
+    {
+      "id": "a05f8312-1e3f-4592-884d-7071bb5f116b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "01f19968-f272-4bae-ac77-caa227b229ec",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9c7c2da8-66e3-4623-892c-edf53c10b6c8",
+          "type": "column",
+          "children": [
+            {
+              "id": "42b58511-9396-4d3b-80bd-0854a0b7c1f5",
+              "type": "paragraph",
+              "html": "<em><strong>The Natural Method: Georges Hébert's Practical Guide to Physical Education</strong></em> was written by Georges Hébert, published in 1910."
+            },
+            {
+              "id": "a71000b1-5260-4a99-89f4-253163e44396",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a5060f65-ec6f-49f9-b864-56df2ebc063c",
+              "type": "quote",
+              "html": "<em>This is the first book of the Natural Method trilogy, translated from Georges Hébert's original Practical Guide to Physical Education by US-based French born fitness trainer Philippe Til. The first book is the explanation of the method, how to conduct a complete and thorough training session, for individuals as well as groups, its different sections, scoring, recording and how to achieve the Holy Trinity of fitness which revolves around developing a functional, resilient and proportionally well-developed physique.</em>"
+            },
+            {
+              "id": "f2589a46-28c1-46c6-81d1-a56fc1abec7e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ee209179-ae3a-4c29-ac8c-1d511e639080",
+          "type": "column",
+          "children": [
+            {
+              "id": "59c581eb-f248-4dbd-8a2a-5563db085383",
+              "type": "image",
+              "src": "./assets/images/untitled-271be4c85113.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "627ec1c1-bff9-4b4f-8b34-c63f3106f167",
+      "type": "divider"
+    },
+    {
+      "id": "11e301b5-c105-4632-a681-4632175bb25b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d0c7a024-da9e-462b-94f8-002111fadf66",
+          "type": "column",
+          "children": [
+            {
+              "id": "29ebb613-914f-4ffb-af05-35b24df8be63",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "dec498fb-e610-4135-a6d0-aa8725b06076",
+          "type": "column",
+          "children": [
+            {
+              "id": "707affaf-c350-454a-af56-4c764bb7e548",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3WnqqNM\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b60e4ab6-6cd9-409f-b74d-14b07411c09e",
+      "type": "divider"
+    }
+  ]
+}

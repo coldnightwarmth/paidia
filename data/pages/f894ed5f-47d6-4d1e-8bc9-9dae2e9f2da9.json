@@ -1,0 +1,141 @@
+{
+  "id": "f894ed5f-47d6-4d1e-8bc9-9dae2e9f2da9",
+  "slug": "playfulness",
+  "title": "Playfulness",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/f894ed5f47d64d1e8bc99dae2e9f2da9",
+  "createdTime": 1653491306249,
+  "lastEditedTime": 1681313330815,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playfulness",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c4dcf51505c7.webp",
+  "blocks": [
+    {
+      "id": "c11973dd-183f-4bdf-b22c-43ac1e655747",
+      "type": "divider"
+    },
+    {
+      "id": "5a4e843d-3e3c-4e3a-8e0d-cf0938e8af19",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2e63ca85-c4d0-4c54-ac43-00de80ac9f34",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9dc36325-d099-408c-8a0c-25144b542412",
+          "type": "column",
+          "children": [
+            {
+              "id": "d410501e-99a7-4dde-8bb5-a55cb4a26094",
+              "type": "paragraph",
+              "html": "<em><strong>Playfulness: Its Relationship to Imagination &amp; Creativity</strong></em><strong> </strong>was written by J. Nina Lieberman, published by Academic Press, January 1, 1977."
+            },
+            {
+              "id": "bfe1ef88-5224-4b38-8391-a85f2309c677",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "70b3c727-9292-40a4-9720-043d1c51796b",
+              "type": "quote",
+              "html": "Playfulness: Its Relationship to Imagination and Creativity<em> focuses on a discussion of the play element in play. This book discusses the differentiation between play and exploratory behavior based on familiar versus novel aspects in the factual givens.<br><br>Organized into seven chapters, this book begins with an overview of the role of play, imagination, and creativity in psychological research. This text then examines the theoretical model that indicates the role of playfulness in affective, </em><a href=\"#/the-playful-brain\"><em>cognitive</em></a><em>, and social functioning, and particularly relates these links to creativity and imagination. Other chapters consider playfulness as behavior at later stages of development. This book discusses as well some of the variables considered in relation to playfulness, including sex differences, social class, and level of intelligence.</em>"
+            }
+          ]
+        },
+        {
+          "id": "bd4cc8d9-a976-424c-9dca-925ebaa4359e",
+          "type": "column",
+          "children": [
+            {
+              "id": "069576a9-a14b-465f-95ac-d2929ea77b16",
+              "type": "image",
+              "src": "./assets/images/untitled-c4dcf51505c7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f5ad626-9976-4fb7-93f0-1644ccf9792b",
+      "type": "divider"
+    },
+    {
+      "id": "aaf5d908-49a7-45e5-94e1-ff14cb3bd616",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9a587e23-24a7-4da0-9807-9f829c7c2ba0",
+          "type": "column",
+          "children": [
+            {
+              "id": "eca56186-9bf6-49a3-b40c-d9f0cf5d5699",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2c6b7228-7eab-4c57-9aa6-f706e687e53e",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b9b22d1-cdb7-4e6f-af5c-e175c72b1fe5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39PZDWq\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b3a8535-ccab-4395-a0c4-db33df65b913",
+      "type": "divider"
+    },
+    {
+      "id": "4df68dc8-9792-4e43-aef9-c0f00b7ef135",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e79e7165-adb0-4ef6-9072-d1988661e3a6",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "e78da801-827c-4681-896f-c90c1de4034c",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "89417d45-e29a-4d61-bb03-ff1e5c753a94",
+  "slug": "against-worldbuilding",
+  "title": "Against Worldbuilding",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Against-Worldbuilding-89417d45e29a4d61bb03ff1e5c753a94?pvs=21",
+  "createdTime": 1651694746516,
+  "lastEditedTime": 1681310413250,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Against Worldbuilding"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-061c349c3d19.webp",
+  "blocks": [
+    {
+      "id": "4f58695c-63c5-490c-8c9f-58962aade9e5",
+      "type": "divider"
+    },
+    {
+      "id": "02fea558-db1d-4d0a-bd32-9774dd1bd271",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "408434ac-7029-408c-a488-afc0e2677500",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cbc1ae7a-a0c8-4c40-b4fd-1f97c22433b4",
+          "type": "column",
+          "children": [
+            {
+              "id": "bfe97f9e-1d9b-4603-8201-faddcf77e194",
+              "type": "paragraph",
+              "html": "<em><strong>Against Worldbuilding, &amp; Other Provocations: Essays on History, Narrative, &amp; Game Design</strong></em><strong> </strong>was written by Alexis Kennedy, published by Alexis Kennedy, May 26, 2021."
+            },
+            {
+              "id": "167bd7a5-19cf-4224-acb5-cf30a08bafd0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3429d593-2f91-4af5-92d3-4fca334fc1ec",
+              "type": "quote",
+              "html": "<em>For twelve years, Alexis Kennedy has been writing some of the most original and intelligent narrative games of the last decade - Fallen London, </em>Sunless Sea, Cultist Simulator<em>, and more, as well as guest-writing gigs for BioWare, Paradox and Telltale Games.<br><br>And for most of that time, he's been writing *about* games as well. Here for the first time in one place are the best of his essays and columns - from hard-won lessons about game development to reviews of unreviewable games, from narrative design principles to writing masterclasses, from historical discursions on labyrinths to the notorious '</em>Against Worldbuilding<em>'.</em>"
+            }
+          ]
+        },
+        {
+          "id": "a7f3d4b8-7bb8-4cd5-be73-13fbafe074c7",
+          "type": "column",
+          "children": [
+            {
+              "id": "20c8a576-86f8-4550-8759-3112f9a19dcf",
+              "type": "image",
+              "src": "./assets/images/untitled-061c349c3d19.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ff8acca-2375-4740-9b13-9bc0349590b7",
+      "type": "divider"
+    },
+    {
+      "id": "753b2658-5fb7-475d-8bf6-ac14bc3f8952",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9d40b16f-eb60-4834-8ed9-57e5b59b72db",
+          "type": "column",
+          "children": [
+            {
+              "id": "e5464e13-66b2-493a-a4fb-5d252fea3cb7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f2a50582-edb8-4d1c-84bf-aa90aa2a995e",
+          "type": "column",
+          "children": [
+            {
+              "id": "f4b2ac01-cc46-4750-bc23-e43c1f826037",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3GkMfFK\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6b7945b0-c262-41ca-a114-a95f475273c4",
+      "type": "divider"
+    },
+    {
+      "id": "80284ec6-2209-4135-b6e0-cd77245b1659",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "16e3319c-264d-41f1-bfc2-b599a03dd3a6",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "6a818be3-04bc-4548-8df6-f93a4ace89e8",
+  "slug": "the-developmental-benefits-of-playgrounds",
+  "title": "The Developmental Benefits of Playgrounds",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/6a818be304bc45488df6f93a4ace89e8",
+  "createdTime": 1659571591726,
+  "lastEditedTime": 1681313072276,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Developmental Benefits of Playgrounds",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-dcad23b18ac9.webp",
+  "blocks": [
+    {
+      "id": "e58d1d46-8f14-436d-8f7c-360638d769d2",
+      "type": "divider"
+    },
+    {
+      "id": "9da44917-d8aa-4f1d-a919-6f635af08783",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "48269205-253a-4d10-b087-2aa0561caade",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4c2e6a37-1d1e-4563-81e8-32a9eb0c1342",
+          "type": "column",
+          "children": [
+            {
+              "id": "4f0edda7-e5df-4a94-817e-41b681ea80f7",
+              "type": "paragraph",
+              "html": "<em><strong>The Developmental Benefits Of Playgrounds</strong></em> was written by Joe L. Frost, Pei-San Brown, John A. Sutterby, &amp; Candra D. Thornton, published by Association for Childhood Education International, September 30, 2004."
+            },
+            {
+              "id": "a58f89ed-8335-4cf1-8ace-cf68c863c1e9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "77d82671-5ff9-4602-a3f8-3d979d683c0b",
+              "type": "quote",
+              "html": "<em>This research-based publication extends the knowledge base about appropriate playground materials, equipment, and use patterns. The initial chapter focuses on the importance of play, with special attention paid to contemporary research by neuroscientists that shows play is critical to children's healthy physical, cognitive, and social development. Later chapters identify development sequences for children's motor behaviors during their play on several types of playground equipment.</em>"
+            },
+            {
+              "id": "3bea8f44-bbef-4d71-b795-34d9c5bf568c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a31158f2-cb55-4e5f-a819-d1e8ad3bf9f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "da29c60b-5fba-470d-ab71-3c45d571eda6",
+              "type": "image",
+              "src": "./assets/images/untitled-dcad23b18ac9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f8d6ed6f-4038-43cf-b21f-f6dded4884c4",
+      "type": "divider"
+    },
+    {
+      "id": "6e4f74a9-6792-40bb-9b9d-44d99725fff9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c8a92fb4-fd13-4a0f-8a89-cd7063d0339d",
+          "type": "column",
+          "children": [
+            {
+              "id": "51afc839-1a26-4340-9b36-93925b7dcd36",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "33ee9b86-3815-4190-af7b-2a35877f72fa",
+          "type": "column",
+          "children": [
+            {
+              "id": "b206032b-1526-43f8-9e43-88dedea5b4b2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3vCHOCn\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d655c882-1594-4970-9923-75beae635772",
+      "type": "divider"
+    }
+  ]
+}

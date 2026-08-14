@@ -1,0 +1,131 @@
+{
+  "id": "65f02d83-ca27-4cec-a911-429ac2268415",
+  "slug": "changing-the-game",
+  "title": "Changing the Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Changing-the-Game-65f02d83ca274ceca911429ac2268415?pvs=21",
+  "createdTime": 1657233694033,
+  "lastEditedTime": 1681311376688,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Changing the Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-52a429feac83.webp",
+  "blocks": [
+    {
+      "id": "2da43055-9062-4a11-8941-41e5411c36f3",
+      "type": "divider"
+    },
+    {
+      "id": "70dfe144-cd06-45cc-a886-78d4eb374ae4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "54c5e6a8-7c2f-4eee-9659-b4750c5b4f1b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "820ad6a1-8dbe-452f-8971-a4223b72e5af",
+          "type": "column",
+          "children": [
+            {
+              "id": "141d58d7-2470-4012-9e26-656275f59036",
+              "type": "paragraph",
+              "html": "<em><strong>Changing the Game: How Video Games are Transforming the Future of Business</strong></em> was written by David Edery &amp; Ethan Mollick, published by FT Press, Oct. 7 2008."
+            },
+            {
+              "id": "fb33e98d-b4f5-42bc-8d46-13163ee5193b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ee6fce3b-cd3e-4422-9a92-07bce5f7ddd8",
+              "type": "quote",
+              "html": "<em>Companies of all shapes and sizes have begun to use games to revolutionize the way they interact with customers and employees, becoming more competitive and more profitable as a result. Microsoft has used games to painlessly and cost-effectively quadruple voluntary employee participation in important tasks. Medical schools have used game-like simulators to train surgeons, reducing their error rate in practice by a factor of six. A recruiting game developed by the U.S. Army, for just 0.25% of the Army’s total advertising budget, has had more impact on new recruits than all other forms of Army advertising combined. And Google is using video games to turn its visitors into a giant, voluntary labor force--encouraging them to manually label the millions of images found on the Web that Google’s computers cannot identify on their own.<br><br></em>Changing the Game<em> reveals how leading-edge organizations are using video games to reach new customers more cost-effectively; to build brands; to recruit, develop, and retain great employees; to drive more effective experimentation and innovation; to supercharge productivity…in short, to make it fun to do business. This book is packed with case studies, best practices, and pitfalls to avoid. It is essential reading for any forward-thinking executive, marketer, strategist, and entrepreneur, as well as anyone interested in video games in general.</em>"
+            },
+            {
+              "id": "2614a4f6-ad52-48ec-a8db-acd0b0670699",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "89745a7e-17d5-4995-9bb7-ba5bb4a876c5",
+          "type": "column",
+          "children": [
+            {
+              "id": "0b5503d3-8016-410b-a748-39e60cc7cb1f",
+              "type": "image",
+              "src": "./assets/images/untitled-52a429feac83.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "58e707ef-c4d0-40b7-b8d7-a587c24afdf3",
+      "type": "divider"
+    },
+    {
+      "id": "de9a3275-b712-4f87-a6ae-af3d1fcb0278",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fda62eaa-cfc9-4d20-a70e-1b7da61fb514",
+          "type": "column",
+          "children": [
+            {
+              "id": "cedb1eb0-8e86-4b42-b622-f7e9b684d4cd",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1c04dc00-c9b3-407c-abf3-f5bfd2fc40f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "e3ec5f60-e06a-4f13-b582-cee3e2468675",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yOVE6p\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a4a6d95-5042-44c3-a4c3-aa97430d8e74",
+      "type": "divider"
+    }
+  ]
+}

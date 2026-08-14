@@ -1,0 +1,136 @@
+{
+  "id": "1854e0f4-db69-44c7-95e7-bdf55f45b72d",
+  "slug": "the-games-of-poetics",
+  "title": "The Games of Poetics",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Games-of-Poetics-1854e0f4db6944c795e7bdf55f45b72d?pvs=21",
+  "createdTime": 1668451107905,
+  "lastEditedTime": 1681312519846,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Games of Poetics",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-19b52bf21e06.webp",
+  "blocks": [
+    {
+      "id": "668cde7e-8e47-4c99-b210-ecd5097c74f1",
+      "type": "divider"
+    },
+    {
+      "id": "3f6c99b9-68bb-47ac-8772-a1141b15889b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ebade50b-4026-45d8-9b2a-67bb6829f013",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d0247488-165d-4cd1-ba44-f89f6f959356",
+          "type": "column",
+          "children": [
+            {
+              "id": "af7874cc-8c6f-4d15-8047-49c726bffbe4",
+              "type": "paragraph",
+              "html": "<em><strong>The Games of Poetics: Ludic Criticism &amp; Postmodern Fiction</strong></em> was written by Ruth E. Burke, published by Peter Lang Inc., International Academic Publishers, April 1, 1994."
+            },
+            {
+              "id": "16bd6aea-a303-497d-bd87-b45dd0a7ae33",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "887f79d8-1961-47be-83e2-175cbc60a2e2",
+              "type": "quote",
+              "html": "<em>The primary aim of this study is to formulate desiderata for «ludic criticism,» a strategy which is proffered as a mode of approaching the opaque and highly playful fictions that have been created by writers in Europe and America in the last quarter of this century. Having outlined an innovative strategy in the first part of the book, the author applies the theory in close readings of French and American texts, and suggests that ludic criticism may be as inexhaustible in extent as the fictive hall of mirrors portrayed by contemporary practitioners of the novel.</em>"
+            },
+            {
+              "id": "b1e9dde2-6228-4043-859c-b5490345014e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "df41ccfb-6be6-42ea-ad31-1b23c9685ef9",
+          "type": "column",
+          "children": [
+            {
+              "id": "04f21942-15fb-4417-8de5-3060e1232e24",
+              "type": "image",
+              "src": "./assets/images/untitled-19b52bf21e06.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab280f5a-8f18-44f5-94cd-9367e3b4eb01",
+      "type": "divider"
+    },
+    {
+      "id": "914cc354-538d-45ed-a135-76e7b2d9428c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "09735960-ab7a-40c8-9f8f-1b43fd36ac06",
+          "type": "column",
+          "children": [
+            {
+              "id": "98c5778b-a363-4a55-b352-2c5620c78e31",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f2f7bbe6-75eb-4384-ba41-f1959f0df72a",
+          "type": "column",
+          "children": [
+            {
+              "id": "31e06887-b009-497c-b83a-2711a960b7bc",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Games-Poetics-Criticism-Postmodern-University/dp/0820419427/ref=sr_1_33?crid=1XJEWXO1M0ZRQ&amp;keywords=Ludics&amp;qid=1667234967&amp;qu=eyJxc2MiOiIzLjAyIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=ludics%2Cstripbooks%2C93&amp;sr=1-33\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "561613bb-f956-4aa0-89aa-9491ec1710cd",
+      "type": "divider"
+    },
+    {
+      "id": "93f3aa96-fdf8-4c6c-ac32-3937f20c7972",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

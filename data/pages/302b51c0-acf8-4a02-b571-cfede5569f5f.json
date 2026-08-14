@@ -1,0 +1,131 @@
+{
+  "id": "302b51c0-acf8-4a02-b571-cfede5569f5f",
+  "slug": "venezuelan-stick-fighting",
+  "title": "Venezuelan Stick Fighting",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Venezuelan-Stick-Fighting-302b51c0acf84a02b571cfede5569f5f?pvs=21",
+  "createdTime": 1667275623115,
+  "lastEditedTime": 1681312681356,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Venezuelan Stick Fighting",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9d608b999c7e.webp",
+  "blocks": [
+    {
+      "id": "123b78d3-e1da-4a5b-b715-a4ec8d67bced",
+      "type": "divider"
+    },
+    {
+      "id": "7605e4fb-fdef-41b2-bde3-db3b4190bc03",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "478d9500-9936-409c-9990-12451b80c351",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a553ce8f-4247-458e-b464-066eb4538f23",
+          "type": "column",
+          "children": [
+            {
+              "id": "08fa2d12-5971-4dfb-b0f7-eb345c20766f",
+              "type": "paragraph",
+              "html": "<em><strong>Venezuelan Stick Fighting: The Civilizing Process in Martial Arts</strong></em><em> </em>was written by Michael J. Ryan, published by Lexington Books, October 5, 2016."
+            },
+            {
+              "id": "db7881ed-ca9f-47c7-8d5e-123002573902",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "811a29a4-fabb-4fd6-9a3b-0d94fd4ad5c9",
+              "type": "quote",
+              "html": "<em>In </em>Venezuelan Stick Fighting: The Civilizing Process in Martial Arts,<em> Michael J. Ryan examines the modern and historical role of the secretive tradition of stick fighting within rural Venezuela. Despite profound political and economic changes from the early twentieth century to the modern day, traditional values, practices, and social imaginaries associated with older forms of masculinity and sociality are still valued. Stick, knife, and machete fighting are understood as key means of instilling the values of fortitude and cunning in younger generations. Recommended for scholars of anthropology, social science, gender studies, and Latin American studies.</em>"
+            },
+            {
+              "id": "73a3b44a-14ce-4c4a-9f2b-3c90be737db5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d9045609-8199-4a11-a5ee-ea878e314954",
+          "type": "column",
+          "children": [
+            {
+              "id": "43cd0012-3de8-42ac-82c7-c7d2e2d91748",
+              "type": "image",
+              "src": "./assets/images/untitled-9d608b999c7e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1022e2ea-be73-4886-bca5-9051f17994ae",
+      "type": "divider"
+    },
+    {
+      "id": "00612ca7-4e46-41da-bba4-589f2c03b71c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "51fd06d2-7c7a-4a8c-82fa-d8b3f90de2e7",
+          "type": "column",
+          "children": [
+            {
+              "id": "9db0e245-952a-4707-84d8-6a0eb1020f4c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "32db5c32-ef8a-450a-8792-98caf6fcd37e",
+          "type": "column",
+          "children": [
+            {
+              "id": "f36e7931-1f57-46cd-a762-ef67251aebb0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Np3QAf\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14433c0d-8349-4679-8e54-ecbdffbb7966",
+      "type": "divider"
+    }
+  ]
+}

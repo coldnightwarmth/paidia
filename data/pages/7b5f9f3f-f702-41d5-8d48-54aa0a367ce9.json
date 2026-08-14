@@ -1,0 +1,134 @@
+{
+  "id": "7b5f9f3f-f702-41d5-8d48-54aa0a367ce9",
+  "slug": "career-hub",
+  "title": "Career Hub",
+  "icon": "🚀",
+  "cover": "",
+  "type": "page",
+  "parentId": "d5886848-1891-474a-b30f-1548d837961a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/7b5f9f3ff70241d58d4854aa0a367ce9",
+  "createdTime": 1711198564304,
+  "lastEditedTime": 1711198564305,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Career Hub"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "465ddfec-e4c3-41dd-b9a1-33228b646f6d",
+      "type": "subheader",
+      "html": "Roles &amp; Responsibilities",
+      "anchorId": "roles-and-responsibilities"
+    },
+    {
+      "id": "298f1c9f-6f21-46af-8c93-ace2d36eb17a",
+      "type": "divider"
+    },
+    {
+      "id": "931cf60d-be8d-4b58-bcda-7ad3a6bc51f9",
+      "type": "page_link",
+      "targetId": "931cf60d-be8d-4b58-bcda-7ad3a6bc51f9",
+      "title": "Understanding UI Roles",
+      "notionType": "page"
+    },
+    {
+      "id": "edd41dda-e058-4468-aade-18d75c482b6b",
+      "type": "page_link",
+      "targetId": "edd41dda-e058-4468-aade-18d75c482b6b",
+      "title": "Understanding Seniority Levels",
+      "notionType": "page"
+    },
+    {
+      "id": "bbac9642-fb12-4c7c-a003-17a3bdd4c5ab",
+      "type": "subheader",
+      "html": "Applying for a Job",
+      "anchorId": "applying-for-a-job"
+    },
+    {
+      "id": "25feb181-37ba-4d3b-a9b2-c00e109943af",
+      "type": "divider"
+    },
+    {
+      "id": "a18762c6-d5f4-4cfd-9e7b-3a50efe738ae",
+      "type": "page_link",
+      "targetId": "a18762c6-d5f4-4cfd-9e7b-3a50efe738ae",
+      "title": "Finding a New Role",
+      "notionType": "page"
+    },
+    {
+      "id": "071a1f4d-929a-492b-8e83-fe7ca605eb3e",
+      "type": "page_link",
+      "targetId": "071a1f4d-929a-492b-8e83-fe7ca605eb3e",
+      "title": "CV Assembly",
+      "notionType": "page"
+    },
+    {
+      "id": "cc8b81f7-2e18-427d-90df-94f5b4cd6c93",
+      "type": "page_link",
+      "targetId": "cc8b81f7-2e18-427d-90df-94f5b4cd6c93",
+      "title": "Cover Letter Assembly",
+      "notionType": "page"
+    },
+    {
+      "id": "ce619b1b-2ebe-4691-a7f0-81effd37e074",
+      "type": "page_link",
+      "targetId": "ce619b1b-2ebe-4691-a7f0-81effd37e074",
+      "title": "Selecting a Portfolio Platform",
+      "notionType": "page"
+    },
+    {
+      "id": "50d2af06-9538-4f6d-9a16-c143fe8f27e5",
+      "type": "page_link",
+      "targetId": "50d2af06-9538-4f6d-9a16-c143fe8f27e5",
+      "title": "Portfolio Assembly",
+      "notionType": "page"
+    },
+    {
+      "id": "e9775fae-4ae2-42c4-8a87-dc4047019196",
+      "type": "subheader",
+      "html": "Landing a Job",
+      "anchorId": "landing-a-job"
+    },
+    {
+      "id": "b688e739-5fc7-4ccd-a060-27eefc89d5f6",
+      "type": "divider"
+    },
+    {
+      "id": "578c47cb-5228-45ba-9a0c-7ec1eac7ad3b",
+      "type": "page_link",
+      "targetId": "578c47cb-5228-45ba-9a0c-7ec1eac7ad3b",
+      "title": "The Interview Process",
+      "notionType": "page"
+    },
+    {
+      "id": "adde11e7-a04b-4ec2-aaf7-564800b32d30",
+      "type": "page_link",
+      "targetId": "adde11e7-a04b-4ec2-aaf7-564800b32d30",
+      "title": "Interview Q&As",
+      "notionType": "page"
+    },
+    {
+      "id": "7787b194-5813-48c4-bc2b-4b3ec101cdfd",
+      "type": "page_link",
+      "targetId": "7787b194-5813-48c4-bc2b-4b3ec101cdfd",
+      "title": "UI Tests",
+      "notionType": "page"
+    },
+    {
+      "id": "b37ba400-618b-43d9-9cd8-c7d532335f53",
+      "type": "page_link",
+      "targetId": "b37ba400-618b-43d9-9cd8-c7d532335f53",
+      "title": "Salary",
+      "notionType": "page"
+    }
+  ]
+}

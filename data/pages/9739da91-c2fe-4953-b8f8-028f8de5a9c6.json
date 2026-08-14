@@ -1,0 +1,146 @@
+{
+  "id": "9739da91-c2fe-4953-b8f8-028f8de5a9c6",
+  "slug": "software",
+  "title": "Software",
+  "icon": "💾",
+  "cover": "",
+  "type": "page",
+  "parentId": "207c6b46-f8c1-44a1-bbb9-a850d9383fae",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/9739da91c2fe4953b8f8028f8de5a9c6",
+  "createdTime": 1704852279458,
+  "lastEditedTime": 1704860594906,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Software"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "dacb31c2-150b-4e1c-b556-22b8c739562b",
+      "type": "header",
+      "html": "   Software",
+      "anchorId": "software"
+    },
+    {
+      "id": "436a9046-be7d-40de-bd8f-193454f291a9",
+      "type": "paragraph",
+      "html": "<em>       notable software related to the study of  play</em>"
+    },
+    {
+      "id": "3e93fc12-1ab8-4dc6-8606-87f37f146215",
+      "type": "divider"
+    },
+    {
+      "id": "cecd38cd-27cb-47ab-b1ff-a149374c6e2e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "37c4f439-bfc7-4994-a87e-4f06d2d23703",
+          "type": "column",
+          "children": [
+            {
+              "id": "6fe8c17b-4e6d-4a86-888c-b747c5972a63",
+              "type": "synced_block",
+              "sourceBlockId": "207c6b46-f8c1-44a1-bbb9-a850d9383fae",
+              "children": [
+                {
+                  "id": "dcf5e973-231a-4b36-ad19-a8578689e46e",
+                  "type": "page_link",
+                  "targetId": "dcf5e973-231a-4b36-ad19-a8578689e46e",
+                  "title": "Films",
+                  "notionType": "page"
+                },
+                {
+                  "id": "fe31e95e-bab1-4ade-9891-b844a9b43490",
+                  "type": "page_link",
+                  "targetId": "fe31e95e-bab1-4ade-9891-b844a9b43490",
+                  "title": "TV",
+                  "notionType": "page"
+                },
+                {
+                  "id": "d3500f6c-7a04-44f1-8832-d8cca3422fab",
+                  "type": "page_link",
+                  "targetId": "d3500f6c-7a04-44f1-8832-d8cca3422fab",
+                  "title": "Web Shows",
+                  "notionType": "page"
+                },
+                {
+                  "id": "8d479671-e131-4d8a-9d23-223eca6ed451",
+                  "type": "page_link",
+                  "targetId": "8d479671-e131-4d8a-9d23-223eca6ed451",
+                  "title": "Anime & Manga",
+                  "notionType": "page"
+                },
+                {
+                  "id": "9739da91-c2fe-4953-b8f8-028f8de5a9c6",
+                  "type": "page_link",
+                  "targetId": "9739da91-c2fe-4953-b8f8-028f8de5a9c6",
+                  "title": "Software",
+                  "notionType": "page"
+                },
+                {
+                  "id": "a272ed6f-746a-4569-829d-bc8685a89634",
+                  "type": "page_link",
+                  "targetId": "a272ed6f-746a-4569-829d-bc8685a89634",
+                  "title": "Music",
+                  "notionType": "page"
+                },
+                {
+                  "id": "aab5b069-e4e4-44f9-b8a1-40862bcbe914",
+                  "type": "paragraph",
+                  "html": "<em><em><em><em><em><em><em><em><em>see also:</em></em></em></em></em></em></em></em></em>"
+                },
+                {
+                  "id": "5b11f0a3-f537-43ba-afb8-2d7bfc96f988",
+                  "type": "page_link",
+                  "targetId": "5b11f0a3-f537-43ba-afb8-2d7bfc96f988",
+                  "title": "Images",
+                  "notionType": "page"
+                },
+                {
+                  "id": "2880d8c9-1a1b-4549-a8f9-03df2111fec3",
+                  "type": "alias_link",
+                  "targetId": "2451d37d-54e9-4c09-8420-7236b5765b9d",
+                  "title": "Linked page"
+                }
+              ]
+            },
+            {
+              "id": "615c1c74-a947-487a-a4b7-c8a62fead5f5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "3c36b552-82f1-4496-ac9c-44781c992892",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b7c6e8e-3686-4815-bb39-e3ab26005be4",
+              "type": "collection_view",
+              "collectionId": "ecea88ad-6192-4934-a7be-61e17b492754",
+              "viewIds": [
+                "23be404c-d9fc-41f3-b6f1-0a45e3e16ba0"
+              ],
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

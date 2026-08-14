@@ -1,0 +1,146 @@
+{
+  "id": "ea4bc794-2fa4-4497-96a0-39c012aa9718",
+  "slug": "half-real",
+  "title": "Half-Real",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "16515e7c-ec2f-4d98-9fec-861099f13e9d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/ea4bc7942fa4449796a039c012aa9718",
+  "createdTime": 1651862019904,
+  "lastEditedTime": 1681313378791,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Half-Real",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c1331cd80a62.webp",
+  "blocks": [
+    {
+      "id": "ac067182-220c-454c-b25a-5ecc01542510",
+      "type": "divider"
+    },
+    {
+      "id": "110cfc05-8ac9-42af-9ee9-67d48d1699ce",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d555c913-99b1-421e-9e00-2db5d73a5ad8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "54fb5bc4-6c09-463e-9d06-3fa654f858fe",
+          "type": "column",
+          "children": [
+            {
+              "id": "11fcb0db-7a79-45bb-9386-899c58f460f1",
+              "type": "paragraph",
+              "html": "<em><strong>Half-Real: Video Games between Real Rules &amp; Fictional Worlds</strong></em> was written by <a href=\"#/jesper-juul\">Jesper Juul</a>, published by The MIT Press, August 19, 2011."
+            },
+            {
+              "id": "f74b0532-8b9a-4ad3-bc5d-2d55b0d250ce",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "76b57976-d44d-4608-9b28-657831799031",
+              "type": "quote",
+              "html": "<strong><em>An in-depth analysis of game development and rules and fiction in video games—with concrete examples, including </em></strong><a href=\"#/the-legend-of-zelda\"><strong>The Legend of Zelda</strong></a><strong>, </strong><a href=\"#/grand-theft-auto\"><strong>Grand Theft Auto</strong></a><strong><em>, and more<br></em></strong><em><br>A video game is half-real: we play by real rules while imagining a fictional world. We win or lose the game in the real world, but we slay a dragon (for example) only in the world of the game. In this thought-provoking study, Jesper Juul examines the constantly evolving tension between rules and fiction in video games. Discussing games from </em><a href=\"#/pong\">Pong</a> <em>to </em>The Legend of Zelda<em>, from chess to </em>Grand Theft Auto<em>, he shows how video games are both a departure from and a development of traditional non-electronic games. The book combines perspectives from such fields as literary and film theory, computer science, psychology, economic game theory, and game studies, to outline a theory of what video games are, how they work with the player, how they have developed historically, and why they are fun to play.<br><br>Locating video games in a history of games that goes back to Ancient Egypt, Juul argues that there is a basic affinity between games and computers. Just as the printing press and the cinema have promoted and enabled new kinds of storytelling, computers work as enablers of games, letting us play old games in new ways and allowing for new kinds of games that would not have been possible before computers. Juul presents a classic game model, which describes the traditional construction of games and points to possible future developments. He examines how rules provide challenges, learning, and enjoyment for players, and how a game cues the player into imagining its fictional world. Juul’s lively style and eclectic deployment of sources will make </em>Half-Real<em> of interest to media, literature, and game scholars as well as to game professionals and gamers.</em>"
+            },
+            {
+              "id": "c88d1fa0-95fa-4878-a4bc-10e2b432eb03",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "892e8a97-df38-4923-ab76-33048f398959",
+          "type": "column",
+          "children": [
+            {
+              "id": "9da566ec-a41c-439a-b556-0826fe9ea2c3",
+              "type": "image",
+              "src": "./assets/images/untitled-c1331cd80a62.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "673e6065-f688-4b67-8439-6b3c2544a4e5",
+      "type": "divider"
+    },
+    {
+      "id": "92e48761-dd9c-4d5a-80d3-226e27fb4bb7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b56dbca5-b19d-43eb-89c4-4ae9db89471b",
+          "type": "column",
+          "children": [
+            {
+              "id": "532527ca-b758-4762-999a-a402ce63f6eb",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4fa05373-1629-45a7-bd95-28401496d50e",
+          "type": "column",
+          "children": [
+            {
+              "id": "30e972d1-da76-4f36-be27-11f6cd9cf33a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3TQDk4V\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30a88799-0988-448e-a10c-5b443bdc2fe5",
+      "type": "divider"
+    },
+    {
+      "id": "5e8c3fbc-ba3c-4041-9bf3-ae9271fbf566",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "404b5c47-1f70-4109-8fa4-72d83d7279c6",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "7c42e49d-f0e3-47fa-916f-284e3575847d",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

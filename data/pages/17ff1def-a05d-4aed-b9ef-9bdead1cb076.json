@@ -1,0 +1,583 @@
+{
+  "id": "17ff1def-a05d-4aed-b9ef-9bdead1cb076",
+  "slug": "all-lectures",
+  "title": "all lectures...",
+  "icon": "",
+  "cover": "",
+  "type": "page",
+  "parentId": "fdbbd34a-ba8a-47e3-8173-30cea2938957",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/17ff1defa05d4aedb9ef9bdead1cb076",
+  "createdTime": 1651846860000,
+  "lastEditedTime": 1681321775099,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "all lectures..."
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "d4faf49e-1d0a-4778-83c7-96400b1a2fc4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "278736de-39af-4e4d-9cea-9f86eecaba74",
+          "type": "column",
+          "children": [
+            {
+              "id": "af26f6bf-3a1c-463e-ae51-99c167f64af9",
+              "type": "callout",
+              "html": "<strong>Max Kreminski: Gardening as a Mode of Play</strong>",
+              "icon": "🌿",
+              "children": [
+                {
+                  "id": "8fe74351-75cd-4698-91b2-184623ac66b9",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCKv_QzXft4mD6TXmQBZtzIA\" target=\"_blank\" rel=\"noreferrer\"><strong>Roguelike Celebration</strong></a>"
+                },
+                {
+                  "id": "e2d76f31-29f8-45b1-a184-24fd2400d98e",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/TvlZinAvpwg?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "96ed11c2-150a-449f-a925-168e8c9da163",
+                  "type": "page_link",
+                  "targetId": "96ed11c2-150a-449f-a925-168e8c9da163",
+                  "title": "Max Kreminski: Gardening as a Mode of Play",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "6234fedc-b7ec-4271-87cc-2a3dce4313ca",
+              "type": "callout",
+              "html": "<strong>Game Research (PLAYLIST)</strong>",
+              "icon": "🎮",
+              "children": [
+                {
+                  "id": "21f457ec-8075-4f2b-b24b-0526b7fda740",
+                  "type": "paragraph",
+                  "html": "collected by <a href=\"https://www.youtube.com/user/jinyunshui\" target=\"_blank\" rel=\"noreferrer\"><strong>yunshui jin</strong></a>"
+                },
+                {
+                  "id": "af239cca-1415-4ef2-b9f0-442f03f40b72",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": ""
+                }
+              ]
+            },
+            {
+              "id": "9bc99208-c610-4b0e-ab09-cf54e5f2d86d",
+              "type": "callout",
+              "html": "<strong>Satoru Iwata - Heart of a Gamer</strong>",
+              "icon": "💖",
+              "children": [
+                {
+                  "id": "8c166313-f5ad-4315-b87f-c69e311c6070",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\"><strong>GDC</strong></a>"
+                },
+                {
+                  "id": "a36131d4-add8-446e-98e3-5e36b3e4a85d",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/RMrj8gdUfCU?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "7968fb6d-d7c8-4612-b784-b7a31cbc49bd",
+                  "type": "page_link",
+                  "targetId": "7968fb6d-d7c8-4612-b784-b7a31cbc49bd",
+                  "title": "Satoru Iwata - Heart of a Gamer",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "eb29a5fc-8ef5-4ad0-9835-da66e2a63416",
+              "type": "callout",
+              "html": "<strong>Classic Postmortem: The Making Of Myst</strong>",
+              "icon": "📕",
+              "children": [
+                {
+                  "id": "3e3ecda0-09cf-4ca3-a763-f1ac622464b4",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\"><strong>GDC</strong></a>"
+                },
+                {
+                  "id": "b9fa5541-bdb0-4291-bbaa-95a2ceda0d35",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/7cULHgP8tmo?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "16c2d7dc-99e1-4039-945e-99483ff8bacf",
+              "type": "callout",
+              "html": "<strong>It's Still Emulation: Saving Video Game History Before It's Too Late</strong>",
+              "icon": "💽",
+              "children": [
+                {
+                  "id": "f6976c9a-57b9-4b8a-b465-f96a1f0ceab3",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\"><strong>GDC</strong></a>"
+                },
+                {
+                  "id": "bc4902bb-40a1-4bff-8412-f9f8d0a39e6a",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/dp-DRU24J18?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "590b181c-4c43-438f-bd68-0ee246525638",
+              "type": "callout",
+              "html": "<strong>Mark Fisher : Cybertime Crisis</strong>",
+              "icon": "🌐",
+              "children": [
+                {
+                  "id": "0c52ba7e-5f6c-4e36-9518-91a3d9fb17cd",
+                  "type": "paragraph",
+                  "html": "uploaded by <a href=\"https://www.youtube.com/channel/UCOA9dMA2TcncAq6_pCsK4Ag\" target=\"_blank\" rel=\"noreferrer\"><strong>Plush Media</strong></a>"
+                },
+                {
+                  "id": "f3b0d67d-a59d-4bde-8a33-e91ae18a9ae9",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/h4r9-AmfaDs?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "f7bb05e0-1bd6-4846-94fb-cc51f6de4c70",
+              "type": "callout",
+              "html": "<strong>#Declassified: Processing &amp; Preserving Video Games</strong>",
+              "icon": "💰",
+              "children": [
+                {
+                  "id": "8e82cb99-e580-4b11-8338-454712ce7248",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/c/loc\" target=\"_blank\" rel=\"noreferrer\">Library of Congress</a></strong>"
+                },
+                {
+                  "id": "f3c280a1-652b-4275-9cfe-32e42b9de196",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/4Ws60mzHMyE?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "31dde478-b3c3-4ec9-a72a-4cddd69ffd95",
+              "type": "callout",
+              "html": "<strong><strong>Digital Sphere Retrieves Alchemy | Three Spheres: East, West &amp; Digital</strong></strong>",
+              "icon": "🧪",
+              "children": [
+                {
+                  "id": "4a66940f-8998-42ec-9e41-b10aa3342cfb",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/52LivingIdeas\" target=\"_blank\" rel=\"noreferrer\"><strong>52 Living Ideas</strong></a>"
+                },
+                {
+                  "id": "cbb4fc79-367e-4db1-9124-0a56cd6881d8",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/XJTkEpj01RI?list=PLqpF1l8gdXlE0Qkb5Q33Z_k0vQrXVTQ8E",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ec45d18f-fe27-4c53-93c5-8a4938b9b872",
+          "type": "column",
+          "children": [
+            {
+              "id": "447a5340-a1cb-4b0d-a232-b384c8aecd8c",
+              "type": "callout",
+              "html": "<strong>8000 Years of Board Game History in 43 Minutes - SHUX Presents</strong>",
+              "icon": "🎲",
+              "children": [
+                {
+                  "id": "a1d7f516-ff6f-4bd0-b54b-823f7138c1ad",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCyRhIGDUKdIOw07Pd8pHxCw\" target=\"_blank\" rel=\"noreferrer\"><strong>Shut Up &amp; Sit Down</strong></a>"
+                },
+                {
+                  "id": "cd95d5b1-5d5a-414b-b6eb-3ef028894dae",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/Gov-qrjvOTc?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=515",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "5e9ea4e5-fef8-4ab2-8b88-29c087bbefc8",
+              "type": "callout",
+              "html": "<strong>Game studies vs. Play studies - Fanny Barnabé</strong>",
+              "icon": "🃏",
+              "children": [
+                {
+                  "id": "d4f33731-03a2-4088-82e5-833ca3295fe7",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCCUxAW2UWZHPuLZg3D4DVGg\" target=\"_blank\" rel=\"noreferrer\"><strong>Université de Namur</strong></a>"
+                },
+                {
+                  "id": "c88c98d9-2b9d-47dc-b807-0b000023079b",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/oerag3AjKTY?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "958e436c-4458-4327-b1a5-2c9c312a66f4",
+              "type": "callout",
+              "html": "<strong>The Theology of Play</strong>",
+              "icon": "✨",
+              "children": [
+                {
+                  "id": "3d56540f-720f-4b77-850f-aa4a9e95d6d8",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/user/daligoddess2006\" target=\"_blank\" rel=\"noreferrer\"><strong>Daligoddess</strong></a>"
+                },
+                {
+                  "id": "ef3a5dac-a5e9-437b-9a19-ed574932d7d2",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/IBt7ngFu1cY?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "39214df3-95cf-40f5-8af7-ef42482732f6",
+              "type": "callout",
+              "html": "<strong>Postal Mediation and Apocalyptic Game Studies</strong>",
+              "icon": "📬",
+              "children": [
+                {
+                  "id": "b5718d34-3bce-4a31-aff1-9d264461ec10",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCv3hQW97gsU5sB1Pr3dRy4A\" target=\"_blank\" rel=\"noreferrer\"><strong>communicationplusone</strong></a>"
+                },
+                {
+                  "id": "8b5f5fdf-37e4-4a39-9fd0-77cd1650ab4b",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/bgH9i7s4s98?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "563f8267-4e38-4f42-b781-79aa7a3a5d42",
+                  "type": "page_link",
+                  "targetId": "563f8267-4e38-4f42-b781-79aa7a3a5d42",
+                  "title": "Postal Mediation and Apocalyptic Game Studies",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "1af2da3e-59bf-4d6f-9b30-60f1c99cc1f5",
+              "type": "callout",
+              "html": "<strong>Game Design Lectures (PLAYLIST)</strong>",
+              "icon": "⚙",
+              "children": [
+                {
+                  "id": "ae0814f3-1a9b-4eff-89d8-7c2bbc8548aa",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/RymDeCoster\" target=\"_blank\" rel=\"noreferrer\"><strong>Rym DeCoster</strong></a>"
+                },
+                {
+                  "id": "76bb4f32-7b62-4e0f-93b8-c06e5bbaf2ee",
+                  "type": "video",
+                  "src": "http://www.youtube.com/embed/videoseries?list=PL3eVql0CPrVhG2AeVE1l8hcNPSNmoeagK",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "8b117271-8fba-4546-be5d-40bcb6157f17",
+              "type": "callout",
+              "html": "<strong>Landian Philosophy of Bitcoin - 3.0 - 4.0 - Bitcoin &amp; its Doubles - State of Play</strong>",
+              "icon": "🪙",
+              "children": [
+                {
+                  "id": "4a7bce6e-b46c-4dcc-b455-f5ed858dd0f8",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCIVH4QDljPUKZHqgER3GGgA\" target=\"_blank\" rel=\"noreferrer\"><strong>Hermitix Podcast</strong></a>"
+                },
+                {
+                  "id": "e4748c23-58a3-475e-8d8f-f555d98512e9",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/3yU9uGB-o0g?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "71a2d281-8b5c-41c8-8276-6c32ae732298",
+              "type": "callout",
+              "html": "<strong><strong>Irony or Authenticity: A Conversation with Nicholas Fortugno</strong></strong>",
+              "icon": "🤘",
+              "children": [
+                {
+                  "id": "226e6afc-ffef-4901-801d-9c0576ce02ab",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/user/Babycastles\" target=\"_blank\" rel=\"noreferrer\"><strong>Babycastles</strong></a>"
+                },
+                {
+                  "id": "ddc0e1df-7018-4aa1-bb8a-c48b41cac9ca",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/oREpHXaybc0?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "5c823f91-7ebc-4390-8237-dc82e89353f5",
+              "type": "callout",
+              "html": "<strong><strong>&quot;Pour More Water On The Altar&quot; Amy Noel Green - OC ARC Talk</strong></strong>",
+              "icon": "🏥",
+              "children": [
+                {
+                  "id": "b06acc2b-2c23-4d64-a7fc-62d9aaf9962d",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCga_jEdYbNJE8efTGMCEduw\" target=\"_blank\" rel=\"noreferrer\"><strong>Amy Noel Green</strong></a>"
+                },
+                {
+                  "id": "aee24f7c-fac9-4180-8819-2da43259a801",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/a1Ps2qF3oFQ?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "21615209-2b23-4840-bf18-da34ae3be3e0",
+          "type": "column",
+          "children": [
+            {
+              "id": "dfb226d0-9bb2-4abd-82ab-d1febe22540e",
+              "type": "callout",
+              "html": "<strong>Jonathan Blow - Truth In Game Design</strong>",
+              "icon": "🕯️",
+              "children": [
+                {
+                  "id": "e6859de2-af50-4883-850d-499cb8eaa79d",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\"><strong>GDC</strong></a>"
+                },
+                {
+                  "id": "b0aa8b75-6a18-4da2-a0d9-38fe864a0fc6",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/C5FUtrmO7gI?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "f68a1194-8953-4081-994c-601ed8df1155",
+                  "type": "page_link",
+                  "targetId": "f68a1194-8953-4081-994c-601ed8df1155",
+                  "title": "Jonathan Blow - Truth In Game Design",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "8d1948c8-a43e-4f9c-8dcb-40d94fe2eef1",
+              "type": "callout",
+              "html": "<strong><strong>Well Played Life 1: A Theology of Play for the Overworked</strong></strong>",
+              "icon": "🤾",
+              "children": [
+                {
+                  "id": "9c8edb4c-6df8-45c8-8cef-0e069cd28aff",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCMZr_6FtpFeH-BTfTynIhog\" target=\"_blank\" rel=\"noreferrer\"><strong>Matthew Stultz</strong></a>"
+                },
+                {
+                  "id": "0ed48e2a-6dd0-4c60-a157-372792b7771d",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/duh4XbuKpGg?feature=oembed",
+                  "caption": ""
+                },
+                {
+                  "id": "0727d82d-03e7-465b-a4a3-0ffc4e963f5d",
+                  "type": "page_link",
+                  "targetId": "0727d82d-03e7-465b-a4a3-0ffc4e963f5d",
+                  "title": "Well Played Life 1: A Theology of Play for the Overworked",
+                  "notionType": "page"
+                }
+              ]
+            },
+            {
+              "id": "74ccf4e6-8b4d-42cc-a4b3-56bc8da8d6d1",
+              "type": "callout",
+              "html": "<strong><strong>&quot;Games without Players&quot; by Paolo Pedercini</strong></strong>",
+              "icon": "🪨",
+              "children": [
+                {
+                  "id": "22d46809-f594-4c69-a815-a0aff2f53c10",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/user/InsideCreativeGaming\" target=\"_blank\" rel=\"noreferrer\"><strong>InsideCreativeGaming</strong></a>"
+                },
+                {
+                  "id": "d6b4d5a7-9b37-42a7-8639-07bf40c4102c",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/YW-MHmtAEWw?list=PL5CAZ8ptrr9BKX9NVDcz8kPD5tyjR-VGO",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "69f5d101-0f18-443f-9052-5139f7a77d40",
+              "type": "callout",
+              "html": "<strong>Naomi Clark: Why Tom Nook symbolizes village debt in 18th century Japan</strong>",
+              "icon": "💰",
+              "children": [
+                {
+                  "id": "ceae9fad-fc90-405c-92c7-e19d3bdce2a6",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC1W7wuvErj9Q9Lu3kTju-RQ\" target=\"_blank\" rel=\"noreferrer\"><strong>NYU Game Center</strong></a>"
+                },
+                {
+                  "id": "64d81dc5-e7b0-4eec-9b5b-13dc297c5827",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/BgEnbXPZX4s?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "fa59c61b-971d-469f-8e8f-bfb6864a0dab",
+              "type": "callout",
+              "html": "<strong><strong>Game Studies at 20</strong></strong>",
+              "icon": "🎂",
+              "children": [
+                {
+                  "id": "f7319453-ea97-469a-8e65-3c879030013a",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC1W7wuvErj9Q9Lu3kTju-RQ\" target=\"_blank\" rel=\"noreferrer\"><strong>NYU Game Center</strong></a>"
+                },
+                {
+                  "id": "049d3d30-18ba-4341-8716-5d7ab68664f9",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/8OhKOhZMOvM?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "17fa7b67-73f2-46d5-9d76-0af195f8b739",
+              "type": "callout",
+              "html": "<strong><strong>The Ludic Century: A Debate</strong></strong>",
+              "icon": "💯",
+              "children": [
+                {
+                  "id": "f36c5f89-b0af-4280-9fc9-90bae66a1400",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC1W7wuvErj9Q9Lu3kTju-RQ\" target=\"_blank\" rel=\"noreferrer\"><strong>NYU Game Center</strong></a>"
+                },
+                {
+                  "id": "be8ba72d-945a-451c-b6ac-adf094626803",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/VTZvak1lea4?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "1dc86201-6a0a-497d-8195-77be28277be0",
+              "type": "callout",
+              "html": "<strong>NYU Game Center Lecture Series (PLAYLIST)</strong>",
+              "icon": "🏫",
+              "children": [
+                {
+                  "id": "ac3050b3-3394-4389-bc14-009341ac0922",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC1W7wuvErj9Q9Lu3kTju-RQ\" target=\"_blank\" rel=\"noreferrer\"><strong>NYU Game Center</strong></a>"
+                },
+                {
+                  "id": "faec36ad-5a48-4860-9eba-27a19f233dad",
+                  "type": "bookmark",
+                  "src": "",
+                  "title": ""
+                }
+              ]
+            },
+            {
+              "id": "6d1c4cbc-894a-4a16-9430-83ee720c50a9",
+              "type": "callout",
+              "html": "<strong>Naomi Clark: Why Tom Nook symbolizes village debt in 18th century Japan</strong>",
+              "icon": "💰",
+              "children": [
+                {
+                  "id": "59469456-3f6c-400d-b750-b74863d90931",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UC1W7wuvErj9Q9Lu3kTju-RQ\" target=\"_blank\" rel=\"noreferrer\"><strong>NYU Game Center</strong></a>"
+                },
+                {
+                  "id": "f09a0290-94f0-4424-afc1-fc6f17a4b0bb",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/BgEnbXPZX4s?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0685ef9a-2043-4183-946e-1a6ff5be4ce6",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "9c4b6ab5-5d78-4119-9a03-89821f0451fe",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "678ec5d0-30e9-42b1-b49c-eb8eafdd2c0e",
+      "type": "alias_link",
+      "targetId": "6b382510-adf0-424c-8a6d-b33ee802b6aa",
+      "title": "Linked page"
+    },
+    {
+      "id": "52c28bf5-856c-4e3f-ad12-d48659a85ca5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f1acd9bf-5313-49b0-843c-96916979b82d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "776310d3-32ec-47f9-92ac-a36dbbe03a26",
+      "type": "paragraph",
+      "html": "<a href=\"#/video-essays-and-lectures\"><u>☜back</u></a>"
+    },
+    {
+      "id": "87ed1533-9025-44dd-b489-41a7c436311f",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

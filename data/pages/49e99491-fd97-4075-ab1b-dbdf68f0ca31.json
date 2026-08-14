@@ -1,0 +1,131 @@
+{
+  "id": "49e99491-fd97-4075-ab1b-dbdf68f0ca31",
+  "slug": "slay-the-dragon",
+  "title": "Slay the Dragon",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Slay-the-Dragon-49e99491fd974075ab1bdbdf68f0ca31?pvs=21",
+  "createdTime": 1653074982380,
+  "lastEditedTime": 1681313856934,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Slay the Dragon",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/61alkuw-msl-f224ee3a20fd.webp",
+  "blocks": [
+    {
+      "id": "f39bef30-0be2-4ac1-a15e-fdade381bdc5",
+      "type": "divider"
+    },
+    {
+      "id": "88e06729-c633-4cb8-a2f5-84913cd7850f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "febc5463-a811-498c-81cf-b969fc959a3a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f1c45f0a-6c1f-4a4a-b37d-4a4bd9eee863",
+          "type": "column",
+          "children": [
+            {
+              "id": "c0a71fcd-29d3-4402-92ba-bcf3d8c81dbc",
+              "type": "paragraph",
+              "html": "<em><strong>Slay the Dragon: Writing Great Video Games</strong></em><strong> </strong>was written by Robert Denton Bryant &amp; Keith Giglio, published by Michael Wiese Productions, September 1, 2015."
+            },
+            {
+              "id": "8d2f16a8-1e2c-4d80-9775-175037783eca",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b8c0effa-60bf-4a17-be30-279560cf4a68",
+              "type": "quote",
+              "html": "<em>Writing for the multibillion-dollar video-game industry is unlike writing for any other medium. </em>Slay the Dragon<em> will help you understand the challenges and offer creative solutions to writing for a medium where the audience not only demands a great story, but to be a driving force within it. Aimed at traditional writers who want to learn interactive narrative as well as game creators who want to tell better, more emotionally involving stories, the book is written by two creative veterans of both Hollywood and &quot;Nerdyhood.&quot; Through lively discussions and self-paced-exercises, Bryant and Giglio step you such topics as: the &quot;no-act&quot; structure of video games; writing great game characters; making gameplay emotionally meaningful; and bringing your game world alive.</em>"
+            }
+          ]
+        },
+        {
+          "id": "c5412a99-8c1f-40f4-a7fb-2d2bb20576f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "02df433d-1064-468b-91d7-45fad000a52e",
+              "type": "image",
+              "src": "./assets/images/61alkuw-msl-f224ee3a20fd.webp",
+              "caption": "",
+              "alt": "61aLKuW-msL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37fec56c-7a58-4e79-b9b5-c9ef7531d54c",
+      "type": "divider"
+    },
+    {
+      "id": "4c1c43c2-9787-47ab-a504-d4027f5bef95",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ba974200-b725-4288-b9c1-e5bd550b4500",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f9e1b70-99c0-4ae8-b9a5-74b2b7909edd",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "da7d69a8-f90e-4e45-8364-3d3682b83c7e",
+          "type": "column",
+          "children": [
+            {
+              "id": "154ddfe0-3607-4029-aa70-79028222388c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3lImq9l\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a86da64f-b6cd-4586-a8d8-b66ecd0faa1c",
+      "type": "divider"
+    },
+    {
+      "id": "d2ab159c-e4d7-4025-89b8-b3aa5b11009b",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

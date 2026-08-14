@@ -1,0 +1,119 @@
+{
+  "id": "b663a2a8-efbf-4a01-9609-3b6c32083737",
+  "slug": "from-pinballs-to-pixels",
+  "title": "From Pinballs to Pixels",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/From-Pinballs-to-Pixels-b663a2a8efbf4a0196093b6c32083737?pvs=21",
+  "createdTime": 1657240376668,
+  "lastEditedTime": 1681313567699,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "From Pinballs to Pixels",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-75a96db0ae32.webp",
+  "blocks": [
+    {
+      "id": "472bf47f-9a36-4f30-98ce-c67908a68ccb",
+      "type": "divider"
+    },
+    {
+      "id": "b70ce3fe-aa61-4026-9f7c-109d3c797967",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "eb8f6184-1c47-4a18-9fcd-411b0b8a2b7a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e0739138-061a-492d-8337-f1a7f1465a49",
+          "type": "column",
+          "children": [
+            {
+              "id": "b7cf9dd3-22cb-4b5a-b4ae-4cb5f113e997",
+              "type": "paragraph",
+              "html": "<em><strong>From Pinballs to Pixels: An Arcade History of Williams-Bally-Midway</strong></em> was written by Ken Horowitz, published by McFarland in 2022."
+            }
+          ]
+        },
+        {
+          "id": "00741612-ce74-48ae-a1f7-66c9bedd2bed",
+          "type": "column",
+          "children": [
+            {
+              "id": "db7bdbbb-3c72-4eff-bc96-56baae76ce89",
+              "type": "image",
+              "src": "./assets/images/untitled-75a96db0ae32.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f96e9997-85a6-43a7-bf4a-0f1135ec9c5b",
+      "type": "divider"
+    },
+    {
+      "id": "76d3e841-b0a5-490f-bd0c-8cfcfe350d8e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "85a0998e-2a0a-4959-9b80-167e910e1de7",
+          "type": "column",
+          "children": [
+            {
+              "id": "ab531604-199b-45b5-af99-122e319a2f6d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "144140d6-1588-40e7-81b9-902b3cf69f31",
+          "type": "column",
+          "children": [
+            {
+              "id": "ed465144-e23e-4b88-b9da-54312bfcd40d",
+              "type": "callout",
+              "html": "<a href=\"https://mcfarlandbooks.com/product/from-pinballs-to-pixels/\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b557d04-5641-4ff7-a6f6-76218beb6a97",
+      "type": "divider"
+    }
+  ]
+}

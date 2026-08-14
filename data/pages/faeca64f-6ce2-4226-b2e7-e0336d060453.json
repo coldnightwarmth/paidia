@@ -1,0 +1,141 @@
+{
+  "id": "faeca64f-6ce2-4226-b2e7-e0336d060453",
+  "slug": "the-avatar-faculty",
+  "title": "The Avatar Faculty",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Avatar-Faculty-faeca64f6ce24226b2e7e0336d060453?pvs=21",
+  "createdTime": 1651703261864,
+  "lastEditedTime": 1681313485403,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Avatar Faculty",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-33c44aa87a86.webp",
+  "blocks": [
+    {
+      "id": "113cd00f-d4d6-4b4a-8049-c3d1267c6a99",
+      "type": "divider"
+    },
+    {
+      "id": "345d866a-5d49-4fe4-982a-8a23652f6d62",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c259fe85-f53d-4c6e-a866-41d8ae814c81",
+      "type": "columns",
+      "children": [
+        {
+          "id": "926c263e-bd59-4933-9182-b629fa23527c",
+          "type": "column",
+          "children": [
+            {
+              "id": "5889e82c-3b01-49ab-b705-85094cdef953",
+              "type": "paragraph",
+              "html": "<em><strong>The Avatar Faculty: Ecstatic Transformations in Religion &amp; Video Games</strong></em> was written by Jeffrey G. Snodgrass, published by University of California Press, November 29, 2022."
+            },
+            {
+              "id": "8d9d4a6d-93de-4707-aa54-cd76acaf8c2c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "270fd609-9203-4e5b-baea-322ca585af78",
+              "type": "quote",
+              "html": "The Avatar Faculty<em> creatively examines the parallels between spiritual and digital activities to explore the roles that symbolic second selves—</em><a href=\"#/avatar\"><em>avatars</em></a><em>—can play in our lives. The use of avatars can allow for what anthropologists call ecstasy, from the Greek ekstasis, meaning &quot;standing outside oneself.&quot; The archaic techniques of promoting spiritual ecstasy, which remain central to religious healing traditions around the world, now also have contemporary analogues in virtual worlds found on the internet. In this innovative book, Jeffrey G. Snodgrass argues that avatars allow for the ecstatic projection of consciousness into alternate realities, potentially providing both the spiritually possessed and gamers access to superior secondary identities with elevated social standing. Even if only temporary, self-transformations of these kinds can help reduce psychosocial stress and positively impact health and well-being.</em>"
+            }
+          ]
+        },
+        {
+          "id": "d5a39b35-e826-4409-89c8-f8ac03fa89af",
+          "type": "column",
+          "children": [
+            {
+              "id": "e6560b49-e00e-43c1-b529-e69dc7159cf5",
+              "type": "image",
+              "src": "./assets/images/untitled-33c44aa87a86.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4d85e266-565b-4be4-a5cb-e9d7298306fc",
+      "type": "divider"
+    },
+    {
+      "id": "5b14838b-d67c-41d0-9e88-98700f80d93d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "67fa0cbc-5623-4aa4-a496-e1719ffef2fd",
+          "type": "column",
+          "children": [
+            {
+              "id": "ee825ad6-0c0d-486c-a530-155871855d2a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7f1df714-8a19-4115-a556-57c871a76f28",
+          "type": "column",
+          "children": [
+            {
+              "id": "6a2a6e05-49cb-4f15-bdc8-82289495c5f9",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3MIFAYs\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f50a509-3126-4e79-b496-2489f1b3635c",
+      "type": "divider"
+    },
+    {
+      "id": "d00577c3-77af-4749-9173-bcdb4c0d19d3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3629aefc-5520-4b0d-b876-95828db82da3",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "0b30fde9-4fd8-42fd-8e06-df03f4a75f81",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

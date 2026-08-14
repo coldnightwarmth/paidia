@@ -1,0 +1,141 @@
+{
+  "id": "8b3a8fae-45b7-4859-ab4e-f761d3ad3992",
+  "slug": "designing-virtual-worlds",
+  "title": "Designing Virtual Worlds",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Designing-Virtual-Worlds-8b3a8fae45b74859ab4ef761d3ad3992?pvs=21",
+  "createdTime": 1657137553503,
+  "lastEditedTime": 1681313874276,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Designing Virtual Worlds",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-478ffc73b383.webp",
+  "blocks": [
+    {
+      "id": "c5ca3eb0-9bd9-4363-8c70-9b82a8b884ba",
+      "type": "divider"
+    },
+    {
+      "id": "66c9a8dc-286d-4fc9-afc1-8c59d83a3e35",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e1f96dba-f3bb-4fdd-914a-7c6502041aa0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "05ab8930-b47e-4ba2-bf86-1005bc63cbcf",
+          "type": "column",
+          "children": [
+            {
+              "id": "99b00f7d-a1a6-462a-a185-eca014efb973",
+              "type": "paragraph",
+              "html": "<em><strong>Designing Virtual Worlds </strong></em>was written by Richard A. Bartle, published by New Riders, July 15, 2003."
+            },
+            {
+              "id": "1a329706-291b-4344-97e7-eb3563f08c64",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "31e19d97-2149-4f46-a9b1-c8798c0ea3d7",
+              "type": "quote",
+              "html": "Designing Virtual Worlds<em> is the most comprehensive treatment of virtual world design to-date from one of the true pioneers and most sought-after design consultants. It's a tour de force of VW design, stunning in intellectual scope, spanning the literary, economic, sociological, psychological, physical, technological, and ethical underpinnings of design, while providing the reader with a deep, well-grounded understanding of VW design principles. It covers everything from MUDs to MOOs to MMORPGs, from text-based to graphical VWs.<br><br></em>Designing Virtual Worlds<em> brings a rich, well-developed approach to the design concepts behind virtual worlds. It is grounded in the earliest approaches to such designs, but the examples discussed in the book run the gamut from the earliest MUDs to the present-day MMORPG games mentioned above. It teaches the reader the actual, underlying design principles that many designers do not understand when they borrow or build from previous games. There is no other design book on the market in the area of online games and virtual worlds that provides the rich detail, historical context, and conceptual depth of </em>Designing Virtual Worlds<em>.</em>"
+            },
+            {
+              "id": "40112aa3-a936-4b7a-8bb4-f176dd82a2a3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b419cb42-f9f1-406e-9213-c6dd2d44153c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a98875d5-88ee-4411-9288-44f43b464c63",
+          "type": "column",
+          "children": [
+            {
+              "id": "7fbae7ae-0f8a-4d63-acf9-5863c9ebedc0",
+              "type": "image",
+              "src": "./assets/images/untitled-478ffc73b383.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f2509860-6c28-4a6c-9d23-4234bedb73fb",
+      "type": "divider"
+    },
+    {
+      "id": "9c3b66e4-b12b-4d84-96ac-04b7fe6d62a8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3c2a41d3-c549-41ad-a491-63e80b54cdda",
+          "type": "column",
+          "children": [
+            {
+              "id": "04948ec2-45cc-4de6-a772-3330b4a140e8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4bb83164-5372-433c-af44-78c73d30ccfd",
+          "type": "column",
+          "children": [
+            {
+              "id": "efe2572d-fbc2-4044-81a6-d25584cc425e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Awp7DI\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dd032ffd-687a-49ad-b387-1e1cfe97d586",
+      "type": "divider"
+    },
+    {
+      "id": "87e20ba5-8131-4d9a-8d1e-61b2d82e38d8",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

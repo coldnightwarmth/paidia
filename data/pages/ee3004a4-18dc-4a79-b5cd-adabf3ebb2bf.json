@@ -1,0 +1,126 @@
+{
+  "id": "ee3004a4-18dc-4a79-b5cd-adabf3ebb2bf",
+  "slug": "video-games-and-well-being",
+  "title": "Video Games & Well-being",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/ee3004a418dc4a79b5cdadabf3ebb2bf",
+  "createdTime": 1673294776671,
+  "lastEditedTime": 1681312157793,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Video Games & Well-being",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-281b57ce8689.webp",
+  "blocks": [
+    {
+      "id": "ddd8c177-710d-4f02-921a-132926626970",
+      "type": "divider"
+    },
+    {
+      "id": "5453b440-5b80-4798-b35f-7ab54f8f88ae",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1d0dc0d1-2f5c-4ee7-83c7-385c7903ea29",
+      "type": "columns",
+      "children": [
+        {
+          "id": "682f3c75-0b7e-41e3-a4d3-6e68e64ed99f",
+          "type": "column",
+          "children": [
+            {
+              "id": "298d050f-3dcd-4dfa-96f2-ea41c7cd3772",
+              "type": "paragraph",
+              "html": "<em><strong>Video Games &amp; Well-being: Press Start </strong></em>is a collection of essays edited by Rachel Kowert, published by Palgrave Pivot, December 19, 2019."
+            },
+            {
+              "id": "c1d8262e-9a14-4048-80d2-67a1de347851",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8ca8a0de-be85-4c50-af84-326532ce15b5",
+              "type": "quote",
+              "html": "<em>This book examines how video game mechanics and narratives can teach players skills associated with increased psychological well-being. It integrates research from psychology, education, ludology, media studies, and communication science to demonstrate how game play can teach skills that have long been associated with increased happiness and prolonged life satisfaction, including flexible thinking, openness to experience, self-care, a growth mindset, solution-focused thinking, mindfulness, persistence, self-discovery and resilience. The chapters in this volume are written by leading voices in the field of game studies, including researchers from academia, the video gaming industry, and mental health practitioners paving the way in the field of “geek therapy.”<br><br>This book will advance our understanding of the potential of video games to increase our psychological well-being by helping to mitigate depression, anxiety, and stress and foster persistence, self-care, and resilience.</em>"
+            }
+          ]
+        },
+        {
+          "id": "29aa6704-742b-41d9-b89c-9a96660f9d88",
+          "type": "column",
+          "children": [
+            {
+              "id": "292cd46f-cc85-4fb1-ab13-becc05db9c37",
+              "type": "image",
+              "src": "./assets/images/untitled-281b57ce8689.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36588347-5f52-4299-8f82-db7d1fbe508f",
+      "type": "divider"
+    },
+    {
+      "id": "04d8b2b9-9b84-4623-adff-837954eae08e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2c41d39b-e895-47b7-94b9-c11664d6cd8f",
+          "type": "column",
+          "children": [
+            {
+              "id": "5aeaa509-f5d8-484d-a211-563e5db80e62",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f4d53e0f-a630-47f0-a1a0-f127f1c3bcf0",
+          "type": "column",
+          "children": [
+            {
+              "id": "8305f372-5e11-485e-8041-dbaa6e128eda",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Video-Games-Well-being-Palgrave-Cyberpsychology/dp/3030327698/\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3a2ad802-be53-4587-b4a2-665aba20a766",
+      "type": "divider"
+    }
+  ]
+}

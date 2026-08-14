@@ -1,0 +1,116 @@
+{
+  "id": "2d6bbb0a-fa1b-4971-a479-8e7f856b9547",
+  "slug": "african-ritual-dolls",
+  "title": "African Ritual Dolls",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/African-Ritual-Dolls-2d6bbb0afa1b4971a4798e7f856b9547?pvs=21",
+  "createdTime": 1667273970069,
+  "lastEditedTime": 1681310402431,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "African Ritual Dolls",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7de5b2c015b7.webp",
+  "blocks": [
+    {
+      "id": "af37a178-36e1-4860-a90e-618651e4a335",
+      "type": "divider"
+    },
+    {
+      "id": "750abdd7-ec4f-46d5-8e1c-a4b4add3b590",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2083c742-00a6-45ec-aa85-6936cfe018bb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "04ec161e-b144-4014-84f0-8c937e887869",
+          "type": "column",
+          "children": [
+            {
+              "id": "597e1472-1cd8-4cfd-af20-25421dc0e2f6",
+              "type": "paragraph",
+              "html": "<em><strong>African Ritual Dolls</strong></em> was written by William Kohler, published by The University Museum / The Anko Foundation, Philadelphia in 1974."
+            }
+          ]
+        },
+        {
+          "id": "de06e04c-8cf1-4ced-8418-3d3234a2e0f7",
+          "type": "column",
+          "children": [
+            {
+              "id": "91a0497c-97aa-4672-a30c-d898d77c45ce",
+              "type": "image",
+              "src": "./assets/images/untitled-7de5b2c015b7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7cc8a44-0352-456f-8803-99692089fadc",
+      "type": "divider"
+    },
+    {
+      "id": "cf52ae98-4dca-4ca2-bb40-87c5378690d0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "aa5f8d98-c825-41cd-ad75-00f2cccb6ab1",
+          "type": "column",
+          "children": [
+            {
+              "id": "975cc376-d714-4d9b-ba6e-1703c4352b50",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bc9270de-595e-4af8-869a-6bd9ddcedf35",
+          "type": "column",
+          "children": [
+            {
+              "id": "c438ebd2-046a-47cc-9a1c-b6e38b94be82",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SSBrn2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cd9a6d2-1b1c-4ac8-9bb6-c0b06db688d3",
+      "type": "divider"
+    }
+  ]
+}

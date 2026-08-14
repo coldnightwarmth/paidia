@@ -1,0 +1,266 @@
+{
+  "id": "f9add3eb-3274-4e94-8a80-f9ae577f1678",
+  "name": "Technical Insights",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "KU^N": {
+      "id": "KU^N",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "834429ab-0a9f-4107-a583-b7db7ef98394",
+          "value": "Text",
+          "color": "brown"
+        },
+        {
+          "id": "6e975809-4ad3-463f-9eed-bfc446eb3354",
+          "value": "Video",
+          "color": "green"
+        },
+        {
+          "id": "2c56d12f-1380-4980-8dfd-bb464c4e1b4c",
+          "value": "Audio",
+          "color": "purple"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "40f19f6e-36cf-4e4f-bdad-209415398c51",
+      "collectionId": "f9add3eb-3274-4e94-8a80-f9ae577f1678",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "eb2572c6-5b79-4b88-9078-a777b7ecad1b",
+        "f6a656b6-1e54-4e81-a100-d7661b265561",
+        "3bcb4a4a-c3a3-4224-a357-a81a5ab9faf6",
+        "08833eaf-38a1-443a-bad8-c17d60b9457a",
+        "6ca1ca69-9893-41d1-9b92-b035679d0ec3",
+        "b03db1b5-3dd8-4d2d-a681-9bd9822a6c60",
+        "aa10a488-bd02-498d-8e15-3f1f4c5ac99b",
+        "f28f9b90-d8fc-46a5-8dda-f9601717fe22",
+        "b4cf57a8-b4c1-4ea0-a73d-babc8bbd8cdd",
+        "8f4a4499-ff2b-4252-ae1b-e587285c877b",
+        "0c864f2d-a5cc-4d1b-b3a7-d7de70370794",
+        "a2b3c7fb-ef25-43bd-8c9a-034af179ac96",
+        "4dba71bd-a8bb-4af7-9ea4-a1462b58d1ba",
+        "85b2eadc-ecb0-479b-9d89-91f4fdd05ed9",
+        "3a4d8c60-5ae4-442e-b89a-62526a548d58",
+        "6ce0c0a2-553d-4bd3-b337-e939909c507e",
+        "8d42eb1a-6875-4195-a7f0-056dbfc5b759",
+        "ac67deb6-4b2e-46fa-adb0-07dd6d32839f",
+        "ee9c1a88-3083-4846-9de3-758b81059d31",
+        "1363e7c5-89f7-43cb-944b-5fe906159cdd",
+        "66ed244f-0068-4b4d-88f3-a8bb15c8e691",
+        "352634ce-15c2-4d96-84e6-9ec403a8b0c6",
+        "b5216b66-7bc1-4476-862a-07e30bba3254",
+        "82e16c90-9c70-4524-9a31-b93f77b0ff2d",
+        "9496d30f-27a6-4c78-a9ab-513e754d969b",
+        "ded7673e-2d53-4a9b-a3f9-c413bf57a8eb",
+        "6e05a910-e992-4859-9b4d-7a89bc568981",
+        "1528b499-1b42-40c4-bab8-4ec5b5e9a49a",
+        "3fd9770e-b9fd-43b3-b4ef-d3c0e3549668",
+        "8be1fbb7-25f5-4786-a815-61a81db56638",
+        "6dee6160-26f7-4bc6-8536-7e176bb9afb9",
+        "f9b1e531-75ed-4b16-8a8d-66d7c3bf60d0",
+        "e4a64dea-7056-4d2b-ad15-454d37dea61f",
+        "39cba83d-7de8-475c-8e3e-76f44d114a9f",
+        "479abe58-064b-49c0-ad40-f6c1630d25b6",
+        "4b810176-0eb4-48c6-b6e9-aea5261a7b79",
+        "b3d4d10d-a939-4658-bd7b-0e31dfafacb2",
+        "6555c80b-4dbc-4f54-8304-865ea6d04b64",
+        "91e4242f-eac2-44e0-add1-502609a2c722",
+        "7365214c-1f15-42d0-aa67-1d3b99669612",
+        "ce961c07-6866-46d7-b6cd-9a77db11e791"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "1dcd24ae-bf61-4471-b230-97dd32d03b4c",
+      "collectionId": "f9add3eb-3274-4e94-8a80-f9ae577f1678",
+      "type": "gallery",
+      "name": "Text",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "fdc0e201-a672-46d8-8c41-0eeb4b1ec7b4",
+      "collectionId": "f9add3eb-3274-4e94-8a80-f9ae577f1678",
+      "type": "gallery",
+      "name": "Video",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "6ba9e4ba-7b16-462e-b955-017bf70fd92f",
+      "collectionId": "f9add3eb-3274-4e94-8a80-f9ae577f1678",
+      "type": "gallery",
+      "name": "Audio",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

@@ -1,0 +1,126 @@
+{
+  "id": "629a4be0-6cf4-4dfe-a9b5-84acd998f073",
+  "slug": "game-boy-modding",
+  "title": "Game Boy Modding",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Game-Boy-Modding-629a4be06cf44dfea9b584acd998f073?pvs=21",
+  "createdTime": 1664464711539,
+  "lastEditedTime": 1681312946847,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Game Boy Modding"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/51co3b-jfl-sx398-bo1204203200-4c4b55202ee3.webp",
+  "blocks": [
+    {
+      "id": "ccf929b7-009e-463e-b842-816d610de46e",
+      "type": "divider"
+    },
+    {
+      "id": "f3d45542-4fad-41eb-b515-66f61f476db2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0a56806e-544f-43c2-b1db-68d7b968ef57",
+      "type": "columns",
+      "children": [
+        {
+          "id": "000c3083-0e66-4d92-b106-b46ac35c857f",
+          "type": "column",
+          "children": [
+            {
+              "id": "03082a2a-4dca-41ee-a5d4-44649df6d0fd",
+              "type": "paragraph",
+              "html": "<em><strong>Game Boy Modding: A Beginner's Guide to Game Boy Mods, Collecting, History, &amp; More!</strong></em> was written by Greg Farrell, published by No Starch Press, May 26, 2020."
+            },
+            {
+              "id": "66c7b36e-02a6-4f27-9235-a5e2a4680c38",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b64192f0-a655-43e3-949e-871f63f34174",
+              "type": "quote",
+              "html": "<strong><em>Complete beginner's guide to all aspects of modifying the classic Nintendo Game Boy.</em></strong><em><br><br>Game Boy Modding teaches you how to purchase, refurbish, mod, and customize Nintendo handheld consoles. The consoles are widely available and the customizations are affordable, requiring only limited tools and know-how. Retro consoles are seeing a resurgence of popularity worldwide, and king among these throwback devices is the Nintendo Game Boy, which sold over 100 million units in its lifetime and introduced gamers to Mario and Pokemon. These consoles emanate pixelated 8-bit retro charm, but lack the modern technological enhancements that we take for granted in 2020. You'll learn basic soldering and hardware modification techniques; how to change speakers, buttons, and screen lenses; how to fix dead speakers and sticky buttons; and how to personalize your Game Boy to your heart's content.</em>"
+            },
+            {
+              "id": "4ca4b90a-1a19-479c-8916-c8cd2b4b81a2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e2bfa9b4-a8d2-4b89-b237-21ad73d25c8c",
+          "type": "column",
+          "children": [
+            {
+              "id": "ec65d880-739e-42f4-9ae1-762e8b7c321c",
+              "type": "image",
+              "src": "./assets/images/51co3b-jfl-sx398-bo1204203200-4c4b55202ee3.webp",
+              "caption": "",
+              "alt": "51Co3B-J+fL._SX398_BO1,204,203,200_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f958a869-820c-4609-a452-83ae61a514f0",
+      "type": "divider"
+    },
+    {
+      "id": "7a188310-07aa-4c2b-bc31-7645850ea7a6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "66feb2b6-5d25-41ae-a715-705dd7e04501",
+          "type": "column",
+          "children": [
+            {
+              "id": "2f26af27-7cc2-4fd4-ab1a-4da6df21c802",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "936b7dfd-02b5-42b8-867c-2f9380a9a831",
+          "type": "column",
+          "children": [
+            {
+              "id": "c61db801-9c45-4329-a580-86814e39af00",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3y1KfQa\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b20f89d9-ba5b-4a70-a194-e2a861f19fb4",
+      "type": "divider"
+    }
+  ]
+}

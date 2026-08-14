@@ -1,0 +1,136 @@
+{
+  "id": "5151539e-8cfe-4085-a417-b601064a8033",
+  "slug": "the-anthropology-of-performance",
+  "title": "The Anthropology of Performance",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/5151539e8cfe4085a417b601064a8033",
+  "createdTime": 1651706810464,
+  "lastEditedTime": 1681314317733,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Anthropology of Performance"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2a3edd22374b.webp",
+  "blocks": [
+    {
+      "id": "0f0d4f05-c44f-48dd-a1a7-c8eb56a5c67d",
+      "type": "divider"
+    },
+    {
+      "id": "cdb2a894-dd92-4832-9003-19c654ed006e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cdc70b6f-cf2b-4665-9fc3-c2d6d9e1840f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "aae756ec-ec64-437f-8d0b-5024d16d21b2",
+          "type": "column",
+          "children": [
+            {
+              "id": "c2fef91c-dd5a-4d45-9f8e-0f4b456c515d",
+              "type": "paragraph",
+              "html": "<em><strong>The Anthropolgy of Performance</strong></em> is a collection of essays written by Victor Turner, published posthumously by PAJ Publications, June 1, 1988."
+            },
+            {
+              "id": "2bca76b7-a972-4297-b7e8-87952cc7581c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e56af173-27a1-4f08-b509-94048fa3fc45",
+              "type": "quote",
+              "html": "<em>Turner is all over the globe as he addresses issues of cultural performance, </em><a href=\"#/in-tune-with-the-world\"><em>carnival</em></a><em>, film, theatre, and &quot;performing ethnography&quot; to break new ground in anthropological thinking about event, spectacle, and audience. One of his last writings, &quot;Body, Brain, and Culture&quot; links cerebral neurology and anthropology studies in a fascinating interface.</em>"
+            }
+          ]
+        },
+        {
+          "id": "824cd046-09b6-4118-82f9-e674715b089c",
+          "type": "column",
+          "children": [
+            {
+              "id": "4b7e7d52-26a7-42e2-9867-d794ac3ee8f3",
+              "type": "image",
+              "src": "./assets/images/untitled-2a3edd22374b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87157ec5-7658-4e25-8b79-755e5d3f7cbf",
+      "type": "divider"
+    },
+    {
+      "id": "f6d7864d-b478-4bf2-acd2-913b8baf65fa",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7826f204-a78f-40c5-a653-01cda54eaa7a",
+          "type": "column",
+          "children": [
+            {
+              "id": "9c195571-ebbe-4b8b-bdf4-552507c8ddf7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "deb9569d-4bf4-4b08-b952-f07a1cd7e78f",
+          "type": "column",
+          "children": [
+            {
+              "id": "65e72244-acc1-4481-97dd-4f103150520d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3M8Tpzd\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30490a0f-4ae2-4c3a-9aaa-4bd87bf21e60",
+      "type": "divider"
+    },
+    {
+      "id": "289ab10a-959a-427c-9885-20a023a0029f",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "6aedfe8f-5139-4abd-afc0-32d00bbec3d0",
+      "type": "paragraph",
+      "html": "<a href=\"#/from-ritual-to-theatre\">From Ritual to Theatre</a> <em>(book)</em>"
+    },
+    {
+      "id": "4fe1cb6f-9cde-4881-9179-d9b95fa2c395",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

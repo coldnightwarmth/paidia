@@ -1,0 +1,146 @@
+{
+  "id": "bb55554c-bc25-4131-bcb8-9fd54ca492e1",
+  "slug": "in-game",
+  "title": "In-Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "16515e7c-ec2f-4d98-9fec-861099f13e9d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/In-Game-bb55554cbc254131bcb89fd54ca492e1?pvs=21",
+  "createdTime": 1651868922863,
+  "lastEditedTime": 1681313370659,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "In-Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c5d638822482.webp",
+  "blocks": [
+    {
+      "id": "ee40517a-1a37-46da-923f-e5ef1c6bd7c4",
+      "type": "divider"
+    },
+    {
+      "id": "dd06a059-32e3-44f9-b8f7-df5bc8ae310d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "614e4c81-89a8-4b3f-8538-d628454d1795",
+      "type": "columns",
+      "children": [
+        {
+          "id": "460d8460-f2f6-4d7a-a255-1d64a77f5d7c",
+          "type": "column",
+          "children": [
+            {
+              "id": "b4cb9499-09af-4d67-9ba1-e75574a111dc",
+              "type": "paragraph",
+              "html": "<em><strong>In-Game: From Immersion to Incorporation</strong></em> was written by Gordon Calleja, published by The MIT Press, May 13, 2011."
+            },
+            {
+              "id": "1d921b3d-7f20-4c0a-b30a-94b03a85b8fa",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "dd1060dc-e42b-4451-9f89-5eaf05231921",
+              "type": "quote",
+              "html": "<strong><em>An investigation of what makes digital games engaging to players and a reexamination of the concept of immersion.</em></strong><em><br><br>Digital games offer a vast range of engaging experiences, from the serene exploration of beautifully rendered landscapes to the deeply cognitive challenges presented by strategic simulations to the adrenaline rush of competitive team-based shoot-outs. Digital games enable experiences that are considerably different from a reader's engagement with literature or a moviegoer's experience of a movie. In </em>In-Game<em>, Gordon Calleja examines what exactly it is that makes digital games so uniquely involving and offers a new, more precise, and game-specific formulation of this involvement. One of the most commonly yet vaguely deployed concepts in the industry and academia alike is immersion—a player's sensation of inhabiting the space represented onscreen. Overuse of this term has diminished its analytical value and confused its meaning, both in analysis and design. Rather than conceiving of immersion as a single experience, Calleja views it as blending different experiential phenomena afforded by involving gameplay. He proposes a framework (based on qualitative research) to describe these phenomena: the player involvement model. This model encompasses two constituent temporal phases—the macro, representing offline involvement, and the micro, representing moment-to-moment involvement during gameplay—as well as six dimensions of player involvement: kinesthetic, spatial, shared, narrative, affective, and ludic. The intensified and internalized experiential blend can culminate in incorporation—a concept that Calleja proposes as an alternative to the problematic immersion. Incorporation, he argues, is a more accurate metaphor, providing a robust foundation for future research and design.</em>"
+            },
+            {
+              "id": "9f993345-6748-4d4a-92a4-b6d41ff8ff2b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5d1b4908-69fc-4342-8f4d-49fa4302a29b",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf05056c-f4ae-49be-b3cc-f9310bd9a2d3",
+              "type": "image",
+              "src": "./assets/images/untitled-c5d638822482.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72583429-dd9d-4dbb-8a6a-c95243d694e8",
+      "type": "divider"
+    },
+    {
+      "id": "c95086bd-8371-43de-b54f-8bf4eea747b7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a88400c7-0869-4e3d-ae35-180d1ca7e8d5",
+          "type": "column",
+          "children": [
+            {
+              "id": "a23290d7-3e40-463c-b37f-6bd92fff8ef2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a8ed6e8c-31fd-4f21-94bc-0bc85b868a36",
+          "type": "column",
+          "children": [
+            {
+              "id": "a7c81081-2fa1-476d-813e-3f1fc213e6e2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3TQsaNO\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da0b1edf-ee07-41ea-8dfa-9c346ac633e0",
+      "type": "divider"
+    },
+    {
+      "id": "895886d0-a9dc-4ea4-988e-9ff590ea3ab3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "be6b3f0c-97fe-41e7-906c-c7815a1ba0ed",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "724c32d5-465e-4149-84a3-5e1858676607",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

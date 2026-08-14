@@ -1,0 +1,131 @@
+{
+  "id": "98494543-8e19-4caf-b50b-8753356b7525",
+  "slug": "playing-it-up",
+  "title": "Playing It Up",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Playing-It-Up-984945438e194cafb50b8753356b7525?pvs=21",
+  "createdTime": 1659567964257,
+  "lastEditedTime": 1681313081096,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playing It Up",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d00c06f09a3e.webp",
+  "blocks": [
+    {
+      "id": "7cca1df3-80b6-43a7-bf0e-70e2993cfc19",
+      "type": "divider"
+    },
+    {
+      "id": "4f174346-de74-4736-b397-689d446e6ab9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "94d68784-dbb1-4ec6-9eed-f7017032fa8a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c86e14ea-a428-4480-bdee-99dacfbbd238",
+          "type": "column",
+          "children": [
+            {
+              "id": "8167a0e6-4644-430e-ade5-5f6e543fa889",
+              "type": "paragraph",
+              "html": "<em><strong>Playing It Up: With Loose Parts, Playpods, &amp;Adventure Playgrounds</strong></em> was written by Joan Almon, self-published through CreateSpace, February 2, 2017."
+            },
+            {
+              "id": "ab5d1388-8ec3-44e6-bd15-c94bd18e5827",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0aaa47c1-8a95-4fde-979d-e7dc7bd5d709",
+              "type": "quote",
+              "html": "<em>Child-initiated, creative play is returning after decades of erosion. Through the hard work and dedicated efforts of play activists, new opportunities for play are arising, including the use of open-ended play materials in schools, parks, nature centers, and adventure playgrounds. Over 20 play initiatives are described in this book, with dozens of photographs that illustrate the power of play.</em>"
+            },
+            {
+              "id": "1145dfb8-1c77-42cd-8967-2c0ad3805390",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7f38bc88-72ea-4034-9548-abf161b9df9a",
+          "type": "column",
+          "children": [
+            {
+              "id": "a054e9d8-14db-41df-9d4a-cab3ea352465",
+              "type": "image",
+              "src": "./assets/images/untitled-d00c06f09a3e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bca69380-09c1-4e99-8467-09cd81a02ac6",
+      "type": "divider"
+    },
+    {
+      "id": "e9216a38-c7e3-48e2-8f33-eec2bc44ec44",
+      "type": "columns",
+      "children": [
+        {
+          "id": "71b63e77-a546-4955-a751-6b062a84244a",
+          "type": "column",
+          "children": [
+            {
+              "id": "590754ca-89f2-4524-8d27-64a480ccec41",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "12c2c485-05a8-4f74-85cb-ea82d6c3a2c4",
+          "type": "column",
+          "children": [
+            {
+              "id": "4a0b6225-80af-43da-bb16-b8ee6e53f467",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zsLOGt\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37738ae2-86ea-4787-9934-c1dee937f3fe",
+      "type": "divider"
+    }
+  ]
+}

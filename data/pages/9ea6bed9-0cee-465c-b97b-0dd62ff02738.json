@@ -1,0 +1,131 @@
+{
+  "id": "9ea6bed9-0cee-465c-b97b-0dd62ff02738",
+  "slug": "don-quixote",
+  "title": "Don Quixote",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/9ea6bed90cee465cb97b0dd62ff02738",
+  "createdTime": 1653243370145,
+  "lastEditedTime": 1681314133698,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Don Quixote"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/pxl-20210712-183115654-3f3666254b75.webp",
+  "blocks": [
+    {
+      "id": "923b0fbb-19df-49b8-a56b-78a7c865a581",
+      "type": "divider"
+    },
+    {
+      "id": "2f4f1d88-00ba-42f8-b9e6-5be4516f47bc",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f642a09b-36d2-4530-8e4b-8e76f2e619db",
+      "type": "columns",
+      "children": [
+        {
+          "id": "442a036f-1162-400c-9a1e-55c550f3613a",
+          "type": "column",
+          "children": [
+            {
+              "id": "c66cb877-3a30-40da-82dd-d7031999af24",
+              "type": "paragraph",
+              "html": "<em><strong>Don Quixote</strong></em> was written by Miguel de Cervantes, originally published in two parts, in 1605 &amp; 1615."
+            },
+            {
+              "id": "aa055c24-ebe5-4f37-90f2-7cbc286899fc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c56f0142-4f00-4215-a3a5-39315d82cfca",
+              "type": "quote",
+              "html": "<em>Don Quixote has become so entranced reading tales of chivalry that he decides to turn knight errant himself. In the company of his faithful squire, Sancho Panza, these exploits blossom in all sorts of wonderful ways. While Quixote's fancy often leads him astray—he tilts at windmills, imagining them to be giants—Sancho acquires cunning and a certain sagacity. Sane madman and wise fool, they roam the world together-and together they have haunted readers' imaginations for nearly four hundred years.<br><br>With its experimental form and literary playfulness, </em>Don Quixote<em><strong> </strong></em><em>has been generally recognized as the first modern novel. This Penguin Classics edition, with its beautiful new cover design, includes John Rutherford's masterly translation, which does full justice to the energy and wit of Cervantes's prose, as well as a brilliant critical introduction by Roberto Gonzalez Echevarriá.</em>"
+            }
+          ]
+        },
+        {
+          "id": "6f9ee843-c908-4d3b-8945-b920096e4349",
+          "type": "column",
+          "children": [
+            {
+              "id": "53eb9c0a-2a5b-4e4d-a7a4-8a29d938e26b",
+              "type": "image",
+              "src": "./assets/images/pxl-20210712-183115654-3f3666254b75.webp",
+              "caption": "",
+              "alt": "PXL_20210712_183115654.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1067bc69-70e7-431f-9d30-15b96b3f1e6e",
+      "type": "divider"
+    },
+    {
+      "id": "91cf0c8a-e98c-4100-bc84-ffcb64594287",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b038b44b-3a93-4083-8cd5-09536e15bf51",
+          "type": "column",
+          "children": [
+            {
+              "id": "09df309a-e047-4583-a8cd-2f4bdf0b58a2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e4fb71d8-2b1d-4df1-a5b9-987d5a747fff",
+          "type": "column",
+          "children": [
+            {
+              "id": "fcd250fa-be19-4a9c-9a65-68bfc29104fc",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/38LshI4\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be3da7ad-42c8-4e1a-886f-cd34087a2578",
+      "type": "divider"
+    },
+    {
+      "id": "25f03fd4-4b85-473f-a14c-4005e73b20ce",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "3781d70c-e195-466e-9b0e-85659ade473e",
+      "type": "paragraph",
+      "html": "<a href=\"#/cosplay\">Cosplay</a> (<em>concept</em>)"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "e113455b-c6da-4701-af7a-7c38a7d651ac",
+  "slug": "playing-with-words",
+  "title": "Playing with Words",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Playing-with-Words-e113455bc6da4701af7a7c38a7d651ac?pvs=21",
+  "createdTime": 1667269504834,
+  "lastEditedTime": 1681312706128,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playing with Words",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-25016d837419.webp",
+  "blocks": [
+    {
+      "id": "efd5c37f-a5da-43a4-acdf-f452e7d685ae",
+      "type": "divider"
+    },
+    {
+      "id": "93511b3f-f3c1-4316-be1c-af531e6a8195",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c4a7850c-5128-4615-a3f2-b373e4ceecfa",
+      "type": "columns",
+      "children": [
+        {
+          "id": "452797fc-3233-48b9-887a-397d85a59324",
+          "type": "column",
+          "children": [
+            {
+              "id": "74084a53-15d9-4e24-98d6-39673eaa9f1e",
+              "type": "paragraph",
+              "html": "<em><strong>Playing with Words: Humour in the English Language</strong></em> was a written by Barry J. Blake, published by Equinox Publishing Limited, December 31, 2007."
+            },
+            {
+              "id": "68c66c00-4ae2-41e9-aac9-b0363ffc8a49",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6cd3f65f-47bd-45b9-a24b-f4ae7558cb36",
+              "type": "quote",
+              "html": "<em>Humour permeates our lives. People tell jokes, make puns, and engage in witty banter. There is written humour in headlines and captions, in ads, on signs, t-shirts, and bumper stickers, and in the form of graffiti. Nowadays humour is available on the web and circulated by e-mail. </em>Playing with Words<em> shows how every facet of language is exploited for humour. When a word has multiple meanings or sounds like another is the basis for puns (A boiled egg is hard to beat). The word-building rules are used for clever compounds, smart blends and catchy phrases as in 'circulated by word of mouse'. Ambiguities in the syntax afford further scope for humour (Miners refuse to work after death), and the sounds of words can be exploited in humorous verse. There is also humour to be found in slips of the tongue, malapropisms, and funny misspellings. </em>Playing with Words<em> also covers the subject matter of humour and the part it plays in society. It is an informed account in non-technical language, full of examples, a book to be read for information and for fun.</em>"
+            },
+            {
+              "id": "60d43294-76df-4741-afeb-12b3e6d8e932",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "120fe92e-ce7f-48ca-a74e-783105bd8315",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b59f0ac-96a9-446b-8c73-50e7b1a14b15",
+              "type": "image",
+              "src": "./assets/images/untitled-25016d837419.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad638571-ae15-4f3d-bdfc-b6f1cd231f3e",
+      "type": "divider"
+    },
+    {
+      "id": "79d14e2b-347f-492d-bb16-00e74b4ca70f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7ca4ea64-8aad-4cdd-99ca-af22afdf4ed2",
+          "type": "column",
+          "children": [
+            {
+              "id": "0e955c23-d076-40aa-ae16-8efacb57a539",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0d850e7e-c636-483c-a300-cd1b061f2d67",
+          "type": "column",
+          "children": [
+            {
+              "id": "61357a01-c881-43df-920e-cffae99c27eb",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Fz5VHU\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ae58dbee-1a74-46ec-9247-9da6378f9697",
+      "type": "divider"
+    },
+    {
+      "id": "9125d58f-9d62-4113-b4a3-bd56c2934ead",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "a9f30709-8e4b-4cd9-8fe3-e5ebb5cd3ba7",
+      "type": "paragraph",
+      "html": "<a href=\"#/laughter\">Laughter</a> (<em>book</em>)"
+    }
+  ]
+}

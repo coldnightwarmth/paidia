@@ -1,0 +1,126 @@
+{
+  "id": "45ec3263-a471-402a-86af-f0d0bbf72f67",
+  "slug": "the-stack",
+  "title": "The Stack",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Stack-45ec3263a471402a86aff0d0bbf72f67?pvs=21",
+  "createdTime": 1651684894350,
+  "lastEditedTime": 1681314168519,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Stack"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81akxiakggl-ac-ul600-sr600600-073139addc0a.webp",
+  "blocks": [
+    {
+      "id": "4c7f1273-8873-4c0e-a58d-99a426b9fecb",
+      "type": "divider"
+    },
+    {
+      "id": "49753754-0903-4107-aaad-7187e7543612",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0d5f9be1-1999-4ea8-a75d-f4a35f465ccc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5a068e61-4bc4-49f0-ab9b-fe4c482d801b",
+          "type": "column",
+          "children": [
+            {
+              "id": "368e81cc-ebfa-4296-b561-f4502f01578d",
+              "type": "paragraph",
+              "html": "<em><strong>The Stack: On Software and Sovereignty</strong></em> was written by Benjamin H. Bratton, published by The MIT Press, February 19, 2016."
+            },
+            {
+              "id": "80a7870d-b2b3-47f6-a2c2-c21011306335",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6f06cac3-ca7a-4fb8-818a-ad30f09df8ce",
+              "type": "quote",
+              "html": "<em>A comprehensive political and design theory of planetary-scale computation proposing that </em>The Stack<em>—an accidental megastructure—is both a technological apparatus and a model for a new geopolitical architecture.<br><br>What has planetary-scale computation done to our geopolitical realities? It takes different forms at different scales—from energy and mineral sourcing and subterranean cloud infrastructure to urban software and massive universal addressing systems; from interfaces drawn by the augmentation of the hand and eye to users identified by self—quantification and the arrival of legions of sensors, algorithms, and robots. Together, how do these distort and deform modern political geographies and produce new territories in their own image?<br><br>In </em>The Stack<em>, Benjamin Bratton proposes that these different genres of computation—smart grids, cloud platforms, mobile apps, smart cities, the Internet of Things, automation—can be seen not as so many species evolving on their own, but as forming a coherent whole: an accidental megastructure called </em>The Stack<em> that is both a computational apparatus and a new governing architecture. We are inside</em> The Stack<em> and it is inside of us.<br><br>In an account that is both theoretical and technical, drawing on political philosophy, architectural theory, and software studies, Bratton explores six layers of </em>The Stack<em>: Earth, Cloud, City, Address, Interface, User. Each is mapped on its own terms and understood as a component within the larger whole built from hard and soft systems intermingling—not only computational forms but also social, human, and physical forces. This model, informed by the logic of the multilayered structure of protocol “stacks,” in which network technologies operate within a modular and vertical order, offers a comprehensive image of our emerging infrastructure and a platform for its ongoing reinvention.</em>"
+            },
+            {
+              "id": "83e494cc-85d6-41bc-958a-d4ad84ae6717",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e269196c-3b82-481c-a0e7-2dc48a8850ec",
+          "type": "column",
+          "children": [
+            {
+              "id": "bcfe588b-7ce7-497e-aef2-8e72398e70b6",
+              "type": "image",
+              "src": "./assets/images/81akxiakggl-ac-ul600-sr600600-073139addc0a.webp",
+              "caption": "",
+              "alt": "81akxiakggL._AC_UL600_SR600,600_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a535b9ca-b4bf-4468-9743-04db8ad429ab",
+      "type": "divider"
+    },
+    {
+      "id": "b595bd8b-2e1e-482a-a1e8-784be8b05688",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1ba22034-50e9-417c-9e4a-eb6c3c7dd4cd",
+          "type": "column",
+          "children": [
+            {
+              "id": "69e0e4f8-79bc-4752-b05a-7437c51db3a9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "19731bcc-5042-4411-89a7-3a07391fbfd0",
+          "type": "column",
+          "children": [
+            {
+              "id": "fb692a39-2703-4342-899b-6a98510f5f88",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OGrmbn\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a31537e-6a7c-40bb-b61b-2d2ab0dbae63",
+      "type": "divider"
+    }
+  ]
+}

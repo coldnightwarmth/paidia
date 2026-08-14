@@ -1,0 +1,136 @@
+{
+  "id": "34a14354-433c-41de-abe1-e9509146ef00",
+  "slug": "states-of-childhood",
+  "title": "States of Childhood",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/States-of-Childhood-34a14354433c41deabe1e9509146ef00?pvs=21",
+  "createdTime": 1652117694635,
+  "lastEditedTime": 1681314279563,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "States of Childhood",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-02e8a6e4659f.webp",
+  "blocks": [
+    {
+      "id": "8a1c19b3-590a-41b6-a3bd-5771a5752ef0",
+      "type": "divider"
+    },
+    {
+      "id": "77c3a7c2-74c1-419c-a722-38dfb8309348",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "77c7d5f9-ee59-4ff5-9bb6-ee06769f73a4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f73da28f-19d7-42cd-b793-bd938efa4b91",
+          "type": "column",
+          "children": [
+            {
+              "id": "e6de8e5c-8399-4de8-a764-2bbfc4e9a912",
+              "type": "paragraph",
+              "html": "<em><strong>State of Childhood: From the Junior Republic to the American Republic, 1895-1945</strong></em> was written by Jennifer S. Light, published by The MIT Press, July 14, 2020."
+            },
+            {
+              "id": "19fb9a6d-91fa-4f19-a39d-c6307f806505",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9472f88c-0ae5-40d6-93f8-3bb3f533a99f",
+              "type": "quote",
+              "html": "<em>A number of curious communities sprang up across the United States in the late nineteenth and early twentieth century: simulated cities, states, and nations in which children played the roles of legislators, police officers, bankers, journalists, shopkeepers, and other adults. They performed real work—passing laws, growing food, and constructing buildings, among other tasks—inside virtual worlds. In this book, Jennifer Light examines the phenomena of “junior republics” and argues that they marked the transition to a new kind of “sheltered” childhood for American youth. Banished from the labor force and public life, children inhabited worlds that mirrored the one they had left.<br><br>Light describes the invention of junior republics as independent institutions and how they were later established at schools, on playgrounds, in housing projects, and on city streets, as public officials discovered children's role playing helped their bottom line. The junior republic movement aligned with cutting-edge developmental psychology and educational philosophy, and complemented the era's fascination with models and miniatures, shaping educational and recreational programs across the nation. Light's account of how earlier generations distinguished &quot;real life&quot; from role playing reveals a hidden history of child labor in America and offers insights into the deep roots of such contemporary concepts as gamification, play labor, and virtuality.</em>"
+            },
+            {
+              "id": "98b6fb99-f569-42d9-9b7b-58906eaf0439",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "3d253070-2866-475a-a478-10bc1f831b9a",
+          "type": "column",
+          "children": [
+            {
+              "id": "8baf96f9-bddf-4b9c-8861-fdaa949506e4",
+              "type": "image",
+              "src": "./assets/images/untitled-02e8a6e4659f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38c3f4c7-f6e3-4079-ac0d-c950644fb0ce",
+      "type": "divider"
+    },
+    {
+      "id": "58e43631-5386-45c9-bd53-3a42226d4c5d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5b586889-0fe5-4470-b582-01ba492e8652",
+          "type": "column",
+          "children": [
+            {
+              "id": "0dc0cf00-0f86-4341-8c74-fea4266c3c78",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a3e39a0c-6e5d-45ca-ac7f-830090e04988",
+          "type": "column",
+          "children": [
+            {
+              "id": "0baebbfc-f114-47a6-8122-d0fc5181053b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3l3mEHR\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "273f6c54-57e2-43cc-8e62-74519a4752e5",
+      "type": "divider"
+    },
+    {
+      "id": "641d8ccf-965c-45a4-820e-528c34a25629",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

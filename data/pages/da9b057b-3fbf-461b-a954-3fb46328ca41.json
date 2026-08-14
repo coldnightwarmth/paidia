@@ -1,0 +1,134 @@
+{
+  "id": "da9b057b-3fbf-461b-a954-3fb46328ca41",
+  "slug": "james-p-carse",
+  "title": "James P. Carse",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "cdbf118d-29a4-4e28-acfc-aca945629d29",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/da9b057b3fbf461ba9543fb46328ca41",
+  "createdTime": 1651682388447,
+  "lastEditedTime": 1681328913042,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "James P. Carse"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/hqdefault-38b4e41dcd3f.webp",
+  "blocks": [
+    {
+      "id": "dafc0fa9-7799-4e30-8b48-88ed28779685",
+      "type": "divider"
+    },
+    {
+      "id": "ce66fc56-dc67-4550-8414-4d89c7b2bb3b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c366d3e0-2e3d-469e-a35e-9540520fbefe",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9e273eb4-4876-4d2c-87e6-0e8f7e83f401",
+          "type": "column",
+          "children": [
+            {
+              "id": "d2aa34c7-2286-4e36-a140-bd51c6b1bafb",
+              "type": "paragraph",
+              "html": "<strong>Author  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "8c697f2f-e3c3-4626-a19a-1df16e29f95a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8d49ffa5-8b56-4095-8859-4876c60529c8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d2a17ea5-b05b-4038-bc63-4e37f6705c91",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a6b81975-f778-4f2b-8e81-16cfbd49469a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "dc5aa9af-7b33-42b5-b403-e9ea083fa5ad",
+          "type": "column",
+          "children": [
+            {
+              "id": "522227fd-e90e-48cd-8124-a2b4adbfeb0e",
+              "type": "image",
+              "src": "./assets/images/hqdefault-38b4e41dcd3f.webp",
+              "caption": "",
+              "alt": "hqdefault.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe030f67-bda3-4a50-a670-5ecdbdd9ad60",
+      "type": "divider"
+    },
+    {
+      "id": "8641c2ba-8f23-4bb0-ac6e-b5ffee273892",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "5824ebf7-45b4-47cf-b302-e0b0371f1d4a",
+      "type": "paragraph",
+      "html": "<a href=\"#/finite-and-infinite-games\">Finite &amp; Infinite Games</a> (1986) (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "bec9b4d1-b1e2-4298-ba98-7316b09a35de",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "38727608-22ed-4ec9-a3d1-9dbebe55cba2",
+      "type": "divider"
+    },
+    {
+      "id": "d428a924-b45c-4235-8ff5-a6ff049271e5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d6d25092-baef-4eb6-82cf-013c9f69a75e",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "117e3552-5e21-4a39-b271-037412c6ffa2",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "3a31e74a-de3b-4cb2-80cd-4566f86fa161",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

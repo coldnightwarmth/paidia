@@ -1,0 +1,108 @@
+{
+  "id": "b1e4e1ff-831b-4476-8366-9bc62e64dcb0",
+  "name": "Community Portfolios",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "d921e28e-1dc5-4607-9d9e-c2def780070f",
+      "collectionId": "b1e4e1ff-831b-4476-8366-9bc62e64dcb0",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "690a5aeb-e999-4a9a-82ff-9ead9f5a4734",
+        "dc797d5b-d875-4450-b4a9-ee2e6a8a3a2c",
+        "1cfe1e04-b1be-4e00-bc81-4896bf6a64ef",
+        "4b360770-5efe-426d-a236-73dda7cd4d08",
+        "1b43ea83-436f-4d13-a367-79478df5960f",
+        "b1839d06-1b1d-4d23-b8a7-795547d62ca6",
+        "360ed026-5336-46c2-97d5-f60360dd00d7",
+        "b8b1cb51-2892-49ed-9cb0-4c00a5d47435",
+        "cee38d52-a669-4885-b62e-55c76705cc5f",
+        "c807345c-47b4-474f-8eba-aed92652f202",
+        "41a1dc8f-3497-4d5a-9c4a-621024d04ec1",
+        "26be42f8-f089-411a-bbdd-012ce4e6f9d8",
+        "e65e6b86-7bda-4559-8d3e-25911ee8c9c6",
+        "0a47285d-3299-43f1-a172-b061fadc26f2",
+        "9d2082b0-73cd-4ea0-abd5-7cd0c9ddbce5",
+        "dee3d55a-1dc5-47c5-b400-bded9a8f038b",
+        "f55b78f1-782d-48eb-89dd-541f304683b6",
+        "3e281788-283c-4888-ad28-7d7344749fbe",
+        "202b865f-ebe3-44d7-8573-3978a8e5c275",
+        "e14ba0fa-c2ff-4de1-9004-9b922b4f1e26",
+        "eed14553-f9ab-4411-a91e-f3ae13ab3af1",
+        "ab117bdf-b0db-4478-99bf-a2f90fffbcda",
+        "31124c24-2453-4843-b97e-9d20d2480141",
+        "357cb014-85d6-4f5e-8a09-7bea948db67d",
+        "fc8ff1ca-83db-495e-9a35-5f584d54ce31",
+        "da855616-9bfe-4bf1-96f3-c35ab7750d91",
+        "e508b9d2-87c5-4986-86f2-c3479a5bb401"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": false,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    }
+  ],
+  "rows": []
+}

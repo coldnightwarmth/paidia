@@ -1,0 +1,121 @@
+{
+  "id": "dafac7cd-60c8-4986-8c9c-8ab17de90c4b",
+  "slug": "the-gutenberg-galaxy",
+  "title": "The Gutenberg Galaxy",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/dafac7cd60c849868c9c8ab17de90c4b",
+  "createdTime": 1651773085246,
+  "lastEditedTime": 1681314173055,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Gutenberg Galaxy"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3c6cbda07a5c.webp",
+  "blocks": [
+    {
+      "id": "87df9d39-3312-44f2-bf1d-863b910c2be5",
+      "type": "divider"
+    },
+    {
+      "id": "02e80112-d8ae-436b-88e6-eb659ff3a8fa",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a26bc354-8c76-4836-95b4-8907c8b6f229",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5060c12e-456a-4c45-ab2b-fdf761c8a9b6",
+          "type": "column",
+          "children": [
+            {
+              "id": "c24318e0-d730-4bbf-b6df-b49334561f0c",
+              "type": "paragraph",
+              "html": "<em><strong>The Gutenberg Galaxy : The Making of Typographic Man</strong></em> was written by Marshall McLuhan, published by University of Toronto Press, January 1, 1962."
+            },
+            {
+              "id": "e3757211-bff8-4d96-a033-cf02b1a27a34",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9df7b429-afaa-4ce9-808e-cc1bf463ea3b",
+              "type": "quote",
+              "html": "The Gutenberg Galaxy<em> catapulted Marshall McLuhan to fame as a media theorist and, in time, a new media prognosticator. Fifty years after its initial publication, this landmark text is more significant than ever before.<br><br>Readers will be amazed by McLuhan's prescience, unmatched by anyone since, predicting as he did the dramatic technological innovations that have fundamentally changed how we communicate. The Gutenberg Galaxy foresaw the networked, compressed 'global village' that would emerge in the late-twentieth and twenty-first centuries — despite having been written when black-and-white television was ubiquitous.</em>"
+            }
+          ]
+        },
+        {
+          "id": "a1528fd3-5538-47ed-ba19-28f6871ef487",
+          "type": "column",
+          "children": [
+            {
+              "id": "1ed3403b-c3e6-417b-91c9-0705375fe692",
+              "type": "image",
+              "src": "./assets/images/untitled-3c6cbda07a5c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ed23223-b98a-4a8b-96fe-bbaf4fc8cd11",
+      "type": "divider"
+    },
+    {
+      "id": "c053186e-7fec-4b99-9ae2-5c8f37853c83",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1d484723-98cd-4d99-8ec7-d02fb4fb4b7b",
+          "type": "column",
+          "children": [
+            {
+              "id": "da48872f-2eb4-4544-aa4c-71acd91add5a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e57feb29-86c3-41df-80c0-883eb1f063c4",
+          "type": "column",
+          "children": [
+            {
+              "id": "78028798-5327-449b-864d-55d90194081f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3HMSqTY\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36c65abc-e7fd-4232-9e01-fa08ab439011",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "55c5a817-1451-4107-ad1b-6776d9ea34ae",
+  "slug": "the-girl-who-played-go",
+  "title": "The Girl Who Played Go",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Girl-Who-Played-Go-55c5a81714514107ad1b6776d9ea34ae?pvs=21",
+  "createdTime": 1658275533254,
+  "lastEditedTime": 1681313139895,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Girl Who Played Go",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/the-girl-who-played-go-5c075f87ae15.webp",
+  "blocks": [
+    {
+      "id": "a61e7fab-dce8-499c-b086-5b2b74299dfd",
+      "type": "divider"
+    },
+    {
+      "id": "3d478ca4-df65-4a1e-9bbd-f503c1ceb5f2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7a1e8914-103b-459f-895d-d1b855f64459",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4ba1838e-b6f1-4bce-b65c-13f7832eaab9",
+          "type": "column",
+          "children": [
+            {
+              "id": "9c67841d-5afd-49c7-92c8-8b98487c7d61",
+              "type": "paragraph",
+              "html": "<em><strong>The Girl Who Played Go: A Novel</strong></em> was written by Shan Sa, originally published in French in 2001."
+            },
+            {
+              "id": "213b60fe-ef88-449b-ad21-2293437a4375",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e9b18af5-d278-42c9-bf16-471398981211",
+              "type": "quote",
+              "html": "<em>As the Japanese military invades 1930s Manchuria, a young girl approaches her own sexual coming of age. Drawn into a complex triangle with two boys, she distracts herself from the onslaught of adulthood by playing the game of go with strangers in a public square--and yet the force of desire, like the occupation, proves inevitable. Unbeknownst to the girl who plays go, her most worthy and frequent opponent is a Japanese soldier in disguise. Captivated by her beauty as much as by her bold, unpredictable approach to the strategy game, the soldier finds his loyalties challenged. Is there room on the path to war for that most revolutionary of acts: falling in love?</em>"
+            },
+            {
+              "id": "9db8d9ab-655c-4468-a387-d724cdc6db53",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8038ae57-a480-49e7-b3aa-02cbc1e4e2d3",
+          "type": "column",
+          "children": [
+            {
+              "id": "de45ce13-c554-429b-9412-c9544b04eb7d",
+              "type": "image",
+              "src": "./assets/images/the-girl-who-played-go-5c075f87ae15.webp",
+              "caption": "",
+              "alt": "the-girl-who-played-go.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3b7f3a2a-088a-4386-8908-9c42f7784b14",
+      "type": "divider"
+    },
+    {
+      "id": "7b5986fc-47ce-4318-8f4f-58b15fa1f4c0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "62da6ccd-5f1c-42e8-b82a-9a239dddd1d2",
+          "type": "column",
+          "children": [
+            {
+              "id": "8db17e76-2239-4bac-9ab2-0d6caf270616",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ed261252-3bde-4e6c-8497-f41e05771f26",
+          "type": "column",
+          "children": [
+            {
+              "id": "42ffa643-9a01-4530-bb69-723772e27b93",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3aMQSgN\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f01409d-6ad2-435a-ac34-e79d941259b6",
+      "type": "divider"
+    },
+    {
+      "id": "6745a74b-024c-4e6d-b23a-ca4fd6276dd6",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

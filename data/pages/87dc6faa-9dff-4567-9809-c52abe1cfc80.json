@@ -1,0 +1,131 @@
+{
+  "id": "87dc6faa-9dff-4567-9809-c52abe1cfc80",
+  "slug": "vicious-games",
+  "title": "Vicious Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Vicious-Games-87dc6faa9dff45679809c52abe1cfc80?pvs=21",
+  "createdTime": 1651870056211,
+  "lastEditedTime": 1681313881656,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Vicious Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b0cbd77f8930.webp",
+  "blocks": [
+    {
+      "id": "de55a3ee-9f34-469b-8896-313ad9e960a3",
+      "type": "divider"
+    },
+    {
+      "id": "5673c1f9-e158-4df3-8d5f-8833ae736a07",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7fb020e9-1691-4141-b14b-465e81495059",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d8faa960-3e46-4fa4-9ac8-ace437012403",
+          "type": "column",
+          "children": [
+            {
+              "id": "b4d96f69-ae86-4013-a2fb-4cf2cc2f151a",
+              "type": "paragraph",
+              "html": "<strong><em>Vicious Games: Capitalism &amp; Gambling</em></strong> was written by Rebecca Cassidy, published by Pluto Press, February 20, 2020."
+            },
+            {
+              "id": "525f95a0-007c-4704-816f-6a21fab4e868",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d3a5daca-6e56-43cb-9514-33fe4da449fa",
+              "type": "quote",
+              "html": "<em>Gambling is everywhere, on our TVs and phones, on billboards on our streets, and emblazoned across the chests of idolised sports stars. Why has gambling suddenly expanded? How was it transformed from a criminal activity to a respectable business run by multinational corporations listed on international stock markets? And who are the winners and losers created by this transformation?<br><br></em>Vicious Games<em> is based on field research with the people who produce, shape and consume gambling. Rebecca Cassidy explores the gambling industry's affinity with capitalism and the free market and how the UK has led the way in exporting 'light touch' regulation and 'responsible gambling' around the world. She reveals how the industry extracts wealth from some of our poorest communities, and examines the adverse health effects on those battling gambling addiction.<br><br>The gambling industry has become increasingly profitable and influential, emboldened by thirty years of supportive government policies and boosted by unnatural profits. Through an anthropological excavation, </em>Vicious Games <em>opens up this process, with the intention of creating alternative, more equitable futures.</em>"
+            },
+            {
+              "id": "48cc8911-5a4f-43f5-84fa-055d8b426ddc",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7c2f83c7-24db-470c-bb12-7e4004f874ce",
+          "type": "column",
+          "children": [
+            {
+              "id": "3e4fdb13-ac36-4f57-aef4-e7997ad8e787",
+              "type": "image",
+              "src": "./assets/images/untitled-b0cbd77f8930.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b3f206a5-cf3a-4053-95c4-6c6226677cef",
+      "type": "divider"
+    },
+    {
+      "id": "e3dfc1f1-2620-471a-995c-3cbc981e62be",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5eda7542-688e-4ec9-afb0-71a772dfd1aa",
+          "type": "column",
+          "children": [
+            {
+              "id": "ef5b34f9-d91d-4883-a150-8dd30b8766b8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1e500a4a-c53e-4aba-b7e4-397b70395740",
+          "type": "column",
+          "children": [
+            {
+              "id": "ce03272c-b001-4157-a912-9d9db59c06e0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yjArBj\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2631914e-d393-48a6-8f81-1a02314c7cbc",
+      "type": "divider"
+    }
+  ]
+}

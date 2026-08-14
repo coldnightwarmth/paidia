@@ -1,0 +1,1478 @@
+{
+  "generatedAt": "2026-08-14T06:21:27.200Z",
+  "summary": {
+    "shortformPages": 170,
+    "pagesWithSourcePdf": 163,
+    "downloaded": 0,
+    "reused": 163
+  },
+  "documents": {
+    "8cbd1870-4c3a-44f6-9d4d-07882ab38e48": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b77b167-c9f3-489d-a66e-23c89f53c1f9/A_single_game_as_a_lifelong_hobby.pdf",
+      "sourceBlockId": "4759f944-7f83-4ccb-bb47-9ba53326ab0e",
+      "localPath": "./assets/documents/a-single-game-as-a-lifelong-hobby-54c4b347df.pdf",
+      "fileName": "a-single-game-as-a-lifelong-hobby-54c4b347df.pdf",
+      "bytes": 412174,
+      "sha256": "da12a1e068768e596a94cf40ef741660197d4549d601ac6ec09cd49c83c374b7",
+      "fetchedAt": "2026-08-14T06:19:06.612Z"
+    },
+    "0314495c-c8cd-4fc1-b1e2-e36af45c099c": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/277164cf-2479-48d3-a3a5-7a30af682cae/twere_well_it_were_done_quickly_-_what_belongs_in_a_glitchless_speedrun.pdf",
+      "sourceBlockId": "d7c9c343-f937-4da2-8008-f3c4a33558a3",
+      "localPath": "./assets/documents/twere-well-it-were-done-quickly-what-belongs-in-a-glitchless-speedrun-589cb78c52.pdf",
+      "fileName": "twere-well-it-were-done-quickly-what-belongs-in-a-glitchless-speedrun-589cb78c52.pdf",
+      "bytes": 324838,
+      "sha256": "aba992f9db34c8ec2556eff5eea71e13707791ac757d36ee5b6ac348ca96ccf9",
+      "fetchedAt": "2026-08-14T06:19:06.633Z"
+    },
+    "61430a5e-b989-44e3-b66b-92fc4a9a276b": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/453a3b99-3dbd-4f35-817a-92d43da31b9b/A_blunt_critique_of_game_criticism.pdf",
+      "sourceBlockId": "cc5209e4-1a6b-442a-96de-bc80d5498a98",
+      "localPath": "./assets/documents/a-blunt-critique-of-game-criticism-f3083743ed.pdf",
+      "fileName": "a-blunt-critique-of-game-criticism-f3083743ed.pdf",
+      "bytes": 764275,
+      "sha256": "802328f3304544e627fbd106bca4bb03f923da2cd0db633c4e20abe99e0f4450",
+      "fetchedAt": "2026-08-14T06:19:06.887Z"
+    },
+    "b7050874-2251-404d-aedc-226a23780c22": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a120abd4-4963-474e-a0ae-98fb9acbcda1/acid-free_bits_-_recommendations_for_long-lasting_electronic_literature.pdf",
+      "sourceBlockId": "d5cc957e-1b48-4ae9-9ab3-1ca55057df89",
+      "localPath": "./assets/documents/acid-free-bits-recommendations-for-long-lasting-electronic-literature-299bfb0d0c.pdf",
+      "fileName": "acid-free-bits-recommendations-for-long-lasting-electronic-literature-299bfb0d0c.pdf",
+      "bytes": 240672,
+      "sha256": "db8d855638a15b0fa0d3a5325be60e708ecd7dec3678bc005b669462ee25ccd1",
+      "fetchedAt": "2026-08-14T06:19:07.393Z"
+    },
+    "3b456f49-c056-4f10-a574-3d4a035d95e8": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff755da3-81aa-4268-8168-c3be5ac4a981/a_clash_between_game_and_narrative.pdf",
+      "sourceBlockId": "7f8b5017-1d76-41fa-9f34-4347fbec1e87",
+      "localPath": "./assets/documents/a-clash-between-game-and-narrative-4ead26c267.pdf",
+      "fileName": "a-clash-between-game-and-narrative-4ead26c267.pdf",
+      "bytes": 1838572,
+      "sha256": "f45a62b7c190f6747d5e9571ab6321e838a8c34f5f5ffeec3b2e115881ded1be",
+      "fetchedAt": "2026-08-14T06:19:07.502Z"
+    },
+    "f78340ca-3fad-4d12-a175-dad0151c59ef": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0eda273f-040f-4ac9-9f11-408355299193/a_typo_created_a_212-story_monolith.pdf",
+      "sourceBlockId": "4024c42a-039d-4301-957f-09f63b5dd6c0",
+      "localPath": "./assets/documents/a-typo-created-a-212-story-monolith-4e08660a73.pdf",
+      "fileName": "a-typo-created-a-212-story-monolith-4e08660a73.pdf",
+      "bytes": 671514,
+      "sha256": "d394126ebb954318629a847316007e571bed9d2a5cf3aa9c862f666f5e0a12e8",
+      "fetchedAt": "2026-08-14T06:19:07.505Z"
+    },
+    "76da32f2-23b7-46a1-9f29-c0ac81942c87": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7f4083f-dc89-49de-afe6-fb501dda4f99/actual_play_and_the_laws_of_media.pdf",
+      "sourceBlockId": "7d87236f-9264-4d41-8de8-0d2a4e1ad809",
+      "localPath": "./assets/documents/actual-play-and-the-laws-of-media-452231eff4.pdf",
+      "fileName": "actual-play-and-the-laws-of-media-452231eff4.pdf",
+      "bytes": 867791,
+      "sha256": "736f13447799017dbe1fa3b931aba162436083c8945070f209744d51576abf1c",
+      "fetchedAt": "2026-08-14T06:19:07.844Z"
+    },
+    "3cddfe0c-6fae-4b2a-b6a6-bcae10ce8951": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b7fbc22-be39-4366-a07c-2a04537b5f93/against_game_studies.pdf",
+      "sourceBlockId": "5a51b214-85e8-4046-a6c1-12b3a81de6f5",
+      "localPath": "./assets/documents/against-game-studies-fbf0b40206.pdf",
+      "fileName": "against-game-studies-fbf0b40206.pdf",
+      "bytes": 253186,
+      "sha256": "47e42645ec6bb13ff9a3cc0395473de35bb9f8027e7fba8d9793d4bc30d05ed6",
+      "fetchedAt": "2026-08-14T06:19:08.324Z"
+    },
+    "b43436ef-3aaf-4320-b9c1-008d71c20a38": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a65c075e-863c-438e-8a8a-0fd572167fce/the_aesthetics_of_rock_climbing.pdf",
+      "sourceBlockId": "840c77c3-4993-4ae0-a4c2-53ef9f54aefd",
+      "localPath": "./assets/documents/the-aesthetics-of-rock-climbing-22083f64e9.pdf",
+      "fileName": "the-aesthetics-of-rock-climbing-22083f64e9.pdf",
+      "bytes": 1148373,
+      "sha256": "b7f9afb0d169dde97db246362d74f093172383f06167cf18c501fb4bf8cbadcc",
+      "fetchedAt": "2026-08-14T06:19:08.419Z"
+    },
+    "95e7f195-d5fa-4088-a67b-6e0023781a3f": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/652eec3e-ea8f-407a-8534-4c1a4512c0b7/an_analysis_of_the_role-impact_of_the_magic_circle_in_video_games.pdf",
+      "sourceBlockId": "0106c667-d44f-49e7-8bcd-83de7fc71478",
+      "localPath": "./assets/documents/an-analysis-of-the-role-impact-of-the-magic-circle-in-video-games-afb291f04d.pdf",
+      "fileName": "an-analysis-of-the-role-impact-of-the-magic-circle-in-video-games-afb291f04d.pdf",
+      "bytes": 939329,
+      "sha256": "9338e449de1e771a2dd0d2385f7b290113d1c80cc4451ee9c16512a3dc2c76a8",
+      "fetchedAt": "2026-08-14T06:19:08.840Z"
+    },
+    "56edd27a-18d0-4613-b5cb-8bbdb65c0bd9": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc27dfb3-115b-430b-a81d-83d6f157b255/the_anarchy_of_paidia.pdf",
+      "sourceBlockId": "726ee883-2fd6-43a1-8f0e-1f3afad1cac5",
+      "localPath": "./assets/documents/the-anarchy-of-paidia-3d9baf3ad4.pdf",
+      "fileName": "the-anarchy-of-paidia-3d9baf3ad4.pdf",
+      "bytes": 158128,
+      "sha256": "2b905ee3142668c9be9873601f611c6669f5a289db191f12b535b2a533b429ca",
+      "fetchedAt": "2026-08-14T06:19:09.513Z"
+    },
+    "c25971fd-2587-48b3-a0c9-495b1a246a63": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b121db3-a228-4b90-96c6-61cb6a0ba337/an_open_field_-_informal_and_anti-formal_approaches_to_videogame_art_history.pdf",
+      "sourceBlockId": "a8d3623b-ac7b-4f2e-8285-8f20e905d134",
+      "localPath": "./assets/documents/an-open-field-informal-and-antiformal-approaches-to-videogame-art-histor-86ccb07994.pdf",
+      "fileName": "an-open-field-informal-and-antiformal-approaches-to-videogame-art-histor-86ccb07994.pdf",
+      "bytes": 1022574,
+      "sha256": "8c2504653c17a9ef8a6cf0f2199ef903a0973a6ae59fcc4dae691d0bbf836c08",
+      "fetchedAt": "2026-08-14T06:19:09.554Z"
+    },
+    "3a7eb74f-2db3-4a3b-8b48-ffbe7b0c8a28": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c79f195-fdc6-4bab-a90b-1a4b7ce54a96/an_appalachian_trail_-_a_project_in_regional_planning.pdf",
+      "sourceBlockId": "1d555d47-5b25-40fd-b229-597a5a3e4b39",
+      "localPath": "./assets/documents/an-appalachian-trail-a-project-in-regional-planning-8871360d65.pdf",
+      "fileName": "an-appalachian-trail-a-project-in-regional-planning-8871360d65.pdf",
+      "bytes": 1171405,
+      "sha256": "05522b0c030a286f512b696ac04e460a87b7451e8d2400e62e1dc6507e183d33",
+      "fetchedAt": "2026-08-14T06:19:09.639Z"
+    },
+    "ad12f912-60b6-4db1-98f0-b39761116286": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a592da33-b5af-4631-90e9-5e0180ccb6e9/the_aesthetics_of_the_aesthetics_of_the_aesthetics_of_video_games.pdf",
+      "sourceBlockId": "24a40ed0-9ca1-4864-9cc3-886e929f9b64",
+      "localPath": "./assets/documents/the-aesthetics-of-the-aesthetics-of-the-aesthetics-of-video-games-0e573f5d10.pdf",
+      "fileName": "the-aesthetics-of-the-aesthetics-of-the-aesthetics-of-video-games-0e573f5d10.pdf",
+      "bytes": 3465860,
+      "sha256": "37aff871c949679da6f31440e2592c3906edc46336fd25e82d5f9aa57e7eed5f",
+      "fetchedAt": "2026-08-14T06:19:09.868Z"
+    },
+    "1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7786abbd-fe5d-4935-8a07-ff3b7f02733b/assessing_interactivity_in_video_game_design.pdf",
+      "sourceBlockId": "9b3e2a32-5e5d-4824-b291-303f887c0181",
+      "localPath": "./assets/documents/assessing-interactivity-in-video-game-design-31f56b017d.pdf",
+      "fileName": "assessing-interactivity-in-video-game-design-31f56b017d.pdf",
+      "bytes": 327690,
+      "sha256": "4b942037f84e61fc181b4fc080473a49fba9ca8da3814e9dd2a96593c26b6958",
+      "fetchedAt": "2026-08-14T06:19:10.236Z"
+    },
+    "358a14f7-8b5d-4372-aa57-a42521e435cc": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/33c9f88e-e0d5-4cd6-a907-964b9436bcad/the_benefits_of_playing_video_games.pdf",
+      "sourceBlockId": "9f31e622-ce68-49d2-a3ab-7702b43171a2",
+      "localPath": "./assets/documents/the-benefits-of-playing-video-games-27194452a9.pdf",
+      "fileName": "the-benefits-of-playing-video-games-27194452a9.pdf",
+      "bytes": 202085,
+      "sha256": "7a2ec79f285f4f1322750add597fb800e8316d2fb4124c7c72e90babba77e3f0",
+      "fetchedAt": "2026-08-14T06:19:10.285Z"
+    },
+    "2c4b5f2a-43d6-46ac-9f73-7fd049f9f3fd": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1abad41-0076-4dc8-b8e0-5866b780914a/bitcoin_white_paper.pdf",
+      "sourceBlockId": "214a3b1b-8a54-4b26-9e23-22f5160e7030",
+      "localPath": "./assets/documents/bitcoin-white-paper-ce3933ccb6.pdf",
+      "fileName": "bitcoin-white-paper-ce3933ccb6.pdf",
+      "bytes": 222865,
+      "sha256": "7a3aeccf8d75095c96c21e57352a49120e0dd70627f70e935c8bfe781ddac957",
+      "fetchedAt": "2026-08-14T06:19:10.482Z"
+    },
+    "4f2d478e-ea43-454e-8f2f-5302cc205ece": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1813da1c-1e5d-4bfb-bbd8-fe3cdaa9f2eb/chess_and_cruelty.pdf",
+      "sourceBlockId": "ad39f231-d5c8-4d3f-9d27-9f988dbf9b12",
+      "localPath": "./assets/documents/chess-and-cruelty-ec950b8e3e.pdf",
+      "fileName": "chess-and-cruelty-ec950b8e3e.pdf",
+      "bytes": 27164,
+      "sha256": "c6b3e9afecfdd52adb478ffea35cbac625eb0bad9656e616082bcaab0aa1c8d9",
+      "fetchedAt": "2026-08-14T06:19:11.030Z"
+    },
+    "4a3b28ee-eb2b-42cc-9e94-52bf3d972c19": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54f2610e-368b-4457-aee5-6eee12b66cc8/before_eternity_-_an_adventure_game_inspired_by_sufi_mysticism.pdf",
+      "sourceBlockId": "45a2ce34-c5b1-44ed-a5a0-8c2a8e796099",
+      "localPath": "./assets/documents/before-eternity-an-adventure-game-inspired-by-sufi-mysticism-0703310251.pdf",
+      "fileName": "before-eternity-an-adventure-game-inspired-by-sufi-mysticism-0703310251.pdf",
+      "bytes": 2872155,
+      "sha256": "1f6e07c971e69c1ddf94bf2e1a149902ee3300110ec17a533cc78e0c09009f83",
+      "fetchedAt": "2026-08-14T06:19:11.146Z"
+    },
+    "2a2586d0-85a3-45e4-8238-70ceaf4fa8bf": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9853c0e6-882c-4846-ba54-216f2b14c913/building_an_antilibrary_-_the_power_of_unread_books.pdf",
+      "sourceBlockId": "881d8393-bc5a-4d7e-b9e4-819f1c6d17d2",
+      "localPath": "./assets/documents/building-an-antilibrary-the-power-of-unread-books-04285f3ee1.pdf",
+      "fileName": "building-an-antilibrary-the-power-of-unread-books-04285f3ee1.pdf",
+      "bytes": 464664,
+      "sha256": "c401a3df45bb80606cf54c7246e76792e649ef0c5e13920347dd35b7d602e318",
+      "fetchedAt": "2026-08-14T06:19:11.164Z"
+    },
+    "bb8001a9-acc0-40d6-a880-e76f82f285ed": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/113e08a7-0a25-4b65-8c85-c955fd41d488/bullet_hell_-_the_globalized_growth_of_danmaku.pdf",
+      "sourceBlockId": "f8f5788d-71da-463a-a1cf-1bae19467c90",
+      "localPath": "./assets/documents/bullet-hell-the-globalized-growth-of-danmaku-f9fce0b4b7.pdf",
+      "fileName": "bullet-hell-the-globalized-growth-of-danmaku-f9fce0b4b7.pdf",
+      "bytes": 1667620,
+      "sha256": "2ed7ebaa2c5c68e60c82e9623dd7983edac916e62de02b9c463fe99763ece289",
+      "fetchedAt": "2026-08-14T06:19:11.641Z"
+    },
+    "e7584892-a657-457d-a9d2-e600e325e79c": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/554c6a96-843c-45f4-83df-149f4670251c/childhoods_retreat.pdf",
+      "sourceBlockId": "a91a7d8f-f666-462f-bf76-d3a2216e29f8",
+      "localPath": "./assets/documents/childhood-s-retreat-aa2624754d.pdf",
+      "fileName": "childhood-s-retreat-aa2624754d.pdf",
+      "bytes": 79055,
+      "sha256": "f18fcefec158623949affeadeea5cd34b69a381f6e4fdf71a701e3cb228591ad",
+      "fetchedAt": "2026-08-14T06:19:11.713Z"
+    },
+    "ae288d78-086d-4905-acce-215afd65abb0": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/110ce755-c31f-4228-832c-e311bd84d07d/childrens_lore_in_finnegans_wake.pdf",
+      "sourceBlockId": "1553ed17-23f4-4f7d-9385-215ef4374acb",
+      "localPath": "./assets/documents/children-s-lore-in-finnegans-wake-5cc6c81bc5.pdf",
+      "fileName": "children-s-lore-in-finnegans-wake-5cc6c81bc5.pdf",
+      "bytes": 787854,
+      "sha256": "321a20f691ac129b12f9ed8522e48f4e84e642ebe16cfd5485d09d6b5eb0df8d",
+      "fetchedAt": "2026-08-14T06:19:11.908Z"
+    },
+    "1cc8c207-0154-4acf-acf1-64ead2941331": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c81d0c5b-31ff-4929-9b97-74982d3d5767/The_Complexity_of_Ludus.pdf",
+      "sourceBlockId": "6a13b940-e1be-4b1b-bf4f-8a6dc4f29ac9",
+      "localPath": "./assets/documents/the-complexity-of-ludus-7d43168f5e.pdf",
+      "fileName": "the-complexity-of-ludus-7d43168f5e.pdf",
+      "bytes": 188973,
+      "sha256": "05be4edfbacc238cef201f47c50fa55650add11eaaca482dbc093023dcdb9c16",
+      "fetchedAt": "2026-08-14T06:19:12.371Z"
+    },
+    "850fd8d3-45ea-4c4e-812c-16be1c99f129": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1859a690-e5a7-474a-b8ee-e7647a651cf1/computer_game_studies_year_one.pdf",
+      "sourceBlockId": "069349c4-6da7-45ce-ba66-51606eae7e82",
+      "localPath": "./assets/documents/computer-game-studies-year-one-b90045d1f0.pdf",
+      "fileName": "computer-game-studies-year-one-b90045d1f0.pdf",
+      "bytes": 114424,
+      "sha256": "019840f32918563766215985483994d9730ce75d0257dfe8a5d29685efe7276a",
+      "fetchedAt": "2026-08-14T06:19:12.596Z"
+    },
+    "05099670-eaf9-4000-bb31-6a1824911813": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a34d0a6-f57b-4306-beba-81f0cbfdc30c/christian_revelation_and_the_cruel_game_of_courtly_love_in_troilus_and_criseyde.pdf",
+      "sourceBlockId": "236631dc-3e2f-4322-b67d-1acf8ddba40a",
+      "localPath": "./assets/documents/christian-revelation-and-the-cruel-game-of-courtly-love-in-troilus-and-c-6831397307.pdf",
+      "fileName": "christian-revelation-and-the-cruel-game-of-courtly-love-in-troilus-and-c-6831397307.pdf",
+      "bytes": 2416971,
+      "sha256": "61a54af3abd2336d840401cd8cae7edffebd2713761dc1aa83d9d94147a27577",
+      "fetchedAt": "2026-08-14T06:19:12.732Z"
+    },
+    "7e14aadc-560c-4183-af7b-4a8879384594": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab3cc720-c251-4450-8559-b40281259f66/the_cypher_indecypherable.pdf",
+      "sourceBlockId": "499cbc66-fe33-4664-8466-e608cc88f253",
+      "localPath": "./assets/documents/the-cypher-indecypherable-5b073afefd.pdf",
+      "fileName": "the-cypher-indecypherable-5b073afefd.pdf",
+      "bytes": 133673,
+      "sha256": "0c4dc2c5b966785b77487fc00359ea8e3eea6634c2feeb225ef00c8ccb037e8b",
+      "fetchedAt": "2026-08-14T06:19:13.471Z"
+    },
+    "7a1f4b93-497f-4ea1-95e7-4a18039e7754": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1dec721-e929-4def-b479-81cd1d836075/christianity_-_a_religion_of_joy.pdf",
+      "sourceBlockId": "a9b66623-a2d8-4be4-80f0-61b8ad14e364",
+      "localPath": "./assets/documents/christianity-a-religion-of-joy-edb445cb7f.pdf",
+      "fileName": "christianity-a-religion-of-joy-edb445cb7f.pdf",
+      "bytes": 3336821,
+      "sha256": "902194d5dc10f56268d33de937c561ef679386a66d737aafebc2f4d7b7b24a91",
+      "fetchedAt": "2026-08-14T06:19:13.603Z"
+    },
+    "32250f0d-7c80-4442-b566-fab6b0ce3c85": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54ef78ef-f37f-46d2-930e-40913aeffcfe/costuming_the_imagination_-_origins_of_anime_and_manga_cosplay.pdf",
+      "sourceBlockId": "a24776fa-1e03-4344-bd8e-3f3e311c7d25",
+      "localPath": "./assets/documents/costuming-the-imagination-origins-of-anime-and-manga-cosplay-e3c1daf828.pdf",
+      "fileName": "costuming-the-imagination-origins-of-anime-and-manga-cosplay-e3c1daf828.pdf",
+      "bytes": 611770,
+      "sha256": "6d30226fa918bcf6be333068cdd34b6fb75e5afb9843e8391b224d3ba3be4589",
+      "fetchedAt": "2026-08-14T06:19:13.616Z"
+    },
+    "f04f1838-c4b3-4a9a-872c-9ebf63ad22da": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a797757-54e4-45ef-bb07-93bf285a038f/the_concrete_poem_as_a_sign_(ping_pong).pdf",
+      "sourceBlockId": "3cf61385-2560-4405-a64f-fe2dfccafd5f",
+      "localPath": "./assets/documents/the-concrete-poem-as-a-sign-ping-pong-f178b978c1.pdf",
+      "fileName": "the-concrete-poem-as-a-sign-ping-pong-f178b978c1.pdf",
+      "bytes": 1378560,
+      "sha256": "5c2b59b3f759147fc73c62d4e5fb58fb9fd03599f55d64be5a17a67f7ac67ad8",
+      "fetchedAt": "2026-08-14T06:19:13.747Z"
+    },
+    "bc185704-e418-49bd-b587-88dd45325a94": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9b601b3-2c33-4c29-bfe4-b3f5efceb1d0/divest_from_the_video_games_industry.pdf",
+      "sourceBlockId": "57c8a495-be83-4d0e-b16f-eb1c88b0f007",
+      "localPath": "./assets/documents/divest-from-the-video-games-industry-a4a9a9eb70.pdf",
+      "fileName": "divest-from-the-video-games-industry-a4a9a9eb70.pdf",
+      "bytes": 579664,
+      "sha256": "bf2997c12e0dc40b36c0016b86cd383ec8769da5995853c78626729d9bbc44a8",
+      "fetchedAt": "2026-08-14T06:19:14.830Z"
+    },
+    "1fd627b0-ee6c-40f3-bfaa-b303b274c680": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c6aa8c2-0bc9-491e-bf0e-3ed0711e75c7/dionysiac_machines_-_videogames_and_the_triumph_of_the_simulacra.pdf",
+      "sourceBlockId": "265a9846-5d62-42d8-8005-7ff58666f73f",
+      "localPath": "./assets/documents/dionysiac-machines-videogames-and-the-triumph-of-the-simulacra-cf9a749eff.pdf",
+      "fileName": "dionysiac-machines-videogames-and-the-triumph-of-the-simulacra-cf9a749eff.pdf",
+      "bytes": 833455,
+      "sha256": "2823e004a2d51f910ae7761993583b001c561f2ab2e2fdcf4f7d40f38d374875",
+      "fetchedAt": "2026-08-14T06:19:14.936Z"
+    },
+    "840c485d-cc41-419a-935d-1793bd4b3f52": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b98cb0e9-e858-4014-b7f3-a00a3e2f7ca5/emissaries_guide_to_worlding_-_a_brief_history_of_infinite_games_(and_worlds).pdf",
+      "sourceBlockId": "091baded-9c16-4e56-9759-b577e6d0d2e8",
+      "localPath": "./assets/documents/emissaries-guide-to-worlding-a-brief-history-of-infinite-games-and-world-d6a112a597.pdf",
+      "fileName": "emissaries-guide-to-worlding-a-brief-history-of-infinite-games-and-world-d6a112a597.pdf",
+      "bytes": 47258,
+      "sha256": "2913c40e2d24311f341c2c6e47c912cd2bb282a08f6043d9aca94b4cf47df940",
+      "fetchedAt": "2026-08-14T06:19:15.523Z"
+    },
+    "f703153e-e2b2-409f-a4cf-ad93d50a70f8": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbe41964-45c0-49b8-b16a-4511ee131b92/Donkeyspace.pdf",
+      "sourceBlockId": "39ce921d-2369-478b-9ba1-c5cad70b7fbb",
+      "localPath": "./assets/documents/donkeyspace-103d8637f5.pdf",
+      "fileName": "donkeyspace-103d8637f5.pdf",
+      "bytes": 294852,
+      "sha256": "ceb1dc760486e77a22d212309f19af5e3fa95ef419c6a90dc810afb4b6200148",
+      "fetchedAt": "2026-08-14T06:19:15.675Z"
+    },
+    "8c04a47e-9a1f-4e56-9d64-3a3a85e445d7": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff2de35c-56f6-4998-938e-18ecff735dbd/the_dark_forest_theory_of_the_internet.pdf",
+      "sourceBlockId": "fc35864e-e045-42c7-bb09-9fb4cbf619af",
+      "localPath": "./assets/documents/the-dark-forest-theory-of-the-internet-3b01e5634c.pdf",
+      "fileName": "the-dark-forest-theory-of-the-internet-3b01e5634c.pdf",
+      "bytes": 3353173,
+      "sha256": "ef731fa317204141339a0a4be785f0f3a4558f8e197bfcbd8a3ad9051c1c2b0e",
+      "fetchedAt": "2026-08-14T06:19:16.324Z"
+    },
+    "9b764cf3-6e10-45e1-bff5-d018ebb3fe51": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c9177f4-df32-4d32-ae66-7c6a93ca0ecb/experimental_writing_in_its_moment_of_digital_technization.pdf",
+      "sourceBlockId": "66c6f7e1-ddb6-4d21-822c-794c9ee5d878",
+      "localPath": "./assets/documents/experimental-writing-in-its-moment-of-digital-technization-a8a95d1642.pdf",
+      "fileName": "experimental-writing-in-its-moment-of-digital-technization-a8a95d1642.pdf",
+      "bytes": 583881,
+      "sha256": "bcc4bc35640048c697db170d6503cdd003bb679fcae8f7b7ed98b65c7099b46a",
+      "fetchedAt": "2026-08-14T06:19:17.586Z"
+    },
+    "a2131cbd-0187-47bc-9c66-8e8e0aa2662e": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2738e574-ee87-4abf-ba32-e82fcf469267/the_end_of_childhood_play.pdf",
+      "sourceBlockId": "321b61ae-6c85-42ad-9ed2-6d4f7a19b90c",
+      "localPath": "./assets/documents/the-end-of-childhood-play-57c371e73c.pdf",
+      "fileName": "the-end-of-childhood-play-57c371e73c.pdf",
+      "bytes": 1586115,
+      "sha256": "67d76620fbb741bb22039602783e3504eec27a23a848ef3a1fb97b5c9a443d8d",
+      "fetchedAt": "2026-08-14T06:19:17.614Z"
+    },
+    "0ab3127c-dfa9-4d29-b570-877b4dae826c": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8ef0c85-bb99-4f59-a46f-078d3f31aa1a/evaluating_mixed-initiative_creative_interfaces.pdf",
+      "sourceBlockId": "2b376aad-a418-43ad-9c03-53419f7c0509",
+      "localPath": "./assets/documents/evaluating-mixed-initiative-creative-interfaces-5e04653074.pdf",
+      "fileName": "evaluating-mixed-initiative-creative-interfaces-5e04653074.pdf",
+      "bytes": 3584400,
+      "sha256": "19a94c7626ed3e03394aaa09bb6afdc32e3c6598999136cdb405c2a738955733",
+      "fetchedAt": "2026-08-14T06:19:18.568Z"
+    },
+    "bb704906-7903-47ff-83e3-ae34126ffbb7": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5fdb9d6-d7c2-4635-9bad-38e6cbf8d7ff/the_fictional_incompleteness_of_digital_gameworlds.pdf",
+      "sourceBlockId": "cd395629-bf97-4076-add0-7a77d170c1ec",
+      "localPath": "./assets/documents/the-fictional-incompleteness-of-digital-gameworlds-f6965a80b0.pdf",
+      "fileName": "the-fictional-incompleteness-of-digital-gameworlds-f6965a80b0.pdf",
+      "bytes": 449302,
+      "sha256": "a6d40cff896abf08244532af80b04a1e11aba27960d7e4d1d60c8d13c71ff12a",
+      "fetchedAt": "2026-08-14T06:19:18.585Z"
+    },
+    "601239e0-7568-4894-bd40-ac44ce2f80cb": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15d769c5-b257-4251-8c36-74bd0bf3aa81/gurngroup_interview_with_david_kanaga.pdf",
+      "sourceBlockId": "0e82383a-2c56-4800-8ebe-37f42adb284b",
+      "localPath": "./assets/documents/david-kanaga-interview-with-gamefeel-forever-5a80d1f203.pdf",
+      "fileName": "david-kanaga-interview-with-gamefeel-forever-5a80d1f203.pdf",
+      "bytes": 6816450,
+      "sha256": "53ac3b857b757fe0548281f93c4919b974552ef7919abd1f148b554874332e37",
+      "fetchedAt": "2026-08-14T06:19:19.109Z"
+    },
+    "346043bf-eb7c-4ba9-a666-15a88d0f5612": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79dc0cc1-2fc2-457d-9b80-6815cab8819f/the_forms__fluidity_of_game_play.pdf",
+      "sourceBlockId": "dd0de17f-91ef-47ff-8528-f6427351ff46",
+      "localPath": "./assets/documents/the-forms-and-fluidity-of-game-play-3e2821ddf7.pdf",
+      "fileName": "the-forms-and-fluidity-of-game-play-3e2821ddf7.pdf",
+      "bytes": 211881,
+      "sha256": "e301587f6308a4a5365d12a0574e29d3c7b499e4d115412eb0d5ecac81d4ff69",
+      "fetchedAt": "2026-08-14T06:19:19.304Z"
+    },
+    "09d51786-b78c-47eb-9459-cc5870925cb5": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0422d0b-b00e-4923-9f76-8dfa595fbd8f/game_designer_as_host.pdf",
+      "sourceBlockId": "1b1df8c4-3464-4e43-981a-83e000cc6f3a",
+      "localPath": "./assets/documents/game-designer-as-host-8e6ffa095a.pdf",
+      "fileName": "game-designer-as-host-8e6ffa095a.pdf",
+      "bytes": 1388972,
+      "sha256": "e47e4bb2b0321d0a59fbe576e5354d03d6073be3e8b1f6ccbfa16cfada338a44",
+      "fetchedAt": "2026-08-14T06:19:20.670Z"
+    },
+    "6dcc4fc1-c32c-4f74-b04b-de9a5ce9096d": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18676d21-05fc-4aa4-900b-dd4e7525984d/games_and_family_resemblances.pdf",
+      "sourceBlockId": "c0b69549-89cf-464b-a3b3-ce6d246f013f",
+      "localPath": "./assets/documents/games-and-family-resemblances-b460081072.pdf",
+      "fileName": "games-and-family-resemblances-b460081072.pdf",
+      "bytes": 1642530,
+      "sha256": "09c3676ccaeb96820bda958cdf587678e319f971a7f12505d7ae6ffd67275935",
+      "fetchedAt": "2026-08-14T06:19:21.267Z"
+    },
+    "18d10a8d-b281-4a27-8d6c-f251b559e62d": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aad62176-b046-49bf-8be6-6b886e4d2bbf/games_pilgrims_play.pdf",
+      "sourceBlockId": "df850c68-a1e4-4d4d-a7dd-4fb88a903340",
+      "localPath": "./assets/documents/games-pilgrims-play-804a692278.pdf",
+      "fileName": "games-pilgrims-play-804a692278.pdf",
+      "bytes": 96285,
+      "sha256": "28ef509431de11f3b00361c016de38cac29a2992bdf96d683a2a60d951e71666",
+      "fetchedAt": "2026-08-14T06:19:21.285Z"
+    },
+    "196c148b-b07e-4e85-8a65-cb96d20f93a4": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a2274cec-f09f-4309-8da7-8ffe6b614dac/folk_interfaces.pdf",
+      "sourceBlockId": "17302acb-703a-4d7b-b332-230bd9b54dc3",
+      "localPath": "./assets/documents/folk-interfaces-9ffee214c6.pdf",
+      "fileName": "folk-interfaces-9ffee214c6.pdf",
+      "bytes": 5396564,
+      "sha256": "c8cb9af413a42920ccdc37aa5cda5e6716d39b5de5027453b78d0bb19937721a",
+      "fetchedAt": "2026-08-14T06:19:21.356Z"
+    },
+    "ed58a988-5233-47de-8dab-669292df1501": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/13bc9c9d-2cb7-4562-a6be-15e374a97be2/From_masher_to_master.pdf",
+      "sourceBlockId": "0df1232b-ba4a-4727-bd46-7197487cbdbb",
+      "localPath": "./assets/documents/from-masher-to-master-the-educated-video-game-enthusiast-s-fighting-game-3bd5209346.pdf",
+      "fileName": "from-masher-to-master-the-educated-video-game-enthusiast-s-fighting-game-3bd5209346.pdf",
+      "bytes": 3313201,
+      "sha256": "513a87e6f4e0720c6df64464c92a2a1440a6f8f593f851c52b97a10c8f64871b",
+      "fetchedAt": "2026-08-14T06:19:21.731Z"
+    },
+    "ad484bda-fc04-4608-b5f7-a58adaea4fe9": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a83c126-8282-4d90-9a32-192d9ea6b801/Gaming__entailment.pdf",
+      "sourceBlockId": "cfe16962-7328-4100-96f7-451f4f8310b9",
+      "localPath": "./assets/documents/gaming-and-entailment-291282aac2.pdf",
+      "fileName": "gaming-and-entailment-291282aac2.pdf",
+      "bytes": 56851,
+      "sha256": "7137e13617d6ced4bfbb493b7f50564fd2c415ccb2478daae531a70d86383f22",
+      "fetchedAt": "2026-08-14T06:19:21.793Z"
+    },
+    "1900cad9-db44-48b3-910d-b962539ea068": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/002d7e0d-339f-497a-b46c-65e8e3236ee5/the_gamework.pdf",
+      "sourceBlockId": "54ddf6f4-f66e-4d9b-9d51-41a363b4bcdc",
+      "localPath": "./assets/documents/the-gamework-e66665f2a7.pdf",
+      "fileName": "the-gamework-e66665f2a7.pdf",
+      "bytes": 92341,
+      "sha256": "0566ede27d41e343ef71a9ff46d893decf4b71ec6305aecfeb5c221662b2179a",
+      "fetchedAt": "2026-08-14T06:19:21.918Z"
+    },
+    "529e7623-7232-4abf-ad91-2e9b0ed68586": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/83f42e55-ad77-41d6-abfc-63a2f8d2c24b/glitch_sorting_-_minecraft_curation_and_the_post-digital.pdf",
+      "sourceBlockId": "92900c4d-a796-44c7-8456-eca1100e3341",
+      "localPath": "./assets/documents/glitch-sorting-minecraft-curation-and-the-post-digital-395bba41b7.pdf",
+      "fileName": "glitch-sorting-minecraft-curation-and-the-post-digital-395bba41b7.pdf",
+      "bytes": 90485,
+      "sha256": "4b64366ef256c7d93cd65d88669460acc7c33e16d1d82f246bc2fc66e1c28c06",
+      "fetchedAt": "2026-08-14T06:19:22.425Z"
+    },
+    "da29120e-d711-4ae2-b57b-102784a8521f": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6178c398-7d6e-4a64-958d-06b8188abf4b/gaming_with_odin.pdf",
+      "sourceBlockId": "a10b2a4e-0bb1-4508-b97c-a53f15bb58f9",
+      "localPath": "./assets/documents/gaming-with-odin-myth-context-and-reconstruction-of-hnefatafl-117173fe43.pdf",
+      "fileName": "gaming-with-odin-myth-context-and-reconstruction-of-hnefatafl-117173fe43.pdf",
+      "bytes": 1204786,
+      "sha256": "408c88751b737ced09acbc9aecbd6b8008819426a212f41c473e563cf9fc9749",
+      "fetchedAt": "2026-08-14T06:19:22.450Z"
+    },
+    "3c83cc7b-04e7-42b4-b213-16b0d96204fa": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3e996211-4cf3-4e37-9f3c-140d5d201936/genrecore_-_the_smooth_hell_at_the_end_of_music.pdf",
+      "sourceBlockId": "cb6ce4b6-e763-4d78-adbd-89371c3ddeb7",
+      "localPath": "./assets/documents/genrecore-the-smooth-hell-at-the-end-of-music-40afa5404f.pdf",
+      "fileName": "genrecore-the-smooth-hell-at-the-end-of-music-40afa5404f.pdf",
+      "bytes": 170122,
+      "sha256": "384d2c71b0879f3e955777cd6d201987cd6ecee02e34dfbae5a6aebfbdd05c2e",
+      "fetchedAt": "2026-08-14T06:19:22.466Z"
+    },
+    "43d94fec-3645-411c-874b-41aad17d9144": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/171b2463-e841-4e60-9fc2-f2650437123d/go_in_ancient_china.pdf",
+      "sourceBlockId": "6da56aa4-de9d-46c9-af06-f75cd66ac841",
+      "localPath": "./assets/documents/go-in-ancient-china-6ef8227683.pdf",
+      "fileName": "go-in-ancient-china-6ef8227683.pdf",
+      "bytes": 542107,
+      "sha256": "f95f64f38263832153d179d7d0fb4712434a295b085761fffffbb8d82bb1c132",
+      "fetchedAt": "2026-08-14T06:19:22.812Z"
+    },
+    "a6d70482-eacd-4424-adf6-25e8769ebbb3": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b78a1e3-63cb-4848-a227-673110214d0b/god_games_and_national_glory.pdf",
+      "sourceBlockId": "0ae74464-c082-402d-a37d-5b0d08333858",
+      "localPath": "./assets/documents/god-games-and-national-glory-0660e09337.pdf",
+      "fileName": "god-games-and-national-glory-0660e09337.pdf",
+      "bytes": 731920,
+      "sha256": "48e7e9aacde3d8f8951496df045c37f45c8343efbd600f45c07c3d79f069b2bb",
+      "fetchedAt": "2026-08-14T06:19:23.404Z"
+    },
+    "8e554db9-62bd-4c34-80d4-cbe0585b420a": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ee60b6ed-f34f-46c2-ae55-12476b0ce609/gods_in_and_of_the_machine_-_morality_divination_and_meaning_in_digital_religion_and_games.pdf",
+      "sourceBlockId": "65dc9efc-58e1-4885-b3a9-1ecc1a223527",
+      "localPath": "./assets/documents/gods-in-and-of-the-machine-morality-divination-and-meaning-in-digital-re-e97ee3f634.pdf",
+      "fileName": "gods-in-and-of-the-machine-morality-divination-and-meaning-in-digital-re-e97ee3f634.pdf",
+      "bytes": 588124,
+      "sha256": "25087f201bd631ebe15ebd28def0e410e47f72134633b80d01c5dad796c45620",
+      "fetchedAt": "2026-08-14T06:19:23.408Z"
+    },
+    "6bd20586-548e-4409-92e5-ac3bf7cc7443": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/03b40416-76f9-4d9e-a0a1-d56c26b90e2c/the_hidden_face_of_christ_chesterton_and_the_concealment_of_divine_mirth.pdf",
+      "sourceBlockId": "3defd765-9159-483c-a6b4-5c7dfd2b28e2",
+      "localPath": "./assets/documents/the-hidden-face-of-christ-chesterton-and-the-concealment-of-divine-mirth-56543a4c12.pdf",
+      "fileName": "the-hidden-face-of-christ-chesterton-and-the-concealment-of-divine-mirth-56543a4c12.pdf",
+      "bytes": 103433,
+      "sha256": "561e7f2e0786d586b8f3be64239559131f5d2229a95936d181109de85bf4e5aa",
+      "fetchedAt": "2026-08-14T06:19:23.419Z"
+    },
+    "cf0205ad-6f2c-4aec-a88b-bda89036ebba": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df9d56cb-0370-4f76-98b1-87a96951a28c/grasshopper_theology_-_games_play_and_the_ideal_of_existence.pdf",
+      "sourceBlockId": "4572300c-de1f-4374-befc-0b6156c2a321",
+      "localPath": "./assets/documents/grasshopper-theology-games-play-and-the-ideal-of-existence-fe3de3456d.pdf",
+      "fileName": "grasshopper-theology-games-play-and-the-ideal-of-existence-fe3de3456d.pdf",
+      "bytes": 1257082,
+      "sha256": "a587980c07f96b5263297521a8f26206980043bc21477fe8a827234db5a57f3c",
+      "fetchedAt": "2026-08-14T06:19:23.722Z"
+    },
+    "17882a12-e5a6-4f61-92a7-359646af45ef": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/424a11a3-663a-4566-b680-714aed7f1432/hypertext_narrative_and_baseball.pdf",
+      "sourceBlockId": "3d1f289b-3694-45a3-ab11-ef91bde41685",
+      "localPath": "./assets/documents/hypertext-narrative-and-baseball-0e31da47af.pdf",
+      "fileName": "hypertext-narrative-and-baseball-0e31da47af.pdf",
+      "bytes": 124219,
+      "sha256": "6d8ff8107332fea0c6428d96b2226970853dc6c4ff0517ea4d320969348457a5",
+      "fetchedAt": "2026-08-14T06:19:24.423Z"
+    },
+    "7bffcc57-cbf4-4f99-b9fe-7d0d08e765ba": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ee2e486-f79a-4871-9b15-e4b7170b9ba7/i_have_no_mouth_and_i_must_scream.pdf",
+      "sourceBlockId": "9587368d-766a-4ce7-a06a-1bfc757f0826",
+      "localPath": "./assets/documents/i-have-no-mouth-and-i-must-scream-a0117375d2.pdf",
+      "fileName": "i-have-no-mouth-and-i-must-scream-a0117375d2.pdf",
+      "bytes": 83888,
+      "sha256": "80cc46a1bca54d9e8334ad75c25f667370025b0ae16f5e008b164b0ed8512e66",
+      "fetchedAt": "2026-08-14T06:19:25.065Z"
+    },
+    "9a108860-0f80-47f1-871f-24d964dac4ae": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/169e679c-e194-4245-ada1-802cb39778e8/humor_in_ancient_chinese_philosophy.pdf",
+      "sourceBlockId": "379e26c9-fd20-4e4b-9e79-e54b6c9a9c3f",
+      "localPath": "./assets/documents/humor-in-ancient-chinese-philosophy-4f41d700db.pdf",
+      "fileName": "humor-in-ancient-chinese-philosophy-4f41d700db.pdf",
+      "bytes": 2306379,
+      "sha256": "261fdff3bc20ea28e903a5cc67b1e1b272dacc93d870d6f53e70297cd2570f54",
+      "fetchedAt": "2026-08-14T06:19:25.530Z"
+    },
+    "777b42c5-e904-402f-ada1-9b9a40491c74": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c8b5fc0-0e71-43d3-a404-7ccd8655eceb/How_Aristotle_Created_the_Computer.pdf",
+      "sourceBlockId": "d344178d-791c-448f-9db9-c894a6e991d9",
+      "localPath": "./assets/documents/how-aristotle-created-the-computer-adceaf9777.pdf",
+      "fileName": "how-aristotle-created-the-computer-adceaf9777.pdf",
+      "bytes": 2914776,
+      "sha256": "d19cda8dbcc87284680608341c8c24c683869bf86f3a2e7dc56622b9f6a8e4fa",
+      "fetchedAt": "2026-08-14T06:19:25.690Z"
+    },
+    "03da6082-25da-494e-9882-6b0c4f34a386": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9ce308d-e761-424f-93b8-36033954ceac/i_have_no_words__i_must_design_-_toward_a_critical_vocabulary_for_games.pdf",
+      "sourceBlockId": "ba52e804-0463-4069-841b-08e23769fb55",
+      "localPath": "./assets/documents/i-have-no-words-and-i-must-design-toward-a-critical-vocabulary-for-games-76ccca2692.pdf",
+      "fileName": "i-have-no-words-and-i-must-design-toward-a-critical-vocabulary-for-games-76ccca2692.pdf",
+      "bytes": 694141,
+      "sha256": "2798def373ecb2abd050f2ad089ad7e30463a20bb868c40e4de65c620b724f82",
+      "fetchedAt": "2026-08-14T06:19:25.947Z"
+    },
+    "c9a2e138-e85d-424e-9f85-9750b890a1b8": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4f29e7a-7c60-4d75-9f0a-a2c594a8a5e3/how_not_to_play.pdf",
+      "sourceBlockId": "c8c4e57f-f9e7-4546-9182-0e6a79971463",
+      "localPath": "./assets/documents/how-not-to-play-09782e110f.pdf",
+      "fileName": "how-not-to-play-09782e110f.pdf",
+      "bytes": 3224936,
+      "sha256": "f09ae5ffac4a8785711b05780e5f0fa810aa2176243907364ee75360a43bd7e2",
+      "fetchedAt": "2026-08-14T06:19:26.053Z"
+    },
+    "1ef43353-aada-4f4b-bece-2f2db22cfeec": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dee4d411-5c54-4850-8057-27294e178023/internyet_-_why_the_soviet_union_did_not_build_a_nationwide_computer_network.pdf",
+      "sourceBlockId": "5d6a7e8a-bfad-48f3-b15d-0e17e455f7ae",
+      "localPath": "./assets/documents/internyet-why-the-soviet-union-did-not-build-a-nationwide-computer-netwo-395b37a646.pdf",
+      "fileName": "internyet-why-the-soviet-union-did-not-build-a-nationwide-computer-netwo-395b37a646.pdf",
+      "bytes": 142490,
+      "sha256": "b82d5482565e891271f45c10a9d770ba59d2714a0a1f5c40b5901cb40677591a",
+      "fetchedAt": "2026-08-14T06:19:26.606Z"
+    },
+    "ddf8aebb-9e87-404a-8002-e444c7b3c8fd": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2ee9c52d-a6da-4295-bffc-a2398df723e3/intertubes_-_a_study_of_the_us_long-haul_fiber-optic_infrastructure.pdf",
+      "sourceBlockId": "aa085c60-d435-42ad-bd39-398e33ef2682",
+      "localPath": "./assets/documents/intertubes-a-study-of-the-us-long-haul-fiber-optic-infrastructure-5dd2241fcb.pdf",
+      "fileName": "intertubes-a-study-of-the-us-long-haul-fiber-optic-infrastructure-5dd2241fcb.pdf",
+      "bytes": 1364348,
+      "sha256": "572725a3e0d0405c61e393549f69ee4c8dfdc3e37e182d9d081d57319f75bcd5",
+      "fetchedAt": "2026-08-14T06:19:27.582Z"
+    },
+    "e244ed69-e26c-48dc-b1ac-4d016c6d08b3": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/502523fd-3c35-4e92-9da5-8ad54a69b1d7/Inside_the_digital_sensorium.pdf",
+      "sourceBlockId": "556538e2-7679-431e-a474-42a6e162a770",
+      "localPath": "./assets/documents/inside-the-digital-sensorium-12afb01a58.pdf",
+      "fileName": "inside-the-digital-sensorium-12afb01a58.pdf",
+      "bytes": 4467076,
+      "sha256": "981b880ad8c65d9ce85cfe6055da4e4d6bd2548bdedbe61e4f28c8da19ffd531",
+      "fetchedAt": "2026-08-14T06:19:28.815Z"
+    },
+    "402c45e1-9a3e-4a4e-be36-d938746b85b4": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c778679c-4b9a-42a1-9c6b-84eab9366300/is_the_homo_ludens_cheerful_and_serious_at_the_same_time.pdf",
+      "sourceBlockId": "6e799a15-dd13-43f5-8785-924c48f61103",
+      "localPath": "./assets/documents/is-the-homo-ludens-cheerful-and-serious-at-the-same-time-a127a0f6c2.pdf",
+      "fileName": "is-the-homo-ludens-cheerful-and-serious-at-the-same-time-a127a0f6c2.pdf",
+      "bytes": 153650,
+      "sha256": "027bc7b4044bf1357f1afab68f5071c70e33a4b74344284ae6a99193ae61aeec",
+      "fetchedAt": "2026-08-14T06:19:29.521Z"
+    },
+    "59f45414-8af8-4c14-96fd-1b2bb8c74ca9": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6563ffe6-ad2c-48d4-884b-0a4ef2630e2a/language_after_the_writing_machine.pdf",
+      "sourceBlockId": "811fbf1b-92f8-4bff-bc0f-b85f118798a1",
+      "localPath": "./assets/documents/language-after-the-writing-machine-72edb3c8d3.pdf",
+      "fileName": "language-after-the-writing-machine-72edb3c8d3.pdf",
+      "bytes": 850504,
+      "sha256": "cb6a6c115c448a969b1c735b45481b8bf79e6a55e4dca9a727e38ab3520d5fab",
+      "fetchedAt": "2026-08-14T06:19:30.936Z"
+    },
+    "8106bee2-d834-441c-bf8c-2e8e094e4489": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87c7b7d0-454e-4607-9228-14d7c47dd87d/interactive_media_and_imperial_subjects_-_excavating_the_cinematic_shooting_gallery.pdf",
+      "sourceBlockId": "5915f9af-a1e9-4706-ac7a-270e935b442a",
+      "localPath": "./assets/documents/interactive-media-and-imperial-subjects-excavating-the-cinematic-shootin-c05e7025de.pdf",
+      "fileName": "interactive-media-and-imperial-subjects-excavating-the-cinematic-shootin-c05e7025de.pdf",
+      "bytes": 7258972,
+      "sha256": "b04a36f8989728b91211cb6790caf59fd705f55fa08f70a733c6190a474302d8",
+      "fetchedAt": "2026-08-14T06:19:31.855Z"
+    },
+    "a4d83dc7-1d57-4c99-bd1a-a9dc08f8f601": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59b8f9a6-706c-46fb-9a79-a98b90ab7ff6/learning_through_collaboration_-_video_game_wikis.pdf",
+      "sourceBlockId": "86854820-eb33-4b16-aff4-834dedb2078d",
+      "localPath": "./assets/documents/learning-through-collaboration-video-game-wikis-02b0b323b0.pdf",
+      "fileName": "learning-through-collaboration-video-game-wikis-02b0b323b0.pdf",
+      "bytes": 779713,
+      "sha256": "c399f0fc27ee75474297abc34d349aa5c64e98dd94e73f5ecdccc626714813bc",
+      "fetchedAt": "2026-08-14T06:19:32.188Z"
+    },
+    "af1a0d28-6618-45c2-ad02-300cd05a348d": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/993c228c-8506-4adb-9fef-c54b1e7b89e9/liberating_play_-_an_interview_with_anna_anthropy_and_miguel_sicart.pdf",
+      "sourceBlockId": "dc5c2ac5-acc5-4612-bd7e-cea449391607",
+      "localPath": "./assets/documents/liberating-play-an-interview-with-anna-anthropy-and-miguel-sicart-153bb4be5e.pdf",
+      "fileName": "liberating-play-an-interview-with-anna-anthropy-and-miguel-sicart-153bb4be5e.pdf",
+      "bytes": 65277,
+      "sha256": "9bd86663754a002999c51853fc2b7ec2dcd43dba65f3d14ba947cb0d0f401f5b",
+      "fetchedAt": "2026-08-14T06:19:32.905Z"
+    },
+    "f9d3a546-bc8c-4844-85b4-61e3eca87760": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0bc868f3-f969-41e1-adab-dd828ba67ef7/intro_to_ludic_ecologonomy.pdf",
+      "sourceBlockId": "31e434da-cb32-46a5-9350-f5db60372b2b",
+      "localPath": "./assets/documents/intro-to-ludic-ecologonomy-27fae3e03d.pdf",
+      "fileName": "intro-to-ludic-ecologonomy-27fae3e03d.pdf",
+      "bytes": 10519957,
+      "sha256": "a0f2ae0b4be52721dfa62d8efd46a56d5c1a778cda55e4e53dc242b0de201990",
+      "fetchedAt": "2026-08-14T06:19:33.544Z"
+    },
+    "55ac3f37-6295-4660-9dd6-99c6171d7c5f": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1be49d4-299b-4040-a38d-80776c9828cc/life_in_the_anti-environment.pdf",
+      "sourceBlockId": "8c329d00-5213-47d7-a12a-bf52c58f4586",
+      "localPath": "./assets/documents/life-in-the-anti-environment-044436a3d4.pdf",
+      "fileName": "life-in-the-anti-environment-044436a3d4.pdf",
+      "bytes": 261375,
+      "sha256": "d378300c878e6addcfe19d2b2db5179e1b71d4c9d436c174947d800d13d6c9df",
+      "fetchedAt": "2026-08-14T06:19:33.752Z"
+    },
+    "f6e04818-07e5-4eff-aee5-306dcbfd0cb2": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ede74d6-c961-4e34-9604-f1d9e4ef3ec0/the_lottery.pdf",
+      "sourceBlockId": "c0fcffcf-c7e5-47fe-86b0-f3afe14e4d1c",
+      "localPath": "./assets/documents/the-lottery-1e56f41815.pdf",
+      "fileName": "the-lottery-1e56f41815.pdf",
+      "bytes": 23426,
+      "sha256": "57d087594a203c648efb16f21439e3329bd42c388b852fa8c561aec1548609b5",
+      "fetchedAt": "2026-08-14T06:19:34.011Z"
+    },
+    "fe405b9f-4c6a-4848-940a-eb32a5371461": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f18d6a65-a9a8-4de0-97ac-4fd2d93325db/ludologists_love_stories_too_-_notes_from_a_debate_that_never_took_place.pdf",
+      "sourceBlockId": "bf151111-269f-44ce-a598-32e7a5277171",
+      "localPath": "./assets/documents/ludologists-love-stories-too-notes-from-a-debate-that-never-took-place-7bb5b04b94.pdf",
+      "fileName": "ludologists-love-stories-too-notes-from-a-debate-that-never-took-place-7bb5b04b94.pdf",
+      "bytes": 222700,
+      "sha256": "2c13e999073c607199485ee1209aa139202a67102159e66bd1737928f868fdbb",
+      "fetchedAt": "2026-08-14T06:19:34.529Z"
+    },
+    "cc91614a-ef7e-4cc7-857e-6756826931dc": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e8cb1a6-a4ed-4638-87c9-f22feb4dd9e3/ludology.pdf",
+      "sourceBlockId": "ca234110-d7a4-44bf-8f51-7f5dcecfc027",
+      "localPath": "./assets/documents/ludology-meets-narratology-037d2aff82.pdf",
+      "fileName": "ludology-meets-narratology-037d2aff82.pdf",
+      "bytes": 158365,
+      "sha256": "aeb201aae78f8eea9842de211475e5afd2c9da79cb108d53faf90e746b25f379",
+      "fetchedAt": "2026-08-14T06:19:34.716Z"
+    },
+    "a88009c1-b224-4b2a-b864-eec3437c16c5": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/adccb600-ddfd-4b4a-b0a1-c14c76c63cfe/the_leisurely_manifesto.pdf",
+      "sourceBlockId": "d0758542-dbe2-49aa-a481-a390304ab843",
+      "localPath": "./assets/documents/the-leisurely-manifesto-4601cd22a2.pdf",
+      "fileName": "the-leisurely-manifesto-4601cd22a2.pdf",
+      "bytes": 4849937,
+      "sha256": "177824857be2508c01ee8572dccfe091c16e615c311a6451cc576f2ad9750389",
+      "fetchedAt": "2026-08-14T06:19:35.114Z"
+    },
+    "318c4e7f-e8c7-401e-b7e7-1d68717ce778": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/352f40a9-89e5-4de7-b71b-f9b1cb91150d/ma_yong_scholar_and_poet.pdf",
+      "sourceBlockId": "0caf82f4-3c59-4e78-a0e2-1d676f848a1e",
+      "localPath": "./assets/documents/ma-yong-scholar-and-poet-1c445963a4.pdf",
+      "fileName": "ma-yong-scholar-and-poet-1c445963a4.pdf",
+      "bytes": 126644,
+      "sha256": "068ccf1a4e1ee2569a65e6ef885e081f0377d23e970c8f64f5573f77b0ccbee7",
+      "fetchedAt": "2026-08-14T06:19:35.303Z"
+    },
+    "08e29e78-fa24-412e-b270-2907318ba95d": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c73febc0-1ab7-49cf-b738-ab648aa9d6ce/is_it_ritual_or_is_it_children_-_distinguishing_consequences_of_play_from_ritual_actions_in_the_prehistoric_archaeological_record.pdf",
+      "sourceBlockId": "00b623ec-e79d-43e1-92c1-3c01990cd544",
+      "localPath": "./assets/documents/is-it-ritual-or-is-it-children-distinguishing-consequences-of-play-from--8550c2f93a.pdf",
+      "fileName": "is-it-ritual-or-is-it-children-distinguishing-consequences-of-play-from--8550c2f93a.pdf",
+      "bytes": 12292093,
+      "sha256": "057195af44affb3c0c193691b192ce2388413cf6bacad878e4927f17939de20f",
+      "fetchedAt": "2026-08-14T06:19:35.359Z"
+    },
+    "b5d39450-e451-48dd-89b9-bbe5c8a0dae4": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6ad4cc0-1428-4715-a458-e7d91e540f12/magic_the_gathering_is_turing_complete.pdf",
+      "sourceBlockId": "4b390221-2a59-4389-974c-743c41321e1c",
+      "localPath": "./assets/documents/magic-the-gathering-is-turing-complete-1c6830444a.pdf",
+      "fileName": "magic-the-gathering-is-turing-complete-1c6830444a.pdf",
+      "bytes": 160834,
+      "sha256": "380ec88fcd2e7e9f5314db3b5a660475fd9adfcfc09a468379e2ac6c43c8e8d8",
+      "fetchedAt": "2026-08-14T06:19:35.394Z"
+    },
+    "df2783d0-5917-4fd3-9f15-c315e2d7065c": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3a970b4-e27a-4e7a-a219-087dcbd8c280/manifesto_for_a_ludic_century.pdf",
+      "sourceBlockId": "27e0da4b-20c0-420a-b55b-12630d8256e7",
+      "localPath": "./assets/documents/manifesto-for-a-ludic-century-653cff47fe.pdf",
+      "fileName": "manifesto-for-a-ludic-century-653cff47fe.pdf",
+      "bytes": 58872,
+      "sha256": "577b8ede4d971656a2471c8a0a087c14501ec9cdcd346537e9ebfc5cc1f32567",
+      "fetchedAt": "2026-08-14T06:19:35.939Z"
+    },
+    "c183d2f5-db70-42e0-981f-8cc9d021f688": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e722ee1f-2ba7-4898-8d6c-befacaf69ee7/manifest_detection_of_death-lot_in_banking_games.pdf",
+      "sourceBlockId": "12d43e18-1ee6-4b7e-b913-a5f488ed91cb",
+      "localPath": "./assets/documents/manifest-detection-of-death-lot-in-banking-games-8959f324f0.pdf",
+      "fileName": "manifest-detection-of-death-lot-in-banking-games-8959f324f0.pdf",
+      "bytes": 335724,
+      "sha256": "46312e261dc3b0588388dd636bc5e3c2c2d0c38b4da57c7eab7d9ef2cff8928e",
+      "fetchedAt": "2026-08-14T06:19:36.189Z"
+    },
+    "032d3533-4414-4fda-862c-7dbe32035f34": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4b18d01-794c-4222-9721-13ab45fdd66b/minecraft_as_web_2.pdf",
+      "sourceBlockId": "209624a6-19d3-4e91-86ad-640241f8cddb",
+      "localPath": "./assets/documents/minecraft-as-web-2-0-872ecf9916.pdf",
+      "fileName": "minecraft-as-web-2-0-872ecf9916.pdf",
+      "bytes": 219437,
+      "sha256": "192d7a7f38b31e1365b79fb865254f252ad62a15392b1da2abd096e94f90f2f3",
+      "fetchedAt": "2026-08-14T06:19:36.659Z"
+    },
+    "8070b12e-77c1-4354-b3db-8bf1b32caf54": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11fc112d-211f-489b-990f-eb550b7ee38c/man-computer_symbiosis.pdf",
+      "sourceBlockId": "4925a505-bf59-4350-8115-05734e65a843",
+      "localPath": "./assets/documents/man-computer-symbiosis-661e4426e4.pdf",
+      "fileName": "man-computer-symbiosis-661e4426e4.pdf",
+      "bytes": 2136055,
+      "sha256": "544ccc824d052ff4c9409dc3dd3f1c2834a72b7901146814368c9fb06ce737dc",
+      "fetchedAt": "2026-08-14T06:19:36.803Z"
+    },
+    "02c8d266-db1a-4e68-abae-521e6ac29551": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/029ffc2d-67b4-4d5f-a78f-46f97d876a70/media_as_ritual.pdf",
+      "sourceBlockId": "0788d895-7586-4228-9dbb-b7ad578f7176",
+      "localPath": "./assets/documents/media-as-ritual-fbbfbb6330.pdf",
+      "fileName": "media-as-ritual-fbbfbb6330.pdf",
+      "bytes": 2079224,
+      "sha256": "a29f0c79cc80266c375ff898dbfb26ebcda9a28df86d7e3708ebc62f2f5fb168",
+      "fetchedAt": "2026-08-14T06:19:36.838Z"
+    },
+    "2af63929-a4e8-4804-a947-4a4ee4ed256f": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4235974f-9694-4655-b13a-fdf7817c5610/the_most_dangerous_game.pdf",
+      "sourceBlockId": "01921550-9f98-42bc-b904-9c9af4d74361",
+      "localPath": "./assets/documents/the-most-dangerous-game-1878cb1376.pdf",
+      "fileName": "the-most-dangerous-game-1878cb1376.pdf",
+      "bytes": 48946,
+      "sha256": "928302c826fa890059fb4c7d60964beb39a4d80c22eddb725c650e69d1cda31f",
+      "fetchedAt": "2026-08-14T06:19:37.354Z"
+    },
+    "4223a652-3cfe-437d-8e02-cd41234aeca6": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05e32172-1305-4dc9-9078-583ffd1c3502/the_minister_who_invented_camping_in_america.pdf",
+      "sourceBlockId": "763643fa-72c7-4dfa-aa15-65b378a43e09",
+      "localPath": "./assets/documents/the-minister-who-invented-camping-in-america-7ab882d46d.pdf",
+      "fileName": "the-minister-who-invented-camping-in-america-7ab882d46d.pdf",
+      "bytes": 1803010,
+      "sha256": "25a7591eebbe7fea3100e1a25393ecb5822202733c21b227712852d99a92fb77",
+      "fetchedAt": "2026-08-14T06:19:37.647Z"
+    },
+    "14196e29-1ae8-4e71-95b6-c5ed61f67306": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/892a4f48-f70c-4c81-af45-8defb231faa6/the_most_famous_image_in_the_early_history_of_computing.pdf",
+      "sourceBlockId": "d654d6d6-0d46-4d35-bae1-813cd4af7f67",
+      "localPath": "./assets/documents/the-most-famous-image-in-the-early-history-of-computing-3b698cb1bf.pdf",
+      "fileName": "the-most-famous-image-in-the-early-history-of-computing-3b698cb1bf.pdf",
+      "bytes": 464740,
+      "sha256": "b203b6f19d7d43f682ac97b66bd8d64d3f84aa041650807f6397a57466179fb3",
+      "fetchedAt": "2026-08-14T06:19:37.715Z"
+    },
+    "a0f00684-7d1e-477d-a7f0-c7e5fddb2d28": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe321e3a-af9d-4f94-839f-a4eb7ca8f65d/myth_of_mitra_and_paidia.pdf",
+      "sourceBlockId": "219e8218-f28d-418c-b4c5-6c77473ad76f",
+      "localPath": "./assets/documents/myth-of-mit-ra-and-paidia-599665728c.pdf",
+      "fileName": "myth-of-mit-ra-and-paidia-599665728c.pdf",
+      "bytes": 443508,
+      "sha256": "05292e21538d3e30e821a45ba929c8a25deccb82ba506cb56a1a9498961e70f3",
+      "fetchedAt": "2026-08-14T06:19:38.264Z"
+    },
+    "b46827df-0221-4c7e-88bf-49e2d62de770": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8480b25a-e348-48f5-b40b-95994a2a3238/modes_of_play_-_a_frame_analytic_account_of_video_game_play_(dissertation).pdf",
+      "sourceBlockId": "0cda4e2a-f5c8-46b1-a755-6f6747e07b72",
+      "localPath": "./assets/documents/modes-of-play-a-frame-analytic-account-of-video-game-play-903440f844.pdf",
+      "fileName": "modes-of-play-a-frame-analytic-account-of-video-game-play-903440f844.pdf",
+      "bytes": 3358461,
+      "sha256": "3ffa54d81dbbbc033c0b89738aaa7756592ce4da454338395c46274d62ebc268",
+      "fetchedAt": "2026-08-14T06:19:38.348Z"
+    },
+    "dec0327a-183b-4e86-a696-8f18a9659f69": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a711e97-e7c5-44a2-88b6-480e4716e016/reMERZ_neo-writing__ai_treasure_hunting.pdf",
+      "sourceBlockId": "c0ee04a2-14e4-48d5-bb23-b61fbdd9d05d",
+      "localPath": "./assets/documents/neo-writing-and-ai-treasure-hunting-c9508c3b13.pdf",
+      "fileName": "neo-writing-and-ai-treasure-hunting-c9508c3b13.pdf",
+      "bytes": 1196195,
+      "sha256": "984f09990d9accffad18fc1125d965447a9eb66a58f0752c2fad73341f45012a",
+      "fetchedAt": "2026-08-14T06:19:38.726Z"
+    },
+    "3b40633a-3c97-4c6e-9a47-3b276f5471fc": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfb343b0-e451-40e9-a390-8b25502646ed/oldest_culture_newest_medium_-_what_emerges_from_the_clash.pdf",
+      "sourceBlockId": "e3764028-7594-4bc5-b57b-024800219206",
+      "localPath": "./assets/documents/oldest-culture-newest-medium-what-emerges-from-the-clash-a1cd4c4223.pdf",
+      "fileName": "oldest-culture-newest-medium-what-emerges-from-the-clash-a1cd4c4223.pdf",
+      "bytes": 545808,
+      "sha256": "46aa26e6e40f3c35bf60801cfa3e987870188b814f9f48a4cfe3cfecbaeee5a4",
+      "fetchedAt": "2026-08-14T06:19:39.459Z"
+    },
+    "98e915ab-6e5c-4a74-9836-d79fbdcc5030": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d2821cb-34b0-4739-9bd7-9d980ac0430b/notes_on_eric_zimmermans_manifesto_for_a_ludic_century.pdf",
+      "sourceBlockId": "23907fe7-5182-4b51-8b80-0cbb77a45d23",
+      "localPath": "./assets/documents/notes-on-eric-zimmerman-s-manifesto-for-a-ludic-century-be908844a7.pdf",
+      "fileName": "notes-on-eric-zimmerman-s-manifesto-for-a-ludic-century-be908844a7.pdf",
+      "bytes": 3104433,
+      "sha256": "9451d0acf7298a1630892306be9fdabd18ce7fccc31395f360d4d9e967513953",
+      "fetchedAt": "2026-08-14T06:19:42.485Z"
+    },
+    "3ac7aa55-f322-450e-aeee-d5cfb94a09a3": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed5fc486-a691-49ac-bec2-495e9dd967e6/one_giant_leap_for_go_or_astronauts_find_life_in_space.pdf",
+      "sourceBlockId": "861dce0d-7c17-4486-9598-241bae44e127",
+      "localPath": "./assets/documents/one-giant-leap-for-go-d00664f0f0.pdf",
+      "fileName": "one-giant-leap-for-go-d00664f0f0.pdf",
+      "bytes": 173573,
+      "sha256": "8978516a191b82218399f75dd74071005780ae2dea3916a9019f4e5beb94f4f0",
+      "fetchedAt": "2026-08-14T06:19:43.348Z"
+    },
+    "f2ddc09d-68ab-40d7-9d40-1371f3938a71": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3848dca6-181f-41cf-be03-739044afe3bc/on_toy_aesthetics_-_wittgensteins_pinball_machine_(part_1).pdf",
+      "sourceBlockId": "f059e2d7-1579-40b9-9924-e6e2c7cd8ac1",
+      "localPath": "./assets/documents/on-toy-aesthetics-wittgenstein-s-pinball-machine-part-1-29eedf8510.pdf",
+      "fileName": "on-toy-aesthetics-wittgenstein-s-pinball-machine-part-1-29eedf8510.pdf",
+      "bytes": 4688128,
+      "sha256": "b359549e9022169f8932ce1cc81b08cf485c2dc3db468560226ff2c238893278",
+      "fetchedAt": "2026-08-14T06:19:43.379Z"
+    },
+    "465726ef-e202-463c-87eb-d887673c88cb": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73dee14d-2d5c-458f-bd8e-02d76336c85f/origin_and_history_of_the_word_sport.pdf",
+      "sourceBlockId": "75590bcc-a826-4066-a52b-a66e6b607860",
+      "localPath": "./assets/documents/origin-and-history-of-the-word-sport-5c6512d8d4.pdf",
+      "fileName": "origin-and-history-of-the-word-sport-5c6512d8d4.pdf",
+      "bytes": 220406,
+      "sha256": "1a63d8044c453d10f3db028ce2f917e9014a11affbf84c0c3bd621af25f91d60",
+      "fetchedAt": "2026-08-14T06:19:44.337Z"
+    },
+    "fb77686d-8b70-419d-8a2c-bf8eb5a35279": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84db7f4b-2e81-4d11-8127-177327681f8a/our_immiscible_future.pdf",
+      "sourceBlockId": "94bef946-1fec-4f78-83b2-12f6174e2efb",
+      "localPath": "./assets/documents/our-immiscible-future-2a8de9258c.pdf",
+      "fileName": "our-immiscible-future-2a8de9258c.pdf",
+      "bytes": 2541156,
+      "sha256": "bc2f45f63d36969912aa9d0961f89f7b3d4856523c1cd58caa63507caad39f69",
+      "fetchedAt": "2026-08-14T06:19:45.881Z"
+    },
+    "83cf41e4-1a48-4128-9c45-7505f729a1a2": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b5c26fd-ee3c-4ed3-8d3d-7a27e3f48450/the_parable_of_the_childrens_game.pdf",
+      "sourceBlockId": "7fcfa147-ed17-4648-acb9-23330e39c6e7",
+      "localPath": "./assets/documents/the-parable-of-the-children-s-game-a036d020a9.pdf",
+      "fileName": "the-parable-of-the-children-s-game-a036d020a9.pdf",
+      "bytes": 1619243,
+      "sha256": "1380602bd6541635bc781a0a0cd935aae54c551bd30da49acf945b8e9570765a",
+      "fetchedAt": "2026-08-14T06:19:46.879Z"
+    },
+    "682ffbab-23e5-4609-8757-15ec879ee86e": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a574b723-d9f3-469d-b3a9-561cf0327320/philosophical_games.pdf",
+      "sourceBlockId": "f726f5dc-a65f-49e7-90dd-d1243d1013fb",
+      "localPath": "./assets/documents/philosophical-games-023978ce06.pdf",
+      "fileName": "philosophical-games-023978ce06.pdf",
+      "bytes": 880773,
+      "sha256": "88d7311b8a8237a8aa0cce39a6fe2f3a9e4b77934ebcf90eb586e6f8b8b6f41a",
+      "fetchedAt": "2026-08-14T06:19:47.177Z"
+    },
+    "1af8e2a3-5f66-4cee-93bb-276e0382c1e1": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df16f20c-6a0b-4b30-97ed-6d146568d778/philosophy_and_the_play_of_life.pdf",
+      "sourceBlockId": "fc5b7207-219f-4fd3-9753-ca0d1384d274",
+      "localPath": "./assets/documents/philosophy-and-the-play-of-life-34c90efb0f.pdf",
+      "fileName": "philosophy-and-the-play-of-life-34c90efb0f.pdf",
+      "bytes": 72970,
+      "sha256": "335988a0ef17fd5c4e6d55423222e906b3758900f5945a0b556d047371436af3",
+      "fetchedAt": "2026-08-14T06:19:47.581Z"
+    },
+    "113ff130-1c63-46de-9d9d-a096a012d2b0": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c9d63af-e213-4e92-9429-de60fddbed09/no_obstacles.pdf",
+      "sourceBlockId": "d980583d-5acf-439a-a1b9-732a37a78d6d",
+      "localPath": "./assets/documents/no-obstacles-navigating-the-world-by-leaps-and-bounds-347954f160.pdf",
+      "fileName": "no-obstacles-navigating-the-world-by-leaps-and-bounds-347954f160.pdf",
+      "bytes": 14829778,
+      "sha256": "cf95d18f589ce521f611fb439cb44b962db716c4d1f3f4ae9202480c9ec54d3b",
+      "fetchedAt": "2026-08-14T06:19:47.677Z"
+    },
+    "b63e65af-60a3-457c-a7fb-7ba0aaa0f632": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ef9896b-7fcb-45a7-8015-bbeec3fe06e4/plants_talk_to_each_other_using_an_internet_of_fungus.pdf",
+      "sourceBlockId": "b066dcfe-8c7b-4911-959f-eaed1b02dff8",
+      "localPath": "./assets/documents/plants-talk-to-each-other-using-an-internet-of-fungus-76ad24f7f6.pdf",
+      "fileName": "plants-talk-to-each-other-using-an-internet-of-fungus-76ad24f7f6.pdf",
+      "bytes": 181574,
+      "sha256": "4bb3be68182ddbd30378125e5745eeee0d33a2ed73ac2b2f3342bedd3edbc205",
+      "fetchedAt": "2026-08-14T06:19:48.468Z"
+    },
+    "24f605b0-2990-4c76-be31-3a7c18e74395": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5977b845-cb33-45ea-85bb-e7d23d388833/play_as_a_foundation_for_hunter-gatherer_social_existence.pdf",
+      "sourceBlockId": "8a92f47f-104a-4690-af44-14bfc34ff7b3",
+      "localPath": "./assets/documents/play-as-a-foundation-for-hunter-gatherer-social-existence-89178edf09.pdf",
+      "fileName": "play-as-a-foundation-for-hunter-gatherer-social-existence-89178edf09.pdf",
+      "bytes": 357209,
+      "sha256": "584a54fa517d841b7ef7acc706d419c07f617a09ab153597a9ab5b66570541b1",
+      "fetchedAt": "2026-08-14T06:19:48.516Z"
+    },
+    "589f2c66-77ce-4aa7-b00a-57603e0c0b73": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eaa5d004-9081-42bb-a8e9-f0c898872949/the_play_of_the_platonic_dialogues_(review).pdf",
+      "sourceBlockId": "ddcbca39-7c41-47e8-b758-ffed3b4ee5ae",
+      "localPath": "./assets/documents/the-play-of-the-platonic-dialogues-review-2b20bbe60b.pdf",
+      "fileName": "the-play-of-the-platonic-dialogues-review-2b20bbe60b.pdf",
+      "bytes": 93693,
+      "sha256": "059feed9ee5b93861c3af21147ef1520053568d20278b0485580fb3bfccc5808",
+      "fetchedAt": "2026-08-14T06:19:49.179Z"
+    },
+    "b8ecab1e-3087-4a79-bca3-2949deb9fc51": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/663b3349-aeb7-4899-90d0-fc10cb915462/play_on_display_-_the_exhibition_of_videogames.pdf",
+      "sourceBlockId": "034eda44-f211-4fe3-9add-12abe0e8e8fc",
+      "localPath": "./assets/documents/play-on-display-the-exhibition-of-videogames-cb8eca1d17.pdf",
+      "fileName": "play-on-display-the-exhibition-of-videogames-cb8eca1d17.pdf",
+      "bytes": 540339,
+      "sha256": "aa35e648326b7188a0a74acd80908be9ef775a9255d816e48fd27db8f8576ea4",
+      "fetchedAt": "2026-08-14T06:19:49.541Z"
+    },
+    "d2830bd4-1875-4001-a39c-81a5093240bc": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/034941e0-d729-4d22-8053-335bbb033cca/play_studies_-_a_brief_history.pdf",
+      "sourceBlockId": "8a183bb7-8232-46ea-810e-4052f81fcb07",
+      "localPath": "./assets/documents/play-studies-a-brief-history-b395e5cbee.pdf",
+      "fileName": "play-studies-a-brief-history-b395e5cbee.pdf",
+      "bytes": 260853,
+      "sha256": "c5830ab3bb8a43b780cd657e3b36a984ebca8399a62787f7b169703ef677600d",
+      "fetchedAt": "2026-08-14T06:19:49.941Z"
+    },
+    "55c5ee05-48dd-4662-9d7e-dd44e7a81671": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/104fe524-4dab-4088-8ce6-8a366e4c03da/Playable_media_and_textual_instruments.pdf",
+      "sourceBlockId": "871813b8-f608-4472-b541-b573aa7968fb",
+      "localPath": "./assets/documents/playable-media-and-textual-instruments-7bce607177.pdf",
+      "fileName": "playable-media-and-textual-instruments-7bce607177.pdf",
+      "bytes": 2040190,
+      "sha256": "62e433e646060b5dca897c6c69b968e6755c64f3947844677ef3b75ab0221938",
+      "fetchedAt": "2026-08-14T06:19:51.994Z"
+    },
+    "d706640c-53c0-48bb-965d-fc07af548706": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/626dd44d-d9b1-4397-a656-94efaef5e141/played_meaning_(concerning_the_spiritual_in_games).pdf",
+      "sourceBlockId": "f8cfc8cc-2a31-4bd7-a20e-cb29abf893fa",
+      "localPath": "./assets/documents/played-meaning-concerning-the-spiritual-in-games-a66220a6e2.pdf",
+      "fileName": "played-meaning-concerning-the-spiritual-in-games-a66220a6e2.pdf",
+      "bytes": 2141899,
+      "sha256": "00b9c300c8f383027f5c0ad68c80eb42b5f3f948cdc458deda466e950d3b6a7b",
+      "fetchedAt": "2026-08-14T06:19:52.346Z"
+    },
+    "c1c3fa73-4f80-4696-9e3e-940c0a2dd219": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d412bdad-84e6-48b8-8ea9-246f133ac92f/point__shoot_-_remediating_photography_in_gamespace.pdf",
+      "sourceBlockId": "191c3485-630d-419b-a2b6-20f89f51e3a4",
+      "localPath": "./assets/documents/point-and-shoot-remediating-photography-in-gamespace-347d87b941.pdf",
+      "fileName": "point-and-shoot-remediating-photography-in-gamespace-347d87b941.pdf",
+      "bytes": 98718,
+      "sha256": "8e8142ca8ea657f2cb48285183c360768744f2580137edf8c9f6902ac0ab3cf0",
+      "fetchedAt": "2026-08-14T06:19:52.989Z"
+    },
+    "7d1cd207-0bf9-444d-bdd5-df5173993eba": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8192db15-ddfe-4928-93e1-4bb479f05538/playing_together_and_ritualisation_in_online_games.pdf",
+      "sourceBlockId": "c5cd0dcf-2d2a-4aa5-87f6-35b7098ecff9",
+      "localPath": "./assets/documents/playing-together-and-ritualisation-in-online-games-ce183cd029.pdf",
+      "fileName": "playing-together-and-ritualisation-in-online-games-ce183cd029.pdf",
+      "bytes": 1481877,
+      "sha256": "402decf8b5992c68c7c6099c54b989830e777da3a81c3a31cc16edda65ea4637",
+      "fetchedAt": "2026-08-14T06:19:54.685Z"
+    },
+    "66e8b82f-0756-4835-8288-2c9aff68d7f6": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbd81b61-871d-46ca-8c8e-41b499862d57/the_potential_for_modding_communities_in_cultural_heritage.pdf",
+      "sourceBlockId": "c656f3c3-b5c1-4d2a-a56f-c5965d4cee77",
+      "localPath": "./assets/documents/the-potential-for-modding-communities-in-cultural-heritage-9f25ecd5bc.pdf",
+      "fileName": "the-potential-for-modding-communities-in-cultural-heritage-9f25ecd5bc.pdf",
+      "bytes": 2735243,
+      "sha256": "d8b05cd62aac585dead7d4962055ab33f5ca043e2578e96ae085af4274f474b2",
+      "fetchedAt": "2026-08-14T06:19:55.315Z"
+    },
+    "cb5e8447-e39a-4f83-a962-3e9d633f56ca": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f34e03c1-31bd-420b-80a0-933216efca61/programming_a_computer_for_playing_chess.pdf",
+      "sourceBlockId": "e35dde11-7772-486b-a7e8-ccd3c0ab8593",
+      "localPath": "./assets/documents/programming-a-computer-for-playing-chess-507003efec.pdf",
+      "fileName": "programming-a-computer-for-playing-chess-507003efec.pdf",
+      "bytes": 179879,
+      "sha256": "62b9ba9da0a24cb65ab95f180fdbfa4570f656b07e5c3f9a0fda90a62b25e8d2",
+      "fetchedAt": "2026-08-14T06:19:55.361Z"
+    },
+    "c2196eb7-3a23-407c-85e8-3adc69aca8f6": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01f867d1-abee-4887-8a2f-185421a6285d/the_psychological_weight_of_history.pdf",
+      "sourceBlockId": "6a4e411e-e218-455c-a27e-157da0ec18a8",
+      "localPath": "./assets/documents/the-psychological-weight-of-history-fe4222f9d7.pdf",
+      "fileName": "the-psychological-weight-of-history-fe4222f9d7.pdf",
+      "bytes": 324867,
+      "sha256": "87e41373dc8840c8b3506b896162ecaee5b6e6566b64608586d5f5995455fdb5",
+      "fetchedAt": "2026-08-14T06:19:56.315Z"
+    },
+    "d51da371-eee9-4fb9-8b76-55d4aaa99aa2": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/777fccff-fe20-458e-936f-7030788e3419/the_pyrrhic_victory_of_game_studies_-_assessing_the_past_present_and_future_of_interdisciplinary_game_research.pdf",
+      "sourceBlockId": "0e165913-9260-437d-86c4-2abc7dfd2978",
+      "localPath": "./assets/documents/the-pyrrhic-victory-of-game-studies-assessing-the-past-present-and-futur-f9aaf0b433.pdf",
+      "fileName": "the-pyrrhic-victory-of-game-studies-assessing-the-past-present-and-futur-f9aaf0b433.pdf",
+      "bytes": 396295,
+      "sha256": "b8fa0bb0b331fc33c75fac4fe2fe6175221a150161cad2da26092b78fed93a33",
+      "fetchedAt": "2026-08-14T06:19:57.286Z"
+    },
+    "b0ebe00c-8988-4ac3-9bb6-260c104666e5": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c7dbd43b-1803-470f-b199-406cdd9ce343/queer_as_in_fuck_me_-_a_design_manifesto.pdf",
+      "sourceBlockId": "b04325c7-2b90-4a01-beed-53285d8fa9f3",
+      "localPath": "./assets/documents/queer-as-in-f-ck-me-a-design-manifesto-80c4dec6c7.pdf",
+      "fileName": "queer-as-in-f-ck-me-a-design-manifesto-80c4dec6c7.pdf",
+      "bytes": 1396416,
+      "sha256": "716edd2b0264b53aeff108a69632289e89100867dd144a801faace2011219ae3",
+      "fetchedAt": "2026-08-14T06:19:59.401Z"
+    },
+    "fd6041f9-0918-4be8-bc71-c3740d5f7ea9": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/869c2c08-2c79-49b5-ab7d-612d851ed97f/progress_in_play_-_board_games_and_the_meaning_of_history.pdf",
+      "sourceBlockId": "7ccc8622-5775-4bc2-a569-21e1369bd953",
+      "localPath": "./assets/documents/progress-in-play-board-games-and-the-meaning-of-history-069422a66c.pdf",
+      "fileName": "progress-in-play-board-games-and-the-meaning-of-history-069422a66c.pdf",
+      "bytes": 5122435,
+      "sha256": "d5cd0fafd2f7368b255132b8949a2b14eb52834796a836fc9c140100cfd04704",
+      "fetchedAt": "2026-08-14T06:19:59.481Z"
+    },
+    "2337264c-616c-436b-8239-f41da7d3e0bc": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/260fc8ac-1a79-4056-b3f8-3cd425b91ae9/the_question_concerning_technology.pdf",
+      "sourceBlockId": "7762cfb8-3961-4254-a6db-396d4308a107",
+      "localPath": "./assets/documents/the-question-concerning-technology-5518947a93.pdf",
+      "fileName": "the-question-concerning-technology-5518947a93.pdf",
+      "bytes": 403548,
+      "sha256": "4ff42cbe5a2d8a582e9d503b16b06b686b1907fef521a4f61385adf974db8cf1",
+      "fetchedAt": "2026-08-14T06:20:00.428Z"
+    },
+    "83d83d3d-82f1-4893-bd4d-97be69b3d32d": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c26f000-a9e0-4a21-977b-fdb053b62893/reconsidering_the_grasshopper_-_on_the_reception_of_bernard_suits_in_game_studies.pdf",
+      "sourceBlockId": "1454df82-02e6-4a07-979f-24bda0572121",
+      "localPath": "./assets/documents/reconsidering-the-grasshopper-on-the-reception-of-bernard-suits-in-game--05a4d107de.pdf",
+      "fileName": "reconsidering-the-grasshopper-on-the-reception-of-bernard-suits-in-game--05a4d107de.pdf",
+      "bytes": 325898,
+      "sha256": "7417faddda7702ef97a661f922edaaae004260152b46220c8d1e9d73c4796528",
+      "fetchedAt": "2026-08-14T06:20:01.316Z"
+    },
+    "2dbd0fdb-1905-4d50-99f9-b8a61572f76a": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ad3af9e-6df2-41ea-9599-2d0c70a03925/refining_and_redefining_game_studies.pdf",
+      "sourceBlockId": "8113eae2-64c1-4c8d-ab05-f598b96e5b57",
+      "localPath": "./assets/documents/refining-and-redefining-game-studies-64357d9865.pdf",
+      "fileName": "refining-and-redefining-game-studies-64357d9865.pdf",
+      "bytes": 33458,
+      "sha256": "8e9bc476e2f0956853745b4e669ee4581e325440f61b03d75305384692b2fddb",
+      "fetchedAt": "2026-08-14T06:20:01.834Z"
+    },
+    "4a27a4d1-0e4e-4386-9541-0b3512720439": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73e0f1e5-d8e6-4aba-8e1a-7f7d4b0de20e/the_quest_for_the_solar-powered_gaming_console.pdf",
+      "sourceBlockId": "236d78e3-ec81-4224-88d4-14b0ab02f754",
+      "localPath": "./assets/documents/the-quest-for-the-solar-powered-gaming-console-4d7baf7370.pdf",
+      "fileName": "the-quest-for-the-solar-powered-gaming-console-4d7baf7370.pdf",
+      "bytes": 2480401,
+      "sha256": "1f6ea36587c3b8676d1577a4dc8885ffaac8dff2040e4ecf563c5a348dfb1459",
+      "fetchedAt": "2026-08-14T06:20:02.017Z"
+    },
+    "7a1bf174-c3ab-4e57-95f3-e5468199d838": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74781676-37f3-47ab-9ba5-2626ebf76df8/Researchers_Are_Using_Artificial_Intelligence_to_Reconstruct_Ancient_Games.pdf",
+      "sourceBlockId": "bc717f10-6152-43b5-a95b-390fff94b8a0",
+      "localPath": "./assets/documents/researchers-are-using-artificial-intelligence-to-reconstruct-ancient-gam-6a4b185e84.pdf",
+      "fileName": "researchers-are-using-artificial-intelligence-to-reconstruct-ancient-gam-6a4b185e84.pdf",
+      "bytes": 70819,
+      "sha256": "259f0de4a05247a377da227e0a12e31acb07024309df303b509864ba492b06f4",
+      "fetchedAt": "2026-08-14T06:20:02.585Z"
+    },
+    "873211a8-2d3d-42a7-bf84-8b33c1c302ae": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96df2a1b-75dc-42ce-ae73-4a95fd31e5df/The_relaxations_permitted_to_the_christian.pdf",
+      "sourceBlockId": "e8a4b832-4b3c-4b13-b798-fd9363e46e82",
+      "localPath": "./assets/documents/the-relaxations-permitted-to-the-christian-2a69bd353f.pdf",
+      "fileName": "the-relaxations-permitted-to-the-christian-2a69bd353f.pdf",
+      "bytes": 445243,
+      "sha256": "611d93c42cd424abb0faa4c6465e648c399079f19195d458262cb1778eb472a3",
+      "fetchedAt": "2026-08-14T06:20:02.900Z"
+    },
+    "b1b17908-0655-4b6c-b608-2f1708429500": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f491f60-72dc-4b7b-9d50-43a621e872bd/the_role_of_gaming_platforms_in_young_males_trajectories_of_technical_expertise.pdf",
+      "sourceBlockId": "9de4120d-83bf-4162-b694-810e20b11f0e",
+      "localPath": "./assets/documents/the-role-of-gaming-platforms-in-young-males-trajectories-of-technical-ex-1e6ecf9d2b.pdf",
+      "fileName": "the-role-of-gaming-platforms-in-young-males-trajectories-of-technical-ex-1e6ecf9d2b.pdf",
+      "bytes": 189880,
+      "sha256": "da4190e40e08ee545d775cc4c632dd0010f083e4ad24f6c41941279658561871",
+      "fetchedAt": "2026-08-14T06:20:03.430Z"
+    },
+    "e1a84de0-744a-4a7b-8b75-ae8cafc6b394": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aeeb20f6-86e6-435d-ba6a-d939838109a7/rubble_jumping_-_from_paul_virilios_technodromology_to_video_games_and_distributed_agency.pdf",
+      "sourceBlockId": "d945f7e9-8787-43d5-95f3-4b8607922ea1",
+      "localPath": "./assets/documents/rubble-jumping-from-paul-virilio-s-techno-dromology-to-video-games-and-d-5550c2bfa6.pdf",
+      "fileName": "rubble-jumping-from-paul-virilio-s-techno-dromology-to-video-games-and-d-5550c2bfa6.pdf",
+      "bytes": 99593,
+      "sha256": "d329833611702b6ac386bba6d9d904aa9fcdf6179d850a09fa0122308563d7df",
+      "fetchedAt": "2026-08-14T06:20:04.114Z"
+    },
+    "53218254-ee82-4efe-9103-08b7da46850b": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d88c9dfa-54db-46bc-ac08-9cfb89b089d7/on_american_lot-games_as_evidence_of_asiatic_intercourse_before_the_time_of_columbus.pdf",
+      "sourceBlockId": "693bd0c7-cbb7-4da3-96f9-fb9262f89a81",
+      "localPath": "./assets/documents/on-american-lot-games-as-evidence-of-asiatic-intercourse-before-the-time-23702845c9.pdf",
+      "fileName": "on-american-lot-games-as-evidence-of-asiatic-intercourse-before-the-time-23702845c9.pdf",
+      "bytes": 43151981,
+      "sha256": "4c51e3c3a736390969406eb284f0c38f8075d782480f41d68f8e0a1a74c28be5",
+      "fetchedAt": "2026-08-14T06:20:04.563Z"
+    },
+    "99eef53c-0a5e-40c5-b10e-d77a68eab890": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a5d524b-65e3-41d1-a57c-2a91d85551ff/the_role_of_play_in_the_philosophy_of_plato.pdf",
+      "sourceBlockId": "1e9e2a71-eb32-4ae8-bb0d-01ec575f4178",
+      "localPath": "./assets/documents/the-role-of-play-in-the-philosophy-of-plato-77d15f096c.pdf",
+      "fileName": "the-role-of-play-in-the-philosophy-of-plato-77d15f096c.pdf",
+      "bytes": 1286498,
+      "sha256": "ce8f38f84d5974b28c31963b3e6d3c38991f602c19f13d7787aef75cc28a089c",
+      "fetchedAt": "2026-08-14T06:20:04.847Z"
+    },
+    "44991760-9dc5-460c-b02d-025f20d5ec5a": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5a4110e-1a02-4588-8ef7-bafd04b35365/rules.pdf",
+      "sourceBlockId": "20a71550-573b-4ba0-9adf-3edeb542c641",
+      "localPath": "./assets/documents/rules-310708f1ad.pdf",
+      "fileName": "rules-310708f1ad.pdf",
+      "bytes": 173081,
+      "sha256": "8cabeec4279668cc884122e6a18f47064484ef5a3b8c644570c2bde5c134276a",
+      "fetchedAt": "2026-08-14T06:20:04.897Z"
+    },
+    "1e067606-fa62-4c37-a5fe-51ae21c098ed": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4947f02-e884-4971-8629-f48f1b0be876/The_semiotics_of_the_game_controller.pdf",
+      "sourceBlockId": "31cbee2d-db6e-4b89-b890-09c8c40cb1ba",
+      "localPath": "./assets/documents/the-semiotics-of-the-game-controller-821a86026d.pdf",
+      "fileName": "the-semiotics-of-the-game-controller-821a86026d.pdf",
+      "bytes": 139665,
+      "sha256": "721b59937a37f64ab9e3b38be707afd24fcd50d67c30e1d827ee98e618d62e1b",
+      "fetchedAt": "2026-08-14T06:20:05.625Z"
+    },
+    "db315d5e-f0f5-437b-a537-ce323080080a": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5a06e9a-f809-4f5e-af6c-0cb82bbebf6b/source_of_the_force.pdf",
+      "sourceBlockId": "d29810fb-3c97-46f0-9967-27ed05aed0eb",
+      "localPath": "./assets/documents/source-of-the-force-da22e1d04f.pdf",
+      "fileName": "source-of-the-force-da22e1d04f.pdf",
+      "bytes": 509772,
+      "sha256": "2661e9ef15ad9cae05458ae7058ac57cb11b8c7cb86eea405de6f6d18135c679",
+      "fetchedAt": "2026-08-14T06:20:05.914Z"
+    },
+    "5b1d3ffd-0ee2-4c82-956a-ee96e8686c72": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a25391ec-35af-48aa-b345-14094800fa64/sri_aurobindos_lila_-_the_nature_of_divine_play_according_to_integral_advaita.pdf",
+      "sourceBlockId": "ca4ea979-0894-463b-96d6-96f94410a91f",
+      "localPath": "./assets/documents/sri-aurobindo-s-lila-the-nature-of-divine-play-according-to-integral-adv-44ee694093.pdf",
+      "fileName": "sri-aurobindo-s-lila-the-nature-of-divine-play-according-to-integral-adv-44ee694093.pdf",
+      "bytes": 88650,
+      "sha256": "c95dc7d6befd0e0eaaa399f4c9b51acd685ceb71f83c444cb14193a21622e961",
+      "fetchedAt": "2026-08-14T06:20:06.306Z"
+    },
+    "7f4c43bd-a030-4cc7-94bf-2716d575cce2": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c256c06c-73a1-4aa5-8ace-e1597b58bb76/the_scandalizing_of_religion_fanaticism_and_modern_sport.pdf",
+      "sourceBlockId": "5b2fcb42-22f3-4a34-b7f4-af717ba3e838",
+      "localPath": "./assets/documents/the-scandalizing-of-religion-fanaticism-and-modern-sport-d988316476.pdf",
+      "fileName": "the-scandalizing-of-religion-fanaticism-and-modern-sport-d988316476.pdf",
+      "bytes": 1612397,
+      "sha256": "18734d9e204935cee5ca485e7215cc5f2fdbb8c15f255a7be00f2efa98464b88",
+      "fetchedAt": "2026-08-14T06:20:06.417Z"
+    },
+    "61b04201-cfb6-4649-bfee-b9c232e519ee": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/304ddacc-27a9-4129-a65e-b6ec3901ea26/structure_sign__play_in_the_discourse_of_the_human_sciences.pdf",
+      "sourceBlockId": "3a2b9f8d-142b-46de-973b-722de605f78d",
+      "localPath": "./assets/documents/structure-sign-and-play-in-the-discourse-of-the-human-sciences-dad3e740f6.pdf",
+      "fileName": "structure-sign-and-play-in-the-discourse-of-the-human-sciences-dad3e740f6.pdf",
+      "bytes": 55199,
+      "sha256": "39ce97c717bb67e8fe57fa655d7a86c1b1efa5d26b1c6781dd0b5e96e419f1b0",
+      "fetchedAt": "2026-08-14T06:20:06.983Z"
+    },
+    "df59f064-6330-4288-b120-08c3379d065a": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1c7add11-095b-4481-b056-f5c0cfe45b9b/StarCraft_as_Statecraft.pdf",
+      "sourceBlockId": "307c332f-daab-43d8-8bc2-488df51ebc06",
+      "localPath": "./assets/documents/starcraft-as-statecraft-9817f0cd10.pdf",
+      "fileName": "starcraft-as-statecraft-9817f0cd10.pdf",
+      "bytes": 1993487,
+      "sha256": "997d0844cb530d6bc556f2f06c180c8deef939ca84096b910716419fbf898ebc",
+      "fetchedAt": "2026-08-14T06:20:07.927Z"
+    },
+    "b351228a-43cc-4db2-9d6e-a94b97637f9d": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/742e8bd6-45ab-4a0c-b8df-e236bd2e6077/stone_skipping_is_a_lost_art_-_kurt_steiner_wants_the_world_to_find_it.pdf",
+      "sourceBlockId": "fd78279b-1878-429b-b94a-f7c5fe694ff7",
+      "localPath": "./assets/documents/stone-skipping-is-a-lost-art-kurt-steiner-wants-the-world-to-find-it-9317d3c9ea.pdf",
+      "fileName": "stone-skipping-is-a-lost-art-kurt-steiner-wants-the-world-to-find-it-9317d3c9ea.pdf",
+      "bytes": 3943660,
+      "sha256": "8a0e2492afec7ed16d761c6f375512e655d898bc4c36fab9c707db3d6203611c",
+      "fetchedAt": "2026-08-14T06:20:10.862Z"
+    },
+    "6c57b127-1485-4419-822e-46aea7a4f068": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a04b54f9-c252-43b4-96f6-d42fb8b31629/pixel_in_print.pdf",
+      "sourceBlockId": "ab1543f6-a100-490e-b3f3-302fbb8deed3",
+      "localPath": "./assets/documents/pixels-in-print-parts-1-and-2-8358b41ea8.pdf",
+      "fileName": "pixels-in-print-parts-1-and-2-8358b41ea8.pdf",
+      "bytes": 44692653,
+      "sha256": "300c1d40bfec9085ef732498b3de8254e97c8ead3475d2071c2fba22de28f686",
+      "fetchedAt": "2026-08-14T06:20:11.809Z"
+    },
+    "cb892faf-1bf8-46cc-8a60-7753e4484a9a": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a950e2cd-caac-4628-aad8-f01084c75845/theodor_lipps_on_the_concept_of_einfhlung_(empathy).pdf",
+      "sourceBlockId": "fc6a693d-cf78-424a-b678-fb92e4c4d64d",
+      "localPath": "./assets/documents/theodor-lipps-on-the-concept-of-einf-hlung-empathy-0f4af2ccd3.pdf",
+      "fileName": "theodor-lipps-on-the-concept-of-einf-hlung-empathy-0f4af2ccd3.pdf",
+      "bytes": 419672,
+      "sha256": "9e9c0dc34d9aed274020f71d709896beb6df91f7dfdf8ccf38da0da2956b4777",
+      "fetchedAt": "2026-08-14T06:20:11.981Z"
+    },
+    "7d09c371-b4f7-4e14-8393-a9bc0e3b48be": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66d38d73-76c6-4f16-a8fe-367174a6f8c6/there_is_no_magic_circle.pdf",
+      "sourceBlockId": "74804c98-a992-47ef-8089-7717f07217f5",
+      "localPath": "./assets/documents/there-is-no-magic-circle-b5e12208aa.pdf",
+      "fileName": "there-is-no-magic-circle-b5e12208aa.pdf",
+      "bytes": 132082,
+      "sha256": "a20d92b6a926cee00769164f2d2a41162611d701dca34b2ebd6452a185d9bcff",
+      "fetchedAt": "2026-08-14T06:20:12.539Z"
+    },
+    "feca7a93-0b5b-47ad-b448-71d1164537de": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ca2dde1-c303-4e15-907d-aedaa5cddc1e/thoughts_about_the_person_from_porlock.pdf",
+      "sourceBlockId": "32e59bdf-97dd-4b20-aafa-90a42eeefe51",
+      "localPath": "./assets/documents/thoughts-about-the-person-from-porlock-12e0653602.pdf",
+      "fileName": "thoughts-about-the-person-from-porlock-12e0653602.pdf",
+      "bytes": 109307,
+      "sha256": "b8daac589028d449b13949b769b5dd6c5d7d6aaa21f5a00939bdaa4abab13216",
+      "fetchedAt": "2026-08-14T06:20:12.723Z"
+    },
+    "43ca9d8d-b352-45fc-b0fb-059eeda4c930": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/525f1f4b-10c0-41ff-84bb-b51974304d34/The_Tao_of_Hadouken_-_What_Bruce_Lee_Can_Teach_Us_About_Improving_At_Fighting_Games.pdf",
+      "sourceBlockId": "c42a0de7-7391-4810-9136-2acb83a042c2",
+      "localPath": "./assets/documents/the-tao-of-hadouken-what-bruce-lee-can-teach-us-about-improving-at-fight-6382b65040.pdf",
+      "fileName": "the-tao-of-hadouken-what-bruce-lee-can-teach-us-about-improving-at-fight-6382b65040.pdf",
+      "bytes": 7159243,
+      "sha256": "3ff0db4dd542e0e913f5fe182f6bc3f14cf063da5728a9f3f027df9fa32069fa",
+      "fetchedAt": "2026-08-14T06:20:12.979Z"
+    },
+    "f90cf59e-f948-45ab-8d21-b123392d8790": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b53a56d5-36f3-4671-a99f-0c84984fce62/three_genres_of_game_research_-_design_toolbox.pdf",
+      "sourceBlockId": "7b3143ac-5517-4079-bb3a-9f1d4066be87",
+      "localPath": "./assets/documents/three-genres-of-game-research-design-toolbox-10769c8448.pdf",
+      "fileName": "three-genres-of-game-research-design-toolbox-10769c8448.pdf",
+      "bytes": 646969,
+      "sha256": "3a0b4e1ff9e02b9fa5eff9f05a1defba7d1c8afc04e51e7a1fc8d5e369f63f73",
+      "fetchedAt": "2026-08-14T06:20:13.509Z"
+    },
+    "bc80e829-b727-4eaa-b306-74825f039011": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73168a27-d7d3-47b1-af55-0bb6ad24b355/tourism_as_play.pdf",
+      "sourceBlockId": "bfb44e55-8572-436e-9c43-f1415c917778",
+      "localPath": "./assets/documents/tourism-as-play-217810b94e.pdf",
+      "fileName": "tourism-as-play-217810b94e.pdf",
+      "bytes": 779093,
+      "sha256": "2319e7072bbf1e21fc53434c161f417a8c61848766b2abf24b11c60551546b24",
+      "fetchedAt": "2026-08-14T06:20:14.002Z"
+    },
+    "2562cbec-e741-4d88-9269-f2917c0f2c18": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/58d1438c-0b9b-4794-9c78-2812b8afa39d/timeline_of_scottish_golf_history.pdf",
+      "sourceBlockId": "7c6141d7-7ea4-4b5a-b779-6ce48a392314",
+      "localPath": "./assets/documents/timeline-of-scottish-golf-history-6f02b7c6f7.pdf",
+      "fileName": "timeline-of-scottish-golf-history-6f02b7c6f7.pdf",
+      "bytes": 624448,
+      "sha256": "6a255a5925f0f482b948280b0ae4e65d683eda8e1b92d91cfe7976feabc62bbe",
+      "fetchedAt": "2026-08-14T06:20:14.027Z"
+    },
+    "ed708770-ca3a-494c-bead-a5e9e2a8a74c": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ace3e5a-93a3-4ca3-8b79-b6e97966263f/surfing_in_ancient_hawaii.pdf",
+      "sourceBlockId": "c67269ed-5121-4726-85ff-72c208944340",
+      "localPath": "./assets/documents/surfing-in-ancient-hawaii-3da54cd234.pdf",
+      "fileName": "surfing-in-ancient-hawaii-3da54cd234.pdf",
+      "bytes": 10471253,
+      "sha256": "0426cf13515283208ffdb1c323528b706ba7205263dbc063f24ba860a7cc172f",
+      "fetchedAt": "2026-08-14T06:20:14.107Z"
+    },
+    "ccef3cec-f8f0-4c69-aca9-f84bf3f351ba": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8dd31ce7-c6e7-4742-af67-920ec3cc05a8/toward_narrative_instruments.pdf",
+      "sourceBlockId": "375b24cf-bc0c-4c98-9878-dab8d7a6a3b8",
+      "localPath": "./assets/documents/toward-narrative-instruments-69cf5d8776.pdf",
+      "fileName": "toward-narrative-instruments-69cf5d8776.pdf",
+      "bytes": 184299,
+      "sha256": "097a698d7ab6860e7fa37598e2f8e21f60d882993b4a914b4b4c66a897da5ad4",
+      "fetchedAt": "2026-08-14T06:20:14.387Z"
+    },
+    "96347a42-b3fe-4993-a764-724b9dcd3cc2": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09ec0f17-da74-4f6f-94a8-9a420081be07/towards_a_gerontoludic_manifesto.pdf",
+      "sourceBlockId": "850551d9-ccc4-450a-a8d4-900b994a52d8",
+      "localPath": "./assets/documents/towards-a-gerontoludic-manifesto-8a1c1dcf28.pdf",
+      "fileName": "towards-a-gerontoludic-manifesto-8a1c1dcf28.pdf",
+      "bytes": 366760,
+      "sha256": "284c659999bf7afa1d40979cd7cf9828e086ca59e25ade58006f8a247bca4a36",
+      "fetchedAt": "2026-08-14T06:20:14.740Z"
+    },
+    "ceb31c13-3254-473c-adc3-1a61006295d4": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b4d9731-9d39-4cf6-bcdc-5a70308b9aa7/the_use_of_free_time.pdf",
+      "sourceBlockId": "7db51c23-dabb-4f0f-93a5-7710b03b4d9c",
+      "localPath": "./assets/documents/the-use-of-free-time-a7ee0cdd9e.pdf",
+      "fileName": "the-use-of-free-time-a7ee0cdd9e.pdf",
+      "bytes": 888317,
+      "sha256": "569697b7502911bf1190c453e2de9a8363fdc3a4f9a8f47f3459bc05a99d92b3",
+      "fetchedAt": "2026-08-14T06:20:15.032Z"
+    },
+    "46ae32a7-3606-4c42-bd96-a58d6db0b261": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc066fb7-4c5a-447d-bfce-5e60cb167708/unwritten_rules.pdf",
+      "sourceBlockId": "4425b43a-dbe8-4ac2-86be-f7c160fc7c2d",
+      "localPath": "./assets/documents/unwritten-rules-2928116851.pdf",
+      "fileName": "unwritten-rules-2928116851.pdf",
+      "bytes": 1010365,
+      "sha256": "c56e4a0a50d53afce6b564dafc1d994b11bd10d48cdce3ddf3271ee9f2e5e13b",
+      "fetchedAt": "2026-08-14T06:20:15.149Z"
+    },
+    "70222f54-4db9-48bc-802c-76fcc163e415": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ce127961-cec7-42c8-881d-c52a8dd71331/video_games_as_objects_and_vehicles_of_nostalgia.pdf",
+      "sourceBlockId": "c7fa49ee-ff3e-4d7f-9811-ca6711ed15de",
+      "localPath": "./assets/documents/video-games-as-objects-and-vehicles-of-nostalgia-f790fe0e80.pdf",
+      "fileName": "video-games-as-objects-and-vehicles-of-nostalgia-f790fe0e80.pdf",
+      "bytes": 273617,
+      "sha256": "aab117d2cfb6441ec11421378cb3e2f88188f8ca65de55d615de8da0df09d7d2",
+      "fetchedAt": "2026-08-14T06:20:15.754Z"
+    },
+    "0f826a0c-b3e4-4297-8b90-1205feb0bf4b": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c8658b21-2cb7-4faa-ba4b-a1be579168b0/video_games_a_medium_after_gods_own_heart.pdf",
+      "sourceBlockId": "ed77f4e7-a5bc-4e0a-bdcc-a83da7b85222",
+      "localPath": "./assets/documents/video-games-a-medium-after-god-s-own-heart-2b7870c56e.pdf",
+      "fileName": "video-games-a-medium-after-god-s-own-heart-2b7870c56e.pdf",
+      "bytes": 1599401,
+      "sha256": "4a10c2b4988821aed7529a10099b98e52ae409a673cc15229aee50094245d152",
+      "fetchedAt": "2026-08-14T06:20:15.933Z"
+    },
+    "21fc7288-d48f-45e1-88a9-ed02906c0e5a": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94358e82-59af-4bb8-8d4d-70fe1fb269b1/Video_games_can_develop_graduate_skills_in_higher_education.pdf",
+      "sourceBlockId": "36358d3a-6d8b-4677-847f-c18f53599a01",
+      "localPath": "./assets/documents/video-games-can-develop-graduate-skills-in-higher-education-students-a-r-9a31a538f8.pdf",
+      "fileName": "video-games-can-develop-graduate-skills-in-higher-education-students-a-r-9a31a538f8.pdf",
+      "bytes": 1129303,
+      "sha256": "3779bc4d005f71d4b1974ff48514e633121f9199ae48f330efabf158ecdaf5f5",
+      "fetchedAt": "2026-08-14T06:20:16.459Z"
+    },
+    "22e28519-a66e-48e1-b42c-9542b7941867": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e19a0a61-e50f-4306-8e0d-84399d1e469e/Video_games_exceptionalism_vs._media_specificity.pdf",
+      "sourceBlockId": "3135829c-2b14-49fe-b4a1-66bbd0bfd985",
+      "localPath": "./assets/documents/video-games-exceptionalism-vs-media-specificity-87155cbb96.pdf",
+      "fileName": "video-games-exceptionalism-vs-media-specificity-87155cbb96.pdf",
+      "bytes": 135279,
+      "sha256": "60b72ab1a18586f9577b046074bf7d0aa815092e30614741d88da2e3a7e40a3c",
+      "fetchedAt": "2026-08-14T06:20:16.476Z"
+    },
+    "da8eb554-9d63-42bb-a57e-72ba5aa583d8": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e627c746-3d12-4ff3-851e-5dd6a80897c2/video_games_as_myth_reconstructions.pdf",
+      "sourceBlockId": "ff78a87c-269f-4266-9160-d1f05b3417ef",
+      "localPath": "./assets/documents/video-games-as-myth-reconstructions-fb91fc6bea.pdf",
+      "fileName": "video-games-as-myth-reconstructions-fb91fc6bea.pdf",
+      "bytes": 2423562,
+      "sha256": "e077781d03a785f86ad667b00e159d67a99074c8eb14469fd2207975c1c37070",
+      "fetchedAt": "2026-08-14T06:20:16.487Z"
+    },
+    "ac29d225-0bda-4491-95ec-5903cd69fa61": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c094460b-deb1-489b-aa43-53c3bb9d2b04/videogame_art_and_the_legitimation_of_videogames_by_the_art_world.pdf",
+      "sourceBlockId": "679995a2-77ae-470c-a4b5-bce39a36880e",
+      "localPath": "./assets/documents/videogame-art-and-the-legitimation-of-videogames-by-the-art-world-0b32cf85b5.pdf",
+      "fileName": "videogame-art-and-the-legitimation-of-videogames-by-the-art-world-0b32cf85b5.pdf",
+      "bytes": 269024,
+      "sha256": "ec4c71f21fdd9baa495792fa1e2f14c5e63b529df17ce4e629d6b5a488385cb5",
+      "fetchedAt": "2026-08-14T06:20:16.710Z"
+    },
+    "addfadcc-6d47-4aff-ae47-817bed9ec9a7": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2788fc90-adcc-462b-a6cf-e7c67b468b49/war_game.pdf",
+      "sourceBlockId": "7b660f2f-a27f-4694-9e04-6711d21df8d1",
+      "localPath": "./assets/documents/war-game-52dab565fb.pdf",
+      "fileName": "war-game-52dab565fb.pdf",
+      "bytes": 222973,
+      "sha256": "5bb2114fe91fbd85e5d918704b174b1db7f050a11040aad584069688d6fc8b4d",
+      "fetchedAt": "2026-08-14T06:20:17.258Z"
+    },
+    "812269ec-29de-420e-9da9-4c4dfdba8700": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef4659b7-9eda-486c-a8cd-40c1089fd5a0/what_is_autonomous_art_what_is_kunstfreiheit_(artistic_freedom).pdf",
+      "sourceBlockId": "ea2c448a-e31c-4c8f-a084-58cbcd906556",
+      "localPath": "./assets/documents/what-is-autonomous-art-what-is-kunstfreiheit-artistic-freedom-5937864bd9.pdf",
+      "fileName": "what-is-autonomous-art-what-is-kunstfreiheit-artistic-freedom-5937864bd9.pdf",
+      "bytes": 344419,
+      "sha256": "2e93ce9e3b4872dce535df14c49161a588a92b4ad198759f184e9e74951975e1",
+      "fetchedAt": "2026-08-14T06:20:17.289Z"
+    },
+    "eb62854b-959f-498c-b457-830c455f94fd": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ee1d7dd-0e71-4983-9b6c-2953d74efbd2/why_a_game_studies_canon_is_wrong.pdf",
+      "sourceBlockId": "d0e75421-7a6f-439b-8dc0-610de2d7a8dc",
+      "localPath": "./assets/documents/why-a-game-canon-for-game-studies-is-wrong-548a207f70.pdf",
+      "fileName": "why-a-game-canon-for-game-studies-is-wrong-548a207f70.pdf",
+      "bytes": 103289,
+      "sha256": "2da9e4ad1694bc05962b0b5b70a659d6df5712508cf607efa6e3a94ff173abc4",
+      "fetchedAt": "2026-08-14T06:20:17.956Z"
+    },
+    "fc7a46b8-a6fb-4053-a88b-df14cc54b598": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d54461a-d298-455b-aef0-7590f3dca72d/whats_the_point_if_we_cant_have_fun.pdf",
+      "sourceBlockId": "813e4760-0d8a-449c-822e-1edb776e8cd0",
+      "localPath": "./assets/documents/what-s-the-point-if-we-can-t-have-fun-526507c1e4.pdf",
+      "fileName": "what-s-the-point-if-we-can-t-have-fun-526507c1e4.pdf",
+      "bytes": 2615453,
+      "sha256": "8b860fa4e4ab19109697c27cc144d7b6f883e314445b4e33715eee992f4c9fbe",
+      "fetchedAt": "2026-08-14T06:20:18.575Z"
+    },
+    "76a5abc2-8f50-40f9-a395-15090ee35fe4": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38c37b94-4846-42a4-83ae-e6d00aa8ccc8/why_gamescriticism_never_went_mainstream.pdf",
+      "sourceBlockId": "da8ac888-e0ac-4052-b612-1aa4fc1903a0",
+      "localPath": "./assets/documents/why-games-criticism-never-went-mainstream-d2012bb688.pdf",
+      "fileName": "why-games-criticism-never-went-mainstream-d2012bb688.pdf",
+      "bytes": 251485,
+      "sha256": "b045da81a97d0b287dbe996227e146a55b4f7767eb72ecabee156357f8bdd9d7",
+      "fetchedAt": "2026-08-14T06:20:18.799Z"
+    },
+    "07f255a5-b1a2-471e-bdf8-15ca90df97ce": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a87adac-6ea8-40cf-bbf9-3b6d80040372/what_has_technology_done_to_soccer.pdf",
+      "sourceBlockId": "3740c6eb-ca3a-4ef2-bf83-e226c8371839",
+      "localPath": "./assets/documents/what-has-technology-done-to-soccer-00ebaf7e18.pdf",
+      "fileName": "what-has-technology-done-to-soccer-00ebaf7e18.pdf",
+      "bytes": 4546219,
+      "sha256": "9a02ef9264a664a7ef76f9bba050666ad89ea76312d97a1369a2ff6266d0ae5b",
+      "fetchedAt": "2026-08-14T06:20:19.479Z"
+    },
+    "4aeb9ea7-3b1c-4ee8-b8a7-eba0287f601f": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d9ed28a7-fb4f-4415-82f5-aa27c7dfab11/wordcaves_not_word-hoards_-_on_robert_macfarlanes_landmarks.pdf",
+      "sourceBlockId": "89769ae4-5f5c-42e4-80d0-2ec01a64da67",
+      "localPath": "./assets/documents/wordcaves-not-word-hoards-on-robert-macfarlane-s-landmarks-d62607ca33.pdf",
+      "fileName": "wordcaves-not-word-hoards-on-robert-macfarlane-s-landmarks-d62607ca33.pdf",
+      "bytes": 604841,
+      "sha256": "a942e9b64abe308af6ce205f2c21ffd15529678515f20740e3b53e3163f46230",
+      "fetchedAt": "2026-08-14T06:20:19.523Z"
+    },
+    "1b7938cb-27ae-4651-844e-1c816b80161b": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f07bcbac-023c-43a7-ab39-a6950f677aff/why_are_christian_video_game_so_bad.pdf",
+      "sourceBlockId": "37d16a4c-2529-4791-914f-ae14719db720",
+      "localPath": "./assets/documents/why-are-christian-video-game-so-bad-8c5a4ca630.pdf",
+      "fileName": "why-are-christian-video-game-so-bad-8c5a4ca630.pdf",
+      "bytes": 4095910,
+      "sha256": "88faa709482962ef6413833baab3b4980ec735df38723c699c80b7c4b0fc80bd",
+      "fetchedAt": "2026-08-14T06:20:19.846Z"
+    },
+    "481c3d56-c3e9-4db8-b24b-37f869356392": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/670a7591-a4f0-4cd5-b84d-708a935fd6e8/the_work_of_art_in_the_age_of_its_technological_reproducibility.pdf",
+      "sourceBlockId": "71c926c4-0bc8-4258-aeb3-bb9f0dcf6032",
+      "localPath": "./assets/documents/the-work-of-art-in-the-age-of-its-technological-reproducibility-7493ec2b21.pdf",
+      "fileName": "the-work-of-art-in-the-age-of-its-technological-reproducibility-7493ec2b21.pdf",
+      "bytes": 1525063,
+      "sha256": "68a029b1bc45cfd0d3fbc499f058b785485c48a6b9ed6e56fd0de2c8c44da126",
+      "fetchedAt": "2026-08-14T06:20:20.046Z"
+    },
+    "26f07e87-a0e7-4bac-8f44-1aeb17073d53": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d0b1685-f275-4a0d-b66f-7face50cf8c2/your_arkansas_-_a_strategy_guide.pdf",
+      "sourceBlockId": "d167744d-98d8-493e-bc9f-ed8e510f3b79",
+      "localPath": "./assets/documents/your-arkansas-a-strategy-guide-0f31611f43.pdf",
+      "fileName": "your-arkansas-a-strategy-guide-0f31611f43.pdf",
+      "bytes": 295580,
+      "sha256": "74789335840ebfe13141d2566f95d71803d959d9add6ee9f63b1cb53bef74eb9",
+      "fetchedAt": "2026-08-14T06:20:20.171Z"
+    },
+    "5c8574ef-9033-4eee-8224-19d550cfad48": {
+      "sourceUrl": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9376acf6-7c47-44ba-afb9-4ed313a35ba6/your_buddy_the_grandmaster_-_repurposing_the_gameplaying_ai_surplus_for_inclusivity.pdf",
+      "sourceBlockId": "248885d9-ec77-4a60-838f-47fd7e2b91a2",
+      "localPath": "./assets/documents/your-buddy-the-grandmaster-repurposing-the-game-playing-ai-surplus-for-i-8150e308ae.pdf",
+      "fileName": "your-buddy-the-grandmaster-repurposing-the-game-playing-ai-surplus-for-i-8150e308ae.pdf",
+      "bytes": 236762,
+      "sha256": "439af7a3b62b2c4972580393aadffde8fa72b36bc507f6b10eabda27febfbc0a",
+      "fetchedAt": "2026-08-14T06:20:20.239Z"
+    }
+  }
+}

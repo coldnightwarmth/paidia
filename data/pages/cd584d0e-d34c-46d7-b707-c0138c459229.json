@@ -1,0 +1,116 @@
+{
+  "id": "cd584d0e-d34c-46d7-b707-c0138c459229",
+  "slug": "chinese-games-with-dice-and-dominoes",
+  "title": "Chinese Games With Dice & Dominoes",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/cd584d0ed34c46d7b707c0138c459229",
+  "createdTime": 1651772644552,
+  "lastEditedTime": 1681311539850,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Chinese Games With Dice & Dominoes",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ee44f4ada56d.webp",
+  "blocks": [
+    {
+      "id": "9212564a-f15d-48d7-81aa-729b3f612291",
+      "type": "divider"
+    },
+    {
+      "id": "add1b596-8bbd-49fb-8c2a-552463a22932",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6b389490-1b7e-4e35-8cbf-7ec3fe10c07a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "14556702-c6ea-4911-9d1e-174f78838537",
+          "type": "column",
+          "children": [
+            {
+              "id": "6664a761-8358-458d-b938-25d01eb1369b",
+              "type": "paragraph",
+              "html": "<em><strong>Chinese Games With Dice &amp; Dominoes</strong></em> was written by Steward Culin, originally published in 1889."
+            }
+          ]
+        },
+        {
+          "id": "a3340efc-74f3-417c-9330-b5569bafe5b4",
+          "type": "column",
+          "children": [
+            {
+              "id": "231dea22-66c7-46c8-b863-cddd4dfd0f2f",
+              "type": "image",
+              "src": "./assets/images/untitled-ee44f4ada56d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0464eca0-aebe-4e0a-9984-c6fc9b8a68f6",
+      "type": "divider"
+    },
+    {
+      "id": "76b53130-758d-47e7-938c-2162c492a82a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a1a30064-7a4c-486d-a324-70df9eaac76f",
+          "type": "column",
+          "children": [
+            {
+              "id": "488a591f-6c37-4c19-a15b-7e099b475b73",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ef9eda54-fa05-4c71-8ba3-60c7b64486a0",
+          "type": "column",
+          "children": [
+            {
+              "id": "2b482161-2b47-4b3e-83d4-30bf72ae1477",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xQx9UY\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c8f4fbc-ec6a-4fd1-a082-a7fd4ca80686",
+      "type": "divider"
+    }
+  ]
+}

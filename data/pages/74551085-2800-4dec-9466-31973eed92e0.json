@@ -1,0 +1,131 @@
+{
+  "id": "74551085-2800-4dec-9466-31973eed92e0",
+  "slug": "the-tetris-effect",
+  "title": "The Tetris Effect",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Tetris-Effect-7455108528004dec946631973eed92e0?pvs=21",
+  "createdTime": 1653076183263,
+  "lastEditedTime": 1681313914822,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Tetris Effect",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/the-tetris-effect-9781780749594-hr-d38107b3ca38.webp",
+  "blocks": [
+    {
+      "id": "ed24a7cf-3019-4893-8f5f-bc9c46898d57",
+      "type": "divider"
+    },
+    {
+      "id": "42f8dc82-2548-4222-80a6-936fa10d6c11",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c7028105-d737-45e5-8710-aa45c8734839",
+      "type": "columns",
+      "children": [
+        {
+          "id": "693901d5-6405-4744-aead-6258437f2477",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf9f6575-659f-4a6c-9041-261b3f237784",
+              "type": "paragraph",
+              "html": "<em><strong>The Tetris Effect: The Game that Hypnotized the World</strong></em> was written by Dan Ackerman, published by PublicAffairs, September 6, 2016."
+            },
+            {
+              "id": "d45eabe6-8f96-41e7-a8b6-87a331f87235",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2293addd-ea9b-483e-93f7-aa7103e9ebb0",
+              "type": "quote",
+              "html": "<em><strong>The definitive story of a game so great, even the Cold War couldn't stop it<br><br></strong></em>Tetris<em> is perhaps the most instantly recognizable, popular video game ever made. But how did an obscure Soviet programmer, working on frail, antiquated computers, create a product which has now earned nearly 1 billion in sales? How did a makeshift game turn into a worldwide sensation, which has been displayed at the Museum of Modern Art, inspired a big-budget sci-fi movie, and been played in outer space?A quiet but brilliant young man, Alexey Pajitnov had long nurtured a love for the obscure puzzle game pentominoes, and became obsessed with turning it into a computer game. Little did he know that the project that he labored on alone, hour after hour, would soon become the most addictive game ever made.In this fast-paced business story, reporter Dan Ackerman reveals how </em>Tetris<em> became one of the world's first viral hits, passed from player to player, eventually breaking through the Iron Curtain into the West. British, American, and Japanese moguls waged a bitter fight over the rights, sending their fixers racing around the globe to secure backroom deals, while a secretive Soviet organization named ELORG chased down the game's growing global profits. </em>The Tetris Effect<em> is an homage to both creator and creation, and a must-read for anyone who's ever played the game- which is to say everyone.</em>"
+            },
+            {
+              "id": "1fa43239-1601-4a66-aa30-1cb065660b9e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "9e703c28-97f8-4029-b9a2-08beef8d094d",
+          "type": "column",
+          "children": [
+            {
+              "id": "2f427108-cb86-4a34-a2df-4ce15d52ec67",
+              "type": "image",
+              "src": "./assets/images/the-tetris-effect-9781780749594-hr-d38107b3ca38.webp",
+              "caption": "",
+              "alt": "the-tetris-effect-9781780749594_hr.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21aa618e-73b0-4db7-a5f7-3fa898130004",
+      "type": "divider"
+    },
+    {
+      "id": "39b77804-2737-41cd-a797-fb3068f5d755",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7ce8c882-f057-464b-bcb2-4b66320778f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "c187699f-6cb6-485f-8d37-02388acde13a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "05a55fbc-fdb2-4b0c-955d-553a01bff0df",
+          "type": "column",
+          "children": [
+            {
+              "id": "cb448f34-53da-483e-995d-d5c3b649f192",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fqQyGS\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52c651fe-40aa-474d-ac61-a08046d04cb5",
+      "type": "divider"
+    }
+  ]
+}

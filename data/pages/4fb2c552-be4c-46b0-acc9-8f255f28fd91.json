@@ -1,0 +1,131 @@
+{
+  "id": "4fb2c552-be4c-46b0-acc9-8f255f28fd91",
+  "slug": "a-people-s-history-of-computing-in-the-united-states",
+  "title": "A People’s History of Computing in the United States",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/A-People-s-History-of-Computing-in-the-United-States-4fb2c552be4c46b0acc98f255f28fd91?pvs=21",
+  "createdTime": 1668809301658,
+  "lastEditedTime": 1681310305555,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A People’s History of Computing in the United States",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-559d287a2995.webp",
+  "blocks": [
+    {
+      "id": "4afe07a0-1f0a-4c9d-860b-3c6add3d5d19",
+      "type": "divider"
+    },
+    {
+      "id": "b43ddc80-3948-48ed-99e4-7356b4d0ee6e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "81566c63-dd42-4ee7-9072-a649f47c58c6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ae537108-a69f-4da5-b8cd-fe6c66ebc097",
+          "type": "column",
+          "children": [
+            {
+              "id": "955ad2eb-76d9-4224-b238-904f6ba09164",
+              "type": "paragraph",
+              "html": "<em><strong>A People’s History of Computing in the United States</strong></em> was written by Joy Lisi Rankin, published by Harvard University Press, October 8, 2018."
+            },
+            {
+              "id": "de318408-71c2-4cb6-9fc2-e88b95f9a63e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "80207043-7dab-4bfa-a6ac-2a3b5b3759f0",
+              "type": "quote",
+              "html": "<em><strong>Silicon Valley gets all the credit for digital creativity, but this account of the pre-PC world, when computing meant more than using mature consumer technology, challenges that triumphalism.<br><br></strong></em><em>The invention of the personal computer liberated users from corporate mainframes and brought computing into homes. But throughout the 1960s and 1970s a diverse group of teachers and students working together on academic computing systems conducted many of the activities we now recognize as personal and social computing. Their networks were centered in New Hampshire, Minnesota, and Illinois, but they connected far-flung users. Joy Rankin draws on detailed records to explore how users exchanged messages, programmed music and poems, fostered communities, and developed computer games like </em>The Oregon Trail<em>. These unsung pioneers helped shape our digital world, just as much as the inventors, garage hobbyists, and eccentric billionaires of Palo Alto.<br><br>By imagining computing as an interactive commons, the early denizens of the digital realm seeded today’s debate about whether the internet should be a public utility and laid the groundwork for the concept of net neutrality. Rankin offers a radical precedent for a more democratic digital culture, and new models for the next generation of activists, educators, coders, and makers.</em>"
+            },
+            {
+              "id": "c2460b16-1f0a-4fd9-a617-d5dcc2272cd0",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "98549392-0eb1-4b82-a627-339dae7e69bf",
+          "type": "column",
+          "children": [
+            {
+              "id": "55800bed-fc70-4aaf-b9b3-e9c91f3aaddf",
+              "type": "image",
+              "src": "./assets/images/untitled-559d287a2995.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9839f0fe-9eaa-4564-a82c-62de2ffcab3d",
+      "type": "divider"
+    },
+    {
+      "id": "37ce36fb-6233-4cc5-b899-53cfa02dab0f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2cb024c1-32d2-41d4-a4df-a620c4e96391",
+          "type": "column",
+          "children": [
+            {
+              "id": "07d9e67e-4562-4170-90ca-f49b0fc08139",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fea0ea4b-2c88-43f3-8074-5b374f711af6",
+          "type": "column",
+          "children": [
+            {
+              "id": "d06e7c84-9882-480a-bb3a-de5eb3b10306",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Peoples-History-Computing-United-States/dp/0674970977/ref=sr_1_4?crid=1SMWTJDATCICR&amp;keywords=Games+and+War+in+Early+Modern+English+Literature&amp;qid=1668451554&amp;sprefix=games+and+war+in+early+modern+english+literature%2Caps%2C152&amp;sr=8-4\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc299b47-75fe-4502-a0b6-8a562b2cd280",
+      "type": "divider"
+    }
+  ]
+}

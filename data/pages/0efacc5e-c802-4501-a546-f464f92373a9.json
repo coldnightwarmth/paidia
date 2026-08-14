@@ -1,0 +1,121 @@
+{
+  "id": "0efacc5e-c802-4501-a546-f464f92373a9",
+  "slug": "epic",
+  "title": "Epic",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Epic-0efacc5ec8024501a546f464f92373a9?pvs=21",
+  "createdTime": 1651707194681,
+  "lastEditedTime": 1681314132581,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Epic"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3b220aa941c4.webp",
+  "blocks": [
+    {
+      "id": "6b3962c7-f801-4d30-9d06-11b0872122b1",
+      "type": "divider"
+    },
+    {
+      "id": "e085c712-662b-453c-8aee-f0eb063c336c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2ab6e7c4-d56c-4fa6-8d81-550d7056e1ed",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a19a894d-1341-4251-a128-f62366c8d0da",
+          "type": "column",
+          "children": [
+            {
+              "id": "1281720d-ce61-4ec5-9156-0096dc3459fe",
+              "type": "paragraph",
+              "html": "<em><strong>Epic</strong></em> was written by Conor Kostick, published by Viking Books, April 5, 2007."
+            },
+            {
+              "id": "9458ca2c-1a6b-4557-a3c2-ab807e89ac3d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9f3d54af-60d7-4f15-b799-6b539cdd387e",
+              "type": "quote",
+              "html": "<em>Generations ago, violence was banned on New Earth. Society is governed and conflicts are resolved in the arena of a fantasy computer game, </em>Epic<em>. Everyone plays. If you win, you have the chance to go to university, get more supplies for your community, and fulfill your dreams; if you lose, your life both in and out of the game is worth nothing.<br><br>When Erik, seeking revenge for the unjust treatment of his parents, dares to subvert the rules of Epic, he and his friends find themselves up against with the ultimate masters of the game: the Committee. If Erik and his friends win, they may have the key to destroying Epic’s tyranny over New Earth. But if they lose . . .</em>"
+            }
+          ]
+        },
+        {
+          "id": "c2000621-b13a-410a-8fbe-6b8d2a94c24d",
+          "type": "column",
+          "children": [
+            {
+              "id": "1869571b-920e-4aa2-a2dd-1e09de51d43d",
+              "type": "image",
+              "src": "./assets/images/untitled-3b220aa941c4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9867bbd-ec77-470e-b0c7-09c8c2ff9bfb",
+      "type": "divider"
+    },
+    {
+      "id": "cfd48e9b-00a8-492e-a7bd-f620b0e0802b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "54260cab-92e9-4708-a7da-254816794334",
+          "type": "column",
+          "children": [
+            {
+              "id": "b3caeda7-af0c-42d9-921f-33d40811e6e6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0317a605-5beb-4dd2-bfb6-55d0560569ad",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f6278d8-6c1a-4b80-bd87-8b7e1ac8b3b3",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Qoqdp2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b506813-7871-47ff-b374-d009f3842740",
+      "type": "divider"
+    }
+  ]
+}

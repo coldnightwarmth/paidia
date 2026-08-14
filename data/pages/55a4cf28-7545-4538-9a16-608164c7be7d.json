@@ -1,0 +1,134 @@
+{
+  "id": "55a4cf28-7545-4538-9a16-608164c7be7d",
+  "slug": "jane-mcgonigal",
+  "title": "Jane McGonigal",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "168b4ff9-9835-46d8-acec-a0b44ae2427e",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/55a4cf28754545389a16608164c7be7d",
+  "createdTime": 1651683214553,
+  "lastEditedTime": 1681328996022,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Jane McGonigal"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1ffead1fb082.webp",
+  "blocks": [
+    {
+      "id": "a857ac44-c9b7-4cb2-a517-85bb45201989",
+      "type": "divider"
+    },
+    {
+      "id": "f226bc87-6c92-4030-8561-ae2f5bc9f159",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8cd73c5e-deda-447e-9442-7e41eef5efa4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5d0d5baf-8853-4654-bc5a-956373a9f103",
+          "type": "column",
+          "children": [
+            {
+              "id": "e5f4d5d0-3295-4f29-b7b4-f9ef345f1307",
+              "type": "paragraph",
+              "html": "<strong>Author  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "6b720751-58a2-4644-a502-7c8e5f9bcdf6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2a5080e4-c1f4-472e-9048-182ee497d85e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "fbac275d-e962-4caa-b68f-e84de675e97d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3ac729bb-7fa9-4e36-a721-736ec31c4d97",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "01b590f4-806a-418e-895c-b9c48733ac14",
+          "type": "column",
+          "children": [
+            {
+              "id": "1b8e8fb5-ad5e-455d-b78b-0ebb38a4c767",
+              "type": "image",
+              "src": "./assets/images/untitled-1ffead1fb082.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e688c8b3-92ec-43e6-a6b5-dbe79fff5546",
+      "type": "divider"
+    },
+    {
+      "id": "2fb47035-9198-41da-b371-b88a3bc88fcd",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "d79d58de-fad6-4251-9f5b-40330cd765e5",
+      "type": "paragraph",
+      "html": "<a href=\"#/reality-is-broken\">Reality is Broken</a> (2011) (<em>book</em>)"
+    },
+    {
+      "id": "b7309e1c-a12d-4ee8-a4f6-750f81df26e4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b4231853-fe22-4715-a56a-619df2675b42",
+      "type": "divider"
+    },
+    {
+      "id": "7e68ef15-4382-46ba-a67d-8c8f00762c80",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e7dffc5e-88bb-4e67-aaa6-1204a2cc478c",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "11d5b795-0b95-4af3-90dc-a571494ffa32",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "0a17245e-9892-46e6-8a72-4ac8fdb4c36c",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

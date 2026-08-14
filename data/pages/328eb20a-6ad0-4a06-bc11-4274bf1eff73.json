@@ -1,0 +1,131 @@
+{
+  "id": "328eb20a-6ad0-4a06-bc11-4274bf1eff73",
+  "slug": "simulating-war",
+  "title": "Simulating War",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Simulating-War-328eb20a6ad04a06bc114274bf1eff73?pvs=21",
+  "createdTime": 1657235010179,
+  "lastEditedTime": 1681313884376,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Simulating War",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8a67f780b94d.webp",
+  "blocks": [
+    {
+      "id": "8852eb18-7797-4579-8f3c-02cd4a774a22",
+      "type": "divider"
+    },
+    {
+      "id": "5da36963-5b02-4b16-9be5-ef381022940d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2c86ccf5-8e5d-4c3f-8e3a-327446b40041",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ad7e2d38-5136-4981-8114-410ec5838037",
+          "type": "column",
+          "children": [
+            {
+              "id": "57b714bd-547b-4407-807d-96d5b531a042",
+              "type": "paragraph",
+              "html": "<em><strong>Simulating War: Studying Conflict through Simulation Games</strong></em> was written by Philip Sabin, published by Bloomsbury Academic, January 19, 2012."
+            },
+            {
+              "id": "ca663294-d90f-4751-9c71-b8457e0fdfb3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6304f702-20da-44da-bc8f-f19d890a698a",
+              "type": "quote",
+              "html": "<em>Over the past fifty years, many thousands of conflict simulations have been published that bring the dynamics of past and possible future wars to life.<br><br>In this book, Philip Sabin explores the theory and practice of conflict simulation as a topic in its own right, based on his thirty years of experience in designing wargames and using them in teaching. </em>Simulating War<em> sets conflict simulation in its proper context alongside more familiar techniques such as game theory and operational analysis. It explains in detail the analytical and modelling techniques involved, and it teaches you how to design your own simulations of conflicts of your choice. The book provides eight simple illustrative simulations of specific historical conflicts, complete with rules, maps and counters.<br><br></em>Simulating War<em> is essential reading for all recreational or professional simulation gamers, and for anyone who is interested in modelling war, from teachers and students to military officers.</em>"
+            },
+            {
+              "id": "028be564-0b49-42b6-9b65-090dfb100006",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "be7df2e1-cea9-43be-b533-4aa81a0be9f2",
+          "type": "column",
+          "children": [
+            {
+              "id": "4018ae11-dfca-4c99-8eb1-ccc3a37b52b1",
+              "type": "image",
+              "src": "./assets/images/untitled-8a67f780b94d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6946dbe2-18c1-491d-9154-a8b56b49fa2f",
+      "type": "divider"
+    },
+    {
+      "id": "7967b97d-d49a-4bc2-9102-1b39b155ad32",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6b9de79f-af3f-4773-8e57-65219fce5ae2",
+          "type": "column",
+          "children": [
+            {
+              "id": "b426566a-9af0-4cc4-a8e8-fc9c990f481a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fe7c29f8-5512-40fc-9871-7a14523610b3",
+          "type": "column",
+          "children": [
+            {
+              "id": "2df054b3-8ae3-405f-bb31-a7f7f9f614cf",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3nMM25S\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f8368a12-d4a9-46ef-b577-eaca7753c5a7",
+      "type": "divider"
+    }
+  ]
+}

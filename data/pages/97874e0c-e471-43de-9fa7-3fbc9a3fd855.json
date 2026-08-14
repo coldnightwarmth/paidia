@@ -1,0 +1,126 @@
+{
+  "id": "97874e0c-e471-43de-9fa7-3fbc9a3fd855",
+  "slug": "the-universe-in-a-handkerchief",
+  "title": "The Universe in a Handkerchief",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/97874e0ce47143de9fa73fbc9a3fd855",
+  "createdTime": 1667275193186,
+  "lastEditedTime": 1681312684545,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Universe in a Handkerchief",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-665ebd369e54.webp",
+  "blocks": [
+    {
+      "id": "add5a243-bf38-4bcb-87b1-47adbc060e63",
+      "type": "divider"
+    },
+    {
+      "id": "63fed2dc-5ad5-4b9c-8715-4b191a24b164",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "325a707f-b58a-4932-a72a-2f4e5ed46499",
+      "type": "columns",
+      "children": [
+        {
+          "id": "66476876-0df9-4d77-affb-c12d26fc4a8a",
+          "type": "column",
+          "children": [
+            {
+              "id": "a9b6f6d0-e09a-4560-a72d-ae3d189958ca",
+              "type": "paragraph",
+              "html": "<em><strong>The Universe in a Handkerchief: Lewis Carroll’s Mathematical Recreations, Games, Puzzles, &amp; Word Plays </strong></em>was written by Martin Gardner, originally published by Copernicus in 1996."
+            },
+            {
+              "id": "169386e5-15b2-4840-b4bd-8ac0373b0b71",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "595e389b-a34d-47d6-9d51-905d21088e64",
+              "type": "quote",
+              "html": "<em>This book contains scores of intriguing puzzles and paradoxes from Lewis Carroll, the author of </em>Alice in Wonderland<em>, whose interests ranged from inventing new games like Arithmetical Croquet to important problems in symbolic logic and propositional calculus. Written by Carroll expert and well-known mathematics author Martin Gardner, this tour through Carroll's inventions is both fun and informative.</em>"
+            }
+          ]
+        },
+        {
+          "id": "807c129a-426d-47d3-b652-c917233a13fd",
+          "type": "column",
+          "children": [
+            {
+              "id": "72ef702e-f247-44d6-898d-33e34a077d66",
+              "type": "image",
+              "src": "./assets/images/untitled-665ebd369e54.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4680115f-cdce-4a59-881a-cb861a07a49b",
+      "type": "divider"
+    },
+    {
+      "id": "b09aa5fb-de0f-4480-b8c2-3d913f25f05a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d9e79fb8-8976-46aa-b7fb-f1cfd6987bf2",
+          "type": "column",
+          "children": [
+            {
+              "id": "221c13b1-f857-49e3-8fcd-58f33678a4d5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ed473788-16c3-4837-ad55-144d8ecc87d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "b2099419-76da-4da2-9134-2c73a0b79124",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SSo5Y3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebe05a56-9893-430a-89e7-6e1913290f98",
+      "type": "divider"
+    }
+  ]
+}

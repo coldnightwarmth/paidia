@@ -1,0 +1,131 @@
+{
+  "id": "74e75825-1cde-4691-b1b4-1573645c3211",
+  "slug": "screenplay",
+  "title": "ScreenPlay",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/ScreenPlay-74e758251cde4691b1b41573645c3211?pvs=21",
+  "createdTime": 1657306089106,
+  "lastEditedTime": 1681314199388,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "ScreenPlay",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-458ec00b3688.webp",
+  "blocks": [
+    {
+      "id": "4e7a21f5-c545-4429-9341-aefd365cc897",
+      "type": "divider"
+    },
+    {
+      "id": "5cef92f1-d491-4fd6-a366-d8094bff2b0b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b1404d30-a36c-4ffa-badd-f426eef2d968",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c9253674-9a78-4d41-85d5-95ae8d8fe5c6",
+          "type": "column",
+          "children": [
+            {
+              "id": "25201326-e3b4-4d19-bf26-d5c0638e1b8e",
+              "type": "paragraph",
+              "html": "<em><strong>ScreenPlay</strong></em> was written by Geoff King, published by Wallflower Press, November 15, 2002."
+            },
+            {
+              "id": "b80bc103-7fed-4961-a34f-1addb7d06e4d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "973d9d22-abcd-4b5b-ba25-69ecd6ba52c1",
+              "type": "quote",
+              "html": "<em>What is the relationship between cinema and videogames? Hollywood film franchises are routinely translated into games. Some game titles make the move onto the big screen, none more prominently than Lara Croft, iconic star of the</em> Tomb Raider<em> series. Games often depend on recognized film genres, milieu or devices for branding and marketing. Some aspire to a film-like quality of graphics and action. But games also offer markedly different experiences, especially in the realm of &quot;interactivity.&quot; But what happens in the interface between cinema and games console or PC? Is there a merging of languages as games influence movies and movies influence games? Are some films becoming increasingly like games, and to what extent do they draw on the characteristics of Hollywood or other forms of cinema? </em>ScreenPlay<em> investigates all these issues and explores the extent to which the tools of film analysis can be applied to games, in particular, how the pleasures (and frustrations) of computer games can be compared with those of cinema.</em>"
+            },
+            {
+              "id": "d798dcb1-0947-46fb-9c11-7affaa6143bf",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ba7a4bf5-7099-4d4e-a2f5-3faca0d37da0",
+          "type": "column",
+          "children": [
+            {
+              "id": "eee95833-6f03-4bde-92fc-d29075f8d872",
+              "type": "image",
+              "src": "./assets/images/untitled-458ec00b3688.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33fa930c-deee-4223-8b02-e137b88b3a96",
+      "type": "divider"
+    },
+    {
+      "id": "967a42ea-6e61-4a04-b337-2d71b0d95bfc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e18ebe64-0fc8-4d5e-a985-e9d9b8ffc773",
+          "type": "column",
+          "children": [
+            {
+              "id": "c81a5745-0abf-4ee8-855e-40c53b78806f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1438ff86-02fa-45c0-b028-b9cc835e7fae",
+          "type": "column",
+          "children": [
+            {
+              "id": "21657d1e-d4c9-45ab-83e2-b39c3d27249d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yOlQOH\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "417fe0a2-100b-4136-8da6-3df1a5721434",
+      "type": "divider"
+    }
+  ]
+}

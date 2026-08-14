@@ -1,0 +1,126 @@
+{
+  "id": "b72d4358-dd41-46c2-8ecd-e7ed34d9e9b6",
+  "slug": "the-art-of-the-icon",
+  "title": "The Art of the Icon",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Art-of-the-Icon-b72d4358dd4146c28ecde7ed34d9e9b6?pvs=21",
+  "createdTime": 1652535130963,
+  "lastEditedTime": 1681314252249,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Art of the Icon",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a8885e264f3a.webp",
+  "blocks": [
+    {
+      "id": "6a0e4403-4615-4e47-8f73-3f5ae4735b2a",
+      "type": "divider"
+    },
+    {
+      "id": "ea7c021f-80cc-4893-9821-ae93a54dafb6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7967afce-eedc-47ec-bbf2-32144b109e55",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a91a5f8e-9207-4a29-bbe3-27bff9b5075e",
+          "type": "column",
+          "children": [
+            {
+              "id": "edc77f89-98f2-4805-a0c5-a41609f8f0b2",
+              "type": "paragraph",
+              "html": "<em><strong>The Art of the Icon: A Theology of Beauty</strong></em><strong> </strong>was written by Paul Evdokimov, published by Oakwood, June 1, 1989."
+            },
+            {
+              "id": "88a5d8b0-9e94-4e83-abb4-47568b1c2ed3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2d5d2545-e826-4402-9b06-8d1d1e1cfcaf",
+              "type": "quote",
+              "html": "<em>A 'summa on beauty' by this great Orthodox Theologian. First, a presentation on the biblical and patristic vision of beauty, applied then to contemporary movements in art. A 'theology of the icon' from a personal point of view, as well as in the context of the Church. Finally, the author includes a section and commentaries on 10 icons, from Riblev's Holy Trinity to the Novgorodian Angel.</em>"
+            }
+          ]
+        },
+        {
+          "id": "365488de-2ba0-47c1-9507-afb78437e92c",
+          "type": "column",
+          "children": [
+            {
+              "id": "a059a9fa-bf13-40cd-8438-4d376540097d",
+              "type": "image",
+              "src": "./assets/images/untitled-a8885e264f3a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "73c93248-e4cf-46e9-b4ed-6c5bcf8b78a8",
+      "type": "divider"
+    },
+    {
+      "id": "cc882e98-44b3-4284-bd31-9d68a2ba4a59",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5be42246-a964-48bf-ac7a-d755fb2ffeed",
+          "type": "column",
+          "children": [
+            {
+              "id": "e4f6894a-0d47-4823-a345-b6b8ed7ca4b1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fd31a6ea-269a-42fd-8c0e-591e74c998a6",
+          "type": "column",
+          "children": [
+            {
+              "id": "5b1ddc27-cb05-4c33-ab08-14f36ea09a13",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3tiq2TR\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01c3572c-ac56-476c-8c20-b0d862ec0e6c",
+      "type": "divider"
+    }
+  ]
+}

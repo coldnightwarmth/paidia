@@ -1,0 +1,304 @@
+{
+  "id": "07ae79e1-039e-499f-8ece-ca7d55e23301",
+  "name": "Career Insights",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "KU^N": {
+      "id": "KU^N",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "834429ab-0a9f-4107-a583-b7db7ef98394",
+          "value": "Text",
+          "color": "brown"
+        },
+        {
+          "id": "6e975809-4ad3-463f-9eed-bfc446eb3354",
+          "value": "Video",
+          "color": "green"
+        },
+        {
+          "id": "2c56d12f-1380-4980-8dfd-bb464c4e1b4c",
+          "value": "Audio",
+          "color": "purple"
+        },
+        {
+          "id": "c2dfe57b-c55f-4325-8686-d278044f3bc9",
+          "value": "⭐ Editor's Choice",
+          "color": "yellow"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "c8227149-3d30-4c27-bb41-1129081fdc3a",
+      "collectionId": "07ae79e1-039e-499f-8ece-ca7d55e23301",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "eb2572c6-5b79-4b88-9078-a777b7ecad1b",
+        "f6a656b6-1e54-4e81-a100-d7661b265561",
+        "3bcb4a4a-c3a3-4224-a357-a81a5ab9faf6",
+        "08833eaf-38a1-443a-bad8-c17d60b9457a",
+        "6ca1ca69-9893-41d1-9b92-b035679d0ec3",
+        "b03db1b5-3dd8-4d2d-a681-9bd9822a6c60",
+        "aa10a488-bd02-498d-8e15-3f1f4c5ac99b",
+        "f28f9b90-d8fc-46a5-8dda-f9601717fe22",
+        "b4cf57a8-b4c1-4ea0-a73d-babc8bbd8cdd",
+        "8f4a4499-ff2b-4252-ae1b-e587285c877b",
+        "0c864f2d-a5cc-4d1b-b3a7-d7de70370794",
+        "a2b3c7fb-ef25-43bd-8c9a-034af179ac96",
+        "4dba71bd-a8bb-4af7-9ea4-a1462b58d1ba",
+        "85b2eadc-ecb0-479b-9d89-91f4fdd05ed9",
+        "3a4d8c60-5ae4-442e-b89a-62526a548d58",
+        "6ce0c0a2-553d-4bd3-b337-e939909c507e",
+        "8d42eb1a-6875-4195-a7f0-056dbfc5b759",
+        "ac67deb6-4b2e-46fa-adb0-07dd6d32839f",
+        "ee9c1a88-3083-4846-9de3-758b81059d31",
+        "1363e7c5-89f7-43cb-944b-5fe906159cdd",
+        "66ed244f-0068-4b4d-88f3-a8bb15c8e691",
+        "352634ce-15c2-4d96-84e6-9ec403a8b0c6",
+        "b5216b66-7bc1-4476-862a-07e30bba3254",
+        "82e16c90-9c70-4524-9a31-b93f77b0ff2d",
+        "9496d30f-27a6-4c78-a9ab-513e754d969b",
+        "ded7673e-2d53-4a9b-a3f9-c413bf57a8eb",
+        "6e05a910-e992-4859-9b4d-7a89bc568981",
+        "1528b499-1b42-40c4-bab8-4ec5b5e9a49a",
+        "95c86262-b2c5-440b-841a-05530e0b92fc",
+        "87c01226-ad84-45be-bdfb-e40de7e391c7",
+        "ce18021c-fd9e-4709-b1c8-f5d019c1a3c3",
+        "0075d869-ed27-41a6-98c9-d375a979ccf1",
+        "53428c7d-f3c9-4ce2-929a-cfbf193fc7cc",
+        "64ee6189-0152-41aa-9886-4dd9a843e288",
+        "956a6f81-5516-4a45-9bf3-80e0e5b5c211",
+        "3848580d-e85b-49c9-91ee-80be7055c9b0",
+        "e5d3c1b4-d612-464a-a747-86a39069fb51",
+        "296c2fc2-1b2a-4aa6-890c-495743ea66b9",
+        "1a7b2bf2-7182-405b-9aae-3fba0924fb69",
+        "4d644971-5d92-4552-ad96-7060830b9bea",
+        "d21d555a-60a8-4867-af1c-59c8c3a4f60e"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "770335e8-808a-4b81-8572-a32867e697cf",
+      "collectionId": "07ae79e1-039e-499f-8ece-ca7d55e23301",
+      "type": "gallery",
+      "name": "Text",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "21527f9f-c850-48b7-bb15-f8bcaed0f8ff",
+      "collectionId": "07ae79e1-039e-499f-8ece-ca7d55e23301",
+      "type": "gallery",
+      "name": "Video",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "b2615d58-b024-4f6e-a955-2f4d879d8326",
+      "collectionId": "07ae79e1-039e-499f-8ece-ca7d55e23301",
+      "type": "gallery",
+      "name": "Audio",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "2df7fc1c-fb21-4042-8dd7-70428482af6e",
+      "collectionId": "07ae79e1-039e-499f-8ece-ca7d55e23301",
+      "type": "gallery",
+      "name": "⭐ Editor's Choice",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

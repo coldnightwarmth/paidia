@@ -1,0 +1,126 @@
+{
+  "id": "287bcb78-7316-40a3-8e1d-ade1b453a4b8",
+  "slug": "lifelong-kindergarten",
+  "title": "Lifelong Kindergarten",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Lifelong-Kindergarten-287bcb78731640a38e1dade1b453a4b8?pvs=21",
+  "createdTime": 1667268279804,
+  "lastEditedTime": 1681312713996,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Lifelong Kindergarten"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e20ef9930402.webp",
+  "blocks": [
+    {
+      "id": "4d22f408-f08a-49df-9d0b-cd2b798a6321",
+      "type": "divider"
+    },
+    {
+      "id": "a92cae4b-5748-42fb-a969-de901ae62e13",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "61e10b12-233c-4024-b06e-fb66eba0be02",
+      "type": "columns",
+      "children": [
+        {
+          "id": "03498643-aebe-473e-b9f8-78b8bc1eb934",
+          "type": "column",
+          "children": [
+            {
+              "id": "f6b5b4d3-0153-40c3-b447-34a3ebc7a4cf",
+              "type": "paragraph",
+              "html": "<em><strong>Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, &amp; Play</strong></em><em> </em>was written by Mitchel Resnick, published by The MIT Press, August 25, 2017."
+            },
+            {
+              "id": "5b960b07-037e-432a-9e09-444cc3007d77",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b0ecd7ac-1a6b-4990-b01b-2c3eded6fb7c",
+              "type": "quote",
+              "html": "<strong><em>How lessons from kindergarten can help everyone develop the creative thinking skills needed to thrive in today's society.<br></em></strong><em><br>In kindergartens these days, children spend more time with math worksheets and phonics flashcards than building blocks and finger paint. Kindergarten is becoming more like the rest of school. In </em>Lifelong Kindergarten<em>, learning expert Mitchel Resnick argues for exactly the opposite: the rest of school (even the rest of life) should be more like kindergarten. To thrive in today's fast-changing world, people of all ages must learn to think and act creatively―and the best way to do that is by focusing more on imagining, creating, playing, sharing, and reflecting, just as children do in traditional kindergartens.<br><br>Drawing on experiences from more than thirty years at MIT's Media Lab, Resnick discusses new technologies and strategies for engaging young people in creative learning experiences. He tells stories of how children are programming their own games, stories, and inventions (for example, a diary security system, created by a twelve-year-old girl), and collaborating through remixing, crowdsourcing, and large-scale group projects (such as a Halloween-themed game called </em>Night at Dreary Castle,<em> produced by more than twenty kids scattered around the world). By providing young people with opportunities to work on projects, based on their passions, in collaboration with peers, in a playful spirit, we can help them prepare for a world where creative thinking is more important than ever before.</em>"
+            },
+            {
+              "id": "7d750050-16ee-4dba-9308-8aa9eebb5373",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4846a334-0a62-4ff0-b3a6-85fa8d3e5ff9",
+          "type": "column",
+          "children": [
+            {
+              "id": "67e73ab2-7238-4fcd-9570-14c8226a21b3",
+              "type": "image",
+              "src": "./assets/images/untitled-e20ef9930402.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c24da185-1d56-476b-a1ec-d37b4d195715",
+      "type": "divider"
+    },
+    {
+      "id": "a0afaea4-25e4-410e-a1d7-58e4120bb21f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8cd6cb36-1966-4340-8534-0488336bd554",
+          "type": "column",
+          "children": [
+            {
+              "id": "926cd1f1-183c-4e12-b99c-87a942a5f0c4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1373ae31-4c29-4091-bacf-9708e1725838",
+          "type": "column",
+          "children": [
+            {
+              "id": "24f2546c-c2f8-4bce-8098-dd4790e50d48",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fksbdG\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb1ade6e-edcf-4808-8a6a-0b8d0ebd1f86",
+      "type": "divider"
+    }
+  ]
+}

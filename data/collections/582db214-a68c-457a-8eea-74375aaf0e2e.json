@@ -1,0 +1,84 @@
+{
+  "id": "582db214-a68c-457a-8eea-74375aaf0e2e",
+  "name": "Level summary",
+  "schema": {
+    "Jk:|": {
+      "id": "Jk:|",
+      "name": "Main plot points",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "bhh>": {
+      "id": "bhh>",
+      "name": "Setting",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Chapter",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "ce151981-7607-46bb-9f8f-c8f114983bea",
+      "collectionId": "582db214-a68c-457a-8eea-74375aaf0e2e",
+      "type": "table",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "291ad874-9d55-420e-bc62-6c5a2e2049f5",
+        "34ffc74e-bd8f-44d1-8dd9-93cffd4785ed",
+        "7336548b-cc08-4958-b6c2-696ad0a6904d"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 156
+        },
+        {
+          "property": "Jk:|",
+          "visible": true,
+          "width": 200
+        },
+        {
+          "property": "bhh>",
+          "visible": true,
+          "width": 200
+        },
+        {
+          "property": "WQan",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

@@ -1,0 +1,146 @@
+{
+  "id": "c94dd132-bb21-4474-be45-07a420038de0",
+  "slug": "expressive-processing",
+  "title": "Expressive Processing",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/c94dd132bb214474be4507a420038de0",
+  "createdTime": 1667273046366,
+  "lastEditedTime": 1681312696463,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Expressive Processing",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f714d86d5cc4.webp",
+  "blocks": [
+    {
+      "id": "f40e0ac9-68d0-489c-8233-d53ee797a613",
+      "type": "divider"
+    },
+    {
+      "id": "72860471-1656-4cb4-81bf-f245f189bd33",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "82d28a40-f29a-40e0-9398-b6d92e2617ea",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5497aef3-1b6d-4498-8139-62677c2f8223",
+          "type": "column",
+          "children": [
+            {
+              "id": "2ba79a58-ac84-4135-a260-7ac3d13e37a6",
+              "type": "paragraph",
+              "html": "<em><strong>Expressive Processing: Digital Fictions, Computer Games, &amp; Software Studies</strong></em> was written by <a href=\"#/noah-wardrip-fruin\">Noah Wardrip-Fruin</a>, published by The MIT Press, February 10, 2012."
+            },
+            {
+              "id": "9cbbaf52-8392-4583-92c4-9fe412728fe1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b8087e69-433e-472a-b539-f05d501914a9",
+              "type": "quote",
+              "html": "<strong><em>From the complex city-planning game</em></strong><strong> </strong><a href=\"/83bea9f3083d43d99750fbd2c2cb277f\" target=\"_blank\" rel=\"noreferrer\"><strong>SimCity</strong></a><strong><em> to the virtual therapist Eliza: how computational processes open possibilities for understanding and creating digital media.<br></em></strong><em><br>What matters in understanding digital media? Is looking at the external appearance and audience experience of software enough—or should we look further? In </em>Expressive Processing<em>, Noah Wardrip-Fruin argues that understanding what goes on beneath the surface, the computational processes that make digital media function, is essential.<br><br>Wardrip-Fruin looks at “expressive processing” by examining specific works of digital media ranging from the simulated therapist Eliza to the complex city-planning game </em>SimCity<em>. Digital media, he contends, offer particularly intelligible examples of things we need to understand about software in general; if we understand, for instance, the capabilities and histories of artificial intelligence techniques in the context of a computer game, we can use that understanding to judge the use of similar techniques in such higher-stakes social contexts as surveillance.</em>"
+            },
+            {
+              "id": "3f6e5cd3-35a5-416b-ab0a-8083ddd7a3cf",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c98a7106-4da2-402e-9407-b32e4df696e4",
+          "type": "column",
+          "children": [
+            {
+              "id": "c0431d8e-f245-4eff-8dd6-cc4a993a3025",
+              "type": "image",
+              "src": "./assets/images/untitled-f714d86d5cc4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32f8ef06-90f3-4d6c-ad50-08bf06d54f3a",
+      "type": "divider"
+    },
+    {
+      "id": "3f2373f6-fb82-4a81-90c9-401eb40ac056",
+      "type": "columns",
+      "children": [
+        {
+          "id": "de51244d-92d0-4053-9dab-c318d791e05f",
+          "type": "column",
+          "children": [
+            {
+              "id": "45b231dd-f93a-4635-bb6a-2b7337334a88",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9275761b-afac-4725-b93a-faf6ab6301cd",
+          "type": "column",
+          "children": [
+            {
+              "id": "26a9ab49-7b24-447a-9f6d-e3c141e26229",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fjv0Mj\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92732e7a-8d2d-4107-8fef-0a5f3f55066a",
+      "type": "divider"
+    },
+    {
+      "id": "0cf1f458-a56a-402f-99a4-f8eb6684932a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8ed71485-100f-4167-afed-3b3e78365fc8",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "2a636808-7b74-48c5-88b5-1f03b3966c92",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

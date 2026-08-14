@@ -1,0 +1,126 @@
+{
+  "id": "f751a3f7-fccf-4492-b1ba-81d5c0be9e52",
+  "slug": "fantasy-freaks-and-gaming-geeks",
+  "title": "Fantasy Freaks & Gaming Geeks",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Fantasy-Freaks-Gaming-Geeks-f751a3f7fccf4492b1ba81d5c0be9e52?pvs=21",
+  "createdTime": 1653174071918,
+  "lastEditedTime": 1681314004727,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Fantasy Freaks & Gaming Geeks",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3de9101dedb2.webp",
+  "blocks": [
+    {
+      "id": "ca594681-2b37-40c5-90cf-911f191cc0c2",
+      "type": "divider"
+    },
+    {
+      "id": "969847e7-ae27-447d-b9ca-0bd10f842d1f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ed1fb761-440c-46fd-8c76-20f62ee02f58",
+      "type": "columns",
+      "children": [
+        {
+          "id": "25ba69cb-2c8c-421e-88bf-040dff1427dd",
+          "type": "column",
+          "children": [
+            {
+              "id": "f58290ed-0774-4288-8376-41e81db8daca",
+              "type": "paragraph",
+              "html": "<em><strong>Fantasy Freaks &amp; Gaming Geeks: An Epic Quest For Reality Among Role Players, Online Gamers, &amp; Other Dwellers Of Imaginary Realms</strong></em> was written by Ethan Gilsdorf, published by Lyons Press, September 1, 2010."
+            },
+            {
+              "id": "ea134412-3577-497f-b9ed-fe67519a726f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "01f7f67c-5e81-45c9-acf0-6715b27f98a3",
+              "type": "quote",
+              "html": "<em>What could one man find if he embarked on a journey through fantasy world after fantasy world? In an enthralling blend of travelogue, pop culture analysis, and memoir, forty-year-old former D&amp;D addict Ethan Gilsdorf crisscrosses America, the world, and other worlds—from Boston to New Zealand, and Planet Earth to the realm of Aggramar.</em>"
+            }
+          ]
+        },
+        {
+          "id": "626beba6-cbaf-4b1d-98df-44a68b7f5782",
+          "type": "column",
+          "children": [
+            {
+              "id": "81e96957-108b-4ab0-a4be-5e79b2697a39",
+              "type": "image",
+              "src": "./assets/images/untitled-3de9101dedb2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31b02b50-3d5a-4ee1-8a53-813e9591eb16",
+      "type": "divider"
+    },
+    {
+      "id": "10ede84e-fb1e-4b54-b94c-d0246670fa6d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "03e3414e-2bd3-47f3-a80d-19fff16e405c",
+          "type": "column",
+          "children": [
+            {
+              "id": "4442dcea-d528-4a2a-8b45-b6d263abccc6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bf84ef02-ee78-4bca-a9f9-d0dd1a5274e0",
+          "type": "column",
+          "children": [
+            {
+              "id": "9a286e0d-b01a-4bfd-aabb-107d625e809f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3h0k8mI\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37bed4c3-8f9b-44a4-8479-bbc80e1ec5b2",
+      "type": "divider"
+    }
+  ]
+}

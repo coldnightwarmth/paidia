@@ -1,0 +1,131 @@
+{
+  "id": "f6bdd2ac-2b83-4a0e-95d8-c6461b5f1ca1",
+  "slug": "crash-override",
+  "title": "Crash Override",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Crash-Override-f6bdd2ac2b834a0e95d8c6461b5f1ca1?pvs=21",
+  "createdTime": 1651768733547,
+  "lastEditedTime": 1681314007577,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Crash Override",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-169b417acc79.webp",
+  "blocks": [
+    {
+      "id": "3155add6-3b28-4b55-a9e7-9680de9db39c",
+      "type": "divider"
+    },
+    {
+      "id": "2884284d-39e1-4efc-acdc-7f93fbe2c825",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "502c57d0-4174-49cc-bcb2-fbe909324c4c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4f26901c-551e-4fe6-891b-3d2351fcef37",
+          "type": "column",
+          "children": [
+            {
+              "id": "51fee812-6625-498b-8315-18eba671795e",
+              "type": "paragraph",
+              "html": "<em><strong>Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate </strong></em>was written by Zoë Quinn, published by PublicAffairs, September 5, 2017."
+            },
+            {
+              "id": "02b66c2d-97c4-4116-8fa9-860c536e1e21",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b5b7e20c-ec45-4a22-b900-7584a0687282",
+              "type": "quote",
+              "html": "<em>You've heard the stories about the dark side of the internet -- hackers, #gamergate, anonymous mobs attacking an unlucky victim, and revenge porn -- but they remain just that: stories. Surely these things would never happen to you.<br><br>Zoe Quinn used to feel the same way. She is a video game developer whose ex-boyfriend published a crazed blog post cobbled together from private information, half-truths, and outright fictions, along with a rallying cry to the online hordes to go after her. They answered in the form of a so-called movement known as #gamergate--they hacked her accounts; stole nude photos of her; harassed her family, friends, and colleagues; and threatened to rape and murder her. But instead of shrinking into silence as the online mobs wanted her to, she raised her voice and spoke out against this vicious online culture and for making the internet a safer place for everyone.<br><br>In the years since #gamergate, Quinn has helped thousands of people with her advocacy and online-abuse crisis resource Crash Override Network. From locking down victims' personal accounts to working with tech companies and lawmakers to inform policy, she has firsthand knowledge about every angle of online abuse, what powerful institutions are (and aren't) doing about it, and how we can protect our digital spaces and selves.<br><br></em>Crash Override<em> offers an up-close look inside the controversy, threats, and social and cultural battles that started in the far corners of the internet and have since permeated our online lives. Through her story -- as target and as activist -- Quinn provides a human look at the ways the internet impacts our lives and culture, along with practical advice for keeping yourself and others safe online.</em>"
+            },
+            {
+              "id": "4bbc23e4-7f72-48bc-b016-2ca1039e785d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8a83494d-33b3-4ee2-87ad-8fca89215c88",
+          "type": "column",
+          "children": [
+            {
+              "id": "e3bb53e1-8525-4d02-8b42-388f0a3b7ec2",
+              "type": "image",
+              "src": "./assets/images/untitled-169b417acc79.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46e918b3-ac25-4fc8-b0a0-aabbd9e9b707",
+      "type": "divider"
+    },
+    {
+      "id": "e432fbbb-99da-4410-aa2f-701c6310e100",
+      "type": "columns",
+      "children": [
+        {
+          "id": "97fd3cb5-38c8-4406-aec2-42fb1f75ec65",
+          "type": "column",
+          "children": [
+            {
+              "id": "8beae614-5863-4d05-ae84-db92fa2fe63f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ddc1ce98-8696-422d-b991-9e390b819cd2",
+          "type": "column",
+          "children": [
+            {
+              "id": "ecda7271-81e7-4dcd-8701-715f273594e1",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Nn8xKB\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "574664fe-8518-413e-bbab-a635b38e6312",
+      "type": "divider"
+    }
+  ]
+}

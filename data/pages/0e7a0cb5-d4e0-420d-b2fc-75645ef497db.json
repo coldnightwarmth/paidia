@@ -1,0 +1,131 @@
+{
+  "id": "0e7a0cb5-d4e0-420d-b2fc-75645ef497db",
+  "slug": "not-all-fairy-tales-have-happy-endings",
+  "title": "Not All Fairy Tales Have Happy Endings",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Not-All-Fairy-Tales-Have-Happy-Endings-0e7a0cb5d4e0420db2fc75645ef497db?pvs=21",
+  "createdTime": 1653077663928,
+  "lastEditedTime": 1681313815062,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Not All Fairy Tales Have Happy Endings",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b00645f42f08.webp",
+  "blocks": [
+    {
+      "id": "07847665-3956-469c-8af9-ad6b07d071fc",
+      "type": "divider"
+    },
+    {
+      "id": "9c143632-ce39-4659-b009-1984464c21bf",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "08a1906f-50e9-45f0-a674-140ebf867a63",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fe5b26c9-0b77-4e34-b070-8315cc62412d",
+          "type": "column",
+          "children": [
+            {
+              "id": "31e50c04-a1a5-4d34-a86e-c89219f96f4e",
+              "type": "paragraph",
+              "html": "<em><strong>Not All Fairy Tales Have Happy Endings: The rise &amp; fall of Sierra On-Line </strong></em>was written by Ken Williams, self-published through Lulu.com, July 24, 2020."
+            },
+            {
+              "id": "db4654a5-ce08-40eb-afc1-960be0ccc121",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "97eeb082-4f90-4529-866f-1d028ef51bf5",
+              "type": "quote",
+              "html": "<em>Sierra On-Line was one of the very first computer game companies and at one time dominated the industry. The author, Ken Williams, founded Sierra On-Line Sierra with his wife Roberta who went on to create many of the company's best selling games. Sierra grew from just Ken and Roberta to over one thousand employees and a fan base that still exists today, despite the fact that the company was torn apart by criminal activities, scandal and corruption that resulted in jail sentences and the collapse of Sierra. This is the behind-the-scenes story of the rise and fall, as it could only be told by the ultimate insider.</em>"
+            },
+            {
+              "id": "a977c506-580f-44d6-81ab-6d89978a8727",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "9a693d72-955f-49fa-b35c-fd82aba22b00",
+          "type": "column",
+          "children": [
+            {
+              "id": "256c6e78-0482-4500-bc1c-51608fcf58e6",
+              "type": "image",
+              "src": "./assets/images/untitled-b00645f42f08.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2210a918-5443-4bda-a6e3-49b14b7a03b1",
+      "type": "divider"
+    },
+    {
+      "id": "522f992b-832a-4cfe-9279-220e29e506a6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e3892e5c-9782-4986-afd8-2d188c3bc3b1",
+          "type": "column",
+          "children": [
+            {
+              "id": "cf78c9c0-270b-4800-8b27-418e3714d84c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "070d7b95-34e7-4849-b992-a8817ca3f191",
+          "type": "column",
+          "children": [
+            {
+              "id": "ac231800-e383-46be-850a-bfa23f56bdfa",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sKksZx\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c077b9f1-b48a-4ad0-b99e-979c769c55ae",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "full-text-436-clash-of-realities-2015-16",
+  "slug": "clash-of-realities-2015-16",
+  "title": "Clash of Realities 2015/16",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8b00db95-6902-4675-93fb-bd8023cf5614",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "",
+  "createdTime": null,
+  "lastEditedTime": null,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Clash of Realities 2015/16"
+      ]
+    ],
+    "Full Text Database Row": [
+      [
+        "436"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Clash of Realities"
+      ]
+    ],
+    "Tags": [
+      [
+        "Art, Theory, Videogames"
+      ]
+    ],
+    "Released": [
+      [
+        "2018"
+      ]
+    ],
+    "Publisher": [
+      [
+        "transcript publishing"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "full-text-436-clash-of-realities-2015-16-divider",
+      "type": "divider"
+    },
+    {
+      "id": "full-text-436-clash-of-realities-2015-16-metadata",
+      "type": "paragraph",
+      "html": "<strong>Clash of Realities 2015/16</strong>, by Clash of Realities, transcript publishing, 2018."
+    },
+    {
+      "id": "full-text-436-clash-of-realities-2015-16-tags",
+      "type": "paragraph",
+      "html": "<em>Tags:</em> Art, Theory, Videogames"
+    },
+    {
+      "id": "full-text-436-clash-of-realities-2015-16-note",
+      "type": "callout",
+      "html": "This spreadsheet row did not include a Notion source URL, so this local page was generated from the Full Text Database CSV metadata.",
+      "icon": "🗃️",
+      "children": []
+    }
+  ]
+}

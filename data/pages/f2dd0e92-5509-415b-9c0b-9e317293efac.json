@@ -1,0 +1,131 @@
+{
+  "id": "f2dd0e92-5509-415b-9c0b-9e317293efac",
+  "slug": "digital-leisure-the-internet-and-popular-culture",
+  "title": "Digital Leisure, the Internet & Popular Culture",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Digital-Leisure-the-Internet-Popular-Culture-f2dd0e925509415b9c0b9e317293efac?pvs=21",
+  "createdTime": 1671478233639,
+  "lastEditedTime": 1681312222557,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Digital Leisure, the Internet & Popular Culture",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ce38db14a5bd.webp",
+  "blocks": [
+    {
+      "id": "63c5ef1d-84f4-40a3-a399-8eef67df49e5",
+      "type": "divider"
+    },
+    {
+      "id": "2d60c524-34f3-4410-b92a-37cf387a673a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8904be2a-34fd-40c8-8795-1acac9d0b4f9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "19a89678-9b90-4b86-a0b2-0df2b3c9f729",
+          "type": "column",
+          "children": [
+            {
+              "id": "cc41f525-ab6e-42cc-aee7-d23596d28c84",
+              "type": "paragraph",
+              "html": "<em><strong>Digital Leisure, the Internet &amp; Popular Culture: Communities &amp; Identities in a Digital Age</strong></em> was written by Karl Spracklen, published by Palgrave Macmillan, May 28, 2015."
+            },
+            {
+              "id": "a2e87c0f-8560-45ab-a504-38670d4c85ad",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "bf378edf-bf24-4610-bdf2-403749523ea2",
+              "type": "quote",
+              "html": "<em>Spracklen explores the impact of the internet on leisure and leisure studies, examining the ways in which digital leisure spaces and activities have become part of everyday leisure. Covering a range of issues from social media and file-sharing to romance on the Internet, this book presents new theoretical directions for digital leisure.</em>"
+            },
+            {
+              "id": "cbfabc5c-0378-435e-a763-7e9ed3b5cef3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b8740127-b17a-4b9c-9afe-bc62de26d6a9",
+          "type": "column",
+          "children": [
+            {
+              "id": "95cd88ab-0bce-4515-904d-ff11fab20e4e",
+              "type": "image",
+              "src": "./assets/images/untitled-ce38db14a5bd.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b3b6135a-10dd-45e6-aaf8-55e614d769bd",
+      "type": "divider"
+    },
+    {
+      "id": "e9591eff-db73-4514-bc53-dbe8a230a66b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "200226ca-5379-4ee9-99e5-e89467396ea7",
+          "type": "column",
+          "children": [
+            {
+              "id": "2e5f0aac-28aa-453e-9e79-43c1460946e2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4e43e3f3-0bc6-4288-a071-f18674393c65",
+          "type": "column",
+          "children": [
+            {
+              "id": "4ef86c2f-7339-4268-8e1b-897e30424ee3",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Digital-Leisure-Internet-Popular-Culture/dp/1137405864/ref=sr_1_1?crid=109SLCV5E3WMA&amp;keywords=Digital+Leisure%2C+the+Internet+and+Popular+Culture%3A+Communities+and+Identities+in+a+Digital+Age&amp;qid=1666371722&amp;qu=eyJxc2MiOiIwLjA0IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=digital+leisure%2C+the+internet+and+popular+culture+communities+and+identities+in+a+digital+age%2Caps%2C92&amp;sr=8-1&amp;ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7d39d95-f38e-47e2-becf-2eefdc25eeba",
+      "type": "divider"
+    }
+  ]
+}

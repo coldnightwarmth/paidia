@@ -1,0 +1,131 @@
+{
+  "id": "35f6cc47-cf6e-459c-83db-867340d1ea67",
+  "slug": "the-souls-of-cyberfolk",
+  "title": "The Souls of Cyberfolk",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Souls-of-Cyberfolk-35f6cc47cf6e459c83db867340d1ea67?pvs=21",
+  "createdTime": 1657138577801,
+  "lastEditedTime": 1681314163959,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Souls of Cyberfolk",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-162dbd9dbe39.webp",
+  "blocks": [
+    {
+      "id": "0dafdaf7-4977-411e-9be3-cee795721278",
+      "type": "divider"
+    },
+    {
+      "id": "f53b1535-4e4e-477a-b699-1b73fc843908",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f0479248-f2da-4b28-8857-d07e1b5bed56",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2ee45452-20ee-4496-b4a2-189a1c58fc99",
+          "type": "column",
+          "children": [
+            {
+              "id": "075fdeff-20ff-4203-8c33-c0131dd92286",
+              "type": "paragraph",
+              "html": "<em><strong>The Souls of Cyberfolk</strong></em> was written by Thomas Foster, published by University of Minnesota Press, May 22, 2005."
+            },
+            {
+              "id": "7d7da0be-177a-4d81-ab3c-5a86bbfdca98",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d0e3b200-894b-463b-a034-8a81869610e8",
+              "type": "quote",
+              "html": "<em>In </em>The Souls of Cyberfolk<em>, Thomas Foster traces the transformation of cyberpunk from a literary movement into a multimedia cultural phenomenon. He examines how cyberpunk defined a framework for thinking about the cultural implications of new technologies - a framework flexible enough to incorporate issues of gender, queer sexualities, and ethnic and racial differences as well as developments in nationalist models of citizenship and global economic flows. Beginning with William Gibson's paradigmatic text </em>Neuromancer<em>, and continuing through the works of Maureen McHugh, Melissa Scott, Neal Stephenson, Greg Egan, and Ken MacLeod, Foster measures cyberpunk's reach into social and philosophical movements (the Extropy Institute), commercial art (Hajime Sorayama's gynoids or sexy robot illustrations), comic books (</em>Deathlok<em>), film (</em>Robocop<em>), and music video (from Billy Idol's Cyberpunk album). The central challenge that cyberpunk poses for cultural critics, Foster argues, is to understand what happens when the technological denaturalization of physical embodiment becomes the norm. This question acquires urgency as the focus of his book moves beyond the typical technocultural concerns with gender and sexuality to consider race and models of citizenship - a shift that constitutes one of the book's most original contributions to scholarship on the topic.</em>"
+            },
+            {
+              "id": "2722e3ca-82a4-443e-84fb-4dedb2965a41",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "88a09d40-64a5-488c-b50c-c43c5315b234",
+          "type": "column",
+          "children": [
+            {
+              "id": "f177945e-6f92-45d2-8bd4-15c9c049f42b",
+              "type": "image",
+              "src": "./assets/images/untitled-162dbd9dbe39.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a67e487a-0d12-41a4-99c7-ca3095ce1c8c",
+      "type": "divider"
+    },
+    {
+      "id": "5ceacaf1-f9af-4577-a92a-10b4fb0a0f05",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ef1b4c6f-2770-482a-ba46-d93e7ea73660",
+          "type": "column",
+          "children": [
+            {
+              "id": "021197da-2f62-4e92-9fe8-b009586f1152",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "88ced498-ad39-48d5-9259-5e4d2fb1da87",
+          "type": "column",
+          "children": [
+            {
+              "id": "99b1a1b9-62c6-4a34-9ea9-e69de29b6662",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3ADZ1OO\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acfc4d5c-17e4-483d-9978-1b334bf1ab06",
+      "type": "divider"
+    }
+  ]
+}

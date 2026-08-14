@@ -1,0 +1,134 @@
+{
+  "id": "347ad4c3-4e05-4673-8c25-77b926d3965b",
+  "slug": "creative-block-play",
+  "title": "Creative Block Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Creative-Block-Play-347ad4c34e0546738c2577b926d3965b?pvs=21",
+  "createdTime": 1659715417412,
+  "lastEditedTime": 1681313042242,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Creative Block Play",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-46b14f3f1fba.webp",
+  "blocks": [
+    {
+      "id": "a891e5a6-d0f7-42e1-97fc-4b18f3b4c07b",
+      "type": "divider"
+    },
+    {
+      "id": "5a3a40d0-5afc-403f-b23f-f476ac3b4343",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "dad8975b-5e06-4ed6-bc96-def30ed32558",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fbcd9955-49ab-41ae-b161-9326d5ecf801",
+          "type": "column",
+          "children": [
+            {
+              "id": "0c2d4397-c254-4c3f-a493-4de9c8d7b6e9",
+              "type": "paragraph",
+              "html": "<em><strong>Creative Block Play: A Comprehensive Guide to Learning through Building</strong></em> was written by Rosanne Hansel, published by Redleaf Press, November 8, 2016."
+            },
+            {
+              "id": "83bbf35c-b806-405d-97bb-650b2ded680a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2f4fd97f-03de-4804-8c2e-2006444c0624",
+              "type": "quote",
+              "html": "Creative Block Play<em> covers everything you need to encourage a child’s development in a variety of domains through block play. This book is full of photos that illustrate block play in real classrooms and stories from teachers who have successfully used block play to encourage children’s development in a variety of domains. Rosanne Regan Hansel has been both a teacher and administrator for a variety of early childhood programs and currently serves as Education Program Development Specialist for the Department of Education. Ms. Hansel received her MS Ed in Early Childhood Leadership from Bank Street College of Education.</em>"
+            },
+            {
+              "id": "fea003b3-1e73-4e32-931b-c4c07d2889d5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "340522da-c61e-4127-ba0f-26e4df13f879",
+          "type": "column",
+          "children": [
+            {
+              "id": "8bbab5a7-aaee-4c66-bb03-be25fa978bcc",
+              "type": "image",
+              "src": "./assets/images/untitled-46b14f3f1fba.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "618552f6-0a3a-4946-8799-0d9160ef8d13",
+      "type": "divider"
+    },
+    {
+      "id": "ac3ee4c3-ce52-41af-abdb-a53d8c585e9c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e7e30852-a90c-43cc-8b0c-f278b3907aab",
+          "type": "column",
+          "children": [
+            {
+              "id": "ac7d18d9-bbbd-4998-a729-0c0af97996c2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d99bb1f1-8853-4d28-a430-4426f85f662b",
+          "type": "column",
+          "children": [
+            {
+              "id": "77b24239-320b-4e29-b4d0-bc692aa59f9d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3QovM7k\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "975c7829-077e-480e-a50b-127ceacc5323",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "e509ab4b-839b-46b3-a63d-500faa7eddc4",
+  "slug": "gardening-as-a-sacred-art",
+  "title": "Gardening as a Sacred Art",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/e509ab4b839b46b3a63d500faa7eddc4",
+  "createdTime": 1651856241963,
+  "lastEditedTime": 1681314241815,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gardening as a Sacred Art",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1481b64d9009.webp",
+  "blocks": [
+    {
+      "id": "73cf78da-7dcb-4e39-a682-cd580664e65d",
+      "type": "divider"
+    },
+    {
+      "id": "15197015-01ef-42cd-aaf4-2cbc7a0eab8d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "39081a5d-b9e5-4abf-864d-a96cef5c873f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "da5027a6-cb24-4ed0-a4b4-a465d3301f00",
+          "type": "column",
+          "children": [
+            {
+              "id": "a4a90a9d-fb0c-4c04-acce-1c9c67a5e65f",
+              "type": "paragraph",
+              "html": "<em><strong>Gardening as a Sacred Art</strong></em> was written by Jeremy Naydler, published by Floris Books, January 15, 2012."
+            },
+            {
+              "id": "4002759a-a932-47d6-857e-2a8315f36ec2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8dfc5bd2-ef68-4a89-9500-e44939bc8f3a",
+              "type": "quote",
+              "html": "<em>This beautifully illustrated book presents a unique history of how people have worked with nature.<br><br>For the ancients, gardens served as the home of spiritual and divine beings. The idea that gardens were sacred places continued in the European Middle Ages.<br><br>Since the seventeenth century, however, nature has been seen more as a physical resource to be exploited. The change in gardening styles reflects this development, with the creation of grand garden terraces and landscapes, such as Versailles, which imposed human order and design on nature.<br><br>More recently gardening has become an art in its own right, enhancing nature's inherent beauty. Drawing on garden examples ranging from ancient Egypt to Monet's Giverny, Jeremy Naydler argues that gardening is best regarded as a sacred art, connecting human beings with nature and the earth in a truly spiritual way.</em>"
+            }
+          ]
+        },
+        {
+          "id": "f3fe13fa-794e-4cb0-b4d3-c4db8771cb81",
+          "type": "column",
+          "children": [
+            {
+              "id": "25be94d4-a2b6-4fff-b9e7-9b82ef79d57f",
+              "type": "image",
+              "src": "./assets/images/untitled-1481b64d9009.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "726ab660-f38e-4009-861e-953b5fbd7494",
+      "type": "divider"
+    },
+    {
+      "id": "194f3cda-2c1d-463e-a64a-1efcc61cd3b0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c7117ca2-1d08-458a-806f-d05252985c22",
+          "type": "column",
+          "children": [
+            {
+              "id": "66333597-cd67-43d0-82ab-ce685ca6ec30",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1c636781-c72a-42c9-b7f8-717098c0971e",
+          "type": "column",
+          "children": [
+            {
+              "id": "b5bd93fd-3fbf-4028-9f90-3b761ed3ff91",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3LIgB6s\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "010ef844-d6ca-4750-8339-35fa267444a2",
+      "type": "divider"
+    }
+  ]
+}

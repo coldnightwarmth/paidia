@@ -1,0 +1,126 @@
+{
+  "id": "6276760d-ca2a-4cd6-84f0-fa822c2dbc98",
+  "slug": "the-lewis-chessmen",
+  "title": "The Lewis Chessmen",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/6276760dca2a4cd684f0fa822c2dbc98",
+  "createdTime": 1651696760023,
+  "lastEditedTime": 1681313847528,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Lewis Chessmen"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-222ef31d13c8.webp",
+  "blocks": [
+    {
+      "id": "af8dc608-10b2-4011-8443-68afdbd895c3",
+      "type": "divider"
+    },
+    {
+      "id": "ff7ebec5-b03e-42bf-88ac-ea4fc64459fa",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4bd69c38-0d90-4917-819b-4d1dddb263bc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e593b9eb-e46e-4ff6-91c9-a046166867a9",
+          "type": "column",
+          "children": [
+            {
+              "id": "2e5485c0-e962-4d96-b25e-87f101984df8",
+              "type": "paragraph",
+              "html": "<em><strong>The Lewis Chessmen and what happened to them</strong></em> was written by <a href=\"#/irving-finkel\">Irving Finkel</a>, published by the British Museum, March 3, 2014."
+            },
+            {
+              "id": "53bee85f-716b-486e-a5f9-94ade6843210",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c590067d-6068-4add-a8e3-a378c4c56816",
+              "type": "quote",
+              "html": "<em>The Lewis Chessmen were found on the Isle of Lewis in mysterious circumstances. Consisting of elaborately worked walrus ivory and whales teeth in the form of seated kings and queens, bishops, knights, warders and pawns, this curious chess set is strongly influenced by Norse culture. Of the 93 pieces known to us today, 11 pieces are in Edinburgh at the National Museum of Scotland, and 82 are in the British Museum, where they have delighted generations of visitors with their wonderfully expressive details. In this engaging story, Irving Finkel follows the many adventures of the chessmen after they came to light on a Scottish beach in the nineteenth century. It ends with the big surprise that befell them in September 1993, when they were all temporarily reunited for the first time since their separation, at a Special Exhibition of Chessmen at the British Museum.</em>"
+            },
+            {
+              "id": "00efcd55-c86d-4098-900d-b23a22867d09",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ee00ace8-8647-4206-a0e0-274e28461de9",
+          "type": "column",
+          "children": [
+            {
+              "id": "0f3b3b8b-3ab4-4890-aa16-e94948a09e73",
+              "type": "image",
+              "src": "./assets/images/untitled-222ef31d13c8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2e6229f6-f736-4ccc-806f-8d0908aa004f",
+      "type": "divider"
+    },
+    {
+      "id": "acb5cd8c-b28c-41c4-9972-aa3ab3fe8735",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c5cea296-605e-46da-9f01-1ee9b959614f",
+          "type": "column",
+          "children": [
+            {
+              "id": "1dd0bd8a-7374-440a-b2df-e7b93d3b233a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5fa48ec7-8746-43d0-b3bd-e32aef07a123",
+          "type": "column",
+          "children": [
+            {
+              "id": "d772f7c0-5177-4358-9f30-e97de9ffc025",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3WfvQKy\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "943ffb63-1a28-487c-aab9-a32471d32719",
+      "type": "divider"
+    }
+  ]
+}

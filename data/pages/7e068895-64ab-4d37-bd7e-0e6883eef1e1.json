@@ -1,0 +1,136 @@
+{
+  "id": "7e068895-64ab-4d37-bd7e-0e6883eef1e1",
+  "slug": "digital-fandom",
+  "title": "Digital Fandom",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Digital-Fandom-7e06889564ab4d37bd7e0e6883eef1e1?pvs=21",
+  "createdTime": 1657136926368,
+  "lastEditedTime": 1681314230131,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Digital Fandom",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ce21935a92e1.webp",
+  "blocks": [
+    {
+      "id": "ea80c908-c708-4632-8cbd-18672c449085",
+      "type": "divider"
+    },
+    {
+      "id": "b689d042-1535-49a9-a625-ec3ece2f52e5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2fd0fa8d-59e9-49da-ae60-88b29ca5f1b2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "03e1ad0e-eaf5-4756-a7a6-e8f94a0c0585",
+          "type": "column",
+          "children": [
+            {
+              "id": "8f299ace-638f-458f-ba2f-9b76dc1ccf2e",
+              "type": "paragraph",
+              "html": "<em><strong>Digital Fandom: New Media Studies</strong></em> was written by Paul Booth, published by Peter Lang Inc., September 3, 2010. There is also a 2.0 version published October 20, 2016."
+            },
+            {
+              "id": "77cfda2a-f02b-453c-aa50-784b50cbd39e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "eb5b76d4-622c-42f4-af5a-3f16eef397dd",
+              "type": "quote",
+              "html": "<em>This book re-evaluates the way we examine today’s digital media environment. By looking at how popular culture uses different digital technologies, </em>Digital Fandom<em> bolsters contemporary media theory by introducing new methods of analysis. Using the exemplars of alternate reality gaming and fan studies, this book takes into account a particular philosophy of playfulness in today’s media in order to establish a new media studies. </em>Digital Fandom <em>augments traditional studies of popular media fandom with descriptions of the contemporary fan in a converged media environment. The book shows how changes in the study of fandom can be applied in a larger scale to the study of new media in general, and formulates new conceptions of traditional media theories.</em>"
+            },
+            {
+              "id": "c6c3fcc5-10a1-479d-bdf9-61ab321e0403",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2fd351cc-addf-463d-91fd-0fc260f25df5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "edc4b3d3-6890-40f8-8210-6213641769cf",
+          "type": "column",
+          "children": [
+            {
+              "id": "123a052b-96e1-4294-82a1-96ed6e571095",
+              "type": "image",
+              "src": "./assets/images/untitled-ce21935a92e1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e76f6f50-03a3-48ac-8b03-cfafbcba77cf",
+      "type": "divider"
+    },
+    {
+      "id": "1c6f8bbf-0fcd-4e39-92b9-4d58ad63c728",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1c73d310-ff0c-4509-b119-0d7d1f0ceea3",
+          "type": "column",
+          "children": [
+            {
+              "id": "07befa2c-e33c-4548-84d0-638d4e1c6102",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e701aa61-8ed1-4426-ac01-8f3e6e55966f",
+          "type": "column",
+          "children": [
+            {
+              "id": "e9056684-7e53-4995-8d17-b29d00af6f9f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3P7qXib\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08321802-6ad9-4b27-8d1c-2a6a1112bc7d",
+      "type": "divider"
+    }
+  ]
+}

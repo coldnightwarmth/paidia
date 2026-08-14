@@ -1,0 +1,88 @@
+{
+  "id": "44991760-9dc5-460c-b02d-025f20d5ec5a",
+  "slug": "rules",
+  "title": "Rules",
+  "icon": "./assets/images/document-gray-7f1467ecac3d.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73db07c6-c5bc-4f9b-aeda-693985988a22",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/449917609dc5460cb02d025f20d5ec5a",
+  "createdTime": 1651762140000,
+  "lastEditedTime": 1681314432706,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Essay/Article"
+      ]
+    ],
+    "title": [
+      [
+        "Rules"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "06f6ba75-9816-4fc7-a6f4-457a3d328ccb",
+      "type": "paragraph",
+      "html": "<em>by Nick Land</em>"
+    },
+    {
+      "id": "7ad04267-25ba-4bbe-bb0d-6d6e3654f9dc",
+      "type": "divider"
+    },
+    {
+      "id": "5a2cc209-6603-404d-a772-ef9b13b74678",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "20a71550-573b-4ba0-9adf-3edeb542c641",
+      "type": "file",
+      "kind": "pdf",
+      "src": "./assets/documents/rules-310708f1ad.pdf",
+      "title": "rules.pdf",
+      "size": "169.0KB",
+      "downloadName": "rules.pdf"
+    },
+    {
+      "id": "dba47445-4a1a-4524-9427-720f58f693bc",
+      "type": "file",
+      "kind": "file",
+      "src": "./assets/documents/rules-310708f1ad.pdf",
+      "title": "rules.pdf",
+      "size": "169.0KB",
+      "downloadName": "rules.pdf"
+    },
+    {
+      "id": "933bbfaa-a54f-4693-9426-787f77653caf",
+      "type": "divider"
+    },
+    {
+      "id": "3de9137c-14a0-4c78-a809-a21f54b2f707",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "60db2d0f-fd0b-4398-b269-4a3f98e2f8e3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8b0ce419-e369-4f86-bab6-ef216c353327",
+      "type": "paragraph",
+      "html": "<a href=\"#/essays-articles-and-blogposts\"><u>☜Written Essays &amp; Articles</u></a>"
+    },
+    {
+      "id": "40bbfbb8-cc03-40b7-9e2e-5ca76630ca2d",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

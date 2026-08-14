@@ -1,0 +1,129 @@
+{
+  "id": "f4a0aba6-df96-41ca-bc75-9906bdaabad4",
+  "slug": "on-the-play-of-the-child",
+  "title": "On the Play of the Child",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/On-the-Play-of-the-Child-f4a0aba6df9641cabc759906bdaabad4?pvs=21",
+  "createdTime": 1652722045345,
+  "lastEditedTime": 1681314087782,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "On the Play of the Child",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1fbf46965417.webp",
+  "blocks": [
+    {
+      "id": "2d240bc4-7991-4c8e-bae9-2c557c9cbc52",
+      "type": "divider"
+    },
+    {
+      "id": "eda650de-6255-43eb-884a-a284a038d24e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "457eb90f-d90c-4f47-a592-a275792b5727",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1b50be8b-22cf-4495-b142-2c428019b4c7",
+          "type": "column",
+          "children": [
+            {
+              "id": "400c0b32-d5dd-4b2b-9127-099b6c8e572c",
+              "type": "paragraph",
+              "html": "<em><strong><strong>On the Play of the Child: Indications by Rudolf Steiner for Working with Young Children</strong></strong></em> is a compilation edited by Freya Jaffke, 2nd Revised edition published by Waldorf Early Childhood Association of North America, September 29, 2012."
+            },
+            {
+              "id": "3c036578-4969-4657-9f4c-9acd0e3e65b9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2f784970-6976-49fd-8f13-e78a269ac879",
+              "type": "quote",
+              "html": "<em>A compilation of Rudolf Steiner's words on the subject of children's play, now in a second revised edition. This new edition of an essential resource for early childhood educators includes wisdom on the inner attitude of the teacher; imitation; the nature and meaning of children's play; toys and play materials; and creating the right environment for the child.</em>"
+            }
+          ]
+        },
+        {
+          "id": "1be2194b-ed45-4565-bcb8-10e3f9f44ab9",
+          "type": "column",
+          "children": [
+            {
+              "id": "26ca35e2-a65e-463a-b7c4-73a463ee61ad",
+              "type": "image",
+              "src": "./assets/images/untitled-1fbf46965417.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27e6a23c-e76e-406a-b58f-8ead5345739d",
+      "type": "divider"
+    },
+    {
+      "id": "81944517-2861-4290-a653-a116796728ce",
+      "type": "columns",
+      "children": [
+        {
+          "id": "89d918e1-3198-417b-9889-62a747d5b138",
+          "type": "column",
+          "children": [
+            {
+              "id": "1382ba99-033f-49d4-a46b-88d8ee08a6ab",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6ab6d0b3-f21d-4fa6-93ec-a5a040a6f96d",
+          "type": "column",
+          "children": [
+            {
+              "id": "71fbaf17-a9bc-4c0b-9d4a-a859060e42ae",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3PmnNIl\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "48958bc1-3212-4f3c-bf96-1de72e4bd4e3",
+      "type": "divider"
+    }
+  ]
+}

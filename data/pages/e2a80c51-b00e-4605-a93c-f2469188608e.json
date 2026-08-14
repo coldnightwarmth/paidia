@@ -1,0 +1,146 @@
+{
+  "id": "e2a80c51-b00e-4605-a93c-f2469188608e",
+  "slug": "nested-games",
+  "title": "Nested Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Nested-Games-e2a80c51b00e4605a93cf2469188608e?pvs=21",
+  "createdTime": 1653172576291,
+  "lastEditedTime": 1681313809175,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Nested Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f322f7a7f0f8.webp",
+  "blocks": [
+    {
+      "id": "940eeaf0-ee26-415c-8a49-cd73df7a9fbf",
+      "type": "divider"
+    },
+    {
+      "id": "0355a039-71df-49fd-8fc5-0d9ba900b33c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8bbcd950-f9ae-459f-9e93-12f49c08aea7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d723ea78-1f94-47d7-a3e1-070d188fbc7b",
+          "type": "column",
+          "children": [
+            {
+              "id": "0b13db95-e847-4bc0-9c3e-fd060bc94b8b",
+              "type": "paragraph",
+              "html": "<em><strong>Nested Games: Rational Choice in Comparative Politics</strong></em> was written by George Tsebelis, published by University of California Press, August 12, 1991."
+            },
+            {
+              "id": "8ea58bc6-d2b0-4736-bf53-ca8fe5994a69",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "91480645-5e6a-435b-b617-dc38f40de699",
+              "type": "quote",
+              "html": "<em>Clearly written and easily understood by the nonspecialist, </em>Nested Games<em> provides a systematic, empirically accurate, and theoretically coherent account of apparently irrational political actions.</em>"
+            },
+            {
+              "id": "44f03f82-82c8-4fcb-9340-8c83393c5546",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1903f368-a7fc-45e7-8e11-0ad639691ce3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "42177399-c6fc-4b1d-98e9-aa3ca27be82e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5c84c78e-380d-46b3-a030-cb1e7a199f93",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "23e74d15-3249-4297-bb49-2c714b1b14e6",
+          "type": "column",
+          "children": [
+            {
+              "id": "8f2b2a39-b719-4ecc-a2f2-c338e2efd281",
+              "type": "image",
+              "src": "./assets/images/untitled-f322f7a7f0f8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e53b464a-9366-4e89-915d-7ed6b4cc68c4",
+      "type": "divider"
+    },
+    {
+      "id": "e9b6d0cd-2335-4b03-b6cf-9bf5f8933acd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a0247bd3-4a6e-400e-89d9-f2dd612a7e70",
+          "type": "column",
+          "children": [
+            {
+              "id": "0aa0dba1-96f7-4d68-aa50-66c6020a01bc",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f4f2821a-9d60-4447-9351-afeae18c6eaa",
+          "type": "column",
+          "children": [
+            {
+              "id": "16366a47-3dd0-4d92-be62-9a9e6dd01466",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3UPVNj2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3e07eb0-ed89-467a-88d9-c5a9d29b86f0",
+      "type": "divider"
+    }
+  ]
+}

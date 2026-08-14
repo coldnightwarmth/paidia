@@ -1,0 +1,131 @@
+{
+  "id": "85a4288e-5b22-49b7-961c-f0bf4090df46",
+  "slug": "play",
+  "title": "Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Play-85a4288e5b2249b7961cf0bf4090df46?pvs=21",
+  "createdTime": 1659935478416,
+  "lastEditedTime": 1681313027269,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c33127df611b.webp",
+  "blocks": [
+    {
+      "id": "26844579-b138-4305-8d54-0eaebc156bbf",
+      "type": "divider"
+    },
+    {
+      "id": "a5187ee7-8826-47ff-a4f8-12eb4b804415",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f6f2360c-7785-4940-99cf-0acee22c2193",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d9616000-98e5-422a-93bc-a65521f719ab",
+          "type": "column",
+          "children": [
+            {
+              "id": "929e743a-e7e4-4fab-9cf8-49f40bcb7871",
+              "type": "paragraph",
+              "html": "<em><strong><strong>Play: How it Shapes the Brain, Opens the Imagination, &amp; Invigorates the Soul</strong></strong></em> was written by Stuart Brown &amp; Christopher Vaughan, published by Avery, March 5, 2009."
+            },
+            {
+              "id": "2d0e1fbf-2cc4-48e4-81c6-bb1601df7b10",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ccf02cee-22d0-4395-84c4-a53a0705379e",
+              "type": "quote",
+              "html": "<strong><em>From a leading expert, a groundbreaking book on the science of play, and its essential role in fueling our happiness and intelligence throughout our lives.</em></strong><em><br><br>We’ve all seen the happiness on the face of a child while playing in the school yard. Or the blissful abandon of a golden retriever racing across a lawn. This is the joy of play. By definition, play is purposeless, all-consuming, and fun. But as Dr. Stuart Brown illustrates, play is anything but trivial. It is a biological drive as integral to our health as sleep or nutrition. We are designed by nature to flourish through play.<br><br>Dr. Brown has spent his career studying animal behavior and conducting more than six-thousand “play histories” of humans from all walks of life-from serial murderers to Nobel Prize winners. Backed by the latest research, Play explains why play is essential to our social skills, adaptability, intelligence, creativity, ability to problem solve and more. Particularly in tough times, we need to play more than ever, as it’s the very means by which we prepare for the unexpected, search out new solutions, and remain optimistic. A fascinating blend of cutting-edge neuroscience, biology, psychology, social science, and inspiring human stories of the transformative power of play, this book proves why play just might be the most important work we can ever do.</em>"
+            },
+            {
+              "id": "179ebda7-7d6f-4c71-ab8d-d2a7cdaeb874",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "15a95887-fbb2-4e37-904c-17e3c7edf6a6",
+          "type": "column",
+          "children": [
+            {
+              "id": "58f385b5-35f8-42a8-b1cf-ff0c9d6649e9",
+              "type": "image",
+              "src": "./assets/images/untitled-c33127df611b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9c9340b-7ab8-4209-9deb-a5e6011f8f7e",
+      "type": "divider"
+    },
+    {
+      "id": "b5db0534-dc49-406d-991f-236bf13d283a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2de01494-bf74-46c1-980b-9a8eab75aac3",
+          "type": "column",
+          "children": [
+            {
+              "id": "73aa6158-fb7a-454f-97aa-e087d068c4a9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f30de1cf-a74d-4f57-9487-e6461eddf7a7",
+          "type": "column",
+          "children": [
+            {
+              "id": "e6ad6a34-4162-455b-ab88-af523de0d042",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3QsgC0Z\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d35a156d-6bf3-4108-9269-7467deeebd20",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "9be57c84-cb30-4485-80e4-b52841d3625f",
+  "slug": "automata-cbc",
+  "title": "Automata [CBC]",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Automata-CBC-9be57c84cb30448580e4b52841d3625f?pvs=21",
+  "createdTime": 1658277038202,
+  "lastEditedTime": 1681310982540,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Automata [CBC]",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-98db181e6d8b.webp",
+  "blocks": [
+    {
+      "id": "4eb9d8bd-9939-4931-b651-bf4258be11b9",
+      "type": "divider"
+    },
+    {
+      "id": "d0e904ec-0f7c-4906-b00f-95b738503f34",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "29f0c084-1150-44c2-a729-d7ad4f30b74c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "350d83c0-9ae8-4087-832d-da2668047e71",
+          "type": "column",
+          "children": [
+            {
+              "id": "ee22ad12-5ce4-437b-a413-a883bd966a0a",
+              "type": "paragraph",
+              "html": "<em><strong>Automata: A Historical &amp; Technological Study</strong></em><strong> </strong>was written by Alfred Chapuis &amp; Edmond Droz, published by Neuchatel/Editions Du Griffon/Central Book Company, January 1, 1958."
+            },
+            {
+              "id": "6b0d6556-a9df-404e-8e32-6670f741d15e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "04f886b5-969b-422b-9520-c1cede938f7e",
+          "type": "column",
+          "children": [
+            {
+              "id": "3d36ee74-d036-46fe-bc94-bfd867098881",
+              "type": "image",
+              "src": "./assets/images/untitled-98db181e6d8b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4552fdfb-21a1-4be8-a2df-1bb615ff8f2a",
+      "type": "divider"
+    },
+    {
+      "id": "090dcc95-2d22-4fe8-a7bb-e7681647c29f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f971d456-c07d-444b-a22f-588c6c03add5",
+          "type": "column",
+          "children": [
+            {
+              "id": "3e492c11-46f3-46a4-9c4e-2a5c91ef7550",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fb92e0a2-547d-4f3a-91ee-abe93d3c080e",
+          "type": "column",
+          "children": [
+            {
+              "id": "c4c53fac-1d9c-4994-a961-5656b76f8733",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zfFvav\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60fa6382-a1d3-4561-b872-46b31459f622",
+      "type": "divider"
+    }
+  ]
+}

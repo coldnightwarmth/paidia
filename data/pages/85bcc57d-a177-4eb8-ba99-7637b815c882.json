@@ -1,0 +1,136 @@
+{
+  "id": "85bcc57d-a177-4eb8-ba99-7637b815c882",
+  "slug": "gamelife",
+  "title": "Gamelife",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Gamelife-85bcc57da1774eb8ba997637b815c882?pvs=21",
+  "createdTime": 1651958454768,
+  "lastEditedTime": 1681314006273,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gamelife",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a28f6b2923ff.webp",
+  "blocks": [
+    {
+      "id": "206561e4-79d0-4483-8ef5-10681453b0c4",
+      "type": "divider"
+    },
+    {
+      "id": "cfef9f63-789d-4dfb-9e07-27c9aede406c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f3e2a49e-c7c0-4635-90f5-3e57b6d865f7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "331ca180-9e91-4bb7-8139-260e44f8e8d3",
+          "type": "column",
+          "children": [
+            {
+              "id": "23cbf11d-b9f0-4e7d-b632-b0350bd27e1c",
+              "type": "paragraph",
+              "html": "<em><strong>Gamelife: A Memoir</strong></em> was written by Michael W. Clune, published by Farrar, Straus and Giroux, September 15, 2015."
+            },
+            {
+              "id": "2277b169-6d0f-4f62-aa72-80a796a7f513",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ec285d5e-e49d-4643-b877-51d74b626955",
+              "type": "quote",
+              "html": "<em>You have been awakened.<br><br>Floppy disk inserted, computer turned on, a whirring, and then this sentence, followed by a blinking cursor. So begins Suspended, the first computer game to obsess seven-year-old Michael, to worm into his head and change his sense of reality. Thirty years later he will write: &quot;Computer games have taught me the things you can't learn from people.&quot;<br><br></em>Gamelife<em> is the memoir of a childhood transformed by technology. Afternoons spent gazing at pixelated maps and mazes train Michael's eyes for the uncanny side of 1980s suburban Illinois. A game about pirates yields clues to the drama of cafeteria politics and locker-room hazing. And in the year of his parents' divorce, a spaceflight simulator opens a hole in reality.<br><br>In telling the story of his youth through seven computer games, Michael W. Clune captures the part of childhood we live alone.</em>"
+            },
+            {
+              "id": "a6073933-56a0-4af6-b5ea-78eb439099cf",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "20152410-b289-4052-b5ab-90cea6d87f85",
+          "type": "column",
+          "children": [
+            {
+              "id": "76ba6598-a70c-426e-8200-a1b2456268f6",
+              "type": "image",
+              "src": "./assets/images/untitled-a28f6b2923ff.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24aba63a-98ba-424c-b77e-661e11667ea9",
+      "type": "divider"
+    },
+    {
+      "id": "ee8b760c-a64c-4704-a809-14fa8f965923",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cb9c3737-b93e-4e9a-ab00-928a471061ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "074b73cf-a375-47ea-b677-d4cdf3f7e70a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "db9e84d6-60c7-4522-8f46-fd2f5473253f",
+          "type": "column",
+          "children": [
+            {
+              "id": "87935e78-19bc-48ce-a441-92ea2bebee22",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SYfeE1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e278045-5122-4f09-9a96-ef1826ebfaf8",
+      "type": "divider"
+    },
+    {
+      "id": "474c863f-62da-4b68-b543-05333d7e5819",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "b77c5aa9-ceb9-4b2f-8e36-a4de5606c20c",
+  "slug": "seven-games",
+  "title": "Seven Games",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Seven-Games-b77c5aa9ceb94b2f8e36a4de5606c20c?pvs=21",
+  "createdTime": 1651973692966,
+  "lastEditedTime": 1681313560570,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Seven Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8f6cf7672e24.webp",
+  "blocks": [
+    {
+      "id": "d969fb63-3502-4efc-b98e-cdcd995a8a68",
+      "type": "divider"
+    },
+    {
+      "id": "8e55a746-b043-4545-b36e-4b088cd5243f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "76b602e6-7620-42df-bb99-e63399bda5d4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7fcbb9d4-1367-410d-b8a3-96dd31e3619e",
+          "type": "column",
+          "children": [
+            {
+              "id": "84c4239b-0c22-4371-9bdd-fae4c8684956",
+              "type": "paragraph",
+              "html": "<em><strong>Seven Games: A Human History</strong></em> was written by Olver Roeder, published by W. W. Norton &amp; Company, January 25, 2022."
+            },
+            {
+              "id": "1dfba703-4dda-42a9-87ca-5bc27c951658",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5e1bfccc-0cd9-4a40-809f-3d18655aee87",
+              "type": "quote",
+              "html": "<em>Checkers, backgammon, chess, and Go. Poker, Scrabble, and bridge. These seven games, ancient and modern, fascinate millions of people worldwide. In </em>Seven Games<em>, Oliver Roeder charts their origins and historical importance, the delightful arcana of their rules, and the ways their design makes them pleasurable.<br><br>Roeder introduces thrilling competitors, such as evangelical minister Marion Tinsley, who across forty years lost only three games of checkers; Shusai, the Master, the last Go champion of imperial Japan, defending tradition against “modern rationalism”; and an IBM engineer who created a backgammon program so capable at self-learning that NASA used it on the space shuttle. He delves into the history and lore of each game: backgammon boards in ancient Egypt, the Indian origins of chess, how certain shells from a particular beach in Japan make the finest white Go stones.<br><br>Beyond the cultural and personal stories, Roeder explores why games, seemingly trivial pastimes, speak so deeply to the human soul. He introduces an early philosopher of games, the aptly named Bernard Suits, and visits an Oxford cosmologist who has perfected a computer that can effectively play bridge, a game as complicated as human language itself.<br><br>Throughout, Roeder tells the compelling story of how humans, pursuing scientific glory and competitive advantage, have invented AI programs better than any human player, and what that means for the games―and for us. Funny, fascinating, and profound, </em>Seven Games<em> is a story of obsession, psychology, history, and how play makes us human.</em>"
+            },
+            {
+              "id": "80f98e5e-8a2f-4b01-a32d-460628b4210f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a2734c14-1430-4b1e-ba68-75d756b0d165",
+          "type": "column",
+          "children": [
+            {
+              "id": "2e08a357-c9a9-420a-962f-13751c9faf3d",
+              "type": "image",
+              "src": "./assets/images/untitled-8f6cf7672e24.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f66926e-34df-4b39-9a81-108a4e4d37d4",
+      "type": "divider"
+    },
+    {
+      "id": "04f62e2d-549c-480b-b9d9-a00a79fbee58",
+      "type": "columns",
+      "children": [
+        {
+          "id": "041000d4-2599-4dc6-8d06-ccf285b2db36",
+          "type": "column",
+          "children": [
+            {
+              "id": "19fd06e9-2d1c-487c-80ae-f4d0a2ed0de5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cadb57dc-21b5-4dda-ac5b-c7897b31ddba",
+          "type": "column",
+          "children": [
+            {
+              "id": "c1e66506-e146-49d0-9736-1572780e5366",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NspAdl\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9e184fe2-7588-4e9b-a175-e1a2e35f4091",
+      "type": "divider"
+    },
+    {
+      "id": "1332173b-504b-4969-a608-3f66c5a46fad",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

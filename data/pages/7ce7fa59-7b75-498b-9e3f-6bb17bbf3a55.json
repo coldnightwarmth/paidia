@@ -1,0 +1,121 @@
+{
+  "id": "7ce7fa59-7b75-498b-9e3f-6bb17bbf3a55",
+  "slug": "sport-and-spectacle-in-the-ancient-world",
+  "title": "Sport & Spectacle in the Ancient World",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2f2b48d3-00ef-46fe-b6f4-4b813ad7bd6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/7ce7fa597b75498b9e3f6bb17bbf3a55",
+  "createdTime": 1651689117682,
+  "lastEditedTime": 1681313822134,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Sport & Spectacle in the Ancient World"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-750f3d61b90d.webp",
+  "blocks": [
+    {
+      "id": "f17d7bef-7eac-42b5-996d-555d7f73cc65",
+      "type": "divider"
+    },
+    {
+      "id": "406f8f97-cb43-4438-b27a-ab9f5e027928",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4d16775d-1c6c-4c41-8db9-aed4a6fb275c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0c474864-c33f-4c34-bd3c-68c5a349b233",
+          "type": "column",
+          "children": [
+            {
+              "id": "c435150d-ea3f-4e24-a313-dbc57216fa6c",
+              "type": "paragraph",
+              "html": "<em><strong>Sport &amp; Spectacle in the Ancient World</strong></em> was written by Donald G. Kyle, published by Wiley-Blackwell, September 18, 2006."
+            },
+            {
+              "id": "1913e6d6-f763-4cf4-8119-8e5768214d4c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2359cb5b-a27f-45e7-874d-2dff7f1969ac",
+              "type": "quote",
+              "html": "<em>This is a readable, up-to-date, illustrated introduction to the history of sport and spectacle in the ancient world from the Ancient Near East through Greek and Hellenistic times and into the Roman Empire.</em>"
+            }
+          ]
+        },
+        {
+          "id": "276f988f-f499-4f1d-8608-1ed296f01553",
+          "type": "column",
+          "children": [
+            {
+              "id": "0fd95613-b463-4f56-9cf6-59e15dc3247d",
+              "type": "image",
+              "src": "./assets/images/untitled-750f3d61b90d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c22b166f-ca71-4dba-8d13-8d471115ec03",
+      "type": "divider"
+    },
+    {
+      "id": "adc0b6cf-819e-4ed5-b332-0d11d405abba",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0a0d9b63-23d5-431a-bd09-9e868166631e",
+          "type": "column",
+          "children": [
+            {
+              "id": "b058c815-7827-401b-9430-6966eac1bae1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "54a058f9-f62f-441b-8917-3f818c7de0fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "d19093ff-6711-4811-8415-26a428a1724e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sLEZNs\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f8616d4-dffe-47c0-8ac5-e19cbca1fcb3",
+      "type": "divider"
+    }
+  ]
+}

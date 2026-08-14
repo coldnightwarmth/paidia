@@ -1,0 +1,126 @@
+{
+  "id": "09d4d387-5d1b-4577-8b78-8d22b1c459c5",
+  "slug": "finnegans-wake",
+  "title": "Finnegans Wake",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/09d4d3875d1b45778b788d22b1c459c5",
+  "createdTime": 1667490068453,
+  "lastEditedTime": 1681312630218,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Finnegans Wake"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ee65009a52a6.webp",
+  "blocks": [
+    {
+      "id": "9468de2b-ce8d-447c-ac14-e556d1ee0de5",
+      "type": "divider"
+    },
+    {
+      "id": "8d8617f1-a379-46dc-b177-a628543787fc",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ab2655dc-93aa-48b5-b303-dec2223ee68d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7588b238-fff8-4545-9ee7-7d1bb64527cb",
+          "type": "column",
+          "children": [
+            {
+              "id": "f365ea0a-0897-4e00-9312-87bdabb0df09",
+              "type": "paragraph",
+              "html": "<em><strong>Finnegans Wake</strong></em> was written by James Joyce, published by Faber &amp; Faber, May 4, 1939."
+            },
+            {
+              "id": "88f166f1-5f9f-490b-8622-551e44cfa9e2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5dc74c3a-b82e-48ad-9ed1-a678229c7d4c",
+              "type": "quote",
+              "html": "<strong><em>&quot;A nocturnal state...That is what I want to convey: what goes on in a dream, during a dream.&quot; </em></strong><em><br><br>The work, which would exhaust two decades of his life and the odd resources of some sixty languages, culminated in the 1939 publication of Joyce's final and most revolutionary masterpiece, </em>Finnegans Wake<em>.<br><br>A story with no real beginning or end (it ends in the middle of a sentence and begins in the middle of the same sentence), this &quot;book of Doublends Jined&quot; is as remarkable for its prose as for its circular structure. Written in a fantantic dream language, forged from polyglot puns and portmanteau words, the Wake features some of Joyce's most brilliant inventive work. Sixty years after its original publication, it remains, in Anthony Burgess's words, &quot;a great comic vision, one of the few books of the world that can make us laugh aloud on nearly every page.&quot;</em>"
+            },
+            {
+              "id": "13876baf-162c-4919-b49a-35478d8a6230",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "30f96733-d4b2-4333-a536-925979c8aeaa",
+          "type": "column",
+          "children": [
+            {
+              "id": "4c807c6e-f010-4fd8-b1d7-bcf24700fe78",
+              "type": "image",
+              "src": "./assets/images/untitled-ee65009a52a6.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4821ffd-c298-4345-9489-1a5908170645",
+      "type": "divider"
+    },
+    {
+      "id": "9670765d-b0ef-425f-8394-d9ea914f751e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a274e349-6ea1-40a9-89f1-a56001d8fb90",
+          "type": "column",
+          "children": [
+            {
+              "id": "a145ade4-f48c-4506-9129-5df87514a488",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f95e3ac3-13ea-47c7-b6ac-4381c875eb77",
+          "type": "column",
+          "children": [
+            {
+              "id": "7add64ff-e097-4f1c-971f-ef6928ca5f80",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sXdrVg\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93929585-045b-44de-bc21-0716dfe7f05a",
+      "type": "divider"
+    }
+  ]
+}

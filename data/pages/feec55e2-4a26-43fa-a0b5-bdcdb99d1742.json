@@ -1,0 +1,126 @@
+{
+  "id": "feec55e2-4a26-43fa-a0b5-bdcdb99d1742",
+  "slug": "frame-analysis",
+  "title": "Frame Analysis",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Frame-Analysis-feec55e24a2643faa0b5bdcdb99d1742?pvs=21",
+  "createdTime": 1670006150260,
+  "lastEditedTime": 1681312246353,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Frame Analysis"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-980950dbe5d6.webp",
+  "blocks": [
+    {
+      "id": "b03827d8-050f-4927-a4eb-8bfdc1ca54d3",
+      "type": "divider"
+    },
+    {
+      "id": "d3bf7175-e054-4f4a-a170-ff892cb49844",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2a598795-a883-4b57-9d1e-e381a699816e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3dfff07f-44ee-4656-8fe3-86c80defa65c",
+          "type": "column",
+          "children": [
+            {
+              "id": "009d304e-d7d2-4f6b-86f1-2ec20976b609",
+              "type": "paragraph",
+              "html": "<em><strong>Frame Analysis: An Essay on the Organization of Experience</strong></em> was written by Erving Goffman, originally published by Harvard University Press, January 1, 1974."
+            },
+            {
+              "id": "01203a90-fd74-4cd8-95de-40ed7c837069",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "05bd11c8-4cc7-42b8-8322-e028fc951d1c",
+              "type": "quote",
+              "html": "<em>Erving Goffman will influence the thinking and perceptions of generations to come. In </em>Frame Analysis<em>, the brilliant theorist writes about the ways in which people determine their answers to the questions “What is going on here?” and “Under what circumstances do we think things are real?”</em>"
+            },
+            {
+              "id": "56439309-77c0-4335-a228-e7a568db8c0a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2fefb485-a606-41c9-a8b2-b8058b435bb3",
+          "type": "column",
+          "children": [
+            {
+              "id": "25f65f2f-2081-4cdc-a616-346655c44bf0",
+              "type": "image",
+              "src": "./assets/images/untitled-980950dbe5d6.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44c58012-af78-41ea-bcd6-6b2f406f357d",
+      "type": "divider"
+    },
+    {
+      "id": "482127a7-17d0-4811-b5af-a7bc2b75cc67",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2cad32fc-8bb4-41e7-a195-6334c5e54e76",
+          "type": "column",
+          "children": [
+            {
+              "id": "5ae6108b-ce74-4515-b5c2-7f221aa0e4ef",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b943b3f4-5ebb-4c9f-b458-919e69c41449",
+          "type": "column",
+          "children": [
+            {
+              "id": "61f8a24e-18dd-450a-8cdb-c3a826e4229f",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Frame-Analysis-Essay-Organization-Experience/dp/093035091X/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5d9f6f2f-4a92-4b13-a6bd-0465af0dff82",
+      "type": "divider"
+    }
+  ]
+}

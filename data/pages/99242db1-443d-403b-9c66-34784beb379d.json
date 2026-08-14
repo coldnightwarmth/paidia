@@ -1,0 +1,224 @@
+{
+  "id": "99242db1-443d-403b-9c66-34784beb379d",
+  "slug": "all-tabletop-videos",
+  "title": "all tabletop videos…",
+  "icon": "",
+  "cover": "",
+  "type": "page",
+  "parentId": "fdbbd34a-ba8a-47e3-8173-30cea2938957",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/99242db1443d403b9c6634784beb379d",
+  "createdTime": 1679674568715,
+  "lastEditedTime": 1681322343093,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "all tabletop videos…"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "e1720afe-4bdb-4d46-9be8-762eef32759d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "af6432ed-abcb-427e-9d98-b2abcc306057",
+          "type": "column",
+          "children": [
+            {
+              "id": "880a98db-91df-4482-ad1f-2fe210620bdc",
+              "type": "callout",
+              "html": "<strong>Designing Board Game Mechanics - Did You Make it? Or Did it Evolve?</strong>",
+              "icon": "♟️",
+              "children": [
+                {
+                  "id": "74891e6f-c358-47cf-a18f-cdd0b63c5daf",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCgmeZjKCvLpJ4S4t4G1Lung\" target=\"_blank\" rel=\"noreferrer\"><strong>Jon Back's Creative Geek</strong></a>"
+                },
+                {
+                  "id": "dc5b3ab2-0a95-44f0-a7b1-703efd3e9cc2",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/dPOyqksnrSY?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "a8528db0-5332-4802-938f-0a417ee88088",
+              "type": "callout",
+              "html": "<strong>8000 Years of Board Game History in 43 Minutes - SHUX Presents</strong>",
+              "icon": "🎲",
+              "children": [
+                {
+                  "id": "35c4b2bf-0d1e-46a0-831e-9464cb19698b",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCyRhIGDUKdIOw07Pd8pHxCw\" target=\"_blank\" rel=\"noreferrer\"><strong>Shut Up &amp; Sit Down</strong></a>"
+                },
+                {
+                  "id": "95370d7e-93fd-4319-8722-d1dec8b320e2",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/Gov-qrjvOTc?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=515",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "18c6fee1-af3e-489e-811f-12874c9a15dc",
+              "type": "callout",
+              "html": "<strong><strong>Roman Board Games</strong></strong>",
+              "icon": "🏺",
+              "children": [
+                {
+                  "id": "54e23357-53f8-4099-b8d1-85d8899d6b60",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/@thehistoricgamesshop\" target=\"_blank\" rel=\"noreferrer\"><strong>The Historic Games Shop</strong></a>"
+                },
+                {
+                  "id": "56d10007-93e3-40f0-a48f-0924093d03c0",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/Ky2M0NyWIWA?rel=0&start=151",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1e9de871-a8d6-456f-93eb-bfb32219a737",
+          "type": "column",
+          "children": [
+            {
+              "id": "46dc8f7a-74a2-4bd5-9ca5-12acd9cceff5",
+              "type": "callout",
+              "html": "<strong><strong>Territory and Influence: Kinetic and Potential Energies in Go Game</strong></strong>",
+              "icon": "⚪",
+              "children": [
+                {
+                  "id": "143d3c7e-6028-4b3b-af8b-24a6d9c3672c",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/@GoMagic\" target=\"_blank\" rel=\"noreferrer\"><strong>Go Magic</strong></a>"
+                },
+                {
+                  "id": "eda94af0-4183-4af1-8cc7-23826f395a59",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/ARc7BxpOoYk?rel=0",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "ee57285d-63d1-41e7-ab30-253f59dfe5d0",
+              "type": "callout",
+              "html": "<strong>Go Review - A video 4,000 years in the making</strong>",
+              "icon": "⚫",
+              "children": [
+                {
+                  "id": "9b6c390d-4094-4681-b227-41012f5bc208",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCyRhIGDUKdIOw07Pd8pHxCw\" target=\"_blank\" rel=\"noreferrer\"><strong>Shut Up &amp; Sit Down</strong></a>"
+                },
+                {
+                  "id": "c4b09234-4791-4339-ad46-08cf09d3d0f0",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/RRBjN8empIs?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a1c0d3c8-b051-4de1-8324-64941f53414b",
+          "type": "column",
+          "children": [
+            {
+              "id": "6c24d7fc-da3f-47c3-bec8-8d372cbc7790",
+              "type": "callout",
+              "html": "<strong><strong>Does DnD Need Rules?</strong></strong>",
+              "icon": "📏",
+              "children": [
+                {
+                  "id": "2417b491-12c3-4b73-8d8c-a565b047eec5",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/c/QuestingBeast\" target=\"_blank\" rel=\"noreferrer\"><strong>Questing Beast</strong></a>"
+                },
+                {
+                  "id": "0c3a415a-59ee-485a-b857-3b8c026a396c",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/d4lvrC3ZBzM?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "id": "e716915c-2221-4bdc-ae33-b0c292be669d",
+              "type": "callout",
+              "html": "",
+              "icon": "♟️",
+              "children": [
+                {
+                  "id": "0150a527-8025-4f27-b9d0-3d8c241382ec",
+                  "type": "paragraph",
+                  "html": "<strong><strong>Chess and Platonism</strong></strong>"
+                },
+                {
+                  "id": "d878ae9c-6de8-4a19-bf15-b84a2bca7964",
+                  "type": "paragraph",
+                  "html": "by <a href=\"https://www.youtube.com/channel/UCASIossk_keAqG5EYlOp96A\" target=\"_blank\" rel=\"noreferrer\"><strong>Deep Left JOKKUL</strong></a>"
+                },
+                {
+                  "id": "0253acef-c480-4d56-83f3-d6c49113ca86",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/D70F_SO0HkE?feature=oembed",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "834adbdd-736f-4fde-989d-bc661e4b4bfc",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "a685af12-ad28-4c47-8346-d077579319d5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e45cdd9a-1a5b-4396-916f-1db0a3523cf3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4f6254e7-0e8f-4fdd-8f60-ac0219fe8aba",
+      "type": "paragraph",
+      "html": "<a href=\"#/video-essays-and-lectures\"><u>☜back</u></a>"
+    },
+    {
+      "id": "5143c4ef-3513-48cf-b93c-d8d264d0b3ab",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    },
+    {
+      "id": "5a837c91-515a-4211-82f9-52b8a2c175d2",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

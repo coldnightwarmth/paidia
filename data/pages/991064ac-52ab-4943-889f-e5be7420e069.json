@@ -1,0 +1,147 @@
+{
+  "id": "991064ac-52ab-4943-889f-e5be7420e069",
+  "slug": "how-pac-man-eats",
+  "title": "How Pac-Man Eats",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "16515e7c-ec2f-4d98-9fec-861099f13e9d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/991064ac52ab4943889fe5be7420e069",
+  "createdTime": 1651709550871,
+  "lastEditedTime": 1681313376161,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "How Pac-Man Eats"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ede41673bf65.webp",
+  "blocks": [
+    {
+      "id": "4222dd63-d6e6-43b1-898f-bb0094ea3de0",
+      "type": "divider"
+    },
+    {
+      "id": "2d4de2f8-2954-4d45-b74a-2ad4805409ff",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a8a97f98-d9b6-4149-8aff-c3a8129d3344",
+      "type": "columns",
+      "children": [
+        {
+          "id": "50f67e38-2a93-4486-afbc-768a20313cfd",
+          "type": "column",
+          "children": [
+            {
+              "id": "acaf9d2f-64ac-4cc4-bf7f-0516fd5f22d2",
+              "type": "paragraph",
+              "html": "<em><strong>How Pac-Man Eats</strong></em> was written by Noah Wardrop-Fruin, published by The MIT Press, December 15, 2020."
+            },
+            {
+              "id": "8516f0a4-e3c5-4885-8a0e-da7977fa45bc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "43ea76a1-93bc-4899-9b6b-18e56c36c76d",
+              "type": "quote",
+              "html": "<strong><em>How the tools and concepts for making games are connected to what games can and do mean; with examples ranging from </em></strong><a href=\"/b96a4e746f6948f39d2fccf81eaf7687\" target=\"_blank\" rel=\"noreferrer\"><strong>Papers, Please</strong></a><strong><em> to </em></strong><a href=\"#/call-of-duty\"><strong>Dys4ia</strong></a><strong><em>.<br></em></strong><em><br>In </em>How Pac-Man Eats<em>, Noah Wardrip-Fruin considers two questions: What are the fundamental ways that games work? And how can games be about something? Wardrip-Fruin argues that the two issues are related. Bridging formalist and culturally engaged approaches, he shows how the tools and concepts for making games are connected to what games can and do mean.<br><br>Wardrip-Fruin proposes that games work at a fundamental level on which their mechanics depend: operational logics. Games are about things because they use play to address topics; they do this through playable models (of which operational logics are the primary building blocks): larger structures used to represent what happens in a game world that relate meaningfully to a theme. Game creators can expand the expressiveness of games, Wardrip-Fruin explains, by expanding an operational logic. </em><a href=\"#/pac-man\"><em>Pac-Man</em></a><em> can eat, for example, because a game designer expanded the meaning of collision from hitting things to consuming them. Wardrip-Fruin describes strategies game creators use to expand what can be said through games, with examples drawn from indie games, art games, and research games that address themes ranging from border policy to gender transition. These include </em>Papers, Please<em>, which illustrates expansive uses of pattern matching; </em><a href=\"#/quantum-break\">Prom Week</a><em>, for which the game's developers created a model of social volition to enable richer relationships between characters; and </em>Dys4ia<em>, which demonstrates a design approach that supports game metaphors of high complexity.</em>"
+            },
+            {
+              "id": "49c6eee4-2af3-4576-800c-c2c56c9da2f3",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b8aa502e-1af2-4331-bbee-496a74bedd42",
+          "type": "column",
+          "children": [
+            {
+              "id": "76899d00-1cba-4cc1-bc78-2c2914e3e62e",
+              "type": "image",
+              "src": "./assets/images/untitled-ede41673bf65.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bdae31a0-60ae-4c2a-80e3-8171a49f5358",
+      "type": "divider"
+    },
+    {
+      "id": "9f0f5754-3a54-4aa8-a8a6-c517056e7f78",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6d47d9f7-0a2a-4ae1-bab3-3681067b4401",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f2021ac-ec06-4b47-b380-8ebcfd0d766b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "511edee0-66f1-4791-96e0-c5b4915f827e",
+          "type": "column",
+          "children": [
+            {
+              "id": "6c99cbe5-723f-4234-a842-c925594e223a",
+              "type": "callout",
+              "html": "",
+              "icon": "📕",
+              "children": [
+                {
+                  "id": "0052f3dd-5a2b-46eb-aa0c-10f1a6e4dac4",
+                  "type": "paragraph",
+                  "html": "<a href=\"https://amzn.to/3NkeUyp\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60876584-0897-4578-affa-2db7f6cb4a25",
+      "type": "divider"
+    },
+    {
+      "id": "2c1d794c-0202-4030-8d80-9066c0e3bb95",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b52ce0c9-5c89-4cd0-aa65-d13f69bb45d3",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "8afbf8cd-8294-4622-8e97-bf7ee82f4353",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

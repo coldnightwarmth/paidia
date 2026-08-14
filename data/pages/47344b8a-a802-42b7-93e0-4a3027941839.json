@@ -1,0 +1,131 @@
+{
+  "id": "47344b8a-a802-42b7-93e0-4a3027941839",
+  "slug": "games-design-and-play",
+  "title": "Games, Design & Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Games-Design-Play-47344b8aa80242b793e04a3027941839?pvs=21",
+  "createdTime": 1669913828604,
+  "lastEditedTime": 1681312297435,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Games, Design & Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-61dc1d79c048.webp",
+  "blocks": [
+    {
+      "id": "5bb8abb0-536c-4a57-b1a8-1decb0cd71d2",
+      "type": "divider"
+    },
+    {
+      "id": "c5d39de9-752e-44b6-8342-6a3a0f656bf3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b6119f56-9869-44d1-b21b-5f073232adef",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5d312eea-fb07-4bbb-84d8-aea054c22dc7",
+          "type": "column",
+          "children": [
+            {
+              "id": "f1766461-9123-4597-8044-a0904d2eb750",
+              "type": "paragraph",
+              "html": "<em><strong>Games, Design &amp; Play: A Detailed approach to Iterative Game Design</strong></em><strong> </strong>was written by Colleen Macklin &amp; John Sharp, published by Addison-Wesley Professional, June 3, 2016."
+            },
+            {
+              "id": "11a5f472-879b-403d-916c-4cae009345fb",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e71cde1a-177a-44d7-b7da-a3d28e867182",
+              "type": "quote",
+              "html": "<strong><em>The play-focused, step-by-step guide to creating great game designs<br></em></strong><em><br>This book offers a play-focused, process-oriented approach for designing games people will love to play. Drawing on a combined 35 years of design and teaching experience, Colleen Macklin and John Sharp link the concepts and elements of play to the practical tasks of game design. Using full-color examples, they reveal how real game designers think and work, and illuminate the amazing expressive potential of great game design.<br><br>Focusing on practical details, this book guides you from idea to prototype to playtest and fully realized design. You’ll walk through conceiving and creating a game’s inner workings, including its core actions, themes, and especially its play experience. Step by step, you’ll assemble every component of your “videogame,” creating practically every kind of play: from cooperative to competitive, from chance-based to role-playing, and everything in between.<br><br>Macklin and Sharp believe that games are for everyone, and game design is an exciting art form with a nearly unlimited array of styles, forms, and messages. Cutting across traditional platform and genre boundaries, they help you find inspiration wherever it exists.<br><br></em>Games, Design &amp; Play<em> is for all game design students, and for beginning-to-intermediate-level game professionals, especially independent game designers. Bridging the gaps between imagination and production, it will help you craft outstanding designs for incredible play experiences!</em>"
+            },
+            {
+              "id": "9321a766-0bcb-496e-95f0-fb30c53a47b6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "86a3bb1f-0777-48cc-9e18-ac7cd7ce403e",
+          "type": "column",
+          "children": [
+            {
+              "id": "2c0954f9-7463-478a-bac1-6f539c678aed",
+              "type": "image",
+              "src": "./assets/images/untitled-61dc1d79c048.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf8ad41a-106f-4293-8539-07aba2f80261",
+      "type": "divider"
+    },
+    {
+      "id": "7310ee44-fb30-4401-8356-a34e84171de5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cc3a7b02-869d-4a90-9459-6039c9989488",
+          "type": "column",
+          "children": [
+            {
+              "id": "7f303779-028a-46a2-9fd5-130c24f870ed",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a2a11cbb-7955-40b3-8c25-ed9f1056b3ae",
+          "type": "column",
+          "children": [
+            {
+              "id": "1364b09b-5359-4917-961c-99fca78d94fe",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Games-Design-Play-detailed-iterative/dp/0134392078/ref=sr_1_1?crid=19JRQNZTMO9QK&amp;keywords=Games%2C+Design+and+Play%3A+A+Detailed+Approach+to+Iterative+Game+Design&amp;qid=1666371176&amp;qu=eyJxc2MiOiIwLjY5IiwicXNhIjoiMC40NCIsInFzcCI6IjAuNjgifQ%3D%3D&amp;sprefix=games%2C+design+and+play+a+detailed+approach+to+iterative+game+design%2Caps%2C123&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "73bd99d2-9274-477e-9eb2-a5a5292de207",
+      "type": "divider"
+    }
+  ]
+}

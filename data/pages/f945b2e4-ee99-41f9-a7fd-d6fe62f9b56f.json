@@ -1,0 +1,131 @@
+{
+  "id": "f945b2e4-ee99-41f9-a7fd-d6fe62f9b56f",
+  "slug": "ancient-board-games-in-perspective",
+  "title": "Ancient Board Games in Perspective",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/f945b2e4ee9941f9a7fdd6fe62f9b56f",
+  "createdTime": 1657231160884,
+  "lastEditedTime": 1681310848490,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ancient Board Games in Perspective",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3d4cdc896f1c.webp",
+  "blocks": [
+    {
+      "id": "5449e0ea-c84e-4066-9ed7-2670d522ce7c",
+      "type": "divider"
+    },
+    {
+      "id": "df27b8f1-cde8-4fff-b298-1819f4f105be",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "935be100-7a1e-4263-bfc7-1f450791f1a0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4aa6abe8-16a0-4b95-a2e4-8d44bc8ba278",
+          "type": "column",
+          "children": [
+            {
+              "id": "d797c9e8-a971-4bd5-8998-64ad19d0e316",
+              "type": "paragraph",
+              "html": "<em><strong>Ancient Board Games in Perspective</strong></em> was written by <a href=\"#/irving-finkel\">Irving Finkel</a>, published by British Museum Press, August 8, 2007."
+            },
+            {
+              "id": "d43c6ca0-824b-4327-a922-0175ed9bfcf0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e4f3038f-8b05-4a35-9823-6d3b1a89b048",
+              "type": "quote",
+              "html": "<em>Everyone plays board games, and everyone will find something to fascinate them in this book about the games of the past, and their history and development. Based on the lectures given at a conference in the British Museum, this book tells the story in a properly academic way, but it is no less interesting for that ... and perhaps even more interesting! The book begins with three chapters on the games of the ancient Near East, most notably The Royal Game of Ur , then there are five chapters on the various games of ancient Egypt, senet, mehen , etc. Five more chapters are devoted to the games of the Greek and Roman world, then one on India, and three on Chinese games including Go. Then there are three on the beginnings of Chess and its introduction into western Europe, then four on backgammon from India to medieval England, three on mancala games, and one on the pursuit of hnefatafl , finally some brief notes on the games of the New World. The authors, thirty-one of them, range from archaeologists, historians and museum curators, not least Irving Finkel, the editor of the volume, to such well-known historians of games as R C Bell and the internationally famous grandmaster and journalist Raymond Keene. It is a large format book with hundreds of photos and drawings.</em>"
+            },
+            {
+              "id": "0d1a107f-d537-4757-b4a2-bcbbde64b3c6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ea0f18d4-dd3f-4f11-8b0b-4fa6265b28da",
+          "type": "column",
+          "children": [
+            {
+              "id": "a587c4b6-c5a6-484a-a5ff-9880b49535dd",
+              "type": "image",
+              "src": "./assets/images/untitled-3d4cdc896f1c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd991edc-7918-4fd2-ae22-2bae7599da35",
+      "type": "divider"
+    },
+    {
+      "id": "4be1bc1a-2642-4837-8f72-30344820ef70",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4e48d0e8-8502-4370-862f-a7c517313c66",
+          "type": "column",
+          "children": [
+            {
+              "id": "a24a983c-4945-4f0f-959f-3119187a68d0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f504d719-638e-4068-9458-06c7af244069",
+          "type": "column",
+          "children": [
+            {
+              "id": "d5878c22-2158-4cc9-8d86-15e6fa34eed5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Rh53eg\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "517c2bd9-bfd7-4acf-9ce8-f632213f634b",
+      "type": "divider"
+    }
+  ]
+}

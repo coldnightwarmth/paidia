@@ -1,0 +1,126 @@
+{
+  "id": "f1784fdf-ae72-48fe-98bd-688028b4f414",
+  "slug": "dictionary-of-gaming-modelling-and-simulation",
+  "title": "Dictionary of Gaming, Modelling & Simulation",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Dictionary-of-Gaming-Modelling-Simulation-f1784fdfae7248fe98bd688028b4f414?pvs=21",
+  "createdTime": 1669918272952,
+  "lastEditedTime": 1681312275401,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Dictionary of Gaming, Modelling & Simulation"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ef5c2f6646b2.webp",
+  "blocks": [
+    {
+      "id": "e2540650-ef2e-4816-b70b-dc345241d59a",
+      "type": "divider"
+    },
+    {
+      "id": "df30570b-717f-4e0d-b8ac-75d822cb2eb8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "01b4fd1d-09b7-4683-8f1f-04f0610709ea",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8bac1894-3ef0-41e9-897d-f658421dd759",
+          "type": "column",
+          "children": [
+            {
+              "id": "0f1d6288-8e16-4829-917c-a17b11f327ae",
+              "type": "paragraph",
+              "html": "<em><strong>Dictionary of Gaming, Modelling &amp; Simulation</strong></em> was created by George Ian Gibbs, published by E. &amp; F.N. Spon Ltd., January 1, 1978."
+            },
+            {
+              "id": "5485c724-5a6f-4369-910b-d9845efbb8a4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c3cdc8bf-c41d-44c8-bbd2-ea5efe36a660",
+              "type": "quote",
+              "html": "<em>Dictionary with emphasis upon gaming aspects using modeling and simulation techniques.</em>"
+            },
+            {
+              "id": "ead71919-fac2-4eb2-9634-7be5c6f85668",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7633e272-4cd5-42f3-acb4-d2892d4fe57c",
+          "type": "column",
+          "children": [
+            {
+              "id": "463c87da-ed2e-4b03-b169-d6ca05bacca0",
+              "type": "image",
+              "src": "./assets/images/untitled-ef5c2f6646b2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8d8e0429-14bb-48dd-bcad-b42dc5abf120",
+      "type": "divider"
+    },
+    {
+      "id": "e8e5a3ce-c10f-4881-ae48-ed7aa0eb6a56",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b7e32818-3eb8-4787-9218-aaad64a95b92",
+          "type": "column",
+          "children": [
+            {
+              "id": "37dfef13-180f-4292-95bb-cbefcaa5d6be",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b9849bcb-cf08-4418-bc8d-cdedc3570b31",
+          "type": "column",
+          "children": [
+            {
+              "id": "c898f6ac-1f4c-4643-949f-94662a886b87",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Coming-Collecting-Boom-John-Mebane/dp/B0000CODNG\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f575fc3c-2238-430b-8fc9-d8d5f2197dfd",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "0efde371-2e7d-46ad-a27b-9ae36efdb8c1",
+  "slug": "digital-gameplay",
+  "title": "Digital Gameplay",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Digital-Gameplay-0efde3712e7d46ada27b9ae36efdb8c1?pvs=21",
+  "createdTime": 1679667274866,
+  "lastEditedTime": 1681311835836,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Digital Gameplay",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d441def38d70.webp",
+  "blocks": [
+    {
+      "id": "1cf1dfdc-4f07-4955-a057-7bcc970471ba",
+      "type": "divider"
+    },
+    {
+      "id": "60159887-bb02-4df5-9a70-a1ed10b28ec8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8ac5194b-5f0b-42fa-a673-e98930b3df15",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5def6515-87aa-4011-8f1d-9be9b9709594",
+          "type": "column",
+          "children": [
+            {
+              "id": "121ee024-c7c8-468e-aab7-1c744985ad1b",
+              "type": "paragraph",
+              "html": "<em><strong>Digital Gameplay: Essays on the Nexus of Game and Gamer</strong></em> is a collection of essays edited by Nate Garrelts, published by McFarland, August 11, 2005."
+            },
+            {
+              "id": "b2c8c93f-898c-4b56-91b9-6d5e3ba57c68",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a9d5ca34-e0d9-4410-b165-67480031e491",
+              "type": "quote",
+              "html": "<em>In recent years, computer technology has permeated all aspects of life--not just work and education, but also leisure time. Increasingly, digital games are the way we play. This volume addresses the world of digital games, with special emphasis on the role and input of the gamer. In fifteen essays, the contributors discuss the various ways the game player interacts with the game. The first half of the book considers the physical and mental aspects of digital game play. The second section concentrates on other factors that influence play. Essays cover the full range of digital gaming, including computer and video games. Topics include several detailed investigations of particular, often controversial games such as Grand Theft Auto: Vice City, as well as a consideration of the ways in which game-playing crosses socioeconomic, age, gender and racial lines. The concluding essays discuss scholars' perceptions of digital media and efforts to frame them.</em>"
+            },
+            {
+              "id": "a48b771b-acb2-43c8-a96e-2f563e432c4e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "3f2ba3bd-31b5-4afe-98b6-8a771242b4f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "0d79e7a0-a59e-406d-a731-129b6a2364c7",
+              "type": "image",
+              "src": "./assets/images/untitled-d441def38d70.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6bc161ba-0025-4698-aab9-29769c5c25a8",
+      "type": "divider"
+    },
+    {
+      "id": "81ce1bca-2114-4e2a-847e-edb39440040a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3f67435e-ac7d-41b2-b0ad-fdf32fae9615",
+          "type": "column",
+          "children": [
+            {
+              "id": "1d40dab5-688d-403a-ac30-c1f88c7983be",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bfca8ba0-8e7f-4dd7-805a-8335502e2e00",
+          "type": "column",
+          "children": [
+            {
+              "id": "ba4b2e3e-4193-4354-afde-8d3a23aa403e",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Digital-Gameplay-Essays-Nexus-Gamer/dp/0786422920\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "035ce9f9-c1c8-4d59-8b25-8d308ccebf35",
+      "type": "divider"
+    },
+    {
+      "id": "42a2a57c-b58a-4e26-bbe9-f373adbf90be",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "26f40caa-b648-4766-90ef-17772c2a5473",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "87ca8b7a-2e37-456b-9fb8-bffa43611ca9",
+  "slug": "enjoying-it",
+  "title": "Enjoying It",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "16515e7c-ec2f-4d98-9fec-861099f13e9d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Enjoying-It-87ca8b7a2e37456b9fb8bffa43611ca9?pvs=21",
+  "createdTime": 1651768735037,
+  "lastEditedTime": 1681313362751,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Enjoying It",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3b8e981350e1.webp",
+  "blocks": [
+    {
+      "id": "18be3e2d-1e08-434b-8c16-68ebbc8436b5",
+      "type": "divider"
+    },
+    {
+      "id": "26f4c207-b521-4739-9905-c23c0d15cb3b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2d99a872-5a48-491f-83e5-fb388227759c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0e7c8f73-faff-4667-916e-f341e4801ea3",
+          "type": "column",
+          "children": [
+            {
+              "id": "5b7df72c-f29c-4a84-b504-f867cb551579",
+              "type": "paragraph",
+              "html": "<em><strong>Enjoying It: Candy Crush &amp;  Capitalism</strong></em> was written by Alfie Bown, published by Zero Books, December 11, 2015."
+            },
+            {
+              "id": "f9b4f910-8ff5-4995-ac7a-54767c83e8ad",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d6220738-fba3-4ea2-a5b9-fd9c56f1bac3",
+              "type": "quote",
+              "html": "<em>Using a range of ‘case studies’ from Critical Theory to </em><a href=\"#/candy-crush\">Candy Crush</a><em>, ‘Gangnam Style’ to </em>Game of Thrones<em> and </em><a href=\"#/fortnite\">Football Manager</a><em> to Hieronymus Bosch, this book argues that we need to rethink our enjoyment. Inspired by psychoanalysis, the book offers a new way of thinking about how we talk about what we enjoy and how we enjoy what we talk about.</em>"
+            }
+          ]
+        },
+        {
+          "id": "ce62081f-7463-4e05-9d02-6e8fc2131301",
+          "type": "column",
+          "children": [
+            {
+              "id": "cff63d94-b790-4ef9-a8a6-3a0060a41a41",
+              "type": "image",
+              "src": "./assets/images/untitled-3b8e981350e1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebaae5bd-338c-4c68-b398-023c78a0dec5",
+      "type": "divider"
+    },
+    {
+      "id": "6c779b72-c264-4aa8-91d9-16a113ebf5e2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5afc98b4-735c-4747-873e-0047b2832d8f",
+          "type": "column",
+          "children": [
+            {
+              "id": "928ac184-2082-4cef-9c12-4d299aacf541",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e25a4e53-5491-44d8-bafa-06a0fa55d3d6",
+          "type": "column",
+          "children": [
+            {
+              "id": "85c0e548-a88b-4d24-9c0d-dc6622f10159",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DKDcys\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e85e58b0-dda4-4748-870e-ea3443d1bfcc",
+      "type": "divider"
+    },
+    {
+      "id": "6f5ad616-eb00-4a2e-9628-9f496b8052a6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2096e461-a1a7-400c-9f86-7034d26b6652",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "1a47e15e-39ea-408c-ba5d-c25094b46fac",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

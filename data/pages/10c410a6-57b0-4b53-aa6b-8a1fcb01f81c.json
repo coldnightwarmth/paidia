@@ -1,0 +1,131 @@
+{
+  "id": "10c410a6-57b0-4b53-aa6b-8a1fcb01f81c",
+  "slug": "waltz-the-hall",
+  "title": "Waltz the Hall",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Waltz-the-Hall-10c410a657b04b53aa6b8a1fcb01f81c?pvs=21",
+  "createdTime": 1668717456804,
+  "lastEditedTime": 1681312432576,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Waltz the Hall",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6d5b85693fb9.webp",
+  "blocks": [
+    {
+      "id": "e9e0bf67-9534-4141-b692-ede2055481ac",
+      "type": "divider"
+    },
+    {
+      "id": "023b3e1e-9186-4770-8372-72e3f29a0063",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9ad90873-9a72-4e05-802e-6b99283f0745",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4b3fbbfd-6ed6-4100-9ba2-2b88dd27e8ee",
+          "type": "column",
+          "children": [
+            {
+              "id": "3d15b24d-056f-47fb-a461-517c29ff8bfe",
+              "type": "paragraph",
+              "html": "<em><strong>Waltz the Hall: The American Play Party</strong></em><em> </em>was written by Alan L. Spurgeon, published by University Press of Mississippi, February 11, 2005."
+            },
+            {
+              "id": "2d8f67ae-1ea8-42e2-80fe-7e91a16650e9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "03cb9242-143a-484b-8298-890f4322d075",
+              "type": "quote",
+              "html": "<em>What did young people do for diversion and socialization in communities that banned most dancing and considered the fiddle to be the devil's instrument? The American play party was the fundamentalist's answer. Here the singing was a cappella, the dancers followed prescribed steps, and arm and elbow swings would be the only touching.<br><br>The play party was a popular form of American folk entertainment that included songs, dances, and sometimes games. Though based upon European and English antecedents, play parties were truly an American phenomenon, first mentioned in print in 1837. The last play parties were performed in the 1950s. Though documented in rural and frontier areas throughout the United States, they seem to have been most popular and lasted the longest in the rural South and Midwest. &quot;Skip to My Lou&quot; and &quot;Pig in a Parlor&quot; are still sung today but without the movements and games.<br><br>This is the first book since the 1930s to study this important and little-remembered phenomenon of American folk culture. The author interviewed a large number of Americans, both black and white, who performed play parties as young adults. Many of our parents and grandparents experienced these events, which harken back to a time when people created their own forms of entertainment. Today play parties are an important source of song and movement material for elementary-school-age children. A songbook of ninety musical examples and lyrics completes the picture of this vanished tradition.</em>"
+            },
+            {
+              "id": "45bce4e6-ad95-4972-85e4-131cdb115996",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "886e5c7e-1c0e-4170-b761-364403078ebb",
+          "type": "column",
+          "children": [
+            {
+              "id": "3753d728-4a25-4e0e-923a-bb00237c7450",
+              "type": "image",
+              "src": "./assets/images/untitled-6d5b85693fb9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7fef648-2c45-4f29-b532-9667dcf30aaf",
+      "type": "divider"
+    },
+    {
+      "id": "06fe9056-9839-4a65-92e7-0f2dc3deb8a3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "13c15fd9-e0b2-4b66-8f8e-239c8231079b",
+          "type": "column",
+          "children": [
+            {
+              "id": "890f96aa-91e2-46e4-837c-8139ec11b886",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "de6e0757-a201-4537-9191-f0f53f5f7421",
+          "type": "column",
+          "children": [
+            {
+              "id": "7a9baf82-c5ea-43c2-8e41-540d5fcfd475",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Waltz-Hall-American-Play-Party/dp/1604733810/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e60a15c4-9a26-4b5e-aafc-7a49492effb9",
+      "type": "divider"
+    }
+  ]
+}

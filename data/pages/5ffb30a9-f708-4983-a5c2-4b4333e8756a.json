@@ -1,0 +1,131 @@
+{
+  "id": "5ffb30a9-f708-4983-a5c2-4b4333e8756a",
+  "slug": "scarne-on-cards",
+  "title": "Scarne on Cards",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Scarne-on-Cards-5ffb30a9f7084983a5c24b4333e8756a?pvs=21",
+  "createdTime": 1654997744163,
+  "lastEditedTime": 1681313886977,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Scarne on Cards",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-291c38f6a96c.webp",
+  "blocks": [
+    {
+      "id": "ce67dc86-6388-42d5-907e-5348b35453a6",
+      "type": "divider"
+    },
+    {
+      "id": "2aa778ba-c8a1-4fe2-8a1d-6e6ad546f8de",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7780f319-5864-41a6-a171-379c030b67ea",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8488a119-1a2f-4951-a407-e391e337068b",
+          "type": "column",
+          "children": [
+            {
+              "id": "e8ac8a6d-700c-4338-acf9-0fa81ed839d7",
+              "type": "paragraph",
+              "html": "<em><strong>Scarne on Cards</strong></em> was written by John Scarne in 1949."
+            },
+            {
+              "id": "1f1a00eb-eb49-411c-8150-16cdbb2debb2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "bfb33b17-b846-4181-96ad-c3985bba3b59",
+              "type": "quote",
+              "html": "<em>The celebrated cardplayer explains rules and winning strategy for poker, rummy, black jack, pinochle, and other games.</em>"
+            }
+          ]
+        },
+        {
+          "id": "d9ea8877-d01a-4cec-a82d-823d2ff5e1bd",
+          "type": "column",
+          "children": [
+            {
+              "id": "3310e6d2-63ae-44f9-b32d-735e496d3283",
+              "type": "image",
+              "src": "./assets/images/untitled-291c38f6a96c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1816387d-382c-4c23-8eda-92db6ebf34b3",
+      "type": "divider"
+    },
+    {
+      "id": "68f18747-f0e9-4924-9cd8-4700c2fb42c1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f1c36d5c-4d64-46fc-83d1-d9617c2a6733",
+          "type": "column",
+          "children": [
+            {
+              "id": "477e64fb-a46d-46c8-ab87-9394233adf03",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9b99ccee-fb1b-42ba-b97c-e038a7ab8bef",
+          "type": "column",
+          "children": [
+            {
+              "id": "299b0fbb-38a7-49a2-abb0-012f3f507156",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3ODVTGt\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e03d5b7b-6322-429e-bdfd-e859a1c2b841",
+      "type": "divider"
+    },
+    {
+      "id": "3bf04c6b-00a6-42cf-a90e-3a33dcfd8254",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

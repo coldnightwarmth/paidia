@@ -1,0 +1,119 @@
+{
+  "id": "39a61154-9fd4-4e8f-9c4d-835dda7d7bf2",
+  "slug": "bruce-lee",
+  "title": "Bruce Lee",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0a8568a2-35a2-4fcd-8817-4cfd69f98bf0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/39a611549fd44e8f9c4d835dda7d7bf2",
+  "createdTime": 1669832939910,
+  "lastEditedTime": 1681329252376,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Bruce Lee"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-608fdf3df258.webp",
+  "blocks": [
+    {
+      "id": "647f0df1-407f-40e4-b302-bee3b4b978ee",
+      "type": "divider"
+    },
+    {
+      "id": "e7c9ee09-18b4-4b74-9b2c-2b14d440b572",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5ea681fe-ce94-4a57-ad2f-a38278535c53",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5348313b-f9f0-4e68-a8ce-960502401aee",
+          "type": "column",
+          "children": [
+            {
+              "id": "2d60428a-8bc2-4976-bd0d-16ee1d60f53f",
+              "type": "paragraph",
+              "html": "<strong>Bruce Lee  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) was"
+            },
+            {
+              "id": "cccdb982-0897-4360-9f3b-d09a8c478c34",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3d712d1b-c5d1-4caf-ad72-cc97f35efcb7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "cb3cb735-ac06-4c5d-ada1-ec0853e900cf",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2600858e-938c-49ef-8216-3061017f6e36",
+          "type": "column",
+          "children": [
+            {
+              "id": "36f20021-c6e2-46d2-b85a-34bbc2b9e85a",
+              "type": "image",
+              "src": "./assets/images/untitled-608fdf3df258.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4bc95115-9fba-40e6-82ef-1bc00d35e799",
+      "type": "divider"
+    },
+    {
+      "id": "02c180db-f811-4513-a2e8-505a4641e97a",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "bba87878-04c6-4448-a734-2a74928210a6",
+      "type": "paragraph",
+      "html": "<a href=\"#/tao-of-jeet-kune-do\">Tao of Jeet Kune Do</a> (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "11bc5109-4ef3-40ec-a4d5-a77937675e63",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0c5e9f34-dec9-4633-b6ed-b15a0e65dadb",
+      "type": "divider"
+    },
+    {
+      "id": "929dd540-8bb2-4787-ab94-50a594c6e67f",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "10c41a62-2e6b-4a32-8497-602ddcc159fc",
+      "type": "paragraph",
+      "html": "<a href=\"#/motorset\">Motorset</a> (<em><em><em><em><em><em><em>concept</em></em></em></em></em></em></em>)"
+    }
+  ]
+}

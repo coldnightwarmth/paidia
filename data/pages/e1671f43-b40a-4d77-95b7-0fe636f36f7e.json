@@ -1,0 +1,146 @@
+{
+  "id": "e1671f43-b40a-4d77-95b7-0fe636f36f7e",
+  "slug": "persuasive-games",
+  "title": "Persuasive Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/e1671f43b40a4d7795b70fe636f36f7e",
+  "createdTime": 1651703263744,
+  "lastEditedTime": 1681313342964,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Persuasive Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1b7ab03ae6d3.webp",
+  "blocks": [
+    {
+      "id": "4ce7804f-e2fb-4518-bab1-c62c23ba4de4",
+      "type": "divider"
+    },
+    {
+      "id": "2ebe5bd0-bcae-4e0c-bf95-993ddd66f19f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e209fb5b-036d-43c4-9d78-cc65b53ab1ec",
+      "type": "columns",
+      "children": [
+        {
+          "id": "132da586-8ed2-43f7-9b80-2737c2e694de",
+          "type": "column",
+          "children": [
+            {
+              "id": "d668f02a-9e6b-4c5c-9c9f-688a7636186c",
+              "type": "paragraph",
+              "html": "<em><strong>Persuasive Games: The Expressive Power of Videogames</strong></em> was written by <a href=\"#/ian-bogost\">Ian Bogost</a>, published by The MIT Press, August 13, 2010."
+            },
+            {
+              "id": "c90c740a-c143-44f8-8e17-b3246d134e9c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d1e0c129-05e0-46b0-8d66-c8a2ab90f6c6",
+              "type": "quote",
+              "html": "<strong><em>An exploration of the way videogames mount arguments and make expressive statements about the world that analyzes their unique persuasive power in terms of their computational properties.</em></strong><em><br><br>Videogames are an </em><a href=\"#/player-expression\"><em>expressive</em></a><em> medium, and a persuasive medium; they represent how real and imagined systems work, and they invite players to interact with those systems and form judgments about them. In this innovative analysis, Ian Bogost examines the way videogames mount arguments and influence players. Drawing on the 2,500-year history of rhetoric, the study of persuasive expression, Bogost analyzes rhetoric's unique function in software in general and videogames in particular. The field of media studies already analyzes visual rhetoric, the art of using imagery and visual representation persuasively. Bogost argues that videogames, thanks to their basic representational mode of procedurality (</em><a href=\"#/rules-da0708b1\"><em>rule-based</em></a><em> representations and interactions), open a new domain for persuasion; they realize a new form of rhetoric. Bogost calls this new form &quot;procedural rhetoric,&quot; a type of rhetoric tied to the core affordances of computers: running processes and executing rule-based symbolic manipulation. He argues further that videogames have a unique persuasive power that goes beyond other forms of computational persuasion. Not only can videogames support existing social and cultural positions, but they can also disrupt and change these positions themselves, leading to potentially significant long-term social change. Bogost looks at three areas in which videogame persuasion has already taken form and shows considerable potential: politics, advertising, and learning.</em>"
+            },
+            {
+              "id": "15ded443-47db-4bde-9021-2b966e4e35d0",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8b381119-6401-42a6-a0f5-5f1787ff4620",
+          "type": "column",
+          "children": [
+            {
+              "id": "6436ac69-c4ea-4b53-97d4-4855942b99b6",
+              "type": "image",
+              "src": "./assets/images/untitled-1b7ab03ae6d3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23fa5615-5933-4e20-9253-07490cad5e0a",
+      "type": "divider"
+    },
+    {
+      "id": "0ee44660-bfc7-470d-b451-3343a3fb8874",
+      "type": "columns",
+      "children": [
+        {
+          "id": "872b6422-ff25-4d5d-9252-d4df4fe4c9c2",
+          "type": "column",
+          "children": [
+            {
+              "id": "8c45ff38-aea5-42ff-9d0c-9df505c2dc7d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a4dc14c1-ff2c-4d29-aedf-bf2b0f0edd89",
+          "type": "column",
+          "children": [
+            {
+              "id": "19aad262-def4-4d50-b060-d5904b1c9a97",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SxR9Vy\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "751108e5-7a77-478b-94e0-8a7cdee05c6d",
+      "type": "divider"
+    },
+    {
+      "id": "931b1d7e-e285-4647-8ddd-93c4c3c9898c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4285fd7c-1d17-4f1e-b396-11f4fe90a58f",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "db65ee90-bdcf-4b25-b3b3-3a6ba0558758",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

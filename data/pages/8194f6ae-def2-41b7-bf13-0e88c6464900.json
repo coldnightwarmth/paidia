@@ -1,0 +1,129 @@
+{
+  "id": "8194f6ae-def2-41b7-bf13-0e88c6464900",
+  "slug": "punished-by-rewards",
+  "title": "Punished by Rewards",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Punished-by-Rewards-8194f6aedef241b7bf130e88c6464900?pvs=21",
+  "createdTime": 1651973473842,
+  "lastEditedTime": 1681314080484,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Punished by Rewards",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e10f23ac73b9.webp",
+  "blocks": [
+    {
+      "id": "241b20e5-1df8-473b-ad59-fd3c63fb8ac2",
+      "type": "divider"
+    },
+    {
+      "id": "7aa0cec9-53b5-4592-93e9-53a7c3be6821",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d7326ad4-4697-4677-8cb6-a3f96077eaa8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "eb88f4d3-6d05-41ac-baea-aa66e2738a4f",
+          "type": "column",
+          "children": [
+            {
+              "id": "01aa22e1-ab1f-42ea-88fb-3586106278c1",
+              "type": "paragraph",
+              "html": "<strong><em>Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, &amp; Other Bribes</em></strong> was written by Alfie Kohn, published by Houghton Mifflin in 1993."
+            },
+            {
+              "id": "347cd7c6-5940-4d15-b1d4-0f3fadd9da31",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9cd45ecf-a310-4d4f-9242-910c3aa28445",
+              "type": "quote",
+              "html": "<em>The basic strategy we use for raising children, teaching students, and managing workers can be summarized in six words: Do this and you'll get that. We dangle goodies (from candy bars to sales commissions) in front of people in much the same way we train the family pet. Drawing on a wealth of psychological research, Alfie Kohn points the way to a more successful strategy based on working with people instead of doing things to them. &quot;Do rewards motivate people?&quot; asks Kohn. &quot;Yes. They motivate people to get rewards.&quot; Seasoned with humor and familiar examples, </em>Punished By Rewards <em>presents an argument unsettling to hear but impossible to dismiss.</em>"
+            }
+          ]
+        },
+        {
+          "id": "9fb3bd0b-0628-4e94-9c43-6fd2e2682f11",
+          "type": "column",
+          "children": [
+            {
+              "id": "19962571-ceaf-411b-957e-7465cbf9fa22",
+              "type": "image",
+              "src": "./assets/images/untitled-e10f23ac73b9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1f95f5e8-e9c8-43e5-93c6-2271d3969313",
+      "type": "divider"
+    },
+    {
+      "id": "6e743ed7-81f3-451c-a7fa-03f0a5a5f763",
+      "type": "columns",
+      "children": [
+        {
+          "id": "56b5d171-77eb-43b3-8dc0-81625af6aad0",
+          "type": "column",
+          "children": [
+            {
+              "id": "e528d62d-9fbd-46e7-8218-7a31aa266f52",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4800be4f-37b6-407a-9e09-1dfe0e539ea3",
+          "type": "column",
+          "children": [
+            {
+              "id": "7c912198-f7a7-4582-bbbc-ac2245c3e353",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39S00A3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0ca090d-6372-40ef-a6f7-eca587005e3d",
+      "type": "divider"
+    }
+  ]
+}

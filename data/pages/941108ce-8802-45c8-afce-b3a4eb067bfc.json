@@ -1,0 +1,141 @@
+{
+  "id": "941108ce-8802-45c8-afce-b3a4eb067bfc",
+  "slug": "ask-iwata",
+  "title": "Ask Iwata",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/941108ce880245c8afceb3a4eb067bfc",
+  "createdTime": 1651695807904,
+  "lastEditedTime": 1681310950203,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ask Iwata"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b7736c40a8b5.webp",
+  "blocks": [
+    {
+      "id": "160583a2-f6eb-45de-b120-a839c03329e6",
+      "type": "divider"
+    },
+    {
+      "id": "d1ca7b84-699e-4123-a283-370168125588",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6b46da52-3ec1-4605-b63a-a3c79d40d760",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f2c7d554-679b-4d56-8f63-426d401ebff1",
+          "type": "column",
+          "children": [
+            {
+              "id": "9a4edaf3-dabb-4272-8a9c-e11cdb23cdac",
+              "type": "paragraph",
+              "html": "<em><strong>Ask Iwata: Words of Wisdom from Satoru Iwata, Nintendo's Legendary CEO</strong></em><strong> </strong>is a collection of interviews by <a href=\"#/satoru-iwata\">Satoru Iwata</a>, edited by Hobonichi, published by VIZ Media LLC, April 13, 2021."
+            },
+            {
+              "id": "95e730d9-8ad1-45a2-8b8b-b5df981a2150",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "42545c71-ce0c-445f-b896-589c52582714",
+              "type": "quote",
+              "html": "<em>Satoru Iwata was the global president and CEO of Nintendo and a gifted programmer who played a key role in the creation of many of the world’s best-known games. He led the production of innovative platforms such as the Nintendo DS and the Wii, and laid the groundwork for the development of the wildly successful </em>Pokémon Go<em> game and the Nintendo Switch. Known for his analytical and imaginative mind, but even more for his humility and people-first approach to leadership, Satoru Iwata was beloved by game fans and developers worldwide.<br><br>In this motivational collection, Satoru Iwata addresses diverse subjects such as locating bottlenecks, how success breeds resistance to change, and why programmers should never say no. Drawn from the “</em>Iwata Asks<em>” series of interviews with key contributors to Nintendo games and hardware, and featuring conversations with renowned </em>Mario <em>franchise creator Shigeru Miyamoto and creator of </em>EarthBound<em> Shigesato Itoi, Ask Iwata offers game fans and business leaders an insight into the leadership, development, and design philosophies of one of the most beloved figures in gaming history.</em>"
+            },
+            {
+              "id": "c51b05fb-e5a1-46d1-ade1-3a15be85875f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "25358a7d-04e9-4f75-8b5c-4f6ce8b906b8",
+          "type": "column",
+          "children": [
+            {
+              "id": "c3011c3a-796e-4d25-aa20-583609eda084",
+              "type": "image",
+              "src": "./assets/images/untitled-b7736c40a8b5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85e43741-435b-45c9-9947-f916130bf3bb",
+      "type": "divider"
+    },
+    {
+      "id": "9dcbc36c-cd28-41ae-83da-ed40a86d2a57",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cf9b1f60-77fd-487b-99b7-e7c3115b6ef5",
+          "type": "column",
+          "children": [
+            {
+              "id": "127b9a6c-628a-4041-b56d-3a7b5ef24d40",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "da0535bb-2caa-4ba8-be31-acce64630dd1",
+          "type": "column",
+          "children": [
+            {
+              "id": "be5198f6-c1ec-4da6-81c0-080f1cca6526",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3wJNISR\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f323d58d-4bab-4609-a337-8a444adf0e55",
+      "type": "divider"
+    },
+    {
+      "id": "6861c778-0ff1-4843-acae-36163e9a9fee",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "df58f617-6e58-4eb7-a39a-8daa23e00b1b",
+      "type": "paragraph",
+      "html": "<a href=\"#/satoru-iwata-ceo-game-developer-gamer\">Satoru Iwata: CEO, Game Developer, Gamer</a> (<em>video tribute)</em>"
+    },
+    {
+      "id": "a6996ed2-8436-4788-b8a9-27b5253979d4",
+      "type": "paragraph",
+      "html": "<a href=\"/facf732a696742e5830b9eccf21f17a2\" target=\"_blank\" rel=\"noreferrer\">Satoru Iwata - The Heart of a Gamer</a> (<em>lecture</em>)"
+    }
+  ]
+}

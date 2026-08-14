@@ -1,0 +1,131 @@
+{
+  "id": "a308ed56-1b3e-4929-9383-cd6e865508e3",
+  "slug": "networked-art",
+  "title": "Networked Art",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Networked-Art-a308ed561b3e49299383cd6e865508e3?pvs=21",
+  "createdTime": 1668809467161,
+  "lastEditedTime": 1681312369855,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Networked Art",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-bf59b5badd4f.webp",
+  "blocks": [
+    {
+      "id": "3593008b-2bfb-43db-acc0-e699b5ddd4ba",
+      "type": "divider"
+    },
+    {
+      "id": "ef5540c9-98d2-4265-9ab6-1c1342ff440b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4a8215a1-6e1a-4709-843d-d8d6ab84a408",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b2dbfcac-1650-4021-a51e-270db588fab8",
+          "type": "column",
+          "children": [
+            {
+              "id": "fda83d54-2766-4d93-b3d3-7bae4419c7a0",
+              "type": "paragraph",
+              "html": "<em><strong>Networked Art</strong></em> was written by Craig J. Saper, published by University of Minnesota Press, January 1, 2001."
+            },
+            {
+              "id": "d8ee653f-711c-4483-b59e-96eca7086069",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ccc5c54c-c2c0-495e-aa60-cea7be7f2cf0",
+              "type": "quote",
+              "html": "<em>The experimental art and poetry of the last half of the twentieth century offers a glimpse of the emerging networked culture that electronic devices will make omnipresent. Craig J. Saper demarcates this new genre of networked art, which uses the trappings of bureaucratic systems-money, logos, corporate names, stamps-to create intimate situations among the participants.<br><br>In Saper's analysis, the pleasures that these aesthetic situations afford include shared special knowledge or new language among small groups of participants. Functioning as artworks in themselves, these temporary institutional structures-networks, publications, and collective works-give rise to a gift-exchange community as an alternative economy and social system. Saper explains how this genre developed from post-World War II conceptual art, including periodicals as artworks in themselves; lettrist, concrete, and process poetry; Bauhaus versus COBRA; Fluxus publications, kits, and machines; mail art and on-sendings. The encyclopedic scope of the book includes discussions of artists from J. Beuys to J. S. G. Boggs, and Bauhaus's Max Bill to Anna Freud Banana. Networked Art is an essential guide to the digital artists and networks of the emerging future.</em>"
+            },
+            {
+              "id": "6aee713b-80be-488a-a99e-d1dd25218505",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "773a4a1a-2b5e-409c-b24c-5534e391add1",
+          "type": "column",
+          "children": [
+            {
+              "id": "f58ca977-4e25-4cd3-b604-ef45d8818f5e",
+              "type": "image",
+              "src": "./assets/images/untitled-bf59b5badd4f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "66fbfa29-fe31-4b54-bc60-4bcb278b76d7",
+      "type": "divider"
+    },
+    {
+      "id": "6af7d6bb-83b6-4cce-b6f3-6c312f0b5ccb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c575a714-918f-41d1-beb6-f68f0d5f11fe",
+          "type": "column",
+          "children": [
+            {
+              "id": "8fbae993-4c9b-4441-9ec3-a5208152e10f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "dc725ad9-7662-4e3a-b80f-5c86ba831277",
+          "type": "column",
+          "children": [
+            {
+              "id": "2ee43267-20c1-4a55-aeac-45374fe6feb7",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Networked-Art-Craig-J-Saper/dp/0816637067/ref=sr_1_1?crid=YT95Q2SK5250&amp;keywords=Saper%2C+Craig+J.+Networked+Art&amp;qid=1667499639&amp;qu=eyJxc2MiOiIxLjE1IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=saper%2C+craig+j.+networked+art%2Caps%2C99&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "363fc854-b73d-47a0-af9b-db99395e703f",
+      "type": "divider"
+    }
+  ]
+}

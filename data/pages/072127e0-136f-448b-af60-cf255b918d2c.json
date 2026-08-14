@@ -1,0 +1,134 @@
+{
+  "id": "072127e0-136f-448b-af60-cf255b918d2c",
+  "slug": "a-pattern-language",
+  "title": "A Pattern Language",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/A-Pattern-Language-072127e0136f448baf60cf255b918d2c?pvs=21",
+  "createdTime": 1651974136564,
+  "lastEditedTime": 1681310311891,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A Pattern Language",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-88a6daa8d11b.webp",
+  "blocks": [
+    {
+      "id": "7e93447e-2154-4fa2-8aeb-3d9c3a5e5097",
+      "type": "divider"
+    },
+    {
+      "id": "b785a047-cf07-4552-b07a-6a12b2fc16ab",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "696ed3c1-873e-450e-afa7-fce9812f2265",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e76e572c-789c-4dd9-b302-4a2e16bb59e6",
+          "type": "column",
+          "children": [
+            {
+              "id": "344831dc-8680-428e-b455-22bfccf569b0",
+              "type": "paragraph",
+              "html": "<em><strong>A Pattern Language: Towns, Buildings, Construction</strong></em> was written by Christopher Alexander, Sara Ishikawa, &amp; Murray Silverstein, et al, published by Oxford University Press, January 1, 1977."
+            },
+            {
+              "id": "bbe2fa20-dde0-4312-9f31-d746ff6c40c9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1ecad3d8-b5bf-4fc5-8b9c-19e8aa54e062",
+              "type": "quote",
+              "html": "<em>You can use this book to design a house for yourself with your family; you can use it to work with your neighbors to improve your town and neighborhood; you can use it to design an office, or a workshop, or a public building. And you can use it to guide you in the actual process of construction.<br><br>After a ten-year silence, Christopher Alexander and his colleagues at the Center for Environmental Structure are now publishing a major statement in the form of three books which will, in their words, &quot;lay the basis for an entirely new approach to architecture, building and planning, which will we hope replace existing ideas and practices entirely.&quot; The three books are </em>The Timeless Way of Building, The Oregon Experiment<em>, and this book, </em>A Pattern Language<em>.<br><br>At the core of these books is the idea that people should design for themselves their own houses, streets, and communities. This idea may be radical (it implies a radical transformation of the architectural profession) but it comes simply from the observation that most of the wonderful places of the world were not made by architects but by the people.<br><br>At the core of the books, too, is the point that in designing their environments people always rely on certain &quot;languages,&quot; which, like the languages we speak, allow them to articulate and communicate an infinite variety of designs within a forma system which gives them coherence. This book provides a language of this kind. It will enable a person to make a design for almost any kind of building, or any part of the built environment.<br><br>&quot;Patterns,&quot; the units of this language, are answers to design problems (How high should a window sill be? How many stories should a building have? How much space in a neighborhood should be devoted to grass and trees?). More than 250 of the patterns in this pattern language are given: each consists of a problem statement, a discussion of the problem with an illustration, and a solution. As the authors say in their introduction, many of the patterns are archetypal, so deeply rooted in the nature of things that it seemly likely that they will be a part of human nature, and human action, as much in five hundred years as they are today.</em>"
+            },
+            {
+              "id": "02923fdb-1ddd-4028-8e1a-274d6da4d8e7",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4821653f-b99f-44b9-864b-28b09653b568",
+          "type": "column",
+          "children": [
+            {
+              "id": "38c00abf-a4f9-412e-b9cc-e723a4f60c89",
+              "type": "image",
+              "src": "./assets/images/untitled-88a6daa8d11b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c06745f-c81a-451c-844d-bc79ee889cd6",
+      "type": "divider"
+    },
+    {
+      "id": "0a6a1615-5b88-42c8-b68b-e5b68d134c54",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4c5a1649-fff7-40bf-951b-a930240eea99",
+          "type": "column",
+          "children": [
+            {
+              "id": "4a0ee9e4-9bb4-4329-9436-6caacc57d214",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1245d8d9-862e-4201-8627-81b03119d4e3",
+          "type": "column",
+          "children": [
+            {
+              "id": "a4c6f1cf-971c-4e2d-a816-c0b95e08912c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NjH62W\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f729efdd-09bb-4c31-b789-b3ef7a1f9e25",
+      "type": "divider"
+    }
+  ]
+}

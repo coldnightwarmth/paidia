@@ -1,0 +1,121 @@
+{
+  "id": "2b632ffb-0425-42e0-9065-4f179b4f6b39",
+  "slug": "games-people-play",
+  "title": "Games People Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/2b632ffb042542e090654f179b4f6b39",
+  "createdTime": 1651704312047,
+  "lastEditedTime": 1681314193893,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Games People Play"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1f8ad0c6571c.webp",
+  "blocks": [
+    {
+      "id": "ba6f51c0-c054-4bf9-b963-82f63cafa24b",
+      "type": "divider"
+    },
+    {
+      "id": "b6a11092-bbdf-420e-bfb1-ecd9d0f42bc8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6d8b7488-8b0c-4434-be6b-518033071a41",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ef1ebcc5-71d8-4989-b3f7-c39b06ee05ad",
+          "type": "column",
+          "children": [
+            {
+              "id": "e9ebfddd-bc67-4394-930e-17350099d639",
+              "type": "paragraph",
+              "html": "<em><strong>Games People Play: The Psychology of Human Relationships</strong></em> is a landmark work of psychology incorporating game language written by Eric Berne, originally published by Grove Press in 1964."
+            },
+            {
+              "id": "c18ba8bc-68e8-48e8-98ef-d64b3513bb13",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "fc8a7432-7862-4cbb-99ab-081082522729",
+              "type": "quote",
+              "html": "“<em>We think we’re relating to other people–but actually we’re all playing games.”<br><br>Forty years ago, </em>Games People Play <em>revolutionized our understanding of what really goes on during our most basic social interactions. More than five million copies later, Dr. Eric Berne’s classic is as astonishing–and revealing–as it was on the day it was first published. This anniversary edition features a new introduction by Dr. James R. Allen, president of the International Transactional Analysis Association, and Kurt Vonnegut’s brilliant Life magazine review from 1965.<br><br>We play games all the time–sexual games, marital games, power games with our bosses, and competitive games with our friends. Detailing status contests like “Martini” (I know a better way), to lethal couples combat like “If It Weren’t For You” and “Uproar,” to flirtation favorites like “The Stocking Game” and “Let’s You and Him Fight,” Dr. Berne exposes the secret ploys and unconscious maneuvers that rule our intimate lives.<br><br>Explosive when it first appeared, </em>Games People Play<em> is now widely recognized as the most original and influential popular psychology book of our time. It’s as powerful and eye-opening as ever.</em>"
+            }
+          ]
+        },
+        {
+          "id": "e297566f-338f-483e-968f-27dc6507aeb3",
+          "type": "column",
+          "children": [
+            {
+              "id": "ff66fdf0-015f-4c09-9459-025efcdf5c30",
+              "type": "image",
+              "src": "./assets/images/untitled-1f8ad0c6571c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c80eba94-9f7d-4be9-9832-39214b7f927c",
+      "type": "divider"
+    },
+    {
+      "id": "9a80b663-6f50-40aa-b080-347ca2d746b2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9580e9fb-9cd4-4bb4-87a5-1238657fe256",
+          "type": "column",
+          "children": [
+            {
+              "id": "490bf554-fafa-487e-9967-458550c3cad8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0148c0b7-4069-4695-aa33-f2ad9ade3c1a",
+          "type": "column",
+          "children": [
+            {
+              "id": "69b72730-7c34-40ad-a4d3-3fec85bc4aa1",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3PhYSpb\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75525c0f-4d83-4d8a-8a10-e60d2895f2f5",
+      "type": "divider"
+    }
+  ]
+}

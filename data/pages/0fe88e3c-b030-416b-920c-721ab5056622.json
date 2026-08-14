@@ -1,0 +1,139 @@
+{
+  "id": "0fe88e3c-b030-416b-920c-721ab5056622",
+  "slug": "school-recess-and-playground-behavior",
+  "title": "School Recess & Playground Behavior",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "941cc77c-8e6e-4869-a86c-9aaae44d9333",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/School-Recess-Playground-Behavior-0fe88e3cb030416b920c721ab5056622?pvs=21",
+  "createdTime": 1653073887752,
+  "lastEditedTime": 1681314056651,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "School Recess & Playground Behavior",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-85728271155b.webp",
+  "blocks": [
+    {
+      "id": "cebf142c-cbc2-4197-a66b-a779c3fc0bbb",
+      "type": "divider"
+    },
+    {
+      "id": "ce19c70e-5ba0-4c4e-8e46-1e365638c756",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "46b4a895-b645-4eeb-9214-96f8aa9c5b1c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7445935e-2213-4746-9be7-8872e206a202",
+          "type": "column",
+          "children": [
+            {
+              "id": "2d97da67-3ddb-4f02-a915-c585a63fbbfa",
+              "type": "paragraph",
+              "html": "<em><strong>School Recess &amp; Playground Behavior</strong></em> was written by Anthony D. Pellegrini, published by SUNY Press, December 15, 1994."
+            },
+            {
+              "id": "877e2419-2b24-445c-b842-320d217ffd3b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ac3f573c-0920-4840-9722-95a4b50ada8b",
+              "type": "quote",
+              "html": "<em>The recess period represents a unique part of the school day. It is one of the few times when children can interact with their peers on their own terms with minimal adult intervention. Consequently, it represents one of the few places in primary and middle schools to observe spontaneous peer interaction. School Recess and Playground Behavior offers a programmatic examination of a neglected aspect of children’s behavior and informs related literatures such as the educational, social-developmental, and cognitive-developmental literatures.<br><br>Dr. Pellegrini goes well beyond what has been done in the past by systematically pursuing an underlying theme that revolves around the educational significance of recess periods. Due to the relatively new interest in understanding the developmental significance of playground experiences, most past work has been topical in nature. By using a theme, the author has taken the next logical step in bringing coherence to this line of inquiry. The result is a readable and coherent volume that clearly demonstrates the value of recess periods in enhancing children’s cognitive and social/emotional development.</em>"
+            },
+            {
+              "id": "4aa11a15-d867-4383-a562-480890b6c8a5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "26a7e3e2-1517-4edc-8423-4f73b60f8d3a",
+          "type": "column",
+          "children": [
+            {
+              "id": "d512e3ae-ff87-436f-8219-310326f5005d",
+              "type": "image",
+              "src": "./assets/images/untitled-85728271155b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46d307ee-abe0-4585-8b80-d32a1eeb0463",
+      "type": "divider"
+    },
+    {
+      "id": "ab34aff4-efbd-4877-9b08-9daee5798a8b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "51729519-d859-41f2-a7b8-80ff2f8b48bc",
+          "type": "column",
+          "children": [
+            {
+              "id": "de3164f2-b52a-4512-866a-e38de2aaf49a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "24d4bafd-985f-48a7-b030-72e68be49a99",
+          "type": "column",
+          "children": [
+            {
+              "id": "8105af74-b8e1-4dda-9b3a-39aaca53ed29",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3C8xYMb\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91db0974-a1b1-4472-b34a-91d5db4fd016",
+      "type": "divider"
+    },
+    {
+      "id": "1fab67f3-3271-4958-8dc8-43eb7dd1feff",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

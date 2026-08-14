@@ -1,0 +1,126 @@
+{
+  "id": "73a419de-60b2-41ce-8241-7bd418aecb18",
+  "slug": "imagine-that",
+  "title": "Imagine That!",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Imagine-That-73a419de60b241ce82417bd418aecb18?pvs=21",
+  "createdTime": 1653079360323,
+  "lastEditedTime": 1681314001465,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Imagine That!",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/71nchu6xv3l-0914cf0eec23.webp",
+  "blocks": [
+    {
+      "id": "5a8955e6-a05d-4368-a85f-3466c291327d",
+      "type": "divider"
+    },
+    {
+      "id": "6d99ca7c-d7ff-46ad-8c16-e4879d0d97dc",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5c6ee448-63a0-4a0a-bd4a-b2bad7ec4a40",
+      "type": "columns",
+      "children": [
+        {
+          "id": "253d8fee-6f99-49b9-aeab-5316e9f6db24",
+          "type": "column",
+          "children": [
+            {
+              "id": "c8f322c4-0aa7-4021-add8-096984a08e6d",
+              "type": "paragraph",
+              "html": "<em><strong>Imagine That!: The story of Ed Smith, one of the first African Americans to work in the design of video games &amp; personal computers</strong></em> was written by Edward Smith, self-published, January 23, 2020."
+            },
+            {
+              "id": "99c8dd26-c768-484e-921b-e8575b90a884",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ae995c91-9f91-4f97-bf5c-dae355b3ded0",
+              "type": "quote",
+              "html": "<em>The inspirational story of Ed Smith, an African American who grew up in the slums of Brownsville, Brooklyn to become one of the first of his race to work in the design of video games and personal computers in the 1970s. Learn how Ed became a part of the engineering team that developed the MP1000 video game and The Imagination Machine personal computer. Discover how Ed came of age growing up in Brownsville during the sixties, his resilience enduring the crime and drug ravaged neighborhood of his youth culminating in his unexpected journey through computer technology.</em>"
+            }
+          ]
+        },
+        {
+          "id": "e2b466b9-10fa-4e11-91ae-009302140489",
+          "type": "column",
+          "children": [
+            {
+              "id": "28e348d4-336a-4b30-9a07-147a8f417bba",
+              "type": "image",
+              "src": "./assets/images/71nchu6xv3l-0914cf0eec23.webp",
+              "caption": "",
+              "alt": "71ncHu6Xv3L.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20e5cc3e-4600-4a88-9656-346c6b9d3e88",
+      "type": "divider"
+    },
+    {
+      "id": "4c1b98a0-14a2-4c37-9dc2-69567b81dd54",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1062f935-c2ce-441f-b7a7-622fdcd5ad68",
+          "type": "column",
+          "children": [
+            {
+              "id": "4966f18f-242e-416e-9b37-7a97b0177ee4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8e70ec6a-8319-40f4-a61a-2f603dca3181",
+          "type": "column",
+          "children": [
+            {
+              "id": "0ec48175-2840-4ddf-81ca-b3d6ca13c0b5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FyU4JN\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d15aa468-c620-471f-bb21-589dfa8229a4",
+      "type": "divider"
+    }
+  ]
+}

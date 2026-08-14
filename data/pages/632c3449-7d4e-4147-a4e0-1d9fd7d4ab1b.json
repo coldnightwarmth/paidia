@@ -1,0 +1,131 @@
+{
+  "id": "632c3449-7d4e-4147-a4e0-1d9fd7d4ab1b",
+  "slug": "the-strange-works-of-taro-yoko",
+  "title": "The Strange Works of Taro Yoko",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Strange-Works-of-Taro-Yoko-632c34497d4e4147a4e01d9fd7d4ab1b?pvs=21",
+  "createdTime": 1651858104131,
+  "lastEditedTime": 1681313925788,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Strange Works of Taro Yoko",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/91j12hwnuhl-506c9bcd2195.webp",
+  "blocks": [
+    {
+      "id": "761c9aee-f25c-445e-aacb-618c5beb3d49",
+      "type": "divider"
+    },
+    {
+      "id": "fba778b8-3f80-4dd9-b858-06753494b833",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8ec0ce23-1178-42c4-9d65-77c0e0f46b5c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7feee295-44bf-48ff-9950-2b575d2af8da",
+          "type": "column",
+          "children": [
+            {
+              "id": "47b8b710-449b-442b-9cc5-f160b0ca339e",
+              "type": "paragraph",
+              "html": "<em><strong>The Strange Works of Taro Yoko: From Drakengard to NieR: Automata</strong></em> was written by Nicolas Turcev, published by Third Editions, June 1, 2019."
+            },
+            {
+              "id": "a7a78aa4-9630-4a03-9c4b-69d4363320ba",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "49aeb345-0a35-474b-9e0e-6f6bfabd6c06",
+              "type": "quote",
+              "html": "<em>Throughout his entire career, Taro Yoko has always felt disheartened by the image of humanity reflected in most big-budget video games, which propose the use of firearms as the principal means of action. Through his own work, from Drakengard to NieR: Automata, this artist attempts to explore the reasons behind our strange fascination with conflict.<br><br>Is man so vicious that he must triumph, discriminate, hurt and kill even for entertainment?<br><br>Within the great fields of ruin resulting from wars in which mankind battled against mankind, Taro Yoko perceives this “entertainment” as a way for hope, a horizon, a shield against evil.<br><br>In this book we explore the contours of his games, the behind-the-scenes of their development, the complexity of their tales and their thematic depth. Discover this multifaceted and altruistic creator, who is convinced that video gaming is a diverse and unique medium.</em>"
+            },
+            {
+              "id": "e93fcb4d-586f-49cc-ac95-c1b893ba367a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "559135b2-0261-4661-8bd6-63ace9726ff5",
+          "type": "column",
+          "children": [
+            {
+              "id": "eedf3716-b0ce-42fd-8374-890a088857a7",
+              "type": "image",
+              "src": "./assets/images/91j12hwnuhl-506c9bcd2195.webp",
+              "caption": "",
+              "alt": "91j12hwNuhL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d85f7010-02d0-4880-8cb7-e89c7dc7b917",
+      "type": "divider"
+    },
+    {
+      "id": "f550ed68-e600-475f-b7c5-2d76a4bb9c6b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5650131a-7fc1-4dcf-8481-1df986abaca4",
+          "type": "column",
+          "children": [
+            {
+              "id": "f3c80c0b-5a72-4975-9725-51eb94147431",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b3b3c82f-4d73-48cc-9cd2-3ac4245e7c11",
+          "type": "column",
+          "children": [
+            {
+              "id": "b39ced38-4349-40d6-b345-f0ddc32823e8",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NyePXV\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9aa01d3-bd0e-4435-b3d1-d0255bb3f998",
+      "type": "divider"
+    }
+  ]
+}

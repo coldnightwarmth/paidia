@@ -1,0 +1,131 @@
+{
+  "id": "435e5ae4-2b90-4b9a-b65c-c55e391b17cd",
+  "slug": "the-making-of-karateka",
+  "title": "The Making of Karateka",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Making-of-Karateka-435e5ae42b904b9ab65cc55e391b17cd?pvs=21",
+  "createdTime": 1653078827131,
+  "lastEditedTime": 1681313941835,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Making of Karateka",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-da468dd520eb.webp",
+  "blocks": [
+    {
+      "id": "e9bb3026-4799-49f3-9b70-89486ddcdb41",
+      "type": "divider"
+    },
+    {
+      "id": "0b911e04-42ae-4a4c-a9fa-2ef5345e59d2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "db7e9769-ce8f-4116-ba14-17916ab04404",
+      "type": "columns",
+      "children": [
+        {
+          "id": "271c0552-6e14-4e92-9d14-7b77f4323e60",
+          "type": "column",
+          "children": [
+            {
+              "id": "23165280-85a5-485e-94a8-c2ba76169f28",
+              "type": "paragraph",
+              "html": "<em><strong>The Making of Karateka: Journals 1982-1985</strong></em> was written by Jordan Mechner, self-published through CreateSpace, December 26, 2012."
+            },
+            {
+              "id": "13b0786d-396d-40bf-8fd5-22894820a8b4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "cfd5d38b-1c7e-4e86-aba0-357c865dc757",
+              "type": "quote",
+              "html": "<em>In 1982 -- the era of Apple II and Commodore 64 -- 17-year-old college freshman and aspiring game designer Jordan Mechner began keeping a private journal. This first volume is a candid account of the personal, creative and technical struggles that led to his breakthrough success with </em>Karateka<em>, which topped bestseller charts in 1985, and planted the seeds of his next game, </em>Prince of Persia<em>.</em>"
+            },
+            {
+              "id": "046aebbf-18e0-415b-90e9-70ba854e579c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "afdf057b-01c6-4dd7-899b-05a65041d897",
+          "type": "column",
+          "children": [
+            {
+              "id": "4317f504-dc55-4d8b-8553-7203a5ce4a00",
+              "type": "image",
+              "src": "./assets/images/untitled-da468dd520eb.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cc9c885-29ba-4e78-befd-80b0e4484938",
+      "type": "divider"
+    },
+    {
+      "id": "431d7fbe-ba44-4396-9b66-9da9bfa9593c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "525011e5-7f7e-4286-ac1d-28dae31a2e70",
+          "type": "column",
+          "children": [
+            {
+              "id": "8816d850-641d-4a9c-b90a-591a8a1cd81f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "52a556e9-bfd3-4263-90a8-3b2322bc43df",
+          "type": "column",
+          "children": [
+            {
+              "id": "9eb3d94b-c54f-4de6-9ad9-2a0966144eab",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fjaKdL\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bf900797-2b9d-4dd8-b30a-4532f23d10a4",
+      "type": "divider"
+    }
+  ]
+}

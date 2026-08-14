@@ -1,0 +1,134 @@
+{
+  "id": "67579d27-afd7-4177-a957-bbbf84d0c51e",
+  "slug": "floor-games",
+  "title": "Floor Games",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Floor-Games-67579d27afd74177a957bbbf84d0c51e?pvs=21",
+  "createdTime": 1652738227025,
+  "lastEditedTime": 1681313907512,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Floor Games",
+        [
+          [
+            "b"
+          ],
+          [
+            "i"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-82ebfadf2d86.webp",
+  "blocks": [
+    {
+      "id": "19ea5fe1-04c5-4844-8a50-c724772de937",
+      "type": "divider"
+    },
+    {
+      "id": "31509ac0-3754-4818-886c-b76abbd5792d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "53915b57-1d47-4ff7-af61-94ee174a4989",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b41639aa-ebdf-4991-9ee6-3e908a055ba6",
+          "type": "column",
+          "children": [
+            {
+              "id": "b2e819b3-7632-4b9d-8863-a9ac12717892",
+              "type": "paragraph",
+              "html": "<em><strong>Floor Games</strong></em> was written by H.G. Wells, originally published by Frank Palmer in December 1911."
+            },
+            {
+              "id": "a67e4eaf-e09d-4ce3-9455-552610796611",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c0ea8d86-176d-4e05-a834-fc5f272be6e1",
+              "type": "quote",
+              "html": "Floor Games<em> is a book published in 1911 by H. G. Wells. This light-hearted volume argues in a humorously dictatorial tone that &quot;The jolliest indoor games for boys and girls demand a floor.&quot; Illustrated with photographs and drawings, it briefly describes a number of games that can be played on &quot;well lit and airy&quot; floors with &quot;four main groups&quot; of toys: soldiers about two inches high (Wells regrets the &quot;curse of militarism&quot; that makes civilians hard to find), largish wooden bricks, boards and planks, and electric railway rolling stock and rails. Various remarks show that the book is based on Wells's experience of playing such games with his two sons, George Philip &quot;Gip&quot; Wells (1901–1985) and Frank Richard Wells (1903–1982), identified here only by their initials at their family home, 17 Church Row, in the north west London district of Hampstead.<br><br>Although </em>Floor Games <em>is often characterized as a &quot;companion book&quot; to Wells's </em><a href=\"#/little-wars\">Little Wars</a><em> (1913), the earlier book was conceived of as a self-standing volume so that the author might later write a book devoted purely to war games. Floor Games describes mostly specific games for young children, whereas Little Wars describes war games for older children and adults.</em>"
+            },
+            {
+              "id": "108d27a2-db6c-4f85-87f8-63f352e2c7c8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "502bb533-e545-4d52-8118-6a278b39cce2",
+          "type": "column",
+          "children": [
+            {
+              "id": "9a5c5685-7cff-4d29-8da6-ed4e1ab6c8d2",
+              "type": "image",
+              "src": "./assets/images/untitled-82ebfadf2d86.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40a5b3e6-f7fb-4c69-80a3-68353a67977d",
+      "type": "divider"
+    },
+    {
+      "id": "90d9b172-7c84-407d-920b-ceee2eccf2da",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0fa12f23-7f7f-4759-8da2-bd5321ccca76",
+          "type": "column",
+          "children": [
+            {
+              "id": "b6930c87-b1b3-4dd8-ac9d-baf9f7e3198b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "737d6518-8011-4d32-82f8-62dd861431e6",
+          "type": "column",
+          "children": [
+            {
+              "id": "269d285b-072c-4b6c-83c2-b4bc504321e6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bw579P\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6de4048-029e-469d-8d8a-f09e05247237",
+      "type": "divider"
+    }
+  ]
+}

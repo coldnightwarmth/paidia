@@ -1,0 +1,129 @@
+{
+  "id": "7816d432-ee78-4526-a4aa-11b4f6bdd724",
+  "slug": "the-japanese-numbers-game",
+  "title": "The Japanese Numbers Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Japanese-Numbers-Game-7816d432ee784526a4aa11b4f6bdd724?pvs=21",
+  "createdTime": 1677095237995,
+  "lastEditedTime": 1681311862461,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The "
+      ],
+      [
+        "Japanese Numbers Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-efd0b2e9b7eb.webp",
+  "blocks": [
+    {
+      "id": "ad0ad2d9-34d1-4040-99fc-80409ce6eedd",
+      "type": "divider"
+    },
+    {
+      "id": "505fc3f1-87cd-41ad-826b-d8663cbc6a01",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "612371c5-38cd-4b49-9c83-b6987a0537d2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4fe3017b-3998-426b-96fd-5325c4ea7e99",
+          "type": "column",
+          "children": [
+            {
+              "id": "3c6840ef-8e6a-40e5-8c1f-a9e1ef4f80bb",
+              "type": "paragraph",
+              "html": "<em><strong>The Japanese Numbers Game: The Use and Understanding of Numbers in Modern Japan</strong></em> was written by Thomas Crump, published by Routledge, January 9, 1992."
+            },
+            {
+              "id": "ac975070-4428-4948-bfdf-d4b28f9a8ea7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9d6ae63a-e14b-4548-82d9-dde0364ea4a0",
+              "type": "quote",
+              "html": "<em>An almost obsessional use of numbers characterizes Japanese popular culture. A wide variety of numerical formulae and strategies provide the means for explaining </em><a href=\"#/event\"><em>events</em></a><em> and solving problems occurring in everyday life. These include such matters as the choice of the name for a child, </em><a href=\"#/competition\"><em>ranking</em></a><em> in almost any game or sport, the diagnosis and cure of illness or the decision to accept a new job. This text provides a general study of the field of Japanese popular numeracy. It introduces the reader to a world of numbers in which </em><a href=\"#/divination\"><em>fortune-telling</em></a><em>, the abacus and games involving numbers, as well as curious numerical names (of both people and places), illustrate the importance of systems of counting, calculation and forecasting. The study explores the cultural roots of attitudes towards numbers and makes suggestions about the contemporary implications of a culture in which mechanical numeracy (and number obsession) is general but the highest levels of academic mathematics still fall short of world standards.</em>"
+            }
+          ]
+        },
+        {
+          "id": "b5553805-780f-4b6d-88ae-19cefc31eb7e",
+          "type": "column",
+          "children": [
+            {
+              "id": "d1e6ac76-053b-4f69-8f53-96dcfa96c8b8",
+              "type": "image",
+              "src": "./assets/images/untitled-efd0b2e9b7eb.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b20fedad-c0c1-4c0b-9743-668ab4aa68a4",
+      "type": "divider"
+    },
+    {
+      "id": "ac7d35ed-0755-4c88-9d8a-2a7857994f85",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0df8cea9-dae2-4973-8673-36c7c0fad262",
+          "type": "column",
+          "children": [
+            {
+              "id": "cbac15d6-44f8-4627-935f-d98306634d7d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b47e5abe-e871-409e-8f95-6e6629b6a4cf",
+          "type": "column",
+          "children": [
+            {
+              "id": "50f9fadf-6919-4f3d-b11f-4cc775341685",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Japanese-Numbers-Institute-Routledge-Studies/dp/0415056098/ref=sr_1_1?crid=U8V0V6ZSQIGP&amp;keywords=Japanese+Numbers+Game+%28Nissan+Institute%2FRoutledge+Japanese+Studies%29&amp;qid=1666798729&amp;qu=eyJxc2MiOiItMC4wMSIsInFzYSI6IjAuMDAiLCJxc3AiOiIwLjAwIn0%3D&amp;s=books&amp;sprefix=japanese+numbers+game+nissan+institute%2Froutledge+japanese+studies+%2Cstripbooks%2C136&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6be36243-2bd9-40b0-884b-ebf067721651",
+      "type": "divider"
+    }
+  ]
+}

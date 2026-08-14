@@ -1,0 +1,48 @@
+{
+  "id": "352d86f6-58ec-40e9-865f-83740acf1f91",
+  "slug": "contact-us",
+  "title": "Contact Us",
+  "icon": "👥",
+  "cover": "",
+  "type": "page",
+  "parentId": "db5dc169-16f5-45b1-9f37-ba22a0922a7c",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/352d86f658ec40e9865f83740acf1f91",
+  "createdTime": 1711198564309,
+  "lastEditedTime": 1711198564309,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Contact Us"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "728c9128-70f0-4593-8f9b-7f9080480a05",
+      "type": "callout",
+      "html": "For Community, or Site enquiries, please contact any of the Admins below. <br>Note that due to Twitter not offering notifcations for new conversations, a delay may occur before you hear back via this platform. Thank you in advance for your patience.",
+      "icon": "ℹ️",
+      "children": []
+    },
+    {
+      "id": "983733ef-ccf7-476c-9e27-34d773df7f74",
+      "type": "collection_view",
+      "collectionId": "df5bfa3e-2962-4074-9124-79b27353d464",
+      "viewIds": [
+        "f340e137-97a6-4da2-a56f-ee73b4710353"
+      ],
+      "title": ""
+    },
+    {
+      "id": "58b0274e-5d48-40a6-9201-e7304a08ca21",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

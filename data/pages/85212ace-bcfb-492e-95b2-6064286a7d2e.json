@@ -1,0 +1,128 @@
+{
+  "id": "85212ace-bcfb-492e-95b2-6064286a7d2e",
+  "slug": "shortform-writing-85212ace",
+  "title": "Shortform Writing",
+  "icon": "🖊️",
+  "cover": "./assets/images/shape-terminal-95cea425fbc0.webp",
+  "type": "page",
+  "parentId": "aedae6cc-3de7-4c4b-8cb3-305b4e9b560a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/85212acebcfb492e95b26064286a7d2e",
+  "createdTime": 1701393561169,
+  "lastEditedTime": 1704902779226,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Shortform Writing"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "fbfe675c-52b9-443e-bf03-6be99ca0b7bb",
+      "type": "header",
+      "html": "   Shortform Writing",
+      "anchorId": "shortform-writing"
+    },
+    {
+      "id": "217ec069-48bf-45e1-88e0-3df71a30d8a8",
+      "type": "paragraph",
+      "html": "       <em>collected writing (shorter than a book, longer than a tweet)</em>"
+    },
+    {
+      "id": "7aaacf46-a0cc-465e-80d1-ce1f0aba55a6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ba95e5d8-7f3c-43f2-9dbb-04a3876b6327",
+          "type": "column",
+          "children": [
+            {
+              "id": "98d38168-e6bd-4ee0-9555-bbeec0775a2c",
+              "type": "synced_block",
+              "sourceBlockId": "98d38168-e6bd-4ee0-9555-bbeec0775a2c",
+              "children": [
+                {
+                  "id": "ecb76705-f087-4b51-b5e4-59c053d54e97",
+                  "type": "page_link",
+                  "targetId": "ecb76705-f087-4b51-b5e4-59c053d54e97",
+                  "title": "Essays, Articles, & Blogposts",
+                  "notionType": "page"
+                },
+                {
+                  "id": "19ddf125-7306-433b-a4d4-e7c6454b89c6",
+                  "type": "page_link",
+                  "targetId": "19ddf125-7306-433b-a4d4-e7c6454b89c6",
+                  "title": "Poetry",
+                  "notionType": "page"
+                },
+                {
+                  "id": "7f906de6-0d9e-4664-aac2-d2dbf9c93df9",
+                  "type": "page_link",
+                  "targetId": "7f906de6-0d9e-4664-aac2-d2dbf9c93df9",
+                  "title": "Short Stories",
+                  "notionType": "page"
+                },
+                {
+                  "id": "3c174425-17e0-4b70-9451-80723e8cdeda",
+                  "type": "paragraph",
+                  "html": "<em>see also:</em>"
+                },
+                {
+                  "id": "cbbf2caa-7b65-490d-bc94-7a391b056585",
+                  "type": "alias_link",
+                  "targetId": "75a1e79b-ed9e-4d42-937f-ccc677935674",
+                  "title": "Linked page"
+                }
+              ]
+            },
+            {
+              "id": "0db9d64f-eaa4-46e4-8e37-c621c59ce1fd",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b91aac52-4b63-4103-b126-2ab2ada473e4",
+          "type": "column",
+          "children": [
+            {
+              "id": "89f3aed9-eae2-47a6-988b-34745cdad8c3",
+              "type": "collection_view",
+              "collectionId": "083abd51-9346-42aa-9e32-f0a0b84d7e82",
+              "viewIds": [
+                "f11d41ba-63f9-4a73-a6e3-b596a235338b"
+              ],
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "411dad20-db2a-4806-88be-beee8bd71df9",
+      "type": "page_link",
+      "targetId": "411dad20-db2a-4806-88be-beee8bd71df9",
+      "title": "Quotes",
+      "notionType": "page"
+    },
+    {
+      "id": "cd928d15-06a3-4d7f-9365-85ba102a9210",
+      "type": "page_link",
+      "targetId": "cd928d15-06a3-4d7f-9365-85ba102a9210",
+      "title": "Tweets & Threads",
+      "notionType": "page"
+    }
+  ]
+}

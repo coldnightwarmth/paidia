@@ -1,0 +1,126 @@
+{
+  "id": "aa77eaad-fb74-49a0-bd17-87c274c81d6b",
+  "slug": "your-wit-is-my-command",
+  "title": "Your Wit is My Command",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Your-Wit-is-My-Command-aa77eaadfb7449a0bd1787c274c81d6b?pvs=21",
+  "createdTime": 1664463474311,
+  "lastEditedTime": 1681312953214,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Your Wit is My Command"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-cc1b819c53b9.webp",
+  "blocks": [
+    {
+      "id": "d34e4876-3030-4167-a15c-22267e268e78",
+      "type": "divider"
+    },
+    {
+      "id": "d09e32ab-1b73-4236-9ecb-fa89b1b1c1e0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b464e49f-3051-4a17-9779-3c3662793268",
+      "type": "columns",
+      "children": [
+        {
+          "id": "da2ed8c1-3696-4758-aae5-e2235d0189b9",
+          "type": "column",
+          "children": [
+            {
+              "id": "35e54333-4329-4449-82db-f411d3757fbc",
+              "type": "paragraph",
+              "html": "<em><strong>Your Wit Is My Command: Building AIs with a Sense of Humor</strong></em><em> </em>was written by Tony Veale, published by The MIT Press, September 7, 2021."
+            },
+            {
+              "id": "e0b6a97d-3eb3-4d50-a773-52b6a657a9d9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "24ac9428-aa0f-4933-a7d7-5437ab3df645",
+              "type": "quote",
+              "html": "<em>Most robots and smart devices are not known for their joke-telling abilities. And yet, as computer scientist Tony Veale explains in </em>Your Wit Is My Command<em>, machines are not inherently unfunny; they are just programmed that way. By examining the mechanisms of humor and jokes--how jokes actually works--Veale shows that computers can be built with a sense of humor, capable not only of producing a joke but also of appreciating one. Along the way, he explores the humor-generating capacities of fictional robots ranging from B-9 in Lost in Space to TARS in Interstellar, maps out possible scenarios for developing witty robots, and investigates such aspects of humor as puns, sarcasm, and offensiveness.<br><br>In order for robots to be funny, Veale explains, we need to analyze humor computationally. Using artificial intelligence (AI), Veale shows that joke generation is a knowledge-based process--a sense of humor is blend of wit and wisdom. He notes that existing technologies can detect sarcasm in conversation, and explains how some jokes can be pre-scripted while others are generated algorithmically--all while making the technical aspects of AI accessible for the general reader. Of course, there's no single algorithm or technology that we can plug in to make our virtual assistants or GPS voice navigation funny, but Veale provides a computational roadmap for how we might get there.</em>"
+            },
+            {
+              "id": "cc60b49b-0527-4613-b736-ceecf085d7bb",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e82fde11-abfe-40e8-ab3d-70c0e69fb650",
+          "type": "column",
+          "children": [
+            {
+              "id": "60061c9c-3c72-40bf-8644-934ac76e7bf4",
+              "type": "image",
+              "src": "./assets/images/untitled-cc1b819c53b9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cbe3f180-5cac-4fcf-8051-7796387f8ed5",
+      "type": "divider"
+    },
+    {
+      "id": "49355046-e53e-4b20-9936-2376fc5bd058",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2594e3d1-2289-4cf5-b9c1-386206702a3c",
+          "type": "column",
+          "children": [
+            {
+              "id": "c49a4191-9d26-4de9-9dff-8f808dcd1d64",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "572b70de-66a9-4378-9e71-0bbd71f3c3dc",
+          "type": "column",
+          "children": [
+            {
+              "id": "621454b9-0b79-4424-9d1b-c72a4333dee4",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SKFMca\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bb7c409e-b7b7-4b7f-80a7-731eec717fe7",
+      "type": "divider"
+    }
+  ]
+}

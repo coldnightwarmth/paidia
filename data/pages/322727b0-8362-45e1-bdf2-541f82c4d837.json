@@ -1,0 +1,136 @@
+{
+  "id": "322727b0-8362-45e1-bdf2-541f82c4d837",
+  "slug": "the-book-of-esports",
+  "title": "The Book of Esports",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Book-of-Esports-322727b0836245e1bdf2541f82c4d837?pvs=21",
+  "createdTime": 1651971128787,
+  "lastEditedTime": 1681313973977,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Book of Esports",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/71dwe167mdl-571298e9667e.webp",
+  "blocks": [
+    {
+      "id": "24d46393-11ad-4baf-b6ef-8c6a6c273419",
+      "type": "divider"
+    },
+    {
+      "id": "32886fbe-8ee4-4534-a4ce-de50b145acd3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "53c24642-939a-4fb1-bc64-1ad5d0fae730",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b80ade24-2d44-4f7f-9e65-bb3244d0540b",
+          "type": "column",
+          "children": [
+            {
+              "id": "de7b5aee-dc04-483d-8e1c-cefc12b0fdc7",
+              "type": "paragraph",
+              "html": "<em><strong>The Book of Esports: The Definitive Guide to Competitive Video Games</strong></em> was written by William Collis, published by RosettaBooks, August 4, 2020."
+            },
+            {
+              "id": "6bbed332-5b87-4ec0-b0bb-8e5ea18a9e13",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "86f02426-1b17-4423-afc2-69993fdceeae",
+              "type": "quote",
+              "html": "<em>The definitive guide to the modern world of competitive gaming and the official history of Esports™.<br><br>Almost overnight, esports—or competitive video games—have exploded into the largest entertainment and sporting phenomenon in human history.<br><br></em>The Book of Esports<em> answers:</em>"
+            },
+            {
+              "id": "583c1050-3a0a-4782-baeb-5dec35dd6ab4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ca1d74c6-04ad-4ffc-b399-9933f43e0b12",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5e859a2f-564f-476b-8b5e-0bb59ffa00f3",
+          "type": "column",
+          "children": [
+            {
+              "id": "0496317c-28d7-4412-8abb-bb9e6317515e",
+              "type": "image",
+              "src": "./assets/images/71dwe167mdl-571298e9667e.webp",
+              "caption": "",
+              "alt": "71DWe167MDL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab32f5c3-a9ba-41b9-80da-dcb8945d4196",
+      "type": "divider"
+    },
+    {
+      "id": "3ae009fa-4214-4f80-84e2-1e2a44d84040",
+      "type": "columns",
+      "children": [
+        {
+          "id": "65b71fe7-7285-4867-a169-4bd7185a4c02",
+          "type": "column",
+          "children": [
+            {
+              "id": "21ad66dd-c63d-4fee-87a5-22fa62a3ec02",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "39f5858f-99f4-445d-99e6-f0d92f9ddc52",
+          "type": "column",
+          "children": [
+            {
+              "id": "2b985f41-e408-4492-9c96-eea174fc5664",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3gO0QRu\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75c3179d-4efb-48ff-aec4-4f8b3da89d6d",
+      "type": "divider"
+    }
+  ]
+}

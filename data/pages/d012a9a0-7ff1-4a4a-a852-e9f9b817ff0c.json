@@ -1,0 +1,131 @@
+{
+  "id": "d012a9a0-7ff1-4a4a-a852-e9f9b817ff0c",
+  "slug": "monsters-in-the-dark",
+  "title": "Monsters in the Dark",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d012a9a07ff14a4aa852e9f9b817ff0c",
+  "createdTime": 1653080065354,
+  "lastEditedTime": 1681313932790,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Monsters in the Dark",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-37e9e932785f.webp",
+  "blocks": [
+    {
+      "id": "0ca2fd18-7de2-471e-820b-168447057efc",
+      "type": "divider"
+    },
+    {
+      "id": "93b26257-35b9-4ad8-b230-37c645a005b7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "09739c66-f565-41ef-9fe9-338db0729916",
+      "type": "columns",
+      "children": [
+        {
+          "id": "414d4b5a-1375-4485-a142-6d646e64e432",
+          "type": "column",
+          "children": [
+            {
+              "id": "df9161f6-285f-4759-8fc6-f96393a97a02",
+              "type": "paragraph",
+              "html": "<em><strong>Monsters in the Dark: The Making of X-COM: UFO Defense</strong></em> was written by David L. Craddock, published by BookBaby, October 5, 2021."
+            },
+            {
+              "id": "eb7fb426-c641-43ff-8562-de9c5561214b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a56893ed-1021-4618-9a13-2f66a01795bd",
+              "type": "quote",
+              "html": "<em>It is the Year 1994…<br><br>In North America, turn-based strategy games were trampled by flashier video games like </em>Doom<em> and </em>Mortal Kombat<em>. All but one: </em>Sid Meier's Civilization<em>, a game of conquest and megahit developed by Maryland-based MicroProse.<br><br>Over in southwest England, the producers at MicroProse UK aspired to design a tactical game that matched or exceeded the success of their American counterparts, who viewed the UK branch as nothing more than a support studio. Nearby, a bespectacled teenage boy toiled away on his home computer, dreaming of the day his programming aptitude would catch up to the epic campaigns unfolding across his imagination.<br><br>From his early experiments in board games to digital battlefields that lit up bestseller charts, </em>Monsters in the Dark<em> charts the career of legendary designer Julian Gollop through the creation of 1994's </em>X-COM<em>, a terrifying and terrifyingly deep wargame hailed as &quot;the finest PC game&quot; (IGN) and &quot;a bona fide classic&quot; (GameSpot).</em>"
+            },
+            {
+              "id": "d63963e6-f8fc-498b-bafe-4d39c6bf7173",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "950a4445-db28-464c-9f2a-6f9bc893a855",
+          "type": "column",
+          "children": [
+            {
+              "id": "ff8a6ce0-931a-44d8-8c50-cc5d71a17e36",
+              "type": "image",
+              "src": "./assets/images/untitled-37e9e932785f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0a629338-df15-40ab-85a9-f6c10b47bdd4",
+      "type": "divider"
+    },
+    {
+      "id": "4d7b4f43-0ca7-47ed-9dae-5ac652d3496f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "509c71b9-b3cc-4f51-a97f-ac5d71129de4",
+          "type": "column",
+          "children": [
+            {
+              "id": "3fad042d-54ff-44d0-9ef4-1125afb969f6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "96e9a94d-6982-4138-b524-8e66096c43a1",
+          "type": "column",
+          "children": [
+            {
+              "id": "189672ac-8c93-4be8-9252-2373fda60219",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sLxpT1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f9ca6f2-4e3c-45c6-98fc-799dca6807c8",
+      "type": "divider"
+    }
+  ]
+}

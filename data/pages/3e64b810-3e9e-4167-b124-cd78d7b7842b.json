@@ -1,0 +1,131 @@
+{
+  "id": "3e64b810-3e9e-4167-b124-cd78d7b7842b",
+  "slug": "ludomusicology",
+  "title": "Ludomusicology",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Ludomusicology-3e64b8103e9e4167b124cd78d7b7842b?pvs=21",
+  "createdTime": 1671477953565,
+  "lastEditedTime": 1681312224116,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ludomusicology",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0dd218ffdca9.webp",
+  "blocks": [
+    {
+      "id": "b85fa99b-9d69-4f01-813b-210e1b7a1819",
+      "type": "divider"
+    },
+    {
+      "id": "70723196-1cf4-43d5-a307-ecf8210b538b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "84ef5f58-a37b-486f-8440-b3a25e9d8429",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8a06e283-a85b-46c4-becb-06f733526e05",
+          "type": "column",
+          "children": [
+            {
+              "id": "c8934bb7-8283-43d5-8404-6293ef4514f2",
+              "type": "paragraph",
+              "html": "<em><strong>Ludomusicology: Approaches to Video Game Music</strong></em> is a collection of essays edited by Michiel Kamp, Tim Summers, &amp; Mark Sweeney, published by Equinox Publishing Ltd., September 1, 2016."
+            },
+            {
+              "id": "e82a87c5-53fe-4c0e-b975-8de49089d978",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f9196737-8f48-48f8-b445-5bf9107dda65",
+              "type": "quote",
+              "html": "<em>The last half-decade has seen the rapid and expansive development of video game music studies. As with any new area of study, this significant sub-discipline is still tackling fundamental questions concerning how video game music should be approached. In this volume, experts in game music provide their responses to these issues.<br><br>This book suggests a variety of new approaches to the study of game music. In the course of developing ways of conceptualizing and analyzing game music it explicitly considers other critical issues including the distinction between game play and music play, how notions of diegesis are complicated by video game interactivity, the importance of cinema aesthetics in game music, the technicalities of game music production and the relationships between game music and art music traditions.<br><br>This collection is accessible, yet theoretically substantial and complex. It draws upon a diverse array of perspectives and presents new research which will have a significant impact upon the way that game music is studied. The volume represents a major development in game musicology and will be indispensable for both academic researchers and students of game music.</em>"
+            },
+            {
+              "id": "4e8739b7-dd73-437c-99dc-087fe9acd412",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fe5980a2-ffa7-42d7-b18b-1526ef94b6e6",
+          "type": "column",
+          "children": [
+            {
+              "id": "65eec268-46a7-4b6e-94ac-a409b090330d",
+              "type": "image",
+              "src": "./assets/images/untitled-0dd218ffdca9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f6daa1c-9d23-4a41-859e-510795aaa374",
+      "type": "divider"
+    },
+    {
+      "id": "e2afd123-a78e-44f5-9c42-55b73b577d3a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4483685d-0bbb-4c7a-aa01-79fec4bfe4ea",
+          "type": "column",
+          "children": [
+            {
+              "id": "a82cbc9e-899d-4b86-b742-bfd3188abd2f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "22607f72-19ef-4c6a-b471-6135a778e0c6",
+          "type": "column",
+          "children": [
+            {
+              "id": "304dd119-b20d-484d-9a69-31ddb709d56a",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Ludomusicology-Approaches-Video-Music-Genre/dp/1781791988\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b9166600-9d69-47c6-86b2-76d5e9a04bbb",
+      "type": "divider"
+    }
+  ]
+}

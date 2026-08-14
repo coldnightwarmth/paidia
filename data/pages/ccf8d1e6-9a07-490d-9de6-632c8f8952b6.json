@@ -1,0 +1,131 @@
+{
+  "id": "ccf8d1e6-9a07-490d-9de6-632c8f8952b6",
+  "slug": "masters-of-doom",
+  "title": "Masters of Doom",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Masters-of-Doom-ccf8d1e69a07490d9de6632c8f8952b6?pvs=21",
+  "createdTime": 1651708864030,
+  "lastEditedTime": 1681314002590,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Masters of Doom",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-043f9944e0cc.webp",
+  "blocks": [
+    {
+      "id": "1f6577ed-7674-4935-888f-b64442f7ec17",
+      "type": "divider"
+    },
+    {
+      "id": "1bdb379f-4cbe-4ad5-b597-b1e9883c3413",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "37969c29-77e6-4976-b4c4-b821a4a0c260",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6d9273a4-b435-4713-9d24-12bc39d0361f",
+          "type": "column",
+          "children": [
+            {
+              "id": "92507204-b7f2-48f5-be77-2d3ffdf65a9b",
+              "type": "paragraph",
+              "html": "<em><strong>Masters of Doom: How Two Guys Created an Empire &amp; Transformed Pop Culture</strong></em> was written by David Kushner, published by Random House, May 6, 2003."
+            },
+            {
+              "id": "ca7af3af-7aa0-40ae-8bb8-8c9fc8d64146",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "14b89115-4c16-4a4c-8cfe-236ddaf4429f",
+              "type": "quote",
+              "html": "Masters of Doom<em> is the amazing true story of the Lennon and McCartney of video games: John Carmack and John Romero. Together, they ruled big business. They transformed popular culture. And they provoked a national controversy. More than anything, they lived a unique and rollicking American Dream, escaping the broken homes of their youth to co-create the most notoriously successful game franchises in history—</em>Doom<em> and</em> Quake<em>—until the games they made tore them apart.<br><br>Americans spend more money on video games than on movie tickets. </em>Masters of Doom<em> is the first book to chronicle this industry’s greatest story, written by one of the medium’s leading observers. David Kushner takes readers inside the rags-to-riches adventure of two rebellious entrepreneurs who came of age to shape a generation. The vivid portrait reveals why their games are so violent and why their immersion in their brilliantly designed fantasy worlds offered them solace. And it shows how they channeled their fury and imagination into products that are a formative influence on our culture, from MTV to the Internet to Columbine. This is a story of friendship and betrayal, commerce and artistry—a powerful and compassionate account of what it’s like to be young, driven, and wildly creative.</em>"
+            },
+            {
+              "id": "38fd6b76-1721-4544-9a4f-28d85df63c91",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "47f77823-f5eb-4ff4-882b-59d3c6a7dacf",
+          "type": "column",
+          "children": [
+            {
+              "id": "09b0d6b0-a625-4d16-857f-0f750fc42a51",
+              "type": "image",
+              "src": "./assets/images/untitled-043f9944e0cc.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7cdeb98-157f-4ff1-bf36-cfb8391bbc44",
+      "type": "divider"
+    },
+    {
+      "id": "a075d61b-3e18-4b3e-806e-cc4c005d8812",
+      "type": "columns",
+      "children": [
+        {
+          "id": "14bf1a35-3a7e-4493-97b8-2fbf0a627950",
+          "type": "column",
+          "children": [
+            {
+              "id": "b19c7549-6bf8-4dc6-a63f-0524303430a0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3d1c32a7-4798-4049-a355-bbd470dd3288",
+          "type": "column",
+          "children": [
+            {
+              "id": "ac24a875-bc0a-4a0e-bf78-e4f744bfe1e0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3h10ebu\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12043977-d975-4161-8a30-a9b1dd3de6bd",
+      "type": "divider"
+    }
+  ]
+}

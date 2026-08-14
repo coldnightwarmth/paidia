@@ -1,0 +1,144 @@
+{
+  "id": "d5c0028c-dfee-44ed-ad4a-f6c00a2d549a",
+  "slug": "eric-zimmerman",
+  "title": "Eric Zimmerman",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "350879b3-a25b-4db5-8dae-34d54f50d8e6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d5c0028cdfee44edad4af6c00a2d549a",
+  "createdTime": 1666475093798,
+  "lastEditedTime": 1681329094608,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Eric Zimmerman"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0721eba1b9e8.webp",
+  "blocks": [
+    {
+      "id": "6425f7ba-8d8b-45eb-b6ae-c24b59e27798",
+      "type": "divider"
+    },
+    {
+      "id": "ae504dc9-7621-45b9-bb5b-b142af6649d1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "89a44f0d-c0a3-477b-8cb1-717e17ba6213",
+      "type": "columns",
+      "children": [
+        {
+          "id": "43fb810b-6b12-43e4-a66f-fc02c7755191",
+          "type": "column",
+          "children": [
+            {
+              "id": "89bccfb1-2e97-4c9b-9cfc-dc0e57e012af",
+              "type": "paragraph",
+              "html": "<strong>Author  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "20997a7f-9968-4879-8319-5c70c936a53b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f705bc5d-311a-4036-be68-c33a8c7df6c4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "47a75274-bfef-40d0-8326-055f49e5fc8d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e38566b3-828c-45e7-83c4-aca546236647",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d7ad73b5-fa78-4109-8670-2a91dcf1b85c",
+          "type": "column",
+          "children": [
+            {
+              "id": "a9ad97ae-0353-4bbb-9f4c-575292ab617c",
+              "type": "image",
+              "src": "./assets/images/untitled-0721eba1b9e8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "737c8794-8bad-4c1f-8bd3-6960f2a60c84",
+      "type": "divider"
+    },
+    {
+      "id": "f5da1bfe-5d2a-4022-a60c-ad0858d48c2a",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "f7d28c68-5334-442f-ac41-1edd9c29d1fc",
+      "type": "paragraph",
+      "html": "<a href=\"#/rules-of-play\">Rules of Play</a> (2003) (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "b520c104-103f-47f0-bab1-460d1ace49c8",
+      "type": "paragraph",
+      "html": "<a href=\"#/manifesto-for-a-ludic-century\">Manifesto for a Ludic Century</a> (2013) (<em>essay</em>)"
+    },
+    {
+      "id": "c30de18b-ee74-48dc-a0ca-5ced4d1eaf14",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-rules-we-break\">The Rules We Break</a> (2022) (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "b9bce2a4-1ed7-485f-a2f0-b6f2683e1fcd",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6ba11877-0644-43ec-8e1e-3ec58f543a39",
+      "type": "divider"
+    },
+    {
+      "id": "0e3475ad-812a-496c-a6c2-29fb9be56562",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "da3193d0-0729-4aa0-9cea-8ccd073a8601",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "2287cbb8-f753-4747-a3ca-a73ad12e66e0",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "981c091d-8b6b-46c7-a93d-acdaf6aeafe3",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

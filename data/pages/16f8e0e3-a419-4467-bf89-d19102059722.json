@@ -1,0 +1,131 @@
+{
+  "id": "16f8e0e3-a419-4467-bf89-d19102059722",
+  "slug": "city-of-play",
+  "title": "City of Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/City-of-Play-16f8e0e3a4194467bf89d19102059722?pvs=21",
+  "createdTime": 1667275797337,
+  "lastEditedTime": 1681311564502,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "City of Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8ac3f8b47082.webp",
+  "blocks": [
+    {
+      "id": "581ba259-e118-495b-8dac-c8ceccd2b2d2",
+      "type": "divider"
+    },
+    {
+      "id": "c2e4024b-ec38-466c-acac-44ca2873804f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8d02e243-c7b0-43f7-874b-070832826500",
+      "type": "columns",
+      "children": [
+        {
+          "id": "53e713a0-660c-4c9b-8189-9d27921558fd",
+          "type": "column",
+          "children": [
+            {
+              "id": "fa8f315b-1793-4731-8d9d-1f593ef363bf",
+              "type": "paragraph",
+              "html": "<em><strong>City of Play: An Architectural &amp; Urban History of Recreation &amp; Leisure</strong></em> was written by Rodrigo Pérez de Arce, published by Bloomsbury Visual Arts, May 31, 2018."
+            },
+            {
+              "id": "7b14fde0-d8f7-4c57-9fcd-97634bec7001",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "bb92d62e-bf3e-4505-a24d-b0666c191c33",
+              "type": "quote",
+              "html": "City of Play<em> shows how play is built into the very fabric of the modern city. From playgrounds to theme parks, skittle alleys to swimming pools, to the countless uncontrolled spaces which the urban habitat affords – play is by no means just a childhood affair. A myriad essentially unproductive playful pursuits have, through time, modelled the modern city and landscape.<br><br>Architect and scholar Rodrigo Pérez de Arce's erudite, original, and often surprising study explores a curiously neglected dimension of architectural design and practice: ludic space. It is an architectural history of the playground – from the hippodrome to the Situationist city – of space released from productive ends in the pursuit of leisure. But this is more than just a book about how architecture has incorporated play into its spaces and structures, it is a history of the modern city itself. The ludic imagination impregnated modernist ideals, and what begins with the playground ends with a re-consideration of the whole sweep of the modern movement through the filter of leisure and play.<br><br>Because play is such a basic or fundamental human experience, the book re-grounds the architect's concerns with those of non-architects – and not only those of adults but also of children. It seeks to give everyone – architects and other ordinary city-dwellers alike – a better understanding about what is at stake in the making of the public spaces of our cities.</em>"
+            },
+            {
+              "id": "b55d7f0b-e611-4ce7-8dec-e604fb503ee4",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "44f48ada-76d2-4bcb-ba4a-282353838cb9",
+          "type": "column",
+          "children": [
+            {
+              "id": "f6660785-bc13-47c4-9697-97aefe381a32",
+              "type": "image",
+              "src": "./assets/images/untitled-8ac3f8b47082.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a9c646a-58a2-4136-838b-4a1f5a675a2b",
+      "type": "divider"
+    },
+    {
+      "id": "079216f0-370f-451b-b004-4b0c33146c8c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3aa98808-63e5-42df-adad-3d9a509925fb",
+          "type": "column",
+          "children": [
+            {
+              "id": "6cee8811-0c23-4ccd-8771-60481b271a17",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1a30f197-a636-49cf-9517-852527c72423",
+          "type": "column",
+          "children": [
+            {
+              "id": "9b57c578-a6ca-46f1-b173-60e60d80a9a2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3UgtUPU\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19001ca0-3c87-448f-b019-aa609838bae4",
+      "type": "divider"
+    }
+  ]
+}

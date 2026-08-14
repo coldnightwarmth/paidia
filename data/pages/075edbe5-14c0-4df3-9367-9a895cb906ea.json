@@ -1,0 +1,178 @@
+{
+  "id": "075edbe5-14c0-4df3-9367-9a895cb906ea",
+  "slug": "finding-work",
+  "title": "Finding work",
+  "icon": "🔍",
+  "cover": "",
+  "type": "page",
+  "parentId": "d02701b6-e3a0-42cc-aba7-e48629f57331",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/075edbe514c04df393679a895cb906ea",
+  "createdTime": 1664380732674,
+  "lastEditedTime": 1767526221778,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Finding work"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "cee6f167-1f05-4b6e-8eb4-3bdb29769caa",
+      "type": "header",
+      "html": "Javiera’s job application manager",
+      "anchorId": "javiera-s-job-application-manager"
+    },
+    {
+      "id": "576cac83-5213-47fb-974e-886558661f20",
+      "type": "callout",
+      "html": "Javiera has made a wonderful tool to keep track of your job opportunities.<br>Click the link and follow the instructions to duplicate and use it! 👇🏽",
+      "icon": "💖",
+      "children": []
+    },
+    {
+      "id": "98d859ca-6756-4e9a-b51f-2d5f71718cd7",
+      "type": "alias_link",
+      "targetId": "fce54068-54f0-475a-a21d-5fcd9fa5e668",
+      "title": "Linked page"
+    },
+    {
+      "id": "3291c280-4faf-4aec-b900-a67b5675564a",
+      "type": "header",
+      "html": "Into Game’s resource library",
+      "anchorId": "into-game-s-resource-library"
+    },
+    {
+      "id": "1c600403-3b97-4d99-a236-8d0b92e6d57c",
+      "type": "callout",
+      "html": "Into Games have an extensive library of career advice to help you find work and skill up. Extremely comprehensive and a great place to start!",
+      "icon": "📚",
+      "children": []
+    },
+    {
+      "id": "c4308ee3-9878-453d-9114-4af20ac40d5c",
+      "type": "bookmark",
+      "src": "",
+      "title": "Games Careers Resource Library"
+    },
+    {
+      "id": "7e18122e-4e90-40e7-9726-5a52a774bbc4",
+      "type": "header",
+      "html": "Salary benchmarks",
+      "anchorId": "salary-benchmarks"
+    },
+    {
+      "id": "bf21bb35-302e-469b-a2ac-77d15b35b65a",
+      "type": "callout",
+      "html": "Skillsearch’s 2025 salary and satisfaction survey results. <strong>UK and Europe</strong> focused.",
+      "icon": "💸",
+      "children": []
+    },
+    {
+      "id": "2deffc44-aabb-8036-8471-db857737df96",
+      "type": "file",
+      "kind": "pdf",
+      "src": "https://www.skillsearch.com/assets/reports/202425_games_and_interactive_salary_and_satisfaction_survey_report.pdf",
+      "title": "https://www.skillsearch.com/assets/reports/202425_games_and_interactive_salary_and_satisfaction_survey_report.pdf",
+      "size": ""
+    },
+    {
+      "id": "2deffc44-aabb-8078-991e-e811ea33e885",
+      "type": "callout",
+      "html": "An anonymous database of everyone’s salaries in the <strong>UK &amp; Irish games industry in</strong> 2022.",
+      "icon": "💸",
+      "children": []
+    },
+    {
+      "id": "1f39ebbf-78bd-46c8-b9e9-c5ed373e8392",
+      "type": "bookmark",
+      "src": "",
+      "title": "UK & Ireland Game Industry Salary Spreadsheet (Public)"
+    },
+    {
+      "id": "c97bb90a-b0f6-47d8-9f2c-99870d4a1c6b",
+      "type": "callout",
+      "html": "An anonymous database of the <strong>Global games industry</strong>’s salaries. USA and Europe heavy.",
+      "icon": "💸",
+      "children": []
+    },
+    {
+      "id": "ddb93bf2-9140-4845-afa9-12ed708a38c1",
+      "type": "bookmark",
+      "src": "",
+      "title": "Global GameDev Salaries 2021-2022 (Anonymous)"
+    },
+    {
+      "id": "fce0eb6c-b8ea-4d1c-85bb-c99c012acab3",
+      "type": "header",
+      "html": "Job boards",
+      "anchorId": "job-boards"
+    },
+    {
+      "id": "f7529881-35ab-4de9-b05e-97d913a5fdf3",
+      "type": "bookmark",
+      "src": "",
+      "title": "Work With Indies - Make Games, Together."
+    },
+    {
+      "id": "1e4d577c-06ec-44aa-a7da-f663a3e01a2f",
+      "type": "bookmark",
+      "src": "",
+      "title": "Remote Game Jobs"
+    },
+    {
+      "id": "fe2e0706-0fee-4989-aa98-1c440f153cf8",
+      "type": "bookmark",
+      "src": "",
+      "title": "Game Developer Jobs - Find your next job in game development"
+    },
+    {
+      "id": "e5bdb2ec-0a5d-4aea-88a8-0a6ea8a23782",
+      "type": "bookmark",
+      "src": "",
+      "title": "Video Game Jobs | GamesIndustry.biz"
+    },
+    {
+      "id": "2be3ee12-0a31-4e27-8297-fb89cc8e2512",
+      "type": "bookmark",
+      "src": "",
+      "title": "All Game Developer Jobs"
+    },
+    {
+      "id": "4661ba7f-6aae-4e7e-86a8-46af09265a9d",
+      "type": "bookmark",
+      "src": "",
+      "title": "GamesJobsDirect |"
+    },
+    {
+      "id": "55a43eb1-c750-40fe-b026-ae02cbf8f801",
+      "type": "bookmark",
+      "src": "",
+      "title": "Job Listings - Grackle HQ"
+    },
+    {
+      "id": "c46aaa6f-fd7b-4b02-8099-a634bf92a341",
+      "type": "bookmark",
+      "src": "",
+      "title": "Video Game Industry Job News - GameJobHunter"
+    },
+    {
+      "id": "d4961fe9-3f8f-4522-bd49-d1888e1fdf3f",
+      "type": "bookmark",
+      "src": "",
+      "title": ""
+    },
+    {
+      "id": "7e618c6b-78f4-424b-99cc-40a9f4b5ae7a",
+      "type": "bookmark",
+      "src": "",
+      "title": "Game Developer Jobs - GameJobs.co"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "c6ef559f-f4fc-489d-8e35-76e5c874dbff",
+  "slug": "free-play-c6ef559f",
+  "title": "Free Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Free-Play-c6ef559ff4fc489d8e3576e5c874dbff?pvs=21",
+  "createdTime": 1651688836069,
+  "lastEditedTime": 1681314222145,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Free Play"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/a1xwrugfyl-0e88c7c49b1d.webp",
+  "blocks": [
+    {
+      "id": "e02f91f9-4318-4c2d-b721-e48c0f6a846d",
+      "type": "divider"
+    },
+    {
+      "id": "6a9eaed2-fdae-4d2b-bc46-8c65416e145e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e7c18f8d-7457-4215-acaa-7e346ffde704",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6c05af70-ce67-41d2-b340-81e9f002dc71",
+          "type": "column",
+          "children": [
+            {
+              "id": "db011751-1fc1-4bf2-b1bb-e52f05e87af8",
+              "type": "paragraph",
+              "html": "<em><strong>Free Play: Improvisation in Life &amp; Art</strong></em> was written by Stephen Nachmanovitch, published by G.P. Putnam's Sons, May 1, 1991."
+            },
+            {
+              "id": "c3169357-585c-4e99-bd9d-2067ffd9d173",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e1ca3d30-8736-486d-8b14-677647a97030",
+              "type": "quote",
+              "html": "Free Play<em><strong> </strong></em><em>is about the inner sources of spontaneous creation. It is about where art in the widest sense comes from. It is about why we create and what we learn when we do. It is about the flow of unhindered creative energy: the joy of making art in all its varied forms.<br><br></em>Free Play<em> is directed toward people in any field who want to contact, honor, and strengthen their own creative powers. It integrates material from a wide variety of sources among the arts, sciences, and spiritual traditions of humanity. Filled with unusual quotes, amusing and illuminating anecdotes, and original metaphors, it reveals how inspiration arises within us, how that inspiration may be blocked, derailed or obscured by certain unavoidable facts of life, and how finally it can be liberated - how we can be liberated - to speak or sing, write or paint, dance or play, with our own authentic voice.<br><br>The whole enterprise of improvisation in life and art, of recovering free play and awakening creativity, is about being true to ourselves and our visions. It brings us into direct, active contact with boundless creative energies that we may not even know we had.</em>"
+            },
+            {
+              "id": "cdf9a87e-de40-47b9-9343-db847f215ed8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bc2f3c84-8f45-4cb2-8ff7-01210db043a6",
+          "type": "column",
+          "children": [
+            {
+              "id": "e6993e0e-6a52-49c7-84d5-31f0692cd089",
+              "type": "image",
+              "src": "./assets/images/a1xwrugfyl-0e88c7c49b1d.webp",
+              "caption": "",
+              "alt": "A1xWRuG+fyL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93c61c1b-8a37-4fb6-bd3c-dddff207c2c3",
+      "type": "divider"
+    },
+    {
+      "id": "e949cd70-9ca3-4b71-8e8b-24f47dfd5367",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e49270d0-2cff-4421-aabd-d53dffb1f0da",
+          "type": "column",
+          "children": [
+            {
+              "id": "0cc000ca-b704-41ab-9856-fb171824cea8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "60b62700-45ab-40c2-90e5-a98f801fba5d",
+          "type": "column",
+          "children": [
+            {
+              "id": "ce632a5b-bab3-472c-a458-7d020bd33703",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39NmS3W\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7fc048ed-7c11-48e3-b29d-3056d837ab68",
+      "type": "divider"
+    }
+  ]
+}

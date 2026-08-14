@@ -1,0 +1,148 @@
+{
+  "id": "ba763cb7-86f7-4545-85bb-e336b2bca419",
+  "slug": "bullet-hell",
+  "title": "Bullet Hell",
+  "icon": "./assets/images/gear-gray-0ec377f45914.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8acea97e-937c-40f2-a734-00fed885b1bc",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/ba763cb786f7454585bbe336b2bca419",
+  "createdTime": 1652714673176,
+  "lastEditedTime": 1681311338091,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Concept"
+      ]
+    ],
+    "title": [
+      [
+        "Bullet Hell"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7a8f577fbd60.webp",
+  "blocks": [
+    {
+      "id": "e145c9d1-d3f1-4d33-8684-64c9ca0a21df",
+      "type": "divider"
+    },
+    {
+      "id": "f523192e-e1a4-44b4-9e46-27d5c36ca05d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e0809e6a-170f-48d9-918b-73744f95ac62",
+      "type": "paragraph",
+      "html": "<strong>Bullet hell</strong>, also known as &quot;<strong>danmaku</strong>&quot; (Japanese for &quot;barrage&quot; or &quot;curtain fire&quot;), is an <a href=\"#/arcade\">arcade</a> <a href=\"#/genre\">subgenre</a> of <a href=\"#/shooter\">shoot 'em up</a> video games characterized by an overwhelming number of projectiles or &quot;bullets&quot; on screen. These games require players to navigate their <a href=\"#/avatar\">avatar</a> through intricate <a href=\"#/pattern\">patterns</a> of enemy fire, demanding a high level of spatial awareness, reflexes, and <a href=\"#/strategy\">strategic</a> play. Bullet hell games are often considered a test of <a href=\"#/skill\">skill</a> and endurance, offering a unique and <a href=\"#/ilinx\">exhilarating</a> play experience for those who enjoy fast-paced <a href=\"#/action\">action</a> and intense <a href=\"#/difficulty\">challenges</a>."
+    },
+    {
+      "id": "6800cb5c-f5e4-4e56-a8c7-56645abfe22b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6e5fc085-5680-48d5-ad54-bab0599201b5",
+          "type": "column",
+          "children": [
+            {
+              "id": "d01327ee-71fe-4f6d-bd55-dce97c985c7d",
+              "type": "image",
+              "src": "./assets/images/untitled-7a8f577fbd60.webp",
+              "caption": "a rendering <a href=\"#/glitch\">glitch</a> in <em>Mushihimesama</em> for Steam, emphasizing the already dense bullet patterns",
+              "alt": "Untitled"
+            },
+            {
+              "id": "0467154e-fc47-491c-8cc6-a3a562cfd5cc",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8d41896f-4edb-4789-85dd-fe2bf4e79b71",
+          "type": "column",
+          "children": [
+            {
+              "id": "cf6eb93e-bad1-4e50-b1f9-e8bc3021f837",
+              "type": "paragraph",
+              "html": "In bullet hell games, players are not only challenged by the sheer volume of projectiles but also by the complexity of their patterns and behaviors. This creates a dynamic and engaging play environment where players must constantly adapt to new situations and think critically about their <a href=\"#/the-primacy-of-movement\">movements</a>. The aesthetic qualities of bullet hell games, with their colorful and mesmerizing projectile patterns, contribute to a sense of playful immersion in a <a href=\"#/chaos\">chaotic</a> and thrilling world. Mastery of bullet hell <a href=\"#/gameplay\">gameplay</a> often becomes a source of pride and accomplishment, as players share their successes and strategies on global score leaderboards and post “1 credit clears” wherein they beat the game without using any continues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53cda8ba-e92a-43e2-8d2a-bb479f4b7039",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b0d1bb89-43b1-4f0a-a36f-8fd9aafab2f9",
+      "type": "divider"
+    },
+    {
+      "id": "806a1782-c4ee-4893-8bd6-8d6626cf1d3a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4fa647f4-ca6a-40c3-8f6b-ada6a10083f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "540df681-cc03-4756-8224-3f5174544388",
+              "type": "paragraph",
+              "html": "<em>related reading:</em>"
+            },
+            {
+              "id": "7dfa03da-bcf5-46a7-a3b6-c26a27d3c693",
+              "type": "paragraph",
+              "html": "<a href=\"#/bullet-hell-the-globalized-growth-of-danmaku\">Bullet Hell - The Globalized Growth of Danmaku</a> (<em>article</em>)"
+            }
+          ]
+        },
+        {
+          "id": "ee30fa98-c038-4862-8cb1-d53ed75b9455",
+          "type": "column",
+          "children": [
+            {
+              "id": "97088683-0d53-4a9f-863b-927d1c7138cb",
+              "type": "paragraph",
+              "html": "<em>see also:</em>"
+            },
+            {
+              "id": "9d459c91-fec6-4bf0-9a28-945d0b589ec1",
+              "type": "paragraph",
+              "html": "<a href=\"#/gameplay-density\">Gameplay Density</a> (<em><em><em><em><em><em><em>concept</em></em></em></em></em></em></em>)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14863e3a-ec19-427b-9ca5-62924ef94ee2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5d38ea83-6d09-4c09-9920-474322ce8e39",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1746ad01-8959-4e62-8a2e-d8a8aa69d3f5",
+      "type": "paragraph",
+      "html": "<a href=\"#/concept-wall\"><u>☜Concept Wall</u></a>"
+    },
+    {
+      "id": "08c86fff-a847-4444-b3b3-de08881302e8",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

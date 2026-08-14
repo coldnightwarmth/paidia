@@ -1,0 +1,113 @@
+{
+  "id": "6f883d7b-d116-4d56-9eca-c7759b1519ed",
+  "slug": "all-toy-video-essays",
+  "title": "all toy video essays…",
+  "icon": "",
+  "cover": "",
+  "type": "page",
+  "parentId": "fdbbd34a-ba8a-47e3-8173-30cea2938957",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/6f883d7bd1164d569ecac7759b1519ed",
+  "createdTime": 1681321900998,
+  "lastEditedTime": 1704858976120,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "all toy video essays…"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "41bb4319-9884-40e1-a073-3f5e8dc78c14",
+      "type": "columns",
+      "children": [
+        {
+          "id": "213894a1-3ef2-4903-8128-c7335b1919ef",
+          "type": "column",
+          "children": [
+            {
+              "id": "2fe0163a-13f6-4ff4-aa94-f4b72b59184e",
+              "type": "callout",
+              "html": "<strong>The Forgotten Story of Modulex: LEGO's Lost Cousin</strong>",
+              "icon": "🧱",
+              "children": [
+                {
+                  "id": "1ad6d62f-755f-4d74-b717-91ccef7cf7fb",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/@peterdibble\" target=\"_blank\" rel=\"noreferrer\">Peter Dibble</a></strong>"
+                },
+                {
+                  "id": "4ca4a923-a20d-4779-80d5-cd747dba7219",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/x7O-gL3WzSk?rel=0",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1ed9bc31-57da-44ee-ab3d-ffebcf1dfee1",
+          "type": "column",
+          "children": [
+            {
+              "id": "8dc800be-68ae-4e82-9d77-373d4a90f66a",
+              "type": "callout",
+              "html": "<strong>The Joy of GUNPLA: Meditation for Otaku</strong>",
+              "icon": "🤖",
+              "children": [
+                {
+                  "id": "cd9a0c39-7eab-4d08-9c35-e83b47cb561c",
+                  "type": "paragraph",
+                  "html": "by <strong><a href=\"https://www.youtube.com/@MichaelSaba\" target=\"_blank\" rel=\"noreferrer\">Michael Saba</a></strong>"
+                },
+                {
+                  "id": "27803f4b-cd2f-4263-8ab7-b297d056dc97",
+                  "type": "video",
+                  "src": "https://www.youtube.com/embed/B6D1EcW-G60?rel=0&start=4",
+                  "caption": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce31050f-27cf-4739-ab3d-9438a3f1dc37",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "28a79e32-81a0-449e-8bb0-2e3a21585d53",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0adf87e0-0644-4f91-ad68-75f95d9bb063",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "741228fa-764f-4065-b7ab-464f3d23b4e8",
+      "type": "paragraph",
+      "html": "<a href=\"#/video-essays-and-lectures\"><u>☜back</u></a>"
+    },
+    {
+      "id": "cb7508cb-9187-418e-a7e1-122baaab4d6d",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

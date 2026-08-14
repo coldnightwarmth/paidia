@@ -1,0 +1,126 @@
+{
+  "id": "773e998d-4f42-48ea-8655-e68988eeed95",
+  "slug": "cyberhenge",
+  "title": "Cyberhenge",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Cyberhenge-773e998d4f4248ea8655e68988eeed95?pvs=21",
+  "createdTime": 1664470493745,
+  "lastEditedTime": 1681312943390,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Cyberhenge",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/9780415969116-9360c0c60d1c.webp",
+  "blocks": [
+    {
+      "id": "5ed62054-9dbe-4532-9eac-1eda94dba11b",
+      "type": "divider"
+    },
+    {
+      "id": "a11c1a02-7443-4498-9684-e5a279772bdf",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3fe59ddf-5ad1-467e-8f44-96e2e7ede17e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "da804151-6730-4dcc-b10e-8a3784a362ca",
+          "type": "column",
+          "children": [
+            {
+              "id": "45b73636-4b88-4ff1-8826-78f7a4416d77",
+              "type": "paragraph",
+              "html": "<em><strong>Cyberhenge: Modern Pagans on the Internet</strong></em> was written by Douglas E. Cowan, published by Routledge, November 7, 2004."
+            },
+            {
+              "id": "c4239a10-09e5-4a6e-b590-7d89dd6c8d89",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b04f9803-fddc-4b46-9d03-376eca051194",
+              "type": "quote",
+              "html": "Cyberhenge<em> examines the use of Internet technology in shaping religious traditions and rituals. Cowan asks how and why Neopaganism has embraced the Internet in such an innovative and imaginative way.</em>"
+            }
+          ]
+        },
+        {
+          "id": "fcd7bd05-7fdf-47e7-a443-50e64adb5c05",
+          "type": "column",
+          "children": [
+            {
+              "id": "5f441a4b-06ea-4e72-ba9a-acfdbfad7763",
+              "type": "image",
+              "src": "./assets/images/9780415969116-9360c0c60d1c.webp",
+              "caption": "",
+              "alt": "9780415969116.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "532c8c2c-e99a-433b-b80a-c2845687c7b3",
+      "type": "divider"
+    },
+    {
+      "id": "e0f74515-7d03-4d68-add6-95a6a5873652",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e7455148-7a10-4c52-9de8-21d6ceb6b40b",
+          "type": "column",
+          "children": [
+            {
+              "id": "df4a4593-0868-436b-9803-c36032673d5e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "20e5682d-6abe-47b1-b26d-6a71aa51310a",
+          "type": "column",
+          "children": [
+            {
+              "id": "6fd24a17-f244-4795-b1cb-6cb485327871",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3RpbJGa\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22c55e10-9472-4fc0-89f7-03076b187da5",
+      "type": "divider"
+    }
+  ]
+}

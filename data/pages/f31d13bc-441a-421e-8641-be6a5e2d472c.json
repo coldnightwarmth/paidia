@@ -1,0 +1,142 @@
+{
+  "id": "f31d13bc-441a-421e-8641-be6a5e2d472c",
+  "slug": "complete-works-of-plato",
+  "title": "Complete Works of Plato",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/f31d13bc441a421e8641be6a5e2d472c",
+  "createdTime": 1651959819689,
+  "lastEditedTime": 1681314134742,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Complete Works of Plato"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81rilzuyqxl-b447c1bda90b.webp",
+  "blocks": [
+    {
+      "id": "3e182f29-7cdf-42ec-a413-a86257fe317e",
+      "type": "divider"
+    },
+    {
+      "id": "40abe768-1fac-4411-8908-ecdc9d77adb8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "49bca1b1-c748-4c71-9e4b-93eb852c18b5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c1511463-efeb-418a-aa83-8e805c397346",
+          "type": "column",
+          "children": [
+            {
+              "id": "0e738bfc-ad93-4a96-9b2b-7c2e998b7d90",
+              "type": "paragraph",
+              "html": "The works of Plato were written by <a href=\"#/plato\">Plato</a> during his life between 427-347 B.C."
+            },
+            {
+              "id": "57b9ca6e-63e1-49f8-b770-a7771b330164",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "13e538fb-e3fc-4ecc-bc18-53c0d9a857ee",
+              "type": "paragraph",
+              "html": "<em>full list of works here:</em>"
+            },
+            {
+              "id": "1745f5e7-4e97-4489-be6a-2f6544614933",
+              "type": "bookmark",
+              "src": "",
+              "title": "Plato - Bibliography - PhilPapers"
+            }
+          ]
+        },
+        {
+          "id": "b2804106-9002-4be5-bb02-34d1225b6996",
+          "type": "column",
+          "children": [
+            {
+              "id": "b8a8de78-3692-415e-9058-6efc8335fb38",
+              "type": "image",
+              "src": "./assets/images/81rilzuyqxl-b447c1bda90b.webp",
+              "caption": "",
+              "alt": "81rIlZuyqXL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "506ea725-991f-4f76-83c8-ff4d21cfc03e",
+      "type": "divider"
+    },
+    {
+      "id": "58e3c09b-efcb-4ca2-8db6-dbe4d9b9a340",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d0961165-336b-47e7-b60b-cae78873b5cf",
+          "type": "column",
+          "children": [
+            {
+              "id": "f54e7e01-e7ec-41cf-b018-6e9d0cf4b699",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f3df8336-7b1a-4817-8c99-a08d1a5ab4e4",
+          "type": "column",
+          "children": [
+            {
+              "id": "b0f14ebf-711b-4b0a-acc7-423cd80dfe0f",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Plato-Complete-Works/dp/0872203492/ref=sr_1_1?crid=1TLE95F9CLPAX&amp;keywords=complete+works+of+plato&amp;qid=1662566572&amp;sprefix=complete+works+of+plato%2Caps%2C102&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1869c70-1691-4e84-9cef-8aa05079dadf",
+      "type": "divider"
+    },
+    {
+      "id": "b2419665-c593-442e-99bc-be192b30ab19",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "3425e24b-f18d-494b-80f3-7fdf679bdde4",
+      "type": "paragraph",
+      "html": "<a href=\"#/plato-s-dialectic-at-play\">Plato’s Dialectic at Play</a> (<em>book</em>)"
+    },
+    {
+      "id": "a2435033-c802-40b5-a687-733b559c53f8",
+      "type": "paragraph",
+      "html": "<a href=\"/5bb7fe9ddd0a40e39673ddef36f64484\" target=\"_blank\" rel=\"noreferrer\">The Role of Play in the Philosophy of Plato</a> (<em>article</em>)"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "aa5656ac-a0d3-4a9a-b262-e40000b5ad6e",
+  "slug": "antiques-of-american-childhood",
+  "title": "Antiques of American Childhood",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Antiques-of-American-Childhood-aa5656aca0d34a9ab262e40000b5ad6e?pvs=21",
+  "createdTime": 1669916657142,
+  "lastEditedTime": 1681310889004,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Antiques of American Childhood",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2d6d5667aec3.webp",
+  "blocks": [
+    {
+      "id": "bb0a0f53-92af-4178-8609-f98c550e9242",
+      "type": "divider"
+    },
+    {
+      "id": "8128e712-6b74-4783-b2ac-42d929c470d7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ee5c39e4-993c-423b-8f12-e4655e39da03",
+      "type": "columns",
+      "children": [
+        {
+          "id": "aafebe9e-c8e4-4474-b1d8-326605806205",
+          "type": "column",
+          "children": [
+            {
+              "id": "d866c3fb-758d-429e-89c3-3a8fb7b66b8a",
+              "type": "paragraph",
+              "html": "<em><strong>Antiques of American Childhood</strong></em> was written by Katharine Morrison McClinton, published by Bramhall House, January 1, 1970."
+            },
+            {
+              "id": "dfc22494-67c1-4376-be1b-116efcc3fc1e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "81faf681-3586-40da-bb58-989318000eb5",
+          "type": "column",
+          "children": [
+            {
+              "id": "dba14dc6-05ea-4c48-8fc7-596f55bc080c",
+              "type": "image",
+              "src": "./assets/images/untitled-2d6d5667aec3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1ae5f1c-03d7-4034-8d48-b1dc8ee1134c",
+      "type": "divider"
+    },
+    {
+      "id": "1785b648-e064-49e4-8bf3-95dd6f0bdd9c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0cd4cf02-1210-4c52-b8f9-a2f8d72bb44e",
+          "type": "column",
+          "children": [
+            {
+              "id": "b03296dc-f7ba-435d-999d-5e8639dc11fb",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d3158d12-d39b-4cf2-b29c-077f457220b8",
+          "type": "column",
+          "children": [
+            {
+              "id": "5e901d1b-a46c-48fd-bf89-364997052bdc",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Antiques-American-childhood-Katharine-McClinton/dp/B0006CZ8D6/ref=sr_1_1?crid=PUSO1SUFE0N2&amp;keywords=McClinton%2C+Katharine+Morrison.+Antiques+of+American+Childhood&amp;qid=1666387035&amp;qu=eyJxc2MiOiIxLjM4IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=mcclinton%2C+katharine+morrison.+antiques+of+american+childhood%2Cstripbooks%2C94&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1a86198-560b-4c7d-85f7-bcd56c7d3ed0",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "aae30a10-37fc-46b8-9e9e-d697d55c7463",
+  "slug": "sailing-alone-around-the-world",
+  "title": "Sailing Alone Around the World",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Sailing-Alone-Around-the-World-aae30a1037fc46b89e9ed697d55c7463?pvs=21",
+  "createdTime": 1668713702698,
+  "lastEditedTime": 1681312456150,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Sailing Alone Around the World",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-aef75affb8ba.webp",
+  "blocks": [
+    {
+      "id": "f5bb87b5-1fba-4585-a680-053dbcac62f0",
+      "type": "divider"
+    },
+    {
+      "id": "13ca475a-e5ab-46e6-b9d6-8e85b8838513",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4c0807bf-9f71-4f82-a71a-3a50c69b226c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d3e7d838-01f7-4b63-bb20-52e4f39c6786",
+          "type": "column",
+          "children": [
+            {
+              "id": "8179efb6-9fdd-4bf2-8989-6170f2e909f9",
+              "type": "paragraph",
+              "html": "<em><strong>Sailing Alone Around the World </strong></em>was written by Joshua Slocum, originally published by The Century Company in 1900."
+            },
+            {
+              "id": "43f25065-5462-4973-8255-e31f3a881ca0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "dcedc627-5119-455a-baa9-6ec3766d51f1",
+              "type": "quote",
+              "html": "Sailing Alone Around the World<em> is a sailing memoir by Joshua Slocum in 1900 about his single-handed global circumnavigation aboard the sloop Spray. Slocum was the first person to sail around the world alone. The book was an immediate success and highly influential in inspiring later travelers. Slocum rebuilt and refitted the derelict sloop Spray in a seaside pasture at Fairhaven, Massachusetts. Between 24 April 1895 and 27 June 1898, he crossed the Atlantic twice (to Gibraltar and back to South America), negotiated the Strait of Magellan, and crossed the Pacific. He also visited Australia and South Africa before crossing the Atlantic (for the third time) to return to Massachusetts after a journey of 46,000 miles.</em>"
+            },
+            {
+              "id": "75f30a1c-e74c-4c6f-b756-840cb6e8df4b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "31824f93-65fc-49fa-a8d6-f5d70bbc597a",
+          "type": "column",
+          "children": [
+            {
+              "id": "50e20533-af81-45fe-9d1c-745a9a152066",
+              "type": "image",
+              "src": "./assets/images/untitled-aef75affb8ba.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a8f0f574-9cc6-4899-9de3-73f80e373c25",
+      "type": "divider"
+    },
+    {
+      "id": "49df2b77-4df4-4f59-ad04-3c9d77103177",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b0bfdbba-c910-4f26-be8d-5fa715fd19c8",
+          "type": "column",
+          "children": [
+            {
+              "id": "f32da57b-ab73-4dac-a0fe-43dc99d27058",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e4c092c7-989d-4ccc-a0af-6ffe743ef5f6",
+          "type": "column",
+          "children": [
+            {
+              "id": "580d1ca2-30d8-42a4-bd3e-74f9e8a15931",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Sailing-Alone-Around-Joshua-Slocum/dp/B09GJPG75G/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ad85783-bbe9-4b3e-be01-b6da40ddd35f",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "0d8beaf3-7354-423c-94b5-2ba58a9a7eaa",
+  "slug": "beyond-choices",
+  "title": "Beyond Choices",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/0d8beaf37354423c94b52ba58a9a7eaa",
+  "createdTime": 1654846985458,
+  "lastEditedTime": 1681311171095,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Beyond Choices",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-89c228d68827.webp",
+  "blocks": [
+    {
+      "id": "fa122d40-669f-4bbc-8efa-3737e2717376",
+      "type": "divider"
+    },
+    {
+      "id": "5fe1b2a2-2107-474a-ae9b-6d717734ff51",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "acc78fcc-7035-4318-a5d5-c0182b158c61",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0e337e04-ad7a-420f-b6bc-4c23c1d691f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "6df5a4ce-4209-4512-9532-a6a9f21c0e6e",
+              "type": "paragraph",
+              "html": "<em><strong>Beyond Choices: The Design of Ethical Gameplay</strong></em><strong> </strong>was written by <a href=\"#/miguel-sicart\">Miguel Sicart</a>, published by The MIT Press, September 6, 2013."
+            },
+            {
+              "id": "0cbbe30e-671f-4a82-9919-52e44d5ffe0c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "282350a6-d04a-426d-b390-abfa52a2fd45",
+              "type": "quote",
+              "html": "<em><strong>How computer games can be designed to create ethically relevant experiences for players.<br><br></strong></em><em>Today's blockbuster video games—and their never-ending sequels, sagas, and reboots—provide plenty of excitement in high-resolution but for the most part fail to engage a player's moral imagination. In </em>Beyond Choices<em>, Miguel Sicart calls for a new generation of video and computer games that are ethically relevant by design. In the 1970s, mainstream films—including </em>The Godfather, Apocalypse Now, Raging Bull, and Taxi Driver<em>—filled theaters but also treated their audiences as thinking beings. Why can't mainstream video games have the same moral and aesthetic impact? Sicart argues that it is time for games to claim their place in the cultural landscape as vehicles for ethical reflection.<br><br>Sicart looks at games in many manifestations: toys, analog games, computer and video games, interactive fictions, commercial entertainments, and independent releases. Drawing on philosophy, design theory, literary studies, aesthetics, and interviews with game developers, Sicart provides a systematic account of how games can be designed to challenge and enrich our moral lives. After discussing such topics as definition of ethical gameplay and the structure of the game as a designed object, Sicart offers a theory of the design of ethical game play. He also analyzes the ethical aspects of game play in a number of current games, including </em><a href=\"#/spec-ops-the-line\">Spec Ops: The Line</a>, <a href=\"/3dacf17a9ed24fe79bb7535fddbd01af\" target=\"_blank\" rel=\"noreferrer\">Beautiful Escape: Dungeoneer</a>, <a href=\"#/grand-theft-auto\">Fallout New Vegas</a><em>, and Anna Anthropy's </em><a href=\"#/call-of-duty\">Dys4Ia</a><em>. Games are designed to evoke specific emotions; games that engage players ethically, Sicart argues, enable us to explore and express our values through play.</em>"
+            },
+            {
+              "id": "80c10529-30d9-4977-bbb8-d7b9989ba942",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ee0f1ed8-68ec-436d-9b7b-b346d2d98e26",
+          "type": "column",
+          "children": [
+            {
+              "id": "776aa9d9-e45e-44a6-8f77-57b33f36fba0",
+              "type": "image",
+              "src": "./assets/images/untitled-89c228d68827.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1324c85f-716d-4906-b3a6-17870e6046c4",
+      "type": "divider"
+    },
+    {
+      "id": "fd1f4afb-2b38-485e-a329-ee3cf9d3806c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f097b64b-5fc5-4145-a7ee-4656238553db",
+          "type": "column",
+          "children": [
+            {
+              "id": "b1a795ef-eadc-440a-b350-29ab910ab831",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c2148cc6-3b8f-4ebe-a42d-d388d8c2c12e",
+          "type": "column",
+          "children": [
+            {
+              "id": "4bd721b0-3ab9-4883-b770-9239a5dcebd0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xhwQ5b\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d0bfab9a-f6b9-4f59-94a5-8af5ab77d88e",
+      "type": "divider"
+    },
+    {
+      "id": "119b1fe0-213a-4cce-bed4-4dca4698128f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5ef685b9-68b2-4fc9-9da7-7105a16c146d",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "19025b99-2752-44fd-8a18-203a21065af1",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

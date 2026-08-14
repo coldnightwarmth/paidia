@@ -1,0 +1,48 @@
+{
+  "id": "5cbc0122-8074-4ef2-a79f-591e4346311c",
+  "slug": "world-record-progression-sonic-adventure-2-battle",
+  "title": "World Record Progression: Sonic Adventure 2 Battle",
+  "icon": "./assets/images/playback-play-gray-3ec25554f6f9.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2612beb-b405-4ce9-b1d2-fbb76e3486b9",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/5cbc012280744ef2a79f591e4346311c",
+  "createdTime": 1653447195848,
+  "lastEditedTime": 1677090728688,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "World Record Progression: Sonic Adventure 2 Battle",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "2e9277a5-29dd-4040-b4c8-1a3d71237a96",
+      "type": "paragraph",
+      "html": "by <strong><a href=\"https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w\" target=\"_blank\" rel=\"noreferrer\">Summoning Salt</a></strong>"
+    },
+    {
+      "id": "608721ee-2d66-42fa-a66e-0fc2feffaa5e",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/vfFbui-9du8?feature=oembed",
+      "caption": ""
+    },
+    {
+      "id": "7ab89f82-2323-4ee3-a002-6d48ea4aa807",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

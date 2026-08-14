@@ -1,0 +1,131 @@
+{
+  "id": "cdeeb2e0-74cc-41bf-bead-e607169b7577",
+  "slug": "the-collaborative-construction-of-pretend",
+  "title": "The Collaborative Construction of Pretend",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "941cc77c-8e6e-4869-a86c-9aaae44d9333",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Collaborative-Construction-of-Pretend-cdeeb2e074cc41bfbeade607169b7577?pvs=21",
+  "createdTime": 1653073741584,
+  "lastEditedTime": 1681314065804,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Collaborative Construction of Pretend",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-40ed3ea58ff8.webp",
+  "blocks": [
+    {
+      "id": "c6bbd5e1-8b0c-4536-9891-4eca3ea7e69d",
+      "type": "divider"
+    },
+    {
+      "id": "18720633-eccf-4275-b6ed-8d8670536c0f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "abe133dd-6fff-44d9-95ca-657bf212173e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b188cc57-a739-46c2-a0ee-c47cdd2d6d59",
+          "type": "column",
+          "children": [
+            {
+              "id": "759d4cca-72fc-4157-8f4a-d0b5f24e24be",
+              "type": "paragraph",
+              "html": "<em><strong>The Collaborative Construction of Pretend</strong></em> was written by Carollee Howes, published by SUNY Press, February 4, 1992."
+            },
+            {
+              "id": "4ad33be9-59fc-44aa-ab98-9a53f97c20d6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3ef80547-39ee-4df1-8bd4-9912ce0adc00",
+              "type": "quote",
+              "html": "The Collaborative Construction of Pretend<em> explores the origins and development of social pretend play in children. It begins with the infant’s first attempts to play pretend with an adult; discusses the beginnings of toddler pretend with peers; and investigates the fully developed social play of preschool and school age children. The author argues that social pretend play can fulfill several different developmental functions and that these functions change with development. Each of these functions are rooted in the individual development of the child and in the social context. Thus the book looks at developmental progressions not only in the forms of social pretend play but in the meaning of the play to the child.</em>"
+            }
+          ]
+        },
+        {
+          "id": "c2e5aea9-25bb-4b47-bf05-0d6abc88b0cf",
+          "type": "column",
+          "children": [
+            {
+              "id": "3500cd36-feb1-49a0-bc63-6f4c8695d265",
+              "type": "image",
+              "src": "./assets/images/untitled-40ed3ea58ff8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f15edf52-c812-4927-95f4-ea12edf699f2",
+      "type": "divider"
+    },
+    {
+      "id": "08dd6441-c410-4e14-ac74-c56f43f26c99",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d1da70b9-a111-4b0e-bb95-118687806ded",
+          "type": "column",
+          "children": [
+            {
+              "id": "e3161859-b8a4-4bd4-9623-8ae07fbee11f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5a3f6d58-54e5-4de0-9afa-846b91872fef",
+          "type": "column",
+          "children": [
+            {
+              "id": "5fcf8403-6f48-4bbe-8731-c0803e6acc09",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3BHflgM\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42c36cec-e7ce-40f3-b49f-7ddebe2a3c7b",
+      "type": "divider"
+    },
+    {
+      "id": "5bc32993-2aa3-4d6e-a737-d1b66e6f0b6f",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

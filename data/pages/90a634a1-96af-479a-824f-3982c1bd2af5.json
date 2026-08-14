@@ -1,0 +1,146 @@
+{
+  "id": "90a634a1-96af-479a-824f-3982c1bd2af5",
+  "slug": "pervasive-games",
+  "title": "Pervasive Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Pervasive-Games-90a634a196af479a824f3982c1bd2af5?pvs=21",
+  "createdTime": 1657136748637,
+  "lastEditedTime": 1681313341817,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Pervasive Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-57a97add9f37.webp",
+  "blocks": [
+    {
+      "id": "a2602a17-fc26-4e35-b24d-15119fd5c32e",
+      "type": "divider"
+    },
+    {
+      "id": "715cb3de-b4da-47a0-a4f0-bd27e2c1ade2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b6289f52-963b-451e-b4eb-481b4c1dd256",
+      "type": "columns",
+      "children": [
+        {
+          "id": "589da053-6c00-4268-840a-27839150fbb0",
+          "type": "column",
+          "children": [
+            {
+              "id": "d96f7c02-7d60-4cff-be9e-9ce1a8f10427",
+              "type": "paragraph",
+              "html": "<em><strong>Pervasive Games: Theory &amp; Design</strong></em> was written by Markus Montola, Jaakko Stenros, Annika Waern, published by CRC Press, June 12, 2009."
+            },
+            {
+              "id": "bbe13f7e-c726-4c2b-aac1-0c3b121639e8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d96ed9dc-7a41-4b73-a56f-47ef6bba8ebb",
+              "type": "quote",
+              "html": "<em>Quickly emerging from the fast-paced growth of mobile communications and wireless technologies, pervasive games take gaming away from the computer screen and back to the three-dimensional world. Now games can be designed to be played in public spaces like shopping malls, conferences, museums and other non-traditional game venues. Game designers need to understand how to use the world as a gamespace-and both the challenges and advantages of doing so.<br><br>This book shows how to change the face of play-who plays, when and where they play and what that play means to all involved. The authors explore aspects of pervasive games that concern game designers: what makes these games compelling, what makes them possible today and how they are made. For game researchers, it provides a solid theoretical, philosophical and aesthetic understanding of the genre.<br><br></em>Pervasive Games <em>covers everything from theory and design to history and marketing.</em>"
+            },
+            {
+              "id": "3cfb311c-d513-4c29-8c66-6fd874bd9554",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "1fc3c7e1-1233-4e44-8c77-b609bd87b1ca",
+          "type": "column",
+          "children": [
+            {
+              "id": "f9db37a2-4855-4906-996a-e3a9518838ec",
+              "type": "image",
+              "src": "./assets/images/untitled-57a97add9f37.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3af7ffe5-1755-43e2-867e-8a6fb6979dd1",
+      "type": "divider"
+    },
+    {
+      "id": "5017489c-f545-4c91-920b-facb3ca90925",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d5349ce2-6b84-4477-9415-3a73790053d9",
+          "type": "column",
+          "children": [
+            {
+              "id": "3da0ae3d-64f8-4da9-8aaa-b433635b4bf6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0cbfa943-43ed-4450-964a-e895e9b59ee3",
+          "type": "column",
+          "children": [
+            {
+              "id": "50fde8c6-c8c0-4584-b955-1afb894fea27",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3IhYG6g\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91f1540e-1298-4e24-8c7c-d36334de9247",
+      "type": "divider"
+    },
+    {
+      "id": "8b349cfd-06cc-47cc-a6ea-25d0974c9157",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "81fe1d0d-aaa3-4253-bcba-13760a94c5c7",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "dc213336-8ce8-486e-97d4-556af2f16fad",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

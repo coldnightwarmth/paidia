@@ -1,0 +1,131 @@
+{
+  "id": "1addf008-4ec1-4bf2-b5ec-2504ed5543d4",
+  "slug": "reality-media",
+  "title": "Reality Media",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Reality-Media-1addf0084ec14bf2b5ec2504ed5543d4?pvs=21",
+  "createdTime": 1666029202597,
+  "lastEditedTime": 1681312869508,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Reality Media",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e5a601cd0e06.webp",
+  "blocks": [
+    {
+      "id": "e17cede7-d953-4060-ad5a-453f7d6880e6",
+      "type": "divider"
+    },
+    {
+      "id": "b413b87b-70b6-4de6-a16b-9b8da336088e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "25b913af-645e-48cd-95d7-54aff040598e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b0ae1800-9d32-41ca-9101-becb804e33ca",
+          "type": "column",
+          "children": [
+            {
+              "id": "15ce264f-2ed1-422d-9efc-7e169788e598",
+              "type": "paragraph",
+              "html": "<em><strong>Reality Media: Augmented &amp; Virtual Reality</strong></em> was written by Jay David Bolter, Maria Engberg &amp; Blair MacIntyre, published by The MIT Press, November 16, 2021."
+            },
+            {
+              "id": "0971d1eb-3e52-4ed4-8b60-aca5463b6707",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "dc9b5886-8223-4dff-ab3b-7489458a7692",
+              "type": "quote",
+              "html": "<em><strong>How augmented reality and virtual reality are taking their places in contemporary media culture alongside film and television.<br><br></strong></em><em>This book positions augmented reality (AR) and virtual reality (VR) firmly in contemporary media culture. The authors view AR and VR not as the latest hyped technologies but as media—the latest in a series of what they term “reality media,” taking their places alongside film and television. Reality media inserts a layer of media between us and our perception of the world; AR and VR do not replace reality but refashion a reality for us. Each reality medium mediates and remediates; each offers a new representation that we implicitly compare to our experience of the world in itself but also through other media.<br><br>The authors show that as forms of reality media emerge, they not only chart a future path for media culture, but also redefine media past. With AR and VR in mind, then, we can recognize their precursors in eighteenth-century panoramas and the Broadway lights of the 1930s. A digital version of</em> Reality Media<em>, available through the book’s website, invites readers to visit a series of virtual rooms featuring interactivity, 3-D models, videos, images, and texts that explore the themes of the book.</em>"
+            },
+            {
+              "id": "87ce702c-f16c-4a38-8265-8baeaf8f5cd7",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2b843916-1175-4f9c-8a27-913607aa4f43",
+          "type": "column",
+          "children": [
+            {
+              "id": "75b98d5f-603f-477c-a8b0-a0b9919a7604",
+              "type": "image",
+              "src": "./assets/images/untitled-e5a601cd0e06.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "57ba92ac-7188-4feb-b4e7-feb3f57f055b",
+      "type": "divider"
+    },
+    {
+      "id": "76656b88-ef5d-4470-a992-26631a7888ef",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4d5be4a2-73a0-4a89-8e00-de052027347d",
+          "type": "column",
+          "children": [
+            {
+              "id": "5ce63644-209a-415c-b478-75826cd78fd0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c1f57029-5314-4827-95de-48be8ed031d4",
+          "type": "column",
+          "children": [
+            {
+              "id": "603f4b1a-3000-4a03-b0a6-35a70bc5148b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3ezrInN\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fbad0924-a10b-481b-a222-20c8dbff23bf",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "9f9e504f-7ee5-42e7-9f2f-4d4d128030b4",
+  "slug": "what-is-your-quest",
+  "title": "What Is Your Quest?",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/What-Is-Your-Quest-9f9e504f7ee542e79f2f4d4d128030b4?pvs=21",
+  "createdTime": 1651972099490,
+  "lastEditedTime": 1681313880395,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "What Is Your Quest?",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-23d2d50a6adc.webp",
+  "blocks": [
+    {
+      "id": "fd23248c-8bcf-4079-8d90-59aa2c9d6bf0",
+      "type": "divider"
+    },
+    {
+      "id": "288c5a05-c957-4c65-9e0f-be5d036aa622",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bfe3026b-aacf-47a9-84cf-559040f259b7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1bc9c536-e995-42df-a22a-6f325b20faf3",
+          "type": "column",
+          "children": [
+            {
+              "id": "5949d74d-7d8c-427f-9fe5-55e16d9793b2",
+              "type": "paragraph",
+              "html": "<em><strong>What Is Your Quest?: From Adventure Games to Interactive Books</strong></em> was written by Anastasia Salter, published by University Of Iowa Press, November 1, 2014."
+            },
+            {
+              "id": "9c58fa74-7314-499c-87dc-55bd7f370715",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "83d43c66-239e-40dd-926b-5b2a45ae541a",
+              "type": "quote",
+              "html": "What Is Your Quest?<em> examines the future of electronic literature in a world where tablets and e-readers are becoming as common as printed books and where fans are blurring the distinction between reader and author. The construction of new ways of storytelling is already underway: it is happening on the edges of the mainstream gaming industry and in the spaces between media, on the foundations set by classic games. Along these margins, convergent storytelling allows for playful reading and reading becomes a strategy of play.<br><br>One of the earliest models for this new way of telling stories was the adventure game, the kind of game centered on quests in which the characters must overcome obstacles and puzzles. After they fell out of fashion in the 1990s, fans made strenuous efforts to keep them alive and to create new games in the genre. Such activities highlight both the convergence of game and story and the collapsing distinction between reader and author. Continually defying the forces of obsolescence, fans return abandoned games to a playable state and treat stories as ever-evolving narratives. Similarly, players of massive multiplayer games become co-creators of the game experience, building characters and creating social networks that recombine a reading and gaming community.<br><br>The interactions between storytellers and readers, between programmers and creators, and among  fans turned world-builders are essential to the development of innovative ways of telling stories. And at the same time that fan activities foster the convergence of digital gaming and storytelling, new and increasingly accessible tools and models for interactive narrative empower a broadening range of storytellers. It is precisely this interactivity among a range of users surrounding these new platforms that is radically reshaping both e-books and games and those who read and play with them.</em>"
+            },
+            {
+              "id": "b4575d32-6efc-4c13-b20f-d8e8f808a3d6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "907e15f0-ecd8-4e18-8071-bf6971296c58",
+          "type": "column",
+          "children": [
+            {
+              "id": "b3e8a11d-6008-4683-8f9f-3fad4e4846d2",
+              "type": "image",
+              "src": "./assets/images/untitled-23d2d50a6adc.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a48df1d-f457-42dc-a3ae-3bb785d60f60",
+      "type": "divider"
+    },
+    {
+      "id": "a47af40a-d090-4fbb-8aad-da73c7536daf",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d97bdffe-7333-463a-b2bb-9b750f4b4143",
+          "type": "column",
+          "children": [
+            {
+              "id": "ab8303a1-bbaf-4d35-96dc-7591a739f8c9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e4f10bf0-33c3-4ea1-a55b-e64927ebc556",
+          "type": "column",
+          "children": [
+            {
+              "id": "d8afbc84-1f63-4f45-ac36-0113ab962f0c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OFRS4x\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c65a067d-e5df-4300-83b1-b01a2a7cc613",
+      "type": "divider"
+    }
+  ]
+}

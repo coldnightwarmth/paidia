@@ -1,0 +1,131 @@
+{
+  "id": "b24ce98a-fa54-4133-bf90-1b7ce82a4886",
+  "slug": "tempest",
+  "title": "Tempest",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "19047757-e48b-472e-b41b-acb5119065f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Tempest-b24ce98afa544133bf901b7ce82a4886?pvs=21",
+  "createdTime": 1651768008039,
+  "lastEditedTime": 1681313949273,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Tempest",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d32653b9d242.webp",
+  "blocks": [
+    {
+      "id": "6fb9c6d4-7a96-4545-bcfe-938b335d7824",
+      "type": "divider"
+    },
+    {
+      "id": "e36364c0-cf30-4c47-a4c0-31af8e8363c8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e20c15e0-fad8-49be-9103-2b9960de34cc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "317b13f7-d7ee-4dd3-a6d9-7a6958cc73af",
+          "type": "column",
+          "children": [
+            {
+              "id": "631faea1-b52f-4461-8ca7-f838909f63a7",
+              "type": "paragraph",
+              "html": "<em><strong>Tempest: Geometries of Play</strong></em> was written by Judd Ethan Ruggill &amp; Ken S. McAllister, published by U OF M DIGT CULT BOOKS, August 27, 2015."
+            },
+            {
+              "id": "f1b6e4e8-8fd7-4128-b840-bdfd6c7df621",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ea654086-de18-426c-b9cd-3c1ef9bc2d5c",
+              "type": "quote",
+              "html": "<em>Atari’s 1981 arcade hit </em>Tempest <em>was a “tube shooter” built around glowing, vector-based geometric shapes. Among its many important contributions to both game and cultural history, </em>Tempest <em>was one of the first commercial titles to allow players to choose the game’s initial play difficulty (a system Atari dubbed “SkillStep”), a feature that has since became standard for games of all types. </em>Tempest <em>was also one of the most aesthetically impactful games of the twentieth century, lending its crisp, vector aesthetic to many subsequent movies, television shows, and video games. In this book, Ruggill and McAllister enumerate and analyze </em>Tempest’<em>s</em> <em>landmark qualities, exploring the game’s aesthetics, development context, and connections to and impact on video game history and culture. By describing the game in technical, historical, and ludic detail, they unpack the game’s latent and manifest audio-visual iconography and the ideological meanings this iconography evokes.</em>"
+            },
+            {
+              "id": "f8cb5cc7-35c5-4b54-9900-7d28d1b5f695",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "6cc16499-d142-4029-8321-1c1f8d7d5bba",
+          "type": "column",
+          "children": [
+            {
+              "id": "fa67b604-3239-4607-937b-c16064d96181",
+              "type": "image",
+              "src": "./assets/images/untitled-d32653b9d242.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f32f49a4-eb5f-4862-b7be-5778036fc300",
+      "type": "divider"
+    },
+    {
+      "id": "15645888-33f7-4537-9c99-608f96c0da65",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d7a72fab-249b-47f7-8b7d-bb7372ae9a11",
+          "type": "column",
+          "children": [
+            {
+              "id": "45ea4e57-c4d1-45b4-9b59-170636d07bc5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ad33419e-e520-406c-bd95-4a9b6a16c539",
+          "type": "column",
+          "children": [
+            {
+              "id": "bb32824d-c4f0-4b80-809b-0d61fb587f0d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3STsHNI\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e10970fe-437b-490d-8e2f-94e20854eec7",
+      "type": "divider"
+    }
+  ]
+}

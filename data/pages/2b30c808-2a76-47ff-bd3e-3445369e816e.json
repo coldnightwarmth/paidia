@@ -1,0 +1,131 @@
+{
+  "id": "2b30c808-2a76-47ff-bd3e-3445369e816e",
+  "slug": "tourism-and-play",
+  "title": "Tourism & Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Tourism-Play-2b30c8082a7647ffbd3e3445369e816e?pvs=21",
+  "createdTime": 1653174597701,
+  "lastEditedTime": 1681314520688,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Tourism & Play"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/173-martin-cover-e348f32f6a4d.webp",
+  "blocks": [
+    {
+      "id": "01d97c00-8469-43a1-991f-12562bb2e55b",
+      "type": "divider"
+    },
+    {
+      "id": "54a6869b-f311-4b4d-808e-8e8d0dde7667",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "aef7e90c-db9a-4bae-8ac0-f5ad51bc1c2a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e305c2d4-6adb-426e-aa15-2552987e8cc9",
+          "type": "column",
+          "children": [
+            {
+              "id": "99ec1758-4045-49f4-b301-c1b9c912d56f",
+              "type": "paragraph",
+              "html": "<em><strong>Tourism &amp; Play </strong></em>was written by Emily Martin, published by 1000 Books by 1000 Poets in 2017."
+            },
+            {
+              "id": "f02a0c16-b0e1-4230-a21a-5c739df157a2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3ae23112-101f-4a15-b95a-676de0c81c75",
+              "type": "quote",
+              "html": "<em>Tourism in an era of globalization is complicated by shadows of colonization and often becomes a futile search for an ‘authentic experience’ at the expense of cultural history. Symbolic play occurs when children begin to substitute one object for another: a block can be a car, a telephone, a bed, and so on. This type of imaginative play sets in place the foundation for representational thinking and symbolism, and enables children to socialize. Both occur in a space and time outside of routine, and both erect mediating layers between the subject and his or her attempts at a glimpse of truth. In the best case, these layers become a medium enabling a personal truth to rise to the surface, in the worst, a screen that universalizes personal experience.</em>"
+            },
+            {
+              "id": "8b967070-262c-476d-a9af-b8f13095b0be",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "38cf0c10-1e0e-4fd4-b7a7-de6ab10bd192",
+          "type": "column",
+          "children": [
+            {
+              "id": "747b4647-2629-4dec-8d19-4d293f9cc601",
+              "type": "image",
+              "src": "./assets/images/173-martin-cover-e348f32f6a4d.webp",
+              "caption": "",
+              "alt": "173-Martin-cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb8c1dc8-3443-4c72-af0e-b17a59092aef",
+      "type": "divider"
+    },
+    {
+      "id": "8e609cd2-ea44-42bb-a542-f5a5b32803e8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e4f5781a-1624-47cb-8eb3-51354deddf72",
+          "type": "column",
+          "children": [
+            {
+              "id": "20267fac-71f8-408c-bb50-d9152599e37d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "82dfd740-7898-4e93-afe9-6169091b9ab8",
+          "type": "column",
+          "children": [
+            {
+              "id": "39d47e3a-35de-4c4e-8c23-4d50283979e2",
+              "type": "callout",
+              "html": "<a href=\"https://poetrywillbemadebyall.com/book/tourism-play/\" target=\"_blank\" rel=\"noreferrer\">Link</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4e1fea7-c289-4c5b-89cb-6aba53526ec4",
+      "type": "divider"
+    },
+    {
+      "id": "1bbc1e30-ada7-41b1-81ba-8c23c9ccb5bc",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

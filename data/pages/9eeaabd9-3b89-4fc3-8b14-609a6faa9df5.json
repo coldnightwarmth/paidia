@@ -1,0 +1,131 @@
+{
+  "id": "9eeaabd9-3b89-4fc3-8b14-609a6faa9df5",
+  "slug": "videogames-for-humans",
+  "title": "Videogames for Humans",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Videogames-for-Humans-9eeaabd93b894fc38b14609a6faa9df5?pvs=21",
+  "createdTime": 1657144657674,
+  "lastEditedTime": 1681314136861,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Videogames for Humans",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d150dcec4d24.webp",
+  "blocks": [
+    {
+      "id": "846cd5cd-9bc6-4e83-bd36-905d09c0db30",
+      "type": "divider"
+    },
+    {
+      "id": "d38d6cef-8199-4698-af25-8c89e03fae41",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8f409950-fe0d-4c02-9f57-874ff58470ae",
+      "type": "columns",
+      "children": [
+        {
+          "id": "511fecd8-f5d4-4296-a4b7-e47162459ec4",
+          "type": "column",
+          "children": [
+            {
+              "id": "ff3aafd2-2855-4534-a6ac-7d6d21d8ba4e",
+              "type": "paragraph",
+              "html": "<em><strong>Videogames for Humans: Twine Authors in Conversation</strong></em> is a collection of essays edited by Merritt Kopas, published by Instar Books, April 20, 2015."
+            },
+            {
+              "id": "459eb7a8-6fcf-454f-9da3-9aeb744f11cc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d646e5f2-408e-4745-9ff0-c291a9d42dda",
+              "type": "quote",
+              "html": "<em>Literary Nonfiction. Poetry. Fiction. Hybrid Genre. LGBTQIA Studies. </em>VIDEOGAMES FOR HUMANS<em>, curated and introduced by Twine author and games theorist merritt k, puts Twine authors, literary writers, and games critics into conversation with one another's work, reacting to, elaborating on, and being affected by the same. The result is an unprecedented kind of book about video games, one that has helped to jumpstart the discussions that will define the games culture of tomorrow.</em>"
+            },
+            {
+              "id": "1ade09ac-6d0f-4fc6-a529-3056b845116a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bd499e77-8cfe-4c44-bbfa-68fa38bb730e",
+          "type": "column",
+          "children": [
+            {
+              "id": "642856e5-3fea-47b3-9ec9-11834412994b",
+              "type": "image",
+              "src": "./assets/images/untitled-d150dcec4d24.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f35d032b-3b67-423a-b0ac-60fc5ca497e5",
+      "type": "divider"
+    },
+    {
+      "id": "58846fa9-a215-4b4f-8f61-124a5fcff204",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ed884165-6e71-4eda-b335-0064dd82f0c0",
+          "type": "column",
+          "children": [
+            {
+              "id": "bdb6a9a8-4bef-44a4-8d29-490c3eba8ea5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "104e9459-cff3-498a-8f0f-debdeb1cf334",
+          "type": "column",
+          "children": [
+            {
+              "id": "78f0cd92-c89a-46c6-80d9-7754970dc2a1",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3ArXOdz\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ee35aaa-9e12-4c2d-a349-f4777a5f2687",
+      "type": "divider"
+    }
+  ]
+}

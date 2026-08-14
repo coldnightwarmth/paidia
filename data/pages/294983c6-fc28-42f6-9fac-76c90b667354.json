@@ -1,0 +1,166 @@
+{
+  "id": "294983c6-fc28-42f6-9fac-76c90b667354",
+  "slug": "against-flow",
+  "title": "Against Flow",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/294983c6fc2842f69fac76c90b667354",
+  "createdTime": 1652115708223,
+  "lastEditedTime": 1681310405889,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Against Flow",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-305033744c89.webp",
+  "blocks": [
+    {
+      "id": "fe8bbd8c-88c2-4891-8fc5-c3028f65eb32",
+      "type": "divider"
+    },
+    {
+      "id": "75a3cc69-0545-46b4-a8f9-58ef3d35e5de",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5b578c36-42b7-446d-b7d2-10927ec1e47c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "112bf932-dac1-45b5-b999-dc15712381b9",
+          "type": "column",
+          "children": [
+            {
+              "id": "3a628c43-d245-4de4-ac10-2e5b159c91f9",
+              "type": "paragraph",
+              "html": "<em><strong>Against Flow: Video Games &amp; the Flowing Subject</strong></em><em> </em>was written by Braxton Soderman, published by The MIT Press, April 13, 2021."
+            },
+            {
+              "id": "a3b855c0-f875-4526-9178-7e53ee87b4c9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5e79839c-d8a0-4288-aa09-6890f054955f",
+              "type": "quote",
+              "html": "<em>A critical discussion of the experience and theory of </em><a href=\"#/flow-state\"><em>flow</em></a><em> (as conceptualized by Mihaly Csikszentmihalyi) in video games.<br><br>Flow--as conceptualized by the psychologist Mihaly Csikszentmihalyi--describes an experience of &quot;being in the zone,&quot; of intense absorption in an activity. It is a central concept in the study of video games, although often applied somewhat uncritically. In </em>Against Flow<em>, Braxton Soderman takes a step back and offers a critical assessment of flow's historical, theoretical, political, and ideological contexts in relation to video games. With close readings of games that implement and represent flow, Soderman not only evaluates the concept of flow in terms of video games but also presents a general critique of flow and its sibling, play.</em>"
+            },
+            {
+              "id": "259ebb7f-0180-44db-ae32-a9b90c1a9920",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "451eeab9-5411-4f8d-af41-1e0c84d977d4",
+          "type": "column",
+          "children": [
+            {
+              "id": "abc75470-096f-401e-a449-acd9715ff772",
+              "type": "image",
+              "src": "./assets/images/untitled-305033744c89.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c755d68f-86df-4e9b-a0a6-c5645e8f8362",
+      "type": "divider"
+    },
+    {
+      "id": "69c142a3-3bfb-440b-9c9f-df0de79df76a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "628bab1a-cbf6-4ab6-93a3-97c32be49fa6",
+          "type": "column",
+          "children": [
+            {
+              "id": "3ab1e6ee-2db3-42b1-8d6f-c7d19e7c7f35",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "813ee11c-29e2-4082-9f25-8abff1067b6e",
+          "type": "column",
+          "children": [
+            {
+              "id": "046000e6-17d9-4935-8ca4-435ae2cee088",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3QKeWAR\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b96c439c-f577-40d1-a059-edd37efe3c5f",
+      "type": "divider"
+    },
+    {
+      "id": "91f655aa-3704-40da-92aa-e73f78a5958b",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "b1864292-987a-40b8-895d-99d4d83d833f",
+      "type": "paragraph",
+      "html": "<a href=\"#/flow\">Flow</a> (<em>book</em>)"
+    },
+    {
+      "id": "c016151c-d364-409c-97aa-7b70920cf777",
+      "type": "paragraph",
+      "html": "<a href=\"#/what-s-with-the-zone-flow-theory\">What’s With The Zone (Flow Theory)</a> (<em>video</em>)"
+    },
+    {
+      "id": "3b61c1ca-cb3d-48e7-bbe8-a74a39ee5a03",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2382e806-b53c-41e0-96ab-b3a1c96936b3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a283fb62-291b-465a-8096-a57373e3e812",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "96ce8240-7093-4ed5-8d40-3fb289e2f73d",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

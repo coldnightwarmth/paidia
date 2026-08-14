@@ -1,0 +1,141 @@
+{
+  "id": "1f17916a-57c4-4fea-bddb-ad78a457e372",
+  "slug": "the-bird-way",
+  "title": "The Bird Way",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Bird-Way-1f17916a57c44feabddbad78a457e372?pvs=21",
+  "createdTime": 1653493336883,
+  "lastEditedTime": 1681314190352,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Bird Way",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-43a7d66f8e52.webp",
+  "blocks": [
+    {
+      "id": "9dc7f45f-6325-43a9-9743-bea1a6ebecf4",
+      "type": "divider"
+    },
+    {
+      "id": "a7b379ff-8b57-4294-8f7d-aa05a789f97f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "dc371b2c-1b00-4f56-b49c-996d3e79d284",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9a775cba-72d2-4fc5-a07f-5784bd2c234a",
+          "type": "column",
+          "children": [
+            {
+              "id": "7a16ab76-fc31-4dcd-a5ee-a73eb8872bb5",
+              "type": "paragraph",
+              "html": "<strong><em>The Bird Way: A New Look at How Birds Talk, Work, Play, Parent, and Think</em></strong> was written by Jennifer Ackerman, published by Penguin Books, May 4, 2021."
+            },
+            {
+              "id": "21d69926-e1f3-4032-87da-17437623ec46",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "fefa2d08-b4c9-4a36-ae89-536154cc9ff6",
+              "type": "quote",
+              "html": "<em>“There is the mammal way and there is the bird way.” But the bird way is much more than a unique pattern of brain wiring, and lately, scientists have taken a new look at bird behaviors they have, for years, dismissed as anomalies or mysteries –– What they are finding is upending the traditional view of how birds conduct their lives, how they communicate, forage, court, breed, survive. They are also revealing the remarkable intelligence underlying these activities, abilities we once considered uniquely our own: deception, manipulation, cheating, kidnapping, infanticide, but also ingenious communication between species, cooperation, collaboration, altruism, culture, and play.<br><br>Some of these extraordinary behaviors are biological conundrums that seem to push the edges of, well, birdness: a mother bird that kills her own infant sons, and another that selflessly tends to the young of other birds as if they were her own; a bird that collaborates in an extraordinary way with one species—ours—but parasitizes another in gruesome fashion; birds that give gifts and birds that steal; birds that dance or drum, that paint their creations or paint themselves; birds that build walls of sound to keep out intruders and birds that summon playmates with a special call—and may hold the secret to our own penchant for playfulness and the evolution of laughter.<br><br>Drawing on personal observations, the latest science, and her bird-related travel around the world, from the tropical rainforests of eastern Australia and the remote woodlands of northern Japan, to the rolling hills of lower Austria and the islands of Alaska’s Kachemak Bay, Jennifer Ackerman shows there is clearly no single bird way of being. In every respect, in plumage, form, song, flight, lifestyle, niche, and behavior, birds vary. It is what we love about them. As E.O Wilson once said, when you have seen one bird, you have not seen them all.</em>"
+            },
+            {
+              "id": "b34b621e-5475-43bf-bb36-5dc7234023cc",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bdc41aa0-ab23-425c-8f49-4ded032c4f18",
+          "type": "column",
+          "children": [
+            {
+              "id": "f78c465c-9242-493b-8d2f-c4a31637f9b3",
+              "type": "image",
+              "src": "./assets/images/untitled-43a7d66f8e52.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d52aed9-081c-44b8-9175-ab53f47caf47",
+      "type": "divider"
+    },
+    {
+      "id": "2a189160-4c84-4610-973f-57e596242ed1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "67019d3b-9e96-40ff-887c-d025462cee2e",
+          "type": "column",
+          "children": [
+            {
+              "id": "4bbdba6b-cdd9-4ed0-8051-4f45523c8d41",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9b23538d-0a1d-4e69-ba92-9a3674289f3d",
+          "type": "column",
+          "children": [
+            {
+              "id": "1baf7c1b-5d4a-4123-8e9c-9e20a7d398fa",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3wKJ4nG\" target=\"_blank\" rel=\"noreferrer\">Link to purchase </a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "687fcf86-9741-4b23-be1b-89999f990912",
+      "type": "divider"
+    },
+    {
+      "id": "8226cf28-cea5-4492-8b26-d5022f32618a",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "1b93df1c-cd1e-4a61-95ec-5ce1f4e3d11a",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-language-of-birds\">The Language of Birds</a> (<em>book</em>)"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "d5051d81-2604-4713-a781-fe6b7716869f",
+  "slug": "paul-preuss",
+  "title": "Paul Preuss",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Paul-Preuss-d5051d8126044713a781fe6b7716869f?pvs=21",
+  "createdTime": 1668794903963,
+  "lastEditedTime": 1681312413249,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Paul Preuss",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f236e94d0ff1.webp",
+  "blocks": [
+    {
+      "id": "1f3750d3-5ebf-4e07-912f-1eb791bfd203",
+      "type": "divider"
+    },
+    {
+      "id": "5c2b4c96-6345-4e92-9880-97aff12e2fc6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e378215a-dcd1-418c-9a93-f06872920415",
+      "type": "columns",
+      "children": [
+        {
+          "id": "619a701e-7013-4943-bf81-b34a792c4e4b",
+          "type": "column",
+          "children": [
+            {
+              "id": "ae9c5faf-60ee-45de-9d7d-5b644f0cef33",
+              "type": "paragraph",
+              "html": "<em><strong>Paul Preuss: Lord of the Abyss: Life &amp; Death at the Birth of Free-Climbing</strong></em> was written by David Smart, published by Rocky Mountain Books, July 30, 2019."
+            },
+            {
+              "id": "ba40a091-abd3-40c2-ab66-177b49cba15e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6ba45e80-1fff-40d4-b573-768e88d0e1a4",
+              "type": "quote",
+              "html": "<em><strong>An intriguing biography of the renowned Austrian alpinist Paul Preuss, who achieved international recognition both for his remarkable solo ascents and for his advocacy of an ethically &quot;pure&quot; alpinism (meaning without any artificial aids).<br><br></strong></em><em>In the months before his death in 1913, from falling more than 300 metres during an attempt to make the first free solo ascent of the North Ridge of the Mandlkogel, Paul Preuss’s public presentations on his climbing adventures filled concert halls in Austria, Italy, and Germany.<br><br>George Mallory, the famed English mountaineer who died on Mount Everest in 1924, said &quot;no one will ever equal Preuss.&quot;<br><br>Reinhold Messner, the first climber to ascend all fourteen 8000 metre peaks, was so impressed by the young Austrian’s achievements that he built a mountaineering museum around Preuss’s piton hammer, wrote two books (in German) about him and instituted a foundation in Preuss’s name.<br><br>Alex Honnold, </em><em><a href=\"#/alone-on-the-wall\">the first and only person to free solo El Capitan in Yosemite National Park</a></em><em>, has thought about Preuss' untimely and surprising death and imagined it to have likely been &quot;the worst four seconds&quot; of Preuss' life.<br><br>Although he died at only 27 years old, modern climbing may never have developed the ethical, existential core that it has today if not for Preuss’s bold style. Even the most trenchant traditionalists remain unsure about whether to add him to their pantheon or dismiss him as at worst a lunatic or at best an indelicate subject better left ignored.<br><br>Smart's biography is the first English language volume to be published and is certain to bring the remarkable story of Paul Preuss to a whole new generation of climbers.</em>"
+            },
+            {
+              "id": "b20adf5c-5d54-4c0c-b76e-e63d7c83231a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "fc696750-3a3d-415a-8cd4-61b1d195ef7f",
+          "type": "column",
+          "children": [
+            {
+              "id": "6cb6beff-a76d-4364-a453-7ae33d3233fa",
+              "type": "image",
+              "src": "./assets/images/untitled-f236e94d0ff1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "352ee42a-8b95-4696-8898-d8c9f80f526b",
+      "type": "divider"
+    },
+    {
+      "id": "5900f49b-ebe9-485f-bca4-8dd1af6a8dd7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "095a2467-33de-4fd4-aedf-10e5e7ef2581",
+          "type": "column",
+          "children": [
+            {
+              "id": "423a540a-3551-443c-a6cd-640cacf69a4f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "276a1570-f5d7-4c6b-88f5-d959cf7e0b53",
+          "type": "column",
+          "children": [
+            {
+              "id": "c68d37f4-b8bf-499b-a549-9af15d1b1d7a",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Paul-Preuss-Abyss-Death-Free-Climbing/dp/1771603232\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0bc9fd0c-9f6a-41dc-b781-5d01ea7db70c",
+      "type": "divider"
+    }
+  ]
+}

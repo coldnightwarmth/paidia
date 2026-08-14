@@ -1,0 +1,131 @@
+{
+  "id": "aed7ff67-92a8-46ba-ba3f-936edbe86c4f",
+  "slug": "roll-strike-die",
+  "title": "Roll, Strike, Die",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Roll-Strike-Die-aed7ff6792a846baba3f936edbe86c4f?pvs=21",
+  "createdTime": 1651697367898,
+  "lastEditedTime": 1681314120663,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Roll, Strike, Die",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-7ee785fed400.webp",
+  "blocks": [
+    {
+      "id": "fdb8a99b-80bc-4acd-8148-9ab836e232ea",
+      "type": "divider"
+    },
+    {
+      "id": "381f02a2-9cef-4836-82bc-288713bb1ffa",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "98932995-91a5-4dc6-a476-ef91460e6c8c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0fe35207-ae16-43e2-9f8e-8a9d08da2710",
+          "type": "column",
+          "children": [
+            {
+              "id": "0050cec8-cccf-4f92-8a94-ce1ec4f9f0b8",
+              "type": "paragraph",
+              "html": "<em><strong>Roll, Strike, Die, &amp; Other Poems</strong></em> was written by Ludovico Ambrosius, self-published, August 8, 2021."
+            },
+            {
+              "id": "35302a6e-629f-4cbb-affe-3402065dbae6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c15ab6ad-f718-4394-b1d7-99719849b2cc",
+              "type": "quote",
+              "html": "<em>A collection of poetry by Ludovico Ambrosius. Flowers, bees, drones, robots, trumps, screens, ships, dice, eyes.</em>"
+            }
+          ]
+        },
+        {
+          "id": "48596c22-7f6c-4e0d-a5f8-ccca6fd278ec",
+          "type": "column",
+          "children": [
+            {
+              "id": "acf807ff-0075-4035-b350-a02fba897425",
+              "type": "image",
+              "src": "./assets/images/untitled-7ee785fed400.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "010eca18-f45f-4f90-9917-8c7c5748b5ee",
+      "type": "divider"
+    },
+    {
+      "id": "5ad5b6ab-af19-43b4-a56e-bae99157c288",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f4aeaafe-1855-49e7-ab78-a27e3d917eaa",
+          "type": "column",
+          "children": [
+            {
+              "id": "f168adc4-4c8c-4a1c-bd37-113f53e8326b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f9df6aa4-ac90-46a8-8a49-b7b9075e0c69",
+          "type": "column",
+          "children": [
+            {
+              "id": "d2c36105-b616-473b-9316-bab456606fcb",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3r83oM8\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a872204-9201-4868-b94e-b737eae4b50e",
+      "type": "divider"
+    },
+    {
+      "id": "8fdb712f-08cd-4603-8b83-530e3e338af8",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

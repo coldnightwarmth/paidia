@@ -1,0 +1,103 @@
+{
+  "id": "a060798b-2339-48bd-afd4-f7719dd6e4be",
+  "name": "Discord Servers",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "About:",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "HrmY": {
+      "id": "HrmY",
+      "name": "Discord Link:",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "95adaf8d-a19d-44ab-a4b1-808f1b7c0c6a",
+      "collectionId": "a060798b-2339-48bd-afd4-f7719dd6e4be",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "beccbba1-1cca-422f-939f-85b588525329",
+        "8ee2f091-b4c5-4038-a379-36df430dca35",
+        "08e9d72b-211a-4d5c-ac17-27cf9adf68bf",
+        "2b9d1665-c340-4597-ac5d-4749bc7a11ea",
+        "2679cc60-fc98-462a-930b-3589f0910698",
+        "319c594b-0a9a-467c-979d-204953c7f439",
+        "3f9bff9c-9b14-4cc9-a0cf-aaa5b55a0a75",
+        "15bb4c27-324a-481b-b3d3-239a16842300",
+        "712cce7c-20eb-4082-a49e-f43339034df8",
+        "3a223c1e-a848-48b1-9cbd-be65ac21370c",
+        "51da425d-2c0a-41cc-a355-05fe7f08eeb7"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "HrmY",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    }
+  ],
+  "rows": []
+}

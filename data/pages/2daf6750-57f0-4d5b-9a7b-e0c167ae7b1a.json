@@ -1,0 +1,131 @@
+{
+  "id": "2daf6750-57f0-4d5b-9a7b-e0c167ae7b1a",
+  "slug": "a-relational-aesthetic",
+  "title": "A Relational Aesthetic",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/2daf675057f04d5b9a7be0c167ae7b1a",
+  "createdTime": 1651855639817,
+  "lastEditedTime": 1681310300056,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A Relational Aesthetic"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e24657aec835.webp",
+  "blocks": [
+    {
+      "id": "b3930c5e-1d69-411a-9ed1-d37c7d95cbdc",
+      "type": "divider"
+    },
+    {
+      "id": "7b8ae9bc-2000-4d2f-b5a0-c9a84e04fbab",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "21dd60cc-d3e9-473f-98cf-12c9d741aa06",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8b42818f-94e7-43da-8d83-c55ea0929653",
+          "type": "column",
+          "children": [
+            {
+              "id": "772a16bd-c104-4a9f-8e2a-44219742d243",
+              "type": "paragraph",
+              "html": "<em><strong>A Relational Aesthetic</strong></em> was written by Harold W. McSwain Jr., published by Peter Lang Inc., International Academic Publishers, August 1, 1994."
+            },
+            {
+              "id": "35fa9c6f-b7ec-4153-b6fe-c530efe1fffe",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0f12fd12-100d-40b3-ac82-4e7b88b752db",
+              "type": "quote",
+              "html": "A Relational Aesthetic<em> proposes a philosophy of aesthetics offering an alternative to «classical aesthetics» and the general course of aesthetics since Kant. Drawing on the insights of Harold H. Oliver's seminal contributions toward a relational metaphysic, the author submits that immediate aesthetic experiencing, as contrasted with aesthetic derivatives (such as artist, artwork, aesthetic event, audience, epistemological objectives, and craft), provides a satisfactory metaphysical and ontological description of art. Major attention is given to Kant, Whitehead, Sherburne, Heidegger, Gadamer, and Dewey whose separate and collegial expositions are shown to lend themselves to a relational reading.</em>"
+            }
+          ]
+        },
+        {
+          "id": "64982e21-9d15-43e9-8cdd-2c0adc4569d3",
+          "type": "column",
+          "children": [
+            {
+              "id": "c0c78ab5-9a27-489d-93a3-6d564b5f95f1",
+              "type": "image",
+              "src": "./assets/images/untitled-e24657aec835.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a0ba242-858e-4a2e-a06b-2a1b1d0b6bf7",
+      "type": "divider"
+    },
+    {
+      "id": "cc4fda84-d814-464f-816b-4fa1e62fb404",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9ce7247c-e54c-4131-a1c2-b8a6b2f7d904",
+          "type": "column",
+          "children": [
+            {
+              "id": "7d5cf4d2-daf7-4ae8-996f-0123fa4d0410",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "69f3dcb1-ea9e-48b6-ba6b-9a027e570acb",
+          "type": "column",
+          "children": [
+            {
+              "id": "dc87ca71-1b18-48ef-b95f-dc8a84e38eab",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/38OdgoT\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "982e38c9-90bd-49d1-9318-d75bee6fcd60",
+      "type": "divider"
+    },
+    {
+      "id": "5802e106-0031-4885-8058-79e9b0d307bf",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "57b32781-fe3f-4464-bf32-49c282858bc1",
+      "type": "paragraph",
+      "html": "<a href=\"#/a-relational-metaphysic\">A Relations Metaphysic</a> (<em>book</em>)"
+    }
+  ]
+}

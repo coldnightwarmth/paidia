@@ -1,0 +1,523 @@
+{
+  "id": "3489b432-56a3-441b-a5b5-d3218b5a7422",
+  "name": "Jobs",
+  "schema": {
+    "OwQC": {
+      "id": "OwQC",
+      "name": "Date Applied",
+      "type": "date",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "Wl}E": {
+      "id": "Wl}E",
+      "name": "Next Steps",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "X|}E": {
+      "id": "X|}E",
+      "name": "Last edited",
+      "type": "last_edited_time",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "bDEb": {
+      "id": "bDEb",
+      "name": "Date Identified",
+      "type": "created_time",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "dr`t": {
+      "id": "dr`t",
+      "name": "Job Post",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "k?[w": {
+      "id": "k?[w",
+      "name": "Company - To be changed to Relation Field",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "|k\\=": {
+      "id": "|k\\=",
+      "name": "Stage",
+      "type": "select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "25b71ffe-5715-4712-9534-fd86b1cfff6d",
+          "value": "🚧 Preparing",
+          "color": "orange"
+        },
+        {
+          "id": "aa34c5d5-c49f-4cb3-b6b7-99ce196e9feb",
+          "value": "📮 Applied",
+          "color": "yellow"
+        },
+        {
+          "id": "6004e495-a54a-4676-a1ab-14d69d930538",
+          "value": "💬 Interviewing",
+          "color": "blue"
+        },
+        {
+          "id": "67707621-ecf1-4cc2-84d8-081c7bb09261",
+          "value": "🙅🏽‍♀️ Denied",
+          "color": "red"
+        },
+        {
+          "id": "\\T?p",
+          "value": "👵🏽 Expired",
+          "color": "purple"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name of Role",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "340e861b-b981-4c13-9713-2a3942d70c41",
+      "collectionId": "3489b432-56a3-441b-a5b5-d3218b5a7422",
+      "type": "table",
+      "name": "✅ Active",
+      "pagePointerId": null,
+      "pageSort": [
+        "891d4574-9fb4-46da-9df1-5afc15c592da",
+        "96cff117-e312-4bf5-8245-8d0cf16e2353",
+        "c05d431c-7c81-43d4-8ea0-bfbbf5c9a2a5",
+        "82439031-c701-4afd-b712-3c7370b441c8",
+        "9634e1da-a13a-45b8-a99e-38a675d64ecf",
+        "1b42e8b5-3273-4793-913a-9849283b7b20",
+        "c90b278f-9668-440c-a6b0-1bf26faf19b2",
+        "33b5c587-83a6-46f4-bdca-535568bc11b1",
+        "971c4ef9-6f0d-43b8-90f4-7e7f0de90f6e",
+        "7b932089-8c44-40ce-84ca-ab0a41bf99a2",
+        "49c696bf-b736-4dae-bdaf-7b6f813ddef7",
+        "f7283b11-dd0d-47aa-b01d-017d43e3de1c",
+        "17383258-52c6-402e-a5eb-e4f4cc87e966",
+        "73f5b792-c166-4c6f-8d64-49b063aaeb90",
+        "013d08da-4388-405f-9594-6a90fd55e2f0",
+        "2fe48ad6-c6ff-4178-9487-3c2ac86e3e05",
+        "433089e4-7180-4db6-a909-6452220e39ea",
+        "31e44c15-3420-4e46-aad6-c3f1f2212029",
+        "211886d0-b3d6-4e7e-8af0-35f889083fe0",
+        "5a6b22d4-8185-4770-831c-5c759506c204",
+        "c53a6408-9d2a-4282-be82-60950fda7006",
+        "e610fc83-fd34-4f32-ac72-1959ce0e2765",
+        "a07f8f0e-c2f0-4312-ab03-8a666585f687",
+        "a6d13d63-01e5-467f-afcb-ad2f43c48481",
+        "f7ba82c2-9cfd-4494-8dcc-05ea948e39bb",
+        "04fad8fa-edc7-4baa-8ad1-fb6eeabe9df7",
+        "b3467514-55a0-46f6-bc9b-19cc8f1af731",
+        "39fafb5f-c09c-4f37-906c-a9efdcfb79a3",
+        "8c41bcc2-f4cb-411b-99ae-ec9d092930e1",
+        "c200a996-033b-414b-831b-e42171f27eb8",
+        "6d4b53ad-9d84-436f-a67c-76b72c1c04bf",
+        "cf466b55-32e2-4e63-a58a-dd114a535ff5",
+        "a598a621-675a-4917-af17-839db8c45f43",
+        "b0841c1e-2fbd-4b23-8575-60857016e213",
+        "5cf235ec-e5ea-4acd-b1ec-a70102d3bb00",
+        "8735ca62-8b30-4447-8977-051f24051424",
+        "0560ffa4-6abe-4488-9e94-d0b8daa4ece6",
+        "e6b9b6c6-d4d9-4196-95b7-030aab112c6a",
+        "14d7f00c-0a34-4d8c-87cc-64d21a684277",
+        "6b9b1b73-c665-4902-a547-19fdc596a7f4",
+        "2a2ee984-be28-48ff-8fb8-216f1ccc01de",
+        "2dbc1961-caad-4079-9c6d-191875bf8cf6",
+        "104dae83-d04c-4589-8e19-81ac87ddf80e",
+        "17e0e347-86ed-4650-b41b-b26c41484f30",
+        "cc0c22d2-a934-4cd3-b2c5-1a2628d3e615",
+        "667671a2-13cf-44d9-ad95-5f3abbc026a9",
+        "0dd7288d-8164-419b-9869-e89272f505fa",
+        "1d068cc2-446c-4231-8a80-6bde4be4e877",
+        "32c94b2b-3553-466f-b7a4-39fbcac535a5",
+        "422bdae6-6641-463f-be6c-27d47676faaa",
+        "f3cff8be-2b6c-4587-8f29-4293bcec9392",
+        "d1e722bc-9fce-4da7-914c-fddc97f3e748",
+        "426f4787-ba18-40d0-ac8e-0286da87772e",
+        "09fc875c-0661-4a71-b4a7-969cee54c708",
+        "72bc885a-a5c5-4db6-ad50-293e72f24ac9",
+        "7e3d62b6-2f6d-4223-a9d6-910c0d07cfa3",
+        "a1b1fad1-d18e-474c-9409-f9475a7b0740",
+        "f7d4e2d3-b4e5-496b-9e93-fc54a759c67d",
+        "42e53c89-452e-4ed7-9234-bc5f0378ec43",
+        "e24bea78-d8e8-48d1-bdd3-bf819d28fefa",
+        "c653b578-c12b-4be7-90b7-0aec875cb792",
+        "009ffac4-76ee-42e4-a516-06579544f53c"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "X|}E",
+          "visible": false,
+          "width": 154
+        },
+        {
+          "property": "bDEb",
+          "visible": false,
+          "width": 159
+        },
+        {
+          "property": "OwQC",
+          "visible": false,
+          "width": 142
+        },
+        {
+          "property": "|k\\=",
+          "visible": false,
+          "width": 132
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": 287
+        },
+        {
+          "property": "dr`t",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "k?[w",
+          "visible": true,
+          "width": 340
+        },
+        {
+          "property": "Wl}E",
+          "visible": true,
+          "width": 143
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        }
+      ],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "09397a78-0378-4626-a7b7-37a3a7b72af7",
+      "collectionId": "3489b432-56a3-441b-a5b5-d3218b5a7422",
+      "type": "table",
+      "name": "🚫 Inactive ",
+      "pagePointerId": null,
+      "pageSort": [
+        "891d4574-9fb4-46da-9df1-5afc15c592da",
+        "96cff117-e312-4bf5-8245-8d0cf16e2353",
+        "c05d431c-7c81-43d4-8ea0-bfbbf5c9a2a5",
+        "82439031-c701-4afd-b712-3c7370b441c8",
+        "9634e1da-a13a-45b8-a99e-38a675d64ecf",
+        "1b42e8b5-3273-4793-913a-9849283b7b20",
+        "c90b278f-9668-440c-a6b0-1bf26faf19b2",
+        "33b5c587-83a6-46f4-bdca-535568bc11b1",
+        "971c4ef9-6f0d-43b8-90f4-7e7f0de90f6e",
+        "7b932089-8c44-40ce-84ca-ab0a41bf99a2",
+        "49c696bf-b736-4dae-bdaf-7b6f813ddef7",
+        "f7283b11-dd0d-47aa-b01d-017d43e3de1c",
+        "17383258-52c6-402e-a5eb-e4f4cc87e966",
+        "73f5b792-c166-4c6f-8d64-49b063aaeb90",
+        "013d08da-4388-405f-9594-6a90fd55e2f0",
+        "2fe48ad6-c6ff-4178-9487-3c2ac86e3e05",
+        "433089e4-7180-4db6-a909-6452220e39ea",
+        "31e44c15-3420-4e46-aad6-c3f1f2212029",
+        "211886d0-b3d6-4e7e-8af0-35f889083fe0",
+        "5a6b22d4-8185-4770-831c-5c759506c204",
+        "c53a6408-9d2a-4282-be82-60950fda7006",
+        "e610fc83-fd34-4f32-ac72-1959ce0e2765",
+        "a07f8f0e-c2f0-4312-ab03-8a666585f687",
+        "a6d13d63-01e5-467f-afcb-ad2f43c48481",
+        "f7ba82c2-9cfd-4494-8dcc-05ea948e39bb",
+        "04fad8fa-edc7-4baa-8ad1-fb6eeabe9df7",
+        "b3467514-55a0-46f6-bc9b-19cc8f1af731",
+        "39fafb5f-c09c-4f37-906c-a9efdcfb79a3",
+        "8c41bcc2-f4cb-411b-99ae-ec9d092930e1",
+        "c200a996-033b-414b-831b-e42171f27eb8",
+        "6d4b53ad-9d84-436f-a67c-76b72c1c04bf",
+        "cf466b55-32e2-4e63-a58a-dd114a535ff5",
+        "a598a621-675a-4917-af17-839db8c45f43",
+        "b0841c1e-2fbd-4b23-8575-60857016e213",
+        "5cf235ec-e5ea-4acd-b1ec-a70102d3bb00",
+        "8735ca62-8b30-4447-8977-051f24051424",
+        "0560ffa4-6abe-4488-9e94-d0b8daa4ece6",
+        "e6b9b6c6-d4d9-4196-95b7-030aab112c6a",
+        "14d7f00c-0a34-4d8c-87cc-64d21a684277",
+        "6b9b1b73-c665-4902-a547-19fdc596a7f4",
+        "2a2ee984-be28-48ff-8fb8-216f1ccc01de",
+        "2dbc1961-caad-4079-9c6d-191875bf8cf6",
+        "104dae83-d04c-4589-8e19-81ac87ddf80e",
+        "17e0e347-86ed-4650-b41b-b26c41484f30",
+        "cc0c22d2-a934-4cd3-b2c5-1a2628d3e615",
+        "667671a2-13cf-44d9-ad95-5f3abbc026a9",
+        "0dd7288d-8164-419b-9869-e89272f505fa",
+        "1d068cc2-446c-4231-8a80-6bde4be4e877",
+        "32c94b2b-3553-466f-b7a4-39fbcac535a5",
+        "422bdae6-6641-463f-be6c-27d47676faaa",
+        "f3cff8be-2b6c-4587-8f29-4293bcec9392",
+        "d1e722bc-9fce-4da7-914c-fddc97f3e748",
+        "426f4787-ba18-40d0-ac8e-0286da87772e",
+        "09fc875c-0661-4a71-b4a7-969cee54c708",
+        "72bc885a-a5c5-4db6-ad50-293e72f24ac9",
+        "7e3d62b6-2f6d-4223-a9d6-910c0d07cfa3",
+        "42e53c89-452e-4ed7-9234-bc5f0378ec43",
+        "e24bea78-d8e8-48d1-bdd3-bf819d28fefa",
+        "c653b578-c12b-4be7-90b7-0aec875cb792",
+        "2e257efb-25a7-40ca-aaca-ef2656b10d6c",
+        "3c4db205-671f-4b5d-804e-055d89ee5c4b"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "X|}E",
+          "visible": false,
+          "width": 154
+        },
+        {
+          "property": "bDEb",
+          "visible": false,
+          "width": 159
+        },
+        {
+          "property": "OwQC",
+          "visible": false,
+          "width": 142
+        },
+        {
+          "property": "|k\\=",
+          "visible": false,
+          "width": 132
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": 287
+        },
+        {
+          "property": "dr`t",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "k?[w",
+          "visible": true,
+          "width": 340
+        },
+        {
+          "property": "Wl}E",
+          "visible": true,
+          "width": 143
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "multi_select",
+          "option": null
+        }
+      ],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "5bb16175-9509-4daa-9d77-749d94c2440a",
+      "collectionId": "3489b432-56a3-441b-a5b5-d3218b5a7422",
+      "type": "board",
+      "name": "🗺️ By Stage",
+      "pagePointerId": null,
+      "pageSort": [
+        "f518b074-1723-4c30-9b38-532372abc543",
+        "95fdebca-8efd-4847-9549-5a56afa1307f",
+        "51590fba-760e-48c7-9680-dbbef84989a6",
+        "3a00fd68-4b08-46bd-a46c-7108d2471f56",
+        "340e04da-9dad-4bf0-af30-a661574f276c",
+        "e24bea78-d8e8-48d1-bdd3-bf819d28fefa",
+        "42e53c89-452e-4ed7-9234-bc5f0378ec43",
+        "72bc885a-a5c5-4db6-ad50-293e72f24ac9",
+        "7e3d62b6-2f6d-4223-a9d6-910c0d07cfa3",
+        "09fc875c-0661-4a71-b4a7-969cee54c708",
+        "21be34fc-08fb-4e53-ad2d-2474f042d114",
+        "bd3227dc-26f3-47d6-a6be-180b896ad252",
+        "2a1854c8-2974-49ed-9c07-b776ccebae76",
+        "2e257efb-25a7-40ca-aaca-ef2656b10d6c",
+        "f72d256a-debe-434e-90c8-fbf74aa925f0"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [],
+      "listProperties": [
+        {
+          "property": "OwQC",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "boardColumns": [
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": false,
+          "valueType": "select",
+          "option": null
+        },
+        {
+          "property": "|k\\=",
+          "hidden": true,
+          "valueType": "select",
+          "option": null
+        }
+      ],
+      "boardColumnsBy": {
+        "property": "|k\\=",
+        "type": "select",
+        "sortType": "manual"
+      },
+      "galleryCover": "page_content",
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "5df37311-f94c-4a3e-8790-40c074db443a",
+      "collectionId": "3489b432-56a3-441b-a5b5-d3218b5a7422",
+      "type": "table",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

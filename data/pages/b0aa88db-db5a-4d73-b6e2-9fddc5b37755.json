@@ -1,0 +1,131 @@
+{
+  "id": "b0aa88db-db5a-4d73-b6e2-9fddc5b37755",
+  "slug": "parent-child-play",
+  "title": "Parent-Child Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "941cc77c-8e6e-4869-a86c-9aaae44d9333",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Parent-Child-Play-b0aa88dbdb5a4d73b6e29fddc5b37755?pvs=21",
+  "createdTime": 1653073536282,
+  "lastEditedTime": 1681314077350,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Parent-Child Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1debab5cd190.webp",
+  "blocks": [
+    {
+      "id": "2b930851-5f29-44d7-acf9-c597abe1f16e",
+      "type": "divider"
+    },
+    {
+      "id": "81ac1b8e-cdc4-43cf-b728-538e3a21b16b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3930eded-f5d5-4b5f-8dbc-33e12a5ef8ef",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4113876d-1aa7-4472-9692-5ebc9f5b4ac9",
+          "type": "column",
+          "children": [
+            {
+              "id": "47aa3bf5-028e-410a-ae89-4550fcc4e845",
+              "type": "paragraph",
+              "html": "<em><strong>Parent-Child Play</strong></em> is a collection of essay edited by Kevin MacDonald, published by SUNY Press, July 1, 1993."
+            },
+            {
+              "id": "f9deb4be-a5f9-45fe-b461-dab90020f095",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "145b5288-a50a-4975-827e-4f66e80d3194",
+              "type": "quote",
+              "html": "<em>This book provides the latest research and theory in the area of children’s play with their parents. It includes discussions of the basic processes involved in parent-child play, parent-child play in atypical populations of children, and parent-child play in cross-cultural perspective.<br><br>An opening section on basic processes provides a general background on the mechanisms involved in play and provides a foundation for the rest of the book. The section on atypical populations focuses on parent-child play among clinical populations, including Down syndrome children, premature children, hyperactive children, and economically distressed families and families with depressed parents. It expands the context of the populations’ data described in the first section and provides some additional insight into mechanisms. Finally, the book describes some of the enormous cross-cultural variations in play behavior.</em>"
+            }
+          ]
+        },
+        {
+          "id": "b34f7e13-800c-4a94-b6a4-622a8eb25906",
+          "type": "column",
+          "children": [
+            {
+              "id": "fbdfeefb-3486-4c33-8bee-2a346dc7eb56",
+              "type": "image",
+              "src": "./assets/images/untitled-1debab5cd190.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "881363a7-caa1-4ccd-86f7-3618ea1e6135",
+      "type": "divider"
+    },
+    {
+      "id": "9ff00cb3-f393-407f-8967-4ff04618a30d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6f60a0db-e3ad-46cb-b630-7c6b4f72b183",
+          "type": "column",
+          "children": [
+            {
+              "id": "6a353912-7f6c-4012-a380-0636391c054d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6c0a5659-d3bf-4cc6-a021-a8e60bb63604",
+          "type": "column",
+          "children": [
+            {
+              "id": "27f8bbfd-db3f-4e23-8dcb-104e47e8a2e7",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DRnj9K\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fdf93ec3-1967-441e-b2a7-d60c4e65758b",
+      "type": "divider"
+    },
+    {
+      "id": "b7f46c12-4c28-45cd-8689-15e9ec8014ee",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

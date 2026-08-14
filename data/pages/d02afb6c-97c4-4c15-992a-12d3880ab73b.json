@@ -1,0 +1,136 @@
+{
+  "id": "d02afb6c-97c4-4c15-992a-12d3880ab73b",
+  "slug": "blood-sweat-and-pixels",
+  "title": "Blood, Sweat, & Pixels",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d02afb6c97c44c15992a12d3880ab73b",
+  "createdTime": 1651708959397,
+  "lastEditedTime": 1681311202302,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Blood, Sweat, & Pixels",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-313b19d289d2.webp",
+  "blocks": [
+    {
+      "id": "aa0acd9a-b815-4b5e-8fb0-f790a9fe1da2",
+      "type": "divider"
+    },
+    {
+      "id": "b952376d-7dd0-4f3a-9bf0-8451de8beb02",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bd1c4621-fe0f-43ce-8547-3c10c8b9eaa8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "689bbe96-b3b0-4c7a-91fb-0f64499733e8",
+          "type": "column",
+          "children": [
+            {
+              "id": "e2fa6f9a-8096-42ff-b0a3-d6337e814ae4",
+              "type": "paragraph",
+              "html": "<em><strong>Blood, Sweat, &amp; Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made</strong></em><strong> </strong>was written by Jason Schreier, published by Harper Paperbacks, September 5, 2017."
+            },
+            {
+              "id": "cb64eda2-434c-47db-a08b-acdeff766b1a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "53f92268-2765-43fc-89fe-c2bfcafced3d",
+              "type": "quote",
+              "html": "<em>Developing video games—hero's journey or fool's errand? The creative and technical logistics that go into building today's hottest games can be more harrowing and complex than the games themselves, often seeming like an endless maze or a bottomless abyss. In </em>Blood, Sweat, and Pixels<em>, Jason Schreier takes readers on a fascinating odyssey behind the scenes of video game development, where the creator may be a team of 600 overworked underdogs or a solitary geek genius. Exploring the artistic challenges, technical impossibilities, marketplace demands, and Donkey Kong-sized monkey wrenches thrown into the works by corporate, </em>Blood, Sweat, and Pixels<em> reveals how bringing any game to completion is more than Sisyphean—it's nothing short of miraculous.<br><br>Taking some of the most popular, bestselling recent games, Schreier immerses readers in the hellfire of the development process, whether it's RPG studio Bioware's challenge to beat an impossible schedule and overcome countless technical nightmares to build </em>Dragon Age: Inquisition<em>; indie developer Eric Barone's single-handed efforts to grow country-life RPG </em>Stardew Valley<em> from one man's vision into a multi-million-dollar franchise; or Bungie spinning out from their corporate overlords at Microsoft to create Destiny, a brand new universe that they hoped would become as iconic as </em>Star Wars<em> and </em>Lord of the Rings<em>—even as it nearly ripped their studio apart.<br><br>Documenting the round-the-clock crunches, buggy-eyed burnout, and last-minute saves, </em>Blood, Sweat, and Pixels<em> is a journey through development hell—and ultimately a tribute to the dedicated diehards and unsung heroes who scale mountains of obstacles in their quests to create the best games imaginable.</em>"
+            },
+            {
+              "id": "25d777d4-1f57-4c35-beaa-d2c7b809002c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4551838c-d6b1-4e67-8fc0-b4b3f41eca13",
+          "type": "column",
+          "children": [
+            {
+              "id": "69c21788-feee-4e38-b429-6b1d498a09c6",
+              "type": "image",
+              "src": "./assets/images/untitled-313b19d289d2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7fdb4784-acbf-4fd8-a7b6-999c93990f03",
+      "type": "divider"
+    },
+    {
+      "id": "158ed8a5-bf18-4a2c-9e5a-c62a99ab0834",
+      "type": "columns",
+      "children": [
+        {
+          "id": "48190ee1-7361-4b82-b581-321b5ca55c7c",
+          "type": "column",
+          "children": [
+            {
+              "id": "207f56fe-8a16-4263-ac46-a19cb5d34e7c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9c20c897-51f1-464b-83da-8d8f8b0f1ec7",
+          "type": "column",
+          "children": [
+            {
+              "id": "977c7111-bb60-49a0-9c9f-bc8b7cd60f5d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3GxwhbP\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f9ef5416-a0bd-484b-8228-76cdcdcf4800",
+      "type": "divider"
+    },
+    {
+      "id": "aa2e7baa-1ebd-4970-a3b0-c118232f97b7",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

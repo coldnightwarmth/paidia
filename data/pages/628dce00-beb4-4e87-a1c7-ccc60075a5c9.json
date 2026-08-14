@@ -1,0 +1,126 @@
+{
+  "id": "628dce00-beb4-4e87-a1c7-ccc60075a5c9",
+  "slug": "as-if",
+  "title": "As If",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/As-If-628dce00beb44e87a1c7ccc60075a5c9?pvs=21",
+  "createdTime": 1670005260501,
+  "lastEditedTime": 1681310947524,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "As If"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a7096416d0d3.webp",
+  "blocks": [
+    {
+      "id": "474e76aa-d851-42e8-88dd-48ccefc182c1",
+      "type": "divider"
+    },
+    {
+      "id": "058a6d1d-fc5f-41b8-bcd2-e1da2ddb7209",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cb1c9bf7-2e3c-4a55-a62f-2b9769105c3b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "09fca3bc-9ac8-462b-b7b9-acf34987b5a6",
+          "type": "column",
+          "children": [
+            {
+              "id": "792e6c65-77b3-4959-9481-aa25e3afacc9",
+              "type": "paragraph",
+              "html": "<em><strong>As If: Modern Enchantment &amp; the Literary PreHistory of Virtual Reality</strong></em> was written by Michael Saler, published by Oxford University Press, January 9, 2012."
+            },
+            {
+              "id": "e7460e13-0f98-4b44-b006-af0f7b1e78a1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e9f41b70-060e-46c9-8d68-a6c793c4573b",
+              "type": "quote",
+              "html": "<em>Many people throughout the world &quot;inhabit&quot; imaginary worlds communally and persistently, parsing </em>Harry Potter<em> and exploring online universes. These activities might seem irresponsibly escapist, but history tells another story. Beginning in the late nineteenth century, when Sherlock Holmes became the world's first &quot;virtual reality&quot; character, readers began to colonize imaginary worlds, debating serious issues and viewing reality in provisional, &quot;as if&quot; terms rather than through essentialist, &quot;just so&quot; perspectives. From Lovecraft's Cthulhu Mythos and Tolkien's Middle-earth to the World of </em>Warcraft<em> and </em>Second Life<em>, </em>As If<em> provides a cultural history that reveals how we can remain enchanted but not deluded in an age where fantasy and reality increasingly intertwine.</em>"
+            },
+            {
+              "id": "f76f6b95-3019-4201-a2cd-8d9fbb5bb8a6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "451d3426-e0da-454d-b485-0e6acf6d2165",
+          "type": "column",
+          "children": [
+            {
+              "id": "7ad05bb3-7ba4-4d16-b196-247148080a4c",
+              "type": "image",
+              "src": "./assets/images/untitled-a7096416d0d3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99bae129-51f1-4169-9bf8-ab886975301f",
+      "type": "divider"
+    },
+    {
+      "id": "cea70545-18a6-4736-bde5-41cb54c00e62",
+      "type": "columns",
+      "children": [
+        {
+          "id": "460d48c8-c38c-43df-922a-664a01286e27",
+          "type": "column",
+          "children": [
+            {
+              "id": "e82a3dbb-c664-4169-8ed3-afaa379d3ed9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d3df306b-fca7-41f1-9f11-b2a45eb0f0ca",
+          "type": "column",
+          "children": [
+            {
+              "id": "64d83717-9301-4526-855f-aaaf5e04a791",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/As-If-Enchantment-Literary-PreHistory/dp/0195343174/ref=sr_1_1?crid=ZELVWMMBOLGB&amp;keywords=As+If%3A+Modern+Enchantment+and+the+Literary+Prehistory+of+Virtual+Reality.&amp;qid=1668105091&amp;sprefix=as+if+modern+enchantment+and+the+literary+prehistory+of+virtual+reality.+%2Caps%2C96&amp;sr=8-1&amp;ufe=app_do%3Aamzn1.fos.fa474cd8-6dfc-4bad-a280-890f5a4e2f90\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70765dbc-f6e1-4c87-83e6-4e67ab44db4e",
+      "type": "divider"
+    }
+  ]
+}

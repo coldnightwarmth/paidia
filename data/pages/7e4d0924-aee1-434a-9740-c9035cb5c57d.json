@@ -1,0 +1,126 @@
+{
+  "id": "7e4d0924-aee1-434a-9740-c9035cb5c57d",
+  "slug": "our-sportive-origin",
+  "title": "Our Sportive Origin",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Our-Sportive-Origin-7e4d0924aee1434a9740c9035cb5c57d?pvs=21",
+  "createdTime": 1651854955334,
+  "lastEditedTime": 1681313832447,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Our Sportive Origin"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6bf197a0645c.webp",
+  "blocks": [
+    {
+      "id": "927e1632-f492-444f-b257-bbcecb2ac9a7",
+      "type": "divider"
+    },
+    {
+      "id": "9633d2a8-6fba-4def-8b4d-403b869d0610",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "749c9de7-df43-4c75-97dc-fcbdc97d4c1c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3dedbf6a-c74f-47f2-bbc3-0150757f5c53",
+          "type": "column",
+          "children": [
+            {
+              "id": "5f4212e5-671a-4afc-b298-0b6763eafc36",
+              "type": "paragraph",
+              "html": "<em><strong>Our Sportive Origin: An Archetype for Healing (A Personal Story)</strong></em> was written by W. Randolph Purdy, published by Trafford Publishing, January 30, 2006."
+            },
+            {
+              "id": "127f1bf4-515a-4729-8fa4-442bb5ae65a3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "bb73374e-4d5f-4703-b7dd-87657455e397",
+              "type": "quote",
+              "html": "<em>Anyone caring for or ravaged by a chronic illness, a need for hope and healing, or an interest in spiritual exploration, will be interested in Dr. Purdy's journey. This is a soul-searching human interest story for all.<br><br></em>Our Sportive Origin: An Archetype for Healing (A Personal Story)<em> is an autobiography, combining narration, journaling, and poetry to describe the life lived, being lived, by Dr. W. Randolph Purdy. At times it presents more-or-less like a stream of consciousness beginning with early childhood athletic experiences, early adulthood successes, and then the unraveling of professional and personal life due to a devastating, disabling illness. He reveals his life-long involvement in athletics, with its attendant injuries as well as its joys and values, along with his life-long need for learning. The context throughout the book focuses on the intellectual and ultimately spiritual underpinnings of athleticism. There is a cogent argument that our &quot;sportive origin&quot; provides the author and potentially any one of us with an archetype for healing and remembered wellness.</em>"
+            },
+            {
+              "id": "3089d6b9-26f8-403c-9088-3451935bc3f5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "be440cf6-647f-4839-ab3c-ba7539d91115",
+          "type": "column",
+          "children": [
+            {
+              "id": "405adbb0-557f-4398-87a1-ba746fa581a2",
+              "type": "image",
+              "src": "./assets/images/untitled-6bf197a0645c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d571f3ca-b9ac-43b0-ba4d-107dac6c355e",
+      "type": "divider"
+    },
+    {
+      "id": "782d34e4-afac-4133-99e0-968ddf028e77",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d8ee1a34-673e-4cdc-97e8-913a6b508532",
+          "type": "column",
+          "children": [
+            {
+              "id": "bddd54fb-e365-48ba-afda-193b625283aa",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1b8af195-6c6f-4ede-9aa5-8331a070588c",
+          "type": "column",
+          "children": [
+            {
+              "id": "73858a4f-d6ef-45ea-b548-5910e9ac38e2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xOMzJb\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aace4908-ae5f-418b-9bf6-4cb171c5f152",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "88f81322-72a3-4966-9cb6-942dc7b1e711",
+  "slug": "our-national-parks",
+  "title": "Our National Parks",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/88f8132272a349669cb6942dc7b1e711",
+  "createdTime": 1665084875373,
+  "lastEditedTime": 1681312905547,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Our National Parks"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-53dd7aeeb1a1.webp",
+  "blocks": [
+    {
+      "id": "8463dd22-f010-474b-9a85-bc382344f41e",
+      "type": "divider"
+    },
+    {
+      "id": "e19caa43-ad3d-4ef4-8b5d-b7bc78bb28c4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b89e7c89-5729-4cd1-9559-ab92275bab02",
+      "type": "columns",
+      "children": [
+        {
+          "id": "943de214-4a19-4649-a6bf-f99f84b1364b",
+          "type": "column",
+          "children": [
+            {
+              "id": "d269a8d6-42a6-43a8-ab7b-fc96bd32a543",
+              "type": "paragraph",
+              "html": "<em><strong>Our National Parks</strong></em> was written by John Muir, originally published by Houghton Mifflin in 1901."
+            },
+            {
+              "id": "fcddf9f3-e9c9-42c6-9cc9-f2d938911480",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "30286d07-5a7c-44a6-8f64-4e8a28078c7d",
+              "type": "quote",
+              "html": "<em>First published in 1901, “</em>Our National Parks<em>” is a fantastic guide to the wild mountain forest reservations and national parks of the United States, exploring their beauty and usefulness in an attempt to encourage contemporary readers to go out and enjoy the natural wonders of North America. John Muir (1838–1914) was an influential Scottish-American naturalist, environmental philosopher, botanist, zoologist, author, and glaciologist who famously fought to preserve wilderness in the United States of America. Muir's work describing his adventures in nature have been read by millions the world over and his activism has helped to conserve such important places of natural beauty as the Yosemite Valley and Sequoia National Park in America.</em>"
+            },
+            {
+              "id": "4471f84d-d2ac-4232-bf9b-5208a61740f5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4c317775-77f4-4a3e-918c-c3bc6fbd3503",
+          "type": "column",
+          "children": [
+            {
+              "id": "45709ba3-3629-4433-b0b7-d4519c173a17",
+              "type": "image",
+              "src": "./assets/images/untitled-53dd7aeeb1a1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "499f7fc6-e5ff-438f-9d5e-7668cc063e36",
+      "type": "divider"
+    },
+    {
+      "id": "47e86a64-8944-48a2-af0f-1401b623933c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "36a161ca-c585-499a-a47c-8bdffe222e07",
+          "type": "column",
+          "children": [
+            {
+              "id": "f9369264-221c-4be0-b527-739317c19a59",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f4bae3db-74d0-4a89-953a-644f6460d716",
+          "type": "column",
+          "children": [
+            {
+              "id": "ff4c10b4-ed29-4c7e-9b11-2199ea7712bf",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3rEcJMe\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6d21383-8491-4a17-953c-31e536761293",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "1f145cbe-1fac-4aff-a92f-a646bcb2a308",
+  "slug": "the-marvelous-clouds",
+  "title": "The Marvelous Clouds",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Marvelous-Clouds-1f145cbe1fac4affa92fa646bcb2a308?pvs=21",
+  "createdTime": 1651685555765,
+  "lastEditedTime": 1681314217050,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Marvelous Clouds"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2a9abf28709f.webp",
+  "blocks": [
+    {
+      "id": "079d8f64-2b3d-4ec9-8860-a5bfce2c3a7d",
+      "type": "divider"
+    },
+    {
+      "id": "d2d442a7-0b22-4842-a955-5b1a3c326d00",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "792e0074-b1ed-4659-aa33-e74f3de6d124",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7967652e-a662-49da-963a-67addc4e858b",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd610f03-b6d7-4b1b-b1b0-31eb2f337f3e",
+              "type": "paragraph",
+              "html": "<em><strong>The Marvelous Clouds: Toward a Philosophy of Elemental Media</strong></em> was written by John Durham Peters, published by University of Chicago Press, August 15, 2016."
+            },
+            {
+              "id": "a9ba7cb7-e5a0-44df-942f-9a932d8921d0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4b5a862b-2984-48ae-bbd9-143cb5cf1ebf",
+              "type": "quote",
+              "html": "<em>When we speak of clouds these days, it is as likely that we mean data clouds or network clouds as cumulus or stratus. In their sharing of the term, both kinds of clouds reveal an essential truth: that the natural world and the technological world are not so distinct. In </em>The Marvelous Clouds<em>, John Durham Peters argues that though we often think of media as environments, the reverse is just as true—environments are media.<br><br>Peters defines media expansively as elements that compose the human world. Drawing from ideas implicit in media philosophy, Peters argues that media are more than carriers of messages: they are the very infrastructures combining nature and culture that allow human life to thrive.  Through an encyclopedic array of examples from the oceans to the skies, </em>The Marvelous Clouds <em>reveals the long prehistory of so-called new media. Digital media, Peters argues, are an extension of early practices tied to the establishment of civilization such as mastering fire, building calendars, reading the stars, creating language, and establishing religions. New media do not take us into uncharted waters, but rather confront us with the deepest and oldest questions of society and ecology: how to manage the relations people have with themselves, others, and the natural world.<br><br>A wide-ranging meditation on the many means we have employed to cope with the struggles of existence—from navigation to farming, meteorology to Google— The Marvelous Clouds shows how media lie at the very heart of our interactions with the world around us.  Peters’s  book will not only change how we think about media but provide a new appreciation for the day-to-day foundations of life on earth that we so often take for granted.</em>"
+            },
+            {
+              "id": "aa6930b7-d4b2-4e0c-ba8e-d37324d6e5c0",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a1f1ed62-7f8f-4f15-8304-3174d4f09da2",
+          "type": "column",
+          "children": [
+            {
+              "id": "92456b39-906e-4c10-ad5f-5ca5adab24db",
+              "type": "image",
+              "src": "./assets/images/untitled-2a9abf28709f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c86e7df2-3013-4f2d-b10f-61127944565d",
+      "type": "divider"
+    },
+    {
+      "id": "9fe8f834-e3f3-4680-848f-ec3a71a5d309",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c0ad14ed-9125-4f6f-8bfd-682b49826f5a",
+          "type": "column",
+          "children": [
+            {
+              "id": "a16c88b2-21ac-425f-910e-983d7bb00ff7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "544977b6-f5ef-4d6e-847e-fe5aba7d5543",
+          "type": "column",
+          "children": [
+            {
+              "id": "d3820978-a68b-45f8-97b8-ccd504ad885f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3u0CBmZ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3cc9dcd1-329b-4229-8f94-dc967d4b6934",
+      "type": "divider"
+    }
+  ]
+}

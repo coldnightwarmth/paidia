@@ -1,0 +1,131 @@
+{
+  "id": "815a2fd7-9345-446d-b1d3-24cb6c3451d0",
+  "slug": "taekwondo",
+  "title": "Taekwondo",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Taekwondo-815a2fd79345446db1d324cb6c3451d0?pvs=21",
+  "createdTime": 1651855197110,
+  "lastEditedTime": 1681313981432,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Taekwondo",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-4de677074b48.webp",
+  "blocks": [
+    {
+      "id": "f2442837-b532-4dc5-bd3f-5c3dbe9a474b",
+      "type": "divider"
+    },
+    {
+      "id": "64bf0df0-ec27-48a4-a1bd-fec56f9d0a13",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f5482686-9541-4a36-9e0b-ed328b8a1694",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ea8c83ee-41ab-47ea-add5-1d52c36828bf",
+          "type": "column",
+          "children": [
+            {
+              "id": "a2d1d4c0-b15e-4156-be09-662e18c2eb03",
+              "type": "paragraph",
+              "html": "<em><strong>Taekwondo: From a Martial Art to a Martial Sport</strong></em> was written by Udo Moenig, published by Routledge, October 31, 2016."
+            },
+            {
+              "id": "c6e7a23d-86f2-464f-a26f-6b5d870f5702",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "854b2c2c-0b11-4498-8d79-d76b1b3ba92f",
+              "type": "quote",
+              "html": "<em>This book provides a comprehensive overview of the historical, political, and technical evolution of taekwondo. Many of the supposedly ‘traditional’ and ‘ancient’ Korean cultural elements attached to taekwondo are, in fact, remnants of East Asia’s modernization drive, and largely inherited from the Japanese martial arts. The current historical portrayal has created an obstacle to a clear understanding of the history of taekwondo, and presents problems and contradictions in philosophy and training methodology. Using rich empirical data, including interviews with leading figures in the field, this book brings together martial arts philosophy with an analysis of the technical aspects and the development of taekwondo, and provides a detailed comparison of karate and taekwondo techniques. It debunks nationalistic mythology surrounding taekwondo to provide a reinterpretation of taekwondo’s evolution.</em>"
+            },
+            {
+              "id": "2f0772b5-86c4-4263-b071-9186917dcb87",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f2b6a428-85b5-4fd8-ab61-49a42f074236",
+          "type": "column",
+          "children": [
+            {
+              "id": "8ec846e7-0b36-4258-9db2-27a0c6998aec",
+              "type": "image",
+              "src": "./assets/images/untitled-4de677074b48.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a8a69d72-5376-47a2-8a31-8922dc4c6d31",
+      "type": "divider"
+    },
+    {
+      "id": "fc8a3b6c-f438-48b1-a5ea-de5cc8fd24ca",
+      "type": "columns",
+      "children": [
+        {
+          "id": "eb3724f1-c35e-4a6f-b014-877f828af45d",
+          "type": "column",
+          "children": [
+            {
+              "id": "176edc85-ab39-49b3-9097-d7015821c295",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "64fc5ee5-9b39-42f1-8d2b-b5cb608fde70",
+          "type": "column",
+          "children": [
+            {
+              "id": "acd19035-c611-43e7-943e-3bbf1dfd458d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NfgSi2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eeff1794-9e3e-40d5-b811-28c00c80187d",
+      "type": "divider"
+    }
+  ]
+}

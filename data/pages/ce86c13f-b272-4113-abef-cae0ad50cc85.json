@@ -1,0 +1,126 @@
+{
+  "id": "ce86c13f-b272-4113-abef-cae0ad50cc85",
+  "slug": "von-neumann-morgenstern-and-the-creation-of-game-theory",
+  "title": "Von Neumann, Morgenstern, & the Creation of Game Theory",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Von-Neumann-Morgenstern-the-Creation-of-Game-Theory-ce86c13fb2724113abefcae0ad50cc85?pvs=21",
+  "createdTime": 1668455611937,
+  "lastEditedTime": 1681312505087,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Von Neumann, Morgenstern, & the Creation of Game Theory",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0d1b33e69571.webp",
+  "blocks": [
+    {
+      "id": "ff0ab7c8-7205-4644-b302-4bd02b91beae",
+      "type": "divider"
+    },
+    {
+      "id": "bce64aa0-33f8-4f74-8e4f-a861e9c9297f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9065ec55-a005-4bb3-97ce-c82523089ee5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "43007b90-9de3-4551-95b4-9b6331671342",
+          "type": "column",
+          "children": [
+            {
+              "id": "5f565880-3d1f-477f-80c4-f60dfb7cd438",
+              "type": "paragraph",
+              "html": "<em><strong>Von Neumann, Morgenstern, &amp; the Creation of Game Theory: From Chess to Social Science, 1900–1960</strong></em> was written by Robert Leonard, published by Cambridge University Press, June 28, 2010."
+            },
+            {
+              "id": "f0a3653f-2485-411e-868a-afac55739079",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "407b29e4-aa00-4193-9e69-217ee0ccb4c4",
+              "type": "quote",
+              "html": "<em>Drawing on a wealth of new archival material, including personal correspondence and diaries, Robert Leonard tells the fascinating story of the creation of game theory by Hungarian Jewish mathematician </em><a href=\"#/john-von-neumann\"><em>John von Neumann</em></a><em> and Austrian economist Oskar Morgenstern. Game theory first emerged amid discussions of the psychology and mathematics of chess in Germany and fin-de-siècle Austro-Hungary. In the 1930s, on the cusp of anti-Semitism and political upheaval, it was developed by von Neumann into an ambitious theory of social organization. It was shaped still further by its use in combat analysis in World War II and during the Cold War. Interweaving accounts of the period’s economics, science, and mathematics, and drawing sensitively on the private lives of von Neumann and Morgenstern, Robert Leonard provides a detailed reconstruction of a complex historical drama.</em>"
+            }
+          ]
+        },
+        {
+          "id": "b9ecbb97-4617-40f3-9870-a236879b2226",
+          "type": "column",
+          "children": [
+            {
+              "id": "5a5e6858-81d2-47d7-82c4-ba999be733c1",
+              "type": "image",
+              "src": "./assets/images/untitled-0d1b33e69571.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885e8396-121a-4d6f-ad4e-94d48fd2e1a5",
+      "type": "divider"
+    },
+    {
+      "id": "21abbff6-e58c-4c0a-bc7d-497868c607ab",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cb8c6121-e722-4921-8657-ca4c0423779a",
+          "type": "column",
+          "children": [
+            {
+              "id": "2ea5f2ce-f4f3-4f9c-8e42-caad98e4ab8e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d27e43e6-8e49-4d0f-a664-502bfd59214f",
+          "type": "column",
+          "children": [
+            {
+              "id": "df0350cd-a6e8-466f-bfcf-dbcb1e69efc1",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Neumann-Morgenstern-Creation-Game-Theory/dp/052156266X/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=1668455591&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4970252-a259-4fae-88f8-2a6672bb6785",
+      "type": "divider"
+    }
+  ]
+}

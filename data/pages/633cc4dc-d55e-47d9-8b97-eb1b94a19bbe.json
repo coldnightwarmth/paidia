@@ -1,0 +1,131 @@
+{
+  "id": "633cc4dc-d55e-47d9-8b97-eb1b94a19bbe",
+  "slug": "game-testing",
+  "title": "Game Testing",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Game-Testing-633cc4dcd55e47d98b97eb1b94a19bbe?pvs=21",
+  "createdTime": 1657243081582,
+  "lastEditedTime": 1681313861577,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Game Testing",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d56d68dcbd35.webp",
+  "blocks": [
+    {
+      "id": "94901371-b732-4f54-a014-29e72310435e",
+      "type": "divider"
+    },
+    {
+      "id": "a5a7a82d-461c-42a9-be9a-41102c48b4b0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a1ed4dcd-a7e0-4144-9e5c-ad00163eefe5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a028040b-d042-48fa-bfa2-40630cd22a08",
+          "type": "column",
+          "children": [
+            {
+              "id": "fb0a6c65-089e-494e-b5ef-af80975d6621",
+              "type": "paragraph",
+              "html": "<em><strong>Game Testing: All in One </strong></em>was written by Charles P. Schultz &amp; Robert Denton Bryant, originally published by CT, January 1, 2005- now on its third edition."
+            },
+            {
+              "id": "ac760446-3c39-4694-bfed-e749cdbeafdd",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "60d9225a-fd55-4bd7-bba6-2f91f2f46898",
+              "type": "quote",
+              "html": "<em>An updated version of the bestselling </em>Game Testing All In One,<em> this book equips the reader with the rationale for vigorous testing of game software, how game testing and the tester fit into the game development process, practical knowledge of tools to apply to game testing, game tester roles and responsibilities, and the measurements to determine game quality and testing progress. The reader is taken step-by-step through test design and other QA methods, using real game situations. The book includes content for the latest console games and the new crop of touch, mobile, and social games that have recently emerged. A companion DVD contains the tools used for the examples in the book and additional resources such as test table templates and generic flow diagrams to get started quickly with any game test project. Each chapter includes questions and exercises, making the book suitable for classroom use as well as a personal study or reference tool.</em>"
+            },
+            {
+              "id": "51afbd3a-df34-473b-b0c3-0b2ba54d7131",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b69cebaa-5591-4cd4-8bb2-f4408043498e",
+          "type": "column",
+          "children": [
+            {
+              "id": "6c5b82a1-80b7-405b-be2d-d1acaac05155",
+              "type": "image",
+              "src": "./assets/images/untitled-d56d68dcbd35.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab4ed52a-cb1f-4842-a690-135175a17ace",
+      "type": "divider"
+    },
+    {
+      "id": "2a382362-a97d-4567-977e-7fe22a02e4c6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b60bfb23-f1df-462f-a741-8aa1821e4894",
+          "type": "column",
+          "children": [
+            {
+              "id": "9c071cea-d5dd-4bb1-a5a1-0a2c99d1623f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9bd310b6-2258-40d9-994b-d8a8a092742d",
+          "type": "column",
+          "children": [
+            {
+              "id": "3ac45d37-1f2b-4373-8be9-f080687f363d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yOUrMm\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe2e70cd-c42b-464c-ab35-717374828c64",
+      "type": "divider"
+    }
+  ]
+}

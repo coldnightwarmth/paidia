@@ -1,0 +1,136 @@
+{
+  "id": "af399179-2468-4604-a5d4-f6103941e257",
+  "slug": "the-wise-king",
+  "title": "The Wise King",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/af39917924684604a5d4f6103941e257",
+  "createdTime": 1651687010905,
+  "lastEditedTime": 1681313845002,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Wise King"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-16ac7bb26348.webp",
+  "blocks": [
+    {
+      "id": "629114e3-a3d0-4317-9cc6-9d8c9ed0639f",
+      "type": "divider"
+    },
+    {
+      "id": "caf22a73-c332-4947-8fe3-6ddd493183af",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d0581cc5-ea74-433e-b41f-3dbf3501b1e0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "be8764c3-09f2-491d-8c6f-37cda3c5f92d",
+          "type": "column",
+          "children": [
+            {
+              "id": "c75861f8-974f-4cc7-9b4f-1397e752906a",
+              "type": "paragraph",
+              "html": "<em><strong>The Wise King</strong></em> is a biography on Alfonso X written by Simon R. Doubleday published by Basic Books December 1, 2015. Alfonso X was the commisioner/creator of <a href=\"#/libro-de-los-juegos\"><em>Libro de los Juegos</em></a><em> (The Book of Games)</em>, containing the earlier written descriptions of Chess &amp; Backgammon."
+            },
+            {
+              "id": "d29d9c08-b12d-4133-a751-e74f42b8862b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c3be3856-b39f-4057-b67f-0342cfe8ef8f",
+              "type": "quote",
+              "html": "<em>&quot;If I had been present at the Creation,&quot; the thirteenth-century Spanish philosopher-king Alfonso X is said to have stated, &quot;Many faults in the universe would have been avoided.&quot; Known as El Sabio, &quot;the Wise,&quot; Alfonso was renowned by friends and enemies alike for his sparkling intellect and extraordinary cultural achievements. In The Wise King, celebrated historian Simon R. Doubleday traces the story of the king's life and times, leading us deep into his emotional world and showing how his intense admiration for Spain's rich Islamic culture paved the way for the European Renaissance.<br><br>In 1252, when Alfonso replaced his more militaristic father on the throne of Castile and Leon the battle to reconquer Muslim territory on the Iberian Peninsula was raging fiercely. But even as he led his Christian soldiers onto the battlefield, Alfonso was seduced by the glories of Muslim Spain. His engagement with the Arabic-speaking culture of the South shaped his pursuit of astronomy, for which he was famed for centuries, and his profoundly humane vision of the world, which Dante, Petrarch, and later Italian humanists would inherit. A composer of lyric verses, and patron of works on board games, hunting, and the properties of stones, Alfonso is best known today for his Cantigas de Santa Maria (Songs of Holy Mary), which offer a remarkable window onto his world. His ongoing struggles as a king and as a man were distilled-in art, music, literature, and architecture-into something sublime that speaks to us powerfully across the centuries.<br><br>An intimate biography of the Spanish ruler in whom two cultures converged, </em>The Wise King<em> introduces readers to a Renaissance man before his time, whose creative energy in the face of personal turmoil and existential threats to his kingdom would transform the course of Western history.</em>"
+            },
+            {
+              "id": "356a44c9-fa96-430d-aa86-15a6103be32e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "cf5dc279-dc7f-46c8-bb90-8aa33d9bc8f7",
+          "type": "column",
+          "children": [
+            {
+              "id": "c6e3481c-46d2-4258-a362-c540967e0b89",
+              "type": "image",
+              "src": "./assets/images/untitled-16ac7bb26348.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a84b9c9-e0a1-478f-b499-6919f46d140d",
+      "type": "divider"
+    },
+    {
+      "id": "41d7869a-1e9d-46d6-aebc-9288d6c7d9fa",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f07fb005-5ac9-43a9-bf12-4fd52936d081",
+          "type": "column",
+          "children": [
+            {
+              "id": "0f569508-b33f-483f-a2b3-ead52de042bd",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3f570b5b-7244-420c-8764-1222bac94e96",
+          "type": "column",
+          "children": [
+            {
+              "id": "0a814296-6ebe-4c05-97db-429a64898845",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3l1Vscx\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce97c732-6145-49c2-9346-71e9659eb46a",
+      "type": "divider"
+    },
+    {
+      "id": "13b61197-a533-4e85-bef1-78629342bd30",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "3d7eb5c7-13f8-41fd-89a1-7beb589c1b7f",
+      "type": "paragraph",
+      "html": "<a href=\"#/libro-de-los-juegos\">Libro de los Juegos</a> (The Book of Games) (<em>book</em>)"
+    }
+  ]
+}

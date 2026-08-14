@@ -1,0 +1,131 @@
+{
+  "id": "6f7185d9-563e-47f6-9d0e-820691dcbdf6",
+  "slug": "the-coming-collecting-boom",
+  "title": "The Coming Collecting Boom",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Coming-Collecting-Boom-6f7185d9563e47f69d0e820691dcbdf6?pvs=21",
+  "createdTime": 1668712556917,
+  "lastEditedTime": 1681312474127,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Coming Collecting Boom",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a36811ee805d.webp",
+  "blocks": [
+    {
+      "id": "3cf71e29-eaa0-4cf8-93b9-6008cb20b2f6",
+      "type": "divider"
+    },
+    {
+      "id": "907d6c0b-0676-4502-bbc3-a4aaca896330",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "81a9b68c-10c1-45a1-939b-d79d2de2bba3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "814fabd8-0e85-4a13-a607-f6f61f905b5f",
+          "type": "column",
+          "children": [
+            {
+              "id": "9168f2ae-b484-42f5-b379-e4f7c7af0490",
+              "type": "paragraph",
+              "html": "<em><strong>The Coming Collecting Boom</strong></em> was written by John Mebane, originally published by A. S. Barnes and Company, January 1, 1968."
+            },
+            {
+              "id": "36b60c0f-65ca-4fdd-a067-76c5a47fcbef",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "461194ad-e0a6-46ba-b423-d6e46e9bc5c3",
+              "type": "quote",
+              "html": "<em>The public's enthusiastic reception of John Mebane's </em>TREASURE AT HOME<em> secured his reputation as a leading authority on collectibles. The subsequent publication of his </em>NEW HORIZONS IN COLLECTING<em> brought the collectors' world up to date with a wide-ranging analysis of the &quot;Cinderellas&quot; of collectibles: &quot;new antiques&quot; which have been neglected for years or are only recently being discovered. Now in </em>THE COMING COLLECTING BOOM,<em> he goes beyond both the traditional and the not-so-traditional to the purely unique. This book is addressed to those who would join the new tribe of collectors (as well as to those who already belong) that has emerged in mid-20th century, the individual who finds pleasure in researching a more recent past than that which held his predecessor's interests. </em>THE COMING COLLECTING BOOM<em> is written out of the author's conviction that since the widely recognized and avidly sought antiques are diminishing in quantity and increasing in price a new opportunity presents itself to the imaginative: the chance to pioneer new and challenging areas of collecting. The period from which most of these items come is that of the late 19th century and the early years of the 20th.</em>"
+            },
+            {
+              "id": "365c79e1-6a4e-4317-a521-f24439a3bb78",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c4b9cf99-cb8f-4484-83ed-820bf191c19c",
+          "type": "column",
+          "children": [
+            {
+              "id": "36df249b-a61c-429b-8dec-df6740ee4757",
+              "type": "image",
+              "src": "./assets/images/untitled-a36811ee805d.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db003b87-f0c0-480a-afdb-67f1b533eadd",
+      "type": "divider"
+    },
+    {
+      "id": "66b00b1a-d632-4de9-917c-78c9790d9f9d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4aa591b6-e3a2-4563-9145-c8dbd9d1183d",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f43b67d-ee8a-4f2e-a8a7-1a86f8011446",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "00fe657d-a220-412d-8f48-1dba8765c444",
+          "type": "column",
+          "children": [
+            {
+              "id": "9dfa21ee-44f2-444d-b4b9-f0e673b314e5",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Coming-Collecting-Boom-John-Mebane/dp/B0000CODNG\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b36f35c5-ce2f-4cdb-9372-64cbb50bdcb3",
+      "type": "divider"
+    }
+  ]
+}

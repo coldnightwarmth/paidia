@@ -1,0 +1,141 @@
+{
+  "id": "5a976f62-aa85-4065-9ad8-bf905df942ad",
+  "slug": "the-golden-game",
+  "title": "The Golden Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/5a976f62aa8540659ad8bf905df942ad",
+  "createdTime": 1653491976100,
+  "lastEditedTime": 1681313495701,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Golden Game"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0354ffe9e739.webp",
+  "blocks": [
+    {
+      "id": "399395b6-d6a3-4508-a9ae-cafc26482f2c",
+      "type": "divider"
+    },
+    {
+      "id": "d253e37b-5774-4639-a424-bbc40de4312a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f0d7869d-b4ac-477e-badf-6648fcfff45a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "de5e4d0a-47a0-4873-9ca2-e716ab0f7d84",
+          "type": "column",
+          "children": [
+            {
+              "id": "091bd4f0-e363-405e-a8cd-0a2dfc2593c2",
+              "type": "paragraph",
+              "html": "<em><strong>The Golden Game: Alchemical Engravings of the Seventeenth Century</strong></em><em> </em>was written by Stanislas Klossowski De Rola, published by George Braziller in 1988."
+            },
+            {
+              "id": "ae11e811-5645-41f9-9012-b77fd32be743",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9e746dd6-3405-4be0-8bb8-d0d5aa0db198",
+              "type": "quote",
+              "html": "<a href=\"#/alchemy\"><em>Alchemy</em></a><em>, its mysteries, and the quest for the Philosopher's Stone have been a strand in the development of European culture from antiquity onwards. By the seventeenth century the complex pictorial language of alchemical symbols had reached a high point of elaboration and beauty. With the spread of printing, the whole fantastic iconography flowered as never before. This magnificent book presents a selection of the finest alchemical engravings, brought together for the first time. The best engravers of the age--the De Bry family, Merian, De Hooghe, and others--worked to interpret the haunting emblems of Lambsprinck and Michael Maier, the profundities of the wordless </em>Mutus Liber<em>, or the Christian mysticism of Jacob Bohme. In his introduction and commentaries, the author investigates the origins of this visual tradition, interprets the symbols, and provides information on authors, publishers, patrons, and engravers.</em>"
+            },
+            {
+              "id": "920db748-9575-4ca8-9f71-469692db9d8b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a291841b-c672-41c4-98e3-cca35df6025b",
+          "type": "column",
+          "children": [
+            {
+              "id": "e59b6017-3f3b-4837-9e84-855d57b2fb06",
+              "type": "image",
+              "src": "./assets/images/untitled-0354ffe9e739.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f22b4f5-3d92-428c-91a4-fa32958e6088",
+      "type": "divider"
+    },
+    {
+      "id": "a1940a89-6d8b-4f8e-b1e9-e729e2935202",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6dd6ce16-3b85-4d65-91e5-73c43e2e4ee6",
+          "type": "column",
+          "children": [
+            {
+              "id": "94701684-d9e2-4ae3-845d-7d38747d8ea6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "090cd76a-bbf3-4c17-956e-c9d693931b81",
+          "type": "column",
+          "children": [
+            {
+              "id": "c251a1ce-f86f-45d2-b903-0f4d8cd1aeaa",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sW0N9F\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a69b1705-2c66-4aea-8670-13a91ef51ec3",
+      "type": "divider"
+    },
+    {
+      "id": "1e460a6c-afb6-408f-9769-c6745475d999",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0a06712f-a41c-4029-9353-7b8ed8390045",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "6979b3c2-410d-454f-98a9-89446ae4b9b2",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "3635f56d-816b-40f2-b969-f46e9766da89",
+  "slug": "gaming-the-past",
+  "title": "Gaming the Past",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Gaming-the-Past-3635f56d816b40f2b969f46e9766da89?pvs=21",
+  "createdTime": 1659474607274,
+  "lastEditedTime": 1681313088822,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gaming the Past",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c279c84b2b93.webp",
+  "blocks": [
+    {
+      "id": "38b33dbd-ea72-4c67-bfaa-f44bc6348cec",
+      "type": "divider"
+    },
+    {
+      "id": "4a76ead2-85af-4d02-9d14-69a68e990c6d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "27d84403-c8d9-4a0d-a1df-002ce9a13e92",
+      "type": "columns",
+      "children": [
+        {
+          "id": "43b6e556-6487-4875-930b-80854f94cc4d",
+          "type": "column",
+          "children": [
+            {
+              "id": "f738ad22-d03b-4a83-bea3-68db808becff",
+              "type": "paragraph",
+              "html": "<em><strong>Gaming the Past: Using Video Games to Teach Secondary History</strong></em> was written by Jeremiah McCall, published by Routledge, May 16, 2011."
+            },
+            {
+              "id": "3af05507-684a-47c1-9cda-2f05b09bef2a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "574968f8-17ad-45d4-8a29-1852ade09589",
+              "type": "quote",
+              "html": "<em>Despite the growing number of books designed to radically reconsider the educational value of video games as powerful learning tools, there are very few practical guidelines conveniently available for prospective history and social studies teachers who actually want to use these teaching and learning tools in their classes. As the games and learning field continues to grow in importance, </em>Gaming the Past<em> provides social studies teachers and teacher educators help in implementing this unique and engaging new pedagogy. This book focuses on specific examples to help social studies educators effectively use computer simulation games to teach critical thinking and historical analysis. Chapters cover the core parts of conceiving, planning, designing, and implementing simulation based lessons. Additional topics covered include:</em>"
+            },
+            {
+              "id": "6b7340bf-ef43-4e96-8d45-21b067851308",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "003fba57-dc57-4c52-af4d-f053da21159c",
+          "type": "column",
+          "children": [
+            {
+              "id": "aa6da3a4-f87e-47b9-a56f-d7cc3dedb66a",
+              "type": "image",
+              "src": "./assets/images/untitled-c279c84b2b93.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97b08064-0dcb-409b-95c0-c5a6fec879a9",
+      "type": "divider"
+    },
+    {
+      "id": "c1977ecb-ce73-4a9d-9a16-747672eb3e3b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d4d863e3-be17-41bf-95f6-3c76bdcb75f0",
+          "type": "column",
+          "children": [
+            {
+              "id": "eafab2fb-6280-4e3a-928f-a6ca10c38aea",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b5421974-52f4-4fe3-830d-91b38622c040",
+          "type": "column",
+          "children": [
+            {
+              "id": "cb5629c6-7b6d-4fff-9d28-753c6e4d6890",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3vB2b2z\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07c19d81-c672-4bb4-b35c-1d4d14541cc7",
+      "type": "divider"
+    }
+  ]
+}

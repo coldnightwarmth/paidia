@@ -1,0 +1,136 @@
+{
+  "id": "3ed7777d-bb01-4782-a717-327e3923b791",
+  "slug": "video-games-and-american-culture",
+  "title": "Video Games & American Culture",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Video-Games-American-Culture-3ed7777dbb014782a717327e3923b791?pvs=21",
+  "createdTime": 1651966962749,
+  "lastEditedTime": 1681314273384,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Video Games & American Culture",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5d835c794179.webp",
+  "blocks": [
+    {
+      "id": "bd2517ff-4487-4e22-b5c1-24af63ee43d0",
+      "type": "divider"
+    },
+    {
+      "id": "539a6ec8-a64f-417e-9107-f405a61c1afa",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "efdfeb02-b14a-42a4-82d5-a0b915fb0467",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9a9f6b64-65fb-4f98-9aa4-105df6470ab4",
+          "type": "column",
+          "children": [
+            {
+              "id": "afa9f101-cd23-4482-89e0-f7479ee9abfa",
+              "type": "paragraph",
+              "html": "<em><strong>Video Games &amp; American Culture: How Ideology Influences Virtual Worlds</strong></em> was written by Aaron A. Tosano, published by Lexington Books, December 12, 2019."
+            },
+            {
+              "id": "2b9eea83-10d7-4969-8d34-b8943c2dfcce",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "14fb65fc-3b0b-43f5-b78c-4fe77bbf7eab",
+              "type": "quote",
+              "html": "<em>Digital media are immersive technologies reflecting behaviors, attitudes, and values. The engrossing, entertaining virtual worlds video games provide are important sites for 21st century research. This book moves beyond assertions that video games cause violence by analyzing the culture that produces such material. While some popular media reinforce the idea that video games lead to violence, this book uses a cultural studies lens to reveal a more complex situation. Video games do not lead to violence, sexism, and chauvinism. Rather, Toscano argues, a violent, sexist, chauvinistic culture reproduces texts that reflect these values. Although video games have a worldwide audience, this book focuses on American culture and how this multi-billion dollar industry entertains us in our leisure time (and sometimes at work), bringing us into virtual environments where we have fun learning, fighting, discovering, and acquiring bragging rights. When politicians and moral crusaders push agendas that claim video games cause a range of social ills from obesity to mass shooting, these perspectives fail to recognize that video games reproduce hegemonic American values. This book, in contrast, focuses on what these highly entertaining cultural products tell us about who we are.</em>"
+            },
+            {
+              "id": "b6f46394-23a7-41eb-b8a2-d2c2506536c4",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f3a1f01a-df23-4c6c-9f1a-ac4ec18030e7",
+          "type": "column",
+          "children": [
+            {
+              "id": "768010f3-ca30-47a6-8b9e-de7a392fcfc7",
+              "type": "image",
+              "src": "./assets/images/untitled-5d835c794179.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f562f0fd-da3c-46da-910e-2ff28d22655d",
+      "type": "divider"
+    },
+    {
+      "id": "2eedb77b-0d39-419b-9c77-eb96048b6568",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b5f1ba68-b8a6-4ab1-896e-aaf93917210f",
+          "type": "column",
+          "children": [
+            {
+              "id": "5249a4f3-56fc-4e17-a68e-9d24df7feed5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ec6231e0-5e23-4023-b55d-626b18c65881",
+          "type": "column",
+          "children": [
+            {
+              "id": "e08130be-b8f3-4cea-8c4f-a758be1e0a5b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3M9Nt8Z\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34306671-8afe-436e-a723-67d4f0bc5a90",
+      "type": "divider"
+    },
+    {
+      "id": "d32f1d95-598f-401e-8c41-5505ddc3ea23",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "2e4f2549-0d79-41c6-a8b1-053a91d622e5",
+  "slug": "games-journalism-sites",
+  "title": "Games Journalism Sites",
+  "icon": "📰",
+  "cover": "",
+  "type": "page",
+  "parentId": "d08eb6bc-5187-41bd-aa89-9594fd75f1e2",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/2e4f25490d7941c6a8b1053a91d622e5",
+  "createdTime": 1673620187118,
+  "lastEditedTime": 1681312026627,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "List"
+      ]
+    ],
+    "title": [
+      [
+        "Games Journalism Sites"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/animated-silver-dog-chain-aa9fff98e8ca.webp",
+  "blocks": [
+    {
+      "id": "411519f2-3a13-45c6-b288-218db62e9d65",
+      "type": "paragraph",
+      "html": "<em>master list of selected games journalism websites::</em>"
+    },
+    {
+      "id": "33c89c4c-2205-4613-88d2-7daa4dd1a320",
+      "type": "divider"
+    },
+    {
+      "id": "96cbc4b4-d839-43ea-bfcd-5e1ecd728cac",
+      "type": "image",
+      "src": "./assets/images/animated-silver-dog-chain-aa9fff98e8ca.webp",
+      "caption": "",
+      "alt": "animated_silver_dog_chain.gif"
+    },
+    {
+      "id": "0585cb20-598f-4edc-9e97-0adeb7a3e7b0",
+      "type": "collection_view",
+      "collectionId": "ab0a6ff7-43e3-4bdf-8858-ef784c0a2369",
+      "viewIds": [
+        "74e2dd62-a031-4777-a299-bc093d2c7523",
+        "6477c014-6dd0-4eb3-a382-7bef38f8fb04"
+      ],
+      "title": ""
+    },
+    {
+      "id": "85823a2f-49e4-4313-b33f-c4792984501c",
+      "type": "divider"
+    },
+    {
+      "id": "59d28622-dd8c-4e0b-bf66-c91089fb06bf",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "fc0d3784-a1d5-46f2-b3e0-a454fee0b1e9",
+      "type": "paragraph",
+      "html": "‣ "
+    },
+    {
+      "id": "d9dfb45c-6224-439e-a49e-37ad140a6cba",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "43d44557-9491-4e16-bf73-6e008c067ae6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ff766ac4-64ef-494d-a809-0595a751dc12",
+      "type": "paragraph",
+      "html": "<a href=\"#/lists-256bd3bc\">☜Lists</a>"
+    },
+    {
+      "id": "c4278de4-a8eb-4654-97ca-d2b457a879a9",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "50973a5c-6869-44a9-ad66-9faacfe9787b",
+  "slug": "the-science-of-play",
+  "title": "The Science of Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Science-of-Play-50973a5c686944a9ad669faacfe9787b?pvs=21",
+  "createdTime": 1659571911795,
+  "lastEditedTime": 1681313069329,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Science of Play",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-90c7356f8fdf.webp",
+  "blocks": [
+    {
+      "id": "e23d2f72-e5cc-4ad3-a476-7c24a93a9873",
+      "type": "divider"
+    },
+    {
+      "id": "30308d60-c4cb-4ae8-8687-533a567dd9b3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3c097a2c-ac8f-4df9-be3e-85d1fcf2f2cd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3c04551e-81b0-425a-8254-dfd7fa1d479b",
+          "type": "column",
+          "children": [
+            {
+              "id": "981e5d36-fd1d-4cea-9f9b-325df026492e",
+              "type": "paragraph",
+              "html": "<em><strong>The Science of Play: How to Build Playgrounds That Enhance Children’s Development </strong></em>was written by Susan G. Solomon, published by University Press of New England, November 4, 2014."
+            },
+            {
+              "id": "70935f0e-0f45-4018-962a-c869c5eb5c4a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6e891977-e738-4083-b60f-e2511b5f42fa",
+              "type": "quote",
+              "html": "<em>Poor design and wasted funding characterize today’s American playgrounds. A range of factors―including a litigious culture, overzealous safety guidelines, and an ethos of risk aversion―have created uniform and unimaginative playgrounds. These spaces fail to nurture the development of children or promote playgrounds as an active component in enlivening community space. Solomon’s book demonstrates how to alter the status quo by allying data with design. Recent information from the behavioral sciences indicates that kids need to take risks; experience failure but also have a chance to succeed and master difficult tasks; learn to plan and solve problems; exercise self-control; and develop friendships. Solomon illustrates how architects and landscape architects (most of whom work in Europe and Japan) have already addressed these needs with strong, successful playground designs. These innovative spaces, many of which are more multifunctional and cost effective than traditional playgrounds, are both sustainable and welcoming. Having become vibrant hubs within their neighborhoods, these play sites are models for anyone designing or commissioning an urban area for children and their families. </em>The Science of Play<em>, a clarion call to use playground design to deepen the American commitment to public space, will interest architects, landscape architects, urban policy makers, city managers, local politicians, and parents.</em>"
+            },
+            {
+              "id": "95cc6cb4-8468-45a3-bf9d-15d6cfdb7100",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "3f0c89da-8657-4014-8b93-1c95f381f927",
+          "type": "column",
+          "children": [
+            {
+              "id": "5f5f8c8f-b08f-4a40-aa2d-e19f0e91f434",
+              "type": "image",
+              "src": "./assets/images/untitled-90c7356f8fdf.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe17371c-59cf-4314-9d30-da65e326fd69",
+      "type": "divider"
+    },
+    {
+      "id": "fbeeb953-466d-468e-a89b-4a6ab347c9fd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2d97439f-7025-46da-9bd4-a7bbed595d71",
+          "type": "column",
+          "children": [
+            {
+              "id": "b9d69460-5c22-4890-b7f5-577a605d505a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1100ebba-8db6-4f7b-b6c5-3d4c317e6d7a",
+          "type": "column",
+          "children": [
+            {
+              "id": "270df27c-d49c-4dfa-9045-1104e82c1572",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SoxQ16\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f9de928-ea89-4cca-8511-111699531707",
+      "type": "divider"
+    }
+  ]
+}

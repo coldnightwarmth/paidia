@@ -1,0 +1,146 @@
+{
+  "id": "db2f9a6d-e510-4529-855b-a3bb340521bd",
+  "slug": "game-cultures",
+  "title": "Game Cultures",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Game-Cultures-db2f9a6de5104529855ba3bb340521bd?pvs=21",
+  "createdTime": 1659473695784,
+  "lastEditedTime": 1681313090098,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Game Cultures",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-53a558e7cc4b.webp",
+  "blocks": [
+    {
+      "id": "0b9cb5c5-3414-4346-8a6a-ebcb84845818",
+      "type": "divider"
+    },
+    {
+      "id": "86952518-1b38-4cdd-9735-e5460b591d0a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ed58f2a8-e31f-4d6b-8954-2d364824cd39",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3fff5a00-3c81-4349-932e-2cfc979dd621",
+          "type": "column",
+          "children": [
+            {
+              "id": "177472a6-daf4-414e-9c91-d6fc66a4a263",
+              "type": "paragraph",
+              "html": "<em><strong>Game Cultures: Computer Games As New Media</strong></em> was written by Jon Dovey, published by Open University Press, May 1, 2006."
+            },
+            {
+              "id": "ba3a4803-8bd1-45e0-b420-829955393952",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f6f99e54-fcbe-46cf-98ba-cdb2bef8a020",
+              "type": "quote",
+              "html": "<em>The authors provide an analysis of computer games as the most popular contemporary form of new media production and consumption, and examine their impact on established frameworks and concepts within cultural and media studies.</em>"
+            },
+            {
+              "id": "11e98875-123b-4e03-ad57-f10c6c563062",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "569be802-13d1-44ff-801a-0cf328bf1f0b",
+          "type": "column",
+          "children": [
+            {
+              "id": "66fd55d4-43ae-433c-9070-4fe5cac7d180",
+              "type": "image",
+              "src": "./assets/images/untitled-53a558e7cc4b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0afbc3c5-e954-4af5-9abe-623b5c241bd8",
+      "type": "divider"
+    },
+    {
+      "id": "addd3eda-b3f5-41a1-9a6d-b6ce4baa1d65",
+      "type": "columns",
+      "children": [
+        {
+          "id": "571843ce-f7c3-4595-96df-3602b18560cf",
+          "type": "column",
+          "children": [
+            {
+              "id": "2edc4445-31a1-4dfa-9f06-9a008287af13",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7b5744e4-fca7-4d47-b353-640a6508045a",
+          "type": "column",
+          "children": [
+            {
+              "id": "fa923088-eb11-4a69-906d-f7a77836622c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3vzljy8\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f527c5d7-22eb-4c8b-b104-6276a8939e01",
+      "type": "divider"
+    },
+    {
+      "id": "5f1c4453-b1d0-47b1-a155-84e5475ae144",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b02eba39-96bf-4c04-b684-f03e2bd6570b",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "cd69afdc-e70d-4c65-9ba0-b6fab69055e0",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

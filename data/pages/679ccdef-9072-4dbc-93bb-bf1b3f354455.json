@@ -1,0 +1,109 @@
+{
+  "id": "679ccdef-9072-4dbc-93bb-bf1b3f354455",
+  "slug": "theodore-roosevelt",
+  "title": "Theodore Roosevelt",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "366cc82f-2e46-4a02-92ec-406eb3394f24",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/679ccdef90724dbc93bbbf1b3f354455",
+  "createdTime": 1666978902499,
+  "lastEditedTime": 1681329266905,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Theodore Roosevelt"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-03d3fb577bfc.webp",
+  "blocks": [
+    {
+      "id": "84787238-7ad8-45b4-b6f2-0f11fdd5d9a4",
+      "type": "divider"
+    },
+    {
+      "id": "c4e23b32-9684-4e49-bf36-6af5b482156b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "047952c1-6b29-4646-8d56-5652752fabe4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5d59bce1-0102-4d90-91c3-a674133e0721",
+          "type": "column",
+          "children": [
+            {
+              "id": "2392e85f-fea8-4fd2-8e5f-383a165c0fa3",
+              "type": "paragraph",
+              "html": "<strong>Theodore Roosevelt</strong>"
+            },
+            {
+              "id": "09b315ee-2ddc-489b-9762-060c1604f4d9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f7a591e6-1e62-4842-a9eb-b7a72d25df89",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7afbb575-bd67-4211-af33-1472a9a98f06",
+          "type": "column",
+          "children": [
+            {
+              "id": "13e164b1-c46e-408c-9cb5-da60d718d7f8",
+              "type": "image",
+              "src": "./assets/images/untitled-03d3fb577bfc.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13bf4446-6228-4371-9f97-0fa0cf73e1ed",
+      "type": "divider"
+    },
+    {
+      "id": "04a361b3-2aa4-49e5-9d16-a32bd8ef1e19",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "d434ffa8-0f87-424c-ac30-672201ed7d88",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4513e402-1281-4a6d-a832-c9031843d3d8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e4c1784b-1d05-4f6b-aba9-173022185ec2",
+      "type": "divider"
+    },
+    {
+      "id": "3a3a0a39-12c6-46db-8d06-03704a480586",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

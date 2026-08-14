@@ -1,0 +1,94 @@
+{
+  "id": "f703153e-e2b2-409f-a4cf-ad93d50a70f8",
+  "slug": "donkeyspace-f703153e",
+  "title": "Donkeyspace",
+  "icon": "./assets/images/document-gray-7f1467ecac3d.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "f8a5a417-5015-4fe3-9e45-61f0673c414e",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/f703153ee2b2409fa4cfad93d50a70f8",
+  "createdTime": 1669995748671,
+  "lastEditedTime": 1681312264075,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Essay/Article"
+      ]
+    ],
+    "title": [
+      [
+        "Donkeyspace"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "bb7011b4-eca9-4ee4-b183-bd904c339d6f",
+      "type": "paragraph",
+      "html": "<em>by Frank Lantz</em>"
+    },
+    {
+      "id": "a30a4293-0bcb-482c-81f0-64ff58534247",
+      "type": "divider"
+    },
+    {
+      "id": "4dd57e50-561d-4fb5-ba54-46508920da22",
+      "type": "bookmark",
+      "src": "",
+      "title": "Game Design Advance"
+    },
+    {
+      "id": "a7b8ce80-7cd9-4313-837f-41daff8eff3d",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "39ce921d-2369-478b-9ba1-c5cad70b7fbb",
+      "type": "file",
+      "kind": "pdf",
+      "src": "./assets/documents/donkeyspace-103d8637f5.pdf",
+      "title": "Donkeyspace.pdf",
+      "size": "287.9KB",
+      "downloadName": "Donkeyspace.pdf"
+    },
+    {
+      "id": "26dd901d-7524-4d7e-8a0f-9fc0f63a3311",
+      "type": "file",
+      "kind": "file",
+      "src": "./assets/documents/donkeyspace-103d8637f5.pdf",
+      "title": "Donkeyspace.pdf",
+      "size": "287.9KB",
+      "downloadName": "Donkeyspace.pdf"
+    },
+    {
+      "id": "354cb549-06ed-45e9-a181-f9e6c5040515",
+      "type": "divider"
+    },
+    {
+      "id": "1dd54597-5f17-4f5c-a61d-1408deaa8f56",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7c5b7f96-34a3-4886-874a-fd9f485cf49f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d3ee85c7-1b13-402d-966f-d0e15e7182fa",
+      "type": "paragraph",
+      "html": "<a href=\"#/essays-articles-and-blogposts\"><u>☜Written Essays &amp; Articles</u></a>"
+    },
+    {
+      "id": "bc893b54-38fb-40a3-8af5-72c63f123511",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

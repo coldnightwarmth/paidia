@@ -1,0 +1,99 @@
+{
+  "id": "06f4345f-3c23-4769-bf2b-26b6222f7d7f",
+  "slug": "kristoffer-zetterstrand",
+  "title": "Kristoffer Zetterstrand",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ff095af8-c4a1-4725-a95d-eede18d6c32a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/06f4345f3c234769bf2b26b6222f7d7f",
+  "createdTime": 1652547173639,
+  "lastEditedTime": 1681329212320,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Kristoffer Zetterstrand"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/zetterstrand-sel-portrait-2018-v2-2000-5a2d1f936e55.webp",
+  "blocks": [
+    {
+      "id": "e8f990c8-3776-4faa-a755-4e3044b5c7cf",
+      "type": "divider"
+    },
+    {
+      "id": "17bfe4b2-5888-4fec-8277-2e8effe35448",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d9f7b509-3381-44ee-8f6f-03f2f7214e09",
+      "type": "columns",
+      "children": [
+        {
+          "id": "79804580-1ae0-400e-a865-5a3de13fda27",
+          "type": "column",
+          "children": [
+            {
+              "id": "b48d4456-f734-4d02-bcec-aa423f990dda",
+              "type": "paragraph",
+              "html": "<strong>Kristoffer Zetterstrand  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) was"
+            }
+          ]
+        },
+        {
+          "id": "98946f4f-bb2b-4477-b9d4-f835b5a79b6b",
+          "type": "column",
+          "children": [
+            {
+              "id": "8a8221fe-d8b8-4438-a15b-4565d834361f",
+              "type": "image",
+              "src": "./assets/images/zetterstrand-sel-portrait-2018-v2-2000-5a2d1f936e55.webp",
+              "caption": "",
+              "alt": "zetterstrand_sel_portrait_2018-v2-2000.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d84aa33-eb35-4550-95d5-cce28f199471",
+      "type": "divider"
+    },
+    {
+      "id": "50fde12e-6c6e-46a4-ba95-399f7361cac4",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "c924ce67-e387-49dd-9cd0-ba63920f918a",
+      "type": "paragraph",
+      "html": "<a href=\"https://zetterstrand.com/works/2002-paintings/\" target=\"_blank\" rel=\"noreferrer\">Works 2002</a> (<em>paintings</em>)"
+    },
+    {
+      "id": "fb810953-4d64-4a65-91a2-35448228633b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f137cb2e-0fe1-4150-b915-c96f7eaa823d",
+      "type": "divider"
+    },
+    {
+      "id": "f17753ac-158c-49e7-9ed8-5e00a67da766",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

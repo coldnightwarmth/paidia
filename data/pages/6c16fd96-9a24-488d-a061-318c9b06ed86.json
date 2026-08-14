@@ -1,0 +1,121 @@
+{
+  "id": "6c16fd96-9a24-488d-a061-318c9b06ed86",
+  "slug": "the-poetics-of-space",
+  "title": "The Poetics of Space",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Poetics-of-Space-6c16fd969a24488da061318c9b06ed86?pvs=21",
+  "createdTime": 1651858244876,
+  "lastEditedTime": 1681314240693,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Poetics of Space"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3dd4645e4b04.webp",
+  "blocks": [
+    {
+      "id": "9d15587a-f1a3-4f11-ad64-c28175ea7f6d",
+      "type": "divider"
+    },
+    {
+      "id": "f36f7c46-ccad-4cc0-93cd-e8de9e91cc20",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cecfa723-a65f-46a7-9c04-6822df3952ef",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b194358b-5a1d-45f2-b61d-bbd3a359cefd",
+          "type": "column",
+          "children": [
+            {
+              "id": "872f3859-46d5-4a7f-98aa-78ba5de1d72b",
+              "type": "paragraph",
+              "html": "<em><strong>The Poetics of Space</strong></em> was written by Gaston Bachelard, originally published in English by Orion Press, January 1, 1964."
+            },
+            {
+              "id": "67c512e3-7547-495b-836f-bfc1a566b522",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "936ffdde-94a8-4fc0-a346-9a5509dc6fec",
+              "type": "quote",
+              "html": "<em>Since its initial publication [in French] in 1958, </em>The Poetics of Space<em> has been a muse to philosophers, architects, writers, psychologists, critics, and readers alike. The rare work of irresistibly inviting philosophy, Bachelard’s seminal work brims with quiet revelations and stirring, mysterious imagery. This lyrical journey takes as its premise the emergence of the poetic image and finds an ideal metaphor in the intimate spaces of our homes. Guiding us through a stream of meditations on poetry, art, and the blooming of consciousness itself, Bachelard examines the domestic places that shape and hold our dreams and memories. Houses and rooms; cellars and attics; drawers, chests, and wardrobes; nests and shells; nooks and corners: No space is too vast or too small to be filled by our thoughts and our reveries. In Bachelard’s enchanting spaces, “We are never real historians, but always near poets, and our emotion is perhaps nothing but an expression of a poetry that was lost.”</em>"
+            }
+          ]
+        },
+        {
+          "id": "851309c9-ff21-4bfc-9c54-c2a3a4d57f59",
+          "type": "column",
+          "children": [
+            {
+              "id": "0dbfdc95-7576-4c35-983a-616c1068796e",
+              "type": "image",
+              "src": "./assets/images/untitled-3dd4645e4b04.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b9de9f8-0e79-4daa-a0bd-c7f7eb75d07c",
+      "type": "divider"
+    },
+    {
+      "id": "72f482f3-e7bd-43ae-95b2-b5169200f721",
+      "type": "columns",
+      "children": [
+        {
+          "id": "16b3f670-4184-4072-ba23-fa6ce6a8b607",
+          "type": "column",
+          "children": [
+            {
+              "id": "5342d6f1-7394-41d4-8262-faed2724c0c2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9670184f-38ee-4b6a-8e5f-76d4b1cac3fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "867dbdd2-3f93-4680-8946-4cf85a23aaad",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3lIoUVk\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b900a03c-fe31-4483-b77c-49f2affdeb08",
+      "type": "divider"
+    }
+  ]
+}

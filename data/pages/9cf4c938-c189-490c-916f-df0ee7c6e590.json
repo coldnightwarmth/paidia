@@ -1,0 +1,131 @@
+{
+  "id": "9cf4c938-c189-490c-916f-df0ee7c6e590",
+  "slug": "rip-off-the-big-game",
+  "title": "Rip Off the Big Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Rip-Off-the-Big-Game-9cf4c938c189490c916fdf0ee7c6e590?pvs=21",
+  "createdTime": 1657230786782,
+  "lastEditedTime": 1681313982483,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Rip Off the Big Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-68b725d946c0.webp",
+  "blocks": [
+    {
+      "id": "a1583037-61b2-4ae7-8dad-3b94e8c8baa1",
+      "type": "divider"
+    },
+    {
+      "id": "c30238ea-772e-473d-ac93-4413e4564e0d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e34696ad-8844-4c67-a753-0e3279cd9f76",
+      "type": "columns",
+      "children": [
+        {
+          "id": "47cd42d0-509e-48d6-9a9b-063d45a88793",
+          "type": "column",
+          "children": [
+            {
+              "id": "6212a160-bbf7-4227-aedd-bb6ec10d248a",
+              "type": "paragraph",
+              "html": "<em><strong>Rip Off the Big Game </strong></em>was written by Paul Hoch, published by Anchor Books, January 1, 1972."
+            },
+            {
+              "id": "14fb6d2a-ba3b-41e7-95bc-6528ce6aeedd",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "669801bd-974e-433b-b1af-2330918ff72c",
+              "type": "quote",
+              "html": "<em>Vintage (1970) expose:&quot;a hard-hitting, radical, controversial, critical analysis of the Sports Establishment, and the power elite behind it.”</em>"
+            },
+            {
+              "id": "9b58bde2-1325-4ff5-8490-052f2e817912",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "74ac09cd-0de0-4bc3-8e1e-2f9db8e4a208",
+          "type": "column",
+          "children": [
+            {
+              "id": "ac0760d5-c6dd-44b8-b460-3d60c5ecd291",
+              "type": "image",
+              "src": "./assets/images/untitled-68b725d946c0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3ddbde43-d07b-4374-9645-a55b011e74e5",
+      "type": "divider"
+    },
+    {
+      "id": "30d0b93d-1f39-49d5-abb9-30cb9afd6b32",
+      "type": "columns",
+      "children": [
+        {
+          "id": "373f4b3f-6d5e-4964-808c-11410ccf6c6d",
+          "type": "column",
+          "children": [
+            {
+              "id": "256c76f0-d3f4-4a54-bb1a-1107e18b5d03",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c0e7b815-f281-4752-bfe4-ea05a3b6132a",
+          "type": "column",
+          "children": [
+            {
+              "id": "3da252c8-d68a-46e9-a06b-05247987bab4",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bS1smJ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7dba412-0d85-4ee3-9a3c-8271e3032269",
+      "type": "divider"
+    }
+  ]
+}

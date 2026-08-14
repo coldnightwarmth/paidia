@@ -1,0 +1,126 @@
+{
+  "id": "9f5299c3-63b1-438a-af65-62545dc79dfb",
+  "slug": "the-history-of-sunsoft",
+  "title": "The History of Sunsoft",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-History-of-Sunsoft-9f5299c363b1438aaf6562545dc79dfb?pvs=21",
+  "createdTime": 1664473280454,
+  "lastEditedTime": 1681312940360,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The History of Sunsoft"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1-6ef005e0e6f9.webp",
+  "blocks": [
+    {
+      "id": "cfa581fc-fce3-40ad-9ca4-0a9c810b7835",
+      "type": "divider"
+    },
+    {
+      "id": "512e367f-4657-4db8-a6a4-71987845615c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fdbfe5ef-0da7-446c-98e4-1233a3d995b9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9c08a761-5c9b-4a96-8426-c3ce7fdce16b",
+          "type": "column",
+          "children": [
+            {
+              "id": "91bc58b8-9aa9-4c86-9031-6e2a2cb63df7",
+              "type": "paragraph",
+              "html": "<em><strong>The History of Sunsoft</strong></em> was written by Stefan Gancer, published by Limited Run Games, September 29, 2022."
+            },
+            {
+              "id": "85831347-2f03-4844-8aff-5e9315a56e15",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3f9c7639-46e0-4871-b91c-d545cbc69290",
+              "type": "quote",
+              "html": "<em>An exhaustively researched exploration of the history of one of gaming’s true creative powerhouses, Japanese publisher Sunsoft. From its origins as a textile company to its breakout titles for arcades and NES,</em> The History of Sunsoft<em> is supported by extensive interviews and first-hand accounts by the people behind the company!<br><br>An in-depth exploration of one of the most influential video game developers of all time! Author Stefan Gancer delves deep into the past to trace the evolution of Sun Corporation from a humble textile manufacturer to the creator of some of the most popular games of the Nintendo era. Featuring commentary from Sunsoft’s creators, interviews with game developers, and exhaustive research into the company’s past, this first volume of </em>The History of Sunsoft <em>is the definitive treatise on a crucial slice of video game history.</em>"
+            }
+          ]
+        },
+        {
+          "id": "5cbd0277-56ae-40d9-b203-a1d0eaadcc37",
+          "type": "column",
+          "children": [
+            {
+              "id": "acfe704d-1e06-4380-9108-7bb1cd094510",
+              "type": "image",
+              "src": "./assets/images/untitled-1-6ef005e0e6f9.webp",
+              "caption": "",
+              "alt": "Untitled-1.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "993ed854-ad00-4f2d-ab1d-4cfed6626911",
+      "type": "divider"
+    },
+    {
+      "id": "53acd1cb-38a0-4cd4-9dfc-ed390e6b0cb1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c50cc13d-9d1a-444d-8c13-07d9693b8481",
+          "type": "column",
+          "children": [
+            {
+              "id": "cc4681b6-e38e-4215-a7ec-e3cc11db94b2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "318e2ac9-ea48-4b0e-8a5b-1a7315e50b95",
+          "type": "column",
+          "children": [
+            {
+              "id": "dce27e9a-b28a-4435-a7ba-d05b84d67a57",
+              "type": "callout",
+              "html": "<a href=\"https://limitedrungames.com/collections/books/products/the-history-of-sunsoft-vol-i-hardcover#product-details\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7b8647e-175f-41c7-9c98-273bb8e58334",
+      "type": "divider"
+    },
+    {
+      "id": "f3179e77-364f-4fe2-98c6-a67bee1cfbb2",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

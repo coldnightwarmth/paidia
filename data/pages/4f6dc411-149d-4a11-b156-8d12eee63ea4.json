@@ -1,0 +1,131 @@
+{
+  "id": "4f6dc411-149d-4a11-b156-8d12eee63ea4",
+  "slug": "oxford-history-of-board-games",
+  "title": "Oxford History of Board Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Oxford-History-of-Board-Games-4f6dc411149d4a11b1568d12eee63ea4?pvs=21",
+  "createdTime": 1660318123035,
+  "lastEditedTime": 1681313021764,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Oxford History of Board Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/51f2dlpwnhl-sx302-bo1204203200-f92c506fb909.webp",
+  "blocks": [
+    {
+      "id": "7747e8d9-4b7a-4145-95ca-57d2dcf92c15",
+      "type": "divider"
+    },
+    {
+      "id": "fbc2d451-65d5-4cf4-b2a4-7f6088d80048",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8f2b1686-3f9e-4a6f-b997-8ac93c96ec70",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5d9cb767-738e-42e1-9e00-c5f979e79cd4",
+          "type": "column",
+          "children": [
+            {
+              "id": "3b868ab7-e172-4ac9-9737-8499dba2aaed",
+              "type": "paragraph",
+              "html": "Parlett’s <em><strong>History of Board Games</strong></em> was written by David Parlett, published by Oxford University Press in 1999."
+            },
+            {
+              "id": "fbc1a829-eecc-4cb7-8983-26b86fa9f442",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "682856b7-a6ab-4723-82ce-9fd4be47fb82",
+              "type": "quote",
+              "html": "<em>For thousands of years, board games have captured our imaginations as we have conspired against, chased, and attacked one another across the table from our friends and foes, locked quest for victory.<br><br>In his newly updated </em>History of Board Games<em> (the previous edition was titled: </em>The Oxford History of Board Games<em>), David Parlett explores the fascinating origins and development of our favorite games – from the Egyptian and Asian predecessors of checkers and chess to modern classics like </em>Monopoly<em> and </em>Clue<em>. With an entertaining, accessible style, Parlett delves into what is one of the most universal roots of our cultural history, highlighting the importance of game-playing as a vital part of the human experience.<br><br>In addition to his detailed research on the mechanisms of games, Parlett adds his unique insight drawing upon 20 years of experience as a professional games researcher, critic and game inventor to explore lesser-known and experimental games.<br><br>Games covered in this entertaining title include </em>Alquerque; backgammon; chess; Cluedo; Draughts; Fox &amp; Geese; Go; Halma; Ludo; Monopoly; Noughts &amp; Crosses; Oware; Pachisi; Scrabble; Snakes &amp; Ladders; solitaire; Trivial Pursuit<em> are included, along with many more.</em>"
+            },
+            {
+              "id": "0da2747b-a053-4a61-8eb6-3ce8e9029a15",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2e91627e-4d72-4cb4-bdde-1cbb19f3440e",
+          "type": "column",
+          "children": [
+            {
+              "id": "5d512a41-9748-4af8-90ac-cd0d6c099078",
+              "type": "image",
+              "src": "./assets/images/51f2dlpwnhl-sx302-bo1204203200-f92c506fb909.webp",
+              "caption": "",
+              "alt": "51F2DlPWNHL._SX302_BO1,204,203,200_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97d902ee-166e-45b2-8e3b-f41b05b2c170",
+      "type": "divider"
+    },
+    {
+      "id": "e173defe-7d1b-4154-8f11-e74e426c89a8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fb792b0f-96b2-44a2-af90-d2c7519ee39e",
+          "type": "column",
+          "children": [
+            {
+              "id": "584cb083-fd74-4c08-9550-fbef8e576d5b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "30a3edf3-d85e-43be-9808-256860d756d1",
+          "type": "column",
+          "children": [
+            {
+              "id": "93fcb957-3eeb-4c38-a4bf-12843f279ac3",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3PpnZW2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e93aaf1-e7cb-4bb5-a0df-6dca20020a6d",
+      "type": "divider"
+    }
+  ]
+}

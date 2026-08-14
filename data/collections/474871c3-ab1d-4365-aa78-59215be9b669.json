@@ -1,0 +1,5003 @@
+{
+  "id": "474871c3-ab1d-4365-aa78-59215be9b669",
+  "name": "paidiasophia .wiki",
+  "schema": {
+    "Bjg@": {
+      "id": "Bjg@",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "3637c3b3-83a0-4b72-bc55-66254cc5a92b",
+          "value": "Page",
+          "color": "brown"
+        },
+        {
+          "id": "f669dedc-5062-4bd0-8cdb-59a977212985",
+          "value": "Page List",
+          "color": "red"
+        },
+        {
+          "id": "be0c0c41-3cd7-4eff-8f88-60cd6c575a60",
+          "value": "List",
+          "color": "default"
+        },
+        {
+          "id": "c3b01a12-d5b5-44ab-925b-ab47c5a29d60",
+          "value": "Concept",
+          "color": "gray"
+        },
+        {
+          "id": "e5b36bbe-103a-4a50-9b05-408269fd187a",
+          "value": "Book",
+          "color": "yellow"
+        },
+        {
+          "id": "fcf05b78-288a-4ba2-b409-be15b66f02cc",
+          "value": "Essay/Article",
+          "color": "purple"
+        },
+        {
+          "id": "bd1c6345-9e00-4c16-ac6a-c1d83f653125",
+          "value": "Poem",
+          "color": "red"
+        },
+        {
+          "id": "18d481ef-8ecc-466b-ae4a-dd7e6097fc36",
+          "value": "Sport",
+          "color": "green"
+        },
+        {
+          "id": "0491ca70-4add-49a6-8277-e7977079200b",
+          "value": "Person",
+          "color": "pink"
+        },
+        {
+          "id": "11f42cbd-5007-43e3-bcd2-433c684d07d3",
+          "value": "Game",
+          "color": "blue"
+        },
+        {
+          "id": "b7f3f1ed-7d15-415e-95fb-efc0a39fc58a",
+          "value": "Tabletop Game",
+          "color": "orange"
+        },
+        {
+          "id": "e840e1b4-14e1-4d03-b417-2e1c5d31249a",
+          "value": "Toy",
+          "color": "pink"
+        },
+        {
+          "id": "e0668a93-2359-4db2-b9b7-626ea75e3239",
+          "value": "TV Series",
+          "color": "brown"
+        },
+        {
+          "id": "97f1f6c4-8b78-451c-b8d8-c3e34c56e6a8",
+          "value": "Videogame",
+          "color": "pink"
+        }
+      ]
+    },
+    "D>tG": {
+      "id": "D>tG",
+      "name": "Verification",
+      "type": "verification",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": "notion://wiki/owner_property",
+      "options": []
+    },
+    "ec<d": {
+      "id": "ec<d",
+      "name": "Last edited time",
+      "type": "last_edited_time",
+      "icon": "",
+      "default": null,
+      "dateFormat": "relative",
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Page",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "notion://wiki/owner_property": {
+      "id": "notion://wiki/owner_property",
+      "name": "Owner",
+      "type": "person",
+      "icon": "",
+      "default": "created_by",
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "f597d59b-6c12-4a0f-b735-78bc1500ff69",
+      "collectionId": "474871c3-ab1d-4365-aa78-59215be9b669",
+      "type": "page",
+      "name": "Home",
+      "pagePointerId": "dcdce636-0430-48ea-98c8-b0c6e48368c3",
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "36e03615-7d0c-4fc6-8e9a-af4d7b5a9992",
+      "collectionId": "474871c3-ab1d-4365-aa78-59215be9b669",
+      "type": "table",
+      "name": "All pages",
+      "pagePointerId": null,
+      "pageSort": [
+        "c57a7305-7d66-4380-bb00-388bf5464207",
+        "907a3709-7f78-4bb3-87ce-ee1c5985483c",
+        "ee99bfa1-1b6b-4197-b236-d123e51443c4",
+        "ffbb90ca-f3e2-471a-a6eb-9392ac14dbab",
+        "dd696a24-a822-4327-9b44-cd066f6c6309",
+        "cce7d9fd-65b8-4d43-b484-a7be4051efe7",
+        "61430a5e-b989-44e3-b66b-92fc4a9a276b",
+        "5f119276-fc9d-4d32-a72a-59b44ff68bb2",
+        "2652f743-78d9-431f-ac55-e6ac5612b929",
+        "8d01bb8f-01cc-448a-b158-54f62a4e605f",
+        "3b456f49-c056-4f10-a574-3d4a035d95e8",
+        "22fc7013-12d0-423a-ae51-423066148051",
+        "738cb2e6-5d8b-4036-8312-22fdd6417058",
+        "64a3f7c8-dccd-4b19-9b6a-b892adbf0acc",
+        "42924f75-de9e-4077-bf72-af4e7355ee9a",
+        "293af814-c222-433a-b47d-0d439120fdf5",
+        "2e9f0a05-701e-46d9-b02b-f5a355592b39",
+        "be6171ce-3fd4-497e-a4c4-511de7a6c142",
+        "1dcc7340-e792-48c6-9d86-6190f67b0ebb",
+        "9cfb31e5-a16e-458e-8c4f-3d8ac342f982",
+        "a3b6b913-9615-4121-8952-1e8ceb17b92f",
+        "a0f2696f-290d-4288-8349-bca8f4b189c7",
+        "ef0272e9-e03b-4f23-a072-ae3a88c921f4",
+        "87959829-3e26-429e-8e81-e34fe8283b43",
+        "b9453578-3a2f-44af-979e-026d016a3206",
+        "063f61d8-885c-4735-92c0-20bf35542ad9",
+        "ff329aa5-506b-4dda-8e2a-85cf0d99d56f",
+        "072127e0-136f-448b-af60-cf255b918d2c",
+        "53738065-4928-4ab9-9e18-0ba1ea8c3983",
+        "4fb2c552-be4c-46b0-acc9-8f255f28fd91",
+        "eb1a7675-1300-4c2a-9883-88b5aceb6094",
+        "2daf6750-57f0-4d5b-9a7b-e0c167ae7b1a",
+        "c2654530-759c-4a96-bdf6-6fd639d46cbd",
+        "8cbd1870-4c3a-44f6-9d4d-07882ab38e48",
+        "109187ea-a4ba-4430-b0c4-b0d53ee46837",
+        "736b0453-6afd-4be2-8d0d-c129265747c6",
+        "f78340ca-3fad-4d12-a175-dad0151c59ef",
+        "66fddde7-318f-48b6-a72d-6d4d2fa9462d",
+        "cd1a0358-364a-4cef-b264-413bb8473d0a",
+        "d115c792-6734-4ebe-b6cb-deb88d2a31d2",
+        "8973fa8b-922d-4a36-9fca-99b8a9c546fe",
+        "10a72bd2-d23c-4267-916e-1c804f2580db",
+        "0454e33e-6fb5-4883-95bd-163818fd9367",
+        "fd54d727-0b1e-4a44-9a67-1f199fb08c58",
+        "b37eca90-4e08-4910-ae2b-d0c02487dd3f",
+        "1b14ae24-a6d2-4351-ab91-17752e66a024",
+        "b7050874-2251-404d-aedc-226a23780c22",
+        "0223c329-7a5b-4ffb-af55-9e61c29319b8",
+        "76da32f2-23b7-46a1-9f29-c0ac81942c87",
+        "6c94bdcb-3ab6-4531-838f-a25f6a5bf03a",
+        "27b3a9cb-3713-40f7-bb2e-65435a570f24",
+        "8415c945-d018-4542-b963-617cad47f0f0",
+        "69ee4197-d6a4-40b9-be2a-93519c40917b",
+        "0c5f4e46-fa60-4e28-ae71-9efa426b26b1",
+        "1a70328b-bc51-4a7a-90fd-592bf632e73b",
+        "436bbe02-b46b-4576-860e-e1124d421a43",
+        "5f0dbbda-bcbd-4b6f-8087-a750b8fbdcc3",
+        "2d6bbb0a-fa1b-4971-a479-8e7f856b9547",
+        "294983c6-fc28-42f6-9fac-76c90b667354",
+        "3cddfe0c-6fae-4b2a-b6a6-bcae10ce8951",
+        "89417d45-e29a-4d61-bb03-ff1e5c753a94",
+        "4fa58c95-d859-4861-ae8b-f5080191e9e7",
+        "97bbc1dd-b63c-480c-b1ef-109eac606852",
+        "5bfa916b-4ef2-4833-9ae7-90f3980b782a",
+        "cd718e13-4393-4ce5-9c62-d3c9d2460219",
+        "fc421ddf-0752-4bb5-8597-4becab61b5ed",
+        "859a554f-dc8c-4670-acd4-d7a05a418057",
+        "6542cf29-4c51-40dc-ba12-58e6c229f3f4",
+        "92860c98-0445-400b-896c-15a521b085bc",
+        "492ff417-3e3c-4c05-99fc-8af0bcd3847d",
+        "1c251741-1d9c-4547-b208-08d71e7bbda9",
+        "22a8e64a-efda-4ee0-b919-21619f2231e1",
+        "077269d0-99e5-4e12-a680-474eba14225f",
+        "2de20dcc-dab3-46fc-9cca-ca472a6439dc",
+        "0f796b10-824c-4c6b-888a-884bf10f7e52",
+        "17ff1def-a05d-4aed-b9ef-9bdead1cb076",
+        "e3ce7e60-2c33-4fc6-b684-161d6b05d846",
+        "99242db1-443d-403b-9c66-34784beb379d",
+        "a721b8fd-1459-4307-bc8c-22001460e593",
+        "08c5a987-616e-40c3-8742-13dce4d0ae3f",
+        "2e0ef928-863b-4f24-a9eb-d514ebc1da02",
+        "b0026938-e59c-4bce-9cdb-9cbd473bdeff",
+        "43264aa8-6ad7-4f74-be11-92256250c275",
+        "4b56fb3c-20ca-4af7-9f4d-689e04874e7a",
+        "2501a2f3-1985-4da1-b4ff-e72b828f44d5",
+        "e6849a90-b530-4aa1-991f-efed5c5b83c9",
+        "0dd8539d-3df9-4538-acaa-15a5c0d76f7a",
+        "db82239f-e3df-4647-b3e6-0a7cc16e1f16",
+        "607c9728-8471-4792-8704-e76c93b917c0",
+        "95e7f195-d5fa-4088-a67b-6e0023781a3f",
+        "3a7eb74f-2db3-4a3b-8b48-ffbe7b0c8a28",
+        "1afdf085-bc8b-460c-b806-adabd744cabd",
+        "bb9c608f-2695-4301-a8b9-13314c0a0d9d",
+        "c25971fd-2587-48b3-a0c9-495b1a246a63",
+        "f945b2e4-ee99-41f9-a7fd-d6fe62f9b56f",
+        "0e4d04fa-fcc7-435f-8a74-677c3756a5b5",
+        "3e85b92c-cb0b-4baf-a0b5-2b06c1a54387",
+        "d2b1152e-83ec-40c8-8a30-16e9107f0382",
+        "fcda349f-25b4-4269-8f95-cdcc0ce52690",
+        "685f97ac-5802-42ca-9b16-c3d9070fd617",
+        "2f59e012-4f25-4241-ae5b-9c5cec38b0ba",
+        "ea4ab734-6dad-49b0-a801-ae2659916303",
+        "181d553c-fff2-402c-b696-67bd47303c8c",
+        "aa5656ac-a0d3-4a9a-b262-e40000b5ad6e",
+        "2339de1f-a726-4df4-9292-e0e478c52403",
+        "89b28e73-18a3-4ada-bdae-082fd339cd89",
+        "d05c1eaa-12a3-4754-a501-0dea1eadfc98",
+        "b417b27e-7eca-4a7c-947f-28da4b1147b3",
+        "34e8bcab-d89e-4694-8dc9-5ea380afb91c",
+        "23ba1887-b0eb-4657-a5fb-871348755a8c",
+        "7bbfd373-ed9c-42bd-976e-46297aab4a21",
+        "09ebf862-fcd5-422a-91ec-70aa7f248fb9",
+        "fc7a629d-3223-41ab-b8bc-9c4aeb472551",
+        "bc83bf6c-f59c-4e9e-adc1-c4a3e64082c6",
+        "fdbb7130-b837-4962-9ab2-6e7e7df2ad1d",
+        "24bdc3a5-d5f7-4349-b2e7-88fbabd25cef",
+        "0bb085c3-2fe1-4383-b9ae-77be09ed015e",
+        "8080988e-7bff-4fa4-8122-b77775c96803",
+        "5c956dc7-7bd4-439f-973e-3d819d90149d",
+        "35677a69-a342-4c1f-881a-da96feeab4f2",
+        "a6cba00f-4fcc-432f-b44a-e1a04d1ea0ee",
+        "628dce00-beb4-4e87-a1c7-ccc60075a5c9",
+        "941108ce-8802-45c8-afce-b3a4eb067bfc",
+        "27f866c7-f91f-4468-a0bf-653485015d4d",
+        "1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f",
+        "d259d061-26a3-4d95-ba43-c737737545c5",
+        "15cad505-569d-4349-89a9-fe07c1398ccf",
+        "060b9d8a-7e38-446a-aff9-e5fe4b3e7542",
+        "80cbde7e-95ae-4f5a-9ff2-862d7622f35e",
+        "5b67c400-0f60-47d3-9411-019d8b6778be",
+        "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+        "7563e4a3-12e7-4317-9cfc-ac3733962972",
+        "296591a8-458e-46af-b423-1e7e93e97f62",
+        "9be57c84-cb30-4485-80e4-b52841d3625f",
+        "341d94a1-98e8-4f69-a33e-ae4fe2d334cb",
+        "d4a49b66-ffbe-4f16-9ad7-cc06c6ffbc4e",
+        "f4116547-a834-4c08-b587-a6bbb54dabc2",
+        "9eb42d18-7031-48a2-9c08-87123a89da9c",
+        "3139c8dc-a39f-4a4b-8698-3507d1a672eb",
+        "6dfda466-4876-427c-bac7-c0605f4b3d03",
+        "25b3d893-cef2-4b35-916a-dddc52792b48",
+        "ac571ad7-290e-480c-b0fe-5257bc64731d",
+        "4698d8f1-ab03-4b56-9984-91771e23aa3e",
+        "cb621667-d99d-4f00-92ac-5653942c8fe6",
+        "bf57b5da-8f8c-4fc6-b185-9d223b982132",
+        "4a66d4a5-334e-4be3-b407-294c05606f26",
+        "422fa736-4642-4a8e-9473-273d8a813715",
+        "d64f9b4e-2258-4361-a226-0024cd82d889",
+        "a4eb8c38-0620-4d33-9d7c-33597510aae5",
+        "4a3b28ee-eb2b-42cc-9e94-52bf3d972c19",
+        "ffd905db-c8b8-466c-8aa4-0387486b110b",
+        "dca84af7-c23c-4b59-b45b-5e70e03fd9e2",
+        "bda9f90a-6574-448e-b9cd-628b417075d1",
+        "8e305dd9-03d2-49b8-87dd-cf298ad0d690",
+        "0d8beaf3-7354-423c-94b5-2ba58a9a7eaa",
+        "c2c72f12-6b65-4faf-aad3-169486cffe9f",
+        "3e286358-9c08-43b2-b6a6-4103186f1b2c",
+        "86f8e87b-0a4e-427e-88db-ac3f9745488f",
+        "6c044b2c-4785-483f-b479-ce2b04be1f1d",
+        "2c4b5f2a-43d6-46ac-9f73-7fd049f9f3fd",
+        "4a3f2da4-fa27-4e27-a1bf-e7719faa9e57",
+        "ebb6320c-ca62-4aec-831f-f42266ba9c95",
+        "9a413b9f-75a8-4c7a-95a6-418ca0ca64d2",
+        "19eb78a6-bb2a-4717-9add-5c49f1ae9a56",
+        "d02afb6c-97c4-4c15-992a-12d3880ab73b",
+        "5ffe0d77-66c4-4ee2-9c70-273ae69e0099",
+        "aa793354-a16b-443f-9af4-77f378664cba",
+        "e9a69c86-b83a-4fa5-a0d4-1ce1d284b452",
+        "f11d2bf4-3f4b-4d0f-88ec-e2c719114711",
+        "9e20ddab-0ffb-451c-9032-749fcde7bff8",
+        "69b45eec-5acd-49ae-a27e-b6544ce04f1d",
+        "18df2ff0-a905-49e6-ac73-44e5d6c401b1",
+        "95fbaea1-821b-41b1-a30a-60859f6bc746",
+        "233056b6-32dd-445a-b2fe-7c218887b7eb",
+        "5ee63d72-4f2c-4026-9a3d-6049735c392a",
+        "ab33213e-653e-49c8-bcb2-67f3207862a4",
+        "4055e196-a58b-49ae-97d7-f2292f5974cb",
+        "39a61154-9fd4-4e8f-9c4d-835dda7d7bf2",
+        "2a2586d0-85a3-45e4-8238-70ceaf4fa8bf",
+        "4cd314f6-1d16-4ca1-b8a2-bf2bd00a6174",
+        "ba763cb7-86f7-4545-85bb-e336b2bca419",
+        "bb8001a9-acc0-40d6-a880-e76f82f285ed",
+        "a5f1f68b-70ba-47f7-b048-c3bc07eee6a3",
+        "9dbee780-2cac-43dd-995f-316319ef1c88",
+        "e68ddda8-cb96-4adb-8847-e66d1e9176c8",
+        "c5ab1856-2aa2-4230-89bb-e2939487fe39",
+        "6cde6c06-884e-4deb-9d07-b376e8851e0c",
+        "0d4d5917-e006-4bd7-a274-3c3461087b30",
+        "3fa16087-62f2-4f82-9516-8917debae164",
+        "7f434918-1e15-4574-868f-ebe5e7f31424",
+        "6ec14f85-4a49-4c50-af32-58fe79fb3d6c",
+        "65f02d83-ca27-4cec-a911-429ac2268415",
+        "6944e593-5ef3-49ab-b077-bb7b61798caf",
+        "180dce66-301d-48b9-be95-75f84f439e19",
+        "0b2ef54e-fda1-4132-bc8d-c61a87fddad9",
+        "07de02e2-40a4-4059-aec2-6a130edb5ed5",
+        "d7c88510-e00c-41ee-96c0-6d1d62100928",
+        "8867db02-c419-4982-8ad5-7cdbef754436",
+        "f1c6b7ed-ed96-4200-a040-d9a1e068ad33",
+        "0c3e5d35-e1ad-4e1b-a51c-701204fced39",
+        "4f2d478e-ea43-454e-8f2f-5302cc205ece"
+      ],
+      "propertyFilters": [
+        {
+          "id": "34304764-0616-4dc7-90d4-0100aa1eb0fd",
+          "property": "Bjg@",
+          "operator": "enum_contains",
+          "value": null
+        }
+      ],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 544
+        },
+        {
+          "property": "Bjg@",
+          "visible": true,
+          "width": 190
+        },
+        {
+          "property": "notion://wiki/owner_property",
+          "visible": true,
+          "width": 150
+        },
+        {
+          "property": "ec<d",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "D>tG",
+          "visible": false,
+          "width": 150
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_content",
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "c45983ea-6e4e-45cd-86e0-93746d45c708",
+      "collectionId": "474871c3-ab1d-4365-aa78-59215be9b669",
+      "type": "gallery",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "ee99bfa1-1b6b-4197-b236-d123e51443c4",
+        "ffbb90ca-f3e2-471a-a6eb-9392ac14dbab",
+        "dd696a24-a822-4327-9b44-cd066f6c6309",
+        "cce7d9fd-65b8-4d43-b484-a7be4051efe7",
+        "61430a5e-b989-44e3-b66b-92fc4a9a276b",
+        "5f119276-fc9d-4d32-a72a-59b44ff68bb2",
+        "2652f743-78d9-431f-ac55-e6ac5612b929",
+        "8d01bb8f-01cc-448a-b158-54f62a4e605f",
+        "3b456f49-c056-4f10-a574-3d4a035d95e8",
+        "22fc7013-12d0-423a-ae51-423066148051",
+        "738cb2e6-5d8b-4036-8312-22fdd6417058",
+        "64a3f7c8-dccd-4b19-9b6a-b892adbf0acc",
+        "42924f75-de9e-4077-bf72-af4e7355ee9a",
+        "293af814-c222-433a-b47d-0d439120fdf5",
+        "2e9f0a05-701e-46d9-b02b-f5a355592b39",
+        "be6171ce-3fd4-497e-a4c4-511de7a6c142",
+        "1dcc7340-e792-48c6-9d86-6190f67b0ebb",
+        "9cfb31e5-a16e-458e-8c4f-3d8ac342f982",
+        "a3b6b913-9615-4121-8952-1e8ceb17b92f",
+        "a0f2696f-290d-4288-8349-bca8f4b189c7",
+        "ef0272e9-e03b-4f23-a072-ae3a88c921f4",
+        "87959829-3e26-429e-8e81-e34fe8283b43",
+        "063f61d8-885c-4735-92c0-20bf35542ad9",
+        "ff329aa5-506b-4dda-8e2a-85cf0d99d56f",
+        "072127e0-136f-448b-af60-cf255b918d2c",
+        "53738065-4928-4ab9-9e18-0ba1ea8c3983",
+        "4fb2c552-be4c-46b0-acc9-8f255f28fd91",
+        "eb1a7675-1300-4c2a-9883-88b5aceb6094",
+        "2daf6750-57f0-4d5b-9a7b-e0c167ae7b1a",
+        "c2654530-759c-4a96-bdf6-6fd639d46cbd",
+        "8cbd1870-4c3a-44f6-9d4d-07882ab38e48",
+        "109187ea-a4ba-4430-b0c4-b0d53ee46837",
+        "736b0453-6afd-4be2-8d0d-c129265747c6",
+        "f78340ca-3fad-4d12-a175-dad0151c59ef",
+        "66fddde7-318f-48b6-a72d-6d4d2fa9462d",
+        "d115c792-6734-4ebe-b6cb-deb88d2a31d2",
+        "8973fa8b-922d-4a36-9fca-99b8a9c546fe",
+        "10a72bd2-d23c-4267-916e-1c804f2580db",
+        "0454e33e-6fb5-4883-95bd-163818fd9367",
+        "1b14ae24-a6d2-4351-ab91-17752e66a024",
+        "b7050874-2251-404d-aedc-226a23780c22",
+        "0223c329-7a5b-4ffb-af55-9e61c29319b8",
+        "76da32f2-23b7-46a1-9f29-c0ac81942c87",
+        "6c94bdcb-3ab6-4531-838f-a25f6a5bf03a",
+        "27b3a9cb-3713-40f7-bb2e-65435a570f24",
+        "8415c945-d018-4542-b963-617cad47f0f0",
+        "69ee4197-d6a4-40b9-be2a-93519c40917b",
+        "0c5f4e46-fa60-4e28-ae71-9efa426b26b1",
+        "1a70328b-bc51-4a7a-90fd-592bf632e73b",
+        "436bbe02-b46b-4576-860e-e1124d421a43",
+        "5f0dbbda-bcbd-4b6f-8087-a750b8fbdcc3",
+        "2d6bbb0a-fa1b-4971-a479-8e7f856b9547",
+        "294983c6-fc28-42f6-9fac-76c90b667354",
+        "3cddfe0c-6fae-4b2a-b6a6-bcae10ce8951",
+        "89417d45-e29a-4d61-bb03-ff1e5c753a94",
+        "4fa58c95-d859-4861-ae8b-f5080191e9e7",
+        "97bbc1dd-b63c-480c-b1ef-109eac606852",
+        "5bfa916b-4ef2-4833-9ae7-90f3980b782a",
+        "cd718e13-4393-4ce5-9c62-d3c9d2460219",
+        "fc421ddf-0752-4bb5-8597-4becab61b5ed",
+        "859a554f-dc8c-4670-acd4-d7a05a418057",
+        "6542cf29-4c51-40dc-ba12-58e6c229f3f4",
+        "92860c98-0445-400b-896c-15a521b085bc",
+        "08c5a987-616e-40c3-8742-13dce4d0ae3f",
+        "2e0ef928-863b-4f24-a9eb-d514ebc1da02",
+        "b0026938-e59c-4bce-9cdb-9cbd473bdeff",
+        "43264aa8-6ad7-4f74-be11-92256250c275",
+        "4b56fb3c-20ca-4af7-9f4d-689e04874e7a",
+        "2501a2f3-1985-4da1-b4ff-e72b828f44d5",
+        "e6849a90-b530-4aa1-991f-efed5c5b83c9",
+        "0dd8539d-3df9-4538-acaa-15a5c0d76f7a",
+        "db82239f-e3df-4647-b3e6-0a7cc16e1f16",
+        "607c9728-8471-4792-8704-e76c93b917c0",
+        "95e7f195-d5fa-4088-a67b-6e0023781a3f",
+        "3a7eb74f-2db3-4a3b-8b48-ffbe7b0c8a28",
+        "1afdf085-bc8b-460c-b806-adabd744cabd",
+        "bb9c608f-2695-4301-a8b9-13314c0a0d9d",
+        "c25971fd-2587-48b3-a0c9-495b1a246a63",
+        "f945b2e4-ee99-41f9-a7fd-d6fe62f9b56f",
+        "0e4d04fa-fcc7-435f-8a74-677c3756a5b5",
+        "3e85b92c-cb0b-4baf-a0b5-2b06c1a54387",
+        "d2b1152e-83ec-40c8-8a30-16e9107f0382",
+        "fcda349f-25b4-4269-8f95-cdcc0ce52690",
+        "685f97ac-5802-42ca-9b16-c3d9070fd617",
+        "ea4ab734-6dad-49b0-a801-ae2659916303",
+        "181d553c-fff2-402c-b696-67bd47303c8c",
+        "aa5656ac-a0d3-4a9a-b262-e40000b5ad6e",
+        "2339de1f-a726-4df4-9292-e0e478c52403",
+        "89b28e73-18a3-4ada-bdae-082fd339cd89",
+        "d05c1eaa-12a3-4754-a501-0dea1eadfc98",
+        "b417b27e-7eca-4a7c-947f-28da4b1147b3",
+        "23ba1887-b0eb-4657-a5fb-871348755a8c",
+        "7bbfd373-ed9c-42bd-976e-46297aab4a21",
+        "09ebf862-fcd5-422a-91ec-70aa7f248fb9",
+        "fc7a629d-3223-41ab-b8bc-9c4aeb472551",
+        "bc83bf6c-f59c-4e9e-adc1-c4a3e64082c6",
+        "fdbb7130-b837-4962-9ab2-6e7e7df2ad1d",
+        "24bdc3a5-d5f7-4349-b2e7-88fbabd25cef",
+        "0bb085c3-2fe1-4383-b9ae-77be09ed015e",
+        "8080988e-7bff-4fa4-8122-b77775c96803"
+      ],
+      "propertyFilters": [
+        {
+          "id": "5d3a504d-c411-4fb4-bd6a-803045bd4fff",
+          "property": "Bjg@",
+          "operator": "enum_contains",
+          "value": [
+            "Book",
+            "Concept",
+            "Person",
+            "Essay/Article",
+            "List"
+          ]
+        }
+      ],
+      "tableProperties": [],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_content",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "contain"
+    }
+  ],
+  "rows": [
+    {
+      "id": "907a3709-7f78-4bb3-87ce-ee1c5985483c",
+      "slug": "wavdashcore-blog-907a3709",
+      "title": ".Wavdashcore blog",
+      "icon": "🌊",
+      "cover": "./assets/images/fza-kcmxeasepwn-47529628cc52.webp",
+      "previewImage": "./assets/images/hermeticist-rennaisance-manuscript-art-druid-sitting-in-fron-fa7966297fab.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/907a37097f784bb387ceee1c5985483c",
+      "createdTime": 1656887460000,
+      "lastEditedTime": 1681311783638,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            ".Wavdashcore blog"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ee99bfa1-1b6b-4197-b236-d123e51443c4",
+      "slug": "10-print-chr-205-5-rnd-1-goto-10",
+      "title": "10 PRINT CHR$(205.5+RND(1)); : GOTO 10",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-630c98fda854.webp",
+      "sourceUrl": "https://www.notion.so/10-PRINT-CHR-205-5-RND-1-GOTO-10-ee99bfa11b6b4197b236d123e51443c4?pvs=21",
+      "createdTime": 1657300569218,
+      "lastEditedTime": 1681309938108,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "10 PRINT CHR$(205.5+RND(1)); : GOTO 10",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ffbb90ca-f3e2-471a-a6eb-9392ac14dbab",
+      "slug": "17776",
+      "title": "17776",
+      "icon": "./assets/images/cursor-click-yellow-a8f79ba30933.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-c5f9062e86a3.webp",
+      "sourceUrl": "https://www.notion.so/17776-ffbb90caf3e2471aa6eb9392ac14dbab?pvs=21",
+      "createdTime": 1653182000659,
+      "lastEditedTime": 1681309952263,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "17776",
+            [
+              [
+                "b"
+              ],
+              [
+                "i"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "dd696a24-a822-4327-9b44-cd066f6c6309",
+      "slug": "20xx",
+      "title": "20XX",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/dd696a24a82243279b44cd066f6c6309",
+      "createdTime": 1652718279618,
+      "lastEditedTime": 1681309946223,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "20XX"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "cce7d9fd-65b8-4d43-b484-a7be4051efe7",
+      "slug": "8-bit-apocalypse",
+      "title": "8-Bit Apocalypse",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-9a27f908379b.webp",
+      "sourceUrl": "https://www.notion.so/8-Bit-Apocalypse-cce7d9fd65b84d43b484a7be4051efe7?pvs=21",
+      "createdTime": 1653076728610,
+      "lastEditedTime": 1681309984730,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "8-Bit Apocalypse",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5f119276-fc9d-4d32-a72a-59b44ff68bb2",
+      "slug": "a-book-of-surrealist-games",
+      "title": "A Book of Surrealist Games",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/81az2wf0icl-c01c1bdc1cfa.webp",
+      "sourceUrl": "https://www.notion.so/A-Book-of-Surrealist-Games-5f119276fc9d4d32a72a59b44ff68bb2?pvs=21",
+      "createdTime": 1651688163522,
+      "lastEditedTime": 1681310005279,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Book of Surrealist Games"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2652f743-78d9-431f-ac55-e6ac5612b929",
+      "slug": "a-brief-theology-of-sport",
+      "title": "A Brief Theology of Sport",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-32b447200b92.webp",
+      "sourceUrl": "https://www.notion.so/A-Brief-Theology-of-Sport-2652f74378d9431fac55e6ac5612b929?pvs=21",
+      "createdTime": 1668713907375,
+      "lastEditedTime": 1681310009159,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Brief Theology of Sport",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8d01bb8f-01cc-448a-b158-54f62a4e605f",
+      "slug": "a-casual-revolution",
+      "title": "A Casual Revolution",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-bbfe0654de9b.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/8d01bb8f01cc448ab15854f62a4e605f",
+      "createdTime": 1651709810745,
+      "lastEditedTime": 1681310013217,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Casual Revolution",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "22fc7013-12d0-423a-ae51-423066148051",
+      "slug": "a-contemporary-history-of-women-s-sport",
+      "title": "A Contemporary History of Women's Sport",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-d45dac49377b.webp",
+      "sourceUrl": "https://www.notion.so/A-Contemporary-History-of-Women-s-Sport-22fc701312d0423aae51423066148051?pvs=21",
+      "createdTime": 1651855252480,
+      "lastEditedTime": 1681310210895,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Contemporary History of Women's Sport",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "738cb2e6-5d8b-4036-8312-22fdd6417058",
+      "slug": "a-cyborg-manifesto",
+      "title": "A Cyborg Manifesto",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-0bcac7488d04.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/738cb2e65d8b4036831222fdd6417058",
+      "createdTime": 1652064514939,
+      "lastEditedTime": 1681310214841,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A "
+          ],
+          [
+            "Cyborg Manifesto",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "64a3f7c8-dccd-4b19-9b6a-b892adbf0acc",
+      "slug": "a-dictionary-of-sports-studies",
+      "title": "A Dictionary of Sports Studies",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-bc1396463349.webp",
+      "sourceUrl": "https://www.notion.so/A-Dictionary-of-Sports-Studies-64a3f7c8dccd4b199b6ab892adbf0acc?pvs=21",
+      "createdTime": 1679667011636,
+      "lastEditedTime": 1681310218584,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Dictionary of Sports Studies"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "42924f75-de9e-4077-bf72-af4e7355ee9a",
+      "slug": "a-game-of-war",
+      "title": "A Game of War",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/71qq1rrz-xl-dec993c9b10f.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/42924f75de9e4077bf72af4e7355ee9a",
+      "createdTime": 1652738313920,
+      "lastEditedTime": 1681310221621,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Game of War",
+            [
+              [
+                "b"
+              ],
+              [
+                "i"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "293af814-c222-433a-b47d-0d439120fdf5",
+      "slug": "a-handheld-history",
+      "title": "A Handheld History",
+      "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+      "cover": "",
+      "previewImage": "./assets/images/ahhstd-0498317ae848.webp",
+      "sourceUrl": "https://www.notion.so/A-Handheld-History-293af814c222433ab47d0d439120fdf5?pvs=21",
+      "createdTime": 1664464105952,
+      "lastEditedTime": 1681310224497,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Handheld History"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2e9f0a05-701e-46d9-b02b-f5a355592b39",
+      "slug": "a-history-and-philosophy-of-sport-and-physical-education",
+      "title": "A History & Philosophy of Sport & Physical Education",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-5140815ff40d.webp",
+      "sourceUrl": "https://www.notion.so/A-History-Philosophy-of-Sport-Physical-Education-2e9f0a05701e46d9b02bf5a355592b39?pvs=21",
+      "createdTime": 1651710114151,
+      "lastEditedTime": 1681310227936,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A History & Philosophy of Sport & Physical Education"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "be6171ce-3fd4-497e-a4c4-511de7a6c142",
+      "slug": "a-history-of-chess",
+      "title": "A History of Chess",
+      "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-8dc135a5126b.webp",
+      "sourceUrl": "https://www.notion.so/A-History-of-Chess-be6171ce3fd4497ea4c4511de7a6c142?pvs=21",
+      "createdTime": 1668793830490,
+      "lastEditedTime": 1681310231617,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A History of Chess",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1dcc7340-e792-48c6-9d86-6190f67b0ebb",
+      "slug": "a-history-of-children-s-play-and-play-environments",
+      "title": "A History of Children's Play & Play Environments",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/41t680jl3wl-15f59a135744.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/1dcc7340e79248c69d866190f67b0ebb",
+      "createdTime": 1652724147355,
+      "lastEditedTime": 1681310234536,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A History of Children's Play & Play Environments",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9cfb31e5-a16e-458e-8c4f-3d8ac342f982",
+      "slug": "a-history-of-competitive-gaming",
+      "title": "A History of Competitive Gaming",
+      "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-521fa37ad137.webp",
+      "sourceUrl": "https://www.notion.so/A-History-of-Competitive-Gaming-9cfb31e5a16e458e8c4f3d8ac342f982?pvs=21",
+      "createdTime": 1657238721173,
+      "lastEditedTime": 1681310237900,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A History of Competitive Gaming",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a3b6b913-9615-4121-8952-1e8ceb17b92f",
+      "slug": "a-history-of-pantomime",
+      "title": "A History of Pantomime",
+      "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-b5436d0ab55d.webp",
+      "sourceUrl": "https://www.notion.so/A-History-of-Pantomime-a3b6b9139615412189521e8ceb17b92f?pvs=21",
+      "createdTime": 1673371333659,
+      "lastEditedTime": 1681310240932,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A History of Pantomime",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a0f2696f-290d-4288-8349-bca8f4b189c7",
+      "slug": "a-history-of-recreation",
+      "title": "A History of Recreation",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-751d7d2cb106.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/a0f2696f290d42888349bca8f4b189c7",
+      "createdTime": 1657230417256,
+      "lastEditedTime": 1681310244216,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A History of Recreation",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ef0272e9-e03b-4f23-a072-ae3a88c921f4",
+      "slug": "a-little-book-of-ping-pong-verse",
+      "title": "A Little Book of Ping-Pong Verse",
+      "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+      "cover": "",
+      "previewImage": "./assets/images/71eo13qvxyl-3b449260454c.webp",
+      "sourceUrl": "https://www.notion.so/A-Little-Book-of-Ping-Pong-Verse-ef0272e9e03b4f23a072ae3a88c921f4?pvs=21",
+      "createdTime": 1652984297387,
+      "lastEditedTime": 1681310247372,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Little Book of Ping-Pong Verse",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "87959829-3e26-429e-8e81-e34fe8283b43",
+      "slug": "a-little-known-story-about-a-movement-a-magazine-and-the-computer-s-arrival-in-a",
+      "title": "A Little-Known Story about a Movement, a Magazine, & the Computer's Arrival in Art",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-45b89f177bdf.webp",
+      "sourceUrl": "https://www.notion.so/A-Little-Known-Story-about-a-Movement-a-Magazine-the-Computer-s-Arrival-in-Art-879598293e26429e8e81e34fe8283b43?pvs=21",
+      "createdTime": 1651694325566,
+      "lastEditedTime": 1681310250865,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Little-Known Story about a Movement, a Magazine, & the Computer's Arrival in Art",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "063f61d8-885c-4735-92c0-20bf35542ad9",
+      "slug": "a-mind-at-play",
+      "title": "A Mind at Play",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/91fqbkt9j0l-8e650dc9252f.webp",
+      "sourceUrl": "https://www.notion.so/A-Mind-at-Play-063f61d8885c473592c020bf35542ad9?pvs=21",
+      "createdTime": 1651709780326,
+      "lastEditedTime": 1681310261495,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Mind at Play"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ff329aa5-506b-4dda-8e2a-85cf0d99d56f",
+      "slug": "a-mind-forever-voyaging",
+      "title": "A Mind Forever Voyaging",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-09faca3f792a.webp",
+      "sourceUrl": "https://www.notion.so/A-Mind-Forever-Voyaging-ff329aa5506b4dda8e2a85cf0d99d56f?pvs=21",
+      "createdTime": 1657304701062,
+      "lastEditedTime": 1681317264507,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Mind Forever Voyaging",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "072127e0-136f-448b-af60-cf255b918d2c",
+      "slug": "a-pattern-language",
+      "title": "A Pattern Language",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-88a6daa8d11b.webp",
+      "sourceUrl": "https://www.notion.so/A-Pattern-Language-072127e0136f448baf60cf255b918d2c?pvs=21",
+      "createdTime": 1651974136564,
+      "lastEditedTime": 1681310311891,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Pattern Language",
+            [
+              [
+                "b"
+              ],
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "53738065-4928-4ab9-9e18-0ba1ea8c3983",
+      "slug": "a-people-s-history-of-sports-in-the-united-states",
+      "title": "A People's History of Sports in the United States",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-6a91c3bc60aa.webp",
+      "sourceUrl": "https://www.notion.so/A-People-s-History-of-Sports-in-the-United-States-5373806549284ab99e180ba1ea8c3983?pvs=21",
+      "createdTime": 1668799616318,
+      "lastEditedTime": 1681310309190,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A "
+          ],
+          [
+            "People's History of Sports in the United States",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4fb2c552-be4c-46b0-acc9-8f255f28fd91",
+      "slug": "a-people-s-history-of-computing-in-the-united-states",
+      "title": "A People’s History of Computing in the United States",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-559d287a2995.webp",
+      "sourceUrl": "https://www.notion.so/A-People-s-History-of-Computing-in-the-United-States-4fb2c552be4c46b0acc98f255f28fd91?pvs=21",
+      "createdTime": 1668809301658,
+      "lastEditedTime": 1681310305555,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A People’s History of Computing in the United States",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "eb1a7675-1300-4c2a-9883-88b5aceb6094",
+      "slug": "a-play-of-bodies",
+      "title": "A Play of Bodies",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-ddc1bf3d22b3.webp",
+      "sourceUrl": "https://www.notion.so/A-Play-of-Bodies-eb1a767513004c2a988388b5aceb6094?pvs=21",
+      "createdTime": 1651684521481,
+      "lastEditedTime": 1681310302709,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Play of Bodies"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2daf6750-57f0-4d5b-9a7b-e0c167ae7b1a",
+      "slug": "a-relational-aesthetic",
+      "title": "A Relational Aesthetic",
+      "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-e24657aec835.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/2daf675057f04d5b9a7be0c167ae7b1a",
+      "createdTime": 1651855639817,
+      "lastEditedTime": 1681310300056,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Relational Aesthetic"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c2654530-759c-4a96-bdf6-6fd639d46cbd",
+      "slug": "a-relational-metaphysic",
+      "title": "A Relational Metaphysic",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-39908a091bcb.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/c2654530759c4a96bdf66fd639d46cbd",
+      "createdTime": 1651855720934,
+      "lastEditedTime": 1681310297074,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Relational Metaphysic"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "109187ea-a4ba-4430-b0c4-b0d53ee46837",
+      "slug": "a-sport-loving-society",
+      "title": "A Sport-Loving Society",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-8d850784280e.webp",
+      "sourceUrl": "https://www.notion.so/A-Sport-Loving-Society-109187eaa4ba4430b0c4b0d53ee46837?pvs=21",
+      "createdTime": 1651712265352,
+      "lastEditedTime": 1681310290030,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Sport-Loving Society"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "736b0453-6afd-4be2-8d0d-c129265747c6",
+      "slug": "a-theory-of-fun-for-game-design",
+      "title": "A Theory of Fun for Game Design",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-cc066d678169.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/736b04536afd4be28d0dc129265747c6",
+      "createdTime": 1651684522105,
+      "lastEditedTime": 1681310285105,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Theory of Fun for Game Design"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "66fddde7-318f-48b6-a72d-6d4d2fa9462d",
+      "slug": "a-whole-new-ball-game",
+      "title": "A Whole New Ball Game",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/91hykqbxell-80a6e8e43706.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/66fddde7318f48b6a72d6d4d2fa9462d",
+      "createdTime": 1657229786392,
+      "lastEditedTime": 1681310279297,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "A Whole New Ball Game",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d115c792-6734-4ebe-b6cb-deb88d2a31d2",
+      "slug": "aa-double-a",
+      "title": "AA (Double-A)",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/d115c79267344ebeb6cbdeb88d2a31d2",
+      "createdTime": 1676483362565,
+      "lastEditedTime": 1681310316371,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "AA (Double-A)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8973fa8b-922d-4a36-9fca-99b8a9c546fe",
+      "slug": "aa-videogames",
+      "title": "AA Videogames",
+      "icon": "🎮",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/8973fa8b922d4a369fca99b8a9c546fe",
+      "createdTime": 1676481165754,
+      "lastEditedTime": 1681310321942,
+      "properties": {
+        "Bjg@": [
+          [
+            "List"
+          ]
+        ],
+        "title": [
+          [
+            "AA Videogames"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "10a72bd2-d23c-4267-916e-1c804f2580db",
+      "slug": "aaa-triple-a",
+      "title": "AAA (Triple-A)",
+      "icon": "./assets/images/gear-gray-0ec377f45914.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-1a0690dad781.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/10a72bd2d23c4267916e1c804f2580db",
+      "createdTime": 1656142938306,
+      "lastEditedTime": 1724165975796,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "AAA (Triple-A)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0454e33e-6fb5-4883-95bd-163818fd9367",
+      "slug": "aaa-videogames",
+      "title": "AAA Videogames",
+      "icon": "🎮",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/0454e33e6fb5488395bd163818fd9367",
+      "createdTime": 1676478834556,
+      "lastEditedTime": 1681310328665,
+      "properties": {
+        "Bjg@": [
+          [
+            "List"
+          ]
+        ],
+        "title": [
+          [
+            "AAA Videogames"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fd54d727-0b1e-4a44-9a67-1f199fb08c58",
+      "slug": "about-the-editor-fd54d727",
+      "title": "About the editor",
+      "icon": "🍃",
+      "cover": "./assets/images/birds-c125d06c9aa8.webp",
+      "previewImage": "./assets/images/mgs5-64e-42e71e76aa39.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/fd54d7270b1e4a449a671f199fb08c58",
+      "createdTime": 1652094180000,
+      "lastEditedTime": 1681310343154,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page"
+          ]
+        ],
+        "title": [
+          [
+            "About the editor"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b37eca90-4e08-4910-ae2b-d0c02487dd3f",
+      "slug": "about-this-place-b37eca90",
+      "title": "About This Place...",
+      "icon": "⛺",
+      "cover": "./assets/images/desktop-0cf441ec6f20.webp",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/b37eca904e084910ae2bd0c02487dd3f",
+      "createdTime": 1651950960000,
+      "lastEditedTime": 1681310347768,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page"
+          ]
+        ],
+        "title": [
+          [
+            "About This Place..."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1b14ae24-a6d2-4351-ab91-17752e66a024",
+      "slug": "achievement",
+      "title": "Achievement",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/1b14ae24a6d24351ab9117752e66a024",
+      "createdTime": 1652031733254,
+      "lastEditedTime": 1681310352380,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Achievement"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0223c329-7a5b-4ffb-af55-9e61c29319b8",
+      "slug": "action",
+      "title": "Action",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/0223c3297a5b4ffbaf559e61c29319b8",
+      "createdTime": 1679367382241,
+      "lastEditedTime": 1681310359517,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Action"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "76da32f2-23b7-46a1-9f29-c0ac81942c87",
+      "slug": "actual-play-and-the-laws-of-media",
+      "title": "Actual play & the laws of media",
+      "icon": "./assets/images/document-gray-7f1467ecac3d.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/76da32f223b746a19f29c0ac81942c87",
+      "createdTime": 1670000393636,
+      "lastEditedTime": 1681310363564,
+      "properties": {
+        "Bjg@": [
+          [
+            "Essay/Article"
+          ]
+        ],
+        "title": [
+          [
+            "Actual play & the laws of media"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6c94bdcb-3ab6-4531-838f-a25f6a5bf03a",
+      "slug": "ada-lovelace",
+      "title": "Ada Lovelace",
+      "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+      "cover": "",
+      "previewImage": "./assets/images/augustaadaking-0d0883e4ab94.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/6c94bdcb3ab64531838fa25f6a5bf03a",
+      "createdTime": 1652547736541,
+      "lastEditedTime": 1681329259165,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Ada Lovelace"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "27b3a9cb-3713-40f7-bb2e-65435a570f24",
+      "slug": "addiction-by-design",
+      "title": "Addiction by Design",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/9780691160887-a311fe89c6b7.webp",
+      "sourceUrl": "https://www.notion.so/Addiction-by-Design-27b3a9cb371340f7bb2e65435a570f24?pvs=21",
+      "createdTime": 1651869959869,
+      "lastEditedTime": 1681310375137,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Addiction by Design",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8415c945-d018-4542-b963-617cad47f0f0",
+      "slug": "adrenaline-rush",
+      "title": "Adrenaline Rush",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/8415c945d0184542b963617cad47f0f0",
+      "createdTime": 1666889591680,
+      "lastEditedTime": 1681310378448,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Adrenaline Rush"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "69ee4197-d6a4-40b9-be2a-93519c40917b",
+      "slug": "adventure",
+      "title": "Adventure",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-480013cb8d88.webp",
+      "sourceUrl": "https://www.notion.so/Adventure-69ee4197d6a440b9be2a93519c40917b?pvs=21",
+      "createdTime": 1653073280820,
+      "lastEditedTime": 1681310382627,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Adventure",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0c5f4e46-fa60-4e28-ae71-9efa426b26b1",
+      "slug": "adventures-in-the-wilderness",
+      "title": "Adventures In The Wilderness",
+      "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-a7cfcaef40fc.webp",
+      "sourceUrl": "https://www.notion.so/Adventures-In-The-Wilderness-0c5f4e46fa604e28ae719efa426b26b1?pvs=21",
+      "createdTime": 1668713426769,
+      "lastEditedTime": 1681310386299,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Adventures In The Wilderness",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1a70328b-bc51-4a7a-90fd-592bf632e73b",
+      "slug": "aesthetics",
+      "title": "Aesthetics",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/1a70328bbc514a7a90fd592bf632e73b",
+      "createdTime": 1673979635975,
+      "lastEditedTime": 1681310390371,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Aesthetics"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "436bbe02-b46b-4576-860e-e1124d421a43",
+      "slug": "affect-regulation-and-the-origin-of-self",
+      "title": "Affect Regulation & the Origin of Self",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-7204b7f10f9b.webp",
+      "sourceUrl": "https://www.notion.so/Affect-Regulation-the-Origin-of-Self-436bbe02b46b4576860ee1124d421a43?pvs=21",
+      "createdTime": 1659716013022,
+      "lastEditedTime": 1681310394048,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Affect Regulation & the Origin of Self",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5f0dbbda-bcbd-4b6f-8087-a750b8fbdcc3",
+      "slug": "affordance",
+      "title": "Affordance",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/5f0dbbdabcbd4b6f8087a750b8fbdcc3",
+      "createdTime": 1673980802927,
+      "lastEditedTime": 1681310398204,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Affordance"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2d6bbb0a-fa1b-4971-a479-8e7f856b9547",
+      "slug": "african-ritual-dolls",
+      "title": "African Ritual Dolls",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-7de5b2c015b7.webp",
+      "sourceUrl": "https://www.notion.so/African-Ritual-Dolls-2d6bbb0afa1b4971a4798e7f856b9547?pvs=21",
+      "createdTime": 1667273970069,
+      "lastEditedTime": 1681310402431,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "African Ritual Dolls",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "294983c6-fc28-42f6-9fac-76c90b667354",
+      "slug": "against-flow",
+      "title": "Against Flow",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-305033744c89.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/294983c6fc2842f69fac76c90b667354",
+      "createdTime": 1652115708223,
+      "lastEditedTime": 1681310405889,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Against Flow",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "89417d45-e29a-4d61-bb03-ff1e5c753a94",
+      "slug": "against-worldbuilding",
+      "title": "Against Worldbuilding",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-061c349c3d19.webp",
+      "sourceUrl": "https://www.notion.so/Against-Worldbuilding-89417d45e29a4d61bb03ff1e5c753a94?pvs=21",
+      "createdTime": 1651694746516,
+      "lastEditedTime": 1681310413250,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Against Worldbuilding"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4fa58c95-d859-4861-ae8b-f5080191e9e7",
+      "slug": "agency",
+      "title": "Agency",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/4fa58c95d8594861ae8bf5080191e9e7",
+      "createdTime": 1652714965311,
+      "lastEditedTime": 1681310417701,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Agency"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "97bbc1dd-b63c-480c-b1ef-109eac606852",
+      "slug": "aisthesis",
+      "title": "Aisthesis",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-d46f88f731e8.webp",
+      "sourceUrl": "https://www.notion.so/Aisthesis-97bbc1ddb63c480cb1ef109eac606852?pvs=21",
+      "createdTime": 1651856154238,
+      "lastEditedTime": 1681310421342,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Aisthesis",
+            [
+              [
+                "b"
+              ],
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5bfa916b-4ef2-4833-9ae7-90f3980b782a",
+      "slug": "akashic-records",
+      "title": "Akashic Records",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/5bfa916b4ef248339ae790f3980b782a",
+      "createdTime": 1667494759899,
+      "lastEditedTime": 1681310425025,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Akashic Records"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "cd718e13-4393-4ce5-9c62-d3c9d2460219",
+      "slug": "alan-turing",
+      "title": "Alan Turing",
+      "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-cde55e9748f2.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/cd718e1343934ce59c62d3c9d2460219",
+      "createdTime": 1673980350749,
+      "lastEditedTime": 1681329275650,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Alan Turing"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fc421ddf-0752-4bb5-8597-4becab61b5ed",
+      "slug": "alchemy",
+      "title": "Alchemy",
+      "icon": "./assets/images/gear-gray-0ec377f45914.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-52d04d8657ee.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/fc421ddf07524bb585974becab61b5ed",
+      "createdTime": 1667840000119,
+      "lastEditedTime": 1724165887247,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Alchemy"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "859a554f-dc8c-4670-acd4-d7a05a418057",
+      "slug": "alexander-galloway",
+      "title": "Alexander Galloway",
+      "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+      "cover": "",
+      "previewImage": "./assets/images/832ac993bbe0cb2acde70cf4f77503b37ede0953-517dda1db10e.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/859a554fdc8c4670acd4d7a05a418057",
+      "createdTime": 1673979805809,
+      "lastEditedTime": 1681329011668,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Alexander Galloway"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6542cf29-4c51-40dc-ba12-58e6c229f3f4",
+      "slug": "alfonso-x-of-castile",
+      "title": "Alfonso X of Castile",
+      "icon": "./assets/images/user-circle-filled-gray-e6d9ecea2c26.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-20200155f881.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/6542cf294c5140dcba1258e6c229f3f4",
+      "createdTime": 1652542112021,
+      "lastEditedTime": 1681310440140,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Alfonso X of Castile"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "92860c98-0445-400b-896c-15a521b085bc",
+      "slug": "all-about-pinball",
+      "title": "All About Pinball",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-c8f42bc2314e.webp",
+      "sourceUrl": "https://www.notion.so/All-About-Pinball-92860c980445400b896c15a521b085bc?pvs=21",
+      "createdTime": 1658275676685,
+      "lastEditedTime": 1681310443818,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "All About Pinball",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "492ff417-3e3c-4c05-99fc-8af0bcd3847d",
+      "slug": "all-articles-492ff417",
+      "title": "ALL ARTICLES",
+      "icon": "",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/492ff4173e3c4c0599fc8af0bcd3847d",
+      "createdTime": 1658338620000,
+      "lastEditedTime": 1681310503316,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "ALL "
+          ],
+          [
+            "ARTICLES",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1c251741-1d9c-4547-b208-08d71e7bbda9",
+      "slug": "all-computer-media-videos",
+      "title": "all computer media videos...",
+      "icon": "",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/1c2517411d9c4547b20808d71e7bbda9",
+      "createdTime": 1651847100000,
+      "lastEditedTime": 1681320908569,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "all computer media videos..."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "22a8e64a-efda-4ee0-b919-21619f2231e1",
+      "slug": "all-extraordinary-play-videos",
+      "title": "all extraordinary play videos...",
+      "icon": "",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/22a8e64aefda4ee0b91921619f2231e1",
+      "createdTime": 1651847100000,
+      "lastEditedTime": 1681324680397,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "all extraordinary play videos..."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "077269d0-99e5-4e12-a680-474eba14225f",
+      "slug": "all-fighting-game-video-essays",
+      "title": "all fighting game video essays...",
+      "icon": "",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/077269d099e54e12a680474eba14225f",
+      "createdTime": 1651847100000,
+      "lastEditedTime": 1681322469000,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "all fighting game video essays..."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0f796b10-824c-4c6b-888a-884bf10f7e52",
+      "slug": "all-historical-videos",
+      "title": "all historical videos...",
+      "icon": "",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/0f796b10824c4c6b888a884bf10f7e52",
+      "createdTime": 1651847040000,
+      "lastEditedTime": 1681322400596,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "all historical videos..."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "17ff1def-a05d-4aed-b9ef-9bdead1cb076",
+      "slug": "all-lectures",
+      "title": "all lectures...",
+      "icon": "",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/17ff1defa05d4aedb9ef9bdead1cb076",
+      "createdTime": 1651846860000,
+      "lastEditedTime": 1681321775099,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "all lectures..."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e3ce7e60-2c33-4fc6-b684-161d6b05d846",
+      "slug": "all-sports-video-essays",
+      "title": "all sports video essays…",
+      "icon": "",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/e3ce7e602c334fc6b684161d6b05d846",
+      "createdTime": 1656781560000,
+      "lastEditedTime": 1681320840035,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "all sports video essays…"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "99242db1-443d-403b-9c66-34784beb379d",
+      "slug": "all-tabletop-videos",
+      "title": "all tabletop videos…",
+      "icon": "",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/99242db1443d403b9c6634784beb379d",
+      "createdTime": 1679674568715,
+      "lastEditedTime": 1681322343093,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "all tabletop videos…"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a721b8fd-1459-4307-bc8c-22001460e593",
+      "slug": "all-video-game-video-essays",
+      "title": "all video game video essays...",
+      "icon": "",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/a721b8fd14594307bc8c22001460e593",
+      "createdTime": 1651846440000,
+      "lastEditedTime": 1704858334968,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "all video game video essays...",
+            [
+              [
+                "i"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "08c5a987-616e-40c3-8742-13dce4d0ae3f",
+      "slug": "allen-guttmann",
+      "title": "Allen Guttmann",
+      "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-cd7ddfbf1cfd.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/08c5a987616e40c3874213dce4d0ae3f",
+      "createdTime": 1669826595974,
+      "lastEditedTime": 1681329005929,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Allen Guttmann"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2e0ef928-863b-4f24-a9eb-d514ebc1da02",
+      "slug": "alone-on-the-wall",
+      "title": "Alone on the Wall",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-6f55deba0abc.webp",
+      "sourceUrl": "https://www.notion.so/Alone-on-the-Wall-2e0ef928863b4f24a9ebd514ebc1da02?pvs=21",
+      "createdTime": 1668455767445,
+      "lastEditedTime": 1681310810517,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Alone on the Wall",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b0026938-e59c-4bce-9cdb-9cbd473bdeff",
+      "slug": "alphago-vs-lee-seedol",
+      "title": "AlphaGo vs. Lee Seedol",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-0a9a53bd5ae7.webp",
+      "sourceUrl": "https://www.notion.so/AlphaGo-vs-Lee-Seedol-b0026938e59c4bce9cdb9cbd473bdeff?pvs=21",
+      "createdTime": 1651685303790,
+      "lastEditedTime": 1681310813351,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "AlphaGo vs. Lee Seedol"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "43264aa8-6ad7-4f74-be11-92256250c275",
+      "slug": "alt-control",
+      "title": "Alt Control",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/43264aa86ad74f74be1192256250c275",
+      "createdTime": 1669222733757,
+      "lastEditedTime": 1681310816344,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Alt Control"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4b56fb3c-20ca-4af7-9f4d-689e04874e7a",
+      "slug": "alternate-reality-games-and-the-cusp-of-digital-gameplay",
+      "title": "Alternate Reality Games & the Cusp of Digital Gameplay",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-1336f1be27a3.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/4b56fb3c20ca4af79f4d689e04874e7a",
+      "createdTime": 1651703261438,
+      "lastEditedTime": 1681310818978,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Alternate Reality Games & the Cusp of Digital Gameplay",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2501a2f3-1985-4da1-b4ff-e72b828f44d5",
+      "slug": "alternative-community",
+      "title": "Alternative Community",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/2501a2f319854da1b4ffe72b828f44d5",
+      "createdTime": 1667499467731,
+      "lastEditedTime": 1681310821895,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Alternative Community"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e6849a90-b530-4aa1-991f-efed5c5b83c9",
+      "slug": "ambient-play",
+      "title": "Ambient Play",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-6f5ec0bcb9c4.webp",
+      "sourceUrl": "https://www.notion.so/Ambient-Play-e6849a90b5304aa1991fefed5c5b83c9?pvs=21",
+      "createdTime": 1651770236179,
+      "lastEditedTime": 1681310825517,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Ambient Play",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0dd8539d-3df9-4538-acaa-15a5c0d76f7a",
+      "slug": "america-s-sporting-heritage-1850-1950",
+      "title": "America's Sporting Heritage, 1850-1950",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-c0670436b0d3.webp",
+      "sourceUrl": "https://www.notion.so/America-s-Sporting-Heritage-1850-1950-0dd8539d3df94538acaa15a5c0d76f7a?pvs=21",
+      "createdTime": 1657230674095,
+      "lastEditedTime": 1681310827647,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "America's Sporting Heritage, 1850-1950",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "db82239f-e3df-4647-b3e6-0a7cc16e1f16",
+      "slug": "americanopoly",
+      "title": "Americanopoly",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-52489a5729c5.webp",
+      "sourceUrl": "https://www.notion.so/Americanopoly-db82239fe3df4647b3e60a7cc16e1f16?pvs=21",
+      "createdTime": 1670007148024,
+      "lastEditedTime": 1681310829703,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Americanopoly",
+            [
+              [
+                "b"
+              ],
+              [
+                "i"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "607c9728-8471-4792-8704-e76c93b917c0",
+      "slug": "amusement-machines",
+      "title": "Amusement Machines",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-30408ea3d5a3.webp",
+      "sourceUrl": "https://www.notion.so/Amusement-Machines-607c9728847147928704e76c93b917c0?pvs=21",
+      "createdTime": 1658275800117,
+      "lastEditedTime": 1681310831863,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Amusement Machines",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "95e7f195-d5fa-4088-a67b-6e0023781a3f",
+      "slug": "an-analysis-of-the-role-impact-of-the-magic-circle-in-video-games",
+      "title": "An analysis of the role/impact of the magic circle in video games",
+      "icon": "./assets/images/document-gray-7f1467ecac3d.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/95e7f195d5fa4088a67b6e0023781a3f",
+      "createdTime": 1679680180808,
+      "lastEditedTime": 1681310834622,
+      "properties": {
+        "Bjg@": [
+          [
+            "Essay/Article"
+          ]
+        ],
+        "title": [
+          [
+            "An analysis of the role/impact of the magic circle in video games",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1afdf085-bc8b-460c-b806-adabd744cabd",
+      "slug": "an-architectural-approach-to-level-design",
+      "title": "An Architectural Approach to Level Design",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-3ac802c25e2d.webp",
+      "sourceUrl": "https://www.notion.so/An-Architectural-Approach-to-Level-Design-1afdf085bc8b460cb806adabd744cabd?pvs=21",
+      "createdTime": 1651707192159,
+      "lastEditedTime": 1681310840352,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "An "
+          ],
+          [
+            "Architectural Approach to Level Design",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bb9c608f-2695-4301-a8b9-13314c0a0d9d",
+      "slug": "an-introduction-to-game-studies",
+      "title": "An Introduction to Game Studies",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-1946e6352609.webp",
+      "sourceUrl": "https://www.notion.so/An-Introduction-to-Game-Studies-bb9c608f26954301a8b913314c0a0d9d?pvs=21",
+      "createdTime": 1651980670082,
+      "lastEditedTime": 1681310842978,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "An Introduction to Game Studies",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f945b2e4-ee99-41f9-a7fd-d6fe62f9b56f",
+      "slug": "ancient-board-games-in-perspective",
+      "title": "Ancient Board Games in Perspective",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-3d4cdc896f1c.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/f945b2e4ee9941f9a7fdd6fe62f9b56f",
+      "createdTime": 1657231160884,
+      "lastEditedTime": 1681310848490,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Ancient Board Games in Perspective",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0e4d04fa-fcc7-435f-8a74-677c3756a5b5",
+      "slug": "ancient-egyptians-at-play",
+      "title": "Ancient Egyptians at Play",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-25000722f45f.webp",
+      "sourceUrl": "https://www.notion.so/Ancient-Egyptians-at-Play-0e4d04fafcc7435f8a74677c3756a5b5?pvs=21",
+      "createdTime": 1668797146470,
+      "lastEditedTime": 1681310851345,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Ancient Egyptians at Play",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3e85b92c-cb0b-4baf-a0b5-2b06c1a54387",
+      "slug": "anetso-the-cherokee-ball-game",
+      "title": "Anetso, the Cherokee Ball Game",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-4c67a8f5bcec.webp",
+      "sourceUrl": "https://www.notion.so/Anetso-the-Cherokee-Ball-Game-3e85b92ccb0b4bafa0b52b06c1a54387?pvs=21",
+      "createdTime": 1667273400679,
+      "lastEditedTime": 1681310854127,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Anetso, the Cherokee Ball Game",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d2b1152e-83ec-40c8-8a30-16e9107f0382",
+      "slug": "animal-play",
+      "title": "Animal Play",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/d2b1152e83ec40c88a3016e9107f0382",
+      "createdTime": 1670003596222,
+      "lastEditedTime": 1681310857668,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Animal Play"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fcda349f-25b4-4269-8f95-cdcc0ce52690",
+      "slug": "animal-play-fcda349f",
+      "title": "Animal Play",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/91shv2qmrcl-804535f948bd.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/fcda349f25b442698f95cdcc0ce52690",
+      "createdTime": 1652723271106,
+      "lastEditedTime": 1681310860339,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Animal Play",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "685f97ac-5802-42ca-9b16-c3d9070fd617",
+      "slug": "animal-play-behavior",
+      "title": "Animal Play Behavior",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-81f0fafea58e.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/685f97ac580242ca9b16c3d9070fd617",
+      "createdTime": 1652723340123,
+      "lastEditedTime": 1681310863526,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Animal Play Behavior",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2f59e012-4f25-4241-ae5b-9c5cec38b0ba",
+      "slug": "anime-and-manga",
+      "title": "Anime & Manga",
+      "icon": "🎎",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/2f59e0124f254241ae5b9c5cec38b0ba",
+      "createdTime": 1673457194022,
+      "lastEditedTime": 1681310877963,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "Anime & Manga"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ea4ab734-6dad-49b0-a801-ae2659916303",
+      "slug": "anti-art",
+      "title": "Anti-Art",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/ea4ab7346dad49b0a801ae2659916303",
+      "createdTime": 1667499335627,
+      "lastEditedTime": 1681310883354,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Anti-Art"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "181d553c-fff2-402c-b696-67bd47303c8c",
+      "slug": "anti-environment",
+      "title": "Anti-Environment",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/181d553cfff2402cb69667bd47303c8c",
+      "createdTime": 1667509548304,
+      "lastEditedTime": 1681310885973,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Anti-Environment"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "aa5656ac-a0d3-4a9a-b262-e40000b5ad6e",
+      "slug": "antiques-of-american-childhood",
+      "title": "Antiques of American Childhood",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-2d6d5667aec3.webp",
+      "sourceUrl": "https://www.notion.so/Antiques-of-American-Childhood-aa5656aca0d34a9ab262e40000b5ad6e?pvs=21",
+      "createdTime": 1669916657142,
+      "lastEditedTime": 1681310889004,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Antiques of American Childhood",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2339de1f-a726-4df4-9292-e0e478c52403",
+      "slug": "appendix-n",
+      "title": "Appendix N",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-4a986afd5ded.webp",
+      "sourceUrl": "https://www.notion.so/Appendix-N-2339de1fa7264df49292e0e478c52403?pvs=21",
+      "createdTime": 1652117610616,
+      "lastEditedTime": 1681310892197,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Appendix N",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "89b28e73-18a3-4ada-bdae-082fd339cd89",
+      "slug": "arcade",
+      "title": "Arcade",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/89b28e7318a34adabdae082fd339cd89",
+      "createdTime": 1652715859243,
+      "lastEditedTime": 1681310895993,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Arcade"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d05c1eaa-12a3-4754-a501-0dea1eadfc98",
+      "slug": "arcade-britannia",
+      "title": "Arcade Britannia",
+      "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-6575caf1700b.webp",
+      "sourceUrl": "https://www.notion.so/Arcade-Britannia-d05c1eaa12a34754a5010dea1eadfc98?pvs=21",
+      "createdTime": 1666028493277,
+      "lastEditedTime": 1681310899247,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Arcade Britannia",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b417b27e-7eca-4a7c-947f-28da4b1147b3",
+      "slug": "arcade-perfect",
+      "title": "Arcade Perfect",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-7d371b139b91.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/b417b27e7eca4a7c947f28da4b1147b3",
+      "createdTime": 1653080260713,
+      "lastEditedTime": 1681310903140,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Arcade Perfect",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7bbfd373-ed9c-42bd-976e-46297aab4a21",
+      "slug": "archetype",
+      "title": "Archetype",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/7bbfd373ed9c42bd976e46297aab4a21",
+      "createdTime": 1667227536244,
+      "lastEditedTime": 1681310913288,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Archetype"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "09ebf862-fcd5-422a-91ec-70aa7f248fb9",
+      "slug": "arete",
+      "title": "Arete",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-6c42555d3238.webp",
+      "sourceUrl": "https://www.notion.so/Arete-09ebf862fcd5422a91ec70aa7f248fb9?pvs=21",
+      "createdTime": 1651854665796,
+      "lastEditedTime": 1681310916917,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Arete"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fc7a629d-3223-41ab-b8bc-9c4aeb472551",
+      "slug": "aretism",
+      "title": "Aretism",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-a53404ecd943.webp",
+      "sourceUrl": "https://www.notion.so/Aretism-fc7a629d322341abb8bc9c4aeb472551?pvs=21",
+      "createdTime": 1652119178952,
+      "lastEditedTime": 1681310919363,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Aretism"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bc83bf6c-f59c-4e9e-adc1-c4a3e64082c6",
+      "slug": "arg",
+      "title": "ARG",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/bc83bf6cf59c4e9eadc1c4a3e64082c6",
+      "createdTime": 1667496847473,
+      "lastEditedTime": 1681310922056,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "ARG"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fdbb7130-b837-4962-9ab2-6e7e7df2ad1d",
+      "slug": "aristophanes-and-the-poetics-of-competition",
+      "title": "Aristophanes & the Poetics of Competition",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-3e99042331c3.webp",
+      "sourceUrl": "https://www.notion.so/Aristophanes-the-Poetics-of-Competition-fdbb7130b83749629ab26e7e7df2ad1d?pvs=21",
+      "createdTime": 1653492714066,
+      "lastEditedTime": 1681310924613,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Aristophanes & the Poetics of Competition",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "24bdc3a5-d5f7-4349-b2e7-88fbabd25cef",
+      "slug": "art",
+      "title": "Art",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/24bdc3a5d5f74349b2e788fbabd25cef",
+      "createdTime": 1652716877445,
+      "lastEditedTime": 1681310928694,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Art"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0bb085c3-2fe1-4383-b9ae-77be09ed015e",
+      "slug": "art-and-music-in-the-bible",
+      "title": "Art & Music in the Bible",
+      "icon": "🎚️",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/0bb085c32fe14383b9ae77be09ed015e",
+      "createdTime": 1652664356428,
+      "lastEditedTime": 1681310931672,
+      "properties": {
+        "Bjg@": [
+          [
+            "List"
+          ]
+        ],
+        "title": [
+          [
+            "Art & Music in the Bible"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8080988e-7bff-4fa4-8122-b77775c96803",
+      "slug": "art-by-the-book",
+      "title": "Art by the Book",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-2a121c29d416.webp",
+      "sourceUrl": "https://www.notion.so/Art-by-the-Book-8080988e7bff4fa48122b77775c96803?pvs=21",
+      "createdTime": 1669915269112,
+      "lastEditedTime": 1681310935090,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Art by the Book",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5c956dc7-7bd4-439f-973e-3d819d90149d",
+      "slug": "artifacts",
+      "title": "Artifacts",
+      "icon": "🏺",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/5c956dc77bd4439f973e3d819d90149d",
+      "createdTime": 1673477529883,
+      "lastEditedTime": 1681329329806,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "Artifacts"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "35677a69-a342-4c1f-881a-da96feeab4f2",
+      "slug": "artifical-intelligence-ai",
+      "title": "Artifical Intelligence (AI)",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/35677a69a3424c1f881ada96feeab4f2",
+      "createdTime": 1673448204019,
+      "lastEditedTime": 1681310942312,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Artifical Intelligence (AI)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a6cba00f-4fcc-432f-b44a-e1a04d1ea0ee",
+      "slug": "artificial-intelligence-and-computer-games",
+      "title": "Artificial Intelligence & Computer Games",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-3d51ae61be28.webp",
+      "sourceUrl": "https://www.notion.so/Artificial-Intelligence-Computer-Games-a6cba00f4fcc432fb44ae1a04d1ea0ee?pvs=21",
+      "createdTime": 1657137788961,
+      "lastEditedTime": 1681310944991,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Artificial Intelligence & Computer Games",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "628dce00-beb4-4e87-a1c7-ccc60075a5c9",
+      "slug": "as-if",
+      "title": "As If",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-a7096416d0d3.webp",
+      "sourceUrl": "https://www.notion.so/As-If-628dce00beb44e87a1c7ccc60075a5c9?pvs=21",
+      "createdTime": 1670005260501,
+      "lastEditedTime": 1681310947524,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "As If"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "941108ce-8802-45c8-afce-b3a4eb067bfc",
+      "slug": "ask-iwata",
+      "title": "Ask Iwata",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-b7736c40a8b5.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/941108ce880245c8afceb3a4eb067bfc",
+      "createdTime": 1651695807904,
+      "lastEditedTime": 1681310950203,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Ask Iwata"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "27f866c7-f91f-4468-a0bf-653485015d4d",
+      "slug": "aspects-of-playwork",
+      "title": "Aspects of Playwork",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-540c4a2a8b1e.webp",
+      "sourceUrl": "https://www.notion.so/Aspects-of-Playwork-27f866c7f91f4468a0bf653485015d4d?pvs=21",
+      "createdTime": 1652725385671,
+      "lastEditedTime": 1681310952955,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Aspects of Playwork",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d259d061-26a3-4d95-ba43-c737737545c5",
+      "slug": "astrid-ensslin",
+      "title": "Astrid Ensslin",
+      "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-eda90bcd8faf.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/d259d06126a34d95ba43c737737545c5",
+      "createdTime": 1669826796580,
+      "lastEditedTime": 1681328968414,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Astrid Ensslin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "15cad505-569d-4349-89a9-fe07c1398ccf",
+      "slug": "at-play-in-the-fields-of-writing",
+      "title": "At Play In The Fields Of Writing",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-c4983a966409.webp",
+      "sourceUrl": "https://www.notion.so/At-Play-In-The-Fields-Of-Writing-15cad505569d434989a9fe07c1398ccf?pvs=21",
+      "createdTime": 1668797711039,
+      "lastEditedTime": 1681310962097,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "At Play In The Fields Of Writing",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "060b9d8a-7e38-446a-aff9-e5fe4b3e7542",
+      "slug": "atari-age",
+      "title": "Atari Age",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-b26d68c5ddb7.webp",
+      "sourceUrl": "https://www.notion.so/Atari-Age-060b9d8a7e38446aaff9e5fe4b3e7542?pvs=21",
+      "createdTime": 1652118233947,
+      "lastEditedTime": 1681310964400,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Atari Age",
+            [
+              [
+                "b"
+              ],
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "80cbde7e-95ae-4f5a-9ff2-862d7622f35e",
+      "slug": "atari-design",
+      "title": "Atari Design",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/81ib-thvd2l-11860923bc5b.webp",
+      "sourceUrl": "https://www.notion.so/Atari-Design-80cbde7e95ae4f5a9ff2862d7622f35e?pvs=21",
+      "createdTime": 1653079104133,
+      "lastEditedTime": 1681310969161,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Atari Design",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5b67c400-0f60-47d3-9411-019d8b6778be",
+      "slug": "attract-mode",
+      "title": "Attract Mode",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/71dmutkf7il-1047bd75a7d7.webp",
+      "sourceUrl": "https://www.notion.so/Attract-Mode-5b67c4000f6047d39411019d8b6778be?pvs=21",
+      "createdTime": 1653072907147,
+      "lastEditedTime": 1681310966838,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Attract Mode",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+      "slug": "audio-visual-content",
+      "title": "Audio/Visual Content",
+      "icon": "📺",
+      "cover": "./assets/images/online-at-night-34a605c6b879.webp",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/da0f6a337bc647089bf2ad2d25c64734",
+      "createdTime": 1659143401481,
+      "lastEditedTime": 1705028050077,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "Audio/Visual Content"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7563e4a3-12e7-4317-9cfc-ac3733962972",
+      "slug": "augmented-reality-ar",
+      "title": "Augmented Reality (AR)",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/7563e4a312e743179cfcac3733962972",
+      "createdTime": 1673979727945,
+      "lastEditedTime": 1681310977123,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Augmented Reality (AR)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "296591a8-458e-46af-b423-1e7e93e97f62",
+      "slug": "automata-and-mechanical-toys",
+      "title": "Automata & Mechanical Toys",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-07fe92757f71.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/296591a8458e46afb4231e7e93e97f62",
+      "createdTime": 1658276257435,
+      "lastEditedTime": 1681310979835,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Automata & Mechanical Toys",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9be57c84-cb30-4485-80e4-b52841d3625f",
+      "slug": "automata-cbc",
+      "title": "Automata [CBC]",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-98db181e6d8b.webp",
+      "sourceUrl": "https://www.notion.so/Automata-CBC-9be57c84cb30448580e4b52841d3625f?pvs=21",
+      "createdTime": 1658277038202,
+      "lastEditedTime": 1681310982540,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Automata [CBC]",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "341d94a1-98e8-4f69-a33e-ae4fe2d334cb",
+      "slug": "automata-spb",
+      "title": "Automata [SPB]",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-2c20ccd0d689.webp",
+      "sourceUrl": "https://www.notion.so/Automata-SPB-341d94a198e84f69a33eae4fe2d334cb?pvs=21",
+      "createdTime": 1658276654340,
+      "lastEditedTime": 1681310985092,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Automata [SPB]",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d4a49b66-ffbe-4f16-9ad7-cc06c6ffbc4e",
+      "slug": "automation",
+      "title": "Automation",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/d4a49b66ffbe4f169ad7cc06c6ffbc4e",
+      "createdTime": 1668106513317,
+      "lastEditedTime": 1681310988362,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Automation"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f4116547-a834-4c08-b587-a6bbb54dabc2",
+      "slug": "avatar",
+      "title": "Avatar",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/f4116547a8344c08b587a6bbb54dabc2",
+      "createdTime": 1652035279962,
+      "lastEditedTime": 1681311075856,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Avatar"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9eb42d18-7031-48a2-9c08-87123a89da9c",
+      "slug": "avatars",
+      "title": "Avatars!",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-76b8037c9f90.webp",
+      "sourceUrl": "https://www.notion.so/Avatars-9eb42d18703148a29c0887123a89da9c?pvs=21",
+      "createdTime": 1662137456717,
+      "lastEditedTime": 1681311078994,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Avatars!",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3139c8dc-a39f-4a4b-8698-3507d1a672eb",
+      "slug": "aziz-hax-al-yami",
+      "title": "Aziz \"Hax\"\n Al-Yami",
+      "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-e47d6e3db77f.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/3139c8dca39f4a4b86983507d1a672eb",
+      "createdTime": 1653446784672,
+      "lastEditedTime": 1681329151663,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Aziz "
+          ],
+          [
+            "\"Hax\"",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "\n Al-Yami"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "25b3d893-cef2-4b35-916a-dddc52792b48",
+      "slug": "badge",
+      "title": "Badge",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/25b3d893cef24b35916adddc52792b48",
+      "createdTime": 1673879497219,
+      "lastEditedTime": 1681311088577,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Badge"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ac571ad7-290e-480c-b0fe-5257bc64731d",
+      "slug": "balance-of-power",
+      "title": "Balance of Power",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-9e0170616840.webp",
+      "sourceUrl": "https://www.notion.so/Balance-of-Power-ac571ad7290e480cb0fe5257bc64731d?pvs=21",
+      "createdTime": 1653170753626,
+      "lastEditedTime": 1681311091165,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Balance of Power",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "cb621667-d99d-4f00-92ac-5653942c8fe6",
+      "slug": "baseball-in-the-garden-of-eden",
+      "title": "Baseball in the Garden of Eden",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-bbdd2c51baa7.webp",
+      "sourceUrl": "https://www.notion.so/Baseball-in-the-Garden-of-Eden-cb621667d99d4f0092ac5653942c8fe6?pvs=21",
+      "createdTime": 1659422471385,
+      "lastEditedTime": 1681311108700,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Baseball in the Garden of Eden",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bf57b5da-8f8c-4fc6-b185-9d223b982132",
+      "slug": "bash-bash-revolution",
+      "title": "Bash Bash Revolution",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/81-3-zy-zql-ef2165c1654b.webp",
+      "sourceUrl": "https://www.notion.so/Bash-Bash-Revolution-bf57b5da8f8c4fc6b1859d223b982132?pvs=21",
+      "createdTime": 1653179022735,
+      "lastEditedTime": 1681311111911,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Bash Bash Revolution"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4a66d4a5-334e-4be3-b407-294c05606f26",
+      "slug": "basic-rockcraft",
+      "title": "Basic Rockcraft",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-e6c7dd7d64c5.webp",
+      "sourceUrl": "https://www.notion.so/Basic-Rockcraft-4a66d4a5334e4be3b407294c05606f26?pvs=21",
+      "createdTime": 1671549054698,
+      "lastEditedTime": 1681311115232,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Basic Rockcraft",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a4eb8c38-0620-4d33-9d7c-33597510aae5",
+      "slug": "becoming-a-video-game-designer",
+      "title": "Becoming a Video Game Designer",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-4a30c22bb4b8.webp",
+      "sourceUrl": "https://www.notion.so/Becoming-a-Video-Game-Designer-a4eb8c3806204d339d7c33597510aae5?pvs=21",
+      "createdTime": 1666027882971,
+      "lastEditedTime": 1681311141775,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Becoming a Video Game Designer",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ffd905db-c8b8-466c-8aa4-0387486b110b",
+      "slug": "before-the-crash",
+      "title": "Before the Crash",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-25cc108c186c.webp",
+      "sourceUrl": "https://www.notion.so/Before-the-Crash-ffd905dbc8b8466c8aa40387486b110b?pvs=21",
+      "createdTime": 1668452806846,
+      "lastEditedTime": 1681311158937,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Before the Crash",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "dca84af7-c23c-4b59-b45b-5e70e03fd9e2",
+      "slug": "bernard-suits",
+      "title": "Bernard Suits",
+      "icon": "./assets/images/user-circle-filled-gray-e6d9ecea2c26.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-9b0fff71a5a6.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/dca84af7c23c4b59b45b5e70e03fd9e2",
+      "createdTime": 1651683216362,
+      "lastEditedTime": 1681311162072,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Bernard Suits"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8e305dd9-03d2-49b8-87dd-cf298ad0d690",
+      "slug": "beyond-a-boundary",
+      "title": "Beyond a Boundary",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/81-qdl5jlql-efca3bb19823.webp",
+      "sourceUrl": "https://www.notion.so/Beyond-a-Boundary-8e305dd903d249b887ddcf298ad0d690?pvs=21",
+      "createdTime": 1651868407091,
+      "lastEditedTime": 1681311167486,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Beyond a Boundary",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0d8beaf3-7354-423c-94b5-2ba58a9a7eaa",
+      "slug": "beyond-choices",
+      "title": "Beyond Choices",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-89c228d68827.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/0d8beaf37354423c94b52ba58a9a7eaa",
+      "createdTime": 1654846985458,
+      "lastEditedTime": 1681311171095,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Beyond Choices",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c2c72f12-6b65-4faf-aad3-169486cffe9f",
+      "slug": "beyond-donkey-kong",
+      "title": "Beyond Donkey Kong",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-fb84361622ac.webp",
+      "sourceUrl": "https://www.notion.so/Beyond-Donkey-Kong-c2c72f126b654fafaad3169486cffe9f?pvs=21",
+      "createdTime": 1653077429618,
+      "lastEditedTime": 1681311173516,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Beyond Donkey Kong",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3e286358-9c08-43b2-b6a6-4103186f1b2c",
+      "slug": "biology-in-the-grid",
+      "title": "Biology in the Grid",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-c50b1365e4c0.webp",
+      "sourceUrl": "https://www.notion.so/Biology-in-the-Grid-3e2863589c0843b2b6a64103186f1b2c?pvs=21",
+      "createdTime": 1657138723763,
+      "lastEditedTime": 1681311177281,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Biology in the Grid",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "86f8e87b-0a4e-427e-88db-ac3f9745488f",
+      "slug": "bioshock-and-philosophy",
+      "title": "BioShock & Philosophy",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-6b7cc907eb3d.webp",
+      "sourceUrl": "https://www.notion.so/BioShock-Philosophy-86f8e87b0a4e427e88dbac3f9745488f?pvs=21",
+      "createdTime": 1657299255088,
+      "lastEditedTime": 1681311180296,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "BioShock & Philosophy",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6c044b2c-4785-483f-b479-ce2b04be1f1d",
+      "slug": "birth-of-the-chess-queen",
+      "title": "Birth of the Chess Queen",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-fd2f06760616.webp",
+      "sourceUrl": "https://www.notion.so/Birth-of-the-Chess-Queen-6c044b2c4785483fb479ce2b04be1f1d?pvs=21",
+      "createdTime": 1673371168457,
+      "lastEditedTime": 1681311182899,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Birth of the Chess Queen",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ebb6320c-ca62-4aec-831f-f42266ba9c95",
+      "slug": "black-software",
+      "title": "Black Software",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/81nbcv2kzpl-9709bb0f9e26.webp",
+      "sourceUrl": "https://www.notion.so/Black-Software-ebb6320cca624aec831ff42266ba9c95?pvs=21",
+      "createdTime": 1651695093745,
+      "lastEditedTime": 1681311193091,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Black Software",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9a413b9f-75a8-4c7a-95a6-418ca0ca64d2",
+      "slug": "block",
+      "title": "Block",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/9a413b9f75a84c7a95a6418ca0ca64d2",
+      "createdTime": 1660462763395,
+      "lastEditedTime": 1681311196908,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Block"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "19eb78a6-bb2a-4717-9add-5c49f1ae9a56",
+      "slug": "blood-sport",
+      "title": "Blood Sport",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/19eb78a6bb2a47179add5c49f1ae9a56",
+      "createdTime": 1673376474449,
+      "lastEditedTime": 1681311199347,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "B"
+          ],
+          [
+            "lood Sport",
+            [
+              [
+                "i"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d02afb6c-97c4-4c15-992a-12d3880ab73b",
+      "slug": "blood-sweat-and-pixels",
+      "title": "Blood, Sweat, & Pixels",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-313b19d289d2.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/d02afb6c97c44c15992a12d3880ab73b",
+      "createdTime": 1651708959397,
+      "lastEditedTime": 1681311202302,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Blood, Sweat, & Pixels",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5ffe0d77-66c4-4ee2-9c70-273ae69e0099",
+      "slug": "blue-wizard-is-about-to-die",
+      "title": "Blue Wizard Is About to Die",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-c260a1e237ca.webp",
+      "sourceUrl": "https://www.notion.so/Blue-Wizard-Is-About-to-Die-5ffe0d7766c44ee29c70273ae69e0099?pvs=21",
+      "createdTime": 1677086363309,
+      "lastEditedTime": 1681311204506,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Blue Wizard Is About to Die",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "aa793354-a16b-443f-9af4-77f378664cba",
+      "slug": "board-and-table-games-from-many-civilizations",
+      "title": "Board & Table Games from Many Civilizations",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-7cffd2b48f76.webp",
+      "sourceUrl": "https://www.notion.so/Board-Table-Games-from-Many-Civilizations-aa793354a16b443f9af477f378664cba?pvs=21",
+      "createdTime": 1651694747016,
+      "lastEditedTime": 1681311207438,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Board & Table Games from Many Civilizations",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e9a69c86-b83a-4fa5-a0d4-1ce1d284b452",
+      "slug": "board-game",
+      "title": "Board Game",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/e9a69c86b83a4fa5a0d41ce1d284b452",
+      "createdTime": 1679688712173,
+      "lastEditedTime": 1681311211922,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "B"
+          ],
+          [
+            "oard Game",
+            [
+              [
+                "i"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9e20ddab-0ffb-451c-9032-749fcde7bff8",
+      "slug": "books-9e20ddab",
+      "title": "Books",
+      "icon": "📖",
+      "cover": "./assets/images/rf-06f4c4f6a39e.webp",
+      "previewImage": "./assets/images/book-c68bdfd37961.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/9e20ddab0ffb451c9032749fcde7bff8",
+      "createdTime": 1651680300000,
+      "lastEditedTime": 1701375901836,
+      "properties": {
+        "Bjg@": [
+          [
+            "Page List"
+          ]
+        ],
+        "title": [
+          [
+            "Books"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "69b45eec-5acd-49ae-a27e-b6544ce04f1d",
+      "slug": "bootleg",
+      "title": "Bootleg",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/69b45eec5acd49aea27eb6544ce04f1d",
+      "createdTime": 1668808189614,
+      "lastEditedTime": 1681311301306,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Bootleg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "18df2ff0-a905-49e6-ac73-44e5d6c401b1",
+      "slug": "boss",
+      "title": "Boss",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/18df2ff0a90549e6ac7344e5d6c401b1",
+      "createdTime": 1664415020072,
+      "lastEditedTime": 1681311304503,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Boss"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "95fbaea1-821b-41b1-a30a-60859f6bc746",
+      "slug": "bots",
+      "title": "Bots",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/95fbaea1821b41b1a30a60859f6bc746",
+      "createdTime": 1664414987937,
+      "lastEditedTime": 1681311307479,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Bots"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "233056b6-32dd-445a-b2fe-7c218887b7eb",
+      "slug": "boxx-manifesto",
+      "title": "BOXX Manifesto",
+      "icon": "./assets/images/document-gray-7f1467ecac3d.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-ef4afbdb86d5.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/233056b632dd445ab2fe7c218887b7eb",
+      "createdTime": 1651710893074,
+      "lastEditedTime": 1681311310877,
+      "properties": {
+        "Bjg@": [
+          [
+            "Essay/Article"
+          ]
+        ],
+        "title": [
+          [
+            "BOXX Manifesto"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5ee63d72-4f2c-4026-9a3d-6049735c392a",
+      "slug": "bread-and-circuses",
+      "title": "Bread & Circuses",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-1-362b67b98c1a.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/5ee63d724f2c40269a3d6049735c392a",
+      "createdTime": 1668711232167,
+      "lastEditedTime": 1681311313756,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Bread & Circuses",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ab33213e-653e-49c8-bcb2-67f3207862a4",
+      "slug": "brenda-romero",
+      "title": "Brenda Romero",
+      "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-efe5a76ef0e0.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/ab33213e653e49c8bcb267f3207862a4",
+      "createdTime": 1673982315415,
+      "lastEditedTime": 1681329202315,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Brenda Romero"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4055e196-a58b-49ae-97d7-f2292f5974cb",
+      "slug": "brian-sutton-smith",
+      "title": "Brian Sutton-Smith",
+      "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-9f4fc6d156d7.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/4055e196a58b49ae97d7f2292f5974cb",
+      "createdTime": 1651682386715,
+      "lastEditedTime": 1681329079437,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Brian Sutton-Smith"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "39a61154-9fd4-4e8f-9c4d-835dda7d7bf2",
+      "slug": "bruce-lee",
+      "title": "Bruce Lee",
+      "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-608fdf3df258.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/39a611549fd44e8f9c4d835dda7d7bf2",
+      "createdTime": 1669832939910,
+      "lastEditedTime": 1681329252376,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Bruce Lee"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4cd314f6-1d16-4ca1-b8a2-bf2bd00a6174",
+      "slug": "building-blocks-of-tabletop-game-design",
+      "title": "Building Blocks of Tabletop Game Design",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-234b4dfba788.webp",
+      "sourceUrl": "https://www.notion.so/Building-Blocks-of-Tabletop-Game-Design-4cd314f61d164ca1b8a2bf2bd00a6174?pvs=21",
+      "createdTime": 1651710789287,
+      "lastEditedTime": 1681311334928,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Building Blocks of Tabletop Game Design"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ba763cb7-86f7-4545-85bb-e336b2bca419",
+      "slug": "bullet-hell",
+      "title": "Bullet Hell",
+      "icon": "./assets/images/gear-gray-0ec377f45914.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-7a8f577fbd60.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/ba763cb786f7454585bbe336b2bca419",
+      "createdTime": 1652714673176,
+      "lastEditedTime": 1681311338091,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Bullet Hell"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bb8001a9-acc0-40d6-a880-e76f82f285ed",
+      "slug": "bullet-hell-the-globalized-growth-of-danmaku",
+      "title": "Bullet hell - the globalized growth of danmaku",
+      "icon": "./assets/images/document-gray-7f1467ecac3d.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/bb8001a9acc040d6a880e76f82f285ed",
+      "createdTime": 1651757280000,
+      "lastEditedTime": 1681311341237,
+      "properties": {
+        "Bjg@": [
+          [
+            "Essay/Article"
+          ]
+        ],
+        "title": [
+          [
+            "Bullet hell - the globalized growth of danmaku"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a5f1f68b-70ba-47f7-b048-c3bc07eee6a3",
+      "slug": "cabinet-of-curiosities",
+      "title": "Cabinet of Curiosities",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/a5f1f68b70ba47f7b048c3bc07eee6a3",
+      "createdTime": 1666667503010,
+      "lastEditedTime": 1681311344663,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Cabinet of Curiosities"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9dbee780-2cac-43dd-995f-316319ef1c88",
+      "slug": "camping",
+      "title": "Camping",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/9dbee7802cac43dd995f316319ef1c88",
+      "createdTime": 1666883852674,
+      "lastEditedTime": 1681311347475,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Camping"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e68ddda8-cb96-4adb-8847-e66d1e9176c8",
+      "slug": "canine-play-behavior",
+      "title": "Canine Play Behavior",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-7811509bd9a2.webp",
+      "sourceUrl": "https://www.notion.so/Canine-Play-Behavior-e68ddda8cb964adb8847e66d1e9176c8?pvs=21",
+      "createdTime": 1659715598471,
+      "lastEditedTime": 1681311351526,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Canine Play Behavior",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c5ab1856-2aa2-4230-89bb-e2939487fe39",
+      "slug": "canon",
+      "title": "Canon",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/c5ab18562aa2423089bbe2939487fe39",
+      "createdTime": 1651972455772,
+      "lastEditedTime": 1681311354630,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Canon"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6cde6c06-884e-4deb-9d07-b376e8851e0c",
+      "slug": "capitalism",
+      "title": "Capitalism",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/6cde6c06884e4deb9d07b376e8851e0c",
+      "createdTime": 1667489697704,
+      "lastEditedTime": 1681311357991,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Capitalism"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0d4d5917-e006-4bd7-a274-3c3461087b30",
+      "slug": "casual-hardcore",
+      "title": "Casual, Hardcore",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/0d4d5917e0064bd7a2743c3461087b30",
+      "createdTime": 1667465987337,
+      "lastEditedTime": 1681311360511,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Casual, Hardcore"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3fa16087-62f2-4f82-9516-8917debae164",
+      "slug": "causality",
+      "title": "Causality",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/3fa1608762f24f8295168917debae164",
+      "createdTime": 1652034097026,
+      "lastEditedTime": 1681311362895,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Causality"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7f434918-1e15-4574-868f-ebe5e7f31424",
+      "slug": "celia-pearce",
+      "title": "Celia Pearce",
+      "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-0fbe7fefbb80.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/7f4349181e154574868febe5e7f31424",
+      "createdTime": 1651683217735,
+      "lastEditedTime": 1681329026261,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Celia Pearce"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6ec14f85-4a49-4c50-af32-58fe79fb3d6c",
+      "slug": "chance",
+      "title": "Chance",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/6ec14f854a494c50af3258fe79fb3d6c",
+      "createdTime": 1652036310484,
+      "lastEditedTime": 1681311371325,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Chance"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "65f02d83-ca27-4cec-a911-429ac2268415",
+      "slug": "changing-the-game",
+      "title": "Changing the Game",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-52a429feac83.webp",
+      "sourceUrl": "https://www.notion.so/Changing-the-Game-65f02d83ca274ceca911429ac2268415?pvs=21",
+      "createdTime": 1657233694033,
+      "lastEditedTime": 1681311376688,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Changing the Game",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6944e593-5ef3-49ab-b077-bb7b61798caf",
+      "slug": "chaos",
+      "title": "Chaos",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/6944e5935ef349abb077bb7b61798caf",
+      "createdTime": 1679367687254,
+      "lastEditedTime": 1681311379756,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Chaos"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "180dce66-301d-48b9-be95-75f84f439e19",
+      "slug": "character",
+      "title": "Character",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/180dce66301d48b9be9575f84f439e19",
+      "createdTime": 1664457252903,
+      "lastEditedTime": 1681311382958,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Character"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0b2ef54e-fda1-4132-bc8d-c61a87fddad9",
+      "slug": "characteristics-of-games",
+      "title": "Characteristics of Games",
+      "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-9ae3d56d7350.webp",
+      "sourceUrl": "https://www.notion.so/Characteristics-of-Games-0b2ef54efda14132bc8dc61a87fddad9?pvs=21",
+      "createdTime": 1651709250494,
+      "lastEditedTime": 1681311387736,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Characteristics of Games"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "07de02e2-40a4-4059-aec2-6a130edb5ed5",
+      "slug": "charles-babbage",
+      "title": "Charles Babbage",
+      "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-e232a2606856.webp",
+      "sourceUrl": "https://paidiasophia.notion.site/07de02e240a44059aec26a130edb5ed5",
+      "createdTime": 1668003212324,
+      "lastEditedTime": 1681329241975,
+      "properties": {
+        "Bjg@": [
+          [
+            "Person"
+          ]
+        ],
+        "title": [
+          [
+            "Charles Babbage",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d7c88510-e00c-41ee-96c0-6d1d62100928",
+      "slug": "cheap-amusements",
+      "title": "Cheap Amusements",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-418c6389027b.webp",
+      "sourceUrl": "https://www.notion.so/Cheap-Amusements-d7c88510e00c41ee96c06d1d62100928?pvs=21",
+      "createdTime": 1668710824607,
+      "lastEditedTime": 1681311419566,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Cheap Amusements",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8867db02-c419-4982-8ad5-7cdbef754436",
+      "slug": "cheat-hack",
+      "title": "Cheat/Hack",
+      "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+      "cover": "",
+      "previewImage": "",
+      "sourceUrl": "https://paidiasophia.notion.site/8867db02c41949828ad57cdbef754436",
+      "createdTime": 1652714845165,
+      "lastEditedTime": 1681311422370,
+      "properties": {
+        "Bjg@": [
+          [
+            "Concept"
+          ]
+        ],
+        "title": [
+          [
+            "Cheat/Hack"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f1c6b7ed-ed96-4200-a040-d9a1e068ad33",
+      "slug": "cheating",
+      "title": "Cheating",
+      "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+      "cover": "",
+      "previewImage": "./assets/images/untitled-1b9102a50b95.webp",
+      "sourceUrl": "https://www.notion.so/Cheating-f1c6b7eded964200a040d9a1e068ad33?pvs=21",
+      "createdTime": 1651972225306,
+      "lastEditedTime": 1681311425116,
+      "properties": {
+        "Bjg@": [
+          [
+            "Book"
+          ]
+        ],
+        "title": [
+          [
+            "Cheating",
+            [
+              [
+                "b"
+              ],
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

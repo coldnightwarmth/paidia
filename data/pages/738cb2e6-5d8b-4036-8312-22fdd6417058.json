@@ -1,0 +1,134 @@
+{
+  "id": "738cb2e6-5d8b-4036-8312-22fdd6417058",
+  "slug": "a-cyborg-manifesto",
+  "title": "A Cyborg Manifesto",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/738cb2e65d8b4036831222fdd6417058",
+  "createdTime": 1652064514939,
+  "lastEditedTime": 1681310214841,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A "
+      ],
+      [
+        "Cyborg Manifesto",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0bcac7488d04.webp",
+  "blocks": [
+    {
+      "id": "3a84ccf9-386a-4564-9c3c-2b8923bdaef8",
+      "type": "divider"
+    },
+    {
+      "id": "7936ce74-d26e-4a7c-9891-346531a48149",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f9f79439-265a-46e2-a121-360459cfbf3f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3cc1afd1-5362-413f-89ab-279e969eb399",
+          "type": "column",
+          "children": [
+            {
+              "id": "c3e2dee5-0ddd-43e2-af76-300f28dc8064",
+              "type": "paragraph",
+              "html": "<em><strong>A Cyborg Manifesto </strong></em>was written by <a href=\"#/donna-haraway\">Donna Haraway</a>, originally published by the Socialist Review in 1985."
+            },
+            {
+              "id": "9c8fb253-2485-43a8-8874-5551e142d77d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2c20e07d-e9b0-42f5-a7eb-0ff99dc20704",
+              "type": "quote",
+              "html": "A Cyborg Manifesto<em> is an essay written by Donna Haraway and published in 1985 in the </em>Socialist Review (US)<em>. In it, the concept of the </em><a href=\"#/cyborg\"><em>cyborg</em></a><em> is a rejection of rigid boundaries, notably those separating &quot;human&quot; from &quot;animal&quot; and &quot;human&quot; from &quot;machine.&quot; She writes: &quot;The cyborg does not dream of community on the model of the organic family, this time without the oedipal project. The cyborg would not recognize the </em><a href=\"#/gardening-df7850f2\"><em>Garden</em></a><em> of Eden; it is not made of mud and cannot dream of returning to dust.&quot;<br><br>The &quot;Manifesto&quot; criticizes traditional notions of </em><a href=\"#/feminism\"><em>feminism</em></a><em>, particularly feminist focuses on identity politics, and encourages instead coalition through affinity. She uses the figure of the cyborg to urge feminists to move beyond the limitations of traditional gender, feminism, and politics; the &quot;Manifesto&quot; is considered one of the milestones in the development of feminist posthumanist theory.</em>"
+            },
+            {
+              "id": "9b267dbf-148e-4393-a8bf-86362e8fdc3f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e565a7f6-5ef4-4730-ae86-d6fd52d6e78b",
+          "type": "column",
+          "children": [
+            {
+              "id": "45e5b7f8-994f-4545-83c1-f7007786ca78",
+              "type": "image",
+              "src": "./assets/images/untitled-0bcac7488d04.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f38d103-7d23-48a8-bfb0-4749a918600c",
+      "type": "divider"
+    },
+    {
+      "id": "832addc0-36f4-40f6-9a6a-6a3dd828e4e4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b3dd75b9-997c-4707-89f1-8a94f8cc07c1",
+          "type": "column",
+          "children": [
+            {
+              "id": "db05e5a4-d66d-406e-8cc1-cacafef78f31",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "94622302-826c-47f2-ac6e-180e2bb70325",
+          "type": "column",
+          "children": [
+            {
+              "id": "7237e5b3-3a9e-4135-84c1-3122152b5c71",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NdgY9M\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "63eb9a6e-70c8-401b-a94f-24277fdb5350",
+      "type": "divider"
+    }
+  ]
+}

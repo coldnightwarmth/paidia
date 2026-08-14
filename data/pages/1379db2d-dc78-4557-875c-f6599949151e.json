@@ -1,0 +1,136 @@
+{
+  "id": "1379db2d-dc78-4557-875c-f6599949151e",
+  "slug": "the-game-makers",
+  "title": "The Game Makers",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Game-Makers-1379db2ddc784557875cf6599949151e?pvs=21",
+  "createdTime": 1668711545154,
+  "lastEditedTime": 1681312479287,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Game Makers",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2628eb1a9264.webp",
+  "blocks": [
+    {
+      "id": "d4577096-b911-4da9-a2e3-afd46b410be9",
+      "type": "divider"
+    },
+    {
+      "id": "5e5dc13e-1dd0-4044-a3a6-519160998215",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fa2599f0-c6fa-4bd3-8e57-f52ed5f21914",
+      "type": "columns",
+      "children": [
+        {
+          "id": "56ed2cc1-0240-4dc3-857f-4988b66c869e",
+          "type": "column",
+          "children": [
+            {
+              "id": "cc225cbe-5152-4154-b698-c078820e0ec7",
+              "type": "paragraph",
+              "html": "<em><strong>The Game Makers: The Story of Parker Brothers, from Tiddledy Winks to Trivial Pursuit</strong></em> was written by Philip E. Orbanes, published by Harvard Business Review Press, November 14, 2003."
+            },
+            {
+              "id": "c5cb01d9-0736-4dea-b87d-47417074fcad",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2bde85f8-69b9-4d6e-ab20-ba00876208fb",
+              "type": "quote",
+              "html": "The Monopoly game, Trivial Pursuit, Clue, Boggle<em>, and </em>Risk<em> are more than games - they're part of Americana. This work presents a study of successful business expansion. It also gives an account of how one individual's strength of character - or weakness - exerted a significant influence over a company's fortunes.</em>"
+            },
+            {
+              "id": "935fb9f6-8a3e-44ed-959a-c2bc5e0e95bb",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "235ba3f5-afb9-4a56-937a-b0fc8b6b6a3d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c79e6ac1-142b-42bf-9a20-5298805a9609",
+          "type": "column",
+          "children": [
+            {
+              "id": "ec18b19a-d509-4bb9-abcd-f5b104316a6e",
+              "type": "image",
+              "src": "./assets/images/untitled-2628eb1a9264.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "241bb500-f8aa-466b-8a67-ea62786b988b",
+      "type": "divider"
+    },
+    {
+      "id": "a336ff6a-c8f0-4280-a451-fd673cdc770e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7198b835-bb39-4513-8a82-f02bf87a0e76",
+          "type": "column",
+          "children": [
+            {
+              "id": "9f9404c0-7eff-40e7-8c92-0b7306d103a1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c89a82a2-e6a5-4398-931e-8739c9f39ead",
+          "type": "column",
+          "children": [
+            {
+              "id": "e6d7bf62-3f7e-437a-9194-dfcf1bac2d7f",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Game-Makers-Brothers-Tiddledy-Trivial/dp/1591392691/ref=sr_1_1?crid=2S0SYVPCMVT3X&amp;keywords=The+Game+Makers%3A+The+Story+of+Parker+Brothers+from+Tiddledy+Winks+to+Trivial+Pursuit&amp;qid=1666382196&amp;qu=eyJxc2MiOiIwLjczIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=the+game+makers+the+story+of+parker+brothers+from+tiddledy+winks+to+trivial+pursuit%2Cstripbooks%2C94&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e43a799-5285-4f77-b0f8-57987e81597a",
+      "type": "divider"
+    }
+  ]
+}

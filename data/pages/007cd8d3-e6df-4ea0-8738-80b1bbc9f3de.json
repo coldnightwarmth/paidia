@@ -1,0 +1,131 @@
+{
+  "id": "007cd8d3-e6df-4ea0-8738-80b1bbc9f3de",
+  "slug": "how-pleasure-works",
+  "title": "How Pleasure Works",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/How-Pleasure-Works-007cd8d3e6df4ea0873880b1bbc9f3de?pvs=21",
+  "createdTime": 1673295196770,
+  "lastEditedTime": 1681312154535,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "How Pleasure Works",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-02643d33ed21.webp",
+  "blocks": [
+    {
+      "id": "7e4c2320-81c0-4a1d-bfb9-2f7155eab458",
+      "type": "divider"
+    },
+    {
+      "id": "9175800e-9e3a-4ee7-8b50-58f833b16d23",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4bedd45e-d72c-45db-9607-5046012b6e51",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d5d3a2e2-d55a-4507-9b9e-f40c136e6850",
+          "type": "column",
+          "children": [
+            {
+              "id": "be3e69fb-efb0-4db6-ae37-2edb8877860e",
+              "type": "paragraph",
+              "html": "<strong><em>How Pleasure Works: The New Science of Why We Like What We Like</em></strong> was written by Paul Bloom, published by W. W. Norton &amp; Company, June 14, 2010."
+            },
+            {
+              "id": "fc26c12b-e81b-4aa0-a701-0a00af0db47f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "75be0cec-bfdc-485b-8546-ea08adb95ff3",
+              "type": "quote",
+              "html": "<em>Yale psychologist Paul Bloom presents a striking and thought-provoking new understanding of pleasure, desire, and value.<br><br>The thought of sex with a virgin is intensely arousing for many men. The average American spends more than four hours a day watching television. Abstract art can sell for millions of dollars. People slow their cars to look at gory accidents, and go to movies that make them cry.<br><br>Pleasure is anything but straightforward. Our desires, attractions, and tastes take us beyond the symmetry of a beautiful face, the sugar and fat in food, or the prettiness of a painting. In </em>How Pleasure Works<em>, Yale University psychologist Paul Bloom draws on groundbreaking research to unveil the deeper workings of why we desire what we desire. Refuting the longstanding explanation of pleasure as a simple sensory response, Bloom shows us that pleasure is grounded in our beliefs about the deeper nature or essence of a given thing. This is why we want the real Rolex and not the knockoff, the real Picasso and not the fake, the twin we have fallen in love with and not her identical sister.<br><br>In this fascinating and witty account, Bloom draws on child development, philosophy, neuroscience, and behavioral economics in order to address pleasures noble and seamy, highbrow and lowbrow. Along the way, he gives us unprecedented insights into a realm of human psychology that until now has only been partially understood.</em>"
+            },
+            {
+              "id": "01c157d2-d9d3-423d-bfb6-5e032ab974fa",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "51c13f1f-0a40-45c9-a7ac-bd58cd2e23f0",
+          "type": "column",
+          "children": [
+            {
+              "id": "0705f147-05b5-4d97-bb46-13746acbc2da",
+              "type": "image",
+              "src": "./assets/images/untitled-02643d33ed21.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04c5e8a6-b131-442b-bbfb-d0f3a12238b1",
+      "type": "divider"
+    },
+    {
+      "id": "77ad5c34-ff4c-4615-8ee4-a58e49bf6a94",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1f9a4abc-4f37-4053-b303-1109bfc0980b",
+          "type": "column",
+          "children": [
+            {
+              "id": "cfe16521-1048-4e3a-8942-27f7407db6b8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f850b6e9-1eb3-49ac-aee6-43afb6e004c3",
+          "type": "column",
+          "children": [
+            {
+              "id": "ac2e7f9c-487e-403e-ab69-650333c7fc69",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/How-Pleasure-Works-Science-Like/dp/0393066320/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9b6ea9e8-4870-4aa6-abe3-4e5202f0c90a",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "48106965-ad38-4cca-9cba-155c63398da8",
+  "slug": "how-a-pinball-machine-works-in-slow-motion-the-slow-mo-guys",
+  "title": "How a Pinball Machine works in Slow Motion - The Slow Mo Guys",
+  "icon": "./assets/images/playback-play-gray-3ec25554f6f9.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6d32d132-1840-4705-a7bb-776fd0b6e69b",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/48106965ad384cca9cba155c63398da8",
+  "createdTime": 1651815844251,
+  "lastEditedTime": 1677090865001,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "How a Pinball Machine works in Slow Motion - The Slow Mo Guys",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "79dd6dca-47f6-4a59-8987-d428310386a7",
+      "type": "paragraph",
+      "html": "by <strong><a href=\"https://www.youtube.com/channel/UCUK0HBIBWgM2c4vsPhkYY4w\" target=\"_blank\" rel=\"noreferrer\">The Slow Mo Guys</a></strong>"
+    },
+    {
+      "id": "ad679c89-f5c8-4ada-bb92-57380899c0b8",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Tmg5WOvPKpU?feature=oembed",
+      "caption": ""
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "3b528ff4-e2ce-4391-9a1a-12d2b0aa30da",
+  "slug": "mmos-from-the-outside-in",
+  "title": "MMOs from the Outside In",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/MMOs-from-the-Outside-In-3b528ff4e2ce43919a1a12d2b0aa30da?pvs=21",
+  "createdTime": 1657138138575,
+  "lastEditedTime": 1681313854496,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "MMOs from the Outside In",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9dc1d8588132.webp",
+  "blocks": [
+    {
+      "id": "99a9c111-3896-415c-a87e-c9968fb3a250",
+      "type": "divider"
+    },
+    {
+      "id": "cba3af00-6d96-453c-b57b-2311d984546c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "92957541-c318-4855-91e5-d383b3303dfe",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f9e32310-af27-44e2-a35c-6a63de04c46d",
+          "type": "column",
+          "children": [
+            {
+              "id": "6e5d53f8-6e2b-41d0-a984-c567ee34aa38",
+              "type": "paragraph",
+              "html": "<em><strong>MMOs from the Outside In: The Massively-Multiplayer Online Role-Playing Games of Psychology, Law, Government, &amp; Real Life</strong></em> was written by Richard A. Bartle, published by Apress, December 28, 2015."
+            },
+            {
+              "id": "4186d96c-befc-4e6d-8e9e-570abeccdd2d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7f3d2771-ba5f-48a9-95d1-f0b5f1d7cebe",
+              "type": "quote",
+              "html": "<em>This follow-up volume to </em><a href=\"#/mmos-from-the-inside-out\">MMOs from the Inside Out</a> <em>is a further collection of bold ideas, information, and instruction from one of the true pioneers of Massively-Multiplayer Online Role-Playing Games. Whereas its predecessor looked at how MMOs can change the world, </em>MMOs from the Outside In: How Psychology, Law, Culture and Real Life <em>see Massively-Multiplayer Role-playing Games looks at how the world can change MMOs – and not always for the better. The aim of this book is to inform an up-coming generation of designers, to alert and educate players and designers-to-be, and to caution those already working in the field who might be growing complacent about society’s acceptance of their chosen career. Playing and creating MMOs does not happen in a bubble. MMOs are so packed with potential that those who don’t understand them can be afraid, and those who do understand them can neglect their wider impact. Today's examples are little more than small, pioneering colonies on the shore of a vast, uncharted continent. What monsters lurk beyond the horizon? What horrors will explorers bring back to torment us? </em>MMOs from the Outside In<em> is for people with a spark of curiosity: it pours gasoline on that spark.</em>"
+            },
+            {
+              "id": "957895ba-ebf5-456b-a0d9-60ee5ec08259",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "3717f3a0-4cf9-4ef5-8682-461f933b62cd",
+          "type": "column",
+          "children": [
+            {
+              "id": "21b94ee1-d8d1-48f7-94d7-c13b9514adc4",
+              "type": "image",
+              "src": "./assets/images/untitled-9dc1d8588132.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7726ac24-f742-4f12-9bd6-c16288af6d7f",
+      "type": "divider"
+    },
+    {
+      "id": "712536c8-54ef-4cdb-a0ce-4a0f6101a79f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "910d861a-888a-417c-93fa-27c3e2d8caec",
+          "type": "column",
+          "children": [
+            {
+              "id": "16a18d14-567e-466f-a752-772402fbb745",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0b643dd5-ca82-4ae2-9f9d-3c54cc5626be",
+          "type": "column",
+          "children": [
+            {
+              "id": "0360a92c-d1c4-4ee7-8299-ae6d4ad129ff",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3alTamO\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af8906a8-1036-489e-9aa1-a3aae65079de",
+      "type": "divider"
+    },
+    {
+      "id": "8f56bbb1-3f7e-4fab-bd61-ed2a5d808aff",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

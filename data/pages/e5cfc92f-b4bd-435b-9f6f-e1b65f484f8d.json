@@ -1,0 +1,131 @@
+{
+  "id": "e5cfc92f-b4bd-435b-9f6f-e1b65f484f8d",
+  "slug": "the-race-card",
+  "title": "The Race Card",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Race-Card-e5cfc92fb4bd435b9f6fe1b65f484f8d?pvs=21",
+  "createdTime": 1652118921229,
+  "lastEditedTime": 1681314044403,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Race Card"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/714e1ycwel-beb7ac70b8e5.webp",
+  "blocks": [
+    {
+      "id": "1a1337bb-42ae-43a1-99d1-8ce873a78442",
+      "type": "divider"
+    },
+    {
+      "id": "12d38512-8fe8-4dff-8d38-0ce93dbf5691",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "262cfd9a-5dc0-4702-a625-e3caa4dde28e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3df951b3-0ba0-4454-b521-5d50992645aa",
+          "type": "column",
+          "children": [
+            {
+              "id": "642fcb8d-c3a1-484f-ab9e-fb069f5eb797",
+              "type": "paragraph",
+              "html": "<em><strong>The Race Card: From Gaming Technologies to Model Minorities</strong></em> was written by Tara Fickle, published by NYU Press, November 19, 2019."
+            },
+            {
+              "id": "44a863e9-0493-46f3-9c62-9b6d23e60068",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2dcf65f3-23de-4cd0-a438-a9e4c9d40f08",
+              "type": "quote",
+              "html": "<strong><em>How games have been used to establish and combat Asian American racial stereotypes</em></strong><em><br><br>As </em>Pokémon Go<em> reshaped our neighborhood geographies and the human flows of our cities, mapping the virtual onto lived realities, so too has gaming and game theory played a role in our contemporary understanding of race and racial formation in the United States. From the Chinese Exclusion Act and Japanese American internment to the model minority myth and the globalization of Asian labor, Tara Fickle shows how games and game theory shaped fictions of race upon which the nation relies. Drawing from a wide range of literary and critical texts, analog and digital games, journalistic accounts, marketing campaigns, and archival material, Fickle illuminates the ways Asian Americans have had to fit the roles, play the game, and follow the rules to be seen as valuable in the US.<br><br>Exploring key moments in the formation of modern US race relations, </em>The Race Card<em> charts a new course in gaming scholarship by reorienting our focus away from games as vehicles for empowerment that allow people to inhabit new identities, and toward the ways that games are used as instruments of soft power to advance top-down political agendas. Bridging the intellectual divide between the embedded mechanics of video games and more theoretical approaches to gaming rhetoric, Tara Fickle reveals how this intersection allows us to overlook the predominance of game tropes in national culture. </em>The Race Card<em> reveals this relationship as one of deep ideological and historical intimacy: how the games we play have seeped into every aspect of our lives in both monotonous and malevolent ways.</em>"
+            },
+            {
+              "id": "c35ac2bc-f176-4dfd-8baa-00106f46065a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4ac857a8-1484-497b-bd95-2b73616354ec",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "00994cac-ca22-46f7-b25e-bc3a0469c6a1",
+          "type": "column",
+          "children": [
+            {
+              "id": "549f5934-37c8-4178-9e20-e331e57b7074",
+              "type": "image",
+              "src": "./assets/images/714e1ycwel-beb7ac70b8e5.webp",
+              "caption": "",
+              "alt": "714e+1ycWeL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a4032d8-2577-4557-9c69-4627cc39d496",
+      "type": "divider"
+    },
+    {
+      "id": "efce9a1f-2f7e-4798-bf37-054e25a78df7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f3a6c2f1-a598-4bf1-a8ba-697326193ce9",
+          "type": "column",
+          "children": [
+            {
+              "id": "370d9672-0311-4c55-882f-13b871834c68",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7044b7c1-d74a-46e9-be38-f13b19bc9ad7",
+          "type": "column",
+          "children": [
+            {
+              "id": "607fc9a7-c2c1-4449-a803-a4f8fea9a634",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NjmU2I\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ae7d5a81-659a-4fae-a287-13ecc48b856a",
+      "type": "divider"
+    }
+  ]
+}

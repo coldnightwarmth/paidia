@@ -1,0 +1,101 @@
+{
+  "id": "f3ad4e18-bf2b-470a-99bf-f866340d6271",
+  "slug": "the-architectural-review-1481-play",
+  "title": "The Architectural Review #1481, Play",
+  "icon": "./assets/images/book-gray-c5b0d760e7b7.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Architectural-Review-1481-Play-f3ad4e18bf2b470a99bff866340d6271?pvs=21",
+  "createdTime": 1653174846110,
+  "lastEditedTime": 1681314525876,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Architectural Review #1481, Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5a74208b66d5.webp",
+  "blocks": [
+    {
+      "id": "3d3c99c0-c605-4a54-b72b-614dc27a155d",
+      "type": "divider"
+    },
+    {
+      "id": "e5d5106f-0f34-4d63-937f-0f40b9908489",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f4071413-1fb1-4d82-b51b-5254108e46f9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5d74f8e4-3f0f-4dc7-9f02-e60b65ab1b70",
+          "type": "column",
+          "children": [
+            {
+              "id": "d896c3c2-1580-486f-82ef-ce586d7cb49b",
+              "type": "paragraph",
+              "html": "<em><strong>The Architectural Review #1481, Play</strong></em> is a magazine."
+            },
+            {
+              "id": "f57f4410-86ac-4f69-977c-547795fb4431",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d71c9e83-2cbc-49cb-bb46-7cf425047700",
+              "type": "quote",
+              "html": "<em>‘As fast and as furiously as we construct urban conglomerates, as speedily as we lay waste to our environments, as earnestly as we attempt to clean up, organise and innovate, we rapidly make things worse’ writes Hélène Frichot in the keynote for this issue. This issue seeks to mine the mountain of waste for newness and pick opportunities out from the debris. From Kurt Schwitters to Sammy Baloji, from waste management in Beirut to Chicago’s wasted space, and from landfills to the global commons: waste is an end and a beginning</em>"
+            }
+          ]
+        },
+        {
+          "id": "f2594061-e4ba-4ed0-ad0d-2cca4a482940",
+          "type": "column",
+          "children": [
+            {
+              "id": "ce933deb-537e-4068-9423-7d457add24e3",
+              "type": "image",
+              "src": "./assets/images/untitled-5a74208b66d5.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "474e7311-24f1-459c-af50-10bc30ebccbc",
+      "type": "divider"
+    },
+    {
+      "id": "a4e014ff-e9fa-4d44-b059-30b5b59b35dc",
+      "type": "callout",
+      "html": "<a href=\"https://www.thearchitecturalreviewstore.com/products/play-the-architectural-review-issue-1481-may-2021\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+      "icon": "📕",
+      "children": []
+    },
+    {
+      "id": "3403f652-5d6d-4fe2-a3a0-24dacade8c2b",
+      "type": "divider"
+    }
+  ]
+}

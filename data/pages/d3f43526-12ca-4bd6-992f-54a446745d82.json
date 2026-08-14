@@ -1,0 +1,140 @@
+{
+  "id": "d3f43526-12ca-4bd6-992f-54a446745d82",
+  "slug": "films-and-tv",
+  "title": "Films & TV",
+  "icon": "🎥",
+  "cover": "",
+  "type": "page",
+  "parentId": "65a692fa-db4d-47e5-a584-9d18d1e8a649",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d3f4352612ca4bd6992f54a446745d82",
+  "createdTime": 1673457194022,
+  "lastEditedTime": 1681312050426,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Films & TV"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "da289ac6-dd12-4449-83ab-4a4a70495ad4",
+      "type": "paragraph",
+      "html": "<em>master list of collected relevant, notable movies &amp; documentaries::</em>"
+    },
+    {
+      "id": "e0d1f836-5fae-4cfd-8e54-ee51f2b0b75b",
+      "type": "paragraph",
+      "html": "<strong>[UNDER CONSTRUCTION]</strong>"
+    },
+    {
+      "id": "3b24d708-4100-4e59-b2d9-226d2cb3b4bf",
+      "type": "divider"
+    },
+    {
+      "id": "91d1b7ce-e920-494b-8fee-0bb945b8a54e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d9c17a4f-7e86-4f35-b5e2-35dede8ff0cf",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5de1d629-5bd2-4d36-8d37-61991996d2d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "8f361425-052a-408a-b310-da98cf86fa21",
+              "type": "toggle",
+              "html": "<strong>Feature Film</strong> [2]",
+              "children": [
+                {
+                  "id": "ee2c69ba-1b8a-4d1b-b23e-0e216e4e465e",
+                  "type": "page_link",
+                  "targetId": "ee2c69ba-1b8a-4d1b-b23e-0e216e4e465e",
+                  "title": "Alien",
+                  "notionType": "page"
+                },
+                {
+                  "id": "92724df9-cd91-4a5d-a4a1-6f34a8db198e",
+                  "type": "page_link",
+                  "targetId": "92724df9-cd91-4a5d-a4a1-6f34a8db198e",
+                  "title": "Lord of the Rings",
+                  "notionType": "page"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8e0ba058-1209-41c2-914b-d4a4d31f57a2",
+          "type": "column",
+          "children": [
+            {
+              "id": "d7a983bf-f453-481e-b375-a7856630b149",
+              "type": "toggle",
+              "html": "<strong>Documentary</strong> [0]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a78f3f5-135b-454e-befa-03a7e09d43b3",
+      "type": "toggle",
+      "html": "<strong>Television Series</strong> [1]",
+      "children": [
+        {
+          "id": "cee6da83-d996-4ec9-8e8c-b7d9d8108d31",
+          "type": "page_link",
+          "targetId": "cee6da83-d996-4ec9-8e8c-b7d9d8108d31",
+          "title": "Survivor",
+          "notionType": "page"
+        }
+      ]
+    },
+    {
+      "id": "716e031a-d26d-4e1a-8dbc-b9546fafd854",
+      "type": "alias_link",
+      "targetId": null,
+      "title": "Linked page"
+    },
+    {
+      "id": "764f1174-162e-4c5b-b4ea-ae4d1cd28ef1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b9d92638-c8ce-40d5-a47c-d6dac762c304",
+      "type": "divider"
+    },
+    {
+      "id": "111217b0-631f-4cc4-9b8f-039df0dd3e5a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c696cf1d-ec20-433b-8e85-26712c091188",
+      "type": "paragraph",
+      "html": "<a href=\"/a499c02475114fe7b6190d7b603fa4ce\" target=\"_blank\" rel=\"noreferrer\"><u>☜</u></a><a href=\"/a499c02475114fe7b6190d7b603fa4ce\" target=\"_blank\" rel=\"noreferrer\"><strong><u>Games</u></strong></a>"
+    },
+    {
+      "id": "74cf607f-6baa-4677-9234-35a6cae16fee",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

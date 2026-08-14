@@ -1,0 +1,146 @@
+{
+  "id": "bb66bf04-bef2-4b4f-ab1c-072419fbf77c",
+  "slug": "the-pac-man-principle",
+  "title": "The Pac-Man Principle",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Pac-Man-Principle-bb66bf04bef24b4fab1c072419fbf77c?pvs=21",
+  "createdTime": 1651862616263,
+  "lastEditedTime": 1681313344307,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Pac-Man Principle",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8e710030e3f1.webp",
+  "blocks": [
+    {
+      "id": "07443f8e-0a8e-4e30-a256-9fce7cf1fdc1",
+      "type": "divider"
+    },
+    {
+      "id": "744d2c34-2c73-4d0d-ab2d-bf5fecd8ed59",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "299f48cb-4a6e-4106-96e7-de88b40f63b4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d4d6540b-7946-45b6-96a3-65f8124cd889",
+          "type": "column",
+          "children": [
+            {
+              "id": "560043a4-d79e-4693-9b3f-86abe6fb5b16",
+              "type": "paragraph",
+              "html": "<em><strong>The Pac-Man Principle: A User's Guide To Capitalism</strong></em> was written by Alex Wade, published by Zero Books, July 27, 2018."
+            },
+            {
+              "id": "ab44d481-625f-42a4-8a02-25ec3942247d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9ffd0e98-bd4c-489b-b20f-894222c1dfdc",
+              "type": "quote",
+              "html": "<em>In spite of being well into middle-age,</em> <a href=\"#/pac-man\">Pac-Man</a><em>'s popularity shows no sign of decline and the character has appeared in over sixty games on virtually every games platform ever released. According to the David Brown celebrity index, in 2008, nearly three decades after initial release, 94% of Americans were able to recognise Pac-Man, which gave the character greater brand awareness than </em><a href=\"#/super-mario\">Super Mario</a>. Pac-Man<em>, with its avowed commitment to non-violence was a videogame of many firsts, including being designed to appeal to children and females and providing the first narrative interlude in a videogame. Although iconic, </em>Pac-Man<em> has not been subject to sustained critical analysis. This book helps to fill that gap, providing an extensive, sophisticated, but accessible analysis of the influence of </em>Pac-Man<em> on the way that we live in contemporary western societies.</em>"
+            },
+            {
+              "id": "fc8b5977-1894-4f18-ba28-dcaf6319c87e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2f031292-732e-467b-8579-cdd551a21847",
+          "type": "column",
+          "children": [
+            {
+              "id": "63da242d-916d-4193-8037-45868c7184b9",
+              "type": "image",
+              "src": "./assets/images/untitled-8e710030e3f1.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa79829d-7955-47c5-84b3-c650a481c118",
+      "type": "divider"
+    },
+    {
+      "id": "60d5d06c-6dd0-4f78-9c1b-6b9a577d64e0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8f5ed646-b54b-43bb-9655-33aee94ba0cb",
+          "type": "column",
+          "children": [
+            {
+              "id": "938f6db8-154e-44a0-99b1-b488a3f68e4e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "53148ed0-f727-4617-af42-29cc6f3eabe3",
+          "type": "column",
+          "children": [
+            {
+              "id": "2515f919-a466-4c72-b703-7bf9453617bb",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3UT9kWW\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70b787e0-25cd-47c4-bfeb-9695925881fd",
+      "type": "divider"
+    },
+    {
+      "id": "d8761c7f-f871-4900-8f42-9476a2742ea4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b8fd4e90-2170-4e9b-b635-2fee34e9019c",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "2b30bde9-49ba-47a8-969b-5cdbb4f517a2",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

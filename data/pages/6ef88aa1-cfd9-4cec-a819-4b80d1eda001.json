@@ -1,0 +1,126 @@
+{
+  "id": "6ef88aa1-cfd9-4cec-a819-4b80d1eda001",
+  "slug": "serious-leisure-and-nature",
+  "title": "Serious Leisure & Nature",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/6ef88aa1cfd94ceca8194b80d1eda001",
+  "createdTime": 1668795525296,
+  "lastEditedTime": 1681312410185,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Serious Leisure & Nature",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9c2add2559f3.webp",
+  "blocks": [
+    {
+      "id": "f3b5e199-338d-4611-8aa2-2d6cb5dc4cc6",
+      "type": "divider"
+    },
+    {
+      "id": "a50146f0-1fa6-473d-ab88-51cbd03a8d6f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a6b5d550-8554-409f-9d68-7cf592b693d5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f7bd375f-839e-4093-acb8-1a0ebcf13cf4",
+          "type": "column",
+          "children": [
+            {
+              "id": "929b8490-e826-47a1-94ec-13f240d8c4d8",
+              "type": "paragraph",
+              "html": "<em><strong>Serious Leisure &amp; Nature: Sustainable Consumption in the Outdoors</strong></em> was written by Lee Davidson &amp; Robert A. Stebbins, published by Palgrave Macmillan, March 1, 2011."
+            },
+            {
+              "id": "ba0cdcdf-6aa0-4833-8664-bb1eedf03d8a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1c282d37-581a-47c0-b7e7-879514a0315c",
+              "type": "quote",
+              "html": "<em>Leisure activities undertaken in nature are immensely popular. This book examines the new serious leisure concept of nature challenge activity (NCA), exploring how NCA unfolds in an aesthetically appealing natural environment with implications for consumption and environmental sustainability.</em>"
+            }
+          ]
+        },
+        {
+          "id": "bc7bb740-962c-4cff-9959-f324be405bff",
+          "type": "column",
+          "children": [
+            {
+              "id": "ce81cb30-6ed7-4d57-aacf-0a364924cd8a",
+              "type": "image",
+              "src": "./assets/images/untitled-9c2add2559f3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "117864c1-147c-422f-88d6-713091d3d226",
+      "type": "divider"
+    },
+    {
+      "id": "dff9ddcd-42c5-4542-b6b7-dbb784d6aa6b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "86436973-4b36-4906-9b03-da9b2c2ccd68",
+          "type": "column",
+          "children": [
+            {
+              "id": "a35d688c-77d3-4aa0-9053-4f380e58f6fd",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "49cf5b2c-418f-4b07-b217-078890fc5ae1",
+          "type": "column",
+          "children": [
+            {
+              "id": "4102ef8f-f0ea-4671-8a32-ac3d3cf12344",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Serious-Leisure-Nature-Sustainable-Consumption-ebook/dp/B009AV01AE/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;qid=1666888959&amp;sr=8-1-fkmr0\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2e25ce27-8cc5-4fd6-b608-fdc03deb37b5",
+      "type": "divider"
+    }
+  ]
+}

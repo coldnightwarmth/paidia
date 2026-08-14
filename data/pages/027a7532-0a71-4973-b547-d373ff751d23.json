@@ -1,0 +1,126 @@
+{
+  "id": "027a7532-0a71-4973-b547-d373ff751d23",
+  "slug": "in-the-flow",
+  "title": "In the Flow",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/In-the-Flow-027a75320a714973b547d373ff751d23?pvs=21",
+  "createdTime": 1651685555935,
+  "lastEditedTime": 1681314244360,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "In the Flow"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/a1x0db5xr7l-290de25b9ee4.webp",
+  "blocks": [
+    {
+      "id": "b331dfc2-6cdb-4710-8f4d-ccbdeb7629a5",
+      "type": "divider"
+    },
+    {
+      "id": "a0163d71-fe9e-444f-a77b-54d5cc9dfb72",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5fbc8a89-14cf-4c03-aeca-b546628c8fd3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "75f0270a-06fc-4cda-a676-3402b65babf8",
+          "type": "column",
+          "children": [
+            {
+              "id": "3af7154a-2dcd-4fd4-9c45-e3e87d6af678",
+              "type": "paragraph",
+              "html": "<em><strong>In the Flow</strong></em> was written by Boris Groys, published by Verso, February 16, 2016."
+            },
+            {
+              "id": "a1585329-fd56-493e-809c-391fbf3cea09",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ead5c451-51ba-464b-a260-ca68a346c4d1",
+              "type": "quote",
+              "html": "<em><strong>The leading art theorist takes on art in the age of the Internet<br><br></strong></em><em>In the early twentieth century, art and its institutions came under critique from a new democratic and egalitarian spirit. The notion of works of art as sacred objects was decried and subsequently they would be understood merely as things. This meant an attack on realism, as well as on the traditional preservative mission of the museum. Acclaimed art theorist Boris Groys argues this led to the development of “direct realism”: an art that would not produce objects, but practices (from performance art to relational aesthetics) that would not survive. But for more than a century now, every advance in this direction has been quickly followed by new means of preserving art’s distinction.<br><br>In this major new work, Groys charts the paradoxes produced by this tension, and explores art in the age of the thingless medium, the Internet. Groys claims that if the techniques of mechanical reproduction gave us objects without aura, digital production generates aura without objects, transforming all its materials into vanishing markers of the transitory present.</em>"
+            },
+            {
+              "id": "10659ccc-81fe-4560-a246-dcbac968de75",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "115819cc-4fc5-4154-8e37-7e1cc6a68ef2",
+          "type": "column",
+          "children": [
+            {
+              "id": "48fa0ad8-63d8-4884-8201-07dac3f40c8c",
+              "type": "image",
+              "src": "./assets/images/a1x0db5xr7l-290de25b9ee4.webp",
+              "caption": "",
+              "alt": "A1x0Db5xr7L.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a816d167-0957-42f0-8c5c-fc6156bf990d",
+      "type": "divider"
+    },
+    {
+      "id": "6342efd2-6003-4f1c-b19d-4295960c349f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cd4ff606-9e7c-4a25-84e0-986faffc1c57",
+          "type": "column",
+          "children": [
+            {
+              "id": "569cbe53-cec3-46ef-b720-91f23f77f080",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "447e9b69-206c-48e1-b8b7-984d6ffe6d38",
+          "type": "column",
+          "children": [
+            {
+              "id": "20824271-e66c-467e-8fd6-7a730dc6f378",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yUze4j\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ebb057e-167e-4fd9-86a2-a54031bfa6b8",
+      "type": "divider"
+    }
+  ]
+}

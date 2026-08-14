@@ -1,0 +1,131 @@
+{
+  "id": "bc20391a-7fc9-4e01-a746-320fa73944c2",
+  "slug": "children-s-engagement-in-the-world",
+  "title": "Children's Engagement in the World",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Children-s-Engagement-in-the-World-bc20391a7fc94e01a746320fa73944c2?pvs=21",
+  "createdTime": 1668456200235,
+  "lastEditedTime": 1681311515978,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Children's Engagement in the World",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b5fb8b8da7f6.webp",
+  "blocks": [
+    {
+      "id": "578de888-360a-4ca5-9d1a-88518e5b7d5b",
+      "type": "divider"
+    },
+    {
+      "id": "2675d27a-f2cf-4f04-8e79-8f11c60cfbdf",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "390d4c7c-d2ed-413e-a191-0f9f297afc3e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8768601f-8b32-4af5-861d-ca7baa74c560",
+          "type": "column",
+          "children": [
+            {
+              "id": "99e94c13-ba76-4ca8-9db1-1633a912c9fa",
+              "type": "paragraph",
+              "html": "<em><strong>Children's Engagement in the World: Sociocultural Perspectives</strong></em> is a collection of essays edited by Artin Göncü, published by Cambridge University Press, May 13, 1999."
+            },
+            {
+              "id": "3bf2c0b1-76a6-4c43-9e10-2a7b947e9e12",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8063a4fd-425e-4c87-b65d-878653d49db4",
+              "type": "quote",
+              "html": "<em>This volume describes children's development in their cultural contexts. It stresses the fact that the development of children in diverse cultures follows different paths, depending on specific developmental opportunities provided by their cultures. The book illustrates that the everyday work, school, and play activities provided for children vary from one culture to another depending on the social and economical structure of children's cultures, as well as adult beliefs about what sort of participation by children is valuable to secure optimal development. Thus, this volume proposes to study children's development and education within social as well as cultural contexts. The book's framework is a result of a synthesis of the most recent theoretical advances in cultural psychology. This volume draws heavily from cultural psychology, the cross-cultural tradition in developmental psychology, and the studies of Vygotsky.</em>"
+            },
+            {
+              "id": "dc142d3b-69dc-416c-896d-12e6f70012f5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7816519e-2c7b-4cb1-b3b8-9fac68dc4e65",
+          "type": "column",
+          "children": [
+            {
+              "id": "9dfe14c1-758d-4321-b972-58269e781cdc",
+              "type": "image",
+              "src": "./assets/images/untitled-b5fb8b8da7f6.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0547a060-605d-4458-869c-27333e62ea83",
+      "type": "divider"
+    },
+    {
+      "id": "6f951d7d-2bdb-4a88-b85d-e4cd60a2c223",
+      "type": "columns",
+      "children": [
+        {
+          "id": "40e83882-a931-419e-8936-639f60045abf",
+          "type": "column",
+          "children": [
+            {
+              "id": "c77e0114-3014-4892-b714-bf05ddbac227",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "82742946-6fb8-420f-aa98-abb392388639",
+          "type": "column",
+          "children": [
+            {
+              "id": "c8ccf1ae-fe0f-4b67-b8fb-ee567ff43abb",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Childrens-Engagement-World-Sociocultural-Perspectives/dp/0521583241/ref=sr_1_1?crid=2R2NNLGA40G0J&amp;keywords=Children%E2%80%99s+Engagement+in+the+World%3A+Sociocultural+Perspectives&amp;qid=1666793170&amp;qu=eyJxc2MiOiIwLjY1IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;sprefix=children+s+engagement+in+the+world+sociocultural+perspectives%2Caps%2C81&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c8993ff-94d6-4659-8c0b-4a1741f4736c",
+      "type": "divider"
+    }
+  ]
+}

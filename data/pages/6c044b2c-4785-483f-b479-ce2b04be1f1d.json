@@ -1,0 +1,131 @@
+{
+  "id": "6c044b2c-4785-483f-b479-ce2b04be1f1d",
+  "slug": "birth-of-the-chess-queen",
+  "title": "Birth of the Chess Queen",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Birth-of-the-Chess-Queen-6c044b2c4785483fb479ce2b04be1f1d?pvs=21",
+  "createdTime": 1673371168457,
+  "lastEditedTime": 1681311182899,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Birth of the Chess Queen",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fd2f06760616.webp",
+  "blocks": [
+    {
+      "id": "40be4605-01a0-401b-bb50-97e4f7136f4b",
+      "type": "divider"
+    },
+    {
+      "id": "181fa27d-339c-4b7c-858f-aeca205b4dd1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d2f668b5-c038-4369-9d32-531696cc69b4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a1e71d70-802f-41fd-9c39-1c9d4477946c",
+          "type": "column",
+          "children": [
+            {
+              "id": "ab74b657-1b04-44b4-aefd-ee1a262d3de2",
+              "type": "paragraph",
+              "html": "<em><strong>Birth of the Chess Queen: A History </strong></em>was written by Marilyn Yalom, published by Harper, April 27, 2004."
+            },
+            {
+              "id": "57d45103-8fd8-4389-8067-05def5a366e1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "67c79f2d-4393-4bb2-ba29-5c682284cbd1",
+              "type": "quote",
+              "html": "<em>Everyone knows that the queen is the most dominant piece in chess, but few people know that the game existed for five hundred years without her. It wasn't until chess became a popular pastime for European royals during the Middle Ages that the queen was born and was gradually empowered to become the king's fierce warrior and protector.<br><br></em>Birth of the Chess Queen<em> examines the five centuries between the chess queen's timid emergence in the early days of the Holy Roman Empire to her elevation during the reign of Isabel of Castile. Marilyn Yalom, inspired by a handful of surviving medieval chess queens, traces their origin and spread from Spain, Italy, and Germany to France, England, Scandinavia, and Russia. In a lively and engaging historical investigation, Yalom draws parallels between the rise of the chess queen and the ascent of female sovereigns in Europe, presenting a layered, fascinating history of medieval courts and internal struggles for power.</em>"
+            },
+            {
+              "id": "09f095e9-159a-47fe-91e0-bf742b663938",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4685fa95-3314-46a3-b2ac-aa22a54727f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "0e4e98f9-9194-44ef-a6bc-8fbba309cb67",
+              "type": "image",
+              "src": "./assets/images/untitled-fd2f06760616.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51c43146-79b7-4761-816c-2dac4ae99eaa",
+      "type": "divider"
+    },
+    {
+      "id": "e80de958-8cd8-42ce-9e9d-7f6ceaaf9903",
+      "type": "columns",
+      "children": [
+        {
+          "id": "54919ed0-5b66-4a94-b2ea-8c8bff92e6eb",
+          "type": "column",
+          "children": [
+            {
+              "id": "e43be7df-bfd5-4be3-bb56-c61afedbb95a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6732cefe-542a-43ed-9b57-2eb5084b75c1",
+          "type": "column",
+          "children": [
+            {
+              "id": "a49700bb-f81e-4b0f-a323-8260be2cd536",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Birth-Chess-Queen-Marilyn-Yalom/dp/0060090650\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13b57c0c-9805-4864-9fed-529def501713",
+      "type": "divider"
+    }
+  ]
+}

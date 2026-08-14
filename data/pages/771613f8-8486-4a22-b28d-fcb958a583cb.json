@@ -1,0 +1,131 @@
+{
+  "id": "771613f8-8486-4a22-b28d-fcb958a583cb",
+  "slug": "meta-hodos-and-meta-meta-hodos",
+  "title": "Meta-Hodos & Meta Meta-Hodos",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Meta-Hodos-Meta-Meta-Hodos-771613f884864a22b28dfcb958a583cb?pvs=21",
+  "createdTime": 1668797923951,
+  "lastEditedTime": 1681312401256,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Meta-Hodos & Meta Meta-Hodos",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6cdf5374c750.webp",
+  "blocks": [
+    {
+      "id": "8c2f8372-5847-4498-a1d8-658f1d6d2517",
+      "type": "divider"
+    },
+    {
+      "id": "b3560916-f0bc-48c4-b07c-f4acf26f4b27",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "15c6a242-e972-465f-8b73-c6de8dcc2c7e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9bdd2f5b-54c0-4e19-8c22-663bc4f69259",
+          "type": "column",
+          "children": [
+            {
+              "id": "10857b35-cc87-4472-84b6-d411d2cbe6cf",
+              "type": "paragraph",
+              "html": "<em><strong>Meta-Hodos and Meta Meta-Hodos: A Phenomenology of 20th Century Musical Materials &amp; an Approach to the Study of Form</strong></em> was written by James Tenney, published by Frog Peak Music in 1968."
+            },
+            {
+              "id": "b7cf5cfa-0ed2-456d-806a-9b3572c6fd90",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "789f8be9-a958-46fb-a937-aae285657ec9",
+              "type": "quote",
+              "html": "<em>One of the great music theory books of the 20th century, by a thought-provoking composer.</em>"
+            },
+            {
+              "id": "74af8c05-a2dd-4def-b999-45cce56b1004",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "71fac24b-6399-4c48-b0b5-dc9bca60f395",
+          "type": "column",
+          "children": [
+            {
+              "id": "f40c4855-1bf9-4e12-9042-1c2469023f11",
+              "type": "image",
+              "src": "./assets/images/untitled-6cdf5374c750.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b42b10fe-23dc-465d-8f71-04bec388028a",
+      "type": "divider"
+    },
+    {
+      "id": "11b58e38-8ba6-4918-9bf5-32e8d5e44744",
+      "type": "columns",
+      "children": [
+        {
+          "id": "59676071-0800-459d-8d61-ee4a77a02ba4",
+          "type": "column",
+          "children": [
+            {
+              "id": "4d733fe9-600a-46b5-b064-b656783432ce",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "986a1326-91bf-438e-96cf-476591e5e3f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "68183232-bdbe-48e6-b1a3-badd570f20d8",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Meta-Hodos-Meta-Phenomenology-Materials-Approach/dp/0945996004\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8eaab787-c769-4157-b0b4-21bbac055fa8",
+      "type": "divider"
+    }
+  ]
+}

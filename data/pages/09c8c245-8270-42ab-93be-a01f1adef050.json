@@ -1,0 +1,126 @@
+{
+  "id": "09c8c245-8270-42ab-93be-a01f1adef050",
+  "slug": "macmillan-dictionary-sport-and-games",
+  "title": "Macmillan Dictionary Sport & Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Macmillan-Dictionary-Sport-Games-09c8c245827042ab93bea01f1adef050?pvs=21",
+  "createdTime": 1677091986773,
+  "lastEditedTime": 1681311877687,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Macmillan Dictionary Sport & Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b10516b734ab.webp",
+  "blocks": [
+    {
+      "id": "6e7c0522-32fa-4bc2-9e34-a28b2a47e0dc",
+      "type": "divider"
+    },
+    {
+      "id": "4903ae5b-963a-43a2-bb58-c50d0d3e3c91",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f802ca98-db2d-4a71-98c9-b7597e04ba14",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e1783a14-2734-4f53-85ae-510806fb6890",
+          "type": "column",
+          "children": [
+            {
+              "id": "a4713d5e-8c10-4b82-b8a7-23f5e58d2ac7",
+              "type": "paragraph",
+              "html": "The <em><strong>Macmillan Dictionary Sport &amp; Games</strong></em> was written by John Anthony Cuddon, published by Macmillan, May 29, 1980."
+            },
+            {
+              "id": "6d08fbb6-3060-4ad7-bf9e-51b1cc1bae09",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "50bff3c3-31e5-4a48-9a7d-3fc742ae2b00",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "52f663df-edf8-46ab-a7c3-f3ab40f00215",
+          "type": "column",
+          "children": [
+            {
+              "id": "10b29185-8c7c-4513-8ca8-b064ae16d6f0",
+              "type": "image",
+              "src": "./assets/images/untitled-b10516b734ab.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14da5f20-0b4e-4b23-bfa1-878a0a742b75",
+      "type": "divider"
+    },
+    {
+      "id": "89ef05f2-27dd-4e33-9e58-fab91a9f58d8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5f6a8846-afd4-4c5a-8389-7aed386d41cd",
+          "type": "column",
+          "children": [
+            {
+              "id": "a92d413d-a515-42f8-afff-1bd1771b7a4d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8afc8275-25b1-4451-a44b-18cfd668a72b",
+          "type": "column",
+          "children": [
+            {
+              "id": "a1b9bd62-1f43-4170-a8bf-1435ac114509",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Dictionary-Sports-Games-J-Cuddon/dp/0333191633/ref=sr_1_1?crid=1F69HGHORIEOM&amp;keywords=The+International+Dictionary+of+Sports+and+Games&amp;qid=1666386315&amp;qu=eyJxc2MiOiIwLjcwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=the+international+dictionary+of+sports+and+games%2Cstripbooks%2C94&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e51d4a8-59d2-405f-acf9-d573fe8030aa",
+      "type": "divider"
+    }
+  ]
+}

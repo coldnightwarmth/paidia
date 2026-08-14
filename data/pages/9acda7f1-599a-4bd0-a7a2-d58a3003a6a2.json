@@ -1,0 +1,126 @@
+{
+  "id": "9acda7f1-599a-4bd0-a7a2-d58a3003a6a2",
+  "slug": "pilgrim-in-the-microworld",
+  "title": "Pilgrim in the Microworld",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Pilgrim-in-the-Microworld-9acda7f1599a4bd0a7a2d58a3003a6a2?pvs=21",
+  "createdTime": 1669915926224,
+  "lastEditedTime": 1681312287774,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Pilgrim in the Microworld"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2e6a44a70e5e.webp",
+  "blocks": [
+    {
+      "id": "bc63033a-bb6f-412a-93b5-a8dcd03996b0",
+      "type": "divider"
+    },
+    {
+      "id": "31ae9e27-83e7-441e-b78b-c33c855f6a68",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "55f081b5-366f-40e6-a840-f43b5f8bd381",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e69b2d1d-6027-4513-81a0-63cb309efbd3",
+          "type": "column",
+          "children": [
+            {
+              "id": "2dd0a39f-53dd-4238-8203-797d01d4695e",
+              "type": "paragraph",
+              "html": "<em><strong>Pilgrim in the Microworld </strong></em>was written by David Sudnow, published by Grand Central Publishing December 31, 1979."
+            },
+            {
+              "id": "c463a39b-e7f3-43cc-b2a3-0426b4dce024",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5d313608-29b5-4ba6-8933-2dad86a91b5d",
+              "type": "quote",
+              "html": "<em>An exploration of the human mind and body's interaction with the computer in its most compelling form, the video game, focuses on the author's own obsessed immersion in a computer game and its possibilities<br><br>Just as the video game console market was about to crash into the New Mexico desert in 1983, professor and sociologist David Sudnow was unearthing the secrets of “eye, mind, and the essence of video skill” through an exploration of Atari’s Breakout, one of the earliest hits of the arcade world.<br><br>Sudnow’s groundbreaking longform criticism of a single game predates the rise of game studies by decades. While its earliest critics often scorned the idea of a serious book about an object of play, the book’s modern readers remain fascinated by an obsessive, brilliant, and often hilarious quest to learn to play Breakout just as one would learn the piano.</em>"
+            },
+            {
+              "id": "44766d3c-89fb-44cc-a9c7-64eda008227b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ed9c6497-3489-444d-ba49-2c95d030a534",
+          "type": "column",
+          "children": [
+            {
+              "id": "253d7a79-a07a-4918-9ea0-5b0cfca41fc1",
+              "type": "image",
+              "src": "./assets/images/untitled-2e6a44a70e5e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eb8bdf4d-13fe-4eaf-939d-bf3eadd3079c",
+      "type": "divider"
+    },
+    {
+      "id": "aabd6813-d94e-41e0-90cd-9226e8431eec",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7261d004-c074-460b-bd11-5c9a79f8b85c",
+          "type": "column",
+          "children": [
+            {
+              "id": "9574ed0e-6f16-4f3b-8408-5085c830aa91",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a30c2be7-c1c1-489c-a48b-953e6efdfb39",
+          "type": "column",
+          "children": [
+            {
+              "id": "ec3f1e7d-26eb-4691-8c23-003ed0dca956",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DseQbt\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1f24c7bd-c27a-4897-815d-85e008e092cc",
+      "type": "divider"
+    }
+  ]
+}

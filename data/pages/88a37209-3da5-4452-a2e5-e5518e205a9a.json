@@ -1,0 +1,131 @@
+{
+  "id": "88a37209-3da5-4452-a2e5-e5518e205a9a",
+  "slug": "playing-cards",
+  "title": "Playing Cards",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Playing-Cards-88a372093da54452a2e5e5518e205a9a?pvs=21",
+  "createdTime": 1651973974227,
+  "lastEditedTime": 1681313893439,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playing Cards",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ce7a977a12ff.webp",
+  "blocks": [
+    {
+      "id": "1b28f92d-7b85-4b1e-890d-9ebc44377754",
+      "type": "divider"
+    },
+    {
+      "id": "631d78bd-bbb8-40d6-bdfb-5bd1e421101f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "88e166da-30d0-4b06-9aab-f73bbcbdf291",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a809ec9b-f0fb-45e3-adf9-5ce9bc44c519",
+          "type": "column",
+          "children": [
+            {
+              "id": "4cee66ed-1803-48ba-8f1d-e8356dda2012",
+              "type": "paragraph",
+              "html": "<em><strong>Playing Cards: History of the Pack &amp; Explanations of Its Many Secrets</strong></em> was written by W. Gurney Benham, originally published in 1931."
+            },
+            {
+              "id": "3453cf60-a012-483d-97e2-626b7f5b11c2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a5bfe64f-bbfe-43a8-ae27-40dbfb9cd00c",
+              "type": "quote",
+              "html": "<em>First published in 1931, this vintage book explores the history and origins of playing cards from traditional English playing cards to tarot cards and card manufacturers in Britain and Europe. Extensively illustrated and full of interesting information, “Playing Cards” is highly recommended for those with an interest in the history of playing cards and is not to be missed by collectors of vintage literature of this ilk. Contents include: “Card Games”, “Preface”, “Many Theories About the invention of Playing Cards”, “The Tarot Cards”, “Varieties of the European Four-Suit Pack”, “Earliest References to English Playing Cards”, “Genesis of the English Pack”, etc. Many vintage books such as this are becoming increasingly scarce and expensive. It is with this in mind that we are republishing this volume now in an affordable, modern, high-quality edition complete with a specially-commissioned new introduction on card games.</em>"
+            },
+            {
+              "id": "5e82f983-fc6d-4bfa-93eb-6773ff8262ae",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "67199d26-a111-4483-b3e9-08b9dbd81fd2",
+          "type": "column",
+          "children": [
+            {
+              "id": "69eba4b3-d569-49f1-bb7e-c082e1bbd58e",
+              "type": "image",
+              "src": "./assets/images/untitled-ce7a977a12ff.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ff3738ee-2edb-42b5-90db-b8fe79a15c65",
+      "type": "divider"
+    },
+    {
+      "id": "2262b9c7-be43-4c96-8ece-bbe59393b6de",
+      "type": "columns",
+      "children": [
+        {
+          "id": "88ff31c7-b41f-4103-a6e1-714111e966de",
+          "type": "column",
+          "children": [
+            {
+              "id": "c79cd31e-702f-4864-bf68-38f8b784c33b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e692f3df-40ac-4541-aaf7-35028ec34e74",
+          "type": "column",
+          "children": [
+            {
+              "id": "32895a92-61ed-4646-bef6-8cad05ecdd03",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xM68le\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3785721e-8e86-47e2-b3c2-805a48eaa4df",
+      "type": "divider"
+    }
+  ]
+}

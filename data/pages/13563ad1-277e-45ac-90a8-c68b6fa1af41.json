@@ -1,0 +1,136 @@
+{
+  "id": "13563ad1-277e-45ac-90a8-c68b6fa1af41",
+  "slug": "play-write",
+  "title": "PLAY/WRITE",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/PLAY-WRITE-13563ad1277e45ac90a8c68b6fa1af41?pvs=21",
+  "createdTime": 1651768007610,
+  "lastEditedTime": 1681314145179,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "PLAY/WRITE",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8ca1f229a6bf.webp",
+  "blocks": [
+    {
+      "id": "a753ae4d-cf49-4de8-af92-bfa5e6a43870",
+      "type": "divider"
+    },
+    {
+      "id": "d3ac98fa-bef4-4a0a-8b94-feec8843303f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cd2a67a0-e1c4-4f13-8931-96e56bed46d9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2a0fe21f-5af5-42fa-a238-fb754eca3f67",
+          "type": "column",
+          "children": [
+            {
+              "id": "5b3dd7ec-6e95-4f7c-b884-9d9cc358a2dc",
+              "type": "paragraph",
+              "html": "<em><strong>PLAY/WRITE: Digital Rhetoric, Writing, Games</strong></em> is a collection of essays edited by Douglas Eyman &amp; Andréa D. Davis, published by Parlor Press, June 13, 2016."
+            },
+            {
+              "id": "ce579850-e29e-486b-941c-d3e976eb7194",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "e886ea75-9c84-432c-b6e4-22fe4a41e3cd",
+              "type": "quote",
+              "html": "PLAY/WRITE: Digital Rhetoric, Writing, Games<em> presents a wide range of approaches to digital video games as sites of composition and rhetorical performance. The chapters in PLAY/WRITE examine writing-both textual and multimodal-and rhetorical activity that takes place within games as player-game and player-player interactions, as well as external sites of writing, such as player communities, corporate-supported transmedia storytelling, walkthroughs, cheats, and documentation. The final sections of PLAY/WRITE consider the writing of games and the use of games as platforms for rhetorical actions. Following a new materialist approach, the key concept that all of these approaches build upon is that games operate in rhetorical ecologies that include designers, players, texts, communities, and the procedures of the gameplay mechanics and the operations of the games themselves.</em>"
+            },
+            {
+              "id": "f8210b21-9c74-429a-9865-bd4f85e28fca",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4db3e9b7-7e30-472f-90cd-6df8bff822bc",
+          "type": "column",
+          "children": [
+            {
+              "id": "a77d44eb-27bb-4202-8d0d-4f750d77f7e7",
+              "type": "image",
+              "src": "./assets/images/untitled-8ca1f229a6bf.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e98d3929-a36d-4289-85b3-789dd95ff546",
+      "type": "divider"
+    },
+    {
+      "id": "01360ac5-b2ca-4c0a-b817-eed2819ba3a3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0ca860da-c33a-426c-91a9-2f27318f05b6",
+          "type": "column",
+          "children": [
+            {
+              "id": "67519337-d951-4331-a7bd-a73f03d83457",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ace53e6f-4036-49ed-90ab-89ced6e7e241",
+          "type": "column",
+          "children": [
+            {
+              "id": "f329ca7a-484f-4729-97ce-5fd5dfdb183b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/38nm4lq\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7f95ccf9-1af2-49f6-9492-6f0059d8ef55",
+      "type": "divider"
+    },
+    {
+      "id": "cd2d936e-4060-4b96-ac56-e6a3ecdc6656",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "dc5c07b1-9d26-4c60-9a1d-e637cb352390",
+  "slug": "you",
+  "title": "You",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/You-dc5c07b19d264c609a1de637cb352390?pvs=21",
+  "createdTime": 1653173796444,
+  "lastEditedTime": 1681314099152,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "You",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-357e76d1c5be.webp",
+  "blocks": [
+    {
+      "id": "aecaaa98-7a38-473a-aaa1-52538729341b",
+      "type": "divider"
+    },
+    {
+      "id": "69db8e04-496b-488b-b397-5399c2d13b91",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1e9272eb-ad46-4315-9c16-5a5ad3a63cc6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "09d8827e-b11b-49b5-8bf6-16e5630262f4",
+          "type": "column",
+          "children": [
+            {
+              "id": "bd408ceb-ef28-45f8-b920-1326b75cfc31",
+              "type": "paragraph",
+              "html": "<em><strong>You</strong></em> was written by Austin Grossman published by Mulholland Books, April 16, 2013."
+            },
+            {
+              "id": "74fb990d-1f2b-4ef8-936d-c4b500ff9930",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "46aafa84-a5bf-43c1-977d-e5e10174b85d",
+              "type": "quote",
+              "html": "<em>When Russell joins Black Arts games, brainchild of two visionary designers who were once his closest friends, he reunites with an eccentric crew of nerds hacking the frontiers of both technology and entertainment. In part, he's finally given up chasing the conventional path that has always seemed just out of reach. But mostly, he needs to know what happened to Simon, his strangest and most gifted friend, who died under mysterious circumstances soon after Black Arts' breakout hit.<br><br>As the company's revolutionary next-gen game is threatened by a software glitch, Russell finds himself in a race to save his job, Black Arts' legacy, and the people he has grown to care about. The deeper Russell digs, the more dangerous the glitch appears -- and soon, Russell comes to realize there's much more is at stake than just one software company's bottom line.</em>"
+            }
+          ]
+        },
+        {
+          "id": "87e43d08-9b8f-4474-bff9-7136e4e1c48c",
+          "type": "column",
+          "children": [
+            {
+              "id": "9a171856-edff-4954-ab33-8003d5b8817e",
+              "type": "image",
+              "src": "./assets/images/untitled-357e76d1c5be.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b580491a-ab9e-4606-ab9c-ec8093dcf99c",
+      "type": "divider"
+    },
+    {
+      "id": "53b38883-7a26-40e6-a51c-0392f6ce9f87",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8e7aca5b-a3ad-4d54-b7a2-cc7da196f0b0",
+          "type": "column",
+          "children": [
+            {
+              "id": "9796bb1c-2cef-4248-aff8-6843241dde0c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2e9490ee-e146-481f-8061-ea77498fddaf",
+          "type": "column",
+          "children": [
+            {
+              "id": "69d85d01-29a4-430d-8310-a316bd76699a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SqTdxO\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8edf5f01-4ade-40c2-b020-68023534cf8d",
+      "type": "divider"
+    },
+    {
+      "id": "871e83d7-ddf7-4268-ade8-76d28ccd7dbb",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

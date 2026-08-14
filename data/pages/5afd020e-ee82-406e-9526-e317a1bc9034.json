@@ -1,0 +1,141 @@
+{
+  "id": "5afd020e-ee82-406e-9526-e317a1bc9034",
+  "slug": "games-of-life",
+  "title": "Games of Life",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Games-of-Life-5afd020eee82406e9526e317a1bc9034?pvs=21",
+  "createdTime": 1654842213977,
+  "lastEditedTime": 1681313388624,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Games of Life",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-99c22cd363a6.webp",
+  "blocks": [
+    {
+      "id": "ae39fcf5-c22c-477c-b0fd-c0d6eff9d0bb",
+      "type": "divider"
+    },
+    {
+      "id": "a19755af-59d4-4b0f-a102-c63167b241c6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a322e62a-4652-402b-8b83-85662f9230e8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c9ee75a6-5457-4301-a052-99045eb8ae96",
+          "type": "column",
+          "children": [
+            {
+              "id": "3535d299-48ce-48ff-8010-d6466f032940",
+              "type": "paragraph",
+              "html": "<em><strong>Games of Life: Explorations in Ecology, Evolution and Behaviour</strong></em><strong> </strong>was written by Karl Sigmund published by Penguin, July 1, 1995."
+            },
+            {
+              "id": "46f49590-40d7-4e58-b1cf-36575bd6ed90",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "337621cd-569a-477d-a6b7-e0c0c52ae931",
+              "type": "quote",
+              "html": "<em>Takes an engaging journey through some of the most intriguing and fascinating areas of current biology, focusing on the application of game theory and mathematical modelling to our understanding of evolution, sex, animal behaviour and aggression.</em>"
+            }
+          ]
+        },
+        {
+          "id": "146a250e-44c2-43fc-84fe-daa50544ed8e",
+          "type": "column",
+          "children": [
+            {
+              "id": "57792bc3-7dd1-4503-bc58-299b7a56db46",
+              "type": "image",
+              "src": "./assets/images/untitled-99c22cd363a6.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "80f475e8-b605-47d1-bc7b-9b3b91e503dd",
+      "type": "divider"
+    },
+    {
+      "id": "9ebad7bf-7c0a-4aed-8b81-97b5898ed41b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "41d0c1df-b759-470d-ac89-4f38f2dcda97",
+          "type": "column",
+          "children": [
+            {
+              "id": "2858d33f-30d6-4eed-b29d-6f76c7e98868",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b1bacd65-fcaa-48e6-b4f8-9185ceda949c",
+          "type": "column",
+          "children": [
+            {
+              "id": "a570e11b-d736-4781-a0f4-0cff5b62030c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NVfoL3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a43df638-42a1-4730-b8f3-93f4c2a2e181",
+      "type": "divider"
+    },
+    {
+      "id": "b80fec3c-174c-47c5-903e-3d1665a0e5cc",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "570fdbe4-264d-4341-8c14-e7e6e769f577",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "9f522456-305d-4604-a02c-006f3c9ab979",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

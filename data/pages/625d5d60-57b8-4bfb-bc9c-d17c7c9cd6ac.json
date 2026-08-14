@@ -1,0 +1,126 @@
+{
+  "id": "625d5d60-57b8-4bfb-bc9c-d17c7c9cd6ac",
+  "slug": "language-as-hermeneutic",
+  "title": "Language as Hermeneutic",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Language-as-Hermeneutic-625d5d6057b84bfbbc9cd17c7c9cd6ac?pvs=21",
+  "createdTime": 1651706249694,
+  "lastEditedTime": 1681313833842,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Language as Hermeneutic"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d6a99fe7ed86.webp",
+  "blocks": [
+    {
+      "id": "25e01d4e-dc8f-4c9b-ad9b-28dc0d2b67af",
+      "type": "divider"
+    },
+    {
+      "id": "11f40eff-38a3-45bc-a53b-a2f61a21b540",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1be9a1ac-a445-4f65-858f-63778db621bb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2ca23707-cfd9-4792-b678-c1f8f67ef1fe",
+          "type": "column",
+          "children": [
+            {
+              "id": "7832799a-f0ec-4668-ad5e-8b869ef50e33",
+              "type": "paragraph",
+              "html": "<em><strong>Language as Hermeneutic: A Primer on the Word &amp; Digitization</strong></em> was written by Walter J. Ong, published by Cornell University Press, January 15, 2018."
+            },
+            {
+              "id": "139fbf52-1974-4c6f-892f-1a10135d1b60",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5f21d202-0a79-45e2-a5a4-9dc5079c4e7d",
+              "type": "quote",
+              "html": "<em>Language in all its modes—oral, written, print, electronic—claims the central role in Walter J. Ong’s acclaimed speculations on human culture. After his death, his archives were found to contain unpublished drafts of a final book manuscript that Ong envisioned as a distillation of his life’s work. This first publication of </em>Language as Hermeneutic<em>, reconstructed from Ong’s various drafts by Thomas D. Zlatic and Sara van den Berg, is more than a summation of his thinking. It develops new arguments around issues of cognition, interpretation, and language. Digitization, he writes, is inherent in all forms of &quot;writing,&quot; from its early beginnings in clay tablets. As digitization increases in print and now electronic culture, there is a corresponding need to counter the fractioning of digitization with the unitive attempts of hermeneutics, particularly hermeneutics that are modeled on oral rather than written paradigms.<br><br>In addition to the edited text of </em>Language as Hermeneutic<em>, this volume includes essays on the reconstruction of Ong’s work and its significance within Ong’s intellectual project, as well as a previously unpublished article by Ong, &quot;</em>Time, Digitization, and Dalí's Memory<em>,&quot; which further explores language’s role in preserving and enhancing our humanity in the digital age.</em>"
+            },
+            {
+              "id": "ec02f50a-bb25-4625-9244-67bb492dc1ae",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0cc7da65-b6f7-42e3-bc4d-6539cd4f1d71",
+          "type": "column",
+          "children": [
+            {
+              "id": "d5c8ea9a-b57a-411b-b679-feba24161843",
+              "type": "image",
+              "src": "./assets/images/untitled-d6a99fe7ed86.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4034aa9-270b-4084-b652-c31a41406a81",
+      "type": "divider"
+    },
+    {
+      "id": "b6a79dd1-c21d-457b-bc00-7df60c6cf1e9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "79162867-e9da-45cc-9925-87cb1cb33686",
+          "type": "column",
+          "children": [
+            {
+              "id": "a405c999-92d5-42d7-b796-4b0c5d14470b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3bb7ff22-2a75-4e69-a0f3-702c6b39170b",
+          "type": "column",
+          "children": [
+            {
+              "id": "85c69583-bf48-45cd-987e-2a75238f297b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3QKNkf4\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c956799-f1e4-4fc8-874d-0912eb9c73d0",
+      "type": "divider"
+    }
+  ]
+}

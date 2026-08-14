@@ -1,0 +1,126 @@
+{
+  "id": "46de3556-764a-420c-a184-56baa5c75d07",
+  "slug": "phoenix-iv",
+  "title": "Phoenix IV",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Phoenix-IV-46de3556764a420ca18456baa5c75d07?pvs=21",
+  "createdTime": 1673288958889,
+  "lastEditedTime": 1681312177579,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Phoenix IV",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6f4bd870bb74.webp",
+  "blocks": [
+    {
+      "id": "d4a5e188-daa6-4668-a294-d36606c52042",
+      "type": "divider"
+    },
+    {
+      "id": "ab1b5047-c836-4870-aa8c-a15377c98d92",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ac53aaea-2512-4b4b-b1a6-37f447251ef1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cd8aab38-a143-4a7c-ac1e-4db12dd1de64",
+          "type": "column",
+          "children": [
+            {
+              "id": "5b2a3e55-143d-4482-b92e-b6860956fec5",
+              "type": "paragraph",
+              "html": "<em><strong>Phoenix IV: The History of the Videogame Industry</strong></em><strong> </strong>was written by Leonard Herman, published by Rolenta Press, July 15, 2017."
+            },
+            {
+              "id": "15e83932-6ba4-4b5f-90b0-30f43c3cec26",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2de5c940-1389-4e08-a861-1f26307956c6",
+              "type": "quote",
+              "html": "<em>Since its debut in 1994 as the first serious book about videogame history, Phoenix has been regarded worldwide as the Bible of videogame history by professionals and fans alike. Now in its fourth edition, the text of this deluxe hardcover volume has been completely rewritten and updated to include videogame history through 2016. Illustrated with over 1000 COLOR photos from Atari to Zeebo, Pong to PlayStation, and arranged chronologically, Phoenix remains the first place to start any study of gaming history.</em>"
+            }
+          ]
+        },
+        {
+          "id": "470dcfcf-2bd3-43c5-8812-7b4fc7cb0633",
+          "type": "column",
+          "children": [
+            {
+              "id": "01b4d306-e0bd-4345-893d-811625465ba1",
+              "type": "image",
+              "src": "./assets/images/untitled-6f4bd870bb74.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a191ecfd-1183-4b48-aadf-21417533ebce",
+      "type": "divider"
+    },
+    {
+      "id": "6a7455d6-a33a-4a9d-92c2-2e43f771fb41",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a66edd33-f063-449c-a88e-2b5aa1aec0ed",
+          "type": "column",
+          "children": [
+            {
+              "id": "b8b3e086-848b-40d5-82f0-870baeb891e3",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "261590a0-2e8e-44ef-b37a-dadbf222e954",
+          "type": "column",
+          "children": [
+            {
+              "id": "5c2cbf56-6ec3-43d6-b14a-f03899b0b7a5",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Phoenix-IV-History-Videogame-Industry/dp/0964384809\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a0ba872-48c5-45ab-91bf-3b2ac91715ae",
+      "type": "divider"
+    }
+  ]
+}

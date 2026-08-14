@@ -1,0 +1,416 @@
+{
+  "id": "06c3b0cf-2ef0-4531-a75c-4d2c1cbc3ded",
+  "name": "",
+  "schema": {
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "e35b5100-49ae-44da-b4d2-18e67e70996d",
+      "collectionId": "06c3b0cf-2ef0-4531-a75c-4d2c1cbc3ded",
+      "type": "table",
+      "name": "💖 Everything Everywhere All At Once",
+      "pagePointerId": null,
+      "pageSort": [
+        "7160d240-80d5-488b-82e8-89400d6264a3",
+        "9c514f12-2343-4b9c-b677-689170ef5943",
+        "07059550-160a-4cd1-9067-f71ab0f06ddc",
+        "3baea6a0-a066-48c8-9fa8-1d74559bbb37",
+        "9bbebf19-21fb-45ed-bd74-839c7bdfde6a",
+        "1dd776ee-1f61-4689-a87f-1e124be19a6c",
+        "8b3fb47e-b64e-41cb-bfc6-bab9087e07e5",
+        "d598d52a-931f-4800-a278-e7a5d91b0c28",
+        "cd7d56ca-c53f-4ddb-9cd5-861511db8f3f",
+        "1afd5f2b-46cb-4351-a1a5-7cf7e60428ad",
+        "5c7b5f82-1537-42da-8e3d-9b4af8e40940",
+        "ce94cada-28c0-4b03-b9f1-6147eda818ec",
+        "e5b57f35-04c3-46cb-81f8-a0342adf5dc1",
+        "2acb1396-41b4-4d0d-8ba7-b03f6eef8ebd",
+        "5aa7baf2-27b8-415d-8d1d-136636c2b351",
+        "d6c7481a-c591-4c0c-bbb1-7b58e6db2925",
+        "e8a5be2e-5492-42a0-88f6-01c5c646bd52",
+        "abbe8e73-c53f-4f0b-bc4c-c36f5f3dd550",
+        "32106a4c-5c0b-4f73-9844-2b77151aa913",
+        "7e13e9c0-cded-425c-9cf3-63b04eccf228",
+        "54bd4b68-5d71-4f49-a34b-2174a25651e6",
+        "a4fcf814-e2b7-46d7-a0ba-0fabe7bc6a36",
+        "1a84587e-6581-45d1-b3ac-7d3590779960",
+        "4de9cc3c-79f6-4330-b931-21ded1543b87",
+        "0767dc87-b340-44f0-ad30-48c98666b098",
+        "0f6ecfc5-2641-405a-a5df-278723e6a14d",
+        "3a22f60d-47e4-4879-b1ce-0e7ef8ea3f52",
+        "369beb32-fa18-44f2-8f94-224401580e6e",
+        "11502fb3-e390-49ce-b579-709a1a3277b5",
+        "120dc2c9-bcd3-4a14-bbaa-74edd79a1a99",
+        "431e6eca-0c9a-4577-8ad3-2ed331947b89",
+        "ca89707b-c9a9-4880-9a5c-8562236feffc"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 267
+        },
+        {
+          "property": "e~Oy",
+          "visible": true,
+          "width": 207
+        },
+        {
+          "property": "uM:i",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "cKc|",
+          "visible": true,
+          "width": 109
+        },
+        {
+          "property": "J}_Y",
+          "visible": false,
+          "width": 200
+        },
+        {
+          "property": "UE{M",
+          "visible": false,
+          "width": 200
+        },
+        {
+          "property": "}AUW",
+          "visible": false,
+          "width": 200
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "6e8b53c3-6375-49f2-b1f6-3cda74d61270",
+      "collectionId": "06c3b0cf-2ef0-4531-a75c-4d2c1cbc3ded",
+      "type": "table",
+      "name": "🔭 Job Search Engines",
+      "pagePointerId": null,
+      "pageSort": [
+        "b0b587c8-6a4e-47ac-886b-b3a56674c41a",
+        "4be556f2-85e8-4791-9510-f773958a3e0a",
+        "6154a21a-b45c-428a-92bc-5d5fed2f327a",
+        "e44b5dbb-8838-42cf-9734-a24bd186f671",
+        "b3418ceb-dcde-451e-864d-a598621558fd",
+        "fafd13a3-a851-4df6-9b70-c696e4f95b1f",
+        "d39c7272-335e-4d43-9a49-645e9e755fdc",
+        "b6e29876-4f83-4ae0-98f7-b20ef8583f4f",
+        "2ddec484-bb13-456f-86f8-3382a067979d",
+        "45116409-423d-4dad-b2a6-1d61c0a15241",
+        "2d2b10a4-c1ce-45f2-962f-462f423a8894",
+        "1872fd7f-e203-4d55-a421-b67dc41c21ba",
+        "5c68ded6-bcd8-467c-b93e-a431b7603a3b",
+        "73787a05-679d-4dad-bf6f-fc473215b900",
+        "ac588add-2abd-4023-a42a-62b3edab88af",
+        "e0e187fb-849b-408c-9bd9-9ac8a5cae2ac",
+        "b86a186a-5f04-4dfd-93cf-a1d1d00e2c30",
+        "a81d8835-820e-4cdf-902a-211c5c2cbbfa",
+        "12f3330f-c19c-43e4-a7f0-ce587c0249d5"
+      ],
+      "propertyFilters": [
+        {
+          "id": "04a3c0fc-e93e-4743-984e-a3903204654a",
+          "property": "J}_Y",
+          "operator": "enum_is",
+          "value": "Job Search Engines"
+        }
+      ],
+      "tableProperties": [
+        {
+          "property": "J}_Y",
+          "visible": false,
+          "width": 200
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": 216
+        },
+        {
+          "property": "e~Oy",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "cKc|",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "uM:i",
+          "visible": true,
+          "width": 100
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "9cec312d-c2aa-405f-a9e7-fbe92688ed1b",
+      "collectionId": "06c3b0cf-2ef0-4531-a75c-4d2c1cbc3ded",
+      "type": "table",
+      "name": "⛑️ LFW Resources",
+      "pagePointerId": null,
+      "pageSort": [
+        "6a3104c1-5dff-4cd1-b565-168a3fcd0507",
+        "02aea8f2-3367-4dd5-8e3b-10af4fa1ebe1",
+        "b86a186a-5f04-4dfd-93cf-a1d1d00e2c30",
+        "12f3330f-c19c-43e4-a7f0-ce587c0249d5",
+        "06f2c351-1ddc-4d2b-983f-153b6f04244d",
+        "1addddd2-fe4a-4ef4-9212-336314fdba00",
+        "f213270f-17c0-47ac-8aa5-be0e1502aac4",
+        "a81d8835-820e-4cdf-902a-211c5c2cbbfa",
+        "945d8972-4867-41f6-910d-32a8f8e61532",
+        "b606ac2c-e51a-4c60-83a5-73192bebd1e5",
+        "e0e187fb-849b-408c-9bd9-9ac8a5cae2ac",
+        "1b2c9879-e5e2-411d-bfd7-69d21c195f05",
+        "34e121f7-1a27-46cc-9180-a03f33724333",
+        "d20f6f9b-cad8-4aa4-8868-6ccc5663c6da",
+        "4e1c321a-9b0e-4dbe-a04e-bc78040062ab",
+        "70d85eea-8359-4420-93de-3194981fb907",
+        "b648decf-72c7-4c8b-bf67-9443f0c534c0",
+        "01f23d5d-69bd-43be-bfcd-484305ef3628",
+        "3a6a65f2-2073-4087-96d4-850d266c1a21",
+        "6c4375ef-445a-4666-8cef-e763666817a1",
+        "b472daa2-29a3-4857-a963-d32ea470578e",
+        "62074d7d-f4a7-40b5-b159-87aef3934ed7",
+        "9a21339f-24db-4dab-a059-b56d4033eaf2",
+        "05229e25-7f85-4d2d-a449-d2449afa7cac",
+        "df287c00-00b6-4acd-860b-62fe87d67124",
+        "fc090837-7610-4d2c-8af3-fbc8262a8aaa",
+        "86423771-06f8-4fca-8623-bb60574bb433",
+        "d73c40c1-5bab-4b47-b752-3345416173e6",
+        "c2581c06-0e34-4397-8c94-2396242dda4b",
+        "67530e2a-e035-47b7-a67e-d72b153faa5f",
+        "7e7c1cfa-4035-4c32-9cb1-00eb00138c79"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "uM:i",
+          "visible": false,
+          "width": 100
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": 364
+        },
+        {
+          "property": "e~Oy",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "cKc|",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "J}_Y",
+          "visible": false,
+          "width": 200
+        },
+        {
+          "property": "UE{M",
+          "visible": false,
+          "width": 200
+        },
+        {
+          "property": "}AUW",
+          "visible": false,
+          "width": 200
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "ea9a38b3-465b-4456-a199-d09119559c8d",
+      "collectionId": "06c3b0cf-2ef0-4531-a75c-4d2c1cbc3ded",
+      "type": "table",
+      "name": "🎪 Game Dev Communities",
+      "pagePointerId": null,
+      "pageSort": [
+        "9c514f12-2343-4b9c-b677-689170ef5943",
+        "07059550-160a-4cd1-9067-f71ab0f06ddc",
+        "9bbebf19-21fb-45ed-bd74-839c7bdfde6a",
+        "1dd776ee-1f61-4689-a87f-1e124be19a6c",
+        "8b3fb47e-b64e-41cb-bfc6-bab9087e07e5",
+        "d598d52a-931f-4800-a278-e7a5d91b0c28",
+        "cd7d56ca-c53f-4ddb-9cd5-861511db8f3f",
+        "1afd5f2b-46cb-4351-a1a5-7cf7e60428ad",
+        "5c7b5f82-1537-42da-8e3d-9b4af8e40940",
+        "e5b57f35-04c3-46cb-81f8-a0342adf5dc1",
+        "2acb1396-41b4-4d0d-8ba7-b03f6eef8ebd",
+        "5aa7baf2-27b8-415d-8d1d-136636c2b351",
+        "d6c7481a-c591-4c0c-bbb1-7b58e6db2925",
+        "e8a5be2e-5492-42a0-88f6-01c5c646bd52",
+        "abbe8e73-c53f-4f0b-bc4c-c36f5f3dd550",
+        "32106a4c-5c0b-4f73-9844-2b77151aa913",
+        "54bd4b68-5d71-4f49-a34b-2174a25651e6",
+        "a4fcf814-e2b7-46d7-a0ba-0fabe7bc6a36",
+        "3baea6a0-a066-48c8-9fa8-1d74559bbb37"
+      ],
+      "propertyFilters": [
+        {
+          "id": "8475ccef-20c8-4f4a-b272-6b6d60eb5598",
+          "property": "J}_Y",
+          "operator": "enum_is",
+          "value": "Game Dev Communities"
+        }
+      ],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 280
+        },
+        {
+          "property": "e~Oy",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "cKc|",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "uM:i",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "J}_Y",
+          "visible": false,
+          "width": 200
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "29992dcd-1053-44a6-827a-c42552c49492",
+      "collectionId": "06c3b0cf-2ef0-4531-a75c-4d2c1cbc3ded",
+      "type": "table",
+      "name": "🌻 Javiera Who Now?",
+      "pagePointerId": null,
+      "pageSort": [
+        "2acb1396-41b4-4d0d-8ba7-b03f6eef8ebd",
+        "5c7b5f82-1537-42da-8e3d-9b4af8e40940",
+        "1afd5f2b-46cb-4351-a1a5-7cf7e60428ad",
+        "32106a4c-5c0b-4f73-9844-2b77151aa913",
+        "54bd4b68-5d71-4f49-a34b-2174a25651e6",
+        "5aa7baf2-27b8-415d-8d1d-136636c2b351",
+        "8b3fb47e-b64e-41cb-bfc6-bab9087e07e5",
+        "9bbebf19-21fb-45ed-bd74-839c7bdfde6a",
+        "a4fcf814-e2b7-46d7-a0ba-0fabe7bc6a36",
+        "abbe8e73-c53f-4f0b-bc4c-c36f5f3dd550",
+        "cd7d56ca-c53f-4ddb-9cd5-861511db8f3f",
+        "d598d52a-931f-4800-a278-e7a5d91b0c28",
+        "e5b57f35-04c3-46cb-81f8-a0342adf5dc1",
+        "e8a5be2e-5492-42a0-88f6-01c5c646bd52",
+        "f213270f-17c0-47ac-8aa5-be0e1502aac4",
+        "2d2b10a4-c1ce-45f2-962f-462f423a8894",
+        "45116409-423d-4dad-b2a6-1d61c0a15241",
+        "4be556f2-85e8-4791-9510-f773958a3e0a",
+        "5c68ded6-bcd8-467c-b93e-a431b7603a3b",
+        "b3418ceb-dcde-451e-864d-a598621558fd",
+        "b86a186a-5f04-4dfd-93cf-a1d1d00e2c30",
+        "d39c7272-335e-4d43-9a49-645e9e755fdc",
+        "e0e187fb-849b-408c-9bd9-9ac8a5cae2ac",
+        "e44b5dbb-8838-42cf-9734-a24bd186f671",
+        "12f3330f-c19c-43e4-a7f0-ce587c0249d5",
+        "2ddec484-bb13-456f-86f8-3382a067979d",
+        "6154a21a-b45c-428a-92bc-5d5fed2f327a",
+        "73787a05-679d-4dad-bf6f-fc473215b900",
+        "a81d8835-820e-4cdf-902a-211c5c2cbbfa",
+        "fafd13a3-a851-4df6-9b70-c696e4f95b1f",
+        "3a22f60d-47e4-4879-b1ce-0e7ef8ea3f52",
+        "0f6ecfc5-2641-405a-a5df-278723e6a14d",
+        "0767dc87-b340-44f0-ad30-48c98666b098",
+        "4de9cc3c-79f6-4330-b931-21ded1543b87"
+      ],
+      "propertyFilters": [
+        {
+          "id": "b421337c-b93b-44d5-b544-81d6cd983a20",
+          "property": "J}_Y",
+          "operator": "enum_is",
+          "value": "🌻 Javiera Cordero's Info"
+        }
+      ],
+      "tableProperties": [
+        {
+          "property": "cKc|",
+          "visible": false,
+          "width": 200
+        },
+        {
+          "property": "uM:i",
+          "visible": false,
+          "width": 200
+        },
+        {
+          "property": "J}_Y",
+          "visible": false,
+          "width": 200
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": 100
+        },
+        {
+          "property": "e~Oy",
+          "visible": true,
+          "width": 298
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

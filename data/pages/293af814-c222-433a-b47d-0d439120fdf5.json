@@ -1,0 +1,126 @@
+{
+  "id": "293af814-c222-433a-b47d-0d439120fdf5",
+  "slug": "a-handheld-history",
+  "title": "A Handheld History",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/A-Handheld-History-293af814c222433ab47d0d439120fdf5?pvs=21",
+  "createdTime": 1664464105952,
+  "lastEditedTime": 1681310224497,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A Handheld History"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/ahhstd-0498317ae848.webp",
+  "blocks": [
+    {
+      "id": "080006e7-b9ba-4fcf-88c3-d95604a8fc5a",
+      "type": "divider"
+    },
+    {
+      "id": "22eaf2e1-33b3-4c06-9e28-d0ca08560037",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7e30c933-01e4-4d76-941c-36a5d1212a8e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b50cd346-6dc0-464e-be8b-e298732daa1b",
+          "type": "column",
+          "children": [
+            {
+              "id": "d3f6a9d7-9096-4361-90a3-aa74bf502fbf",
+              "type": "paragraph",
+              "html": "<em><strong>A Handheld History</strong></em> is a collection of essays, published by Lost In Cult, September 15, 2022."
+            },
+            {
+              "id": "5421a3f9-09e1-41d8-8c6e-b75aacdb4ce9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a0986f6b-d823-4b8f-8b01-4e8809a5c38f",
+              "type": "quote",
+              "html": "<em>Businessmen fiddling with calculators inspired Gunpei Yokoi to conceptualise the Game &amp; Watch. A Handheld History is inspired by the forty-year portable gaming empire that spawned from those LCD screens.<br><br>Brought to you in partnership with Retro Dodo—the internet’s leading retro gaming site—</em>A Handheld History<em> is an explorative jaunt through the systems and games that defined the legacy of portable systems. Less of a historical account and more of a poignant, introspective adventure across decades of gaming memories, this book will reconnect you to that long car trip full of Tetriminos, Mewtwos, and discarded AA batteries before speeding ahead to our contemporary days of OLED screens and blockbusters in your backpack.<br><br>Handheld gaming is a cornerstone tenet of the industry, one that has spawned communities who exchange Miis on the subway and Pokemon on the playground. Friendships were made in this pocket of the medium, and it ought to be celebrated loudly, proudly, and across hundreds of beautifully-assembled pages of art and essays. Featuring words from Jason Bradbury, Janet Garcia, Jeff Grubb, Mike Diver, Larry Bundy Jr., Ashens and many more incredible voices, this is an unmissable ode to the gaming device that you keep close to your heart—right in your jacket pocket.</em>"
+            },
+            {
+              "id": "4a2e2412-9e2e-413c-9eda-0f7757e7fb6e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "73b81789-66da-4ded-a6f3-2c7ad112f56b",
+          "type": "column",
+          "children": [
+            {
+              "id": "745bd03c-5508-4519-add2-a2a17401db8e",
+              "type": "image",
+              "src": "./assets/images/ahhstd-0498317ae848.webp",
+              "caption": "",
+              "alt": "AHH+STD.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4acada45-dc1c-4467-9f01-0d390a2fbf44",
+      "type": "divider"
+    },
+    {
+      "id": "71a252d8-2e96-4d8c-9df9-97e17194f1fe",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ebbd3aac-3aa8-4a17-aae0-a08ccf0ae584",
+          "type": "column",
+          "children": [
+            {
+              "id": "34088737-79a4-4f64-9804-baa650b46e6d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2080bdb8-8cf1-4e4d-b88c-bda8d4d35f3d",
+          "type": "column",
+          "children": [
+            {
+              "id": "9a282df1-ab4d-4710-80b5-581c46771a01",
+              "type": "callout",
+              "html": "<a href=\"https://www.lostincult.co.uk/shop/p/4fz6lhh45huyh1bmqhbrfbjpdj0kci-3fyy6-9de4y\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7805c63f-c21b-4ad8-8d34-398e074c48d3",
+      "type": "divider"
+    }
+  ]
+}

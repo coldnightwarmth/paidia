@@ -1,0 +1,131 @@
+{
+  "id": "a77cc7a1-0acc-45b5-aec1-7cf53c304114",
+  "slug": "the-nazi-olympics",
+  "title": "The Nazi Olympics",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2f2b48d3-00ef-46fe-b6f4-4b813ad7bd6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Nazi-Olympics-a77cc7a10acc45b5aec17cf53c304114?pvs=21",
+  "createdTime": 1657229242746,
+  "lastEditedTime": 1681313828502,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Nazi Olympics",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0d017288452e.webp",
+  "blocks": [
+    {
+      "id": "11c1c5f9-4987-4a52-8a60-331b9866b124",
+      "type": "divider"
+    },
+    {
+      "id": "5e2c244f-9c99-4a3c-8b23-4b902628d996",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fb12c6d6-56ae-49ba-a09f-8163ab34afee",
+      "type": "columns",
+      "children": [
+        {
+          "id": "411dd1c7-0370-4d44-95cc-a3f17fbd88ce",
+          "type": "column",
+          "children": [
+            {
+              "id": "9bdece12-8e8f-40db-b246-4c3e9e8fa0a1",
+              "type": "paragraph",
+              "html": "<em><strong>The Nazi Olympics</strong></em> was written by Richard D. Mandell, published by MacMillan Publishing Company, March 1, 1971."
+            },
+            {
+              "id": "2ce090f5-276c-498f-ba3c-8e65c9ecef21",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "76714cf5-0067-4b4a-8146-1b2f98a7e01b",
+              "type": "quote",
+              "html": "<em>The Nazi Olympics is the unsurpassed exposé of one of the most bizarre </em><a href=\"#/festival-e6f38544\"><em>festivals</em></a><em> in sport history- the 1938 Olympics. Not only does it provide incisive portraits of such key figures as Adolf Hitler, Jesse Owens, Leni Riefenstahl, Helen Stephens, Kee Chung Sohn, and Avery Brundage, it also vividly conveys the entire dazzling charade that reinforced and mobilized the hysterical patriotism of the German masses.</em>"
+            },
+            {
+              "id": "54e389cc-b8c0-4134-85a3-5eabd66d1e8f",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d51cb838-5d17-4056-bde7-1d2c82827359",
+          "type": "column",
+          "children": [
+            {
+              "id": "071888c4-14bb-4c80-aa60-531de30c07e0",
+              "type": "image",
+              "src": "./assets/images/untitled-0d017288452e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e59354da-127f-4f40-a8ae-3f91f2cbcea2",
+      "type": "divider"
+    },
+    {
+      "id": "b64de760-fab7-449b-97ee-3e3343e71820",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c1442c5f-68e9-4451-b1d5-c979dfb6efcd",
+          "type": "column",
+          "children": [
+            {
+              "id": "0c327c9c-f26e-4003-ab43-40046595034d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "dbf25e32-d34b-46d2-a9f3-d98b32f0c7cd",
+          "type": "column",
+          "children": [
+            {
+              "id": "07f7d372-528a-41d9-9b43-413d64244cc8",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bYEs5F\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6bce0d5c-052a-447b-9aee-6db3335316a4",
+      "type": "divider"
+    }
+  ]
+}

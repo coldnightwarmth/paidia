@@ -1,0 +1,131 @@
+{
+  "id": "ac86a532-202d-462e-af60-c98dd5e4495d",
+  "slug": "mathematics-in-games-sports-and-gambling",
+  "title": "Mathematics in Games, Sports, & Gambling",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Mathematics-in-Games-Sports-Gambling-ac86a532202d462eaf60c98dd5e4495d?pvs=21",
+  "createdTime": 1667261488502,
+  "lastEditedTime": 1681312726210,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Mathematics in Games, Sports, & Gambling",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-128bdbc0f186.webp",
+  "blocks": [
+    {
+      "id": "c2483826-519f-4236-b146-2d5042e4e83a",
+      "type": "divider"
+    },
+    {
+      "id": "e2ae4f74-9d72-4b76-acaa-f59a9d31a979",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8a3c8d9c-917d-419c-b49f-c57d892fad81",
+      "type": "columns",
+      "children": [
+        {
+          "id": "45501669-4697-487b-86a2-b405a0043b80",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd3a465a-3420-4535-8a0f-aa4da9920abe",
+              "type": "paragraph",
+              "html": "<em><strong>Mathematics in Games, Sports, &amp; Gambling: The Games People Play</strong></em> was written by Ronald J. Gould, published by Chapman and Hall/CRC, July 28, 2009."
+            },
+            {
+              "id": "84f95172-b481-41ac-b382-dc9750e5d44c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7f632e31-140d-46dd-9c3d-3a5254bda9af",
+              "type": "quote",
+              "html": "<em>With an emphasis on mathematical thinking and problem solving, </em>Mathematics in Games, Sports, &amp; Gambling ― The Games People Play<em> shows how discrete probability, statistics, and elementary discrete mathematics are used in games, sports, and gambling situations. It draws on numerous examples, questions, and problems to explain the application of mathematical theory to various real-life games.<br><br>Only requiring high school algebra, the text offers flexibility in choosing what material to cover in a basic mathematics course. It covers permutations in the two-deck matching game so derangements can be counted, introduces graphs to find matches when looking at extensions of the five-card trick, and studies lexicographic orderings and ideas of encoding for card tricks. The text also explores linear equations and weighted equations in the section on the NFL passer rating formula and presents graphing to show how data can be compared or displayed. For each topic, the author includes exercises based on real games and sports data.</em>"
+            },
+            {
+              "id": "82c96f11-8258-4dbe-922a-540795539dfc",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b5038afc-f85e-42b1-ae18-ca475f93fa56",
+          "type": "column",
+          "children": [
+            {
+              "id": "5c3701fe-08ee-4ea2-8a2b-9516f9a53ebc",
+              "type": "image",
+              "src": "./assets/images/untitled-128bdbc0f186.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9374fd4a-2254-4702-804a-f1aa942b9f94",
+      "type": "divider"
+    },
+    {
+      "id": "c68e9a19-8743-4e76-a6fd-05120e1bd855",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1cd2d861-8ca8-4572-9102-9ae0522d668a",
+          "type": "column",
+          "children": [
+            {
+              "id": "d308856a-cec4-4d7f-8614-ec00782d7313",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "78640d8c-1ced-4036-83aa-917c1f64a736",
+          "type": "column",
+          "children": [
+            {
+              "id": "698ab8a8-5eed-46a9-8c8c-e90c062f9621",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3h39Wdu\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ca930ef-ade6-4ba1-acc0-be823886ad47",
+      "type": "divider"
+    }
+  ]
+}

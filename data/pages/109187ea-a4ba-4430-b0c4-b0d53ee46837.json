@@ -1,0 +1,126 @@
+{
+  "id": "109187ea-a4ba-4430-b0c4-b0d53ee46837",
+  "slug": "a-sport-loving-society",
+  "title": "A Sport-Loving Society",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2f2b48d3-00ef-46fe-b6f4-4b813ad7bd6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/A-Sport-Loving-Society-109187eaa4ba4430b0c4b0d53ee46837?pvs=21",
+  "createdTime": 1651712265352,
+  "lastEditedTime": 1681310290030,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A Sport-Loving Society"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8d850784280e.webp",
+  "blocks": [
+    {
+      "id": "248aff6d-8772-49f5-8397-6aeffc8363ff",
+      "type": "divider"
+    },
+    {
+      "id": "24866888-115c-4193-9a99-2af664efd611",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0e698ff8-53ec-4311-8415-50a552b497c3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "07c11a64-361b-4789-a228-ddb537fd19f3",
+          "type": "column",
+          "children": [
+            {
+              "id": "159d3cd6-ec3b-485d-b2f4-ba6953eb290f",
+              "type": "paragraph",
+              "html": "<em><strong>A Sport-Loving Society: Victorian and Edwardian Middle-Class England at Play</strong></em> is a collection of essays edited by J.A. Mangan, published by Routledge, January 31, 2006."
+            },
+            {
+              "id": "fa1c13bd-c980-40fb-bdf1-27330347aab9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "72616734-b094-405b-ad48-495bb3387050",
+              "type": "quote",
+              "html": "<em>In a time of unprecedented political and economic transformation, the middle classes of Victorian and Edwardian England became principal players in a new social order. Nowhere did their culture, values and identity gain clearer expression than in their sports, and their influence is still felt in the way we organise, play and think of sport today.<br><br></em>A Sport-Loving Society<em> presents a selection of groundbreaking essays from the journals which have defined sport history over the past three decades. These essays explore the role of the social institutions and issues of the Victorian and Edwardian periods in shaping the sports of the English middle classes, including:<br>- Education<br>- The Emancipation of Women<br>- Religion<br>- Culture and Class<br>- Diplomacy and War.<br><br>Showcasing the work of prominent sport historians, this book demonstrates the value of sport as a vehicle for the study of wider social change.</em>"
+            },
+            {
+              "id": "50c1b1af-a1f2-4686-9c85-6d9b04812ba7",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "aeb7f911-b47a-43c2-b215-096743a9f800",
+          "type": "column",
+          "children": [
+            {
+              "id": "32cfe1d8-dfb7-4976-8f11-09502dc06674",
+              "type": "image",
+              "src": "./assets/images/untitled-8d850784280e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c45f1dd3-94fb-4bcd-aef3-b83e38170165",
+      "type": "divider"
+    },
+    {
+      "id": "0cb795b1-e994-45a8-8b48-7316e7bd4c0d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7021d209-a28e-4add-a384-863312707675",
+          "type": "column",
+          "children": [
+            {
+              "id": "4d841c09-0817-40f3-9123-da5124cc18d9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3a7d61f0-5b5e-4273-b740-0e0f495b448a",
+          "type": "column",
+          "children": [
+            {
+              "id": "8432deeb-0b12-417a-b327-d654e5d747ae",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3WhvumF\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "465c902f-8de3-4fce-b432-e1787e728fcc",
+      "type": "divider"
+    }
+  ]
+}

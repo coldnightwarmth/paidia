@@ -1,0 +1,131 @@
+{
+  "id": "890ec690-8ea4-4438-9ecd-d31b73070850",
+  "slug": "pleasures-of-the-brain",
+  "title": "Pleasures of the Brain",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Pleasures-of-the-Brain-890ec6908ea444389ecdd31b73070850?pvs=21",
+  "createdTime": 1651973354033,
+  "lastEditedTime": 1681314185531,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Pleasures of the Brain",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1e709c10772f.webp",
+  "blocks": [
+    {
+      "id": "9151626e-0ebf-4f9f-9eac-b03bb7d0b50b",
+      "type": "divider"
+    },
+    {
+      "id": "c5c16849-b97b-41a3-82d0-b2fb955cf7c5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "636fc1f9-f6e9-4512-b5aa-e36e6c446660",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7cc78a41-b321-409d-a9e7-2bb1d9a2485e",
+          "type": "column",
+          "children": [
+            {
+              "id": "bc4c3a82-8ab2-47f9-85b3-e2310814c8c7",
+              "type": "paragraph",
+              "html": "<em><strong>Pleasures of the Brain</strong></em> is a collection of essay edited by Morten L. Kringelbach &amp; Kent C. Berridge, published by Oxford University Press, September 8, 2009."
+            },
+            {
+              "id": "2ff21b52-1cf6-4714-b853-ec4c2c8b3130",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "333e15de-44a2-43b9-afb3-ca043ca3eb6f",
+              "type": "quote",
+              "html": "<em>Pleasure is fundamental to well-being and the quality of life, but until recently, was barely explored by science. Current research on pleasure has brought about ground-breaking developments on several fronts, and new data on pleasure and the brain have begun to converge from many disparate fields. The time is ripe to present these important findings in a single volume, and so Morten Kringelbach and Kent Berridge have brought together the leading researchers to provides a comprehensive review of our current scientific understanding of pleasure. The authors present their latest neuroscientific research into pleasure, describing studies on the brain's role in pleasure and reward in animals and humans, including brain mechanisms, neuroimaging data, and psychological analyses, as well as how their findings have been applied to clinical problems, such as depression and other disorders of hedonic well-being. To clarify the differences between their views, the researchers also provideshort answers to a set of fundamental questions about pleasure and its relation to the brain. This book is intended to serve as both a starting point for readers new to the field, and as a reference for more experienced graduate students and scientists from fields such as neuroscience, psychology, psychiatry, neurology, and neurosurgery.</em>"
+            },
+            {
+              "id": "f6fbbcec-ac4f-4f6a-be30-79edf1a1fc13",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d5175097-e825-49fa-b29c-0c407a181d58",
+          "type": "column",
+          "children": [
+            {
+              "id": "2f943508-5ab6-4f10-afaf-9f4b7059519c",
+              "type": "image",
+              "src": "./assets/images/untitled-1e709c10772f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06f6186d-d4af-4991-8c95-2abc9cdf4a10",
+      "type": "divider"
+    },
+    {
+      "id": "c7b8cbd1-04f9-408e-95b4-9c37021604b4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "302976bc-01d3-4c62-a8ee-fac74e8e5f29",
+          "type": "column",
+          "children": [
+            {
+              "id": "2e9850d8-9fac-4065-b4a6-2ab2ca9658ea",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9c6e7d6f-b768-434c-a482-941adf78f86a",
+          "type": "column",
+          "children": [
+            {
+              "id": "72b70a75-bb79-412a-8ba8-48db1ce16b60",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Pleasures-Affective-Science-Morten-Kringelbach/dp/0195331028\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "489a54b4-cd81-47ef-8241-2b2b89de1687",
+      "type": "divider"
+    }
+  ]
+}

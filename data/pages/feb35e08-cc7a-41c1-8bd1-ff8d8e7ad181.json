@@ -1,0 +1,567 @@
+{
+  "id": "feb35e08-cc7a-41c1-8bd1-ff8d8e7ad181",
+  "slug": "game-design-roles",
+  "title": "Game design roles",
+  "icon": "👩🏽‍💻",
+  "cover": "",
+  "type": "page",
+  "parentId": "d02701b6-e3a0-42cc-aba7-e48629f57331",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/feb35e08cc7a41c18bd1ff8d8e7ad181",
+  "createdTime": 1664380660358,
+  "lastEditedTime": 1767628388138,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Game design roles"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "62abde7f-b4c4-45cc-88f6-4b5081c70baf",
+      "type": "callout",
+      "html": "Please note that these are a general guide. Studios can differ.",
+      "icon": "❗",
+      "children": []
+    },
+    {
+      "id": "c5a1711c-a974-4ef0-a61f-60d8a4de6f13",
+      "type": "header",
+      "html": "Seniority levels",
+      "anchorId": "seniority-levels"
+    },
+    {
+      "id": "5fb852c9-c4c8-431d-b130-d3ab3d6ce0d4",
+      "type": "paragraph",
+      "html": "A game designer’s career progression is likely to look a little like this."
+    },
+    {
+      "id": "2213c08a-99d2-4046-9a04-04066118ff77",
+      "type": "subheader",
+      "html": "Intern",
+      "anchorId": "intern"
+    },
+    {
+      "id": "a3964e3a-2e2f-480c-9607-578a5d28bee7",
+      "type": "paragraph",
+      "html": "Internships are usually temporary paid work experiences which can range from a few weeks to a few months. In most cases, they are offered to students as a way for them to learn about practicing game design in professional settings."
+    },
+    {
+      "id": "d6205ca3-e8f5-4682-b0ab-a9de06d734a4",
+      "type": "paragraph",
+      "html": "Example responsibilities:"
+    },
+    {
+      "id": "c36a7a06-45e7-4d7e-a731-1edb0d9c1b88",
+      "type": "bulleted_list",
+      "html": "Learn!"
+    },
+    {
+      "id": "6f91fe86-be48-4da6-8c32-b437bc08eb33",
+      "type": "subheader",
+      "html": "Junior game designer",
+      "anchorId": "junior-game-designer"
+    },
+    {
+      "id": "69039050-cf54-41c1-9248-edd24346910e",
+      "type": "paragraph",
+      "html": "Junior game designers are usually paired with more experienced senior designers who guide, mentor and grow the juniors."
+    },
+    {
+      "id": "50a17359-75f5-48df-b623-600d8be3c2ad",
+      "type": "paragraph",
+      "html": "Example responsibilities:"
+    },
+    {
+      "id": "ad876762-6ba8-443c-8862-e4c4fa4108cf",
+      "type": "bulleted_list",
+      "html": "Idea execution with the guidance of a senior"
+    },
+    {
+      "id": "12102064-0693-46b5-81b5-ab9ca7b7ba2f",
+      "type": "bulleted_list",
+      "html": "Absorb regular feedback on execution"
+    },
+    {
+      "id": "181f39e5-d020-4780-a24c-3cddbab08a77",
+      "type": "bulleted_list",
+      "html": "Learn from seniors"
+    },
+    {
+      "id": "8a6edfb9-e63e-462f-add3-081d1793d07b",
+      "type": "subheader",
+      "html": "Game designer",
+      "anchorId": "game-designer"
+    },
+    {
+      "id": "dbd191ab-8f3d-46e2-8747-cbf4b6f9521f",
+      "type": "paragraph",
+      "html": "Mid-level game designers will be expected to be able to execute ideas and own small features on their own."
+    },
+    {
+      "id": "677c6998-8c86-404e-8dbc-6f4d1d94531d",
+      "type": "paragraph",
+      "html": "Example responsibilities:"
+    },
+    {
+      "id": "60c2570a-133f-4974-97ea-430ab8b85a56",
+      "type": "bulleted_list",
+      "html": "Ownership over smaller, well defined features"
+    },
+    {
+      "id": "a7c062f0-2984-43d4-b7c2-0fc0713314ff",
+      "type": "bulleted_list",
+      "html": "Execute ideas with some autonomy"
+    },
+    {
+      "id": "b411841a-70e2-4d0e-996a-135813ea0586",
+      "type": "bulleted_list",
+      "html": "Absorb semi-regular feedback on execution and strategy"
+    },
+    {
+      "id": "e298ee04-480b-486e-b1c8-ce8ba196fb00",
+      "type": "subheader",
+      "html": "Senior game designer",
+      "anchorId": "senior-game-designer"
+    },
+    {
+      "id": "a4241e85-de47-42cd-9db8-9f2635641dfc",
+      "type": "paragraph",
+      "html": "Senior game designers are given full ownership over features which they can execute with little need for oversight."
+    },
+    {
+      "id": "71f91aba-357b-4b36-a7dd-294368c0c05c",
+      "type": "paragraph",
+      "html": "Example responsibilities:"
+    },
+    {
+      "id": "866dd08d-6ec1-4beb-9ca9-7297a1667441",
+      "type": "bulleted_list",
+      "html": "Ownership over complete features"
+    },
+    {
+      "id": "a41471e4-5603-4f95-9b76-661e3e5e43f8",
+      "type": "bulleted_list",
+      "html": "Execute ideas with autonomy"
+    },
+    {
+      "id": "cd1745bb-9bca-4ee6-8477-4472772a9387",
+      "type": "bulleted_list",
+      "html": "Absorb feedback on strategy"
+    },
+    {
+      "id": "73f50fa0-4c6c-4184-a4bc-124406b66c5e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "71330169-a113-4d63-96b7-7ae7d178c59d",
+      "type": "paragraph",
+      "html": "From this point on you can decide on two different career paths:"
+    },
+    {
+      "id": "9dd3976b-93cf-47c8-8019-ecef752c7d61",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a0584c3f-8746-4ef2-8666-f13723320e0f",
+          "type": "column",
+          "children": [
+            {
+              "id": "417d6103-1d6c-4523-ab1f-f9bef8279c46",
+              "type": "subheader",
+              "html": "Lead game designer",
+              "anchorId": "lead-game-designer"
+            },
+            {
+              "id": "0590b1f9-edba-4cca-927a-fbdcf50d2003",
+              "type": "paragraph",
+              "html": "A lead game designer needs to have excellent management and leadership skills. Most of a lead’s time will be spent serving their team and delegating work, rather than designing."
+            },
+            {
+              "id": "6a870951-c393-4056-9148-a4cb0d65fd21",
+              "type": "paragraph",
+              "html": "Example responsibilities:"
+            },
+            {
+              "id": "82d44030-df26-46ef-8e78-a10a6aebe0be",
+              "type": "bulleted_list",
+              "html": "Defining the long-term strategy of the design"
+            },
+            {
+              "id": "6d0c8658-c8e0-4a14-acd8-5d9c758667f1",
+              "type": "bulleted_list",
+              "html": "Setting up design processes and culture"
+            },
+            {
+              "id": "616992c1-4be4-4c08-80dd-ebe2581ee694",
+              "type": "bulleted_list",
+              "html": "Representing the design team and their work across the studio or externally"
+            },
+            {
+              "id": "e044f91c-9fac-4308-a4c6-41b315c9f1d7",
+              "type": "bulleted_list",
+              "html": "Mentoring and developing the team’s skills"
+            }
+          ]
+        },
+        {
+          "id": "aecf3136-1da3-4ffa-8a47-272b5096c4a9",
+          "type": "column",
+          "children": [
+            {
+              "id": "5179bbd2-e74c-4e2f-b280-90e39c5831a3",
+              "type": "subheader",
+              "html": "Principal game designer",
+              "anchorId": "principal-game-designer"
+            },
+            {
+              "id": "13403ffd-16b4-4e11-9a41-f8aec2856934",
+              "type": "paragraph",
+              "html": "The principal game designer is an expert. They not only consistently deliver high quality work, but also push the boundaries in their field."
+            },
+            {
+              "id": "943503b1-746e-46b5-aaf5-468efdb08be1",
+              "type": "paragraph",
+              "html": "Example responsibilities:"
+            },
+            {
+              "id": "e3779ce1-db25-4573-8668-7464fe581203",
+              "type": "bulleted_list",
+              "html": "Ownership over complete features"
+            },
+            {
+              "id": "71e31429-d2d4-4b32-9d6d-b7b83e5cde6c",
+              "type": "bulleted_list",
+              "html": "Executes ideas to an excellent level consistently"
+            },
+            {
+              "id": "82b5d803-178a-42a7-a520-16dea766d039",
+              "type": "bulleted_list",
+              "html": "A reliable source of knowledge for the team"
+            },
+            {
+              "id": "32845e01-17f7-451d-9090-b946279a9ceb",
+              "type": "bulleted_list",
+              "html": "Expert and trailblazer in their field"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "737cd92d-b59f-439d-8b2e-ccbd277b70a3",
+      "type": "subheader",
+      "html": "Creative/Design director",
+      "anchorId": "creative-design-director"
+    },
+    {
+      "id": "456db16d-b849-4907-9207-890cfe69f674",
+      "type": "paragraph",
+      "html": "A creative director owns the design direction of a project and is an excellent communicator with exceptional people skills. They’re able to align the team around a vision and inspire a team to do their best work."
+    },
+    {
+      "id": "c348a3ff-89d6-4b87-9e86-098dab9a4566",
+      "type": "paragraph",
+      "html": "Example responsibilities:"
+    },
+    {
+      "id": "c79db1ca-b7c6-4b8e-af6f-5fb5d3ea5de3",
+      "type": "bulleted_list",
+      "html": "Defining the long-term strategy of the design"
+    },
+    {
+      "id": "efd772ce-0ee7-43a7-9578-62cb1f6996c7",
+      "type": "bulleted_list",
+      "html": "Communicate the design vision to internal and external teams"
+    },
+    {
+      "id": "620d54a3-2717-4b69-813f-2a73a47f3494",
+      "type": "bulleted_list",
+      "html": "Provide excellent feedback to the design team"
+    },
+    {
+      "id": "3836854e-5ed2-41f3-b2fa-5e31b73c48d3",
+      "type": "bulleted_list",
+      "html": "Represent the design team and their work across the studio and externally"
+    },
+    {
+      "id": "05421a2f-1b75-4ae2-abd2-0fe846df86d1",
+      "type": "bulleted_list",
+      "html": "Mentoring and developing the team’s skills"
+    },
+    {
+      "id": "e4dad61d-541a-4ed2-869c-ca4f52b95071",
+      "type": "header",
+      "html": "Specialisations",
+      "anchorId": "specialisations"
+    },
+    {
+      "id": "ac587c50-507e-4da6-93b6-abe2ada8df8d",
+      "type": "paragraph",
+      "html": "There are multiple specialisations within and adjacent to game design."
+    },
+    {
+      "id": "fd0196da-32c6-4c0b-b6ed-e6e039461e53",
+      "type": "columns",
+      "children": [
+        {
+          "id": "84944b5a-7181-4cdf-941c-de1f1195deec",
+          "type": "column",
+          "children": [
+            {
+              "id": "e74b73e2-2ee6-418e-acf9-5d53c1d64fc0",
+              "type": "subheader",
+              "html": "🛠️ Technical game designer",
+              "anchorId": "technical-game-designer"
+            },
+            {
+              "id": "14ed8394-81a8-4eb6-b645-921729391951",
+              "type": "paragraph",
+              "html": "A technical game designer is usually a game designer with scripting skills. They prototype ideas and features in engine."
+            },
+            {
+              "id": "fc8a6531-16cb-4795-ae34-26b629415a1d",
+              "type": "paragraph",
+              "html": "They play a key role in validating game design ideas and communicating features to programming teams."
+            }
+          ]
+        },
+        {
+          "id": "83c13c98-1d03-4309-bfb6-ab4e2b93cfcd",
+          "type": "column",
+          "children": [
+            {
+              "id": "bf450beb-5312-42df-bf77-822a57a38fc3",
+              "type": "subheader",
+              "html": "🏞️ Level designer",
+              "anchorId": "level-designer"
+            },
+            {
+              "id": "b5b54a14-0982-48c8-87e1-54e62650be00",
+              "type": "paragraph",
+              "html": "Level designers implement the gameplay elements in environments. They usually work in engine, placing objects, scripts and triggers."
+            },
+            {
+              "id": "1ebdd742-1904-4081-aac9-7262c91e5506",
+              "type": "paragraph",
+              "html": "They are responsible for the moment to moment challenges and opportunities a player might face in a level."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9c70f002-437a-4d6d-bbb4-7c96f334b726",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c2c829d7-2281-423a-bc1f-299fa09081e6",
+          "type": "column",
+          "children": [
+            {
+              "id": "8c5ab01a-3311-4287-8602-1b53dacb8b7a",
+              "type": "subheader",
+              "html": "📊 Systems designer",
+              "anchorId": "systems-designer"
+            },
+            {
+              "id": "5c45cac5-38ab-46d2-871c-5f18b5286acc",
+              "type": "paragraph",
+              "html": "A systems designer is responsible for the numbers behind gameplay experiences. For example, how many herbs do you need to craft a health potion? How much XP does a player get when they complete a quest?"
+            },
+            {
+              "id": "8ec03d65-2333-4aba-ba00-6330c4287e6a",
+              "type": "paragraph",
+              "html": "They tweak the numbers and graphs in a game to give the desired player experience."
+            }
+          ]
+        },
+        {
+          "id": "eaeb32cb-6a47-4998-8826-a1fe66320882",
+          "type": "column",
+          "children": [
+            {
+              "id": "165f01e5-f9b2-4262-8392-4a562063f41a",
+              "type": "subheader",
+              "html": "💕 Social systems designer",
+              "anchorId": "social-systems-designer"
+            },
+            {
+              "id": "f36b6fb7-20ed-4555-9b7e-8208c7b8c81c",
+              "type": "paragraph",
+              "html": "A social systems designer is in charge of multiplayer and social features in a game."
+            },
+            {
+              "id": "624b42fc-bf24-4796-8bd0-ccdb06fe6015",
+              "type": "paragraph",
+              "html": "They make sure players have a way to socialise, make friends and nurture the community using game design."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c4ee445-6a78-42a2-a624-cf3b4e9e692c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a461fa8f-d06c-48d7-bdde-46baf244801a",
+          "type": "column",
+          "children": [
+            {
+              "id": "05aea539-4031-48ce-ac9f-ae082aa67898",
+              "type": "subheader",
+              "html": "‼️ Content designer",
+              "anchorId": "content-designer"
+            },
+            {
+              "id": "ca4fb289-a21a-41e1-97e8-3f9ef9048753",
+              "type": "paragraph",
+              "html": "Also known as quest designers in some studios, content designers implement gameplay elements."
+            },
+            {
+              "id": "e31da9d7-cbe7-46f8-a244-e7124a54ec87",
+              "type": "paragraph",
+              "html": "They’re similar to level designers, working in engine to place objects, scripts and triggers."
+            }
+          ]
+        },
+        {
+          "id": "c1448323-def9-4b2c-9bd2-79612352a8a8",
+          "type": "column",
+          "children": [
+            {
+              "id": "5ceacb8e-2fd5-4c96-964e-daa0803bdb6e",
+              "type": "subheader",
+              "html": "📝 Narrative designer",
+              "anchorId": "narrative-designer"
+            },
+            {
+              "id": "0e3efc72-e385-4588-a6a7-f31343adeb56",
+              "type": "paragraph",
+              "html": "Narrative designers figure out how a story and player choices should be structured to give a compelling experience."
+            },
+            {
+              "id": "885bde83-3a55-4fc8-9ab7-44aaeea64692",
+              "type": "paragraph",
+              "html": "They don’t necessarily write the script, but rather make sure the narrative leads to interesting player choices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1989d46-3a14-4026-8be8-69b7a5337631",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f2a7fd15-e1a2-4d80-bff5-7129a406648c",
+          "type": "column",
+          "children": [
+            {
+              "id": "8d4e2ce2-56a0-4be6-9bb9-9a32fc67359f",
+              "type": "subheader",
+              "html": "🎮 UX designer",
+              "anchorId": "ux-designer"
+            },
+            {
+              "id": "af3c4e31-a53d-4c84-9187-ff398d4f1ab5",
+              "type": "paragraph",
+              "html": "A UX designer takes care of the player’s experience, making sure the game is accessible and easy to use."
+            },
+            {
+              "id": "a214be83-42c5-4ca0-b527-ddff3c493a7a",
+              "type": "paragraph",
+              "html": "Their specialty is creating user flows, storyboards and running regular playtesting to collect player experience data."
+            },
+            {
+              "id": "17508b7f-e18e-43d4-bbf5-bce3473287ab",
+              "type": "paragraph",
+              "html": "To find out more check out this resource:"
+            },
+            {
+              "id": "1d68129c-303b-4bc8-8a0e-53bd6afc654e",
+              "type": "alias_link",
+              "targetId": "9f588869-324a-45e2-b2d0-595546ce77d1",
+              "title": "Linked page"
+            }
+          ]
+        },
+        {
+          "id": "c2b9302f-a5da-4205-9f8c-aed6df0d8ef6",
+          "type": "column",
+          "children": [
+            {
+              "id": "cdc1a285-cee5-43e4-9710-1c4f239e9a28",
+              "type": "subheader",
+              "html": "🌱 Design manager",
+              "anchorId": "design-manager"
+            },
+            {
+              "id": "52406787-123d-4e7a-ad6e-ea0cacf46a1f",
+              "type": "paragraph",
+              "html": "Like a lead game designer but with a stronger focus on team and culture, rather than features."
+            },
+            {
+              "id": "639779a0-beb3-45cf-b1c8-f8007f835726",
+              "type": "paragraph",
+              "html": "They’re less involved in the day to day designing and instead make sure the design team have the right processes and culture to do their best work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6369eb76-1080-45ad-b78c-4cf691b05138",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4946f246-2d6e-449c-aeda-c8e437cc5e30",
+          "type": "column",
+          "children": [
+            {
+              "id": "63796cc2-2992-49ef-a2cf-a9d1abb5ff46",
+              "type": "subheader",
+              "html": "💥 Combat designer",
+              "anchorId": "combat-designer"
+            },
+            {
+              "id": "318237da-3c15-4bb6-9bc6-f93e642ea174",
+              "type": "paragraph",
+              "html": "In charge of designing the combat and enemy encounters. Similar to a systems designer, they often work with numbers and spreadsheets, tweaking values to make the combat in games gripping."
+            }
+          ]
+        },
+        {
+          "id": "1c11eecf-dab2-4d3d-85a5-b5b94344341b",
+          "type": "column",
+          "children": [
+            {
+              "id": "e53f39a8-d8e5-40e9-b411-c26b41a4edda",
+              "type": "subheader",
+              "html": "📆 Live operations designer",
+              "anchorId": "live-operations-designer"
+            },
+            {
+              "id": "ee34ceea-4748-4ade-b149-1f16d039db7b",
+              "type": "paragraph",
+              "html": "A LiveOps designer iterates on live gameplay and features by utilizing in-game data and community feedback. These designers work closely with data analyst and product owners to establish objectives, KPIs, and validation<br>plans."
+            },
+            {
+              "id": "9b409a59-f5f8-4ff1-989c-fa2505ba71f2",
+              "type": "paragraph",
+              "html": "Common examples of iterative design include: challenges, monetization, progression, live events, and seasonal narrative design."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "8bb7537d-b39a-46e3-9036-48c3c0024412",
+  "slug": "marx-at-the-arcade",
+  "title": "Marx at the Arcade",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Marx-at-the-Arcade-8bb7537db39a46e3903648c3c0024412?pvs=21",
+  "createdTime": 1651767617391,
+  "lastEditedTime": 1681314287138,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Marx at the Arcade",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-75bb227a63d2.webp",
+  "blocks": [
+    {
+      "id": "b3ddd7ba-fd55-4875-9dc7-054b99bb00f6",
+      "type": "divider"
+    },
+    {
+      "id": "bf0c3122-5bb6-4aeb-acf5-723dcfcdbac3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "007a20f2-c325-4a09-94ab-6854c143d87c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "323510a7-ad0a-4554-bb1d-23924681e8de",
+          "type": "column",
+          "children": [
+            {
+              "id": "225880fa-d734-401a-9f27-97d6dee24a44",
+              "type": "paragraph",
+              "html": "<em><strong>Marx at the Arcade: Consoles, Controllers, &amp; Class Struggle</strong></em> was written by Jamie Woodcock, published by Haymarket Books, June 18, 2019."
+            },
+            {
+              "id": "4b40bdd0-8d3a-44c8-849c-a639b5d66aa0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "04656746-0095-47e6-8ba5-d38d3f3f15ff",
+              "type": "quote",
+              "html": "<em>More people are playing video games than ever before, and yet much of the work of their production remains obscured to us.<br><br>Deploying a Marxist approach, Jamie Woodcock delves into the hidden abode of the gaming industry, unravelling the vast networks of artists, software developers, and factory and logistics workers whose material and immaterial labor flows into the products we consume on a gargantuan scale. Beyond this, the book analyzes the increasingly important role the gaming industry plays in contemporary capitalism, and the broader transformations of work and economy that it embodies. Woodcock also presents game-play itself not as a “deviant activity,” as it is often understood, but as a commentary of estrangement from contemporary forms of work. In so doing, it offers a fresh and much needed analysis of a sector which has for too long been neglected by scholars and labor activists alike.</em>"
+            },
+            {
+              "id": "d4b9ae2f-8fcf-4a02-bf8e-25280283f8f8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0460293b-1e7b-4e7e-a224-446f1968b73b",
+          "type": "column",
+          "children": [
+            {
+              "id": "092ef635-e612-472c-900b-357c1b2812e3",
+              "type": "image",
+              "src": "./assets/images/untitled-75bb227a63d2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bf9c40b9-a6b2-4d9a-a1f9-e3bedc7a37a5",
+      "type": "divider"
+    },
+    {
+      "id": "7a4c6335-a9ba-47ea-959a-3450d8d4b540",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d2ca4473-5ca5-4070-ae15-01975449b275",
+          "type": "column",
+          "children": [
+            {
+              "id": "5dd72bd0-fac6-4090-945e-3bf8011f4f77",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3a0c7a49-5338-49f0-9534-39c194c10830",
+          "type": "column",
+          "children": [
+            {
+              "id": "e7865fd3-4575-4cbb-bd40-84f44ea1e8cc",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Cp22Dr\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "69d093d7-366c-4d5d-8caa-bbf475c64930",
+      "type": "divider"
+    },
+    {
+      "id": "44d962b6-8329-4aa6-8cfd-426b21c5ffe6",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "32ca2cde-2d62-44e9-b92f-e1bf75679764",
+      "type": "paragraph",
+      "html": "<a href=\"#/are-video-games-and-gamers-trapped-inside-capitalism\">Are Video Games and Gamers Trapped inside Capitalism?</a> (video)"
+    }
+  ]
+}

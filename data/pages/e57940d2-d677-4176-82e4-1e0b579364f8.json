@@ -1,0 +1,126 @@
+{
+  "id": "e57940d2-d677-4176-82e4-1e0b579364f8",
+  "slug": "expanded-cinema",
+  "title": "Expanded Cinema",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Expanded-Cinema-e57940d2d677417682e41e0b579364f8?pvs=21",
+  "createdTime": 1651685556150,
+  "lastEditedTime": 1681314223321,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Expanded Cinema"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a6e7927fe36a.webp",
+  "blocks": [
+    {
+      "id": "04dceed3-acdd-43ca-a3da-dd6c64cc7b74",
+      "type": "divider"
+    },
+    {
+      "id": "f079fd50-faee-4093-93b1-d7ae63b130d4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8e75e983-28c3-4a47-96aa-247a3357d31f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5769bb8b-36f2-4340-b97d-9d951f9c62b0",
+          "type": "column",
+          "children": [
+            {
+              "id": "1f4e72b1-e262-4552-b589-e078d38d04d4",
+              "type": "paragraph",
+              "html": "<em><strong>Expanded Cinema</strong></em> was written by Gene Youngblood, published by E.P. Dutton, January 1, 1970."
+            },
+            {
+              "id": "4b619b78-00bb-4ae6-b9fb-34502e2666b6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "58b95162-8064-4efd-8156-e83addd1d770",
+              "type": "quote",
+              "html": "<em>First published in 1970, Gene Youngblood’s influential </em>Expanded Cinema<em> was the first serious treatment of video, computers, and holography as cinematic technologies. Long considered the bible for media artists, Youngblood’s insider account of 1960s counterculture and the birth of cybernetics remains a mainstay reference in today’s hypermediated digital world. This fiftieth anniversary edition includes a new Introduction by the author that offers conceptual tools for understanding the sociocultural and sociopolitical realities of our present world.<br><br>A unique eyewitness account of burgeoning experimental film and the birth of video art in the late 1960s, this far- ranging study traces the evolution of cinematic language to the end of fiction, drama, and realism. Vast in scope, its prescient formulations include “the paleocybernetic age,” “intermedia,” the “artist as design scientist,” the “artist as ecologist,” “synaesthetics and kinesthetics,” and “the technosphere: man/machine symbiosis.” Outstanding works are analyzed in detail. Methods of production are meticulously described, including interviews with artists and technologists of the period, such as Nam June Paik, Jordan Belson, Andy Warhol, Stan Brakhage, Carolee Schneemann, Stan VanDerBeek, Les Levine, and Frank Gillette. An inspiring Introduction by the celebrated polymath and designer R. Buckminster Fuller―a perfectly cut gem of countercultural thinking in itself―places Youngblood’s radical observations in comprehensive perspective.<br><br>Providing an unparalleled historical documentation, </em>Expanded Cinema<em> clarifies a chapter of countercultural history that is still not fully represented in the arthistorical record half a century later. The book will also inspire the current generation of artists working in ever-newer expansions of the cinematic environment and will prove invaluable to all who are concerned with the technologies that are reshaping the nature of human communication.</em>"
+            },
+            {
+              "id": "9767a435-c5b0-414b-a71d-5a30ca1615ef",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7d0149db-416f-4a36-980b-f3db67e2c2c3",
+          "type": "column",
+          "children": [
+            {
+              "id": "35310d04-d30a-4298-9ca9-30cd0041083b",
+              "type": "image",
+              "src": "./assets/images/untitled-a6e7927fe36a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0b22114e-dc3a-463b-888e-ec657eca977d",
+      "type": "divider"
+    },
+    {
+      "id": "e2d49d4b-9408-4a2d-887e-91883fc02535",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4343c08f-3cb4-4d3a-9d77-43bcea786186",
+          "type": "column",
+          "children": [
+            {
+              "id": "5ff1632e-98e0-4046-a18d-18459492992d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "af495fcb-9377-40d1-8137-5d52bc85bd76",
+          "type": "column",
+          "children": [
+            {
+              "id": "60ebd0c2-a2cb-43a2-9c9a-a37bdcc2a556",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3neU0o3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30df3cee-0d5f-4ecb-b15b-0c41e849138b",
+      "type": "divider"
+    }
+  ]
+}

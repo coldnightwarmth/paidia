@@ -1,0 +1,131 @@
+{
+  "id": "f0318a36-44b7-459e-8dce-47ad9abbb41e",
+  "slug": "play-and-intervention",
+  "title": "Play & Intervention",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "941cc77c-8e6e-4869-a86c-9aaae44d9333",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Play-Intervention-f0318a3644b7459e8dce47ad9abbb41e?pvs=21",
+  "createdTime": 1653072231973,
+  "lastEditedTime": 1681314061517,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play & Intervention",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-aae7f1f4c822.webp",
+  "blocks": [
+    {
+      "id": "debf8c96-cbd8-49b7-ba3c-0608691a625c",
+      "type": "divider"
+    },
+    {
+      "id": "a48dddb8-ed80-43eb-b6a5-9e9158324125",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3ded52c8-62dd-4fa2-956f-40eb8ce817e7",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8caa44ed-5470-4c18-95b6-f2dde2e08104",
+          "type": "column",
+          "children": [
+            {
+              "id": "f86efb49-b6ea-40ce-a67e-1d10daea0830",
+              "type": "paragraph",
+              "html": "<em><strong>Play &amp; Intervention</strong></em> is a collection of essays edited by Joop Hellendoorn, Rimmer van der Kooij, &amp; <a href=\"#/brian-sutton-smith\">Brian Sutton-Smith</a>, published by SUNY Press, July 1, 1994."
+            },
+            {
+              "id": "99d5fe95-76fa-4196-8e3b-cc3497d4f94b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "cd43db9c-494f-428d-8463-f14fc8d7fa9c",
+              "type": "quote",
+              "html": "<em>Play has been presented as the ideal intervention for almost every conceivable kind of problem experienced by children: emotional problems, attention disorders, learning difficulties, and social isolation. In this ground-breaking book, leading play theorists, researchers, and practitioners present their opinions and research results about the influence of play and of special play programs on different aspects of child development.<br><br>The first section explores why play therapy is used and what play’s specific role is in the classical play therapy approach. The second part is devoted to experimental play programs for different types of children with special needs. In the last section, the effects of modern play approaches in primary schools are discussed as well as the influence of these play interventions on cognitive and social skills. This is a book for practitioners and theorists in the field of play, who are not just uncritical consumers or idealizers of play, but who are concerned in searching for the real value of play in various therapeutic and educational settings.</em>"
+            }
+          ]
+        },
+        {
+          "id": "d46e8d06-ad4f-4b71-86b3-258649297006",
+          "type": "column",
+          "children": [
+            {
+              "id": "1ee99447-1b36-4bce-84fa-5ab85a02d745",
+              "type": "image",
+              "src": "./assets/images/untitled-aae7f1f4c822.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "669f0955-ab66-45cb-9225-e0b11edf0fb5",
+      "type": "divider"
+    },
+    {
+      "id": "4d907a45-cf26-4edb-8200-cfcff7e515c5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c972ad7a-8e10-4c30-b4b7-9a7139246b47",
+          "type": "column",
+          "children": [
+            {
+              "id": "c3fd476a-e469-4c11-ae6a-b4adef1423e0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cc72da09-3fa3-447f-9959-736ee8298555",
+          "type": "column",
+          "children": [
+            {
+              "id": "e688f637-5e01-4031-aed8-15dc5baa0c74",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3fcFdcR\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32df1e79-add6-4d50-995c-310dcf4ebaeb",
+      "type": "divider"
+    },
+    {
+      "id": "ffe5236c-ae17-42c2-b555-130537089a16",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

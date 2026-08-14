@@ -1,0 +1,136 @@
+{
+  "id": "a0340e69-8c00-4362-8f70-69480e6c1279",
+  "slug": "ouija",
+  "title": "Ouija",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Ouija-a0340e698c0043628f7069480e6c1279?pvs=21",
+  "createdTime": 1667274217504,
+  "lastEditedTime": 1681312690837,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ouija",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-67f0019c428c.webp",
+  "blocks": [
+    {
+      "id": "fde4b1d0-d1eb-48d9-afe5-f4b2a2086bf0",
+      "type": "divider"
+    },
+    {
+      "id": "04d1b452-7863-4745-a715-143766e93810",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "10262ed1-2c89-4b12-a390-68af6c6b8470",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7b822453-a692-40ce-b6fb-9e65fecf49a3",
+          "type": "column",
+          "children": [
+            {
+              "id": "278156f7-5f4e-4e96-8d7f-64b0653bd546",
+              "type": "paragraph",
+              "html": "<em><strong>Ouija: The Most Dangerous Game </strong></em>was written by Stoker Hunt, published by Harper Perennial Library, October 23, 1992."
+            },
+            {
+              "id": "ec91998c-7cb6-4ee7-babd-abb43487700c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "70b6eaa6-ba81-460c-a2e0-8293be2082c0",
+              "type": "quote",
+              "html": "<em>The First Book To Take A Hard Look At The Phenomenon Called &quot;The Ouija Board&quot;<br><br>Is it just a game? When you ask the Ouija board a question, who is it that answers? What about those stories of Ouija-inspired prophecy and clairvoyance?<br><br>What are the dangers of the Ouija board? Do you know the stories of Ouija-inspired murders, madness, obsession and possession<br><br>Exalted by some, condemned by others, there's no doubt the Ouija is controversial. In this fascinating book Stoker Hunt investigates the history and legacy of this &quot;Mystic Talking Oracle.&quot;</em>"
+            },
+            {
+              "id": "f7472cdd-4b56-452a-ad31-fdf8d4dc8bd2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "98d3fe98-e144-40b2-8b69-250fc67eddf5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "722a1f31-d5a2-4b0d-ba00-68cf5083e0f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "01f65699-2aca-4cd7-93c9-5cb0b13dff3b",
+              "type": "image",
+              "src": "./assets/images/untitled-67f0019c428c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29621a78-2e03-4196-85aa-30d3b190599e",
+      "type": "divider"
+    },
+    {
+      "id": "df5a81ed-54f8-4254-9a00-402bec414a62",
+      "type": "columns",
+      "children": [
+        {
+          "id": "07b53b20-14fd-4cdb-bed5-17748285e43a",
+          "type": "column",
+          "children": [
+            {
+              "id": "11193a81-763a-48b4-bce4-f9e42fd67d4e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "daeca073-2266-4fbb-88f5-fd0e671be4d3",
+          "type": "column",
+          "children": [
+            {
+              "id": "3eafbcd0-6ce3-4b7f-a57b-174857dd0e21",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zwTMza\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "df846a5f-e828-412a-b63e-87291e8d992b",
+      "type": "divider"
+    }
+  ]
+}

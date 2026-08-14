@@ -1,0 +1,124 @@
+{
+  "id": "84dc927e-93d1-4031-8f18-ab7d6dddebcf",
+  "slug": "john-von-neumann",
+  "title": "John von Neumann",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "168b4ff9-9835-46d8-acec-a0b44ae2427e",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/84dc927e93d140318f18ab7d6dddebcf",
+  "createdTime": 1666800534308,
+  "lastEditedTime": 1681329001123,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "John von Neumann",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-11064253adee.webp",
+  "blocks": [
+    {
+      "id": "03a6c5c9-5f01-4e37-b429-281428e7baa1",
+      "type": "divider"
+    },
+    {
+      "id": "11e24ee0-3ecc-4712-934d-cf02b6b0df57",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3e417f41-0b36-4072-8fa5-5784518e142d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "38cd9e9b-a8b9-494c-941e-f9b6f1da4605",
+          "type": "column",
+          "children": [
+            {
+              "id": "a8fb7008-a7a5-4a96-b52a-1a14a8f2e9ea",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d545150e-d992-471e-95f8-b8126d198031",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "96840e4a-08c3-4522-8967-54df54d1ae2c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "927b3c6a-9d75-4900-9fb0-15458d866d83",
+          "type": "column",
+          "children": [
+            {
+              "id": "327d0718-5e42-4830-8e3a-fa9df0cca6de",
+              "type": "image",
+              "src": "./assets/images/untitled-11064253adee.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "94a827ed-550f-4cc9-b913-9ddd5c387eab",
+      "type": "divider"
+    },
+    {
+      "id": "a458a2d5-1708-4be1-a132-9997c16badf6",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "149e7da6-5686-4800-a733-943a55ebe840",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "af88ff6a-6963-4ebb-a370-8caeca88ac69",
+      "type": "divider"
+    },
+    {
+      "id": "05871064-aafd-4b03-81b7-2edfefe6e8d9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "106bbe50-6eaf-44bf-88d6-d3092397a1fb",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "f66c73d1-7ca1-40e3-ad58-f9e8b08c5b7f",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "dae7e469-8c81-4ede-a782-44be0c32402a",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

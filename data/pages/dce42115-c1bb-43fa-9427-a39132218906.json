@@ -1,0 +1,65 @@
+{
+  "id": "dce42115-c1bb-43fa-9427-a39132218906",
+  "slug": "dashboard",
+  "title": "Dashboard",
+  "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8acea97e-937c-40f2-a734-00fed885b1bc",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/dce42115c1bb43fa9427a39132218906",
+  "createdTime": 1666704102580,
+  "lastEditedTime": 1681312797792,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Concept"
+      ]
+    ],
+    "title": [
+      [
+        "Dashboard"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "4800064d-652b-4d98-b904-9400e7ebf83a",
+      "type": "divider"
+    },
+    {
+      "id": "45e8cb90-9239-4aee-b886-32025658ff24",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0868b759-4b36-4dbc-84f2-a79bddc44f58",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "661b5c82-cf16-4d48-b8a1-be305f705c85",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cfae125e-69a2-4002-921b-853dddfbf31b",
+      "type": "divider"
+    },
+    {
+      "id": "9f5fa9af-919d-4d0e-ac5c-072b557bfbe9",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "996e12dc-f71e-4f76-8a15-d79b32b2a07c",
+      "type": "paragraph",
+      "html": "The City is Not a Computer (<em>book</em>)"
+    }
+  ]
+}

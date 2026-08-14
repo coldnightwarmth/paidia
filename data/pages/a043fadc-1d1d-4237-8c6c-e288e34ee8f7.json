@@ -1,0 +1,131 @@
+{
+  "id": "a043fadc-1d1d-4237-8c6c-e288e34ee8f7",
+  "slug": "war-games-and-their-history",
+  "title": "War Games & Their History",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/War-Games-Their-History-a043fadc1d1d42378c6ce288e34ee8f7?pvs=21",
+  "createdTime": 1659477194727,
+  "lastEditedTime": 1681313087560,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "War Games & Their History",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-43382b8efbe8.webp",
+  "blocks": [
+    {
+      "id": "cae7f2a7-1770-4550-8b3a-55f08dc7cd74",
+      "type": "divider"
+    },
+    {
+      "id": "b12ad63e-3047-4e8a-ab6b-9432be7e4f6d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "57697168-f104-4cda-85b5-57429b2f2c11",
+      "type": "columns",
+      "children": [
+        {
+          "id": "30d6bb1d-bb1b-435e-bb0b-7786fdf8a889",
+          "type": "column",
+          "children": [
+            {
+              "id": "c644cc33-4443-4442-99e0-2e43404d11f8",
+              "type": "paragraph",
+              "html": "<em><strong>War Games &amp; Their History</strong></em> was written by Christopher George Lewin, published by Fonthill Media, October 23, 2012."
+            },
+            {
+              "id": "38d8792d-3f29-45b7-837c-d821c058b8c7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "13613106-2a5e-4f10-b821-a08b7293b342",
+              "type": "quote",
+              "html": "<em>A fascinating study of war games starting with those played in ancient and medieval times through to 1945. A must-read for anyone interested in military history. This is the complete history of war gaming.</em>"
+            },
+            {
+              "id": "842ef3a3-ff50-4113-bd07-80133b1b4e6c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "35b86537-6313-4a60-9698-d37534c567f2",
+          "type": "column",
+          "children": [
+            {
+              "id": "bd8d6339-e3bd-48e8-b666-ad7926bece90",
+              "type": "image",
+              "src": "./assets/images/untitled-43382b8efbe8.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "387d1389-7377-4d9c-80b0-e26224ac0d13",
+      "type": "divider"
+    },
+    {
+      "id": "0b169a17-6256-45a7-a8fd-0229bac68283",
+      "type": "columns",
+      "children": [
+        {
+          "id": "37eaaa87-50c1-4ed7-8c17-49427de42f88",
+          "type": "column",
+          "children": [
+            {
+              "id": "a9e71332-3e58-4a81-b770-edde04741d1f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8dab73f8-1098-4038-b648-cab2d0b9e639",
+          "type": "column",
+          "children": [
+            {
+              "id": "07771bae-f225-4abe-8c41-5d3e7917cf25",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3d0YvB0\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53473311-43e3-4b7b-a634-c66a6c10e85c",
+      "type": "divider"
+    }
+  ]
+}

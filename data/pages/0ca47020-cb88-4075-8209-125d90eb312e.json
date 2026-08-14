@@ -1,0 +1,136 @@
+{
+  "id": "0ca47020-cb88-4075-8209-125d90eb312e",
+  "slug": "meditations-on-the-tarot",
+  "title": "Meditations on the Tarot",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/0ca47020cb8840758209125d90eb312e",
+  "createdTime": 1651697413325,
+  "lastEditedTime": 1681313500877,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Meditations on the Tarot"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-bc4f20e36f74.webp",
+  "blocks": [
+    {
+      "id": "614f7483-f8fa-4934-8614-67d0e464e8fc",
+      "type": "divider"
+    },
+    {
+      "id": "341579fd-86be-4483-b948-3deba39d44fb",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b20ef02f-f831-462d-8d23-c8ffabcf91cd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ea33a601-681c-49dd-808c-1702ca6958ce",
+          "type": "column",
+          "children": [
+            {
+              "id": "e2dd4203-5d5b-4c08-b9bb-bc5b99c2bf6a",
+              "type": "paragraph",
+              "html": "<em><strong>Meditations on the Tarot</strong></em> was originally written by Valtentin Tomberg in French May 21, 1967, but only later published posthumously &amp; anonymously in 1980."
+            },
+            {
+              "id": "df165178-64e4-4697-889e-ff40a05dd01d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "ab857d14-3e3d-4f12-a169-ebb8acb27208",
+              "type": "quote",
+              "html": "<em>Written anonymously and published posthumously, as was the author’s wish, the intention of this work is for the reader to find a relationship with the author in the spiritual dimensions of existence. The author wanted not to be thought of as a personality who lived from 1900 to 1973, but as a friend who is communicating with us from beyond the </em><a href=\"#/magic-circle\"><em>boundaries</em></a><em> of ordinary life.<br><br>Using the 22 major arcana of the </em><a href=\"#/tarot\"><em>tarot</em></a><em> deck as a means to explore some of humanity’s most penetrating spiritual questions, </em>Meditations on the Tarot<em> has attracted an unprecedented range of praise from across the spiritual spectrum.</em>"
+            }
+          ]
+        },
+        {
+          "id": "499acf32-b57c-409a-a09f-0a481dbae652",
+          "type": "column",
+          "children": [
+            {
+              "id": "ad6effbf-b3e2-45b0-895a-8ed4bad26122",
+              "type": "image",
+              "src": "./assets/images/untitled-bc4f20e36f74.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faa37f12-54c1-453f-ad3d-6321ef5a353a",
+      "type": "divider"
+    },
+    {
+      "id": "83f5b6ee-b6d0-4c99-9793-5a4304f37efc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "91d5c040-6798-47cb-a758-0b8319a28e3b",
+          "type": "column",
+          "children": [
+            {
+              "id": "b55658e2-309f-4174-b898-5c934436bfe1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bee71ae1-25dd-4e80-953c-df1ef103a97c",
+          "type": "column",
+          "children": [
+            {
+              "id": "85a7b3ac-e1b7-4157-868b-868777c7b18d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39QU4Xz\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06d9eda6-e908-4ab3-bacd-0d0b7bf7a4e8",
+      "type": "divider"
+    },
+    {
+      "id": "38abf192-cb80-4d6e-834e-885cfd7b70e4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "fefc74fb-0aa1-415a-ab0b-3bebdd899de8",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "900665a9-4970-492c-838c-2297ac7b9c9d",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

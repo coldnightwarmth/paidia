@@ -1,0 +1,131 @@
+{
+  "id": "d1d8f8da-63f6-40d3-ae16-704948120311",
+  "slug": "the-art-of-videogames",
+  "title": "The Art of Videogames",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Art-of-Videogames-d1d8f8da63f640d3ae16704948120311?pvs=21",
+  "createdTime": 1657301043467,
+  "lastEditedTime": 1681314246924,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Art of Videogames",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5c1d840b2a42.webp",
+  "blocks": [
+    {
+      "id": "1713ca8a-10f5-4456-a558-368348b12ea5",
+      "type": "divider"
+    },
+    {
+      "id": "455402c0-3eb2-4fb2-ae4f-7a936548b5cf",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "cfce6a89-8ce5-422d-85a9-39ca2e4a6149",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1c617577-936b-49bd-8f96-9f72cc103c8b",
+          "type": "column",
+          "children": [
+            {
+              "id": "771472c2-0abe-4f9b-96b5-b3c2ff487ab9",
+              "type": "paragraph",
+              "html": "<em><strong>The Art of Videogames</strong></em><strong> </strong>was written by Grant Tavinor, published by Wiley-Blackwell, September 28, 2009."
+            },
+            {
+              "id": "54c428ef-8ef1-487c-ba0e-ec298b8d15ce",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "908d0703-e779-40bb-bb7b-14145170e90d",
+              "type": "quote",
+              "html": "The Art of Videogames<em> explores how philosophy of the arts theories developed to address traditional art works can also be applied to videogames.</em>"
+            },
+            {
+              "id": "ebd3ddfa-a2bc-48f7-b82e-cc28d6c6cdb4",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c0c1bb31-a327-42c6-8fde-9a2b5d205d05",
+          "type": "column",
+          "children": [
+            {
+              "id": "7987fa3e-8343-401a-9965-aa17c536d95d",
+              "type": "image",
+              "src": "./assets/images/untitled-5c1d840b2a42.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6e782740-69fe-411b-bcf5-53e744ec219f",
+      "type": "divider"
+    },
+    {
+      "id": "898efce4-286b-4ed4-812c-ff1f3bb1b6ab",
+      "type": "columns",
+      "children": [
+        {
+          "id": "df2ebc0c-6f73-4134-b857-c14afd4f2c3d",
+          "type": "column",
+          "children": [
+            {
+              "id": "6c01a7fb-0fd2-42ba-bf13-6173b1b0533e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d0dc7294-6b6e-4754-8b56-f0125d09b8da",
+          "type": "column",
+          "children": [
+            {
+              "id": "ff178276-3844-486a-8813-f8e4b813c0fa",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NSOjap\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91f7a9a4-8623-4fc0-8854-b145134d47b2",
+      "type": "divider"
+    }
+  ]
+}

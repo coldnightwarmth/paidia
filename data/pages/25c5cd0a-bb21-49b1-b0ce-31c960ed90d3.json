@@ -1,0 +1,121 @@
+{
+  "id": "25c5cd0a-bb21-49b1-b0ce-31c960ed90d3",
+  "slug": "children-s-games-and-rhymes",
+  "title": "Children's Games & Rhymes",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Children-s-Games-Rhymes-25c5cd0abb2149b1b0ce31c960ed90d3?pvs=21",
+  "createdTime": 1668714526164,
+  "lastEditedTime": 1681311518490,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Children's Games & Rhymes"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-171d30c03c22.webp",
+  "blocks": [
+    {
+      "id": "18b6aae4-b1f3-4c43-8f7c-424d87bc2006",
+      "type": "divider"
+    },
+    {
+      "id": "e9b0ac08-cf90-463f-9637-ccb1a6786c2f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9d4d81ec-6628-484f-9248-55a5276e8be2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "84bef430-bdc6-495a-a69b-8c6b9b282ce2",
+          "type": "column",
+          "children": [
+            {
+              "id": "e07c1b26-b136-44c6-8815-981ccadf288c",
+              "type": "paragraph",
+              "html": "<em><strong>Children's Games &amp; Rhymes</strong></em> is a collection of essays edited by Paul G. Brewster, published by Duke University Press in 1952."
+            },
+            {
+              "id": "a3d37546-c735-41cc-91b7-edaf89518dc0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c6963f72-e2ff-4de2-b3d7-e6cac4914a9f",
+              "type": "quote",
+              "html": "<em>Examines and explains the folklore for many types of games such as ball games; hiding games; jumping and hopping games; practical jokes; battle games; dramatic games; guessing games; forfeit or penalty games; games of chase; games of dexterity and imitative games.</em>"
+            }
+          ]
+        },
+        {
+          "id": "8f2dfc3d-5bf1-4f48-9442-e8ab65cacdff",
+          "type": "column",
+          "children": [
+            {
+              "id": "70eebf9d-0491-4e31-90fb-98a9a12f0f28",
+              "type": "image",
+              "src": "./assets/images/untitled-171d30c03c22.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9b9f9cb0-af75-407b-98cc-d3acf944249f",
+      "type": "divider"
+    },
+    {
+      "id": "866ca6f1-1385-4822-a141-eb52df9dbbc4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "85d4f394-cf06-42c1-af65-891799456cd3",
+          "type": "column",
+          "children": [
+            {
+              "id": "4f810932-e91f-4944-ac12-71ed0a347507",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e5f811e8-1fd7-43c9-965b-958feeaae505",
+          "type": "column",
+          "children": [
+            {
+              "id": "0904aa35-a231-46cd-9092-de6b1f90841c",
+              "type": "callout",
+              "html": "<a href=\"https://www.worldcat.org/title/1976713\" target=\"_blank\" rel=\"noreferrer\">Link</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3b44259-6707-41b9-9620-06b480613326",
+      "type": "divider"
+    }
+  ]
+}

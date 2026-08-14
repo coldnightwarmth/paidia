@@ -1,0 +1,167 @@
+{
+  "id": "a07b292a-7982-4db7-bd3f-ace70b0ad1ea",
+  "name": "Reading list",
+  "schema": {
+    "<x@M": {
+      "id": "<x@M",
+      "name": "Created",
+      "type": "created_time",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "@d~l": {
+      "id": "@d~l",
+      "name": "Author",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "C~JA": {
+      "id": "C~JA",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "6fb534cc-6cb6-496b-963e-22e46925dd3f",
+          "value": "General",
+          "color": "blue"
+        },
+        {
+          "id": "6794a402-631c-4d62-b5f5-4591139d54a6",
+          "value": "Framework",
+          "color": "gray"
+        },
+        {
+          "id": "b8340bf2-3a8e-4bd2-8dc3-8f5a8ff7e849",
+          "value": "Games for change",
+          "color": "yellow"
+        },
+        {
+          "id": "3c0a414c-63e8-4930-8475-fd97fddae61b",
+          "value": "Process",
+          "color": "purple"
+        },
+        {
+          "id": "6b94e9d6-f1e5-4b99-abe3-9cf0cc4b7d66",
+          "value": "Psychology",
+          "color": "orange"
+        },
+        {
+          "id": "bb13aed0-009c-4d07-b27a-cde8909955fc",
+          "value": "Sociology",
+          "color": "pink"
+        },
+        {
+          "id": "783686a0-bda3-46d2-b593-f43da2fb33f7",
+          "value": "Product design",
+          "color": "red"
+        },
+        {
+          "id": "72af9c1f-5c17-4e6b-bc3c-f4f79937c9d8",
+          "value": "Level design",
+          "color": "brown"
+        },
+        {
+          "id": "bf396038-efec-491f-89f4-b9b6cdaca923",
+          "value": "Analysis",
+          "color": "green"
+        },
+        {
+          "id": "5c7a27f8-bfe7-4d7a-b522-2aa0baf4c5a7",
+          "value": "Management",
+          "color": "default"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "ce9b5ec5-4ff9-46e1-b59e-96295a1ec2de",
+      "collectionId": "a07b292a-7982-4db7-bd3f-ace70b0ad1ea",
+      "type": "gallery",
+      "name": "Gallery view",
+      "pagePointerId": null,
+      "pageSort": [
+        "f6e13d19-ad32-4279-a45c-648a4c7a2723",
+        "a435dfeb-a1ca-479b-a847-3c4d4e8e89ad",
+        "fa305d74-68cd-4b86-bb8d-e880a1636d24",
+        "e9291fad-6490-4d29-9197-61111a6578bf",
+        "9e075054-d385-4cb0-8c8d-bce3dc78c60d",
+        "1ec06c9c-5af9-4986-834a-e70347a02d1f",
+        "e8a64d54-a465-4f09-8943-e325efc8a2d2",
+        "10c55af4-2a10-4f96-95c2-24a0822c0137",
+        "7803c69a-fefc-4367-96f2-015e0da9490a",
+        "be6988fc-59fc-40ce-b7cd-897fe2de2853",
+        "a32cdcc9-4b29-45b3-8cbd-cea13526b4c7",
+        "96c6f166-4870-493b-a982-8671d35ba2f3",
+        "32f878c8-50fa-432a-ab92-b34b50d8f134",
+        "c4d7baf8-a257-481e-8f44-5dedc7f7e694",
+        "abc5b697-8bc6-49e9-955d-b4087b801812",
+        "cd585971-03ef-4d22-ae84-92f0211a597f",
+        "bf4511d4-a7f2-4a2b-9af8-a236ab1a135b",
+        "e8e39686-f348-42d5-8786-6cec485bf834",
+        "498aa213-0d09-4d25-9543-e3780e9211d7",
+        "fb55e10d-1103-4ce9-a40b-8991516fdfa9",
+        "ce034f16-e968-4cc4-a861-6159ca415acd",
+        "8c34bf2d-c68d-45a7-998b-55fefebfa0d1",
+        "e0f0e95c-c7ea-4b63-8f09-f0dc0557d1be",
+        "a7d1e000-11c6-4ffa-b0d4-0c831b8216bf"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "<x@M",
+          "visible": false,
+          "width": null
+        },
+        {
+          "property": "@d~l",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C~JA",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

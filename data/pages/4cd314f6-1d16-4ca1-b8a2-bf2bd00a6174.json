@@ -1,0 +1,126 @@
+{
+  "id": "4cd314f6-1d16-4ca1-b8a2-bf2bd00a6174",
+  "slug": "building-blocks-of-tabletop-game-design",
+  "title": "Building Blocks of Tabletop Game Design",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Building-Blocks-of-Tabletop-Game-Design-4cd314f61d164ca1b8a2bf2bd00a6174?pvs=21",
+  "createdTime": 1651710789287,
+  "lastEditedTime": 1681311334928,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Building Blocks of Tabletop Game Design"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-234b4dfba788.webp",
+  "blocks": [
+    {
+      "id": "077c1bb9-9023-42f3-ad4c-9e6fc4950207",
+      "type": "divider"
+    },
+    {
+      "id": "84d5688c-7280-4088-afa9-e69af3d31a6e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "982f60d5-9937-4951-b4c2-24e32ddadd33",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9ecf0522-0e02-46c4-ae35-e2573c2aab13",
+          "type": "column",
+          "children": [
+            {
+              "id": "1049bd24-1d33-4cf5-b9c7-acf88d0dee05",
+              "type": "paragraph",
+              "html": "<em><strong>Building Blocks of Tabletop Game Design: An Encyclopedia of Mechanisms</strong></em><strong> </strong>was written by Geoffrey Engelstein &amp; Issac Shalev, published by CRC Press, July 11, 2019."
+            },
+            {
+              "id": "5f242ac1-cb0e-455c-a4c0-1b075b7e51c8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6cb64714-1765-4afa-adbf-dfbc59997bc6",
+              "type": "quote",
+              "html": "Building Blocks of Tabletop Game Design: An Encyclopedia of Mechanisms<em><strong> </strong></em><em>compiles hundreds of different mechanisms, organized by category. Each has a description of how it works, discussion of its pros and cons, how it can be implemented, and examples of specific games that use it. </em>Building Blocks<em> can be read cover to cover, used as a reference when looking for inspiration for a new design, help solving a specific problem, or assist in getting unstuck in the midst of a project. This book, the first to collect mechanisms like this in the tabletop game design field, aims to be a practical guide that will be a great starting point for beginning designers, a handy guidebook for the experienced, and an ideal classroom textbook.</em>"
+            }
+          ]
+        },
+        {
+          "id": "b4d51fec-7f85-43e6-ab80-b33b5ea811ec",
+          "type": "column",
+          "children": [
+            {
+              "id": "360c7b41-df1b-41ff-9808-c0d73aaac33f",
+              "type": "image",
+              "src": "./assets/images/untitled-234b4dfba788.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "334de283-4ccf-4dc4-a058-be46f9e27fd3",
+      "type": "divider"
+    },
+    {
+      "id": "74cc5446-6013-49ab-b7b8-881f4d074994",
+      "type": "columns",
+      "children": [
+        {
+          "id": "56cf5523-9855-4cb3-a8fa-441aa7ed74bd",
+          "type": "column",
+          "children": [
+            {
+              "id": "6d2f7401-4f81-4bfe-acc4-0f21d1de3dab",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8cf7d6c7-ee75-48be-8e5f-fd4d03209d98",
+          "type": "column",
+          "children": [
+            {
+              "id": "1bbcba13-dcea-4258-bb67-ae3a5b50509c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/38Kvo38\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36f233b6-c9ad-40f1-bf11-6fe85a6d006d",
+      "type": "divider"
+    },
+    {
+      "id": "edc0e977-c415-471f-98e2-5e11d9b116f5",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

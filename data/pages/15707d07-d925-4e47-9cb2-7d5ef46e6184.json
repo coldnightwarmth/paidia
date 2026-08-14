@@ -1,0 +1,121 @@
+{
+  "id": "15707d07-d925-4e47-9cb2-7d5ef46e6184",
+  "slug": "power-at-play",
+  "title": "Power at Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Power-at-Play-15707d07d9254e479cb27d5ef46e6184?pvs=21",
+  "createdTime": 1651711092948,
+  "lastEditedTime": 1681314282505,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Power at Play"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-792e3ea1c4ad.webp",
+  "blocks": [
+    {
+      "id": "ad51a58a-d25d-4096-a5b7-edea53b615f8",
+      "type": "divider"
+    },
+    {
+      "id": "e92659bc-d419-4531-9d6d-8143a01ebcf4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6cdc2fe1-86ec-40da-a6ec-6f3efc02bbf0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ba0ae2aa-0373-4653-8296-5f83b9fe9f12",
+          "type": "column",
+          "children": [
+            {
+              "id": "1a04cfa9-51d3-4ef4-9d9b-c34ca6d80466",
+              "type": "paragraph",
+              "html": "<em><strong>Power at Play: The Relationship between Play, Work, &amp; Governance </strong></em>was written by Niels Åkerstrøm Andersen, published by Palgrave Macmillan, April 17, 2009."
+            },
+            {
+              "id": "6ad22d40-9013-4670-ad1e-ce27a925825e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b8c5909c-fdd2-45d1-9036-ff7a09466b26",
+              "type": "quote",
+              "html": "<em>More and more adults participate as employees in games at work and in public and voluntary organizations. Power at play covers the intricate linkages between pedagogy, play, and power. It shows how power today suspends itself through play and analyzes organized play as a symptom of more radical changes of the exercise of power in work and society.</em>"
+            }
+          ]
+        },
+        {
+          "id": "c3da737d-3a24-4463-a1f2-58db986282e6",
+          "type": "column",
+          "children": [
+            {
+              "id": "e20aa45c-ab62-4252-83f4-887b2d5159ae",
+              "type": "image",
+              "src": "./assets/images/untitled-792e3ea1c4ad.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "534613b5-c86d-487a-9908-c69e9f3d9ddb",
+      "type": "divider"
+    },
+    {
+      "id": "3873d929-5ee6-4538-9828-c7be64e8bdea",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2b58fe36-1d36-4ab3-9dfa-607ad996408b",
+          "type": "column",
+          "children": [
+            {
+              "id": "38d7d478-4484-49ee-9da1-29ee79c569d2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a47edff6-c666-43f4-8414-a0e51012b961",
+          "type": "column",
+          "children": [
+            {
+              "id": "2a7621df-542b-4840-8415-3e34ee348927",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3l5GhPt\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23a25692-3df5-47ca-a93b-1dc600347334",
+      "type": "divider"
+    }
+  ]
+}

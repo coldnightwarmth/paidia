@@ -1,0 +1,121 @@
+{
+  "id": "5f119276-fc9d-4d32-a72a-59b44ff68bb2",
+  "slug": "a-book-of-surrealist-games",
+  "title": "A Book of Surrealist Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/A-Book-of-Surrealist-Games-5f119276fc9d4d32a72a59b44ff68bb2?pvs=21",
+  "createdTime": 1651688163522,
+  "lastEditedTime": 1681310005279,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A Book of Surrealist Games"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81az2wf0icl-c01c1bdc1cfa.webp",
+  "blocks": [
+    {
+      "id": "868ebfa1-c157-413c-95ea-a3b6810136c2",
+      "type": "divider"
+    },
+    {
+      "id": "8972e082-89e2-4a33-8583-6347690f5664",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f6e4791e-3283-426e-809c-b7b7d9bfde3e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "aafd0d1c-cb5f-4c34-9cec-efa349fce629",
+          "type": "column",
+          "children": [
+            {
+              "id": "fb02500e-3097-4226-961e-d6ca54aa2477",
+              "type": "paragraph",
+              "html": "<em><strong>A Book of Surrealist Games Paperback</strong></em> was written by Alastair Brotchie &amp; Mel Gooding, published by Shambhala, July 4, 1995."
+            },
+            {
+              "id": "6231b390-e620-4e6d-a947-22e59c6abe26",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "0883aa2b-adbc-451a-b94a-5fa041308121",
+              "type": "quote",
+              "html": "<em>This delightful collection allows everyone to enjoy firsthand the provocative methods used by the artists and poets of the Surrealist school to break through conventional thought and behavior to a deeper truth. Invented and played by such artists as André Breton, Rene Magritte, and Max Ernst, these gems still produce results ranging from the hilarious to the mysterious and profound.</em>"
+            }
+          ]
+        },
+        {
+          "id": "8fb78ebd-e027-4af6-981d-ed9e522f1bc7",
+          "type": "column",
+          "children": [
+            {
+              "id": "779b4f5c-af8b-4215-9a6a-8635f79c904e",
+              "type": "image",
+              "src": "./assets/images/81az2wf0icl-c01c1bdc1cfa.webp",
+              "caption": "",
+              "alt": "81AZ2Wf0IcL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c93e2a76-1862-4ac0-938c-830494ee71ab",
+      "type": "divider"
+    },
+    {
+      "id": "19f4613b-7200-4daa-ba36-387955f7a2fe",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3c83cfca-dff5-47ad-b103-6c305b81545d",
+          "type": "column",
+          "children": [
+            {
+              "id": "d3f818eb-4396-4f64-9186-85198899ee37",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "84fe9024-351f-4e6d-bd1d-65501c7e66a7",
+          "type": "column",
+          "children": [
+            {
+              "id": "be0406af-b14c-48ff-bf54-6d1ee5d44be6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OnLDme\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6bd4c6e-57b4-4317-8e1d-f9726f38ade6",
+      "type": "divider"
+    }
+  ]
+}

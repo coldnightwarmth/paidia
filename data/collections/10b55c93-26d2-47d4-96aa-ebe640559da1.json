@@ -1,0 +1,132 @@
+{
+  "id": "10b55c93-26d2-47d4-96aa-ebe640559da1",
+  "name": "Museums of Play & Games",
+  "schema": {
+    "F?E{": {
+      "id": "F?E{",
+      "name": "Website",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "dKCp": {
+      "id": "dKCp",
+      "name": "Location",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "f6dd1276-25ee-4a0d-921f-4b72dbc029ac",
+      "collectionId": "10b55c93-26d2-47d4-96aa-ebe640559da1",
+      "type": "table",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "4e13024f-ce24-4b7f-8a2a-92a0b7a74e35",
+        "dc5df200-b891-473c-b61d-a58ba02d9b7a",
+        "c0117fbd-d9da-490a-9a4f-0c17089a312b",
+        "310df3e7-b7dd-4949-8f45-9ed326d05f84",
+        "3f7ac034-c651-4268-b0a7-9cf5aeda0408",
+        "d26b70dd-0317-47cd-9c36-bc41307e14da",
+        "ee1a0d58-0c0a-4aa1-8581-0379c1ea60ee",
+        "3edaacbc-d27c-443b-855b-1f457b1cd8bd",
+        "677c8463-76b6-4752-8b2b-ad019ca4c7e4",
+        "4fcf4712-a53b-4cf7-8cee-573b14803e92",
+        "d586d9a4-20eb-4837-a489-5f99f3f17a53",
+        "95f589e1-82c8-4d7e-9924-c3a6138b0a85",
+        "f7b3bdab-2f39-48d9-afe5-b969f30d4b9f",
+        "4a3a05c3-b7da-4442-8223-016f3ffc9f9e",
+        "28428d10-7075-43ae-96f1-c3fea243d064",
+        "c973dae0-58bf-45f7-9f9b-72c0fa85666b",
+        "1e96a1ae-ce17-445a-b3b3-ca0b80bc87d5",
+        "e1995583-e2ac-4aa4-af4b-0493b0482915",
+        "fc0834dc-4d66-4886-a00d-b1974582f338",
+        "c3b4b2ee-1dc7-4a80-98f6-12cf79b0b0f3",
+        "57bf860e-cc40-403e-826c-897e77198e58",
+        "4acf2c49-66ee-4889-a126-cf41c013bf2b",
+        "b75eb153-e0d4-4ffd-826c-67bdca2a0d0f",
+        "d18b7201-b0e4-4fb4-8dc7-ee4a9a15135b",
+        "508cc0dc-50e7-4709-9628-0d8f493c2953",
+        "de39421f-d286-4ae3-8c58-768a6bf1bf62",
+        "86ccc932-1040-40e3-8e35-5711fd08c844",
+        "2f3f2a07-dacb-4bc5-9e35-526d6caab7dd",
+        "c7d1922d-2345-4fde-9530-d455620c14d0",
+        "beae9986-25a5-4d0f-bd75-034e8271d5aa",
+        "7665d3aa-58d5-4369-a975-9cae821cf0a4",
+        "9d27fa5d-c6ab-4688-9e7c-c6453c62c96c",
+        "634daeae-b7f4-4076-be4c-d834568f3838",
+        "ba4d16c2-05f5-4c6e-ac69-469d7fd6a76b",
+        "b67c96a5-48fc-4454-b806-46a88ad3b80a",
+        "7cb5cd39-2d91-4c7d-96ad-3e4d029ed565",
+        "271d0164-2195-4f39-a4f4-379e240905dc",
+        "05c4cbb0-6e7c-4e3c-9652-eeca8f46e2c0",
+        "bc7b57dd-dab1-4849-a2c0-a5c79e12a870",
+        "5a839b9b-7a92-4b2a-92ab-461c86af4858",
+        "50c39f9b-0b00-43a7-aad9-5e6e52e1c4a9",
+        "0f9739f7-39a9-4193-9bf8-d8388c62c923",
+        "8b2ffe2e-1892-4b69-bfa0-35086f25f86c",
+        "88ee2522-df7b-4aa5-8bdd-4ddd647ba086",
+        "127f973a-a7f4-4016-8e3a-2f7095982fc1",
+        "5233425c-e0fd-4a29-997b-836bbf0a0f2b",
+        "9eeb6481-5f93-4883-a80f-2fdb41b4daf5",
+        "8d3db11c-1f46-4ee3-bd89-a4508aac5367",
+        "7a166934-bd5b-47fe-93ea-ab586ab1d84b",
+        "356b1cc0-5356-43e2-a9f6-33cfcb7d9527",
+        "9c55415a-0d66-4429-b73d-d840984627f7",
+        "a9b7375f-e2f5-47a7-8d46-b9d6e6d9143d",
+        "e51576fc-ead7-4593-baa8-36ded1f59da7",
+        "569cc2d1-c0be-45a3-bee6-60a7a5563231",
+        "4e99a79c-3f03-4f29-93c3-ab0d1a99488d",
+        "daf47700-6241-4771-81b7-f6fcd414cc4e"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 333
+        },
+        {
+          "property": "dKCp",
+          "visible": true,
+          "width": 209
+        },
+        {
+          "property": "F?E{",
+          "visible": true,
+          "width": 100
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

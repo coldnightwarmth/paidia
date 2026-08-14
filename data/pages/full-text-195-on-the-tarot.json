@@ -1,0 +1,74 @@
+{
+  "id": "full-text-195-on-the-tarot",
+  "slug": "on-the-tarot",
+  "title": "On The Tarot",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8b00db95-6902-4675-93fb-bd8023cf5614",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "",
+  "createdTime": null,
+  "lastEditedTime": null,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "On The Tarot"
+      ]
+    ],
+    "Full Text Database Row": [
+      [
+        "195"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Antoine Court de Gebelin"
+      ]
+    ],
+    "Tags": [
+      [
+        "Divination, Tabletop Games"
+      ]
+    ],
+    "Released": [
+      [
+        "1787"
+      ]
+    ],
+    "Publisher": []
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "full-text-195-on-the-tarot-divider",
+      "type": "divider"
+    },
+    {
+      "id": "full-text-195-on-the-tarot-metadata",
+      "type": "paragraph",
+      "html": "<strong>On The Tarot</strong>, by Antoine Court de Gebelin, 1787."
+    },
+    {
+      "id": "full-text-195-on-the-tarot-tags",
+      "type": "paragraph",
+      "html": "<em>Tags:</em> Divination, Tabletop Games"
+    },
+    {
+      "id": "full-text-195-on-the-tarot-note",
+      "type": "callout",
+      "html": "This spreadsheet row did not include a Notion source URL, so this local page was generated from the Full Text Database CSV metadata.",
+      "icon": "🗃️",
+      "children": []
+    }
+  ]
+}

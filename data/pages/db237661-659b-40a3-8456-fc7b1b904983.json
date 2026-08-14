@@ -1,0 +1,126 @@
+{
+  "id": "db237661-659b-40a3-8456-fc7b1b904983",
+  "slug": "haunted-media",
+  "title": "Haunted Media",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Haunted-Media-db237661659b40a38456fc7b1b904983?pvs=21",
+  "createdTime": 1651695092579,
+  "lastEditedTime": 1681314174160,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Haunted Media"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-46b00d543648.webp",
+  "blocks": [
+    {
+      "id": "ea67c672-e88e-498b-ad0a-d1d76659a2d1",
+      "type": "divider"
+    },
+    {
+      "id": "d7b0c0e7-0da6-4b60-bb77-5d023b4215cd",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8fdf42c2-96ee-4ab2-bef2-955b9fedf46c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9796dabd-127b-4a61-82d4-3c51f06bc016",
+          "type": "column",
+          "children": [
+            {
+              "id": "18b15082-a106-4c6c-bcab-40a578c09dfe",
+              "type": "paragraph",
+              "html": "<em><strong>Haunted Media: Electronic Presence from Telegraphy to Television</strong></em><strong> </strong>was written by Jeffrey Sconce, published by Duke University Press in 2000."
+            },
+            {
+              "id": "969c1584-9c84-438d-b4ec-e14c90fdc45c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "25c6e164-1f22-47cc-9aea-7b6a6e0fe0dc",
+              "type": "quote",
+              "html": "<em>In </em>Haunted Media <em>Jeffrey Sconce examines American culture’s persistent association of new electronic media—from the invention of the telegraph to the introduction of television and computers—with paranormal or spiritual phenomena. By offering a historical analysis of the relation between communication technologies, discourses of modernity, and metaphysical preoccupations, Sconce demonstrates how accounts of “electronic presence” have gradually changed over the decades from a fascination with the boundaries of space and time to a more generalized anxiety over the seeming sovereignty of technology.<br><br>Sconce focuses on five important cultural moments in the history of telecommunication from the mid-nineteenth century to the present: the advent of telegraphy; the arrival of wireless communication; radio’s transformation into network broadcasting; the introduction of television; and contemporary debates over computers, cyberspace, and virtual reality. In the process of examining the trajectory of these technological innovations, he discusses topics such as the rise of spiritualism as a utopian response to the electronic powers presented by telegraphy and how radio, in the twentieth century, came to be regarded as a way of connecting to a more atomized vision of the afterlife. Sconce also considers how an early preoccupation with extraterrestrial radio communications tranformed during the network era into more unsettling fantasies of mediated annihilation, culminating with Orson Welles’s legendary broadcast of </em>War of the Worlds<em>. Likewise, in his exploration of the early years of television, Sconce describes how programs such as </em>The Twilight Zone<em> and </em>The Outer Limits<em> continued to feed the fantastical and increasingly paranoid public imagination of electronic media. Finally, Sconce discusses the rise of postmodern media criticism as yet another occult fiction of electronic presence, a mythology that continues to dominate contemporary debates over television, cyberspace, virtual reality, and the Internet.</em>"
+            },
+            {
+              "id": "60bd9bea-238a-458d-9aab-c169e40d210d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "8720d8bb-6517-4a68-b119-b574c93573c6",
+          "type": "column",
+          "children": [
+            {
+              "id": "38aed957-d5c8-484a-b3f3-c376a051a0ec",
+              "type": "image",
+              "src": "./assets/images/untitled-46b00d543648.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7bab5237-ec6b-4128-946c-95312fdd4390",
+      "type": "divider"
+    },
+    {
+      "id": "7f1bef3d-0871-4a22-96f4-1980c25a3fb4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3cc10535-4926-4c3e-8581-5e64cd8be500",
+          "type": "column",
+          "children": [
+            {
+              "id": "c26c88b1-990e-4ca2-a24a-0103bf53d6c4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "16295f8b-7e0c-4003-82dd-c22fe7e1f8f2",
+          "type": "column",
+          "children": [
+            {
+              "id": "f2c71cc7-4a6d-4585-bbe7-754edd9a2b84",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3niatrv\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30a6ba7b-6157-43c3-9243-c76da4553046",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "d9b9f7d8-56f6-49fe-9c78-ce2adbc0cdd3",
+  "slug": "class-wargames",
+  "title": "Class Wargames",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Class-Wargames-d9b9f7d856f649fe9c78ce2adbc0cdd3?pvs=21",
+  "createdTime": 1651707194910,
+  "lastEditedTime": 1681311575029,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Class Wargames",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/classwargames-cvr-hires-4fe6e74da471.webp",
+  "blocks": [
+    {
+      "id": "215e8fd7-159d-4001-a9db-47c8633b22be",
+      "type": "divider"
+    },
+    {
+      "id": "85d84ec5-0a24-4984-a760-15271c679a47",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ac135117-3c75-488e-8435-492b51d77090",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d31ab6b1-1181-407d-87d0-1abf140c1f81",
+          "type": "column",
+          "children": [
+            {
+              "id": "e20154aa-57f9-493f-a984-13324e0b20a3",
+              "type": "paragraph",
+              "html": "<em><strong>Class Wargames: Ludic Subversion Against Spectacular Capitalism</strong></em> was written by Richard Barbrook, published by Minor Compositions, December 1, 2014."
+            },
+            {
+              "id": "8cd976fa-0dca-4bba-8f85-6367f051e4d6",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f7a62bee-7f8e-464f-b31e-965f04d9825d",
+              "type": "quote",
+              "html": "<em>Why should radicals be interested in playing wargames? Surely the Left can have no interest in such militarist fantasies? Yet, Guy Debord the leader of the Situationist International placed such importance on his invention of </em>The Game of War<em> described it as his most significant of his accomplishment. Intrigued by this claim, a multinational group of artists, activists and academics formed Class Wargames to investigate the political and strategic lessons that could be learnt from playing his ludic experiment. While the ideas of the Situationists continue to be highly influential in the development of subversive art and politics, relatively little attention has been paid to their strategic orientation. Determined to correct this deficiency, </em>Class Wargames <em>is committed to exploring how Debord used the metaphor of the Napoleonic battlefield to propagate a Situationist analysis of modern culture and politics. Inspired by his example its members have also hacked other military simulations: H.G. Wells’ </em>Little Wars<em>; Chris Peers’ </em>Reds versus Reds<em> and Richard Borg’s </em>Commands &amp; Colors<em>. Playing wargames is not a diversion from politics: it is the training ground of tomorrow s communist insurgents. Fusing together historical research on avant-garde artists, political revolutionaries and military theorists with narratives of five years of public performances, </em>Class Wargames<em> provides a strategic and tactical manual for subverting the economic, political and ideological hierarchies of early-21st century neoliberal capitalism. The knowledge required to create a truly human civilisation is there to be discovered on the game board!</em>"
+            },
+            {
+              "id": "fb60420d-f0b7-4b0e-b82b-21a8aaf76b32",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "97137751-9a3e-4302-a683-6055b4a83030",
+          "type": "column",
+          "children": [
+            {
+              "id": "eb798307-5c3c-489d-8b42-be403fa1352b",
+              "type": "image",
+              "src": "./assets/images/classwargames-cvr-hires-4fe6e74da471.webp",
+              "caption": "",
+              "alt": "classwargames-cvr-hires.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3594e46-ba79-47f8-8891-277e1cc8c888",
+      "type": "divider"
+    },
+    {
+      "id": "abb26b83-de39-4824-ab3e-8fcb806d3b3c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a554bffc-7c71-49fb-87a5-f54d2387464d",
+          "type": "column",
+          "children": [
+            {
+              "id": "8a197e02-4b56-403b-b501-82a88cc02ade",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d956d770-bf28-424f-801c-34210753d794",
+          "type": "column",
+          "children": [
+            {
+              "id": "60357798-30ab-4023-8f99-691c0695e310",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SoW4YP\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40cfa8e1-533e-43f6-ada6-e535f5c08abe",
+      "type": "divider"
+    }
+  ]
+}

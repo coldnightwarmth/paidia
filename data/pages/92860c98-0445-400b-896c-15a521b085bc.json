@@ -1,0 +1,121 @@
+{
+  "id": "92860c98-0445-400b-896c-15a521b085bc",
+  "slug": "all-about-pinball",
+  "title": "All About Pinball",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/All-About-Pinball-92860c980445400b896c15a521b085bc?pvs=21",
+  "createdTime": 1658275676685,
+  "lastEditedTime": 1681310443818,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "All About Pinball",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c8f42bc2314e.webp",
+  "blocks": [
+    {
+      "id": "c79087b9-be4b-4084-8b8b-0d10bcff609e",
+      "type": "divider"
+    },
+    {
+      "id": "05eb1d4a-9654-49ca-9f38-b12422b008e4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "09d997e6-b4b8-408e-aed7-d9152a9cd0dc",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c7c7c901-6ba2-4b72-8f1b-e49681ae6b15",
+          "type": "column",
+          "children": [
+            {
+              "id": "3bdbe1b1-a7cb-41a4-8ab5-ed2c409240e6",
+              "type": "paragraph",
+              "html": "<em><strong>All About Pinball</strong></em> was written by Bobbye Claire Natkin, published by Grosset &amp; Dunlap, January 1, 1977."
+            },
+            {
+              "id": "0ac2b92a-4386-4be9-bc0e-bddc6c424195",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "3c7a70e2-09db-491d-b727-25a4c3a3848e",
+          "type": "column",
+          "children": [
+            {
+              "id": "56e4835b-7279-4872-99bc-83a4c939b4b3",
+              "type": "image",
+              "src": "./assets/images/untitled-c8f42bc2314e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3a15a1e-38e2-42aa-9700-08d95dfd6969",
+      "type": "divider"
+    },
+    {
+      "id": "1fe527e5-1999-4165-bce7-9783dd94f342",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9d103a5d-7d10-4382-b00c-07073ca88c4c",
+          "type": "column",
+          "children": [
+            {
+              "id": "fcfe93b0-b9ed-4a69-b461-678cdc450a20",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "baba7031-96f0-4fb1-a0d1-c61870235657",
+          "type": "column",
+          "children": [
+            {
+              "id": "2fb9a81b-47ff-4e2a-bdf8-b38368036056",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OkvpcJ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0e11bd3-60c5-4a67-a0c5-42a28bf2cffa",
+      "type": "divider"
+    }
+  ]
+}

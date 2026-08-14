@@ -1,0 +1,68 @@
+{
+  "id": "14ac0ee6-d28b-46aa-8bde-22214dcb9efc",
+  "name": "Application Materials",
+  "schema": {
+    "wogW": {
+      "id": "wogW",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "33615bc2-bd41-42f6-80c5-345437ed40b3",
+      "collectionId": "14ac0ee6-d28b-46aa-8bde-22214dcb9efc",
+      "type": "table",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "c66dcb8c-032c-4d21-8728-e3788987559b",
+        "e8b8010c-162c-4383-9893-bb585c240ba7",
+        "66395d31-8beb-48a5-90c8-fd6ac6f3ffec",
+        "4ea99dea-36ee-4d8d-b922-1bc54557ff59",
+        "a66ecb5a-63cd-44a9-9033-e86e6498f017",
+        "9a74b69e-41fa-4d5b-8082-437658bd0ab3",
+        "7db08931-3a32-4721-9473-57311fa52320",
+        "3c198ff8-a976-4ead-9263-e813934866c0"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 276
+        },
+        {
+          "property": "wogW",
+          "visible": true,
+          "width": 100
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

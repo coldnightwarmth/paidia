@@ -1,0 +1,131 @@
+{
+  "id": "1f55c660-145c-4f64-ba5e-0dabdb37bb2a",
+  "slug": "zeros-ones",
+  "title": "Zeros + Ones",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Zeros-Ones-1f55c660145c4f64ba5e0dabdb37bb2a?pvs=21",
+  "createdTime": 1651685555266,
+  "lastEditedTime": 1681314167320,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Zeros + Ones"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-76cdfe8f646c.webp",
+  "blocks": [
+    {
+      "id": "f340215b-cfb7-44e9-8ca0-79b3b9a0138a",
+      "type": "divider"
+    },
+    {
+      "id": "11761cf1-655c-4aa3-809c-4c7d92369ec7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8e0f213b-0bdd-4d67-b03c-55a6e71adda5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b0eba733-78f1-47af-b067-944ed9b2c3fd",
+          "type": "column",
+          "children": [
+            {
+              "id": "938d07fb-dbdc-4cc7-bdbe-e59b6367c55f",
+              "type": "paragraph",
+              "html": "<em><strong>Zeros + Ones: Digital Women &amp; the New Technoculture</strong></em> was written by Sadie Plant, published by Fourth Estate in 1997."
+            },
+            {
+              "id": "f502c468-c0f6-4a9d-94c9-211c1fe1727e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2c1d0e5a-f786-43e8-a06c-4ca72b6bd8e2",
+              "type": "quote",
+              "html": "<em>A highly contentious, very readable and totally up-to-the-minute investigation of women’s natural relationship with modern technology, an association which, Plant argues, will trigger a new sexual revolution.<br><br></em>Zeros and Ones<em> is an intelligent, provocative and accessible investigation of the intersection between women, feminism, machines and in particular, information technology. Arguing that the computer is rewriting the old conceptions of man and his world, it suggests that the telecoms revolution is also a sexual revolution which undermines the fundamental assumptions crucial to patriarchal culture. Historical, contemporary and future developments in telecommunications and in IT are interwoven with the past, present and future of feminism, women and sexual difference, and a wealth of connections, parallels and affinities between machines and women are uncovered as a result. Challenging the belief that man was ever in control of either his own agency, the planet, or his machines, this book argues it is seriously undermined by the new scientific paradigms emergent from theories of chaos, complexity and connectionism, all of which suggest that the old distinctions between man, woman, nature and technology need to be radically reassessed.</em>"
+            },
+            {
+              "id": "02f96148-4bba-45a3-a394-323943bca1fe",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "58b6eb65-1f6b-4b46-8a8e-32d73b181697",
+          "type": "column",
+          "children": [
+            {
+              "id": "4d5ca2fd-a59d-4212-9d0c-14a6cd00aeef",
+              "type": "image",
+              "src": "./assets/images/untitled-76cdfe8f646c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05d68ffc-852c-4e87-915e-69c3bd1f9e25",
+      "type": "divider"
+    },
+    {
+      "id": "7efcb7a1-6f4a-4be5-a98a-c402d386976d",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6f35f9c3-5396-4992-a196-b5be2c446368",
+          "type": "column",
+          "children": [
+            {
+              "id": "9da9537f-1453-46cd-a409-4ae41fd7e209",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0a2f963b-e289-46c0-87ae-872e4cb33516",
+          "type": "column",
+          "children": [
+            {
+              "id": "15032599-3222-4967-8925-e3774342cfb8",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xOLLnN\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "128cba5b-7519-4dba-9f7e-fb3b7bad4448",
+      "type": "divider"
+    },
+    {
+      "id": "ccadd29c-fd00-4540-b8e1-60aa7f822a51",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

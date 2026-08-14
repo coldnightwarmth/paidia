@@ -1,0 +1,161 @@
+{
+  "id": "59090873-fdcc-4c89-8da8-d028e823c7be",
+  "slug": "the-adventurer",
+  "title": "The Adventurer",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/59090873fdcc4c898da8d028e823c7be",
+  "createdTime": 1668795156463,
+  "lastEditedTime": 1681312411554,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Adventurer",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-2adc788d9346.webp",
+  "blocks": [
+    {
+      "id": "2f60f39f-e246-4c15-a6d8-c716178b8267",
+      "type": "divider"
+    },
+    {
+      "id": "8d789744-dfce-458e-8408-9a5d57c6635a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5e0a7dfb-3983-43aa-80bd-709a05697201",
+      "type": "columns",
+      "children": [
+        {
+          "id": "29c737c4-f177-4f18-aef4-884ee5b1c286",
+          "type": "column",
+          "children": [
+            {
+              "id": "71d9b49b-39b0-4c17-9459-038fd6553b95",
+              "type": "paragraph",
+              "html": "<em><strong>The Adventurer: The Fate of Adventure in the Western World</strong></em><em> </em>was written by Paul Zweig, published by Basic Books in 1974."
+            },
+            {
+              "id": "7c5fd62b-5df7-40d0-97e0-34fe663360d5",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6b1c8b33-0e52-4dc2-8dd5-2241143beb80",
+              "type": "quote",
+              "html": "<em>Originally published in 1974, Paul Zweig's </em>The Adventurer<em> is a stellar example of a critical essay that thrillingly brings the history of ideas to life. In a masterful series of analyses, Zweig surveys the </em><a href=\"#/genre\"><em>genre</em></a><em> of the &quot;adventure story,&quot; which in his view encompasses a wide range of literary and philosophical texts stretching from the </em>Odyssey<em> and </em>Gilgamesh<em>, through Casanova's </em>History of My Life <em>and Defoe's </em>Robinson Crusoe<em>, to</em> Thus Spake Zarathustra <em>and the work of modern writers such as Norman Mailer; through changes in the concept of &quot;adventure,&quot; Zweig charts fundamental shifts in humankind's sense of self. This is an intellectually exuberant and profoundly insightful work of scholarship.</em>"
+            },
+            {
+              "id": "cbf4ca5c-f020-4885-8665-e1a3ba261b46",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4c6bc33e-e3d2-4f54-928e-fc0295c48752",
+          "type": "column",
+          "children": [
+            {
+              "id": "b7ebe67d-25e4-45d8-b872-0e64148815aa",
+              "type": "image",
+              "src": "./assets/images/untitled-2adc788d9346.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb5df672-d8e9-4f91-96e4-ac305a5e0e86",
+      "type": "divider"
+    },
+    {
+      "id": "e8aa3662-a37e-4c79-ac53-8c6e263c76a1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "51e32ff5-01e2-42d9-bcdc-4a1f3c8a9bea",
+          "type": "column",
+          "children": [
+            {
+              "id": "cd26ac84-169a-4c15-9238-6bc75341154d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "da07f412-401e-4fb1-8242-f666f8415ea1",
+          "type": "column",
+          "children": [
+            {
+              "id": "dcd937f6-67c3-43c3-bfd4-e3e0bae5642e",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Adventurer-Fate-Adventure-Western-World/dp/1888173726\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c124ee18-9beb-41c8-929c-5178faea52a9",
+      "type": "divider"
+    },
+    {
+      "id": "6370f68b-ab77-4735-855c-87bffd8cb97a",
+      "type": "paragraph",
+      "html": "<em><em><em><em><em><em><em><em><em>see also:</em></em></em></em></em></em></em></em></em>"
+    },
+    {
+      "id": "db9579f8-2c4f-44bc-9a95-9a6f9eb6f3b7",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-adventure\">The Adventure</a> (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "af002417-4316-464c-a968-f0bea3d75ee1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "46e0ba6c-8c2c-4c8d-a53d-4f594c69aee9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "faac2e95-c4f8-4648-aa48-5600ab7723a6",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "4b0b2dd7-306b-48e4-a7d1-b0acffb219b2",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

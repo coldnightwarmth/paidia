@@ -1,0 +1,136 @@
+{
+  "id": "f3101a29-ef40-4b84-8f69-fe82b1960914",
+  "slug": "play-dreams-and-imitation-in-childhood",
+  "title": "Play, Dreams, & Imitation in Childhood",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Play-Dreams-Imitation-in-Childhood-f3101a29ef404b848f69fe82b1960914?pvs=21",
+  "createdTime": 1652723714535,
+  "lastEditedTime": 1681314086236,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play, Dreams, & Imitation in Childhood",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9ca4bb18e033.webp",
+  "blocks": [
+    {
+      "id": "26c900f2-ffd6-4b7e-b4b3-ae1e030b6934",
+      "type": "divider"
+    },
+    {
+      "id": "61a15148-311e-4afc-ba44-4e0f4565093d",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f1c9a3fe-d452-4e24-a83c-2c595ec6bb51",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0f8e46c8-eb2f-4487-88e9-3ebcd4192e83",
+          "type": "column",
+          "children": [
+            {
+              "id": "c29b96d4-a78a-46b0-86b8-31263d194d89",
+              "type": "paragraph",
+              "html": "<em><strong>Play, Dreams, &amp; Imitation in Childhood</strong></em> was written by Jean Piaget, originally published by W. W. Norton &amp; Company in 1945."
+            },
+            {
+              "id": "4ce8e1c5-1d65-4cc2-b7a5-26d853a25210",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c40ae311-cac4-4875-addb-b616f3085059",
+              "type": "quote",
+              "html": "<em>A study of child development in terms of systematic and representa tive imitation, the structure and symbolism of games and dreams, and the movement from sensory-motor schemas to conceptual schemas.</em>"
+            },
+            {
+              "id": "61de8f98-608a-4e7c-8e55-ea08678b4a59",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "6d881adc-f722-4004-a540-54b72dde428f",
+          "type": "column",
+          "children": [
+            {
+              "id": "6e0e4ea5-a60c-4176-b83a-b7ff0a003334",
+              "type": "image",
+              "src": "./assets/images/untitled-9ca4bb18e033.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1cd194c-32ff-4df8-86e9-d2543d7a36cd",
+      "type": "divider"
+    },
+    {
+      "id": "40365616-03ea-4441-9598-f2d408542e19",
+      "type": "columns",
+      "children": [
+        {
+          "id": "acf8d6f4-85a0-466e-85f2-77d2fc63c606",
+          "type": "column",
+          "children": [
+            {
+              "id": "1c88cfba-2ef8-472f-bc39-b8f1e1099458",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2ab96cd4-4660-4e93-98e0-88772d1dcd90",
+          "type": "column",
+          "children": [
+            {
+              "id": "8a93e290-b07a-4b42-a71f-4d668084d507",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OF3iW8\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7bfe23c8-e4bf-4210-9e3d-dbecffcacf27",
+      "type": "divider"
+    },
+    {
+      "id": "450c1c8b-5920-4991-a9b8-1e9fdc9f6d0e",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

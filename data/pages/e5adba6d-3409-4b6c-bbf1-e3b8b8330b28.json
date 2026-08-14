@@ -1,0 +1,126 @@
+{
+  "id": "e5adba6d-3409-4b6c-bbf1-e3b8b8330b28",
+  "slug": "theory-of-games-and-economic-behavior",
+  "title": "Theory of Games & Economic Behavior",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/e5adba6d34094b6cbbf1e3b8b8330b28",
+  "createdTime": 1653172410841,
+  "lastEditedTime": 1681314184419,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Theory of Games & Economic Behavior",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/9780691130613-d954752ee8a0.webp",
+  "blocks": [
+    {
+      "id": "1212243a-8aa6-4500-b6d0-152f5a380cf5",
+      "type": "divider"
+    },
+    {
+      "id": "76b1318e-0574-4cd4-a4c5-328db9a3fc32",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "08f74b86-af69-415c-bea5-36302550782c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3b17506e-77fe-4f54-b64d-08e6b02b2008",
+          "type": "column",
+          "children": [
+            {
+              "id": "87fd9fad-133d-460e-85c0-fdb2b18abffd",
+              "type": "paragraph",
+              "html": "<em><strong>Theory of Games &amp; Economic Behavior </strong></em>was written by John Von Neumann &amp; Oskar Morgenstern, originally published by Princeton University Press in 1944."
+            },
+            {
+              "id": "28e4f7a9-1203-4f92-b915-4f1e6845e765",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "63c9abfd-b98b-43aa-a33c-107efbea883f",
+              "type": "quote",
+              "html": "<em>John von Neumann and Oskar Morgenstern conceived a groundbreaking mathematical theory of economic and social organization, based on a theory of games of strategy. Not only would this revolutionize economics, but the entirely new field of scientific inquiry it yielded--game theory--has since been widely used to analyze a host of real-world phenomena from arms races to optimal policy choices of presidential candidates, from vaccination policy to major league baseball salary negotiations. And it is today established throughout both the social sciences and a wide range of other sciences.</em>"
+            }
+          ]
+        },
+        {
+          "id": "131b8c36-2bf1-40ea-8d6d-8de5e9130db5",
+          "type": "column",
+          "children": [
+            {
+              "id": "221a145b-6dad-4fdb-87d3-fc343b637000",
+              "type": "image",
+              "src": "./assets/images/9780691130613-d954752ee8a0.webp",
+              "caption": "",
+              "alt": "9780691130613.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "691f7471-aaf1-473a-b9bb-4e2abe53a471",
+      "type": "divider"
+    },
+    {
+      "id": "34ad0318-a2bb-452e-81e7-9e53a591a5d2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6de95156-3855-4796-a2a5-a2401ecac7fa",
+          "type": "column",
+          "children": [
+            {
+              "id": "f8082433-8b0d-4470-ae7c-4fa6ffb331a1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f67e532c-6589-4b3c-a1a9-57a427114972",
+          "type": "column",
+          "children": [
+            {
+              "id": "240dda2e-63c5-4aa7-bfb3-1e4ef4f0a1cc",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3WbClhk\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b98a3add-2a03-40fe-a588-0e40a8321df0",
+      "type": "divider"
+    }
+  ]
+}

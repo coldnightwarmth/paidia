@@ -1,0 +1,126 @@
+{
+  "id": "c2c72f12-6b65-4faf-aad3-169486cffe9f",
+  "slug": "beyond-donkey-kong",
+  "title": "Beyond Donkey Kong",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Beyond-Donkey-Kong-c2c72f126b654fafaad3169486cffe9f?pvs=21",
+  "createdTime": 1653077429618,
+  "lastEditedTime": 1681311173516,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Beyond Donkey Kong",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fb84361622ac.webp",
+  "blocks": [
+    {
+      "id": "5708d060-5731-4013-adc1-f1fb1e745a47",
+      "type": "divider"
+    },
+    {
+      "id": "a6e62451-db5f-4c12-bf1a-31dca3f2594c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "71aded42-9424-401f-a37f-98d65f26f351",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d7983c96-b7e1-4c56-950a-23e1620bfaa2",
+          "type": "column",
+          "children": [
+            {
+              "id": "1ed17eb2-4e87-428d-889e-698cebc967ac",
+              "type": "paragraph",
+              "html": "<em><strong>Beyond Donkey Kong: A History of Nintendo Arcade Game</strong></em> was written by Ken Horowitz, published by McFarland, August 6, 2020."
+            },
+            {
+              "id": "70aa3cfc-c55e-4ac5-be6e-9d074131a3e5",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "293b64ae-aa36-4c53-b05f-fd29a23885e3",
+              "type": "quote",
+              "html": "<em>Before the enormously successful NES console changed the video game landscape in the 1980s, Nintendo became famous for producing legendary arcade machines like </em>Donkey Kong<em> and</em> Mario Bros.<em> Drawing on original interviews, news reports and other documents, this book traces Nintendo's rise from a small business that made playing cards to the top name in the arcade industry. Twenty-eight game titles are examined in-depth, along with the people and events that defined the company for more than four decades.</em>"
+            }
+          ]
+        },
+        {
+          "id": "354b9248-5dbc-4a77-b930-6d8efa9d6ecd",
+          "type": "column",
+          "children": [
+            {
+              "id": "2c3169ae-fd2e-4ebd-b6c0-7e82acc0baf5",
+              "type": "image",
+              "src": "./assets/images/untitled-fb84361622ac.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d0108789-0441-4ce4-ad74-4cd0cf897697",
+      "type": "divider"
+    },
+    {
+      "id": "470fbc75-521b-4894-84d5-8da2c2c65928",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8e0151e8-7431-40e4-a73f-5401f22694f7",
+          "type": "column",
+          "children": [
+            {
+              "id": "db89eade-dc67-49cf-bd5e-244af065c415",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6abd55fc-39b5-4ef0-8a11-5b480bc65173",
+          "type": "column",
+          "children": [
+            {
+              "id": "b28119d9-a5ae-404f-8077-9b363e5b2c23",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sLA7aY\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "67d23476-f317-4971-93cf-75d4b09bce73",
+      "type": "divider"
+    }
+  ]
+}

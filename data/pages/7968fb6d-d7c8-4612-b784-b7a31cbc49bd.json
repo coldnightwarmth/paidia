@@ -1,0 +1,43 @@
+{
+  "id": "7968fb6d-d7c8-4612-b784-b7a31cbc49bd",
+  "slug": "satoru-iwata-heart-of-a-gamer",
+  "title": "Satoru Iwata - Heart of a Gamer",
+  "icon": "./assets/images/playback-play-gray-3ec25554f6f9.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9bc99208-c610-4b0e-ab09-cf54e5f2d86d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/7968fb6dd7c84612b784b7a31cbc49bd",
+  "createdTime": 1651852588645,
+  "lastEditedTime": 1677090663880,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Satoru Iwata - Heart of a Gamer",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "4d5e3791-6bc2-4d75-a057-a2b7b4ab2352",
+      "type": "paragraph",
+      "html": "by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\"><strong>GDC</strong></a>"
+    },
+    {
+      "id": "7fac0e98-61bc-4573-81d1-1e7c8763ce65",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/RMrj8gdUfCU?feature=oembed",
+      "caption": ""
+    }
+  ]
+}

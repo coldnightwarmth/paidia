@@ -1,0 +1,131 @@
+{
+  "id": "2c7f1bd2-b7cd-495d-b821-c8a7a5a2a45d",
+  "slug": "cutting-the-wire",
+  "title": "Cutting The Wire",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Cutting-The-Wire-2c7f1bd2b7cd495db821c8a7a5a2a45d?pvs=21",
+  "createdTime": 1668456033967,
+  "lastEditedTime": 1681312503698,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Cutting The Wire",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-72aabe86852a.webp",
+  "blocks": [
+    {
+      "id": "a059f50a-2d56-4b92-b906-8873d622fcd8",
+      "type": "divider"
+    },
+    {
+      "id": "3236bb76-246f-4f0d-9211-4415d5c3b6d2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7da8335d-da1b-427a-8525-cadd456550d6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e2dbc3d7-7c08-4fd9-bcff-3a2bc7ec4166",
+          "type": "column",
+          "children": [
+            {
+              "id": "32e69ba8-118f-4e75-9ff5-c9346b4f80c5",
+              "type": "paragraph",
+              "html": "<em><strong>Cutting The Wire: Gaming Prohibition &amp; The Internet</strong></em> was written by David G. Schwartz, published by University of Nevada Press, August 19, 2005."
+            },
+            {
+              "id": "2e958eb3-c666-4387-9ebb-5300a911ca6b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3b9f7569-9c5e-4149-98e5-acebcecb4031",
+              "type": "quote",
+              "html": "<em>The story of the Wire Act and how Robert Kennedy's crusade against the Mob is creating a new generation of Internet gaming outlaws. Gambling has been part of American life since long before the existence of the nation, but Americans have always been ambivalent about it. What David Schwartz calls the pell-mell history of legal gaming in the United States is a testament to our paradoxical desire both to gamble and to control gambling. It is in this context that Schwartz examines the history of the Wire Act, passed in 1961 as part of Attorney General Robert F. Kennedy's crusade against organized crime and given new life in recent efforts to control Internet gambling. </em>Cutting the Wire<em> presents the story of how this law first developed, how it helped fight a war against organized crime, and how it is being used today. The Wire Act achieved new significance with the development of the Internet in the early 1990s and the growing popularity of online wagering …</em>"
+            },
+            {
+              "id": "dd26aa2b-8569-44a6-868a-ee0a8705fd30",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5c089dea-f759-4ab7-a2ef-7fd9d01c9982",
+          "type": "column",
+          "children": [
+            {
+              "id": "c352c8c7-e416-43d1-8e76-8681ce32bb38",
+              "type": "image",
+              "src": "./assets/images/untitled-72aabe86852a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f8d78ea-ac54-4c5f-ae2c-55c95afff05f",
+      "type": "divider"
+    },
+    {
+      "id": "bb4a06c0-e18b-489a-be50-2b7145c8f0d2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a3f5824b-8a7b-4b79-9021-7afc25304f88",
+          "type": "column",
+          "children": [
+            {
+              "id": "de3ac57a-e7f0-468f-8f64-346482c2f38a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "810a8c39-39d2-420b-8011-22499233c7ff",
+          "type": "column",
+          "children": [
+            {
+              "id": "7fac6c1b-11ca-4b43-8c6e-26e67c18ae3b",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Cutting-Wire-Prohibition-Internet-Gambling/dp/0874176204/ref=sr_1_1?crid=32OKEBZ5A2AVI&amp;keywords=Cutting+The+Wire%3A+Gaming+Prohibition+And+The+Internet&amp;qid=1666799335&amp;qu=eyJxc2MiOiItMC4wMSIsInFzYSI6IjAuMDAiLCJxc3AiOiIwLjAwIn0%3D&amp;s=books&amp;sprefix=cutting+the+wire+gaming+prohibition+and+the+internet%2Cstripbooks%2C98&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05736e7b-c3a4-465c-9487-2a292ce69a60",
+      "type": "divider"
+    }
+  ]
+}

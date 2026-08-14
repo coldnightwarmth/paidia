@@ -1,0 +1,194 @@
+{
+  "id": "47b565ac-831d-455f-9c7e-4ade13491563",
+  "name": "Game Engines",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "mob|": {
+      "id": "mob|",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "5b369499-df28-4e5c-bf73-b028083830d2",
+          "value": "Free",
+          "color": "orange"
+        },
+        {
+          "id": "2af7fe18-af81-443c-b52a-7406adc49030",
+          "value": "Premium",
+          "color": "pink"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "1fb76661-8fc0-41e5-8e5c-e1eb71a154f1",
+      "collectionId": "47b565ac-831d-455f-9c7e-4ade13491563",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "52d4a33b-5194-4648-a985-1068e72527e8",
+        "a5623b6c-415e-4ed9-815a-44c4dc5cbc2d",
+        "11ea12c7-6a62-4944-b33c-91f5fcf5ab67",
+        "78880192-353b-43ee-b99f-a5a7383ce995",
+        "d23612be-941e-4225-b5b7-a9c3461471db",
+        "25e572d0-c4d1-4fa7-9db6-69618b31416d",
+        "082da31f-a4fc-41a8-9bd4-60e5ded5b003",
+        "998e8ebb-124b-4343-abb2-10f342a634dc",
+        "11c34068-9718-45eb-ba56-bca588528882",
+        "2bdbfb6f-d372-44df-b9bb-a9e8b5d335a9",
+        "ca926883-235f-4f2f-ac65-c5f209e09680",
+        "628dfce7-400d-4253-a910-c0bcd4c942ff",
+        "9c04cd06-7e6a-4e46-8678-bf1ef1f02763",
+        "2410af0e-6bb2-4678-9b95-664a054d6ab6",
+        "3ae89418-c9b1-41d8-92a2-f581bc53a6e5",
+        "8b16e5e1-ccbe-4d27-a009-688cd8dc17ae",
+        "02542738-2444-452a-8726-2f3d682c72c7",
+        "992890eb-e0c6-4b87-810f-a064387d05e5",
+        "675e6a0b-3dbe-4061-ab64-7ed116c0b3b6",
+        "e6f5e021-24e7-4477-a686-b731f18d02c5",
+        "0c70f8c5-a9d0-4925-833c-d8a140faecfc",
+        "d7830361-6721-43f3-ade4-d3861e3ebc15",
+        "c1dc18e3-fbf6-40d0-80b1-3f6be8a75471",
+        "4ecc26ad-6677-483d-9ad4-bcd23fee180c",
+        "91c70f85-e05a-47fa-8eff-b8f1bb61cc07",
+        "a6bbcfbb-3973-4b5e-8dfe-41b269f84488",
+        "57a6f918-978a-4464-ac3c-fafaee58e257"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "b0900af6-0ead-4d84-a074-abdea5cb098a",
+      "collectionId": "47b565ac-831d-455f-9c7e-4ade13491563",
+      "type": "gallery",
+      "name": "Free",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "cede7ea6-6a01-4b5d-827f-d5c74271732c",
+      "collectionId": "47b565ac-831d-455f-9c7e-4ade13491563",
+      "type": "gallery",
+      "name": "Premium",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "mob|",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

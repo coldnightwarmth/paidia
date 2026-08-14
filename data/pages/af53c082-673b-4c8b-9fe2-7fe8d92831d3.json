@@ -1,0 +1,131 @@
+{
+  "id": "af53c082-673b-4c8b-9fe2-7fe8d92831d3",
+  "slug": "games-of-empire",
+  "title": "Games of Empire",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Games-of-Empire-af53c082673b4c8b9fe27fe8d92831d3?pvs=21",
+  "createdTime": 1651767617176,
+  "lastEditedTime": 1681314308985,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Games of Empire",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3f0afce656fb.webp",
+  "blocks": [
+    {
+      "id": "1ce87d6b-ee55-42b3-af7b-8aa37d83e162",
+      "type": "divider"
+    },
+    {
+      "id": "4e161c26-2a3d-419d-a76a-8a7cd3d65be7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a29c8b41-3298-41c7-a8a0-9ad15bf5ff5c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1f7d1f89-16dd-4037-a60d-fb580e206c75",
+          "type": "column",
+          "children": [
+            {
+              "id": "416deb8c-c59a-4d4e-9197-220746caf880",
+              "type": "paragraph",
+              "html": "<em><strong>Games of Empire: Global Capitalism &amp; Video Games</strong></em> was written by Nick Dyer-Witherford &amp; Greig de Peuter, published by University Of Minnesota Press, December 8, 2009."
+            },
+            {
+              "id": "07614ec4-32b9-45bd-90d8-65cc2b4eaa58",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5ccbbb32-a421-42c4-a11b-55e6a0368414",
+              "type": "quote",
+              "html": "<em>In the first decade of the twenty-first century, video games are an integral part of global media culture, rivaling Hollywood in revenue and influence. No longer confined to a subculture of adolescent males, video games today are played by adults around the world. At the same time, video games have become major sites of corporate exploitation and military recruitment.<br></em>"
+            },
+            {
+              "id": "0c5dd5b3-ee8c-4e4b-bdff-65f2058af83c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "efe68a03-d242-4b89-86f0-07cb7bf868ee",
+          "type": "column",
+          "children": [
+            {
+              "id": "af32c074-4739-466f-9a43-1ab8e4f79c9f",
+              "type": "image",
+              "src": "./assets/images/untitled-3f0afce656fb.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8a4d330-c4c7-4ec9-86ad-60cbdd2ef062",
+      "type": "divider"
+    },
+    {
+      "id": "3fccc70a-3a73-4c86-a135-07b192754b11",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7cc8d93f-b773-453a-bf58-27e73802a01a",
+          "type": "column",
+          "children": [
+            {
+              "id": "954f2037-6b46-4fab-b877-6b47a961d2d0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "284ea912-0584-4174-9bed-051c4ec8042f",
+          "type": "column",
+          "children": [
+            {
+              "id": "5fe0eb63-fba3-4b2f-ac2f-838366befc38",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3N9zkc3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bbaf9ab6-79b9-4d6c-8efd-0acd873a7110",
+      "type": "divider"
+    }
+  ]
+}

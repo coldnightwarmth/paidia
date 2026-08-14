@@ -1,0 +1,146 @@
+{
+  "id": "0ce63184-6bd3-4af7-adf2-b8a98fab5c7d",
+  "slug": "extra-lives",
+  "title": "Extra Lives",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Extra-Lives-0ce631846bd34af7adf2b8a98fab5c7d?pvs=21",
+  "createdTime": 1653076037169,
+  "lastEditedTime": 1681313401439,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Extra Lives",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/7153otvrxnl-bb77073de780.webp",
+  "blocks": [
+    {
+      "id": "424f1abf-be07-4eed-9a3f-48dea6018571",
+      "type": "divider"
+    },
+    {
+      "id": "ec2505a6-bf6e-4584-8c9f-0f05ac8b7d9f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2ff59a1e-9ec4-4bf1-aafd-af9ec1c24127",
+      "type": "columns",
+      "children": [
+        {
+          "id": "31c656ae-f6b8-4824-a8d7-d61b72da0986",
+          "type": "column",
+          "children": [
+            {
+              "id": "823c2938-ccc6-42e7-8938-bb0065b47f36",
+              "type": "paragraph",
+              "html": "<em><strong>Extra Lives: Why Video Games Matter</strong></em> was written by Tom Bissell, originally published by Vintage, June 8, 2010."
+            },
+            {
+              "id": "44456972-f64a-4d6c-9b9d-aae90fd10a77",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "55e30d3b-5206-4f41-aefc-da5fbc525538",
+              "type": "quote",
+              "html": "<em>In </em>Extra Lives<em>, acclaimed writer and life-long video game enthusiast Tom Bissell takes the reader on an insightful and entertaining tour of the art and meaning of video games.<br><br>In just a few decades, video games have grown increasingly complex and sophisticated, and the companies that produce them are now among the most profitable in the entertainment industry. Yet few outside this world have thought deeply about how these games work, why they are so appealing, and what they are capable of artistically. Blending memoir, criticism, and first-rate reportage, </em>Extra Lives<em> is a milestone work about what might be the dominant popular art form of our time.</em>"
+            },
+            {
+              "id": "63a40fad-2583-493e-9007-1dba12e3b181",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "6edc3f44-dce6-43ff-92d4-5eb4a2471e6c",
+          "type": "column",
+          "children": [
+            {
+              "id": "24529300-0c1b-4e44-a709-19a5fda575c1",
+              "type": "image",
+              "src": "./assets/images/7153otvrxnl-bb77073de780.webp",
+              "caption": "",
+              "alt": "7153OTVrXNL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da2f552e-941d-49fa-86ca-2d4dfbd38a24",
+      "type": "divider"
+    },
+    {
+      "id": "e58fa833-d5ae-4a40-a678-a32e1832c211",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5b66c92a-b94d-4038-a3d7-f515989ae28f",
+          "type": "column",
+          "children": [
+            {
+              "id": "437f53e0-1187-4e0b-925d-1fd2ab611607",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3106d125-0ea2-4eac-9e54-175a0104344a",
+          "type": "column",
+          "children": [
+            {
+              "id": "ac2e6461-e5b9-4e5c-8452-f0ab5b472e47",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NmQxhX\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9b258d38-4b3e-449e-bac3-d3d5a94f6157",
+      "type": "divider"
+    },
+    {
+      "id": "bd3be16e-af3b-4e53-bace-f97d7465a82e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "32ff046c-6d4b-4721-8410-4412fa752286",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "e35b9be7-a9c3-4dab-b891-58b315586a53",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

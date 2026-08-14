@@ -1,0 +1,131 @@
+{
+  "id": "aac10a9b-6176-43c3-a656-b6619587dc92",
+  "slug": "the-play-of-animals",
+  "title": "The Play of Animals",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/aac10a9b617643c3a656b6619587dc92",
+  "createdTime": 1659570458194,
+  "lastEditedTime": 1681313077222,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Play of Animals",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8ad11c51ebe4.webp",
+  "blocks": [
+    {
+      "id": "076ab53a-51bf-44b1-bfe8-647de53d19e2",
+      "type": "divider"
+    },
+    {
+      "id": "11cbeff9-f095-4571-8399-2ea1eea84647",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "62efb996-a73c-4385-8ade-a87f46de684c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4c6ed529-1307-42a1-835a-06781aba0cd3",
+          "type": "column",
+          "children": [
+            {
+              "id": "bcf147dd-ed16-450c-aeae-c7cc52e7f424",
+              "type": "paragraph",
+              "html": "<em><strong><strong>The Play of Animals</strong></strong></em> was written by Karl Groos, originally published by D. Appleton &amp; Company in 1898."
+            },
+            {
+              "id": "9f9460c5-90c3-4bf5-a68e-4bc7ef22942e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "75ce44ed-23e8-474d-8792-e326b02e90c4",
+              "type": "quote",
+              "html": "<em>Original version published in 1898. Groos identified play activity as practice for developing the skills and competencies that would enable “higher animals” to master the tasks of life. He also wrote at length about “imitative play” in humans, whereby children expanded on the behaviors of adults. Interestingly, Groos suggested that you could determine how different animals—humans included—might play by understanding the behaviors that would best help a species survive and reproduce. Groos was one of the earliest theorists to make the connection that play had survived evolution, despite being a risky behavior, because it set young animals up to succeed. This concept of imitative play is perhaps the clearest example of how play relates to the establishment of social norms in good and bad ways.</em>"
+            },
+            {
+              "id": "904eed8e-7060-42df-9b2b-10998058e50b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0ba1dc52-ddd0-4005-9b5e-bcdf48eab068",
+          "type": "column",
+          "children": [
+            {
+              "id": "2934d3a5-0747-4e1d-ba0f-a3470c758890",
+              "type": "image",
+              "src": "./assets/images/untitled-8ad11c51ebe4.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53d9fe55-8afd-490e-a1d0-e4956bf4441a",
+      "type": "divider"
+    },
+    {
+      "id": "4646754a-0b48-408c-9280-885957309f80",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c66fde83-de00-4353-8583-26ff1a08b1cd",
+          "type": "column",
+          "children": [
+            {
+              "id": "877115d9-3de6-4097-961b-448e581710b2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5051f6c3-beab-4e20-87ae-bfc9e193874b",
+          "type": "column",
+          "children": [
+            {
+              "id": "d8fe0cbd-296c-4178-8f52-dac13961e38f",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bxvIDK\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c6c2c140-15d6-4d90-a395-0337b031bf52",
+      "type": "divider"
+    }
+  ]
+}

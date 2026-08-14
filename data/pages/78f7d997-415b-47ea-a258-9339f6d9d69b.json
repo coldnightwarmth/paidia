@@ -1,0 +1,131 @@
+{
+  "id": "78f7d997-415b-47ea-a258-9339f6d9d69b",
+  "slug": "glued-to-games",
+  "title": "Glued to Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Glued-to-Games-78f7d997415b47eaa2589339f6d9d69b?pvs=21",
+  "createdTime": 1665085729627,
+  "lastEditedTime": 1681312900738,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Glued to Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f5a4784a33ff.webp",
+  "blocks": [
+    {
+      "id": "7069f38a-e493-4ea3-b37c-0b44687bc158",
+      "type": "divider"
+    },
+    {
+      "id": "e8385ebc-e110-43eb-9abb-0c92efac27ad",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f684342e-af95-466f-894d-3ea478d43bf4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a64055eb-61a5-48c7-9b1c-9876ec563275",
+          "type": "column",
+          "children": [
+            {
+              "id": "702794cc-d8ac-4dc7-a999-19d7bcd4fda7",
+              "type": "paragraph",
+              "html": "<em><strong>Glued to Games: How Video Games Draw Us In &amp; Hold Us Spellbound</strong></em> was written by Scott Rigby &amp; Richard Ryan, published by Praeger, February 18, 2011."
+            },
+            {
+              "id": "91f216cb-ee7d-4f86-9c78-683073c3bc00",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9d6da5f9-09ad-4da9-9867-5acf4f847ff2",
+              "type": "quote",
+              "html": "<em>With video game sales in the billions and strong opinions about their potential and their peril growing louder, </em>Glued to Games: How Video Games Draw Us In &amp; Hold Us Spellbound<em> brings something new to the discussion. It is the first truly balanced review of the psychology of video game motivation and engagement, based on years of research with thousands of gamers. The book addresses both the positive and negative aspects of game play by drawing on significant recent studies and established motivational theory to explore the fundamental drivers of engagement, how games satisfy basic psychological needs, and how an understanding of these factors can be applied to controversial topics such as video game violence and game addiction.<br><br>Filled with examples from popular games and the real experiences of gamers themselves, </em>Glued to Games<em> gets to the heart of gaming's powerful psychological and emotional allure--the benefits as well as the dangers. It gives everyone from researchers to parents to gamers themselves a clearer understanding of the psychology of gaming, while offering prescriptions for healthier, more enjoyable games and gaming experiences.</em>"
+            },
+            {
+              "id": "af3167b5-9fb8-4e77-9fa1-54793f0f1cd6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "6540a5ed-7514-44e0-96a1-6de7ad8065ab",
+          "type": "column",
+          "children": [
+            {
+              "id": "dddcb98b-2fe5-4227-9f5f-dee1c42f49be",
+              "type": "image",
+              "src": "./assets/images/untitled-f5a4784a33ff.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "830ea6f5-cb8e-40a6-8ad0-c991fc4afd88",
+      "type": "divider"
+    },
+    {
+      "id": "e42d8772-6333-4ad7-bcf7-0e4e21c1d133",
+      "type": "columns",
+      "children": [
+        {
+          "id": "03056c54-f368-44a2-ad24-9f7d78963d45",
+          "type": "column",
+          "children": [
+            {
+              "id": "9f655047-c013-428a-a8b8-e44d8697f7e7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c253aff5-33e4-446f-b63f-788fbbe6e5dc",
+          "type": "column",
+          "children": [
+            {
+              "id": "e79fc93d-fc92-40b4-9fcc-0a4fe859e3df",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3V5LrvA\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4d6871b9-f811-4101-bc10-0bd00992b3c4",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "cf5e36d7-c3df-4f06-93c1-a11199801cd7",
+  "slug": "about",
+  "title": "About",
+  "icon": "ℹ️",
+  "cover": "",
+  "type": "page",
+  "parentId": "db5dc169-16f5-45b1-9f37-ba22a0922a7c",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/cf5e36d7c3df4f0693c1a11199801cd7",
+  "createdTime": 1711198564309,
+  "lastEditedTime": 1711198564309,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "About"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "1d7e0256-b7b3-494e-93b1-478545d2ae8e",
+      "type": "subheader",
+      "html": "About this Community",
+      "anchorId": "about-this-community"
+    },
+    {
+      "id": "321c2611-c48b-450f-8673-44c7f0e59d46",
+      "type": "divider"
+    },
+    {
+      "id": "f9c6efed-30f3-4da2-babd-4d941312c7cd",
+      "type": "paragraph",
+      "html": "The <strong>We Can Fix It In UI</strong> Discord was formed in March 2019, as a result of a couple UI Designer friends getting together to play some games, and wanting a way to stay in touch. "
+    },
+    {
+      "id": "bedd7b16-9417-4dfd-b382-cb69286b9b54",
+      "type": "paragraph",
+      "html": "Today, the community boasts over 1,900 members from around the world, united by a common passion for Game UI."
+    },
+    {
+      "id": "b8d61e15-2669-4fec-b4db-47a9e7609153",
+      "type": "subheader",
+      "html": "About This Wiki",
+      "anchorId": "about-this-wiki"
+    },
+    {
+      "id": "ee70f629-d364-4e87-91ef-4009e3ae98f3",
+      "type": "divider"
+    },
+    {
+      "id": "76276898-3665-4777-a877-1c2288a4d353",
+      "type": "paragraph",
+      "html": "The site you are on now was introduced in September 2020 as a way to better capture the incredible list of resources we have accrued over time, but have always struggled to maintain easy-to-find records of."
+    },
+    {
+      "id": "b97fa852-ba0b-4996-ae40-6b134f4c3b76",
+      "type": "subheader",
+      "html": "Wiki vs Discord Content",
+      "anchorId": "wiki-vs-discord-content"
+    },
+    {
+      "id": "e0dff6e1-408d-46b8-872f-58b0803c3744",
+      "type": "divider"
+    },
+    {
+      "id": "0c371762-4b47-4f59-b97b-1641c119a613",
+      "type": "paragraph",
+      "html": "The most straightforward way to think about what kind of content goes where, is that the Discord is mostly focused on short-term relevance and/or conversational content, whereas the Wiki is intended to store the more long-term, 'timeless' content. "
+    },
+    {
+      "id": "1b9f7d6c-fcb6-419e-b97b-71918404e87c",
+      "type": "subheader",
+      "html": "FAQ",
+      "anchorId": "faq"
+    },
+    {
+      "id": "028377c9-1ea2-4740-a63a-e6a071f9c856",
+      "type": "divider"
+    },
+    {
+      "id": "7a157986-61e1-409a-9f0d-b0e23b922c7c",
+      "type": "quote",
+      "html": "I'm not part of the Community yet. How can I get in and join the fun?"
+    },
+    {
+      "id": "e12eaa20-143f-4a0f-a916-a07c8543fad9",
+      "type": "paragraph",
+      "html": "Please send a message to one of the members of our ‣."
+    },
+    {
+      "id": "5cf66c94-5741-4a31-b4cc-d748ab38ba83",
+      "type": "paragraph",
+      "html": "<em>Please note that for the safety of our closed community, that we operate under strict admission guidelines and that entry is not guaranteed.</em>"
+    },
+    {
+      "id": "3cb6a15e-6ff3-4445-a4f5-38a5bcd8efaa",
+      "type": "quote",
+      "html": "How can I request to get something added, corrected, or removed from the Wiki?"
+    },
+    {
+      "id": "22d9ec19-e71a-4469-bbc0-b760674e1da0",
+      "type": "paragraph",
+      "html": "Please message Dorian Stewart on Discord."
+    },
+    {
+      "id": "b9b4c14e-e60b-4676-83ed-da7495f35fff",
+      "type": "subheader",
+      "html": "Content Usage",
+      "anchorId": "content-usage"
+    },
+    {
+      "id": "1c0c3dde-bd03-4671-b44a-9ebcac437420",
+      "type": "divider"
+    },
+    {
+      "id": "a0402869-3916-4f4f-9e2c-277875033c72",
+      "type": "callout",
+      "html": "<strong>You may use, share, remix, adapt, and/or build upon any of the content found on this site, in both commercial and non-commercial settings, as long as done for </strong><u><strong>free</strong></u><strong>.<br></strong>Although we appreciate a hat-tip or a backlink, you are also free to do the above without giving credit.",
+      "icon": "✅",
+      "children": []
+    },
+    {
+      "id": "23b07969-bbe5-461d-9097-fbb678cd9ba2",
+      "type": "callout",
+      "html": "Without a formal, written authorisation from a member of the ‣:<br><strong>You </strong><u><strong>may not sell</strong></u><strong> any products or services containing content found on this site, or containing content </strong><em><strong>derived</strong></em><strong> from the content found on this site.</strong>",
+      "icon": "❌",
+      "children": []
+    },
+    {
+      "id": "59eacb0d-86e9-4265-b08b-b1e7a9bb59af",
+      "type": "callout",
+      "html": "<strong>If you do attribute </strong><strong><em>We Can Fix It In UI</em></strong><strong>, or any of its members as content authors, the content must be presented and used 'as-is'.<br></strong>In other words, you may not create derivative content that states the <em>original</em> author as the author of the the <em>modified</em> version of the content.",
+      "icon": "⚠️",
+      "children": []
+    },
+    {
+      "id": "b9bd9d0b-e1f4-4212-b0c7-1c6dbb2e9622",
+      "type": "collection_view",
+      "collectionId": "7445f841-c6ab-4bf4-a3b7-5251f2838ad6",
+      "viewIds": [
+        "db26b895-fce9-4e35-9948-c12bb01331a0"
+      ],
+      "title": ""
+    },
+    {
+      "id": "e6c8d56d-0bb4-447e-9227-1badd11381f6",
+      "type": "subheader",
+      "html": "Colophon",
+      "anchorId": "colophon"
+    },
+    {
+      "id": "fd909919-b028-40d6-850c-986f54e7e8ee",
+      "type": "divider"
+    },
+    {
+      "id": "7ace5f05-65b8-4baa-9d77-c277f2a4b6f0",
+      "type": "paragraph",
+      "html": "💙 Special thanks to our ‣."
+    },
+    {
+      "id": "8dda693a-e428-40d0-8bdb-1473856707f6",
+      "type": "paragraph",
+      "html": "🤖 Domain sponsored by <a href=\"http://onewithmachines.com/\" target=\"_blank\" rel=\"noreferrer\">One With Machines</a>."
+    }
+  ]
+}

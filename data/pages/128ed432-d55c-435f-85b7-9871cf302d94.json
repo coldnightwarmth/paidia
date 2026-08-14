@@ -1,0 +1,43 @@
+{
+  "id": "128ed432-d55c-435f-85b7-9871cf302d94",
+  "slug": "magic-the-gathering-turing-complete-a-demonstration",
+  "title": "Magic: The Gathering - Turing Complete - a Demonstration",
+  "icon": "./assets/images/playback-play-gray-3ec25554f6f9.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2910a2cc-cf7c-4db4-98cc-263f4c004dfc",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/128ed432d55c435f85b79871cf302d94",
+  "createdTime": 1651850626036,
+  "lastEditedTime": 1677090859099,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Magic: The Gathering - Turing Complete - a Demonstration",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "20561870-ac50-46fd-ba59-1d2a3384c580",
+      "type": "paragraph",
+      "html": "by <a href=\"https://www.youtube.com/channel/UCCfLdWEm9iYZeFa9I4DZlJg\" target=\"_blank\" rel=\"noreferrer\"><strong>David Coffron</strong></a>"
+    },
+    {
+      "id": "d642b8fb-1620-4961-b6bf-5ab339beaf32",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/HHimZMMVbx8?feature=oembed",
+      "caption": ""
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "07de02e2-40a4-4059-aec2-6a130edb5ed5",
+  "slug": "charles-babbage",
+  "title": "Charles Babbage",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0a8568a2-35a2-4fcd-8817-4cfd69f98bf0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/07de02e240a44059aec26a130edb5ed5",
+  "createdTime": 1668003212324,
+  "lastEditedTime": 1681329241975,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Charles Babbage",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e232a2606856.webp",
+  "blocks": [
+    {
+      "id": "8d922a78-79ea-4291-84da-4f94f8655a25",
+      "type": "divider"
+    },
+    {
+      "id": "3a031e93-006f-4b04-9838-49cd94e6a6c6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "71173e3b-1db7-4cf1-96b7-6bcf7f594127",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5211cf5a-18b9-4880-9716-20e0fe58e6dc",
+          "type": "column",
+          "children": [
+            {
+              "id": "227ef9a3-673b-4a0f-8e16-eb2b15a243b3",
+              "type": "paragraph",
+              "html": "<strong>Charles Babbage  </strong>(<em>Born xx, xxxx – </em>) is"
+            },
+            {
+              "id": "3cc6c53d-89cc-4b9d-9001-8421d4261b12",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "838aa3bc-f2cd-414e-a5d3-cc5dc8eff988",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "76ccde5a-124a-4949-928d-e035796095a7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d0429b90-699f-490c-91fc-d8bed72a4635",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "0fa06f05-c7cd-43a3-9538-9091af3779f6",
+          "type": "column",
+          "children": [
+            {
+              "id": "90ecde2b-bf45-4937-9c63-721ba1002e7d",
+              "type": "image",
+              "src": "./assets/images/untitled-e232a2606856.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a1fd83b-9122-4528-871e-1afd35989341",
+      "type": "divider"
+    },
+    {
+      "id": "fed1a7be-94ce-4541-8a41-d75d87971e04",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "470918ce-77a9-4745-bffd-7975a933392e",
+      "type": "paragraph",
+      "html": "<a href=\"#/difference-engine\">The Difference Engine</a>"
+    },
+    {
+      "id": "6a3b885b-24ea-4fb4-bd76-b2dcc4d92e86",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bcdbf8c9-03b6-4893-a10e-20b5302b5bc4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5630285c-f4c2-4fcd-8617-0e375355a3c2",
+      "type": "divider"
+    },
+    {
+      "id": "d512fe39-a139-41a6-89ef-0ca30f1411cf",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

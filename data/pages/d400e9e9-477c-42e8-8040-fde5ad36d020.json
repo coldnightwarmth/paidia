@@ -1,0 +1,109 @@
+{
+  "id": "d400e9e9-477c-42e8-8040-fde5ad36d020",
+  "slug": "dave-arneson",
+  "title": "Dave Arneson",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "f9d064b5-05b3-4706-badb-4050ffd4d3cf",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d400e9e9477c42e88040fde5ad36d020",
+  "createdTime": 1666475398197,
+  "lastEditedTime": 1681329149239,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Dave Arneson"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-16c1ef1d2fa9.webp",
+  "blocks": [
+    {
+      "id": "0053ecaf-5ad2-496a-803b-471f964864a1",
+      "type": "divider"
+    },
+    {
+      "id": "9b37efbf-df58-4567-8fee-1d01804468e3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3a37e14e-4db5-4349-83d4-fe9f0362790b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ab195dd0-c76b-4f72-bc1a-4f632ebaa783",
+          "type": "column",
+          "children": [
+            {
+              "id": "a6ce4e87-61ef-49a0-b4fa-43032e6c0c66",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1ae8747f-63c2-4ec8-84f6-d171246e88c4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "bc2c932e-5797-48f7-a315-366383102409",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "316384b2-f7e6-47c4-9d57-896b71e38fd0",
+          "type": "column",
+          "children": [
+            {
+              "id": "97cbe390-51ff-42d5-8c86-133b23556a7a",
+              "type": "image",
+              "src": "./assets/images/untitled-16c1ef1d2fa9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29b30757-2742-4071-8974-8edd419ed559",
+      "type": "divider"
+    },
+    {
+      "id": "5594a2cb-fd1a-4b72-9824-488a1c9d8f1d",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "c30b4dfd-d0f6-4ddd-afc3-185a1e1c5158",
+      "type": "paragraph",
+      "html": "Dungeons &amp; Dragons"
+    },
+    {
+      "id": "28f8a85f-2fc8-4a62-a2f3-2532a421bad5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "004f561e-6af4-4259-b69e-f0ff4ded267a",
+      "type": "divider"
+    },
+    {
+      "id": "19475d50-4b5c-4e61-adb7-c8330e63342b",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

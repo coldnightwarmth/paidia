@@ -1,0 +1,131 @@
+{
+  "id": "2e0ef928-863b-4f24-a9eb-d514ebc1da02",
+  "slug": "alone-on-the-wall",
+  "title": "Alone on the Wall",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Alone-on-the-Wall-2e0ef928863b4f24a9ebd514ebc1da02?pvs=21",
+  "createdTime": 1668455767445,
+  "lastEditedTime": 1681310810517,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Alone on the Wall",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6f55deba0abc.webp",
+  "blocks": [
+    {
+      "id": "377786e7-4e9e-4e45-aafa-a5a4bb08e9ee",
+      "type": "divider"
+    },
+    {
+      "id": "ac607bcc-366a-4201-82da-90540d47c81c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "56336600-88cf-4895-a776-3c16f0f88b09",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c9697c85-34a1-4b1f-b983-455026efaba7",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd427858-b8a1-4de5-94e3-59d5e84e96f6",
+              "type": "paragraph",
+              "html": "<em><strong>Alone on the Wall</strong></em> was written by Alex Honnold with David Roberts, published by W. W. Norton &amp; Company, November 9, 2015."
+            },
+            {
+              "id": "6d09901c-b640-4125-9ea1-9d3f02302ef8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "008fd56c-bf4d-4999-b90d-04569b781159",
+              "type": "quote",
+              "html": "<em>On June 3rd, 2017, Alex Honnold became the first person to free solo Yosemite's El Capitan―to scale the wall without rope, a partner, or any protective gear―completing what was described as &quot;the greatest feat of pure rock climbing in the history of the sport&quot; (</em>National Geographic<em>) and &quot;one of the great athletic feats of any kind, ever&quot; (</em>New York Times<em>). Already one of the most famous adventure athletes in the world, Honnold has now been hailed as &quot;the greatest climber of all time&quot; (</em>Vertical<em> magazine).<br><br></em>Alone on the Wall<em> recounts the most astonishing achievements of Honnold’s extraordinary life and career, brimming with lessons on living fearlessly, taking risks, and maintaining focus even in the face of extreme danger. Now Honnold tells, for the first time and in his own words, the story of his 3 hours and 56 minutes on the sheer face of El Cap, which Outside called &quot;the moon landing of free soloing…a generation-defining climb. Bad ass and beyond words…one of the pinnacle sporting moments of all time.&quot;</em>"
+            },
+            {
+              "id": "1a05ed41-5d89-4d44-b469-1b9806b05bc5",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ccce3d2c-9538-420a-91fe-1d4325d68ba4",
+          "type": "column",
+          "children": [
+            {
+              "id": "cd164f77-2564-4549-9862-ea9197907f07",
+              "type": "image",
+              "src": "./assets/images/untitled-6f55deba0abc.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "50b7e70b-c4c5-412a-a0ea-9e867341ebbd",
+      "type": "divider"
+    },
+    {
+      "id": "d3484d7a-b7f3-4b5e-94a5-9eb24c751698",
+      "type": "columns",
+      "children": [
+        {
+          "id": "268e5fd4-c487-45f5-9fda-f2f9d14a7bf7",
+          "type": "column",
+          "children": [
+            {
+              "id": "fc4c05ae-14d7-4f52-b56f-f65a7bb06c7f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "30a784bc-107f-43d8-851e-6ad1bcea498d",
+          "type": "column",
+          "children": [
+            {
+              "id": "9f69c91d-caaa-4da4-9e9b-fa0ffb6ea19c",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Alone-Wall-Expanded-Alex-Honnold/dp/0393356140/ref=sr_1_1?crid=3RMH1N7DLLA9D&amp;keywords=alone+on+the+wall&amp;qid=1666813976&amp;qu=eyJxc2MiOiIyLjc5IiwicXNhIjoiMS44MyIsInFzcCI6IjIuMDEifQ%3D%3D&amp;s=books&amp;sprefix=alone+on+the+wall%2Cstripbooks%2C146&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7d324ba-54a8-4a58-af37-f5099a919afd",
+      "type": "divider"
+    }
+  ]
+}

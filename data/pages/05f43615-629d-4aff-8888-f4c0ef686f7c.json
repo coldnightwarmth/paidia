@@ -1,0 +1,131 @@
+{
+  "id": "05f43615-629d-4aff-8888-f4c0ef686f7c",
+  "slug": "my-life-according-to-rock-band",
+  "title": "My Life According to Rock Band",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/My-Life-According-to-Rock-Band-05f43615629d4aff8888f4c0ef686f7c?pvs=21",
+  "createdTime": 1673293268138,
+  "lastEditedTime": 1681312166082,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "My Life According to Rock Band",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-ffc3da4d924b.webp",
+  "blocks": [
+    {
+      "id": "2aa74729-d7b3-497c-a2ef-c63db7ce3560",
+      "type": "divider"
+    },
+    {
+      "id": "9e3df4b1-fddd-4896-99ee-609d1e5fe09f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d911b84e-e555-4605-9ae5-1b27492a6dbb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fea1013a-533c-4cb8-8bda-2829ce79d626",
+          "type": "column",
+          "children": [
+            {
+              "id": "f9914fe3-27dd-461d-94f2-e3b84569b3fe",
+              "type": "paragraph",
+              "html": "<em><strong>My Life According to Rock Band: Or Fifty-Eight Short Stories About Life, Love, &amp; the Greatest Video Game Ever Made</strong></em> was written by Cade Wiberg, published by Belle Isle Books, May 30, 2022."
+            },
+            {
+              "id": "27033f73-92e9-4455-9bc2-e90669f3abf4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f27fe8d1-cb1d-40d5-bc41-6c2260b2dcc0",
+              "type": "quote",
+              "html": "<em>When fifteen-year-old Cade first laid eyes on the box that held the video game </em>Rock Band <em>under his family Christmas tree, he could see his whole future: the face-melting guitar solos he'd play to stadiums of screaming fans, the fame and glory that would follow him like an entourage, the girls that would beg for a night with Cade the Rock God . . .<br><br>But that's not exactly how it went.<br><br>Instead of a packed stadium it was a packed college apartment, and girls didn't exactly beg him, although he did find himself in the highs and lows of love a few times. He didn't get to play to thousands of screaming fans either, but the few real friends he found along the way, well . . . that part turned out to be just as epic.<br><br>With a story for each of the fifty-eight songs available on the original Rock Band, Cade Wiberg dives headfirst into the brutal and beautiful years that shape us into the people we become, and the music that gets us through it all.</em>"
+            },
+            {
+              "id": "2cd3125e-b650-4e4d-9b52-d79262b57427",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c96b178c-6e73-425a-88cc-bc765d57f7da",
+          "type": "column",
+          "children": [
+            {
+              "id": "9b71d03c-0b40-4fa8-9540-67088fdfd1ce",
+              "type": "image",
+              "src": "./assets/images/untitled-ffc3da4d924b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "285d4291-f2bf-4922-b0a4-f15f3fdbd150",
+      "type": "divider"
+    },
+    {
+      "id": "a2806548-5f18-4e81-99d3-2fd8a869e2e9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "eebac0af-549d-4583-bef4-74522c1a0e63",
+          "type": "column",
+          "children": [
+            {
+              "id": "1794f7fa-7606-454d-847b-451dc92882f2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fc59dd44-82b8-49e7-b751-8e8e827a8d41",
+          "type": "column",
+          "children": [
+            {
+              "id": "7e6e3f49-31e5-41e6-ac41-7f04ecdebc62",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Life-According-Rock-Band-Fifty-Eight/dp/1953021697\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40b726a0-631b-493f-94f6-b41e6f4465dd",
+      "type": "divider"
+    }
+  ]
+}

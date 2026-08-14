@@ -1,0 +1,131 @@
+{
+  "id": "69a1afb1-0102-4d66-a710-d368f14627d5",
+  "slug": "japanese-role-playing-games",
+  "title": "Japanese Role-Playing Games",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Japanese-Role-Playing-Games-69a1afb101024d66a710d368f14627d5?pvs=21",
+  "createdTime": 1657238552621,
+  "lastEditedTime": 1681313565059,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Japanese Role-Playing Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81gf3kifoll-49c8ba34a269.webp",
+  "blocks": [
+    {
+      "id": "c6d53cdd-c43c-4c3d-86a3-30da33b33671",
+      "type": "divider"
+    },
+    {
+      "id": "dc0d8a5a-6c97-4786-9da1-ec910f424cda",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2fdc0cde-8c2a-4702-82fa-7701e7c68b82",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2a752a93-8dc5-4c53-b47b-e40d57e1f5d8",
+          "type": "column",
+          "children": [
+            {
+              "id": "281d8c5d-4ba7-438f-95b8-fcd46730aaea",
+              "type": "paragraph",
+              "html": "<em><strong>Japanese Role-Playing Games: Genre, Representation, and Liminality in the JRPG</strong></em> is a collection of essays edited by Rachael Hutchinson &amp; Jérémie Pelletier-Gagnon, published by Lexington Books, April 14, 2022."
+            },
+            {
+              "id": "0f9c5eba-c428-48d6-8a5b-881b92e8bbf5",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3058b3a1-5606-4776-8fbd-3c0bd09f7e38",
+              "type": "quote",
+              "html": "<em>Japanese Role-playing Games: Genre, Representation, and Liminality in the JRPG examines the origins, boundaries, and transnational effects of the genre, addressing significant formal elements as well as narrative themes, character construction, and player involvement. Contributors from Japan, Europe, North America, and Australia employ a variety of theoretical approaches to analyze popular game series and individual titles, introducing an English-speaking audience to Japanese video game scholarship while also extending postcolonial and philosophical readings to the Japanese game text. In a three-pronged approach, the collection uses these analyses to look at genre, representation, and liminality, engaging with a multitude of concepts including stereotypes, intersectionality, and the political and social effects of JRPGs on players and industry conventions. Broadly, this collection considers JRPGs as networked systems, including evolved iterations of MMORPGs and card collecting “social games” for mobile devices. Scholars of media studies, game studies, Asian studies, and Japanese culture will find this book particularly useful.</em>"
+            },
+            {
+              "id": "f3a11bd3-d5c6-4f07-8e41-6335b9499029",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b21a617d-f33a-4ea8-9644-6ca456c66c03",
+          "type": "column",
+          "children": [
+            {
+              "id": "97e5f6c1-69be-475e-9923-c1c9b679068b",
+              "type": "image",
+              "src": "./assets/images/81gf3kifoll-49c8ba34a269.webp",
+              "caption": "",
+              "alt": "81GF3kiFOLL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "63ac8016-66ec-4e95-a95d-ebdb3ed65f04",
+      "type": "divider"
+    },
+    {
+      "id": "0bcbe13f-5c26-4846-a069-dd683dd2b8df",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cc1d30e0-6ede-4858-8fc7-c54571d04b2d",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd145f4e-9857-4088-b7b7-ab7efa85fb05",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1e6aa55a-e124-4045-815c-ea0267645b14",
+          "type": "column",
+          "children": [
+            {
+              "id": "1fe7ad25-522a-4381-a71b-c133b3dc8882",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NKx7DW\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8507c8a7-0286-4619-b324-3d2998cbc778",
+      "type": "divider"
+    }
+  ]
+}

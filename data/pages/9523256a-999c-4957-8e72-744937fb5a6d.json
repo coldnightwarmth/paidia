@@ -1,0 +1,131 @@
+{
+  "id": "9523256a-999c-4957-8e72-744937fb5a6d",
+  "slug": "games-learning-and-society",
+  "title": "Games, Learning, & Society",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Games-Learning-Society-9523256a999c49578e72744937fb5a6d?pvs=21",
+  "createdTime": 1651976226589,
+  "lastEditedTime": 1681314306167,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Games, Learning, & Society",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-481319555bfc.webp",
+  "blocks": [
+    {
+      "id": "98608343-1d77-4597-baa5-971959d5093b",
+      "type": "divider"
+    },
+    {
+      "id": "0018f890-6869-4719-b36a-a1c1ead08d04",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "068e8eea-159d-4938-b578-e312d665fb5b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6a2fb046-4d0c-4285-8af5-5b6328e4a656",
+          "type": "column",
+          "children": [
+            {
+              "id": "b56b7756-514e-4ff8-9ca3-3bdc32ec3822",
+              "type": "paragraph",
+              "html": "<em><strong>Games, Learning &amp; Society: Learning &amp; Meaning in the Digital Age</strong></em> is a collection of essays edited by Constance Steinkuehler Et al., published by Cambridge University Press, June 11, 2012."
+            },
+            {
+              "id": "58dbd416-8f82-43da-944c-1892d64ff271",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3fab5986-aa83-4bb9-b5ba-a9ac75da715c",
+              "type": "quote",
+              "html": "<em>This volume is the first reader on videogames and learning of its kind. Covering game design, game culture, and games as 21st century pedagogy, it demonstrates the depth and breadth of scholarship on games and learning to date. The chapters represent some of the most influential thinkers, designers, and writers in the emerging field of games and learning – including James Paul Gee, Soren Johnson, Eric Klopfer, Colleen Macklin, Thomas Malaby, Bonnie Nardi, David Sirlin, and others. Together, their work functions both as an excellent introduction to the field of games and learning and as a powerful argument for the use of games in formal and informal learning environments in a digital age.</em>"
+            }
+          ]
+        },
+        {
+          "id": "304db050-f31b-4f1f-8422-6a48e8a87357",
+          "type": "column",
+          "children": [
+            {
+              "id": "fc3b276d-48a4-4945-bacc-c07fb34a7f22",
+              "type": "image",
+              "src": "./assets/images/untitled-481319555bfc.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ff1a76a-957b-4fbb-ab38-a56a36325707",
+      "type": "divider"
+    },
+    {
+      "id": "5bc19bc6-b61e-4813-a59e-b9b171ed0b53",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e9cbb10d-37ec-4c35-b533-3adb405f776e",
+          "type": "column",
+          "children": [
+            {
+              "id": "435b079f-c968-4c58-aa97-a6c9a6728433",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3fd3f5f3-5899-4255-92fd-fa617ba5a559",
+          "type": "column",
+          "children": [
+            {
+              "id": "b176aa61-d216-4ce6-9e9e-1f61f4f7d16b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/38q8m11\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5fa91b99-6e42-4ea4-a86b-33cce4c3ce03",
+      "type": "divider"
+    },
+    {
+      "id": "fef8ce6a-4f50-456d-b960-33e90e294d4b",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

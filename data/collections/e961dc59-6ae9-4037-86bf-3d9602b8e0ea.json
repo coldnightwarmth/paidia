@@ -1,0 +1,315 @@
+{
+  "id": "e961dc59-6ae9-4037-86bf-3d9602b8e0ea",
+  "name": "Accessibility & Inclusivity Insights",
+  "schema": {
+    "C=D{": {
+      "id": "C=D{",
+      "name": "URL",
+      "type": "url",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "KU^N": {
+      "id": "KU^N",
+      "name": "Tags",
+      "type": "multi_select",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": [
+        {
+          "id": "834429ab-0a9f-4107-a583-b7db7ef98394",
+          "value": "Text",
+          "color": "brown"
+        },
+        {
+          "id": "6e975809-4ad3-463f-9eed-bfc446eb3354",
+          "value": "Video",
+          "color": "green"
+        },
+        {
+          "id": "2c56d12f-1380-4980-8dfd-bb464c4e1b4c",
+          "value": "Audio",
+          "color": "purple"
+        },
+        {
+          "id": "f1044434-de6c-40ae-9309-21755b58f9bc",
+          "value": "⭐ Editor's Choice",
+          "color": "yellow"
+        }
+      ]
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "b506308f-b3c6-4e72-b5b6-83d2d9106534",
+      "collectionId": "e961dc59-6ae9-4037-86bf-3d9602b8e0ea",
+      "type": "gallery",
+      "name": "All",
+      "pagePointerId": null,
+      "pageSort": [
+        "c25f6afe-e991-4d3c-be01-a18fc977fc67",
+        "7d34b537-d0f2-4e98-8df1-55506e898118",
+        "a4297dfa-1158-447b-acd9-6dff69a46985",
+        "01537802-9494-4587-b409-6320ba7e68e9",
+        "4beceaf4-da5e-4827-8fe4-d299dfad63e7",
+        "b543043c-acff-419d-8932-eb1332681665",
+        "0992ae20-f44f-4edd-9779-08a57dfb15a9",
+        "62b63880-999b-4b8f-94ec-cc0e5a73556b",
+        "b9661b4c-e9d1-4b89-902d-4ca43ca4fccf",
+        "f2ef6498-471a-4159-903c-7bec0b5b1a80",
+        "a970ba7f-b059-478d-a5cf-97bd85a3991c",
+        "7296f228-2ba2-48c2-8dc3-05d993522729",
+        "c811816a-c038-401e-9ab1-bae527cac240",
+        "a933053a-c5f3-4034-af94-b267ddee04dd",
+        "eb2572c6-5b79-4b88-9078-a777b7ecad1b",
+        "f6a656b6-1e54-4e81-a100-d7661b265561",
+        "3bcb4a4a-c3a3-4224-a357-a81a5ab9faf6",
+        "08833eaf-38a1-443a-bad8-c17d60b9457a",
+        "6ca1ca69-9893-41d1-9b92-b035679d0ec3",
+        "b03db1b5-3dd8-4d2d-a681-9bd9822a6c60",
+        "aa10a488-bd02-498d-8e15-3f1f4c5ac99b",
+        "f28f9b90-d8fc-46a5-8dda-f9601717fe22",
+        "b4cf57a8-b4c1-4ea0-a73d-babc8bbd8cdd",
+        "8f4a4499-ff2b-4252-ae1b-e587285c877b",
+        "0c864f2d-a5cc-4d1b-b3a7-d7de70370794",
+        "a2b3c7fb-ef25-43bd-8c9a-034af179ac96",
+        "4dba71bd-a8bb-4af7-9ea4-a1462b58d1ba",
+        "85b2eadc-ecb0-479b-9d89-91f4fdd05ed9",
+        "3a4d8c60-5ae4-442e-b89a-62526a548d58",
+        "6ce0c0a2-553d-4bd3-b337-e939909c507e",
+        "8d42eb1a-6875-4195-a7f0-056dbfc5b759",
+        "ac67deb6-4b2e-46fa-adb0-07dd6d32839f",
+        "ee9c1a88-3083-4846-9de3-758b81059d31",
+        "1363e7c5-89f7-43cb-944b-5fe906159cdd",
+        "66ed244f-0068-4b4d-88f3-a8bb15c8e691",
+        "352634ce-15c2-4d96-84e6-9ec403a8b0c6",
+        "b5216b66-7bc1-4476-862a-07e30bba3254",
+        "82e16c90-9c70-4524-9a31-b93f77b0ff2d",
+        "9496d30f-27a6-4c78-a9ab-513e754d969b",
+        "4c48c51e-7b51-4a40-af1a-1666a57a828b",
+        "4680525d-2b71-4b6a-9317-34db72d7f349",
+        "f5a39178-a6e6-4dc8-867d-d7b589ec175d",
+        "699ed997-650f-4b07-bf0f-00ded1299299",
+        "065f233a-86c8-4b68-b6aa-e191122c5e1d",
+        "45b37550-3527-429f-82d2-0e9e2ec6af4b",
+        "0a93c3ba-54b5-4d44-acc3-7fcf655ed651",
+        "e5128579-3725-4452-a638-4766d0cc6769",
+        "2d838a72-87ba-4be8-b10c-62c1f0c4ca5a",
+        "e69a99dc-4958-40d7-9254-e101de23749f",
+        "16bc7d83-a02d-43ef-a8bb-253b16c1b324",
+        "c1a9c348-ae97-4dc0-9726-c7c1243d3d6b",
+        "0746a87f-c6c6-4699-b5aa-d32ee2512970",
+        "70a920cb-1fce-4633-b9d1-014fc3b34c8a",
+        "9fd3d4e7-0626-496f-bd1e-e5d89aa3700a",
+        "a1ebe9ac-cd00-4f32-bccb-a22cb654a878",
+        "a1f53ce1-e569-4ab3-a9c1-7f8afd3bf843",
+        "ef7e38df-aca6-49b3-9189-97897892ae34",
+        "f2383c7e-4b78-40c9-8bda-4d80721cee02",
+        "1bed7644-dee9-4b0a-a985-444d4540d853",
+        "b4ed0b66-2a4e-4396-b8de-91df48bb5dcf",
+        "53e4cdc1-90e5-4dec-8d8e-e441badb2251",
+        "2de3f102-e2bb-478e-884c-44c5a3f9f990",
+        "763302d3-cda5-4765-9267-758ea6ef3394",
+        "eb8bcebd-975b-4a41-9e37-b0f2dbe0de93",
+        "f2dee307-fae7-4af5-8998-4f72ac68e1da",
+        "3e853712-f1f8-4577-bae0-cede4e8c527d"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": "cover"
+    },
+    {
+      "id": "882553d7-4afb-4edc-ad69-03578c297503",
+      "collectionId": "e961dc59-6ae9-4037-86bf-3d9602b8e0ea",
+      "type": "gallery",
+      "name": "Text",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "3f893a19-8e88-4e7e-b2a3-041800065d70",
+      "collectionId": "e961dc59-6ae9-4037-86bf-3d9602b8e0ea",
+      "type": "gallery",
+      "name": "Video",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "6491f345-3a98-48cb-b916-0d2d7b1447ab",
+      "collectionId": "e961dc59-6ae9-4037-86bf-3d9602b8e0ea",
+      "type": "gallery",
+      "name": "Audio",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": ":Crd",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    },
+    {
+      "id": "a4c7a988-76f8-4713-ac36-35783a393446",
+      "collectionId": "e961dc59-6ae9-4037-86bf-3d9602b8e0ea",
+      "type": "gallery",
+      "name": "⭐ Editor's Choice",
+      "pagePointerId": null,
+      "pageSort": [],
+      "propertyFilters": [],
+      "tableProperties": [],
+      "galleryProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "KU^N",
+          "visible": true,
+          "width": null
+        },
+        {
+          "property": "C=D{",
+          "visible": true,
+          "width": null
+        }
+      ],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": "page_cover",
+      "galleryCoverSize": "small",
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

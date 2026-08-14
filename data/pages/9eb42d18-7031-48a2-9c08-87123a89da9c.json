@@ -1,0 +1,131 @@
+{
+  "id": "9eb42d18-7031-48a2-9c08-87123a89da9c",
+  "slug": "avatars",
+  "title": "Avatars!",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Avatars-9eb42d18703148a29c0887123a89da9c?pvs=21",
+  "createdTime": 1662137456717,
+  "lastEditedTime": 1681311078994,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Avatars!",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-76b8037c9f90.webp",
+  "blocks": [
+    {
+      "id": "d62f02db-df8e-4392-99ac-3f3ee39d659d",
+      "type": "divider"
+    },
+    {
+      "id": "5b6bc3d8-5e7b-4f91-9688-4cdd255c6808",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c386a2a6-cbfa-46cb-bfe4-01810f915608",
+      "type": "columns",
+      "children": [
+        {
+          "id": "968a2672-a8c9-4e9c-8543-cbd06e3ed66a",
+          "type": "column",
+          "children": [
+            {
+              "id": "623d0669-f06f-4142-a9a6-9bf1d302fc71",
+              "type": "paragraph",
+              "html": "<em><strong>Avatars!: Exploring &amp; Building Virtual Worlds on the Internet</strong></em><strong> </strong>was written by Bruce Damer, published by Peachpit Press, October 31, 1997."
+            },
+            {
+              "id": "10141a1d-c42f-43d1-98c7-8a155fce8871",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8181e07f-c5dd-4e62-8388-886b6a5455ac",
+              "type": "quote",
+              "html": "<em>Is there life after Web surfing? Yes, and with </em>Avatars!<em>, you can grab your avatar (a digital representation of yourself), run to the nearest virtual world, and experience a whole new Internet. Enter worlds where you take the shape of a butterfly darting in and out of the 3D world below, or where you assume the identity of a living cartoon-strip character talking in text bubbles above your head.<br><br>The only book of its kind, </em>Avatars!<em> focuses on what people do inside these virtual worlds, such as building three-dimensional structures, navigating through the worlds, and learning digital etiquette and social interaction skills. A CD-ROM provides readers with ready-to-run worlds that connect them with thousands of other people on the Internet and which are referenced in a companion web site that serves to keep virtual explorers abreast of the latest happenings in the various worlds.</em>"
+            },
+            {
+              "id": "42b72396-520f-4780-add2-afdade3f6e7d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "85ca4c00-60d3-4f7f-b16f-398260d623db",
+          "type": "column",
+          "children": [
+            {
+              "id": "9954a2cf-008a-4918-a35d-0cd992ec0adf",
+              "type": "image",
+              "src": "./assets/images/untitled-76b8037c9f90.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96204300-71ae-4827-95e7-9d8ebaa2a347",
+      "type": "divider"
+    },
+    {
+      "id": "13376e54-0ce8-4871-8aff-c96001904230",
+      "type": "columns",
+      "children": [
+        {
+          "id": "db162478-408b-46e5-9b61-b070e1769f96",
+          "type": "column",
+          "children": [
+            {
+              "id": "5d974906-4520-45ff-9efa-1063a73729a3",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4a5abc17-121c-4578-a3af-d568b194f7a8",
+          "type": "column",
+          "children": [
+            {
+              "id": "ba4a3a55-a71a-4336-92f0-29e1dfd0f3f3",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Rtj1ZV\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b519553c-8154-460c-b73a-e30a64bbb7e9",
+      "type": "divider"
+    }
+  ]
+}

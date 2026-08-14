@@ -1,0 +1,121 @@
+{
+  "id": "b28fd614-9748-404f-a46c-54102b819368",
+  "slug": "creative-intuition-in-art-and-poetry",
+  "title": "Creative Intuition in Art & Poetry",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Creative-Intuition-in-Art-Poetry-b28fd6149748404fa46c54102b819368?pvs=21",
+  "createdTime": 1651697464224,
+  "lastEditedTime": 1681314243127,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Creative Intuition in Art & Poetry"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81lxmvnjyql-82da35544cff.webp",
+  "blocks": [
+    {
+      "id": "83aad9b9-a5f9-47b4-b291-28e910ec49c8",
+      "type": "divider"
+    },
+    {
+      "id": "0ce33660-2646-437c-9075-6e2918616e7c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e4a8ac3b-a69e-437b-b689-51241f0b053e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f411f8f1-bc37-4acd-9c59-e88ad4f3d131",
+          "type": "column",
+          "children": [
+            {
+              "id": "8d1ee27e-d76d-444b-a324-aab1fa5ba517",
+              "type": "paragraph",
+              "html": "<em><strong>Creative Intuition in Art &amp; Poetry </strong></em>was written by Jacques Maritain, published by Princeton University Press in 1953<em><strong>.</strong></em>"
+            },
+            {
+              "id": "1a1037b6-628f-4b30-b698-c4841979bad5",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "bf6b29d4-f11d-4963-9f10-1ea0d11e11dd",
+              "type": "quote",
+              "html": "Creative Intuition in Art and Poetry<em><strong> </strong></em><em>encompasses the six lectures Jacques Maritain delivered as the inaugural lecturer in the A. W. Mellon Lectures in the Fine Arts. Maritain focuses his vision on aesthetics, beauty, and the acts of inspiration and creation as they pertain to music, painting, and poetry. Addressing the implications of modernist art movements, the relations between modern poetry, beauty, and the &quot;nonconceptual life of the intellect,&quot; and their surrounding themes, these lectures coalesce to paint a portrait of both Maritain’s own philosophy and the debates surrounding art and meaning in the twentieth century as a whole.</em>"
+            }
+          ]
+        },
+        {
+          "id": "e872bf82-476c-41d8-a0bc-99c047a3fb8c",
+          "type": "column",
+          "children": [
+            {
+              "id": "72bb93e8-eced-45d0-ab80-b07d5b8d032f",
+              "type": "image",
+              "src": "./assets/images/81lxmvnjyql-82da35544cff.webp",
+              "caption": "",
+              "alt": "81lxMVNJYqL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8eeca0f3-e4ae-47d1-ada3-27a0aeb619e0",
+      "type": "divider"
+    },
+    {
+      "id": "08b5cdca-45b8-4000-afdd-3f6ee42cecd6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e5ec7f62-485a-426c-9afa-b6c69c76155a",
+          "type": "column",
+          "children": [
+            {
+              "id": "0441269b-182c-4c7c-96dc-e53876fb0829",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "28cb4c6f-ebeb-47cd-a57e-5abd7fa30a48",
+          "type": "column",
+          "children": [
+            {
+              "id": "46cdcc6a-2f66-4a1a-8bf2-f31e29526ac8",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3GdJztL\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d9ccd8a-f442-4435-8460-e43442115bf4",
+      "type": "divider"
+    }
+  ]
+}

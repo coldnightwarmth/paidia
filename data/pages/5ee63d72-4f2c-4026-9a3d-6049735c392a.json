@@ -1,0 +1,131 @@
+{
+  "id": "5ee63d72-4f2c-4026-9a3d-6049735c392a",
+  "slug": "bread-and-circuses",
+  "title": "Bread & Circuses",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/5ee63d724f2c40269a3d6049735c392a",
+  "createdTime": 1668711232167,
+  "lastEditedTime": 1681311313756,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Bread & Circuses",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1-362b67b98c1a.webp",
+  "blocks": [
+    {
+      "id": "92100cc6-7f57-4dba-8f33-7c2dbded013e",
+      "type": "divider"
+    },
+    {
+      "id": "76e7c153-d2ab-4136-9e15-987aab00a063",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "758fd0ad-1d0f-4e7e-baa6-539e616307f0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5095cb58-dfa7-4957-a725-01dcdd447143",
+          "type": "column",
+          "children": [
+            {
+              "id": "f4c29210-f580-4321-8e79-462bb5b992c9",
+              "type": "paragraph",
+              "html": "<em><strong>Bread &amp; Circuses: Euergetism &amp; Municipal Patronage in Roman Italy </strong></em>is a collection of essays edited by Tim Cornell &amp; Kathryn Lomas, published by Routledge, September 19, 2002."
+            },
+            {
+              "id": "af567ac8-5348-4faa-993b-661b614deaad",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a8e5c5db-fb4a-4f8c-bb84-875b28c7dbd6",
+              "type": "quote",
+              "html": "<em>Cities in the ancient world relied on private generosity to provide many basic amenities, as well as expecting leading citizens to pay for 'bread and circuses' - free food and public entertainment. This collection of essays by leading scholars from the UK and USA explores the important phenomenon of benefaction and public patronage in Roman Italy.<br><br>Ranging from the late republican period to the later Roman Empire, the contributions cover a wide range of topics, including the impact of benefactions and benefactors on the urban development of Roman Italy, on cultural and economic activity, and on the changing role of games and festivals in Roman society. They also explore the relationship between communities and their benefactors, whether these were local notables, senators, or the emperor himself, and examine how the nature of benefaction changed under the Empire.</em>"
+            },
+            {
+              "id": "f7c14b08-87a1-4c94-b370-5696e84dc6ec",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "2834d4b2-e785-4f08-b14d-114dabd9d0e9",
+          "type": "column",
+          "children": [
+            {
+              "id": "ce5c3cc1-c476-4782-b3fe-53a81fdc26bb",
+              "type": "image",
+              "src": "./assets/images/untitled-1-362b67b98c1a.webp",
+              "caption": "",
+              "alt": "Untitled-1.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b30a7dd-c55b-49ac-9471-ef420afcaf7f",
+      "type": "divider"
+    },
+    {
+      "id": "95da2247-e9a0-43f7-8168-54de46d67c82",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b5028d18-cdb1-459e-b244-346d7eab0e77",
+          "type": "column",
+          "children": [
+            {
+              "id": "b3ce6af1-b0b2-4169-acbe-d7f1ff1efa17",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8ebb2541-77fb-4956-ba3a-6bcf101160ce",
+          "type": "column",
+          "children": [
+            {
+              "id": "fb068b92-069a-440a-b24d-f8f2dbdbf80d",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Bread-Circuses-Euergetism-Municipal-Patronage/dp/0415518563/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1666372489&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8458a73a-6029-4945-b0d5-307a66b4a6ff",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "657317f5-2164-41e2-89b8-c38bfbdbb2d0",
+  "slug": "sid-meier-s-memoir",
+  "title": "Sid Meier’s Memoir!",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/657317f5216441e289b8c38bfbdbb2d0",
+  "createdTime": 1651695844965,
+  "lastEditedTime": 1681313997071,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Sid Meier’s Memoir!"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a5cc040b63de.webp",
+  "blocks": [
+    {
+      "id": "3b2f5174-1c4f-431b-bdca-33170279b15a",
+      "type": "divider"
+    },
+    {
+      "id": "a95e4204-6f2c-449f-a189-e654c0efa109",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4503254c-d19d-49d2-8987-508195bd3752",
+      "type": "columns",
+      "children": [
+        {
+          "id": "702af36b-c4cc-4714-a1c8-2640a21013be",
+          "type": "column",
+          "children": [
+            {
+              "id": "3874c2a1-0d2a-4a06-b416-bdd68c30049b",
+              "type": "paragraph",
+              "html": "<em><strong>Sid Meier's Memoir!: A Life in Computer Games</strong></em> was written by Sid Meier, published by W. W. Norton &amp; Company, September 8, 2020."
+            },
+            {
+              "id": "39a04a6f-a22c-4a84-8ce6-ba291983932e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "1def4b6f-028b-4804-b8d5-d550c5bc4e45",
+              "type": "quote",
+              "html": "<em>Over his four-decade career, Sid Meier has produced some of the world’s most popular video games, including </em>Sid Meier’s Civilization<em>, which has sold more than 51 million units worldwide and accumulated more than one billion hours of play. </em>Sid Meier’s Memoir! <em>is the story of an obsessive young computer enthusiast who helped launch a multibillion-dollar industry. Writing with warmth and ironic humor, Meier describes the genesis of his influential studio, MicroProse, founded in 1982 after a trip to a Las Vegas arcade, and recounts the development of landmark games, from vintage classics like </em>Pirates!<em> and </em>Railroad Tycoon<em>, to </em>Civilization<em> and beyond.<br><br>Articulating his philosophy that a video game should be “a series of interesting decisions,” Meier also shares his perspective on the history of the industry, the psychology of gamers, and fascinating insights into the creative process, including his rules of good game design.</em>"
+            },
+            {
+              "id": "8f7e813f-07d1-4865-9f5f-a3b0c199bace",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ca48fbe0-7533-4ceb-afb3-0c8df676fc96",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd30cd73-742f-4e6a-9016-8f046a87c66b",
+              "type": "image",
+              "src": "./assets/images/untitled-a5cc040b63de.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3761cf16-2c22-4d5c-8ad5-14ac948902dd",
+      "type": "divider"
+    },
+    {
+      "id": "0878f2f0-39dd-4d3f-9fc2-91f1da555e7c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5cf00155-3097-49d3-9adb-9f6fc4dbe0d8",
+          "type": "column",
+          "children": [
+            {
+              "id": "19d6c591-acfa-465e-b1b2-5e48a205fe91",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "90c783f2-1389-4417-9255-6a5b920149fc",
+          "type": "column",
+          "children": [
+            {
+              "id": "bd973ae4-113c-42d1-bf04-379d93546e6e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3LUiwq2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be3339db-088d-413e-9618-56e3c3e4cc9a",
+      "type": "divider"
+    }
+  ]
+}

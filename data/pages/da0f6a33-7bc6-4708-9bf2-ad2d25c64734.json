@@ -1,0 +1,126 @@
+{
+  "id": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "slug": "audio-visual-content",
+  "title": "Audio/Visual Content",
+  "icon": "📺",
+  "cover": "./assets/images/online-at-night-34a605c6b879.webp",
+  "type": "page",
+  "parentId": "9510bf90-3ac9-4424-974b-7424f3b33683",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/da0f6a337bc647089bf2ad2d25c64734",
+  "createdTime": 1659143401481,
+  "lastEditedTime": 1705028050077,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page List"
+      ]
+    ],
+    "title": [
+      [
+        "Audio/Visual Content"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "c24ab449-724c-4a08-9307-044a348c09df",
+      "type": "divider"
+    },
+    {
+      "id": "2b0deecb-5d89-431a-aed5-cf519577284b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "45b8e5c9-651c-42a5-90e6-0b2ea33fadca",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c0d0f2e2-bde3-4e10-82f3-81c8e1d3af16",
+          "type": "column",
+          "children": [
+            {
+              "id": "fdbbd34a-ba8a-47e3-8173-30cea2938957",
+              "type": "page_link",
+              "targetId": "fdbbd34a-ba8a-47e3-8173-30cea2938957",
+              "title": "Video Essays & Lectures",
+              "notionType": "page"
+            },
+            {
+              "id": "6b382510-adf0-424c-8a6d-b33ee802b6aa",
+              "type": "page_link",
+              "targetId": "6b382510-adf0-424c-8a6d-b33ee802b6aa",
+              "title": "Podcasts & Interviews",
+              "notionType": "page"
+            }
+          ]
+        },
+        {
+          "id": "7997f5a8-b93f-4dc2-9bd1-0bf12a4e16e9",
+          "type": "column",
+          "children": [
+            {
+              "id": "1db74750-7257-4bd9-99a1-b33839889b30",
+              "type": "page_link",
+              "targetId": "1db74750-7257-4bd9-99a1-b33839889b30",
+              "title": "Edits & Clips",
+              "notionType": "page"
+            },
+            {
+              "id": "4c0dd493-cab5-487c-860b-27febc60fb3f",
+              "type": "page_link",
+              "targetId": "4c0dd493-cab5-487c-860b-27febc60fb3f",
+              "title": "YouTube Channels",
+              "notionType": "page"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "39f5a76a-8ff5-4678-9b4c-c813574be377",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f727b506-204a-4843-906d-b3eb8685846b",
+      "type": "divider"
+    },
+    {
+      "id": "4877ec56-c13d-4347-894e-221508fd07fa",
+      "type": "paragraph",
+      "html": "<em><em><em><em><em><em><em><em><em>see also:</em></em></em></em></em></em></em></em></em>"
+    },
+    {
+      "id": "a4b6edf6-ed59-4659-8400-804a384337ac",
+      "type": "paragraph",
+      "html": "‣ "
+    },
+    {
+      "id": "7c9ab8f5-ab9b-4d35-8cff-5aa253ef1fb5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a5fa7a5b-50a4-4454-9f4e-95afb9de1a0e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "61d534b8-014b-4a2f-b0c5-05255f570eb6",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    },
+    {
+      "id": "6f6d473f-a555-4127-b091-a5a1ac4c3bd7",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

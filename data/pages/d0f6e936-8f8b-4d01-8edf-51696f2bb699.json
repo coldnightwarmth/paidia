@@ -1,0 +1,131 @@
+{
+  "id": "d0f6e936-8f8b-4d01-8edf-51696f2bb699",
+  "slug": "fans-bloggers-and-gamers",
+  "title": "Fans, Bloggers, & Gamers",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Fans-Bloggers-Gamers-d0f6e9368f8b4d018edf51696f2bb699?pvs=21",
+  "createdTime": 1651768735981,
+  "lastEditedTime": 1681314220906,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Fans, Bloggers, & Gamers",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-3050dbee0acf.webp",
+  "blocks": [
+    {
+      "id": "48515f58-6390-48d4-b10f-868fb0b46c0b",
+      "type": "divider"
+    },
+    {
+      "id": "664ad1b3-5fde-4380-9813-a427e7633c82",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6d70def2-e73a-44c5-9637-ca771584e974",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a1883bee-680f-4f92-9689-f64b50cb1212",
+          "type": "column",
+          "children": [
+            {
+              "id": "6b7fca54-6f48-4857-95c5-bdacff0cb9ca",
+              "type": "paragraph",
+              "html": "<em><strong>Fans, Bloggers, &amp; Gamers: Media Consumers in a Digital Age</strong></em> was written by Henry Jenkins, published by NYU Press, September 1, 2006."
+            },
+            {
+              "id": "e14c20a5-28ab-4a9e-9975-9e1c6809c0b3",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "77fc5630-df9d-4f33-893c-f62905790de2",
+              "type": "quote",
+              "html": "<em>Henry Jenkins's pioneering work in the early 1990s promoted the idea that fans are among the most active, creative, critically engaged, and socially connected consumers of popular culture and that they represent the vanguard of a new relationship with mass media. Though marginal and largely invisible to the general public at the time, today, media producers and advertisers, not to mention researchers and fans, take for granted the idea that the success of a media franchise depends on fan investments and participation.<br><br>Bringing together the highlights of a decade and a half of groundbreaking research into the cultural life of media consumers, </em>Fans, Bloggers, and Gamers<em> takes readers from Jenkins's progressive early work defending fan culture against those who would marginalize or stigmatize it, through to his more recent work, combating moral panic and defending Goths and gamers in the wake of the Columbine shootings. Starting with an interview on the current state of fan studies, this volume maps the core theoretical and methodological issues in Fan Studies. It goes on to chart the growth of participatory culture on the web, take up blogging as perhaps the most powerful illustration of how consumer participation impacts mainstream media, and debate the public policy implications surrounding participation and intellectual property.</em>"
+            },
+            {
+              "id": "954f7c75-06b8-4766-8245-ec66e62600aa",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "eb2796e3-01b3-48df-b968-5189ec592e57",
+          "type": "column",
+          "children": [
+            {
+              "id": "38fcc942-54fc-4099-b821-56e43a08306c",
+              "type": "image",
+              "src": "./assets/images/untitled-3050dbee0acf.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3391954-af7c-4c95-a4d4-c39aa270e916",
+      "type": "divider"
+    },
+    {
+      "id": "7fabc39c-4965-46d3-b08d-40d26a2eb749",
+      "type": "columns",
+      "children": [
+        {
+          "id": "90bea5f3-3ac2-4a09-850e-c09802e71f24",
+          "type": "column",
+          "children": [
+            {
+              "id": "24ea0179-6643-4827-b804-04cbe817a1e1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a44b0b7e-d941-4c93-be50-bb0f66ca01c8",
+          "type": "column",
+          "children": [
+            {
+              "id": "68de307d-211f-4e57-a0e3-b7defee6626d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yhWvw7\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16db6e2b-67c0-402a-8192-24e13c90573e",
+      "type": "divider"
+    }
+  ]
+}

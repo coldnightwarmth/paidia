@@ -1,0 +1,139 @@
+{
+  "id": "013e6096-07ea-469e-a26a-adbf044b0d99",
+  "slug": "game-usability",
+  "title": "Game Usability",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Game-Usability-013e609607ea469ea26aadbf044b0d99?pvs=21",
+  "createdTime": 1651972980450,
+  "lastEditedTime": 1681313868483,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Game Usability",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d6bc43f5a5af.webp",
+  "blocks": [
+    {
+      "id": "6410dc70-681e-41a3-bfc7-e94121757a74",
+      "type": "divider"
+    },
+    {
+      "id": "d726b4d1-fab1-4e3a-9e55-4739a374b3b0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9a21de25-2319-4a57-9b06-79e0b5f39918",
+      "type": "columns",
+      "children": [
+        {
+          "id": "398b2db2-1122-4f92-8130-c72dd6f2c035",
+          "type": "column",
+          "children": [
+            {
+              "id": "d8d7caae-64c9-4afc-80c5-7da067dffd1a",
+              "type": "paragraph",
+              "html": "<em><strong>Game Usability: Advice from the Experts for Advancing UX Strategy &amp; Practice in Videogames</strong></em> is a collection of essays edited by Katherine Currie Isbister &amp; Celia Hodent (&amp; Noah Schaffer on the 1st edition), published by CRC Press, August 12, 2008."
+            },
+            {
+              "id": "ca5fe76b-ce98-4c75-b27d-70a816a49ac1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a1c3da9f-6a4d-4ed3-8044-24bedb025eed",
+              "type": "quote",
+              "html": "<em>This book introduces the basics in game usability and overall game UX mindset and techniques, as well as looking at current industry best practices and trends. Fully updated for its second edition, it includes practical advice on how to include usability in already tight development timelines, and how to advocate for UX and communicate results to higher-ups effectively.<br><br>The book begins with an introduction to UX strategy considerations for games, and to UX design, before moving on to cover core user research and usability techniques as well as how to fit UX practices into the business process. It provides considerations of player differences and offers strategies for inclusion as well as chapters that give platform and context specific advice. With a wealth of new interviews with industry leaders and contributions from the very best in game UX, the book also includes brand new chapters on:<br><br></em>⮚ <em>Accessibility<br></em>⮚ <em>Mobile Game Usability<br></em>⮚ <em>Data Science<br></em>⮚ <em>Virtual and Augmented Reality<br></em>⮚ <em>Esports</em>"
+            },
+            {
+              "id": "1631c075-3530-4785-87c6-5d3e9f54dcda",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "76f6750f-35ef-42bb-82b1-9aa8b14bac8e",
+          "type": "column",
+          "children": [
+            {
+              "id": "f7439ff8-6792-46e3-9da4-05da93c9e294",
+              "type": "image",
+              "src": "./assets/images/untitled-d6bc43f5a5af.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd4fcb25-1609-4074-a676-de612a286d6b",
+      "type": "divider"
+    },
+    {
+      "id": "ac414b78-6427-458a-8c89-4e2d1371fc18",
+      "type": "columns",
+      "children": [
+        {
+          "id": "47d72cd7-da83-415a-a72e-5178ff49f137",
+          "type": "column",
+          "children": [
+            {
+              "id": "6854d661-9c33-4e3b-a63d-9a923653b40a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5dc793f6-900e-414c-af8f-50768bcce0e9",
+          "type": "column",
+          "children": [
+            {
+              "id": "a153adb6-8c40-4b99-ab3a-cbf26a6eabd8",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Gq09Xl\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6d0e0ea9-ded4-4696-ba32-a82bc686ed55",
+      "type": "divider"
+    },
+    {
+      "id": "1e03e8d6-620b-4db5-968d-5d2d1a21a4ea",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

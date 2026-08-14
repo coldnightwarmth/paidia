@@ -1,0 +1,146 @@
+{
+  "id": "980bc73c-0109-46dd-b3dc-fc0e0cdcf764",
+  "slug": "play-matters",
+  "title": "Play Matters",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "bf0fc28b-8783-4d50-a66c-1c7d7c3ddb6d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/980bc73c010946ddb3dcfc0e0cdcf764",
+  "createdTime": 1651770812895,
+  "lastEditedTime": 1681313317098,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Play Matters",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1544789e48b3.webp",
+  "blocks": [
+    {
+      "id": "cc93c689-31fb-458a-9b86-aad95e39d88f",
+      "type": "divider"
+    },
+    {
+      "id": "2da1e4ab-fd23-4d77-9aa0-e53caeb3ad87",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "90a83a55-f78f-4afd-a270-1fe3255e55fe",
+      "type": "columns",
+      "children": [
+        {
+          "id": "35d68a81-a645-44ac-8f2b-f44bd0a75aa5",
+          "type": "column",
+          "children": [
+            {
+              "id": "a82ab399-247d-47ac-8b0b-8904d890a039",
+              "type": "paragraph",
+              "html": "<em><strong>Play Matters</strong></em> was written by <a href=\"#/miguel-sicart\">Miguel Sicart</a>, published by The MIT Press, August 1, 2014."
+            },
+            {
+              "id": "61f84681-a9d8-44ea-9f4e-908e4b6e98ca",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "14d99cd9-d505-42e2-9e11-8be314ed09fa",
+              "type": "quote",
+              "html": "<strong><em>Why play is a productive, expressive way of being, a form of understanding, and a fundamental part of our </em></strong><a href=\"#/video-games-and-well-being\"><strong><em>well-being</em></strong></a><strong><em>.<br></em></strong><em><br>What do we think about when we think about play? A </em><a href=\"#/pastimes\"><em>pastime</em></a><em>? Games? Childish activities? The opposite of work? Think again: If we are happy and well rested, we may approach even our daily tasks in a playful way, taking the attitude of play without the activity of play. So what, then, is play? In </em>Play Matters<em>, Miguel Sicart argues that to play is to be in the world; playing is a form of understanding what surrounds us and a way of engaging with others. Play goes beyond games; it is a mode of being human.<br><br>We play games, but we also play with </em><a href=\"#/toy\"><em>toys</em></a><em>, on </em><a href=\"#/playground\"><em>playgrounds</em></a><em>, with technologies and design. Sicart proposes a theory of play that </em><a href=\"#/relational-aesthetics\"><em>doesn't derive from a particular object or activity</em></a><em> but is a portable tool for being―not tied to objects but brought by people to the complex interactions that form their daily lives. </em><a href=\"#/there-is-no-magic-circle\"><em>It is not separated from reality</em></a><em>; it is part of it. It is pleasurable, but not necessarily fun. Play can be dangerous, addictive, and destructive.<br><br>Along the way, Sicart considers </em><a href=\"#/playfulness\"><em>playfulness</em></a><em>, the capacity to use play outside the context of play; toys, the materialization of play―instruments but also play pals; playgrounds, play spaces that enable all kinds of play; beauty, the </em><a href=\"#/the-aesthetic-of-play\"><em>aesthetics of play</em></a><em> through action; political play―from Maradona's goal against England in the 1986 </em><a href=\"#/soccer\"><em>World Cup</em></a><em> to the hactivist activities of Anonymous; the political, aesthetic, and </em><a href=\"#/ethics-and-game-design\"><em>moral</em></a><em> activity of game design; and why play and computers get along so well.</em>"
+            },
+            {
+              "id": "15679767-4109-4d78-8c3d-0df29544145e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "a20e050e-f039-409e-a117-1ccac2a965f7",
+          "type": "column",
+          "children": [
+            {
+              "id": "07e6fa4f-1c95-4060-b60b-df2883fc826b",
+              "type": "image",
+              "src": "./assets/images/untitled-1544789e48b3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71ebb509-a645-4b38-9b76-20f166916cbd",
+      "type": "divider"
+    },
+    {
+      "id": "3140797f-27e7-4bfc-bba4-94004d26f2ee",
+      "type": "columns",
+      "children": [
+        {
+          "id": "612a673a-5db2-4486-80bd-266d97d7efba",
+          "type": "column",
+          "children": [
+            {
+              "id": "f0bc13c2-6f6a-4187-bde5-e30ce6c259d4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ac95b8be-0dac-4998-b95c-7b83e46ac03c",
+          "type": "column",
+          "children": [
+            {
+              "id": "c8f6fb30-6e2d-451d-8cbc-555462f72c14",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sN4EVN\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d457a1c-4fb8-4f53-bdeb-2b578cff3ec9",
+      "type": "divider"
+    },
+    {
+      "id": "28b4375b-b8ba-487e-83e3-c00637172ea5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f1abb777-8b68-4854-9445-344235f4cc42",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "2f82fdde-83bc-46e0-86cb-37ce53f75171",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

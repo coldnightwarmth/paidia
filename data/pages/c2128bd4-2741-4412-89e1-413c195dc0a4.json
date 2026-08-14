@@ -1,0 +1,126 @@
+{
+  "id": "c2128bd4-2741-4412-89e1-413c195dc0a4",
+  "slug": "in-the-shadow-of-the-machine",
+  "title": "In the Shadow of the Machine",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/In-the-Shadow-of-the-Machine-c2128bd42741441289e1413c195dc0a4?pvs=21",
+  "createdTime": 1651684893791,
+  "lastEditedTime": 1681314169786,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "In the Shadow of the Machine"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c9edfd4bcb2c.webp",
+  "blocks": [
+    {
+      "id": "69b5d47e-9069-4cc6-bd99-528e6ec58df6",
+      "type": "divider"
+    },
+    {
+      "id": "5b8f14c5-efaf-420f-980f-f9d53a9b55b2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5c7969dc-0c29-408f-9d60-c4970e8e7c90",
+      "type": "columns",
+      "children": [
+        {
+          "id": "66939577-0725-4c32-8b63-9e4327ab7426",
+          "type": "column",
+          "children": [
+            {
+              "id": "b3ef250f-76a0-4029-956b-ef028db986de",
+              "type": "paragraph",
+              "html": "<em><strong>In the Shadow of the Machine: The Prehistory of the Computer and the Evolution of Consciousness </strong></em>was written by Jeremy Naydler, published by Temple Lodge Publishing, August 13, 2018."
+            },
+            {
+              "id": "2d5298b5-8525-4f35-842e-5b84e354c081",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c0600381-8663-4fc0-944d-d8af9b7fae80",
+              "type": "quote",
+              "html": "<em>Contemporary life is deeply reliant on digital technology, and computers have come to dominate nearly every aspect of our culture. What is the philosophical and spiritual significance of this dependence on electronic technology for our relationship to nature and for the future of humanity? Moreover, what processes in human perception and awareness have produced the situation in which we find ourselves?<br><br>As Jeremy Naydler elucidates in this penetrating study, we cannot understand the emergence of the computer without seeing it within the wider context of the evolution of human consciousness over millennia. He shows how modern consciousness has evolved in conjunction with the development of machines and their increasing shadow.<br><br>Computers are the product of a long historical development, culminating in the scientific revolution of the seventeenth century. During that period the first mechanical calculators were invented, and efforts to create increasingly complex “thinking machines” began in earnest. Nevertheless, the seeds were sown many hundreds of years earlier, deep in antiquity.<br><br>Naydler paints a vast panorama, depicting human development and the emergence of electronic technology. His painstaking research illumines an urgent question that concerns every living person today: What does it mean to be human, and what, if anything, distinguishes us from machines?</em>"
+            },
+            {
+              "id": "ac2a882d-097a-49e4-9fec-0835ba9dea8d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b9ff154f-21ea-4fb0-afd9-9229dd0e1ff1",
+          "type": "column",
+          "children": [
+            {
+              "id": "9bac5773-0818-48b4-beeb-7cb4bd7227e3",
+              "type": "image",
+              "src": "./assets/images/untitled-c9edfd4bcb2c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96089e77-35fe-426c-8e1e-985e27254505",
+      "type": "divider"
+    },
+    {
+      "id": "f1ff20e4-9aca-424c-b7c9-19cd11a37ff1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "37894e95-29d3-4f9a-86f4-fe4ecc0f54df",
+          "type": "column",
+          "children": [
+            {
+              "id": "f0aee9ba-0c41-44e3-9e9d-8ec7b5f62f77",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3c9b5359-1995-45f1-a353-4abe2c29420e",
+          "type": "column",
+          "children": [
+            {
+              "id": "8c197d37-9d37-4acc-b0f4-bf7b122af0a6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3brx5n7\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f17557b8-5590-4cf0-81c7-d4f3489b91df",
+      "type": "divider"
+    }
+  ]
+}

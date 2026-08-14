@@ -1,0 +1,131 @@
+{
+  "id": "ee26a428-28c4-4667-aec8-42122605bdd8",
+  "slug": "videogames-ee26a428",
+  "title": "Videogames",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/ee26a42828c44667aec842122605bdd8",
+  "createdTime": 1658275884523,
+  "lastEditedTime": 1681313136961,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Videogames",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5723f881da1b.webp",
+  "blocks": [
+    {
+      "id": "67d0b02f-6cdb-4bf2-bc46-b1479319f1b0",
+      "type": "divider"
+    },
+    {
+      "id": "4e954340-25f4-4ddc-9a60-620aa13bce6a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "996c761d-c56d-40eb-8b1e-ee9ed8404653",
+      "type": "columns",
+      "children": [
+        {
+          "id": "07e957cd-f643-4f32-b039-a0064eef4dbe",
+          "type": "column",
+          "children": [
+            {
+              "id": "73f93d90-2d34-47bb-a504-8defd755cb96",
+              "type": "paragraph",
+              "html": "<em><strong>Videogames: In the Beginning</strong></em> was written by <a href=\"#/ralph-h-baer\">Ralph H. Baer</a>, published by Rolenta Press, April 26, 2005."
+            },
+            {
+              "id": "5f81c0f3-2b6b-4bdf-9591-1e9c268777a7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "855e1a76-186f-4d09-8375-c72624975356",
+              "type": "quote",
+              "html": "<em>THE REAL STORY BEHIND VIDEOGAMES Long before there was a Sony Playstation, Microsoft Xbox or Nintendo Gamecube, there was the Magnavox Odyssey, the world’s first home videogame console. But the story of videogames predates the Odyssey by six years. It begins in 1966 when a television engineer named Ralph H. Baer sat down at a New York bus station and entered history. Videogames: In The Beginning is Ralph H. Baer’s account of how today’s $11-billion per year videogame industry began. A meticulous note keeper, Baer presents in his own words the real story of what led to the Odyssey… and beyond. But he doesn’t end there. In this book Baer also examines other products that he has worked on such as Simon, the most popular electronic toy ever created. He also discusses his pioneering work into early forms of CD-ROMs and digital imagery. Whether you are a student of videogame design, a game player, or a fan of inventions and history, you are sure to find Baer’s history fascinating and informative. Included in this book are: • The actual four-page treatise that Baer presented to his employers • Original schematics and photos of the first videogame prototypes • Original top secret internal notes and memos • Original United States patents</em>"
+            },
+            {
+              "id": "5a50c6d0-2f22-45ee-b502-2a4656e10393",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "236936d9-b9e1-404b-aa98-b1ff2a3d3265",
+          "type": "column",
+          "children": [
+            {
+              "id": "50378893-76a2-4d43-9452-ea641c7cdf67",
+              "type": "image",
+              "src": "./assets/images/untitled-5723f881da1b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5aaa470a-c5e1-4a1c-8743-127f64c35c89",
+      "type": "divider"
+    },
+    {
+      "id": "94aadace-30dd-44eb-bea5-b34043894d97",
+      "type": "columns",
+      "children": [
+        {
+          "id": "56247c6b-5e03-4250-a317-93501d4ab949",
+          "type": "column",
+          "children": [
+            {
+              "id": "e617c110-7fc1-4956-abdd-f7987fc1990f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "858f4fe8-d9d6-48c9-b8b1-db67ed61fe9e",
+          "type": "column",
+          "children": [
+            {
+              "id": "7c0d4faf-084d-4601-8191-2032ccfd5d0d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3v0gAFw\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44bc5dc2-c2df-40ff-a4bd-83b6f7635e92",
+      "type": "divider"
+    }
+  ]
+}

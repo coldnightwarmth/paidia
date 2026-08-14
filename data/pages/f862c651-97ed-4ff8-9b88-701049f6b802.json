@@ -1,0 +1,126 @@
+{
+  "id": "f862c651-97ed-4ff8-9b88-701049f6b802",
+  "slug": "ready-player-one",
+  "title": "Ready Player One",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Ready-Player-One-f862c65197ed4ff89b88701049f6b802?pvs=21",
+  "createdTime": 1651856777168,
+  "lastEditedTime": 1681314113868,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ready Player One"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/9193hrad9yl-c30253a6a440.webp",
+  "blocks": [
+    {
+      "id": "5225ccd5-e528-4d34-b95f-6479e8b67391",
+      "type": "divider"
+    },
+    {
+      "id": "c58efcb6-fefc-42a4-a78c-7c0bf1f5fa12",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e0325c7c-408f-4c63-b9ac-35f6707f5e38",
+      "type": "columns",
+      "children": [
+        {
+          "id": "de21d52e-ec4f-415b-a628-f6c0efb1596d",
+          "type": "column",
+          "children": [
+            {
+              "id": "1f75382a-1e93-443c-8a74-51930cdce932",
+              "type": "paragraph",
+              "html": "<em><strong>Ready Player One</strong></em> was written by Ernest Cline, published by Ballantine Books, August 16, 2011."
+            },
+            {
+              "id": "1ae12066-0335-4da0-be0d-e50cb9337de5",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "932fc812-cb3b-4b0a-a637-70c152d84bdf",
+              "type": "quote",
+              "html": "<strong><em>A world at stake. A quest for the ultimate prize. Are you ready?</em></strong><em><br><br>In the year 2045, reality is an ugly place. The only time Wade Watts really feels alive is when he’s jacked into the OASIS, a vast virtual world where most of humanity spends their days.<br><br>When the eccentric creator of the OASIS dies, he leaves behind a series of fiendish puzzles, based on his obsession with the pop culture of decades past. Whoever is first to solve them will inherit his vast fortune—and control of the OASIS itself.<br><br>Then Wade cracks the first clue. Suddenly he’s beset by rivals who’ll kill to take this prize. The race is on—and the only way to survive is to win.</em>"
+            }
+          ]
+        },
+        {
+          "id": "daa74276-8ba9-4b83-9bae-a394a28ab782",
+          "type": "column",
+          "children": [
+            {
+              "id": "ce332449-43b8-4e43-8b1c-cfd0dab6ffd1",
+              "type": "image",
+              "src": "./assets/images/9193hrad9yl-c30253a6a440.webp",
+              "caption": "",
+              "alt": "9193hRad9yL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "398863e0-c0f8-49ba-b3cf-ef974b934646",
+      "type": "divider"
+    },
+    {
+      "id": "cc8f36d3-afba-44b6-ae06-48ebdb8b6285",
+      "type": "columns",
+      "children": [
+        {
+          "id": "04990a14-a98f-4eaa-b12b-75f2a04b5370",
+          "type": "column",
+          "children": [
+            {
+              "id": "e31b9621-4398-426b-af82-efd0c3ac0efb",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8fb09f21-90be-4167-a091-8b5f79446d23",
+          "type": "column",
+          "children": [
+            {
+              "id": "ffa691c4-9daa-49e4-9d09-e7447d6cde45",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3r712NA\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02f194c6-e01d-4c3f-bcf7-28b7c4034e96",
+      "type": "divider"
+    },
+    {
+      "id": "51fd3342-6e71-4314-b9b7-ea29b79c9865",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

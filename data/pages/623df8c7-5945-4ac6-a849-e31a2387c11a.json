@@ -1,0 +1,87 @@
+{
+  "id": "623df8c7-5945-4ac6-a849-e31a2387c11a",
+  "slug": "resources-hub",
+  "title": "Resources Hub",
+  "icon": "🛠️",
+  "cover": "",
+  "type": "page",
+  "parentId": "d5886848-1891-474a-b30f-1548d837961a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/623df8c759454ac6a849e31a2387c11a",
+  "createdTime": 1711198564302,
+  "lastEditedTime": 1711198564303,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Resources Hub"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "61333282-43ce-476b-a17f-a3931adb7089",
+      "type": "subheader",
+      "html": "School of UI",
+      "anchorId": "school-of-ui"
+    },
+    {
+      "id": "2ab0cfaf-2fa5-44dd-a060-6028b48f9365",
+      "type": "divider"
+    },
+    {
+      "id": "e7a0b8b4-6f8c-4088-87c5-213fe1cccbb9",
+      "type": "page_link",
+      "targetId": "e7a0b8b4-6f8c-4088-87c5-213fe1cccbb9",
+      "title": "Books",
+      "notionType": "page"
+    },
+    {
+      "id": "9bb47555-cecf-48f9-ba5f-f02f81c3ed67",
+      "type": "page_link",
+      "targetId": "9bb47555-cecf-48f9-ba5f-f02f81c3ed67",
+      "title": "Insights",
+      "notionType": "page"
+    },
+    {
+      "id": "908f8492-50cf-4913-a768-c3af17027d1f",
+      "type": "page_link",
+      "targetId": "908f8492-50cf-4913-a768-c3af17027d1f",
+      "title": "Learning",
+      "notionType": "page"
+    },
+    {
+      "id": "68366e51-799e-44a2-9e1d-17e1307693e6",
+      "type": "subheader",
+      "html": "The Workshop",
+      "anchorId": "the-workshop"
+    },
+    {
+      "id": "fc1b3c1f-24c0-4928-88d3-c56c421153e9",
+      "type": "divider"
+    },
+    {
+      "id": "bd18ef2b-1a2b-4026-a1e3-6e375a4f5001",
+      "type": "page_link",
+      "targetId": "bd18ef2b-1a2b-4026-a1e3-6e375a4f5001",
+      "title": "Websites",
+      "notionType": "page"
+    },
+    {
+      "id": "e0e1c352-cd69-435d-ae5e-4b73e683f355",
+      "type": "page_link",
+      "targetId": "e0e1c352-cd69-435d-ae5e-4b73e683f355",
+      "title": "Tools of the Trade",
+      "notionType": "page"
+    },
+    {
+      "id": "f9f00056-78ce-4f5d-89b6-d806d1162cea",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "754819da-ebc8-4f8a-ac32-bfd61cb4d465",
+  "slug": "children-and-play-in-the-holocaust",
+  "title": "Children & Play in the Holocaust",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Children-Play-in-the-Holocaust-754819daebc84f8aac32bfd61cb4d465?pvs=21",
+  "createdTime": 1659567441274,
+  "lastEditedTime": 1681311490897,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Children & Play in the Holocaust"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a90ca8a1a1f0.webp",
+  "blocks": [
+    {
+      "id": "ca95f11e-8547-465a-af19-c68083da88c6",
+      "type": "divider"
+    },
+    {
+      "id": "9d72e853-f3bc-4ebe-98da-62eed93ae57b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a54cfdf1-641e-4301-9bef-e9d7ef09cd21",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a765ba42-0f14-43a2-8edb-8d93b014f4da",
+          "type": "column",
+          "children": [
+            {
+              "id": "80ad65b8-c81a-4567-a1c3-56734d7de813",
+              "type": "paragraph",
+              "html": "<em><strong><strong>Children and Play in the Holocaust: Games Among the Shadows </strong></strong></em>was written by George Eisen, published by University of Massachusetts Press in 1990."
+            },
+            {
+              "id": "ee7cea56-ae98-4094-b18c-8c0d55602a75",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "7c13ccaf-36bd-45d9-a7a0-d962be72bbbc",
+              "type": "quote",
+              "html": "<em>Occasionally an accident of research produces a book more engaging than the one the historian originally intended. While sifting through material for his Ph.D. dissertation, which dealt with an entirely different topic, Eisen came across a diary from the Vilna ghetto written by Zelig Kalmanovitch. His tone was sober, but not entirely so. The passage that caught Eisen’s eye concerned a playground erected around 1942 and the author’s inner conflict surrounded the coexistence of games and sports and mass murder in the ghetto.</em>"
+            },
+            {
+              "id": "c60f9a82-25bf-451a-b58c-fa8223bcdd76",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "907bbea3-ce36-4b5d-af85-a696e95591d3",
+          "type": "column",
+          "children": [
+            {
+              "id": "67e94af3-733f-4df5-9b94-c14375e5ec3c",
+              "type": "image",
+              "src": "./assets/images/untitled-a90ca8a1a1f0.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6cf2737b-1730-44d3-9bd2-18f719929575",
+      "type": "divider"
+    },
+    {
+      "id": "2af70fde-8f03-4b65-b501-869ea5664b73",
+      "type": "columns",
+      "children": [
+        {
+          "id": "57b0afdd-ee37-48ec-8c57-a7b2a4040eb1",
+          "type": "column",
+          "children": [
+            {
+              "id": "e507d020-97ae-496e-beb7-5d879063dc71",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f95b1cf6-f879-4454-a9de-9633af0a1164",
+          "type": "column",
+          "children": [
+            {
+              "id": "e3908f5d-eefc-4e82-86a7-8e59d818c5cc",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3cTavEm\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af79f973-41ad-4fa6-b21b-d8b0a23b714b",
+      "type": "divider"
+    }
+  ]
+}

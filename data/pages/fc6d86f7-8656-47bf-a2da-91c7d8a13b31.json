@@ -1,0 +1,131 @@
+{
+  "id": "fc6d86f7-8656-47bf-a2da-91c7d8a13b31",
+  "slug": "the-language-of-birds",
+  "title": "The Language of Birds",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/fc6d86f7865647bfa2da91c7d8a13b31",
+  "createdTime": 1651767042665,
+  "lastEditedTime": 1681314212955,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Language of Birds",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/91egx4js4jl-78d441238f6c.webp",
+  "blocks": [
+    {
+      "id": "0c8df23c-a497-4b4b-ae4b-25966bf3a90a",
+      "type": "divider"
+    },
+    {
+      "id": "55f68e17-10da-4efd-8358-103ce91832e9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0c7968e1-ec0e-4fd2-a8a4-b0b741a8640a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ef7b7196-19ae-42a7-b54f-803774374a22",
+          "type": "column",
+          "children": [
+            {
+              "id": "b3bc8526-6668-4706-b640-c07fa2ecb5e9",
+              "type": "paragraph",
+              "html": "<em><strong>The Language of Birds: Some Notes on Chance &amp; Divination</strong></em> was written by Dale Pendell, originally published by Three Hands Press, January 1, 2009."
+            },
+            {
+              "id": "cc604557-38f3-4665-bb85-91aaa1200ae2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "491bc189-506c-4288-b353-09b0e6fb3ea9",
+              "type": "quote",
+              "html": "<em>Chance, the great beloved of gamblers, lovers, generals and kings, has long held sway over mortal affairs. Whether assuming the form of the goddess Fortuna and her ever-turning wheel, or the abstract mathematic of ‘randomness’, her favor is universally sought, and her displeasure feared. To the devotee of Chance, the arts of divination may be regarded as her secret liturgy, providing glimpses of the unknown to those she esteems. Into the retort of the alchemist-poet, Pendell compounds portent, omen, oracle, and the art of prediction to distill The Language of the Birds, a reverie upon the nature of the Goddess of Fortune and the sacred function of Chance.</em>"
+            },
+            {
+              "id": "3c9357c3-ac9b-41f9-a25f-9e787557b61b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "853ec001-e658-4d35-b5e1-af9e7b73b8c6",
+          "type": "column",
+          "children": [
+            {
+              "id": "2f6bf845-b54c-4a83-8ae7-11716c2a9ab6",
+              "type": "image",
+              "src": "./assets/images/91egx4js4jl-78d441238f6c.webp",
+              "caption": "",
+              "alt": "91EGX4jS4JL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34c6a65f-56cc-4d29-9da5-41adfb953230",
+      "type": "divider"
+    },
+    {
+      "id": "62a696ec-84ab-468f-b141-4210fb4b14ad",
+      "type": "columns",
+      "children": [
+        {
+          "id": "458440d0-41dd-4810-a68b-7eb8c0418832",
+          "type": "column",
+          "children": [
+            {
+              "id": "92342acb-af7c-462f-9097-c47a967091d6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d0b8aef3-2f0b-40a1-83d5-5fb9ebd840d4",
+          "type": "column",
+          "children": [
+            {
+              "id": "4211f46c-6b47-4daa-a503-43e2e09dd267",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zZUplR\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38700de9-06ea-47e3-a998-187abd27d05d",
+      "type": "divider"
+    }
+  ]
+}

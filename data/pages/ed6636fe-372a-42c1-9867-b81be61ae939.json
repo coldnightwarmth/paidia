@@ -1,0 +1,131 @@
+{
+  "id": "ed6636fe-372a-42c1-9867-b81be61ae939",
+  "slug": "inside-santa-s-workshop",
+  "title": "Inside Santa's Workshop",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Inside-Santa-s-Workshop-ed6636fe372a42c19867b81be61ae939?pvs=21",
+  "createdTime": 1679669880231,
+  "lastEditedTime": 1681311824319,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Inside Santa's Workshop",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6884cd7b30ac.webp",
+  "blocks": [
+    {
+      "id": "69296a0a-26ea-4b82-a1ca-d876f2df72ec",
+      "type": "divider"
+    },
+    {
+      "id": "a65d7a21-cd96-44c1-9a28-ba2c9035896e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f67fc2db-d5ae-4176-aad6-63a8397eb1f6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "37e85e65-a1da-4e82-87e3-96ceb3bdb786",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd07b6de-171f-4450-a141-9f09a55e7f2c",
+              "type": "paragraph",
+              "html": "<em><strong>Inside Santa's Workshop: How Toy Inventors Develop, Sell, and Cash in on Their Ideas</strong></em> was written by Richard C. Levy &amp; Ronald O. Weingartner, Henry Holt &amp; Co in 1990."
+            },
+            {
+              "id": "fdc04d69-a5ab-4481-b7ec-08df5f699985",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6ae6589e-3fe3-4742-adaa-ed0d3115d4ee",
+              "type": "quote",
+              "html": "<em>Explains how </em><a href=\"#/toy\"><em>toys</em></a><em> are invented, designed, </em><a href=\"#/playtest\"><em>tested</em></a><em>, manufactured, marketed, and sold, recounts the origins of some classic toys and games, and offers advice for the amateur toy designer</em>"
+            },
+            {
+              "id": "7fa969d1-6b7d-4129-ba46-68653ac55e2b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "1ad94259-ed9e-4f57-8c12-755bc5158230",
+          "type": "column",
+          "children": [
+            {
+              "id": "dbd49e45-1cc6-43d3-989d-17749f216ae9",
+              "type": "image",
+              "src": "./assets/images/untitled-6884cd7b30ac.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5b0f8bc-a029-455d-8608-4615074a53b9",
+      "type": "divider"
+    },
+    {
+      "id": "862bb1d6-5366-43fc-b3a1-2415b1697101",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f06860f6-6893-4d0a-b428-acd00ccfdc3c",
+          "type": "column",
+          "children": [
+            {
+              "id": "fbe0c7c0-9fc9-49c1-9411-4771661190f6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "30c3b59e-8dab-423f-88cc-5b04f4a3418a",
+          "type": "column",
+          "children": [
+            {
+              "id": "8edf345f-6dc6-42cf-892e-c24bf795971a",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Inside-Santas-Workshop-Inventors-Develop/dp/0805010750/ref=sr_1_2?keywords=Inside+Santa%E2%80%99s+Workshop&amp;qu=eyJxc2MiOiIwLjg1IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sr=1-2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d47c182f-5707-4e9f-8df7-f66c8cf5f3e4",
+      "type": "divider"
+    }
+  ]
+}

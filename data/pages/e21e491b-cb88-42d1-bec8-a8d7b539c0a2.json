@@ -1,0 +1,131 @@
+{
+  "id": "e21e491b-cb88-42d1-bec8-a8d7b539c0a2",
+  "slug": "eurogames",
+  "title": "Eurogames",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Eurogames-e21e491bcb8842d1bec8a8d7b539c0a2?pvs=21",
+  "createdTime": 1658274441024,
+  "lastEditedTime": 1681313898379,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Eurogames",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-19b548017735.webp",
+  "blocks": [
+    {
+      "id": "f5935667-0288-41b7-bf25-d046a16cb719",
+      "type": "divider"
+    },
+    {
+      "id": "572a3062-cea4-4b28-8bac-8d0396a6c5d8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a0850eeb-52b4-4109-a496-bafdc0c4e53a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "414cf05b-8373-4f4c-bf54-194bf8c973dc",
+          "type": "column",
+          "children": [
+            {
+              "id": "88413442-6d63-4fa0-b7a9-e86f37d4365a",
+              "type": "paragraph",
+              "html": "<em><strong>Eurogames: The Design, Culture and Play of Modern European Board Games</strong></em> was written by Stewart Woods published by McFarland &amp; Company, August 16, 2012."
+            },
+            {
+              "id": "34e2ccb5-edf0-490e-bf9c-430e1ccb3a32",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8cf8ebb7-d2fc-4aaf-8ed8-e56bb919ce0a",
+              "type": "quote",
+              "html": "While board games can appear almost primitive in the digital age, eurogames--also known as German-style board games--have increased in popularity nearly concurrently with the rise of video games. Eurogames have simple rules and short playing times and emphasize strategy over luck and conflict. This book examines the form of eurogames, the hobbyist culture that surrounds them, and the way that hobbyists experience the play of such games. It chronicles the evolution of tabletop hobby gaming and explores why hobbyists play them, how players balance competitive play with the demands of an intimate social gathering, and to what extent the social context of the game encounter shapes the playing experience. Combining history, cultural studies, leisure studies, ludology, and play theory, this innovative work highlights a popular alternative trend in the gaming community."
+            },
+            {
+              "id": "83b210b1-a481-4567-8dac-40bda98502f2",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bbc1e8d4-b028-4398-9795-9374da1d7b79",
+          "type": "column",
+          "children": [
+            {
+              "id": "10115d19-2ced-4bee-af9e-19a14e963c26",
+              "type": "image",
+              "src": "./assets/images/untitled-19b548017735.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4799e3f-e2a9-4762-95f1-4eb422cf1bed",
+      "type": "divider"
+    },
+    {
+      "id": "691fea8e-14c4-48c9-a3fd-f6db35a34240",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9925792c-5af4-47d5-b807-9cb567a29bb3",
+          "type": "column",
+          "children": [
+            {
+              "id": "df8dfd79-b57b-410d-88d8-3d9b702d1659",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "292703bf-a1a1-475c-8ccf-a81935a373bf",
+          "type": "column",
+          "children": [
+            {
+              "id": "cb636ec1-8987-4d54-9f60-44717a9ffe49",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3B6Uncv\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a4fd36f-ca51-4bb8-8e7f-36637b2b23e5",
+      "type": "divider"
+    }
+  ]
+}

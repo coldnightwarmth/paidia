@@ -1,0 +1,144 @@
+{
+  "id": "4de854c2-6f91-411e-8b2c-74ac065bd06f",
+  "slug": "about-this-place",
+  "title": "About This Place...",
+  "icon": "⛺",
+  "cover": "./assets/images/desktop-4c6330b3bbc2.webp",
+  "type": "page",
+  "parentId": "ba861216-29c7-4a6a-a1fa-df2ae8e695cd",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/4de854c26f91411e8b2c74ac065bd06f",
+  "createdTime": 1693847743176,
+  "lastEditedTime": 1693944740795,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Page"
+      ]
+    ],
+    "title": [
+      [
+        "About This Place..."
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "2ebd03b5-ffaf-4258-9060-c4ff598fea5b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0ab8be6f-5b74-475a-9442-e7f67a7432cb",
+          "type": "column",
+          "children": [
+            {
+              "id": "5e8e17c8-487c-4e73-8326-050107f077fa",
+              "type": "paragraph",
+              "html": "...this hyperlink simulation of the constellations which comprise the Greater Play Field, cultivated here in miniature so that one might <em>peruse &amp; gaze upon it all easily, share with others, &amp; to accelerate cross-propagation</em>."
+            },
+            {
+              "id": "0eb71730-a435-4780-aac9-5533d5062e8a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "4c9bf679-ea46-4ecc-870e-d19a03be3b7c",
+              "type": "paragraph",
+              "html": "<strong>Padiasophia Wiki </strong>is a research project intended toward collecting &amp; connecting many diverse approaches to thinking &amp; making about games/play."
+            }
+          ]
+        },
+        {
+          "id": "1ec5211d-d3b1-4c87-af0a-fa0e5d75d42e",
+          "type": "column",
+          "children": [
+            {
+              "id": "c35e57d4-7331-423c-8528-2863206ffd31",
+              "type": "paragraph",
+              "html": "<u><strong>Updates</strong></u>"
+            },
+            {
+              "id": "3a9002a1-ef79-4b92-84bf-a9149f5dbd0a",
+              "type": "paragraph",
+              "html": "<em>Most Recent:</em>"
+            },
+            {
+              "id": "891dda46-5106-4fb8-99f4-c69bdca56b22",
+              "type": "paragraph",
+              "html": "<strong><em>[11/4/22]</em></strong>::Slowly plugging away. Every existing book page (currently: 770) is complete with basic information as well as tags in the database, and i’ve amassed a folder w. 302 more just waiting to be added)! These represent a much larger swathe of approaches to the field than were represented previously; from more diverse historical accounts to formal leisure studies, mathematical &amp; scientific investigations to a(n admittedly still rather shallow) sampling of theories of/from sports. In the past weeks, major improvements have also been made to site aesthetics. Additional sections like <a href=\"#/quotes\">quotes</a>, <a href=\"#/images\">images</a>, &amp; <a href=\"#/other-sites\">other game/play sites</a> have been added, and in general things like <a href=\"#/lists-256bd3bc\">lists</a> and <a href=\"#/folks-292fe1df\">people</a> pages (or at least ideas for pages like on the <a href=\"#/concept-wall\">concept wall</a>) are getting a little more fleshed out."
+            },
+            {
+              "id": "771d29e4-3237-4030-b0f3-422d7a565876",
+              "type": "toggle",
+              "html": "<strong>Older...</strong>",
+              "children": []
+            },
+            {
+              "id": "56fc74c5-6058-4e6a-942a-17970effb602",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1b55e5bb-0673-4b2b-b521-6891ca0f95ed",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "36f08f6c-5c82-48bf-a5be-7954cbf6fd25",
+      "type": "page_link",
+      "targetId": "36f08f6c-5c82-48bf-a5be-7954cbf6fd25",
+      "title": "About the editor",
+      "notionType": "page"
+    },
+    {
+      "id": "9d3c6bfe-ddf9-44b1-99e9-6533a41efa77",
+      "type": "page_link",
+      "targetId": "9d3c6bfe-ddf9-44b1-99e9-6533a41efa77",
+      "title": "Introduction to Padiosophical Studies",
+      "notionType": "page"
+    },
+    {
+      "id": "656665bf-2b61-43f1-8d36-3ae77544bdb0",
+      "type": "page_link",
+      "targetId": "656665bf-2b61-43f1-8d36-3ae77544bdb0",
+      "title": "Future plans for the site",
+      "notionType": "page"
+    },
+    {
+      "id": "5b77024b-ebb8-4dc7-a334-87b7a8775b75",
+      "type": "paragraph",
+      "html": "~"
+    },
+    {
+      "id": "ef070fbd-cf1e-457f-a6b2-027fafe91c95",
+      "type": "callout",
+      "html": "<strong>disclaimer</strong>:: this is a pleasure garden. <em><br>the contents of these pages comprise no canon, nor pantheon, nor dictionary. the reader finds here but a representation of one distinct vision of play. there are, as stated above, aspects of the site intended toward a reflection of a broader field ecology, but there are many more indulgences &amp; exotics, grown here only according to the tender`s own experiences &amp; curiosities.</em>",
+      "icon": "🕯️",
+      "children": []
+    },
+    {
+      "id": "21ee84d6-f2bf-4e42-8e8d-49d32837643c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7a7b287b-4bb3-4452-855f-cff010f8dfca",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "a1db3dee-fb67-42e9-858a-aa9fa822b525",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

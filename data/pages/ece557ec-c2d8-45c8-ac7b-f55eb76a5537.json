@@ -1,0 +1,126 @@
+{
+  "id": "ece557ec-c2d8-45c8-ac7b-f55eb76a5537",
+  "slug": "first-person-ece557ec",
+  "title": "First Person",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/First-Person-ece557ecc2d845c8ac7bf55eb76a5537?pvs=21",
+  "createdTime": 1668798421293,
+  "lastEditedTime": 1681312398414,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "First Person",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d4f97661c92b.webp",
+  "blocks": [
+    {
+      "id": "7f361251-745c-453a-98bf-ec01e7753ba6",
+      "type": "divider"
+    },
+    {
+      "id": "0122f3d9-d7b0-4ba0-9090-9fdabc286771",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "885f84a4-796c-4cf7-98fd-e09dcb9b64ce",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d3c2cc4f-9d23-476b-87df-e22d58606bda",
+          "type": "column",
+          "children": [
+            {
+              "id": "8ebae473-8ee1-4986-a513-d5a071dc853e",
+              "type": "paragraph",
+              "html": "<strong>First Person: War Stories from Gamespace</strong> is a collection of stories edited by Kent Sheely, self-published through Lulu.com, March 25, 2013."
+            },
+            {
+              "id": "83cb0435-22eb-41e0-be33-c6e514dd095d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "01b72193-daa4-43eb-8faf-53719c269c1c",
+              "type": "quote",
+              "html": "<em>Avid gamers love to recount their most exciting exploits in online play, especially their moments of greatest challenge, skill, and luck. This is a collection of fifty such War Stories from the battlefields of the Internet: Fifty accounts of valiant struggles, glorious victories, and sometimes of overwhelming defeat.</em>"
+            }
+          ]
+        },
+        {
+          "id": "27c96b42-7bbc-40cc-84b7-7c167f87a412",
+          "type": "column",
+          "children": [
+            {
+              "id": "c395be0e-c6d9-4bdf-93b3-231859b8bff2",
+              "type": "image",
+              "src": "./assets/images/untitled-d4f97661c92b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf19ea79-a4e5-494f-9d51-716495ce2c06",
+      "type": "divider"
+    },
+    {
+      "id": "26de3d2d-1131-4963-8f56-bb9872177865",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e13a9d52-f9c0-4eec-ae54-900d3c968945",
+          "type": "column",
+          "children": [
+            {
+              "id": "af7bdbee-8f3d-488e-bad6-be06331a267b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "058c26c8-8069-4d9b-8b0d-e1e66c1dfd7a",
+          "type": "column",
+          "children": [
+            {
+              "id": "f9084c05-2dc4-4ed9-a718-55dbfc39e542",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/First-Person-War-Stories-Gamespace/dp/1300715669/ref=sr_1_1?crid=17D0NGE0966CR&amp;keywords=gamespace&amp;qid=1668106618&amp;s=books&amp;sprefix=gamespace%2Cstripbooks%2C102&amp;sr=1-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7be6b3b3-924f-475f-814b-b44e972e0025",
+      "type": "divider"
+    }
+  ]
+}

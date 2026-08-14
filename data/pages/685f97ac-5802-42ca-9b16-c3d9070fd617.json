@@ -1,0 +1,116 @@
+{
+  "id": "685f97ac-5802-42ca-9b16-c3d9070fd617",
+  "slug": "animal-play-behavior",
+  "title": "Animal Play Behavior",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/685f97ac580242ca9b16c3d9070fd617",
+  "createdTime": 1652723340123,
+  "lastEditedTime": 1681310863526,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Animal Play Behavior",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-81f0fafea58e.webp",
+  "blocks": [
+    {
+      "id": "2dc14b7b-d511-4c6e-bc00-1949a02b90a4",
+      "type": "divider"
+    },
+    {
+      "id": "085b6906-4b8b-4308-b283-af8df9ca4203",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f5d57842-f489-40bb-ac06-311b62cb14c0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f18babfe-ea91-4a76-873b-006c45b5216a",
+          "type": "column",
+          "children": [
+            {
+              "id": "07af225c-0e0e-4b3d-bf5f-1cce031be2d1",
+              "type": "paragraph",
+              "html": "<em><strong>Animal Play Behavior</strong></em> was written by Robert M. Fagen, published by Oxford University Press, January 29, 1981."
+            }
+          ]
+        },
+        {
+          "id": "dc0e5113-04b0-455d-9067-7d350c06a470",
+          "type": "column",
+          "children": [
+            {
+              "id": "1bb82cdd-ebdd-4914-939b-703dd38cbfab",
+              "type": "image",
+              "src": "./assets/images/untitled-81f0fafea58e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51e2da0b-ce6a-4eb7-a9b2-cdd5d0ea0504",
+      "type": "divider"
+    },
+    {
+      "id": "bfc39f14-79f0-4059-b731-19a28c471db5",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3932d50c-78ac-4b13-8704-425a33025365",
+          "type": "column",
+          "children": [
+            {
+              "id": "fffddc3a-f4f4-4a11-88e2-6d0e68f55bbf",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c652751b-dae5-4784-8614-81a89cfd997d",
+          "type": "column",
+          "children": [
+            {
+              "id": "0af983b6-57e5-4b74-9df0-181044f5ae73",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OkHBeo\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cda68445-a04a-4a2f-bee5-6728efbb644b",
+      "type": "divider"
+    }
+  ]
+}

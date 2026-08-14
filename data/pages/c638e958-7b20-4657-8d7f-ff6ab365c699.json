@@ -1,0 +1,131 @@
+{
+  "id": "c638e958-7b20-4657-8d7f-ff6ab365c699",
+  "slug": "the-dream-architects",
+  "title": "The Dream Architects",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Dream-Architects-c638e9587b2046578d7fff6ab365c699?pvs=21",
+  "createdTime": 1653175247887,
+  "lastEditedTime": 1681314003647,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Dream Architects",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-300eca469f9f.webp",
+  "blocks": [
+    {
+      "id": "c4bfc17c-3d35-4dd8-a1f3-be5dad84c537",
+      "type": "divider"
+    },
+    {
+      "id": "a678df2d-33fd-48c3-944c-df626fc6341a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e3af8a2b-6c16-4368-b565-f7ba6010768a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0a41dd59-e4d2-43eb-ab17-286983a4e8d4",
+          "type": "column",
+          "children": [
+            {
+              "id": "6b6b901e-3175-4723-b44d-63f3f77098f5",
+              "type": "paragraph",
+              "html": "<em><strong>The Dream Architects: Adventures in the Video Game Industry</strong></em> was written by David Polfeldt, published by Grand Central Publishing, September 1, 2020."
+            },
+            {
+              "id": "4a5c7239-ff66-443a-b643-f0a5b084d0af",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c2358e1e-deab-45f1-b2f3-f389546890e6",
+              "type": "quote",
+              "html": "<strong><em>The inside story of the booming video game industry from the late 1990s to the present, as told by the Managing Director of Ubisoft's Massive Entertainment (</em></strong><strong>The Division, Far Cry 3, Assassin's Creed: Revelations</strong><strong><em>).</em></strong><em><br><br>At Massive Entertainment, a Ubisoft studio, a key division of one of the largest, most influential companies in gaming, Managing Director Polfeldt has had a hand in some of the biggest video game franchises of today, from </em>Assassin's Creed<em> to </em>Far Cry <em>to </em>Tom Clancy's The Division<em>, the fastest-selling new series this generation which revitalized the Clancy brand in gaming.<br><br>In </em>The Dream Architects<em>, Polfeldt charts his course through a charmed, idiosyncratic career which began at the dawn of the Sony PlayStation and Microsoft Xbox era -- from successfully pitching an </em>Avatar<em> game to James Cameron that will digitally create all of Pandora to enduring a week-long survivalist camp in the Scandinavian forest to better understand the post-apocalyptic future of </em>The Division<em>.<br><br>Along the way, Polfeldt ruminates on how the video game industry has grown and changed, how and when games became art, and the medium's expanding artistic and storytelling potential. He shares what it's like to manage a creative process that has ballooned from a low-six-figure expense with a team of a half dozen people to a transatlantic production of five hundred employees on a single project with a production budget of over a hundred million dollars.<br>A rare firsthand account of the golden age of game development told in vivid detail, </em>The Dream Architects<em> is a seminal work about the biggest entertainment medium of today.</em>"
+            },
+            {
+              "id": "52d0fbe1-b947-448b-a128-813150346064",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bff39956-fe13-4b1b-939a-0706c8b16cc5",
+          "type": "column",
+          "children": [
+            {
+              "id": "5e3dbf6a-c59d-46cb-ab7f-1699113a64e7",
+              "type": "image",
+              "src": "./assets/images/untitled-300eca469f9f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6231451b-1a7c-4df9-80e0-03390d667464",
+      "type": "divider"
+    },
+    {
+      "id": "26c6ba2e-9048-4d70-818b-51c37979fa98",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e69ed8cc-087e-4372-89fe-4c2dedd80614",
+          "type": "column",
+          "children": [
+            {
+              "id": "f5781a1a-803d-4269-ad59-a5f18d8dcd3b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9abc50ba-9fb1-4827-93cb-d62baf053a37",
+          "type": "column",
+          "children": [
+            {
+              "id": "65516d15-b4aa-476a-afa7-35b7254edb7b",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3STVSjE\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43a873ca-65ba-4379-9ae3-2705da8588d9",
+      "type": "divider"
+    }
+  ]
+}

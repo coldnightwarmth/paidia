@@ -1,0 +1,127 @@
+{
+  "id": "8f8b44c0-dde2-4c2c-b13d-df4f296c07d0",
+  "name": "Characters",
+  "schema": {
+    "DKD@": {
+      "id": "DKD@",
+      "name": "Description",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "QL<X": {
+      "id": "QL<X",
+      "name": "Story arch",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "Wt?Z": {
+      "id": "Wt?Z",
+      "name": "Relationships",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "rimo": {
+      "id": "rimo",
+      "name": "Needs",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "ygLp": {
+      "id": "ygLp",
+      "name": "Wants",
+      "type": "text",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    },
+    "title": {
+      "id": "title",
+      "name": "Name",
+      "type": "title",
+      "icon": "",
+      "default": null,
+      "dateFormat": null,
+      "timeFormat": null,
+      "verifierProperty": null,
+      "options": []
+    }
+  },
+  "views": [
+    {
+      "id": "fb3b7fef-37e4-4171-9a53-5b276a3b5ddd",
+      "collectionId": "8f8b44c0-dde2-4c2c-b13d-df4f296c07d0",
+      "type": "table",
+      "name": "",
+      "pagePointerId": null,
+      "pageSort": [
+        "78da2614-1c8c-4903-996f-0860e63eef28",
+        "d00f8648-2351-4740-a914-421640d2b9d2",
+        "a1eb7473-b592-4cf9-bc9d-6976afed87ee"
+      ],
+      "propertyFilters": [],
+      "tableProperties": [
+        {
+          "property": "title",
+          "visible": true,
+          "width": 170
+        },
+        {
+          "property": "Wt?Z",
+          "visible": true,
+          "width": 141
+        },
+        {
+          "property": "DKD@",
+          "visible": true,
+          "width": 200
+        },
+        {
+          "property": "ygLp",
+          "visible": true,
+          "width": 139
+        },
+        {
+          "property": "rimo",
+          "visible": true,
+          "width": 132
+        },
+        {
+          "property": "QL<X",
+          "visible": true,
+          "width": 200
+        }
+      ],
+      "galleryProperties": [],
+      "listProperties": [],
+      "boardColumns": [],
+      "boardColumnsBy": null,
+      "galleryCover": null,
+      "galleryCoverSize": null,
+      "galleryCoverAspect": null
+    }
+  ],
+  "rows": []
+}

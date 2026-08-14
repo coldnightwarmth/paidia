@@ -1,0 +1,126 @@
+{
+  "id": "988460ef-df44-47d3-9e35-c0faa2267913",
+  "slug": "tourism-and-leisure-mobilities",
+  "title": "Tourism & Leisure Mobilities",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Tourism-Leisure-Mobilities-988460efdf4447d39e35c0faa2267913?pvs=21",
+  "createdTime": 1654842603088,
+  "lastEditedTime": 1681314257235,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Tourism & Leisure Mobilities",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0465532daabf.webp",
+  "blocks": [
+    {
+      "id": "d4832424-6439-40e1-9e85-9862d55eabcc",
+      "type": "divider"
+    },
+    {
+      "id": "ded77a95-a673-48f4-bb83-4d4eecdd7707",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6020e385-343c-4438-8276-f139de419d68",
+          "type": "column",
+          "children": [
+            {
+              "id": "6780e2de-0eb3-45fe-ba74-48b718368f4e",
+              "type": "paragraph",
+              "html": "<em><strong>Tourism &amp; Leisure Mobilities: Politics, Work, &amp; Play</strong></em> is a compilation of essays edited by Jillian Rickley et al, published by Routledge, July 21, 2016."
+            },
+            {
+              "id": "22a4d4c3-ff0a-4efa-a628-b3000f04a0c2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6c8c0cda-c7c9-484f-8aa7-09f4a1ba1417",
+              "type": "quote",
+              "html": "<em>This book reframes tourism, as well as leisure, within mobilities studies to challenge the limitations that dichotomous understandings of home/away, work/leisure, and host/guest bring. A mobilities approach to tourism and leisure encourages us to think beyond the mobilities of tourists to ways in which tourism and leisure experiences bring other mobilities into sync, or disorder, and as a result re-conceptualizes social theory. The proposed anthology stretches across academic disciplines and fields of study to illustrate the advantages of multi-disciplinary conversation and, in so doing, it challenges how we approach studies of movement-based phenomena and the concept of scale. Part One examines the ways in which mobility informs and is informed by leisure, from everyday practices to leisure-inspired mobile lifestyles. Part Two investigates individuals and communities that become entrepreneurial in the face of changing tourism contexts and reflects on the performance of work through multiple mobilities. Part Three turns to issues of development, with attention to the cultural politics that frame development encounters in the context of tourism. The varied ways that people move into and out of development projects is mediated by geopolitical discourses hat can both challenge and perpetuate geographic imaginations of tourism destinations.</em>"
+            },
+            {
+              "id": "601a4205-307f-445d-839c-013b42c903d8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f917e5eb-0825-4053-a9e8-ac1293717524",
+          "type": "column",
+          "children": [
+            {
+              "id": "117ebec9-7b87-4a4b-aec6-3dc5e5a80460",
+              "type": "image",
+              "src": "./assets/images/untitled-0465532daabf.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5b1f84c-d68b-4791-84d7-cc0be34217b6",
+      "type": "divider"
+    },
+    {
+      "id": "7a828ced-cc3f-4d4f-93f1-be7a800c3b9e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c680e28f-1fb8-40e6-9fdb-aad2f9887498",
+          "type": "column",
+          "children": [
+            {
+              "id": "35ade857-677e-49b5-9870-46fa026db5da",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b29ccb82-0fec-469e-b8c9-b7a667cf5323",
+          "type": "column",
+          "children": [
+            {
+              "id": "772a1e36-f768-4f74-ba7e-b8a28b297f10",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zuCXG4\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "019d2430-2f7c-4eb2-9d83-92df1eda7a09",
+      "type": "divider"
+    }
+  ]
+}

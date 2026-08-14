@@ -1,0 +1,131 @@
+{
+  "id": "d05c1eaa-12a3-4754-a501-0dea1eadfc98",
+  "slug": "arcade-britannia",
+  "title": "Arcade Britannia",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Arcade-Britannia-d05c1eaa12a34754a5010dea1eadfc98?pvs=21",
+  "createdTime": 1666028493277,
+  "lastEditedTime": 1681310899247,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Arcade Britannia",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6575caf1700b.webp",
+  "blocks": [
+    {
+      "id": "1748f021-ff03-4214-acf2-6fd2354e83a0",
+      "type": "divider"
+    },
+    {
+      "id": "974a904a-04eb-450f-82d3-7d28d4c28434",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "bae49fca-e50a-4700-bf0d-4bc4947d4f9b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d2cf107d-57ea-4ae6-97e9-4713992c4991",
+          "type": "column",
+          "children": [
+            {
+              "id": "335ad792-7cd9-40ce-8d79-8b4998f61e96",
+              "type": "paragraph",
+              "html": "<em><strong>Arcade Britannia: A Social History of the British Amusement Arcade </strong></em>was written by Alan Meades, published by The MIT Press, October 25, 2022."
+            },
+            {
+              "id": "9423adf1-6529-4342-bbf1-61c80414d680",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6b233b54-da07-4ab9-8467-7dbd7cf64818",
+              "type": "quote",
+              "html": "<em><strong>The story of the British amusement arcade from the 1800s to the present.<br><br></strong></em><em>Amusement arcades are an important part of British culture, yet discussions of them tend to be based on American models. Alan Meades, who spent his childhood happily playing in British seaside arcades, presents the history of the arcade from its origins in traveling fairs of the 1800s to the present. Drawing on firsthand accounts of industry members and archival sources, including rare photographs and trade publications, he tells the story of the first arcades, the people who made the machines, the rise of video games, and the legislative and economic challenges spurred by public fears of moral decline. <br><br></em>Arcade Britannia<em> highlights the differences between British and North American arcades, especially in terms of the complex relationship between gambling and amusements. He also underlines Britain’s role in introducing coin-operated technologies into Europe, as well as the industry’s close links to America and, especially, Japan. He shows how the British arcade is a product of centuries of public play, gambling, entrepreneurship, and mechanization. Examining the arcade’s history through technological, social, cultural, biographic, and legislative perspectives, he describes a pendulum shift between control and liberalization, as well as the continued efforts of concerned moralists to limit and regulate public play. Finally, he recounts the impact on the industry of legislative challenges that included vicious taxation, questions of whether copyright law applied to video-game code, and the peculiar moment when every arcade game in Britain was considered a cinema.</em>"
+            },
+            {
+              "id": "36e802c3-5078-44f3-8bb8-ba2ebd927520",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f55bbbff-8888-4aaf-9b99-a9b3f03bb9cc",
+          "type": "column",
+          "children": [
+            {
+              "id": "e4b623af-1903-4ed5-b3fc-7ab77bfe0d71",
+              "type": "image",
+              "src": "./assets/images/untitled-6575caf1700b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a66b173-9f70-4ad4-a927-750ba06b89fc",
+      "type": "divider"
+    },
+    {
+      "id": "1f919245-6751-46ef-b754-7149ddde8b98",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6e041d8b-b658-4009-a0a2-b7cf19e00008",
+          "type": "column",
+          "children": [
+            {
+              "id": "ea4d6861-b15a-4b60-a68a-1b25d86d2d29",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c364da0c-f3f0-4e2f-ba24-3181c321b1c4",
+          "type": "column",
+          "children": [
+            {
+              "id": "917e2b33-a8ea-4255-9539-8553dcca2f6a",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3CHZKOs\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5e5a5bd-0e5e-4c26-8c3b-a0c24ac0441e",
+      "type": "divider"
+    }
+  ]
+}

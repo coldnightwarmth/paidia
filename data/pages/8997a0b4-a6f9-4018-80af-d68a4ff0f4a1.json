@@ -1,0 +1,161 @@
+{
+  "id": "8997a0b4-a6f9-4018-80af-d68a4ff0f4a1",
+  "slug": "flow",
+  "title": "Flow",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/8997a0b4a6f9401880afd68a4ff0f4a1",
+  "createdTime": 1651704250757,
+  "lastEditedTime": 1681313398793,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Flow"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1940e61002ac.webp",
+  "blocks": [
+    {
+      "id": "6ecca19c-0c96-47fe-ae00-1d8ae5159645",
+      "type": "divider"
+    },
+    {
+      "id": "00867e1e-f5d2-4655-852b-c3631d970089",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ce2254b6-51f5-47a7-b662-d1227dd6f4f3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d03ce93b-09cd-4f9c-ada7-3db3eee50275",
+          "type": "column",
+          "children": [
+            {
+              "id": "b2cb0aca-8a58-4d90-95be-bc6a2575c017",
+              "type": "paragraph",
+              "html": "<em><strong>Flow: The Psychology of Optimal Experience</strong></em> was written by Mihaly Csikszentmihalyi, originally published by Harper &amp; Row, January 15, 1990."
+            },
+            {
+              "id": "cd0baf5d-5723-46fe-adf9-5958f41c43d0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "16601b99-9679-4b5b-91b3-92ffc75d3f72",
+              "type": "quote",
+              "html": "<em>Legendary psychologist Mihaly Csikszentmihalyi's famous investigations of &quot;optimal experience&quot; have revealed that what makes an experience genuinely satisfying is a state of consciousness called </em><a href=\"#/flow-state\"><em>flow</em></a><em>. During flow, people typically experience deep enjoyment, creativity, and a total involvement with life. In this new edition of his groundbreaking classic work, Csikszentmihalyi (&quot;the leading researcher into ‘flow states’&quot; —Newsweek) demonstrates the ways this positive state can be controlled, not just left to chance. </em>Flow: The Psychology of Optimal Experience<em> teaches how, by ordering the information that enters our consciousness, we can discover true happiness, unlock our potential, and greatly improve the quality of our lives.</em>"
+            },
+            {
+              "id": "e6ba3bec-870e-4cbf-8c0d-bacc2b36c7c8",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "86226fa9-7a5e-4626-a370-20a359700bd8",
+          "type": "column",
+          "children": [
+            {
+              "id": "8959ace1-9072-40c5-a656-01b2c82431c2",
+              "type": "image",
+              "src": "./assets/images/untitled-1940e61002ac.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ca71236-c172-4282-a5b1-8958a53c10b4",
+      "type": "divider"
+    },
+    {
+      "id": "8fc6485e-3208-4f15-9be3-897716f60e80",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4270e2c2-3a6b-487f-8c1c-1f4cf59ab9f8",
+          "type": "column",
+          "children": [
+            {
+              "id": "3b938a29-220e-448d-a066-f56cc87700a1",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "76aefb14-eb28-4358-9df6-5991c5f1a80e",
+          "type": "column",
+          "children": [
+            {
+              "id": "4caaf25c-1b23-400d-bf8e-3d2162b565a5",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39VD0jS\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5dece153-868d-468d-b6d9-476ebf174faf",
+      "type": "divider"
+    },
+    {
+      "id": "ce69dc73-965c-435a-992c-77500992e8a3",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "f2f85b2e-416c-48c3-9ae7-9193d9b7d33a",
+      "type": "paragraph",
+      "html": "<a href=\"#/against-flow\">Against Flow</a> (<em>book</em>)"
+    },
+    {
+      "id": "bb467734-0145-46de-8903-87349b3c6257",
+      "type": "paragraph",
+      "html": "<a href=\"#/what-s-with-the-zone-flow-theory\">What’s With The Zone (Flow Theory)</a> (<em>video</em>)"
+    },
+    {
+      "id": "beec6340-5a48-4c84-a905-e3e76d29603b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f70cf9d5-1d44-4bf4-9541-61ac35279668",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "0301702a-f158-44da-9f28-89560bf34a01",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "6a6ef06f-7136-41f6-bcc1-3454131d8779",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

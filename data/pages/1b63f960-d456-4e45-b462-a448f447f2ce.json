@@ -1,0 +1,146 @@
+{
+  "id": "1b63f960-d456-4e45-b462-a448f447f2ce",
+  "slug": "gameworld-interfaces",
+  "title": "Gameworld Interfaces",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "1081620e-08cf-46c8-9e7a-d1a5798cd817",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Gameworld-Interfaces-1b63f960d4564e45b462a448f447f2ce?pvs=21",
+  "createdTime": 1654844427439,
+  "lastEditedTime": 1681313387417,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Gameworld Interfaces",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1c33ba79e56c.webp",
+  "blocks": [
+    {
+      "id": "291257c9-eb5c-4b4b-bdd0-5e284095476e",
+      "type": "divider"
+    },
+    {
+      "id": "da5eabc2-113b-4032-a7a1-133c6c17c5c4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b2fb87e4-b811-4bc6-9e8e-c2a3533063fb",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d622f681-6e2c-484e-a99f-384f1aac53ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "ae209e5b-0fe4-4b10-b6ed-1e76d50c38cc",
+              "type": "paragraph",
+              "html": "<em><strong>Gameworld Interfaces</strong></em> was written by Kristine Jørgensen, published by The MIT Press, December 20, 2013."
+            },
+            {
+              "id": "6183d6c1-28a9-4b6d-87e7-cf8f243e48b7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "964dfb39-d713-449a-b1ba-a54b52401603",
+              "type": "quote",
+              "html": "<em><strong>An investigation into computer game interfaces, both naturalistic and symbolic, and the distinction between gameworlds and other kinds of fictional worlds.<br><br></strong></em><em>Computer games usually take one of two approaches to presenting game information to players. A game might offer information naturalistically, as part of the game's imaginary universe; or it might augment the world of the game with overlays, symbols, and menus. In this book, Kristine Jørgensen investigates both kinds of gameworld interfaces. She shows that although the naturalistic approach may appear more integral to the imaginary world of the game, both the invisible and visible interfaces effectively present information that players need in order to interact with the game and its rules. The symbolic, less naturalistic approach would seem to conflict with the idea of a coherent, autonomous fictional universe; but, Jørgensen argues, gameworlds are not governed by the pursuit of fictional coherence but by the logics of game mechanics. This is characteristic of gameworlds and distinguishes them from other traditional fictional worlds.<br><br>Jørgensen investigates gameworld interfaces from the perspectives of both game designers and players. She draws on interviews with the design teams of Harmonix Music (producer of </em>Rock Band<em> and other music games) and Turbine Inc. (producer of such massively multiplayer online games as </em>Lord of the Rings Online<em>), many hours of gameplay, and extensive interviews and observations of players. The player studies focus on four games representing different genres: </em><a href=\"#/crysis\">Crysis</a>, <a href=\"/2f16dc4913b34ac09dfcb5856668a1cd\" target=\"_blank\" rel=\"noreferrer\">Command &amp; Conquer 3: Tiberian Wars</a>, <a href=\"#/space-invaders\">The Sims 2</a>, and <a href=\"/6ae6f66c4548406ba10740ff7b6d6e82\" target=\"_blank\" rel=\"noreferrer\">Diablo 2</a><em>. Finally, she presents a theory of game user interfaces and considers the implications of this theory for game design.</em>"
+            },
+            {
+              "id": "3a9f3b82-358d-44b1-8e55-d38e7f2669ed",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "130179e9-cf39-45fa-b797-c0ffdb3b3a47",
+          "type": "column",
+          "children": [
+            {
+              "id": "a5e268dc-16b9-42e6-9b77-8411c3cdffd2",
+              "type": "image",
+              "src": "./assets/images/untitled-1c33ba79e56c.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "df232066-9dc6-4366-8950-e24c358e3045",
+      "type": "divider"
+    },
+    {
+      "id": "d74b8f04-bf42-495c-8059-c7db8670cca4",
+      "type": "columns",
+      "children": [
+        {
+          "id": "acb26a1c-9ea1-4120-8c08-e8f1389e2d90",
+          "type": "column",
+          "children": [
+            {
+              "id": "264e3cff-74c3-4476-b6f2-6776e096a020",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c58f101c-f5d8-4239-8ccb-b2244705cc32",
+          "type": "column",
+          "children": [
+            {
+              "id": "2ed2cc97-a578-4541-9538-c1e3270799d6",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39iEtQI\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6490e5c-8977-4094-a021-d2be56181bb0",
+      "type": "divider"
+    },
+    {
+      "id": "74377f3d-78cf-4b23-8ded-3aeca2c49377",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7936f3bc-4f64-407b-8cdf-a91b7de8fc0a",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "d9a69273-1034-4fb1-a68b-5bf2b28ada9b",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

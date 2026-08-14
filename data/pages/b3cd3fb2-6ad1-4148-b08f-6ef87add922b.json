@@ -1,0 +1,126 @@
+{
+  "id": "b3cd3fb2-6ad1-4148-b08f-6ef87add922b",
+  "slug": "leibniz-on-binary",
+  "title": "Leibniz on Binary",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Leibniz-on-Binary-b3cd3fb26ad14148b08f6ef87add922b?pvs=21",
+  "createdTime": 1671547303725,
+  "lastEditedTime": 1681312200220,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Leibniz on Binary"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fb74a13e7b77.webp",
+  "blocks": [
+    {
+      "id": "6308484c-d422-484d-a6b5-67b0c301917c",
+      "type": "divider"
+    },
+    {
+      "id": "ae652c40-225b-4a69-9994-874f3dbb7612",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ba9b891e-c7c3-458f-bf6f-f1f0bfe61117",
+      "type": "columns",
+      "children": [
+        {
+          "id": "01cd2c4f-8a2a-4b11-bc03-e14ab766e1cf",
+          "type": "column",
+          "children": [
+            {
+              "id": "1f4f7f3d-3999-4ffd-bdcf-6deb8f6e411a",
+              "type": "paragraph",
+              "html": "<em><strong>Leibniz on Binary: The Invention of Computer Arithmetic </strong></em>was written &amp; edited by Lloyd Strickland &amp; Harry R. Lewis, published by The MIT Press, November 15, 2022."
+            },
+            {
+              "id": "0d33939d-1798-45d8-b3ed-268d773207fc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "c66f3eb0-f426-424f-8f8a-1dd152ce1fb3",
+              "type": "quote",
+              "html": "<strong><em>The first collection of Leibniz’s key writings on the binary system, newly translated, with many previously unpublished in any language.<br></em></strong><em><br>The polymath Gottfried Wilhelm Leibniz (1646–1716) is known for his independent invention of the calculus in 1675. Another major—although less studied—mathematical contribution by Leibniz is his invention of binary arithmetic, the representational basis for today’s digital computing. This book offers the first collection of Leibniz’s most important writings on the binary system, all newly translated by the authors with many previously unpublished in any language. Taken together, these thirty-two texts tell the story of binary as Leibniz conceived it, from his first youthful writings on the subject to the mature development and publication of the binary system.<br><br>As befits a scholarly edition, Strickland and Lewis have not only returned to Leibniz’s original manuscripts in preparing their translations, but also provided full critical apparatus. In addition to extensive annotations, each text is accompanied by a detailed introductory “headnote” that explains the context and content. Additional mathematical commentaries offer readers deep dives into Leibniz’s mathematical thinking. The texts are prefaced by a lengthy and detailed introductory essay, in which Strickland and Lewis trace Leibniz’s development of binary, place it in its historical context, and chart its posthumous influence, most notably on shaping our own computer age.</em>"
+            },
+            {
+              "id": "1830a8af-b354-4e20-97d2-34b15e715e27",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "7699d17a-b05c-4084-b195-e01d32911f96",
+          "type": "column",
+          "children": [
+            {
+              "id": "79243d59-c304-4c67-bd6c-417fbe56cb88",
+              "type": "image",
+              "src": "./assets/images/untitled-fb74a13e7b77.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6bff9c23-dddc-41f9-a7a6-1da6e8e42872",
+      "type": "divider"
+    },
+    {
+      "id": "469fb35f-7f78-4d73-88e4-876c18174327",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b467a7c4-f38b-4647-ab12-b43e76b38758",
+          "type": "column",
+          "children": [
+            {
+              "id": "93c6632a-854c-46e9-949f-d628b5f3ab19",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d16549a2-b670-4f67-843d-fe47cf2158d0",
+          "type": "column",
+          "children": [
+            {
+              "id": "d69ea02c-badc-48ba-b22d-06c0395996e4",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Leibniz-Binary-Invention-Computer-Arithmetic/dp/0262544342\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c97319d9-c60b-4a0f-a9d8-3ae8b0cffc20",
+      "type": "divider"
+    }
+  ]
+}

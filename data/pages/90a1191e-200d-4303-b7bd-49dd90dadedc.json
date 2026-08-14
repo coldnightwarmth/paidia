@@ -1,0 +1,131 @@
+{
+  "id": "90a1191e-200d-4303-b7bd-49dd90dadedc",
+  "slug": "playing-indian",
+  "title": "Playing Indian",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "7bae6230-8dc1-4ef2-aba5-9f21f756d24d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Playing-Indian-90a1191e200d4303b7bd49dd90dadedc?pvs=21",
+  "createdTime": 1665085445462,
+  "lastEditedTime": 1681312902261,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Playing Indian"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f0c273cb5284.webp",
+  "blocks": [
+    {
+      "id": "4ed471fa-c7fa-46cb-adf5-576b9c6b790f",
+      "type": "divider"
+    },
+    {
+      "id": "da4a79cf-671c-450c-b4e9-1e3b3f48a497",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7d0bc453-355a-411c-9dfe-c18134dd6f25",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a82d9aec-6d2a-40c2-b720-2c7cd545f7b6",
+          "type": "column",
+          "children": [
+            {
+              "id": "1960e1c8-a0cd-47a1-b875-385cbc0cb6a6",
+              "type": "paragraph",
+              "html": "<em><strong>Playing Indian </strong></em>was written by Philip J. Deloria, published by Yale University Press, April 20, 1998."
+            },
+            {
+              "id": "983217a3-bc8e-4ff7-86c4-f9bd8fc3f234",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "658efa6b-0691-4339-a152-e234de310f10",
+              "type": "quote",
+              "html": "Playing Indian<em> explores the history of the conflicted relationship white America has with Native American peoples. It explores the common historical and contemporary societal pattern of non-Natives simultaneously mimicking stereotypical ideas and imagery of &quot;Indians&quot; and &quot;Indianness&quot; (the &quot;Playing Indian&quot; of the title), in a quest for National identity in particular, while also denigrating, dismissing, and making invisible real, contemporary Indian people.</em>"
+            },
+            {
+              "id": "cf6724e5-71fc-40ff-a469-4abd78618f46",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e7d613a1-fe60-4aa8-a57d-88c9fc0c481d",
+          "type": "column",
+          "children": [
+            {
+              "id": "0dd6c8b4-98e5-4678-8395-33bad45eb25e",
+              "type": "image",
+              "src": "./assets/images/untitled-f0c273cb5284.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5ed4c481-e681-477b-8e26-8ce869d86603",
+      "type": "divider"
+    },
+    {
+      "id": "aad42c6b-7b17-4d0a-99c7-1f1355a47aab",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3386e4cc-e6e5-4371-8f8c-757483b71b0e",
+          "type": "column",
+          "children": [
+            {
+              "id": "75fdd7f8-5a48-4c3b-a115-890f134544f3",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3c8d451e-fbd5-44a0-9966-2d97c58ab63b",
+          "type": "column",
+          "children": [
+            {
+              "id": "c2248673-53e9-4690-a378-01bb5259b09e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3CeFILo\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "48374faa-0cfe-4bc8-8e8e-008545b419ba",
+      "type": "divider"
+    },
+    {
+      "id": "c2ea5125-819d-4313-beb0-343377fee4c2",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

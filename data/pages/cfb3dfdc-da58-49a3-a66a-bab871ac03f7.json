@@ -1,0 +1,126 @@
+{
+  "id": "cfb3dfdc-da58-49a3-a66a-bab871ac03f7",
+  "slug": "rivergods",
+  "title": "Rivergods",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Rivergods-cfb3dfdcda5849a3a66abab871ac03f7?pvs=21",
+  "createdTime": 1669917053624,
+  "lastEditedTime": 1681312282847,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Rivergods"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-cf61670ca885.webp",
+  "blocks": [
+    {
+      "id": "10c43013-b5db-45bc-b502-d5baeaded499",
+      "type": "divider"
+    },
+    {
+      "id": "b81eaa46-f4a0-4c90-b231-5796a3c6480c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "792892bf-2857-454f-af1a-db7cf2eab997",
+      "type": "columns",
+      "children": [
+        {
+          "id": "83390e04-5714-4e03-a354-9a01eddd4f66",
+          "type": "column",
+          "children": [
+            {
+              "id": "dd548d66-438b-473f-9303-d5ba7718613d",
+              "type": "paragraph",
+              "html": "<em><strong>Rivergods: Exploring the World's Great Wild Rivers </strong></em>was written by Richard Bangs &amp; Christian Kallen, published by Sierra Club Books, September 12, 1985."
+            },
+            {
+              "id": "fe568672-3eb6-4800-97df-ded1f8796d3d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "41a1a2ab-bc1c-4cce-9bed-0ad21ac5fa28",
+              "type": "quote",
+              "html": "<em>This book traces the adventures of explorers Richard Bangs and Christian Kallen as they raft down rivers in North and South America, Africa, Asia and Australia, selecting rivers with gradients that ensured white water. Along the way they combined physical challenge with anthropological and ecological investigation. Bangs and Kallen encountered hidden African tribes, observed Peruvian ceremonies revering the Inca and discovered for themselves that the Indus is still only partly navigable.</em>"
+            },
+            {
+              "id": "0b1e6030-1619-40bf-b9cf-77bdcd630ee0",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "80120ac8-98d0-43bd-987f-9f208b875301",
+          "type": "column",
+          "children": [
+            {
+              "id": "5b7b138c-51a2-45b1-b2ed-d063bf9806a5",
+              "type": "image",
+              "src": "./assets/images/untitled-cf61670ca885.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c8e171a-dd0b-427f-aaef-8e6e54fa09a6",
+      "type": "divider"
+    },
+    {
+      "id": "4ef29367-3488-4407-af8c-95bfe66b5d2a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3aa828fc-f288-4744-ae73-efb93952a297",
+          "type": "column",
+          "children": [
+            {
+              "id": "ea5967f2-edc8-4239-8d6a-a751d1ac356f",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0b6db3d1-fff3-4fa8-9401-f1e2c2542326",
+          "type": "column",
+          "children": [
+            {
+              "id": "7476f48b-7f23-402a-b28c-1db3241783f0",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Rivergods-Exploring-Worlds-Great-Rivers/dp/0871568454/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7805280b-4b09-4f4d-a6c9-875a75fa0efd",
+      "type": "divider"
+    }
+  ]
+}

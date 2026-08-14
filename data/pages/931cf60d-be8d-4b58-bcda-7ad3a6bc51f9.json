@@ -1,0 +1,56 @@
+{
+  "id": "931cf60d-be8d-4b58-bcda-7ad3a6bc51f9",
+  "slug": "understanding-ui-roles",
+  "title": "Understanding UI Roles",
+  "icon": "👾",
+  "cover": "",
+  "type": "page",
+  "parentId": "7b5f9f3f-f702-41d5-8d48-54aa0a367ce9",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/931cf60dbe8d4b58bcda7ad3a6bc51f9",
+  "createdTime": 1711198564308,
+  "lastEditedTime": 1711198564309,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Understanding UI Roles"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/uititles-62c56a875d10.webp",
+  "blocks": [
+    {
+      "id": "bad12f5a-1f9f-4d9d-b224-06141b6fd647",
+      "type": "subheader",
+      "html": "🧬The UI Spectrum.",
+      "anchorId": "the-ui-spectrum"
+    },
+    {
+      "id": "ffc04616-2773-47e1-bf33-d45923e94540",
+      "type": "divider"
+    },
+    {
+      "id": "11b1db6b-7e3e-4d6a-9146-21460a8852b0",
+      "type": "quote",
+      "html": "There are oftentimes discrepancies within the industry in regards to the various titles employed and the responsibilities asked of those positions, with lines between one and another not always being clear-cut. <br>With that said, most can be roughly plotted along a spectrum of responsibilites found throughout the development of a User Interface."
+    },
+    {
+      "id": "e8b8b3ff-2866-469b-b1fa-60dc2efaab0d",
+      "type": "callout",
+      "html": "Note that the below diagram is a highly abstract representation, and that there exists far more nuance between roles and responsibilities, at both personal, and studio levels, as well as by individual project needs.",
+      "icon": "⚠️",
+      "children": []
+    },
+    {
+      "id": "83ba5b6e-07cd-4be7-87bc-38f86f34c71e",
+      "type": "image",
+      "src": "./assets/images/uititles-62c56a875d10.webp",
+      "caption": "",
+      "alt": "Image"
+    }
+  ]
+}

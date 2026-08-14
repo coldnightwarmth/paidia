@@ -1,0 +1,131 @@
+{
+  "id": "a3a089ed-4704-4ba7-9ce9-1fd5e12668e0",
+  "slug": "the-wealth-of-virtual-nations",
+  "title": "The Wealth of Virtual Nations",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Wealth-of-Virtual-Nations-a3a089ed47044ba79ce91fd5e12668e0?pvs=21",
+  "createdTime": 1657299964830,
+  "lastEditedTime": 1681314254676,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Wealth of Virtual Nations",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-481f2b4e4cce.webp",
+  "blocks": [
+    {
+      "id": "152ff12f-f5bc-452a-a0ae-e86933dfd40c",
+      "type": "divider"
+    },
+    {
+      "id": "b30f633f-7882-4ff8-bd63-965f8ad27549",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7ef66ab9-3003-4d29-95ad-c50f430d899c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "11f2a549-f8fc-4b7a-bd0d-c9ccd975e9e4",
+          "type": "column",
+          "children": [
+            {
+              "id": "05cf021c-b66e-4a17-aeb7-491ebd408eaa",
+              "type": "paragraph",
+              "html": "<em><strong>The Wealth of Virtual Nations: Videogame Currencies</strong></em> was written by Adam Crowley, published by Palgrave Macmillan, April 12, 2017."
+            },
+            {
+              "id": "11e20f86-4f00-4c5f-82df-5c09bb78b96f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2e0ffcaa-b809-4411-b321-cac780c86de5",
+              "type": "quote",
+              "html": "<em>This book considers representations of wealth and the wealthy in videogames. The introduction explores the estrangement of wealth from everyday life in the contemporary west, and argues that videogames have contributed to modern life by dramatizing the economic anxieties of our age ― in particular, those anxieties that relate to the Global Great Recession. A review of historical titles reveals that such and related efforts draw in significant ways from the literary tradition of sentimental romance, where wealth and the wealthy have long been associated with notions of the underworld or hell. The relevance of this tradition to contemporary titles is explored through a careful analysis of romantic themes and concerns with significance to acts of exchange. </em>The Wealth of Virtual Nations<em> will appeal to students with an interest in narrative theory, game design, literature, economics, and the humanities. It will also be of interest to the videogame industry.</em>"
+            },
+            {
+              "id": "c197a67b-37a4-44d5-8db0-9383eda0d31b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d1adaac5-f681-4a0b-85a0-7748a881c53d",
+          "type": "column",
+          "children": [
+            {
+              "id": "9e9d1809-5d2b-40ab-a2ae-66a4453969c5",
+              "type": "image",
+              "src": "./assets/images/untitled-481f2b4e4cce.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d1a3bfa6-b8a2-4fc1-a10f-ff791a708667",
+      "type": "divider"
+    },
+    {
+      "id": "c687b264-21e2-4550-a969-bf0958f7d234",
+      "type": "columns",
+      "children": [
+        {
+          "id": "547df067-b28b-4302-857b-aa21c95d3f70",
+          "type": "column",
+          "children": [
+            {
+              "id": "9c2d61e1-3d25-4b7c-a121-ec8b385cfc90",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "986641e7-3ffa-40e9-a5f1-eecad8f254ec",
+          "type": "column",
+          "children": [
+            {
+              "id": "8cc6bae2-d883-44af-b83f-6ddd08e73371",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3P9UPdO\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9b0961d-d721-4488-972b-7b19c1a1b8d7",
+      "type": "divider"
+    }
+  ]
+}

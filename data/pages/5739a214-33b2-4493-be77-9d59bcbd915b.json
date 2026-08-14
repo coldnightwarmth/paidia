@@ -1,0 +1,131 @@
+{
+  "id": "5739a214-33b2-4493-be77-9d59bcbd915b",
+  "slug": "teaching-godly-play",
+  "title": "Teaching Godly Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "ab228170-cc6f-415c-83dd-423486ee9a43",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Teaching-Godly-Play-5739a21433b24493be779d59bcbd915b?pvs=21",
+  "createdTime": 1652724652329,
+  "lastEditedTime": 1681313237582,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Teaching Godly Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-c504726196e7.webp",
+  "blocks": [
+    {
+      "id": "84b17f54-5d74-41c9-a78d-065967494f70",
+      "type": "divider"
+    },
+    {
+      "id": "65fd54c6-8ee6-4db7-9ef0-c81e66daa5b0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "aca3c979-ca9d-423b-863b-de19d5d1820c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "40a243fd-188c-4cf6-b506-ea870ccadc52",
+          "type": "column",
+          "children": [
+            {
+              "id": "2ec9ac69-5f54-4582-beb8-902624fce940",
+              "type": "paragraph",
+              "html": "<em><strong>Teaching Godly Play: How to Mentor the Spiritual Development of Children</strong></em> was written by Jerome W. Berryman, originally published by Morehouse Education Resources in 1995, revised in 2009."
+            },
+            {
+              "id": "b246c48d-2bb1-442a-971c-b3babc2b3188",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9305b375-b896-4768-9d72-47a81768027d",
+              "type": "quote",
+              "html": "<em>This revised and expanded version of Godly Play founder Jerome Berryman’s 1995 handbook is for current and future users of </em>Godly Play<em>.<br><br>With this revision, the book’s original formatting has been redesigned to complement the eight volumes in </em>The Complete Guide to Godly Play<em> series. Illustrations have also been updated, and the text now better reflects the playful spirit of Godly Play. Up-to-date research in childhood development and instruction has also been incorporated in this comprehensive update.</em>"
+            }
+          ]
+        },
+        {
+          "id": "5c3aced3-eeee-4aef-87e8-29e1d4e7ad61",
+          "type": "column",
+          "children": [
+            {
+              "id": "221c7d5e-7fbd-4d51-a792-76bcd9fdfad4",
+              "type": "image",
+              "src": "./assets/images/untitled-c504726196e7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e97578ed-3e53-4420-a29d-98afdf2cd592",
+      "type": "divider"
+    },
+    {
+      "id": "c9e0a341-d646-4f6c-91d4-ec61256c6b44",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f7aa3673-a5cb-4385-a7d0-949d57c2f63f",
+          "type": "column",
+          "children": [
+            {
+              "id": "8341caa2-eb1d-4e60-9f74-57c3ae5cfa48",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "541c4a3b-c2f0-4e54-81a3-41e9a0938a34",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f85f6a9-b70e-4fe5-95c3-58768f4528c1",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Or7uJx\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c65c6f3e-a7f4-4dd0-b97d-f0a9b4ea86ff",
+      "type": "divider"
+    },
+    {
+      "id": "222a2809-a634-4b9b-9c2a-d413e8f0f299",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

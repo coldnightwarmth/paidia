@@ -1,0 +1,149 @@
+{
+  "id": "6c94bdcb-3ab6-4531-838f-a25f6a5bf03a",
+  "slug": "ada-lovelace",
+  "title": "Ada Lovelace",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "366cc82f-2e46-4a02-92ec-406eb3394f24",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/6c94bdcb3ab64531838fa25f6a5bf03a",
+  "createdTime": 1652547736541,
+  "lastEditedTime": 1681329259165,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Ada Lovelace"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/augustaadaking-0d0883e4ab94.webp",
+  "blocks": [
+    {
+      "id": "69630843-ff1f-49b2-87d7-696f66a62204",
+      "type": "divider"
+    },
+    {
+      "id": "e98189aa-b30d-48c4-9159-262456d62cc7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2fbcea03-25bf-4e13-af4c-960cac7ec551",
+      "type": "columns",
+      "children": [
+        {
+          "id": "854fc2a1-edb9-43eb-8715-4ca4a1786b84",
+          "type": "column",
+          "children": [
+            {
+              "id": "d0d4bbb7-1693-4284-bace-c5ba7dcb6ee8",
+              "type": "paragraph",
+              "html": "<strong>Ada Lovelace  </strong>(<em>Born xx, xxxx – </em>) wass"
+            },
+            {
+              "id": "8d52e872-9e91-4de4-bb0d-b294729032f1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2e9bf4a8-7d7a-46c9-9018-256efdeaf235",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9e85eec3-22d6-47df-ac5c-2c4e93f4bdbc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f77c802d-07f2-4d6b-91bb-9680c9b011a9",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "958e59b9-f4e4-4309-bfce-732c3e28885d",
+          "type": "column",
+          "children": [
+            {
+              "id": "e4d1429c-9995-468f-9110-9921cc5d80ff",
+              "type": "image",
+              "src": "./assets/images/augustaadaking-0d0883e4ab94.webp",
+              "caption": "",
+              "alt": "AugustaAdaKing.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8efc80ad-19f4-42f5-ab2c-5f735c766658",
+      "type": "divider"
+    },
+    {
+      "id": "32c51489-a2d7-4847-8795-2c75cabd7850",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "fd7e0658-7875-4281-93f4-ba74928f8835",
+      "type": "paragraph",
+      "html": "Metal Gear Solid (<em>game</em>)"
+    },
+    {
+      "id": "2ec553dc-f92a-43f4-85eb-5233ec9a5076",
+      "type": "paragraph",
+      "html": "Death Stranding (<em>game</em>)"
+    },
+    {
+      "id": "f39a9a10-c035-464a-8316-f6d816dbc37a",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-creative-gene\">The Creative Gene</a> (<em>book)</em>"
+    },
+    {
+      "id": "3999130e-dd6c-4f70-adb4-3a184ead4e34",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1b41d93b-33ae-45df-81d6-faef94993eba",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "99266cf0-a872-4cc5-bb07-4ec0d109cc9c",
+      "type": "divider"
+    },
+    {
+      "id": "9c5e246d-9f88-4f21-9ee0-c672e8dcc695",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "c367a600-9791-4f7a-8005-7970ce80077d",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-most-profound-moment-in-gaming-history\">The Most Profound Moment in Gaming History</a> (<em>video</em>)"
+    },
+    {
+      "id": "929b1f1c-b7a9-4a2e-9efb-f3c7d33fa022",
+      "type": "paragraph",
+      "html": "<a href=\"#/is-language-a-virus-starring-punished-venom-snake\">Is Language a Virus? Starring Punished &quot;Venom&quot; Snake</a> (<em>video</em>)"
+    },
+    {
+      "id": "5dc8d6b3-bb05-46a0-9d1a-d649a7867695",
+      "type": "paragraph",
+      "html": "<a href=\"#/longing-ruin-and-connection-in-hideo-kojima-s-death-stranding\">Longing, Ruin, &amp; Connection in Hideo Kojima’s Death Stranding</a> (<em>book</em>)"
+    }
+  ]
+}

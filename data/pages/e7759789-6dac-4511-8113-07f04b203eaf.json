@@ -1,0 +1,131 @@
+{
+  "id": "e7759789-6dac-4511-8113-07f04b203eaf",
+  "slug": "games-of-the-world",
+  "title": "Games of the World",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Games-of-the-World-e77597896dac4511811307f04b203eaf?pvs=21",
+  "createdTime": 1657231027539,
+  "lastEditedTime": 1681313905153,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Games of the World",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-85863f77d7de.webp",
+  "blocks": [
+    {
+      "id": "628c1322-58bb-48d1-b0b2-87b52cd7fc27",
+      "type": "divider"
+    },
+    {
+      "id": "9b181547-416d-43c5-8333-f21bafa80d5c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "344091b5-7fe3-4558-8652-f60f09489347",
+      "type": "columns",
+      "children": [
+        {
+          "id": "15a4df57-c82a-4fc4-a2bd-067783b79434",
+          "type": "column",
+          "children": [
+            {
+              "id": "fda50aa8-6f65-497d-9b8a-ee775750366b",
+              "type": "paragraph",
+              "html": "<em><strong>Games of the World</strong></em> was written by Frederic V. Grunfeld, originally published by the Ballantine Books, September 12, 1977."
+            },
+            {
+              "id": "b52f1e3f-40ec-41dc-9d52-90a9be7d3883",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "03a0a365-98a9-4534-941e-604b219723ae",
+              "type": "quote",
+              "html": "<em>A crafts book! A sports book! A history book! The fun and excitement of a world at play - beautifully described and lavishly illustrated. How to make them. How to play them. How they came to be.</em>"
+            },
+            {
+              "id": "c73a4954-a841-4db8-8940-6d94358e350e",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "4d52bc02-51c2-4bdf-8f7e-f80066382384",
+          "type": "column",
+          "children": [
+            {
+              "id": "55a7f45f-59ff-4ac5-9214-260ef7b7a574",
+              "type": "image",
+              "src": "./assets/images/untitled-85863f77d7de.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6037d93f-f79e-4d62-8bb6-a1221c16127b",
+      "type": "divider"
+    },
+    {
+      "id": "3e9a2330-de08-4435-a02c-899e53483e23",
+      "type": "columns",
+      "children": [
+        {
+          "id": "51b72423-a73c-4bda-8be1-9402f0fcffd4",
+          "type": "column",
+          "children": [
+            {
+              "id": "afaab0a9-969d-4159-8495-85279b11cfe8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0fa67e90-b8ca-4bd2-aef2-28a9fa9ccf87",
+          "type": "column",
+          "children": [
+            {
+              "id": "4aa4a7af-5ddd-4aaa-b131-66a6aee47c00",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Ilxa7Y\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aae0e872-45b3-41fe-8f97-23f842b29f0a",
+      "type": "divider"
+    }
+  ]
+}

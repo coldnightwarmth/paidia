@@ -1,0 +1,131 @@
+{
+  "id": "60685c42-d4c5-4fc9-a92a-b71cd78fbf86",
+  "slug": "joypads",
+  "title": "Joypads!",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "6327e3f8-0837-4524-9943-543d54afbec7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Joypads-60685c42d4c54fc9a92ab71cd78fbf86?pvs=21",
+  "createdTime": 1657305503637,
+  "lastEditedTime": 1681313860422,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Joypads!",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-95485b7bc9bd.webp",
+  "blocks": [
+    {
+      "id": "1d374264-68a9-436c-8e46-ff3850ee7919",
+      "type": "divider"
+    },
+    {
+      "id": "790f83c2-08f6-41ae-89a0-073b4950188a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d4e0c34e-0e5c-4039-851c-0eb1eecf2d76",
+      "type": "columns",
+      "children": [
+        {
+          "id": "dcc4924b-667f-450f-b8ed-5a9f247e0565",
+          "type": "column",
+          "children": [
+            {
+              "id": "65b1369b-50ab-405d-9906-209211094182",
+              "type": "paragraph",
+              "html": "<em><strong>Joypads!: The Design of Game Controllers</strong></em> was written by Nicolas Nova &amp; Laurent Bolli, self-published through CreateSpace, August 5, 2014."
+            },
+            {
+              "id": "88a038c1-7bbb-4d84-8d5a-d6d7230a03c0",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a2b48046-104f-4c72-a377-bcac708eb18f",
+              "type": "quote",
+              "html": "Joypads!<em> is an in-depth essay about one of the most iconic object of our time, the game controllers. Based on the accurate study of a huge collection and underlaid by references in the history of technology and video games gurus, the authors revisit the genesis and evolution of these revolutionary devices.</em>"
+            },
+            {
+              "id": "b9969cf8-5f7e-4845-9e8d-00188d38c627",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d0373317-aa6e-448c-90b0-e39b359eed99",
+          "type": "column",
+          "children": [
+            {
+              "id": "c5757565-2246-4e23-a351-cf75955e49fb",
+              "type": "image",
+              "src": "./assets/images/untitled-95485b7bc9bd.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ee5519d0-6e31-4f95-bf36-b05d4022e2f5",
+      "type": "divider"
+    },
+    {
+      "id": "d2d847f7-4492-4bf8-9210-3d90220c60f2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c76f2007-7ef5-4958-8525-0483d096c743",
+          "type": "column",
+          "children": [
+            {
+              "id": "37f7f682-962e-404c-b330-3cd3dafb5e3e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3dd6a77b-7067-4a4a-bd8c-ccad7f9c6fdf",
+          "type": "column",
+          "children": [
+            {
+              "id": "1fdb1763-3700-4743-86ca-0d53e7580138",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3PiVn1f\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6de9b0b9-50be-4caa-81e4-a113e3f3670e",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "ac52bb59-9983-4c26-9c73-f6f757a0c863",
+  "slug": "little-wars",
+  "title": "Little Wars",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Little-Wars-ac52bb5999834c269c73f6f757a0c863?pvs=21",
+  "createdTime": 1652738261873,
+  "lastEditedTime": 1681313890745,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Little Wars",
+        [
+          [
+            "b"
+          ],
+          [
+            "i"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6f9c7d93099e.webp",
+  "blocks": [
+    {
+      "id": "96598363-ba01-482d-9b3a-fd158d8d97b2",
+      "type": "divider"
+    },
+    {
+      "id": "c7c8043b-c649-4c4a-ac7d-70522f59d006",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "089ff2d3-6bc0-41ae-b93d-2d764c6ed1a1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "475bc384-27ea-4653-afec-9c63fd9824bd",
+          "type": "column",
+          "children": [
+            {
+              "id": "fc3ac1d5-6dd3-485a-b7d1-1a7ccf50c772",
+              "type": "paragraph",
+              "html": "<em><strong>Little Wars</strong></em> was written by H.G. Wells, originally published in 1913."
+            },
+            {
+              "id": "fb59324f-41cc-4700-8577-6702a53e34b1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2daf316d-102e-4502-9596-8e315df0a626",
+              "type": "quote",
+              "html": "&quot;LITTLE WARS&quot; is the game of kings—for players in an inferior social position. It can be played by boys of every age from twelve to one hundred and fifty—and even later if the limbs remain sufficiently supple—by girls of the better sort, and by a few rare and gifted women. This is to be a full History of Little Wars from its recorded and authenticated beginning until the present time, an account of how to make little warfare, and hints of the most priceless sort for the recumbent strategist.…"
+            }
+          ]
+        },
+        {
+          "id": "ae48d72b-d30f-4850-b56f-5b52d5393db7",
+          "type": "column",
+          "children": [
+            {
+              "id": "02c20bd8-f242-4cea-805b-6ea4a425745b",
+              "type": "image",
+              "src": "./assets/images/untitled-6f9c7d93099e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18711f11-319b-4949-931d-38a50be3a19f",
+      "type": "divider"
+    },
+    {
+      "id": "b1f94f43-c18c-46df-a419-0e885573dcd3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "92ad03cb-717a-4d16-bac3-78037832df91",
+          "type": "column",
+          "children": [
+            {
+              "id": "7ee1ed5f-c078-41ea-ab0d-f51c9a56185d",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b913c5d7-7664-406b-b0ab-13c9d9f501f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "28b52391-d736-4805-88d8-da7353260390",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3zZdaGd\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "194bc441-5b53-4088-9051-1491be092f60",
+      "type": "divider"
+    },
+    {
+      "id": "1d241f45-51d9-4778-b6c8-e81b8dfc6a8e",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "66310827-f785-405f-bb78-0d2186331873",
+      "type": "paragraph",
+      "html": "<a href=\"#/floor-games\">Floor Games</a> (<em>book</em>)"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "b1f4417b-89d6-4e6e-8433-07f796901781",
+  "slug": "power-up",
+  "title": "Power-Up",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "9816e801-8da7-4ce5-8ae1-310d17120207",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Power-Up-b1f4417b89d64e6e843307f796901781?pvs=21",
+  "createdTime": 1653078251525,
+  "lastEditedTime": 1681314026821,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Power-Up",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-70a390750353.webp",
+  "blocks": [
+    {
+      "id": "56004c78-4da5-469c-aecf-1b5da622a525",
+      "type": "divider"
+    },
+    {
+      "id": "9b597e7e-e8c4-4fd1-a7cc-fd964110b5f6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4ed164fa-3865-48b6-a448-076d671bb00c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e616939b-5fc4-406f-a5b5-40f095da6a0e",
+          "type": "column",
+          "children": [
+            {
+              "id": "33ba65a5-455f-4ecd-bb6d-446e3e0d427c",
+              "type": "paragraph",
+              "html": "<em><strong>Power-Up: How Japanese Video Games Gave the World an Extra Life</strong></em> was written by Chris Kohler, published by Dover Publications, October 21, 2016."
+            },
+            {
+              "id": "61063fca-b671-4b0a-aeaa-a33a8fca2f82",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a8db2e44-07a9-4cd5-a206-bf07df4197d8",
+              "type": "quote",
+              "html": "<em>Why are Japanese video games a worldwide sensation? This enjoyable and informative survey explores the reasons, starting with how Japanese developers raised the medium to an art form. The book also traces the ways in which the developers' ideas infused popular culture beyond the gaming world.<br><br>Interviews, anecdotes, and personal accounts offer insights from giants of the industry, including Shigeru Miyamoto, Hideo Kojima, and others involved in the creation of </em>Donkey Kong, Mario, Pokémon<em>, and other games. This revised edition includes updated material throughout the book as well as a new final chapter.</em>"
+            }
+          ]
+        },
+        {
+          "id": "fa9c6c45-cba8-4842-a120-6dfa5d1d5d3d",
+          "type": "column",
+          "children": [
+            {
+              "id": "8f500dfe-fc1c-493d-bdf4-0c661ff0c057",
+              "type": "image",
+              "src": "./assets/images/untitled-70a390750353.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd0ffd4a-13b4-4511-8c02-9f8fb11f21be",
+      "type": "divider"
+    },
+    {
+      "id": "f0f5349c-d80b-435b-be79-d787591e4e4f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8b6b46bc-a584-4d90-8c24-6b8744813406",
+          "type": "column",
+          "children": [
+            {
+              "id": "1be7032c-1318-4f25-829c-40a24dee481b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "feb177f5-0d76-4e9b-a456-d32859d4433c",
+          "type": "column",
+          "children": [
+            {
+              "id": "753b6b54-6919-4640-a2f9-0e1e9ea23095",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3sMrrkQ\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b5659b9-9cd5-4d7d-8c7c-c5a3b713884a",
+      "type": "divider"
+    },
+    {
+      "id": "7101e754-4486-432e-85f6-cb31e442195b",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

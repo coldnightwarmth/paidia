@@ -1,0 +1,136 @@
+{
+  "id": "3117a5cd-5a0a-4074-80ab-64e220c9568e",
+  "slug": "grimaldi",
+  "title": "Grimaldi",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e2e30465-8b4c-4dc2-a77e-575ae79aed65",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Grimaldi-3117a5cd5a0a407480ab64e220c9568e?pvs=21",
+  "createdTime": 1670006337908,
+  "lastEditedTime": 1681312244897,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Grimaldi",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/515bybvfhul-ac-sy780-049b3de1abba.webp",
+  "blocks": [
+    {
+      "id": "670f14d1-5b64-4ac7-871a-8530742b4565",
+      "type": "divider"
+    },
+    {
+      "id": "a3bbe098-5f2a-446d-9395-eafc662159e2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "921cc10a-6de3-46df-99c4-d985a732f367",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8dae5bea-31e0-430e-ad71-d5988d8f8855",
+          "type": "column",
+          "children": [
+            {
+              "id": "8ba763ae-ae04-440b-bcee-dc09369e8462",
+              "type": "paragraph",
+              "html": "<em><strong>Grimaldi: King of Clowns</strong></em> was written by Richard Findlater, published by Macgibbon &amp; Kee in 1955."
+            },
+            {
+              "id": "0b189f96-1dcc-4744-aded-0f76fea3dccf",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a4e4ac06-cc4c-465e-8d07-8eda82d79999",
+              "type": "quote",
+              "html": "<em>Show-biz biography.</em>"
+            },
+            {
+              "id": "5820797b-a830-4409-a51c-0ac2080e6ee1",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "86ab4e0e-a015-4515-978c-156ce28bf7aa",
+          "type": "column",
+          "children": [
+            {
+              "id": "3a009ac6-5ff6-4f38-9724-f0f034bbbc35",
+              "type": "image",
+              "src": "./assets/images/515bybvfhul-ac-sy780-049b3de1abba.webp",
+              "caption": "",
+              "alt": "515BYbVfhUL._AC_SY780_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "197e86bb-9a8f-4e35-83fb-9db751b3c7ce",
+      "type": "divider"
+    },
+    {
+      "id": "45bd0709-6aa6-41f3-b5c4-f3607d30ba2a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3945c20c-c846-4c7f-9dfb-53feb85c8027",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd19a32a-1155-402f-a4b6-3558235d493e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6d1e5d68-b910-4fbc-bcb0-4ec697c55762",
+          "type": "column",
+          "children": [
+            {
+              "id": "cbcf93f6-3359-4783-bf56-8c690a94cf9a",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Grimaldi-King-Clowns-Richard-Findlater/dp/B0006AURPM/ref=sr_1_1?crid=2H0K3CRBBQXYL&amp;keywords=Grimaldi+King+of+Clowns&amp;qid=1669669301&amp;sprefix=grimaldi+king+of+clowns%2Caps%2C80&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb46f401-4bef-477a-98ea-f26dd533acf1",
+      "type": "divider"
+    },
+    {
+      "id": "79ac21eb-f7df-4b39-8c44-010bae34b599",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

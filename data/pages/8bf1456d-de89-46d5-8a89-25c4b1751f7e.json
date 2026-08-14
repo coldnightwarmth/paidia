@@ -1,0 +1,149 @@
+{
+  "id": "8bf1456d-de89-46d5-8a89-25c4b1751f7e",
+  "slug": "jesper-juul",
+  "title": "Jesper Juul",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "168b4ff9-9835-46d8-acec-a0b44ae2427e",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/8bf1456dde8946d58a8925c4b1751f7e",
+  "createdTime": 1653070339539,
+  "lastEditedTime": 1681328959979,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Jesper Juul"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d7a4a28594d7.webp",
+  "blocks": [
+    {
+      "id": "b52e4736-81b7-49d3-9a0e-6ba8cd72c2cc",
+      "type": "divider"
+    },
+    {
+      "id": "261f6916-aef6-4bc8-aad9-f06182c9903c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1b445b68-307c-4a9f-b127-fa25bedf12de",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6c4260dd-f770-4cfa-a726-bf16c060efc8",
+          "type": "column",
+          "children": [
+            {
+              "id": "af3e9971-077a-484c-bd6a-89fc4cf92e70",
+              "type": "paragraph",
+              "html": "<strong>Jesper Juul</strong>"
+            },
+            {
+              "id": "aadedb79-dcdf-41fa-9912-268bad820728",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a6158712-d747-471d-8e42-5ecce9c7bc95",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a49e8ea0-1ea0-438f-91e7-1fe3bf34cbe2",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "11193a4d-3049-4d25-960f-c083a9150ca1",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "b8e83f05-b3fa-4bb9-b02f-b9e29906aff4",
+          "type": "column",
+          "children": [
+            {
+              "id": "b0837022-6d76-4d07-b1d9-22961d2f7417",
+              "type": "image",
+              "src": "./assets/images/untitled-d7a4a28594d7.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1a87f82-2d0a-447b-8719-18f4a4efe245",
+      "type": "divider"
+    },
+    {
+      "id": "c8eab839-daed-4d53-ad3b-8e995c4724c9",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "2c96a6f5-17ca-4b19-a957-f04b66bf09a0",
+      "type": "paragraph",
+      "html": "<a href=\"#/a-casual-revolution\">A Casual Revolution</a> (2009) (<em>book)</em>"
+    },
+    {
+      "id": "7592765e-8dd7-4a4c-8c7f-f9ccfcf06107",
+      "type": "paragraph",
+      "html": "<a href=\"#/half-real\">Half-Real</a> (2011) (<em>book)</em>"
+    },
+    {
+      "id": "fce3485b-c26f-4235-a1ef-092f151d973a",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-art-of-failure\">The Art of Failure</a> (2013) (<em>book)</em>"
+    },
+    {
+      "id": "e18666a9-021d-4adc-b4df-2ce3818138ff",
+      "type": "paragraph",
+      "html": "<a href=\"#/handmade-pixels\">Handmade Pixels</a> (2019) (<em>book)</em>"
+    },
+    {
+      "id": "c8b41e18-35ae-477b-af3e-86cca2b0d05e",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d22b7447-c6bc-40bc-8030-dc64dd1db0b5",
+      "type": "divider"
+    },
+    {
+      "id": "fbca5986-9658-4c0e-a9c1-90b330bc6bf9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "9da0b14c-dbf9-4843-9e8a-ceb94cd51c1b",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "6f05f1c8-e05d-4ed0-b9bb-819ce8ec5fd9",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "923cb5b0-5ef3-4f69-9799-7c9554f1bcfd",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

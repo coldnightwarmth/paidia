@@ -1,0 +1,131 @@
+{
+  "id": "b39e7737-c09a-4a28-b7d9-9130e2a44576",
+  "slug": "children-on-playgrounds",
+  "title": "Children on Playgrounds",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "941cc77c-8e6e-4869-a86c-9aaae44d9333",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Children-on-Playgrounds-b39e7737c09a4a28b7d99130e2a44576?pvs=21",
+  "createdTime": 1653073660928,
+  "lastEditedTime": 1681311498839,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Children on Playgrounds",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b4f974cc7faa.webp",
+  "blocks": [
+    {
+      "id": "1a377354-8103-4353-a9e7-92e554e32326",
+      "type": "divider"
+    },
+    {
+      "id": "d888f4fb-4587-424d-9eb1-d9bd2dce115b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f522a727-1cc4-41db-ae0f-91794ab0463f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "30b601fa-e006-4cb5-85a6-781993c23248",
+          "type": "column",
+          "children": [
+            {
+              "id": "80430f0d-79c9-474b-97cc-5ef9d09b0db9",
+              "type": "paragraph",
+              "html": "<em><strong>Children on Playgrounds</strong></em> is a collection of essays edited by Craig H. Hart, published by SUNY Press, July 1, 1993."
+            },
+            {
+              "id": "70938dda-eb4a-4626-ae85-36a4df0ce212",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "764ecacb-38ff-4cd6-a354-bf638384bfab",
+              "type": "quote",
+              "html": "<em>This book focuses on key issues and current research evidence of links between children's behavior in outdoor play environments and children's development. Specific attention is given to ways that outdoor play environments are extensions of other development settings, like the classroom or family. Since most work up to this point has focused on development in indoor classroom settings or in other developmental contexts, this book makes an important contribution.</em>"
+            }
+          ]
+        },
+        {
+          "id": "6eaf2600-9c8b-4f09-ae91-3966fb5b2f42",
+          "type": "column",
+          "children": [
+            {
+              "id": "5f6d07db-11ef-4296-847b-d4e0b43eeccc",
+              "type": "image",
+              "src": "./assets/images/untitled-b4f974cc7faa.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "816f904c-2832-4218-b700-a5e7e6c20e80",
+      "type": "divider"
+    },
+    {
+      "id": "77513d0d-f7d6-4c5c-8828-774207561694",
+      "type": "columns",
+      "children": [
+        {
+          "id": "6149e115-3e55-44fd-a5dd-80d3ea0cfdc2",
+          "type": "column",
+          "children": [
+            {
+              "id": "69cc8c06-9b62-4c7b-a3d1-f2fe720bb773",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f0933a2a-e4f9-4249-aa78-8a792337a7e8",
+          "type": "column",
+          "children": [
+            {
+              "id": "2a1b9a06-05fa-4c5b-8b1a-3c763214be61",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3UAagQ7\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f9f6643-39d4-41bf-9e69-9e0899420284",
+      "type": "divider"
+    },
+    {
+      "id": "1660e42d-46d1-4cae-bc1a-b4488ebb8082",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

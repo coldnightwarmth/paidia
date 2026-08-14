@@ -1,0 +1,136 @@
+{
+  "id": "fae5d21a-3a8d-484f-ada1-fb9b68053e33",
+  "slug": "literary-gaming",
+  "title": "Literary Gaming",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "73039313-bbff-4c46-a3a3-80194322f873",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/fae5d21a3a8d484fada1fb9b68053e33",
+  "createdTime": 1651708834816,
+  "lastEditedTime": 1681314147222,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Literary Gaming",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5fc6f668d5fb.webp",
+  "blocks": [
+    {
+      "id": "3c32e984-aa5a-4280-a9a8-afd05a9aa71a",
+      "type": "divider"
+    },
+    {
+      "id": "de2cdec3-f8a2-4c76-bf74-35b8b383288c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5e4a49b8-7f69-44df-b44e-7e4f51539481",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7ae376f3-ede5-4aa9-b5c0-a308867c6005",
+          "type": "column",
+          "children": [
+            {
+              "id": "c43f52b8-d8fa-4366-9d4c-aa34bfebd51c",
+              "type": "paragraph",
+              "html": "<em><strong>Literary Gaming</strong></em> was written by Astrid Ensslin, published by The MIT Press, March 14, 2014."
+            },
+            {
+              "id": "a8d2884e-9db4-4ef1-9987-c39f02c59b47",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "8d9fa163-3322-455c-8afb-51788f19c67a",
+              "type": "quote",
+              "html": "<em><strong>A new analytical framework for understanding literary videogames, the literary-ludic spectrum, illustrated by close readings of selected works.<br><br></strong></em><em>In this book, Astrid Ensslin examines literary videogames—hybrid digital artifacts that have elements of both games and literature, combining the ludic and the literary. These works can be considered verbal art in the broadest sense (in that language plays a significant part in their aesthetic appeal); they draw on game mechanics; and they are digital-born, dependent on a digital medium (unlike, for example, conventional books read on e-readers). They employ narrative, dramatic, and poetic techniques in order to explore the affordances and limitations of ludic structures and processes, and they are designed to make players reflect on conventional game characteristics. Ensslin approaches these hybrid works as a new form of experimental literary art that requires novel ways of playing and reading. She proposes a systematic method for analyzing literary-ludic (L-L) texts that takes into account the analytic concerns of both literary stylistics and ludology.<br><br>After establishing the theoretical underpinnings of her proposal, Ensslin introduces the L-L spectrum as an analytical framework for literary games. Based on the phenomenological distinction between deep and hyper attention, the L-L spectrum charts a work's relative emphases on reading and gameplay. Ensslin applies this analytical toolkit to close readings of selected works, moving from the predominantly literary to the primarily ludic, from online hypermedia fiction to Flash fiction to interactive fiction to poetry games to a highly designed literary “auteur” game. Finally, she considers her innovative analytical methodology in the context of contemporary ludology, media studies, and literary discourse analysis.</em>"
+            },
+            {
+              "id": "9e285064-7c21-4fe4-9f9b-21c21684db7c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "e59e6004-61c0-47db-a8f9-c9ddec291c42",
+          "type": "column",
+          "children": [
+            {
+              "id": "a5dd1f4f-094a-4b3b-8a5f-939679e45e94",
+              "type": "image",
+              "src": "./assets/images/untitled-5fc6f668d5fb.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab0a8940-8f70-4930-beba-0c1b9f6f9e4f",
+      "type": "divider"
+    },
+    {
+      "id": "aea03c6d-ea39-4b16-b2ef-4068dc5fc308",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3e254f71-3ffa-47e1-aa30-18893389a5ab",
+          "type": "column",
+          "children": [
+            {
+              "id": "f3dfcabb-eaeb-459a-85b3-10735229a2e5",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6d458f51-c8b0-4d97-8316-5824ac70b0f7",
+          "type": "column",
+          "children": [
+            {
+              "id": "25486998-dc14-41a5-a8fc-fdfdef6bda7e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3l64WDx\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebe63764-b9fa-4a47-a957-a8ba126046b4",
+      "type": "divider"
+    },
+    {
+      "id": "17eee011-f856-4a88-913b-99c67a001cc1",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

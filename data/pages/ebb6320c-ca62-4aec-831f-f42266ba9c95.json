@@ -1,0 +1,131 @@
+{
+  "id": "ebb6320c-ca62-4aec-831f-f42266ba9c95",
+  "slug": "black-software",
+  "title": "Black Software",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Black-Software-ebb6320cca624aec831ff42266ba9c95?pvs=21",
+  "createdTime": 1651695093745,
+  "lastEditedTime": 1681311193091,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Black Software",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/81nbcv2kzpl-9709bb0f9e26.webp",
+  "blocks": [
+    {
+      "id": "1f535284-f9ae-42ea-a2e5-925a611aa4d8",
+      "type": "divider"
+    },
+    {
+      "id": "03c81bb0-c74e-49d5-a14b-7fc4dd2c4dd9",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f34ac225-3746-40d0-bd8e-179e12be3513",
+      "type": "columns",
+      "children": [
+        {
+          "id": "298c9252-b55b-481c-b689-167f009e14d7",
+          "type": "column",
+          "children": [
+            {
+              "id": "c60efbf7-9f46-44cf-9c84-49dcf797a325",
+              "type": "paragraph",
+              "html": "<em><strong>Black Software: The Internet &amp; Racial Justice, from the AfroNet to Black Lives Matter</strong></em><strong> </strong>was written by Charlton D. McIlwain, published by Oxford University Press, September 1, 2021."
+            },
+            {
+              "id": "a1158340-06ff-4cb1-9d52-f62be89b700b",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "de677438-665d-4801-8ad8-084dbb6d8750",
+              "type": "quote",
+              "html": "<em>Activists, pundits, politicians, and the press frequently proclaim today's digitally mediated racial justice activism the new civil rights movement. As Charlton D. McIlwain shows in this book, the story of racial justice movement organizing online is much longer and varied than most people know. In fact, it spans nearly five decades and involves a varied group of engineers, entrepreneurs, hobbyists, journalists, and activists. But this is a history that is virtually unknown even in our current age of Google, Facebook, Twitter, and Black Lives Matter.<br><br>Beginning with the simultaneous rise of civil rights and computer revolutions in the 1960s, McIlwain, for the first time, chronicles the long relationship between African Americans, computing technology, and the Internet. In turn, he argues that the forgotten figures who worked to make black politics central to the Internet's birth and evolution paved the way for today's explosion of racial justice activism. From the 1960s to present, the book examines how computing technology has been used to neutralize the threat that black people pose to the existing racial order, but also how black people seized these new computing tools to build community and wealth, and to wage a war for racial justice.Through archival sources and the voices of many of those who lived and made this history, </em>Black Software<em> centralizes African Americans' role in the Internet's creation and evolution, illuminating both the limits and possibilities for using digital technology to push for racial justice in the United States and across the globe.</em>"
+            },
+            {
+              "id": "319f7ec1-fceb-4604-a472-377c16efa696",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d47fbd1c-2b67-43ec-ae5c-d9cb4a5a6b07",
+          "type": "column",
+          "children": [
+            {
+              "id": "1aaeb96d-d454-4e9a-ba93-3865ae698bd4",
+              "type": "image",
+              "src": "./assets/images/81nbcv2kzpl-9709bb0f9e26.webp",
+              "caption": "",
+              "alt": "81nBCv2KzPL.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9cb79684-42fa-44e7-bc76-851ddfe1dd80",
+      "type": "divider"
+    },
+    {
+      "id": "92e15c35-b875-41e8-9421-21edcc05e5c2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5f0152cb-8ca0-49a6-bda5-8d2e036fd1df",
+          "type": "column",
+          "children": [
+            {
+              "id": "85220f40-d9fb-47f3-89f7-b8dbba9123f6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cac25399-53c1-4d5a-b9fc-f95f45222a75",
+          "type": "column",
+          "children": [
+            {
+              "id": "44220007-d154-401f-b569-6ba9094d4945",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/39IvqJ8\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "616e0d4b-c229-4cce-9414-b5eeb4478103",
+      "type": "divider"
+    }
+  ]
+}

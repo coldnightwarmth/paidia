@@ -1,0 +1,126 @@
+{
+  "id": "43636249-3bae-47ae-94c7-4a5c488925d9",
+  "slug": "from-counterculture-to-cyberculture",
+  "title": "From Counterculture to Cyberculture",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "45e6d2c6-6b4f-4268-b65b-c854e91275c7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/From-Counterculture-to-Cyberculture-436362493bae47ae94c74a5c488925d9?pvs=21",
+  "createdTime": 1651710297871,
+  "lastEditedTime": 1681314180821,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "From Counterculture to Cyberculture"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6acd2c71df80.webp",
+  "blocks": [
+    {
+      "id": "8e15bf93-ddbc-4326-97aa-f4e77b3d01c8",
+      "type": "divider"
+    },
+    {
+      "id": "3bea3917-ac41-4b6e-a3e5-ded4c740a1a3",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c3ac4ca4-f19d-4e97-91c7-f23fb5ea4f0b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b95b7556-ab1a-44d1-aac5-bc17075e9fcf",
+          "type": "column",
+          "children": [
+            {
+              "id": "62c6d379-6b40-4a07-89cc-c6f9c8a48371",
+              "type": "paragraph",
+              "html": "<em><strong>From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism</strong></em> was written by Fred Turner, published by University of Chicago Press, May 15, 2008."
+            },
+            {
+              "id": "3276b121-89ce-4847-a672-4d26b6e9298e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a1944e71-aef9-4c51-8ec0-922870af8739",
+              "type": "quote",
+              "html": "<em>In the early 1960s, computers haunted the American popular imagination. Bleak tools of the cold war, they embodied the rigid organization and mechanical conformity that made the military-industrial complex possible. But by the 1990s—and the dawn of the Internet—computers started to represent a very different kind of world: a collaborative and digital utopia modeled on the communal ideals of the hippies who so vehemently rebelled against the cold war establishment in the first place. <br><br>From </em>Counterculture to Cyberculture<em> is the first book to explore this extraordinary and ironic transformation. Fred Turner here traces the previously untold story of a highly influential group of San Francisco Bay–area entrepreneurs: Stewart Brand and the Whole Earth network. Between 1968 and 1998, via such familiar venues as the National Book Award–winning </em>Whole Earth Catalog<em>, the computer conferencing system known as WELL, and, ultimately, the launch of the wildly successful </em>Wired<em> magazine, Brand and his colleagues brokered a long-running collaboration between San Francisco flower power and the emerging technological hub of Silicon Valley. Thanks to their vision, counterculturalists and technologists alike joined together to reimagine computers as tools for personal liberation, the building of virtual and decidedly alternative communities, and the exploration of bold new social frontiers. <br><br>Shedding new light on how our networked culture came to be, this fascinating book reminds us that the distance between the Grateful Dead and Google, between Ken Kesey and the computer itself, is not as great as we might think.</em>"
+            },
+            {
+              "id": "cd38dae0-bd6a-4b8a-9979-98a930d5bc5d",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "f262ed0c-006f-4ca6-bbfc-7c595b1b956e",
+          "type": "column",
+          "children": [
+            {
+              "id": "e448bd33-2c02-43da-a269-c0ac0341b650",
+              "type": "image",
+              "src": "./assets/images/untitled-6acd2c71df80.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b00a0805-4acd-4fad-8b46-0a8e5f2740e5",
+      "type": "divider"
+    },
+    {
+      "id": "7e448873-9f8e-4a65-8b08-2a681df4691c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "3450e4bb-4da1-4f4f-baf3-2dd59f3d5666",
+          "type": "column",
+          "children": [
+            {
+              "id": "ee6bde49-35cf-47d6-80c1-b7c1b814bfd6",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "35d1577f-2e78-4242-8888-e17db350770b",
+          "type": "column",
+          "children": [
+            {
+              "id": "9d29d544-03c1-4960-91ca-9f2322fef7be",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3HIn94o\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c8ef71f-f591-40b1-ad9e-2ea4b091bbf4",
+      "type": "divider"
+    }
+  ]
+}

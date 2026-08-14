@@ -1,0 +1,136 @@
+{
+  "id": "44772672-dc89-4363-af50-813e872f4fe9",
+  "slug": "homo-ludens-44772672",
+  "title": "Homo Ludens",
+  "icon": "./assets/images/book-closed-yellow-9ea3079073aa.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/44772672dc894363af50813e872f4fe9",
+  "createdTime": 1651681320000,
+  "lastEditedTime": 1681313204946,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Homo Ludens"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-9f7ec4b2cd98.webp",
+  "blocks": [
+    {
+      "id": "282fedab-ebbd-4692-9a1e-89dc68ca0736",
+      "type": "divider"
+    },
+    {
+      "id": "6aa18c0f-f2af-4af9-a8fa-fee2ad2e655c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6ea1c42e-33cf-4d78-b0f3-913a5202b61f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fc69adc9-0db8-4f4f-9972-a705f2a0eca5",
+          "type": "column",
+          "children": [
+            {
+              "id": "f4d4f255-af2e-4f68-adaa-c056c79a0eba",
+              "type": "paragraph",
+              "html": "<em><strong>Homo Ludens: A Study of the Play-Element in Culture</strong></em> is the protoypical masterwork of play studies written by Dutch historian and cultural theorist <a href=\"#/johan-huizinga\">Johan Huizinga</a>, originally published Random House in 1938. It discusses the importance of the play element of culture and society."
+            },
+            {
+              "id": "8184ffbd-a224-44d1-be58-07abc0066749",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "98f04661-e61b-41e6-93c3-43f28d69d260",
+              "type": "quote",
+              "html": "<em>In </em>Homo Ludens<em>, Johan Huizinga defines play as the central activity in flourishing societies. He identifies five characteristics of play: it is free; it is not “ordinary” or “real” life; it is distinct from “ordinary” life both as to locality and duration; it creates order; it is connected with no material interest, and from it no profit can be gained.<br><br>With cross-cultural examples from the humanities, business, and politics, Huizinga examines play in all its diverse guises―as it relates to language, law, war, knowledge, poetry, myth, philosophy, art, and much more. As he writes, “Civilization is, in its earliest phases, played. It does not come from play like a baby detaching itself from the womb: it arises in and as play, and never leaves it.”<br></em>"
+            },
+            {
+              "id": "977df726-0919-41f1-a0cd-e1c5d3b2aa7a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "6e0a4162-3da6-4fb5-8798-e5b6e2ea6149",
+          "type": "column",
+          "children": [
+            {
+              "id": "ab639778-67ca-49b6-8f9e-c0860cc977e9",
+              "type": "image",
+              "src": "./assets/images/untitled-9f7ec4b2cd98.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d246f155-e872-4f2a-aebd-3221e67613c7",
+      "type": "divider"
+    },
+    {
+      "id": "5689f9de-c228-4432-9f68-438448de0e16",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b65f2b1e-2323-41f0-b083-a83dad680cf7",
+          "type": "column",
+          "children": [
+            {
+              "id": "cf58ae2e-445a-4006-a87e-f0935f8d68b0",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "751e552a-b5fc-4307-a835-b7b9a493d9ac",
+          "type": "column",
+          "children": [
+            {
+              "id": "4a24064a-35d2-40cb-8fb4-473a4920cf17",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3FHhV8b\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e08500b6-dd27-45a1-a67f-728b1992e5e4",
+      "type": "divider"
+    },
+    {
+      "id": "392de542-406c-403c-bdcc-265fc7601e27",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "a4d8859a-b82f-42cb-bb1a-0232780d4a0d",
+      "type": "paragraph",
+      "html": "<a href=\"#/is-the-homo-ludens-cheerful-and-serious-at-the-same-time\">Is the Homo-Ludens Cheerful &amp; Serious at the Same Time?</a> (<em>article</em>)"
+    }
+  ]
+}

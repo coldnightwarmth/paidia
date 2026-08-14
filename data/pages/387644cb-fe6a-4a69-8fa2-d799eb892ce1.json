@@ -1,0 +1,56 @@
+{
+  "id": "387644cb-fe6a-4a69-8fa2-d799eb892ce1",
+  "slug": "narrative-summary",
+  "title": "Narrative summary",
+  "icon": "📖",
+  "cover": "",
+  "type": "page",
+  "parentId": "01323835-74dd-4c2d-bff5-d14e3a90761c",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/387644cbfe6a4a698fa2d799eb892ce1",
+  "createdTime": 1645270993131,
+  "lastEditedTime": 1645294740000,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Narrative summary"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "72e0da30-0136-422f-a32d-bdfb8fcb4161",
+      "type": "paragraph",
+      "html": "A summary of what happens in your game in terms of story."
+    },
+    {
+      "id": "14ec8b2a-4d65-4daa-934e-0ab0fc53ebb2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "c59b76af-5445-4627-84db-f500149cb328",
+      "type": "paragraph",
+      "html": "For example:"
+    },
+    {
+      "id": "c6d4ae7e-b9de-4908-8de7-d543aeed2d3b",
+      "type": "collection_view",
+      "collectionId": "582db214-a68c-457a-8eea-74375aaf0e2e",
+      "viewIds": [
+        "ce151981-7607-46bb-9f8f-c8f114983bea"
+      ],
+      "title": ""
+    },
+    {
+      "id": "8ff22832-23b2-4130-9214-754144934024",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

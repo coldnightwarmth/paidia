@@ -1,0 +1,146 @@
+{
+  "id": "248b698a-d7d0-4c93-88ae-26caafcd2a73",
+  "slug": "player-vs-monster",
+  "title": "Player vs. Monster",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Player-vs-Monster-248b698ad7d04c9388ae26caafcd2a73?pvs=21",
+  "createdTime": 1679687786826,
+  "lastEditedTime": 1681311813591,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Player vs. Monster",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-1a801634b17a.webp",
+  "blocks": [
+    {
+      "id": "e77aecff-5258-4918-a894-0a7137bf9290",
+      "type": "divider"
+    },
+    {
+      "id": "151c7d68-c0b1-4159-a4dd-b91cac708892",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "64a80a2f-4599-407f-9598-2f95bff91d29",
+      "type": "columns",
+      "children": [
+        {
+          "id": "5a692d62-8dd5-4925-a75d-918b95ee867e",
+          "type": "column",
+          "children": [
+            {
+              "id": "c9da9cb9-e051-477b-aa54-2d4aec27f060",
+              "type": "paragraph",
+              "html": "<em><strong>Player vs. Monster: The Making &amp; Breaking of Video Game Monstrosity</strong></em> was written by Jaroslav Svelch, published by The MIT Press, February 7, 2023."
+            },
+            {
+              "id": "ceb21614-26d2-4241-9a3c-fc6ec06aa176",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "dfc387f0-2428-4c39-9d35-f5ade118281b",
+              "type": "quote",
+              "html": "<strong><em>A study of the gruesome game characters we love to beat—and what they tell us about ourselves.</em></strong><em><br><br>Since the early days of video games, monsters have played pivotal roles as dangers to be avoided, </em><a href=\"#/level\"><em>level</em></a><em> </em><a href=\"#/boss\"><em>bosses</em></a><em> to be defeated, or targets to be destroyed for extra </em><a href=\"#/points\"><em>points</em></a><em>. But why is the figure of the monster so important in gaming, and how have video games come to shape our culture’s conceptions of monstrosity? To answer these questions, </em>Player vs. Monster<em> explores the past half-century of monsters in games, from the dragons of early tabletop </em><a href=\"#/role-playing\"><em>role-playing</em></a><em> games and the </em><a href=\"#/pixel-art\"><em>pixelated</em></a><em> aliens of </em><a href=\"#/space-invaders\">Space Invaders</a><em> to the malformed mutants of </em><a href=\"#/the-last-of-us\">The Last of Us</a><em> and the bizarre beasts of </em>Bloodborne<em>, and reveals the common threads among them.<br><br>Covering examples from aliens to zombies, Jaroslav Švelch explores the art of monster design and traces its influences from </em><a href=\"#/myth-a30a5fc6\"><em>mythology</em></a><em>, visual arts, popular culture, and tabletop role-playing games. At the same time, he shows that video games follow the Cold War–era notion of clearly defined, calculable enemies, portraying monsters as figures that are irredeemably evil yet invariably vulnerable to defeat. He explains the appeal of such simplistic video game monsters, but also explores how the medium could evolve to present more nuanced depictions of monstrosity.</em>"
+            },
+            {
+              "id": "589bd4e7-c772-48cf-b3c4-d169a2bcf526",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "15951d43-436c-4509-bc09-f55b11278c75",
+          "type": "column",
+          "children": [
+            {
+              "id": "5c348742-d334-48a1-8629-f18e1f30313c",
+              "type": "image",
+              "src": "./assets/images/untitled-1a801634b17a.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a347a95e-6fb4-4328-a55c-b677a976ad8d",
+      "type": "divider"
+    },
+    {
+      "id": "b809f009-0afe-4160-9d45-f4162abcdcca",
+      "type": "columns",
+      "children": [
+        {
+          "id": "bf1fb411-a69b-4a31-b5b2-89fef5d04e74",
+          "type": "column",
+          "children": [
+            {
+              "id": "83c04ad0-58af-4803-a690-09093c2d493e",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "56f53b32-95f4-44a9-808c-a54ddc113aae",
+          "type": "column",
+          "children": [
+            {
+              "id": "b9400346-f268-4e0a-868b-a9f084d59f9b",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Player-vs-Monster-Breaking-Monstrosity/dp/0262047756\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29d5307a-729e-431d-8a94-78a5464afdc0",
+      "type": "divider"
+    },
+    {
+      "id": "8553c697-2c47-4567-8d8d-b5604463c7c4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b94107c8-784b-4a54-877f-9a3c0f3ba050",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "2f1e63e8-3646-415c-80c8-77917d0fec3c",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

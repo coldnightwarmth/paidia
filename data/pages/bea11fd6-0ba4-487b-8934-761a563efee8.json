@@ -1,0 +1,126 @@
+{
+  "id": "bea11fd6-0ba4-487b-8934-761a563efee8",
+  "slug": "digital-mantras",
+  "title": "Digital Mantras",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Digital-Mantras-bea11fd60ba4487b8934761a563efee8?pvs=21",
+  "createdTime": 1652535647540,
+  "lastEditedTime": 1681314218408,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Digital Mantras",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-5047f68b0b15.webp",
+  "blocks": [
+    {
+      "id": "c1e9b138-d52d-4ce0-a117-4a06f7552b28",
+      "type": "divider"
+    },
+    {
+      "id": "137daedf-1162-4262-88ee-1174357181f4",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "3bba86b0-9cf3-4497-8c03-ba674141f8c9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "49abdefe-68c8-4f73-9d41-67ea497de7d7",
+          "type": "column",
+          "children": [
+            {
+              "id": "5ebe1ac6-a487-45b5-82aa-253c881b1af7",
+              "type": "paragraph",
+              "html": "<em><strong>Digital Mantras: The Languages of Abstract and Virtual Worlds</strong></em> was written by Steven R. Holtzman, published by The Mit Press, June 1, 1994."
+            },
+            {
+              "id": "6c5fcb92-4c5e-4776-a33c-6ee54a5d4ca9",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b3de6c9b-4ea4-490d-bff6-741d81aebc18",
+              "type": "quote",
+              "html": "<em>Detailing the potential for expression in music, art, philosophy, and more with the aid of computer technology, an exploration of digitally enhanced language, compositions, and creations discusses their implications and aesthetics</em>"
+            }
+          ]
+        },
+        {
+          "id": "0d944008-b958-4fc6-9aab-21cd1e3198f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "1759c68a-ef9e-488b-810b-9abdf513fb1d",
+              "type": "image",
+              "src": "./assets/images/untitled-5047f68b0b15.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1765c504-5cd8-4ccd-a2a7-eb13eee97d6e",
+      "type": "divider"
+    },
+    {
+      "id": "e4166e5c-5b7c-4889-8b9b-64f1d166d6e2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "080f0915-47fd-4094-a633-1fa39740be19",
+          "type": "column",
+          "children": [
+            {
+              "id": "d3aa5f79-b802-4803-a5ee-799910e59432",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7ee4ce25-aa6a-4c8d-8c02-ddaf219f6b96",
+          "type": "column",
+          "children": [
+            {
+              "id": "6f8304d6-d943-45a7-9944-efde2ff7db0c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3HOMpWU\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6bba7ea-672e-4e7b-b3a7-1c851cbfb58c",
+      "type": "divider"
+    }
+  ]
+}

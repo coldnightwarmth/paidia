@@ -1,0 +1,131 @@
+{
+  "id": "3a24e29a-e59a-48ba-a082-abeeb3d52d8e",
+  "slug": "game-after",
+  "title": "Game After",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Game-After-3a24e29ae59a48baa082abeeb3d52d8e?pvs=21",
+  "createdTime": 1651976623421,
+  "lastEditedTime": 1681313965855,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Game After",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-47e7ed103dfe.webp",
+  "blocks": [
+    {
+      "id": "a77e044d-ae83-4f66-afe1-24e9668b0ff1",
+      "type": "divider"
+    },
+    {
+      "id": "7c8fccfe-e8cd-439c-9c8c-17d5b6aff19a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "baf1b17e-7b17-4958-a3b2-b8f55ce6b82b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0db44fa6-ebaf-4b96-8814-1d0a16c49a26",
+          "type": "column",
+          "children": [
+            {
+              "id": "df45c525-6821-47ba-a655-b82afba9839c",
+              "type": "paragraph",
+              "html": "<em><strong>Game After: A Cultural Study of Video Game Afterlife</strong></em> was written by Raiford Guins, published by The MIT Press, January 24, 2014."
+            },
+            {
+              "id": "4e2ecfa9-068d-4f0e-850b-358527b19719",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d8c7dfaf-ba0b-403f-882b-53cf1d70d660",
+              "type": "quote",
+              "html": "<strong><em>A cultural study of video game afterlife, whether as emulation or artifact, in an archival box or at the bottom of a landfill.</em></strong><em><br><br>We purchase video games to play them, not to save them. What happens to video games when they are out of date, broken, nonfunctional, or obsolete? Should a game be considered an “ex-game” if it exists only as emulation, as an artifact in museum displays, in an archival box, or at the bottom of a landfill? In Game After, Raiford Guins focuses on video games not as hermetically sealed within time capsules of the past but on their material remains: how and where video games persist in the present. Guins meticulously investigates the complex life cycles of video games, to show how their meanings, uses, and values shift in an afterlife of disposal, ruins and remains, museums, archives, and private collections.<br><br>Guins looks closely at video games as museum objects, discussing the recontextualization of the Pong and Brown Box prototypes and engaging with curatorial and archival practices across a range of cultural institutions; aging coin-op arcade cabinets; the documentation role of game cartridge artwork and packaging; the journey of a game from flawed product to trash to memorialized relic, as seen in the history of Atari's infamous E.T. The Extra-Terrestrial; and conservation, restoration, and re-creation stories told by experts including Van Burnham, Gene Lewin, and Peter Takacs.<br><br>The afterlife of video games―whether behind glass in display cases or recreated as an iPad app―offers a new way to explore the diverse topography of game history.</em>"
+            },
+            {
+              "id": "2e0fde52-16ad-40ea-8d28-3f0bcd6f383a",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "cf1202d8-8472-423d-8c91-f2d2aa8001e4",
+          "type": "column",
+          "children": [
+            {
+              "id": "7c15f19f-c5d3-469e-8a31-b0deab5e7353",
+              "type": "image",
+              "src": "./assets/images/untitled-47e7ed103dfe.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "35dcce9b-ffcd-4fc5-84e7-5de3d5e14448",
+      "type": "divider"
+    },
+    {
+      "id": "3138762d-3c93-4619-95ae-55389bd81d61",
+      "type": "columns",
+      "children": [
+        {
+          "id": "cd0f7835-38eb-4fb7-b7e2-ea851eb84605",
+          "type": "column",
+          "children": [
+            {
+              "id": "7a598d27-dbd0-4bcf-b28d-9327504790bd",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "03176b55-5e82-4e58-a8ff-f80db6514529",
+          "type": "column",
+          "children": [
+            {
+              "id": "2a3933df-91c3-4198-9ff9-e8664b9e2737",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3NmNlo1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "452709bf-a5b0-4932-955b-a71237636f41",
+      "type": "divider"
+    }
+  ]
+}

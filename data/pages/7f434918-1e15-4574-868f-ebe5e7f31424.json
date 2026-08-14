@@ -1,0 +1,139 @@
+{
+  "id": "7f434918-1e15-4574-868f-ebe5e7f31424",
+  "slug": "celia-pearce",
+  "title": "Celia Pearce",
+  "icon": "./assets/images/user-circle-filled-lightgray-d33f64ecb4e6.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "350879b3-a25b-4db5-8dae-34d54f50d8e6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/7f4349181e154574868febe5e7f31424",
+  "createdTime": 1651683217735,
+  "lastEditedTime": 1681329026261,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Person"
+      ]
+    ],
+    "title": [
+      [
+        "Celia Pearce"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0fbe7fefbb80.webp",
+  "blocks": [
+    {
+      "id": "69459f09-7604-42bc-a1b9-84c5ab784fda",
+      "type": "divider"
+    },
+    {
+      "id": "0b3f7891-2fdf-499f-b660-7cae1d660575",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "25fabdde-2eb5-47ce-abae-46bfcf6a9c5b",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a3e06826-7610-407c-84a8-54ed796a4dfa",
+          "type": "column",
+          "children": [
+            {
+              "id": "801dfb00-7816-4d1f-b525-d0f7ff25357e",
+              "type": "paragraph",
+              "html": "<strong>Author  </strong>(<em>Born xx, xxxx – Died xx, xxxx</em>) is/was"
+            },
+            {
+              "id": "9dc76eb8-4114-4f2f-9cd4-42e670d4b18c",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "eb1865c5-3dc8-4b4c-8382-7b4a66fb9161",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "a9df0e65-9a44-49ac-9a42-710e7dc48160",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f6cad108-2bb5-4aba-be85-f7101abe33f9",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "1e4f673b-4f66-4631-a71f-a81971e0b7f9",
+          "type": "column",
+          "children": [
+            {
+              "id": "e65b684a-6c6e-4090-90e9-0c2f5f32a0db",
+              "type": "image",
+              "src": "./assets/images/untitled-0fbe7fefbb80.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e18c041-5187-4d7d-9563-bcc0e8b5a1e4",
+      "type": "divider"
+    },
+    {
+      "id": "58416dbf-2057-44e7-a2b2-1357de5fa171",
+      "type": "paragraph",
+      "html": "<em>Notable Works:</em>"
+    },
+    {
+      "id": "80d15f2c-14dc-4879-801b-fe1dc59dd893",
+      "type": "paragraph",
+      "html": "<a href=\"#/the-interactive-book\">The Interactive Book</a> (1997) (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "53cebab4-8020-4c31-b7d6-f48963301eaf",
+      "type": "paragraph",
+      "html": "<a href=\"#/communities-of-play\">Communities of Play</a> (2011) (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "7c6c360f-c814-4bf7-91bd-3975c58b1525",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "62d10676-9c56-4183-9f13-bf47fdbcabe9",
+      "type": "divider"
+    },
+    {
+      "id": "0d451362-2b01-48bb-987a-7c040fdce3a5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ddfb7185-c442-46af-bbf1-15fdf69b93b5",
+      "type": "paragraph",
+      "html": "<a href=\"#/writers-and-scholars-be2ab5cc\"><u>☜Writers &amp; Scholars</u></a>"
+    },
+    {
+      "id": "270898b9-d964-48d1-83bd-eaae8e3fd6c1",
+      "type": "paragraph",
+      "html": "<a href=\"#/folks-292fe1df\"><u>☜Folks</u></a>"
+    },
+    {
+      "id": "7dc81a99-7851-406b-9438-86e7f39e1ca4",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

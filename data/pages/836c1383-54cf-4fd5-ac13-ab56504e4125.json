@@ -1,0 +1,141 @@
+{
+  "id": "836c1383-54cf-4fd5-ac13-ab56504e4125",
+  "slug": "urban-play",
+  "title": "Urban Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Urban-Play-836c138354cf4fd5ac13ab56504e4125?pvs=21",
+  "createdTime": 1651770955362,
+  "lastEditedTime": 1681314276211,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Urban Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b3f4f4cc2563.webp",
+  "blocks": [
+    {
+      "id": "f4ad14cb-a9a5-4e50-b161-7752e454e7ff",
+      "type": "divider"
+    },
+    {
+      "id": "a813f0f9-0e1c-41c0-8a0b-602b36b1d8e8",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "8e15e22d-ab27-4da6-9a25-284509ae7a34",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1cbf0dd9-5d07-434b-8d43-0b7f12316c00",
+          "type": "column",
+          "children": [
+            {
+              "id": "af4ca3b5-521c-4c61-9410-dd5e585616a6",
+              "type": "paragraph",
+              "html": "<em><strong>Urban Play: Make-Believe, Technology, &amp; Space</strong></em> was written by Fábio Duarte &amp; Ricardo Álvarez, published by The MIT Press, August 3, 2021."
+            },
+            {
+              "id": "3024cfd3-d31a-49dc-8a80-0e661b96e158",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "389d6a48-6414-40c3-967a-44a224efcff0",
+              "type": "quote",
+              "html": "<em>Why technology is most transformative when it is playful, and innovative spatial design happens only when designers are both tinkerers and dreamers.<br><br>In </em>Urban Play<em>, Fábio Duarte and Ricardo Álvarez argue that the merely functional aspects of technology may undermine its transformative power. Technology is powerful not when it becomes optimally functional, but while it is still playful and open to experimentation. It is through play--in the sense of acting for one's own enjoyment rather than to achieve a goal--that we explore new territories, create new devices and languages, and transform ourselves. Only then can innovative spatial design create resonant spaces that go beyond functionalism to evoke an emotional response in those who use them.<br><br>The authors show how creativity emerges in moments of instability, when a new technology overthrows an established one, or when internal factors change a technology until it becomes a different technology. Exploring the role of fantasy in design, they examine Disney World and its outsize influence on design and on forms of social interaction beyond the entertainment world. They also consider Las Vegas and Dubai, desert cities that combine technology with fantasies of pleasure and wealth. Video games and interactive media, they show, infuse the design process with interactivity and participatory dynamics, leaving spaces open to variations depending on the users' behavior. Throughout, they pinpoint the critical moments when technology plays a key role in reshaping how we design and experience spaces.</em>"
+            },
+            {
+              "id": "45aee103-9b6c-4c24-aa0f-f3505be6c858",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "10b3da4c-4af7-4f4b-b025-4a4dc7fe2bf7",
+          "type": "column",
+          "children": [
+            {
+              "id": "3ee508c7-c6f4-474f-932f-557040bdec8a",
+              "type": "image",
+              "src": "./assets/images/untitled-b3f4f4cc2563.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8ef6407b-66eb-435f-b227-c0d40fe59bae",
+      "type": "divider"
+    },
+    {
+      "id": "a9b933b1-c6fc-4670-9d7e-0146ca240b33",
+      "type": "columns",
+      "children": [
+        {
+          "id": "61efe736-617e-4516-8ac0-108a56fa40b3",
+          "type": "column",
+          "children": [
+            {
+              "id": "b525a36e-e6bb-4709-90af-a6dca3b26974",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0cf99ab3-c26b-4eeb-96f4-71208a6bf083",
+          "type": "column",
+          "children": [
+            {
+              "id": "ebefded0-2969-410f-ba7d-bdf58df69c19",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Mbmjid\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e089aafb-4a75-4e05-a0d9-f68cbfbca29d",
+      "type": "divider"
+    },
+    {
+      "id": "31d2bb17-86df-4837-b531-3750da9253e9",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    },
+    {
+      "id": "6ae9e252-a1e5-400b-911d-c14d293dbff7",
+      "type": "paragraph",
+      "html": "<a href=\"#/play-the-city\">Play the City</a> (<em>book</em>)"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "47294251-10e9-4202-8527-0a1fa6b721fc",
+  "slug": "the-player-of-games",
+  "title": "The Player of Games",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "44e477ef-a3f7-446c-92c9-e22ddf8e86e7",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Player-of-Games-4729425110e9420285270a1fa6b721fc?pvs=21",
+  "createdTime": 1651857065394,
+  "lastEditedTime": 1681314110593,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Player of Games",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-003404dce36e.webp",
+  "blocks": [
+    {
+      "id": "80a6710e-03df-48a7-8af9-7cdc14caff11",
+      "type": "divider"
+    },
+    {
+      "id": "628aa207-c9d8-46fa-b8cc-a77435e09ca2",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5958604a-5c77-4592-8efa-271c9c8d3378",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7783faf8-62aa-4da7-a388-5fabc559a004",
+          "type": "column",
+          "children": [
+            {
+              "id": "5c87a57a-9c32-4f1c-9a73-4450216b76cf",
+              "type": "paragraph",
+              "html": "<em><strong>The Player of Games</strong></em> was written by Iain M. Banks, originally published Macmillan in 1988."
+            },
+            {
+              "id": "527c6e8c-1eb9-499f-a1e7-c66350ed019d",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "eeaf08a7-70fa-4caf-b779-46dc51da18ef",
+              "type": "quote",
+              "html": "<em>The Culture — a human/machine symbiotic society — has thrown up many great Game Players, and one of the greatest is Gurgeh Jernau Morat Gurgeh. The Player of Games. Master of every board, computer and strategy.</em><em><strong><br><br></strong></em><em>Bored with success, Gurgeh travels to the Empire of Azad, cruel and incredibly wealthy, to try their fabulous game. . . a game so complex, so like life itself, that the winner becomes emperor. Mocked, blackmailed, almost murdered, Gurgeh accepts the game, and with it the challenge of his life — and very possibly his death.</em>"
+            }
+          ]
+        },
+        {
+          "id": "d0aed098-d460-45b6-adb8-395f81c6d48f",
+          "type": "column",
+          "children": [
+            {
+              "id": "71fd0e98-0243-4960-bc53-b5facc05b7b6",
+              "type": "image",
+              "src": "./assets/images/untitled-003404dce36e.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06d19134-112f-4521-adde-6db4776f4222",
+      "type": "divider"
+    },
+    {
+      "id": "8a39092f-6bcf-4f8c-9756-aa23a6ac33df",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ec30ea3e-72dd-4aa8-bbbf-cf0eafd632ba",
+          "type": "column",
+          "children": [
+            {
+              "id": "1a39e6af-8b9d-47bc-8a4b-d0fc35cd81a8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "600b3410-7be4-4e5b-bf3b-8033043d2ac8",
+          "type": "column",
+          "children": [
+            {
+              "id": "ec962179-8f77-43f7-a059-c7190d0c9440",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3RdFRE6\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "df7f0c2d-0824-462b-af97-8bdd764bac04",
+      "type": "divider"
+    },
+    {
+      "id": "c977315c-01d0-447b-bf25-7387ad1805a1",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

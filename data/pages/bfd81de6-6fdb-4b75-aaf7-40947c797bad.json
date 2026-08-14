@@ -1,0 +1,135 @@
+{
+  "id": "bfd81de6-6fdb-4b75-aaf7-40947c797bad",
+  "slug": "the-future-art-of-cinema",
+  "title": "The Future Art of Cinema",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Future-Art-of-Cinema-bfd81de66fdb4b75aaf740947c797bad?pvs=21",
+  "createdTime": 1651685555530,
+  "lastEditedTime": 1681314224492,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "T",
+        [
+          [
+            "a",
+            "https://www.librarything.com/work/27427528/book/209522045"
+          ]
+        ]
+      ],
+      [
+        "he Future Art of Cinema"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d55e5c92fa08.webp",
+  "blocks": [
+    {
+      "id": "d38524c0-9bd9-4931-9800-50acfea97beb",
+      "type": "divider"
+    },
+    {
+      "id": "c5159aa5-8fcb-4dc9-ab4a-47f661fe6127",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "27adbb22-5dc6-4812-978e-580f844d72df",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7c444602-a679-48e9-8b97-833386b34201",
+          "type": "column",
+          "children": [
+            {
+              "id": "64266b80-0bac-4f46-97d4-0b6c3f154e1b",
+              "type": "paragraph",
+              "html": "<em><strong>The Future Art of Cinema: Rudolf Steiner’s Vision</strong></em> was written by Reto Andrea Savoldelli, published by Temple Lodge Publications, August 4, 2020."
+            },
+            {
+              "id": "9f01f008-eb54-49e9-b24b-d56b8e607d34",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "6c5c5823-07d8-4de6-9e6a-ea88841e3346",
+              "type": "quote",
+              "html": "<em>From Joseph Vogelsang and his mysterious peep-box to Hollywood blockbusters and Netflix, Reto Andrea Savoldelli’s survey of cinema and film is based on practical experience (he was once the enfant terribleof Swiss cinema) and years of contemplation and study. He examines the difference between film as the “hypnotic monster” mentioned by the Italian director Pier Paolo Pasolini, and the art of film to which Rudolf Steiner aspired. The author discusses the historical development of cinema from its origins, focusing particularly on science fiction (from Star Wars to The Matrix) and influential filmmakers such as Eric Rohmer, Andrei Tarkovsky, and Pasolini.<br><br>As a scholar of Anthroposophy, Savoldelli provides a comprehensive assessment of Rudolf Steiner’s attitude toward film. In addition to frequenting the silent cinema of his time, Steiner commented several times on the newly introduced artform in lectures, letters, and private discussions. The author examines and interprets those statements and complements them with commentary on Steiner’s attempt to produce a film on the theme of reincarnation and karma, as well as his explorations with Jan Stuten of “light-show art.”</em>"
+            },
+            {
+              "id": "7da749d9-cf34-43d3-a196-ae5e21676984",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "c2e92f7f-9b0a-4ddb-8ece-0acbe426b4e5",
+          "type": "column",
+          "children": [
+            {
+              "id": "7e8551a7-212d-40b1-ab82-29e5000368a6",
+              "type": "image",
+              "src": "./assets/images/untitled-d55e5c92fa08.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "988ff572-5ee4-419b-8717-d716b0adc51e",
+      "type": "divider"
+    },
+    {
+      "id": "cdc1a06b-c723-4998-aa91-ff6c84832ae0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d123665d-d9b6-4022-9f0a-862de5903086",
+          "type": "column",
+          "children": [
+            {
+              "id": "7f8db467-bdcb-4cec-8769-8388cfeeb252",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "89134bdb-d6a0-4a48-91c8-8b285a374c73",
+          "type": "column",
+          "children": [
+            {
+              "id": "25a4eebb-7d91-4d2b-b4bc-937526ef33a2",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3u0uR4a\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9668ad7a-85e9-41d5-b4d1-8884fd24f0dd",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "598f04f7-8793-498f-9082-c987a28d6b95",
+  "slug": "phantasmal-media",
+  "title": "Phantasmal Media",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Phantasmal-Media-598f04f78793498f9082c987a28d6b95?pvs=21",
+  "createdTime": 1652115801917,
+  "lastEditedTime": 1681314209251,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Phantasmal Media",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-f8c66bc5bab9.webp",
+  "blocks": [
+    {
+      "id": "de3e15a2-9635-454e-b7a3-95a6d81a0f59",
+      "type": "divider"
+    },
+    {
+      "id": "8e856acd-a118-4755-b573-a7902beb6580",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4715b298-b703-4576-8f98-33d8ef83c17e",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0f341584-3422-47e4-ac57-1c6adbe042c4",
+          "type": "column",
+          "children": [
+            {
+              "id": "68440a4d-2353-4b90-af53-e2901750e624",
+              "type": "paragraph",
+              "html": "<em><strong>Phantasmal Media: An Approach to Imagination, Computation, &amp; Expression</strong></em> was written by D. Fox Harrell, published by The MIT Press, November 8, 2013."
+            },
+            {
+              "id": "045ac85b-4494-41ce-a42b-cc550bc38d65",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "03cf6105-4fac-4a41-a11d-809beba7434e",
+              "type": "quote",
+              "html": "<em>An argument that great expressive power of computational media arises from the construction of phantasms―blends of cultural ideas and sensory imagination.<br><br>In </em>Phantasmal Media<em>, D. Fox Harrell considers the expressive power of computational media. He argues, forcefully and persuasively, that the great expressive potential of computational media comes from the ability to construct and reveal phantasms―blends of cultural ideas and sensory imagination. These ubiquitous and often-unseen phantasms―cognitive phenomena that include sense of self, metaphors, social categories, narrative, and poetic thinking―influence almost all our everyday experiences. Harrell offers an approach for understanding and designing computational systems that have the power to evoke these phantasms, paying special attention to the exposure of oppressive phantasms and the creation of empowering ones. He argues for the importance of cultural content, diverse worldviews, and social values in computing. The expressive power of phantasms is not purely aesthetic, he contends; phantasmal media can express and construct the types of meaning central to the human condition.<br><br>Harrell discusses, among other topics, the phantasm as an orienting perspective for developers; expressive epistemologies, or data structures based on subjective human worldviews; morphic semiotics (building on the computer scientist Joseph Goguen's theory of algebraic semiotics); cultural phantasms that influence consensus and reveal other perspectives; computing systems based on cultural models; interaction and expression; and the ways that real-world information is mapped onto, and instantiated by, computational data structures.<br><br>The concept of phantasmal media, Harrell argues, offers new possibilities for using the computer to understand and improve the human condition through the human capacity to imagine.</em>"
+            },
+            {
+              "id": "c3fda075-48bf-405f-bdf1-b5c2a636fba6",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "627820fa-71ee-4e3c-9b60-c6852056c4f5",
+          "type": "column",
+          "children": [
+            {
+              "id": "34eaa8b9-bb44-4bfc-be4a-d72b4b4433f9",
+              "type": "image",
+              "src": "./assets/images/untitled-f8c66bc5bab9.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5844c486-c3e3-4ddb-825a-6238796746f1",
+      "type": "divider"
+    },
+    {
+      "id": "141d82da-a020-47fe-9e9c-ea98089541ad",
+      "type": "columns",
+      "children": [
+        {
+          "id": "d2670b0f-c678-4352-ba17-c9360c2c3f24",
+          "type": "column",
+          "children": [
+            {
+              "id": "facb4fea-6857-478d-9b39-bbf5e6d518e2",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c9451ac7-8175-4e64-bf17-9d327c75af3b",
+          "type": "column",
+          "children": [
+            {
+              "id": "572b771c-2cf9-4fdf-872b-5eabe730bdf0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bsZcSM\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eba36b47-6658-4cf0-8c4e-0faa40296b12",
+      "type": "divider"
+    }
+  ]
+}

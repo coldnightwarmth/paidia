@@ -1,0 +1,131 @@
+{
+  "id": "4cb6e0a6-a4af-4eda-b4ce-c1b57a5e3c19",
+  "slug": "the-metaphysics-of-ping-pong",
+  "title": "The Metaphysics of Ping-Pong",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Metaphysics-of-Ping-Pong-4cb6e0a6a4af4edab4cec1b57a5e3c19?pvs=21",
+  "createdTime": 1652119463419,
+  "lastEditedTime": 1681313992093,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Metaphysics of Ping-Pong",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-39b5df972105.webp",
+  "blocks": [
+    {
+      "id": "de4c32ed-0a94-4d1d-a194-ca0ce07e4ec7",
+      "type": "divider"
+    },
+    {
+      "id": "efb54c19-814a-41f0-a960-c6124238ed4b",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "03f548b5-20da-4cb1-824b-928fd245c883",
+      "type": "columns",
+      "children": [
+        {
+          "id": "68eebd2d-2c8e-40b9-a36c-19367bc80bfb",
+          "type": "column",
+          "children": [
+            {
+              "id": "3c829276-f7fc-4bdc-823e-acc9c249f4df",
+              "type": "paragraph",
+              "html": "<em><strong>The Metaphysics of Ping-Pong: Table Tennis as a Journey of Self-Discovery</strong></em> was written by Guido Mina di Sospiro, published by Quest Books, September 1, 2015."
+            },
+            {
+              "id": "ee9b11bc-b941-45ff-a53f-4847a53b6b4e",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "57320c34-4373-4ea2-997b-317562436f6c",
+              "type": "quote",
+              "html": "<em>When a mortifying defeat to his teenage son rekindles his lifelong passion for table tennis, keen philosopher Guido Mina di Sospiro sets out to learn the game properly.<br><br>Guido's love for spinning a feather-weight ball takes him from his local Ping-Pong club, populated by idiosyncratic players with extraordinary stories to tell, to training drills with a world-class coach. This seemingly harmless game also leads him into sticky situations in the CIA headquarters and the ganglands of Washington, DC. Woven throughout his Ping-Pong epiphany are philosophical ruminations on Plato and Aristotle, metaphysicians and empiricists, Jung's dark shadow, Sun Tzu's war tactics, the I Ching, and much more.<br><br>As Guido's journey takes him from Big Sur to a nail-biting showdown in China against a string of elite players, he finds Ping-Pong can teach us a surprising amount about life.</em>"
+            },
+            {
+              "id": "c25512ac-f7d7-47c3-baef-e07590bf2818",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "3d2e5bc4-8868-4478-99bb-e3453bbb4831",
+          "type": "column",
+          "children": [
+            {
+              "id": "aea6c5d0-1f9d-4c97-bb82-4b674ea635cf",
+              "type": "image",
+              "src": "./assets/images/untitled-39b5df972105.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "403b3679-07f7-4048-adcf-4b815addce06",
+      "type": "divider"
+    },
+    {
+      "id": "988eca53-2142-45cd-b2ad-9ab7aa5a1d73",
+      "type": "columns",
+      "children": [
+        {
+          "id": "94d9f904-12ef-445a-9722-750fbb52ea11",
+          "type": "column",
+          "children": [
+            {
+              "id": "d1b84144-3e9e-42a9-b738-ec2a673f5c19",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0ef0ad0e-eaa2-438a-b33d-8181c8607370",
+          "type": "column",
+          "children": [
+            {
+              "id": "7577d5cc-28cf-4bb8-beb4-50197fa60551",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3bheHwV\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45f9adb6-770d-45c7-a2c4-72412eee8b6e",
+      "type": "divider"
+    }
+  ]
+}

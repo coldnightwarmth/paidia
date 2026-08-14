@@ -1,0 +1,131 @@
+{
+  "id": "91a366e9-666a-49a3-a723-67096d8d859f",
+  "slug": "ideology-and-the-virtual-city",
+  "title": "Ideology & the Virtual City",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c882ed23-64ea-4cac-bd94-0b3e3b247943",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Ideology-the-Virtual-City-91a366e9666a49a3a72367096d8d859f?pvs=21",
+  "createdTime": 1651862758691,
+  "lastEditedTime": 1681314302693,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Ideology & the Virtual City",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0e284e3ba951.webp",
+  "blocks": [
+    {
+      "id": "5896dfd7-5bc5-4a0a-a2fe-c24423444cfa",
+      "type": "divider"
+    },
+    {
+      "id": "abb83f31-7595-4f80-b012-20335d47f036",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "6c02ab55-f8f6-4e8d-8f93-fdd43fd417ba",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1b867a9a-f3de-443e-bb1b-a83b65f21e64",
+          "type": "column",
+          "children": [
+            {
+              "id": "952a548e-49f9-4b94-9027-f82fc6f77b60",
+              "type": "paragraph",
+              "html": "<em><strong>Ideology and the Virtual City</strong></em> was written by Jon Bailes, published by Zero Books, October 1, 2019."
+            },
+            {
+              "id": "3baa5f9e-6953-4186-a899-18a37dd3ed54",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d3f562a7-7258-4a8b-8ad2-86b51d6cf27f",
+              "type": "quote",
+              "html": "Ideology and the Virtual City<em> is an exploration of modern society and the critical value of popular culture. It combines a prescient social theory that describes how ‘neoliberal' ideology in today's societies dominates our economic, political and cultural ideals, with an entertaining exploration of narratives, characters and play structures in some of today's most interesting videogames. The book takes readers into a range of simulated urban environments that symbolise the hidden antagonisms of social life and create outlandish resolutions through their power fantasies. Interactive entertainment can help us understand the ways in which people relate to a modern ‘common sense' neoliberal background, in terms of absorbing assumptions, and questioning them.</em>"
+            }
+          ]
+        },
+        {
+          "id": "7aa0f089-aed8-4083-8f1d-f40faa4521d7",
+          "type": "column",
+          "children": [
+            {
+              "id": "86f501fa-cf5c-43c6-880f-7d99eda8f716",
+              "type": "image",
+              "src": "./assets/images/untitled-0e284e3ba951.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ed63a936-5eb2-4c4e-bfa1-83a6f06f3d31",
+      "type": "divider"
+    },
+    {
+      "id": "343561dc-e706-4c11-b5c2-4e90ac4ec52a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f7b3b9b0-2bba-41a6-a99c-ee3aa2a6b4ff",
+          "type": "column",
+          "children": [
+            {
+              "id": "e066f255-a391-4383-a8c4-8a727101accc",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9a28d0a6-713f-48f6-84f0-d64d82090629",
+          "type": "column",
+          "children": [
+            {
+              "id": "438fe7bc-1002-44a3-8950-9b975fbc3e99",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3ssrnH2\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03b7476f-0494-4315-8165-ba6f37b235fa",
+      "type": "divider"
+    },
+    {
+      "id": "8051e2d4-4ba7-4402-bc6e-d418b1f4cf59",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

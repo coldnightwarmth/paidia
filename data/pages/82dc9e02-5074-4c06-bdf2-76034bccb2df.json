@@ -1,0 +1,134 @@
+{
+  "id": "82dc9e02-5074-4c06-bdf2-76034bccb2df",
+  "slug": "comics-and-videogames",
+  "title": "Comics & Videogames",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Comics-Videogames-82dc9e0250744c06bdf276034bccb2df?pvs=21",
+  "createdTime": 1651977160914,
+  "lastEditedTime": 1681314232883,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Comics & Videogames",
+        [
+          [
+            "b"
+          ],
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-03c8a699ac63.webp",
+  "blocks": [
+    {
+      "id": "e40165ab-859d-4dd6-b545-6df5e1b185e3",
+      "type": "divider"
+    },
+    {
+      "id": "1f6f4d48-99eb-44e9-aa63-9f2197b8ea91",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1ce91f5f-4f44-485a-94eb-1db8c5c35d9a",
+      "type": "columns",
+      "children": [
+        {
+          "id": "fea0cad2-75dd-4329-9aff-4f469304b2b9",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b3a4580-e49a-444c-96e4-deede6f838ce",
+              "type": "paragraph",
+              "html": "<em><strong>Comics &amp; Videogames: From Hybrid Medialities to Transmedia Expansions</strong></em> is a collection of essays edited by Andres Rauscher, Daniel Stein, &amp; Jan-Noël Thon, published by Routledge, October 18, 2020."
+            },
+            {
+              "id": "b0a40132-8727-4f2f-9d0c-5ae8d69f13a4",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5493cd0d-fa27-4840-99e1-18504c5a34a8",
+              "type": "quote",
+              "html": "<em>This book offers the first comprehensive study of the many interfaces shaping the relationship between comics and videogames. It combines in-depth conceptual reflection with a rich selection of paradigmatic case studies from contemporary media culture.<br><br>The editors have gathered a distinguished group of international scholars working at the interstices of comics studies and game studies to explore two interrelated areas of inquiry: The first part of the book focuses on hybrid medialities and experimental aesthetics &quot;between&quot; comics and videogames; the second part zooms in on how comics and videogames function as transmedia expansions within an increasingly convergent and participatory media culture. The individual chapters address synergies and intersections between comics and videogames via a diverse set of case studies ranging from independent and experimental projects via popular franchises from the corporate worlds of DC and Marvel to the more playful forms of media mix prominent in Japan.<br><br>Offering an innovative intervention into a number of salient issues in current media culture, </em>Comics and Videogames<em> will be of interest to scholars and students of comics studies, game studies, popular culture studies, transmedia studies, and visual culture studies.</em>"
+            },
+            {
+              "id": "2de846bc-3454-4593-a4c5-6065660c927b",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "bcd4a4b8-bbe2-49d6-9429-d51edcd537c3",
+          "type": "column",
+          "children": [
+            {
+              "id": "d187032b-5082-4dfa-a164-e7931ad9352d",
+              "type": "image",
+              "src": "./assets/images/untitled-03c8a699ac63.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e13d6614-2d90-422f-a07d-009ff30a4976",
+      "type": "divider"
+    },
+    {
+      "id": "8d630dd7-c7f8-43d8-b30c-602e67e64043",
+      "type": "columns",
+      "children": [
+        {
+          "id": "267a0425-25cc-4c12-83e4-a52001025c7a",
+          "type": "column",
+          "children": [
+            {
+              "id": "1e3a839b-3969-4392-92f9-a3e2221bcaa7",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b436e720-ae37-451f-a699-1dcddd009919",
+          "type": "column",
+          "children": [
+            {
+              "id": "167c6e26-3a6d-47ca-8253-a9301c6d2537",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3xVDSNl\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33912703-0e03-4d4d-bcc2-a008b9c3aa01",
+      "type": "divider"
+    }
+  ]
+}

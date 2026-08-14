@@ -1,0 +1,131 @@
+{
+  "id": "442210f4-b741-4e21-ada6-5966c0f8dc66",
+  "slug": "speedrunning",
+  "title": "Speedrunning",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/442210f4b7414e21ada65966c0f8dc66",
+  "createdTime": 1651703262531,
+  "lastEditedTime": 1681313929609,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Speedrunning",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-6e9e76b2c3ab.webp",
+  "blocks": [
+    {
+      "id": "d38b64bb-8207-446d-8ba2-d19f1787c7e5",
+      "type": "divider"
+    },
+    {
+      "id": "fec16553-a231-40e3-a97c-53297ba1dfd5",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5985ca35-55be-45be-9f45-622d7c5a5561",
+      "type": "columns",
+      "children": [
+        {
+          "id": "f80c4cf5-f5d3-4d58-8ea4-f9df106eeee1",
+          "type": "column",
+          "children": [
+            {
+              "id": "a667f76c-1ae9-4899-856f-67b6c05ceaf6",
+              "type": "paragraph",
+              "html": "<em><strong>Speedrunning: Interviews with the Quickest Gamers</strong></em> was written by David Snyder, published by McFarland &amp; Company, November 10, 2017."
+            },
+            {
+              "id": "2c9a652f-d310-4f85-9ff1-c0bc9c04e713",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9c064301-1c78-4bd1-86a0-88b92fe90fe0",
+              "type": "quote",
+              "html": "<em>More than 30 years after its 1985 release on the Nintendo Entertainment System, </em>Super Mario Bros.<em> continues to be one of the best-selling video games of all time. For many, completing the classic side-scrolling platformer remains challenging enough to provide many hours of entertainment. In late 2016 an American gamer known online as &quot;darbian&quot; completed the game in record time, rescuing Princess Peach in 4 minutes, 56 seconds. darbian practices speedrunning, a method of play in which quick reflexes and intimate familiarity with games are used to complete them in the fastest possible time. Through 10 interviews with darbian and other elite speedrunners, this book explores the history and techniques of this intense and competitive type of gaming.</em>"
+            }
+          ]
+        },
+        {
+          "id": "5486cf7c-a42d-4738-bd1c-a5ea3fd7bf4f",
+          "type": "column",
+          "children": [
+            {
+              "id": "c4e31299-f9e0-4b95-98e1-1196360fc1f7",
+              "type": "image",
+              "src": "./assets/images/untitled-6e9e76b2c3ab.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c225936b-9ea9-4779-b703-93cfd29a22fb",
+      "type": "divider"
+    },
+    {
+      "id": "7d2afc83-fc2b-4810-a2bd-5becdc07885f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c3e4261b-905a-4625-b7b5-a46d34b3ae3c",
+          "type": "column",
+          "children": [
+            {
+              "id": "f24ae6ad-06ee-4336-9a21-4bf99bd298d8",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "485d73f9-05e2-4d9b-bb72-9a01d52ee5b5",
+          "type": "column",
+          "children": [
+            {
+              "id": "600e5409-7e55-48e3-80ab-81db110974d8",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3DqFMbs\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9569531-5df7-4511-8c3c-64753afe7d59",
+      "type": "divider"
+    },
+    {
+      "id": "f8e0c576-c43b-4340-b9d6-9e11ada850bf",
+      "type": "paragraph",
+      "html": "<em>see also:</em>"
+    }
+  ]
+}

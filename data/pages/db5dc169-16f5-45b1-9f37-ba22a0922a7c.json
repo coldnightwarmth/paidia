@@ -1,0 +1,63 @@
+{
+  "id": "db5dc169-16f5-45b1-9f37-ba22a0922a7c",
+  "slug": "community-hub",
+  "title": "Community Hub",
+  "icon": "🌈",
+  "cover": "",
+  "type": "page",
+  "parentId": "d5886848-1891-474a-b30f-1548d837961a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/db5dc16916f545b19f37ba22a0922a7c",
+  "createdTime": 1711198564304,
+  "lastEditedTime": 1711198564304,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Community Hub"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "80e30826-ec29-49c6-8aa8-adecfb2c1328",
+      "type": "subheader",
+      "html": "WE CAN FIX IT IN UI",
+      "anchorId": "we-can-fix-it-in-ui"
+    },
+    {
+      "id": "8d0f38e3-2781-4a08-83bf-4ae951176690",
+      "type": "divider"
+    },
+    {
+      "id": "cf5e36d7-c3df-4f06-93c1-a11199801cd7",
+      "type": "page_link",
+      "targetId": "cf5e36d7-c3df-4f06-93c1-a11199801cd7",
+      "title": "About",
+      "notionType": "page"
+    },
+    {
+      "id": "352d86f6-58ec-40e9-865f-83740acf1f91",
+      "type": "page_link",
+      "targetId": "352d86f6-58ec-40e9-865f-83740acf1f91",
+      "title": "Contact Us",
+      "notionType": "page"
+    },
+    {
+      "id": "05d8fb0d-aa98-4e73-ac89-1fb6e45c0ce4",
+      "type": "page_link",
+      "targetId": "05d8fb0d-aa98-4e73-ac89-1fb6e45c0ce4",
+      "title": "Members",
+      "notionType": "page"
+    },
+    {
+      "id": "b5387060-9e10-4634-b6b5-4387830a1ee0",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

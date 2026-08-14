@@ -1,0 +1,131 @@
+{
+  "id": "0ec1a564-891c-4f1e-bf6e-bbf183431464",
+  "slug": "the-rules-are-no-game",
+  "title": "The Rules Are No Game",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "b20256ee-45da-424d-9084-34b6b6a52d44",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Rules-Are-No-Game-0ec1a564891c4f1ebf6ebbf183431464?pvs=21",
+  "createdTime": 1671476860535,
+  "lastEditedTime": 1681312229506,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Rules Are No Game",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/cover-d17485b2862d.webp",
+  "blocks": [
+    {
+      "id": "6f611714-128b-42cb-924a-9cb3525b6c7a",
+      "type": "divider"
+    },
+    {
+      "id": "e8a1b86a-9240-425f-988c-b28e643c0173",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "d5832466-faf1-433a-a59a-332312507fe1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "e4954453-57ee-4488-a6a0-78719d003631",
+          "type": "column",
+          "children": [
+            {
+              "id": "5a927dce-4875-434e-b560-dbe96eeb6296",
+              "type": "paragraph",
+              "html": "<em><strong>The Rules Are No Game: The Strategy of Communication</strong></em> was written by Anthony Wilden, published by Routledge, January 1, 1987."
+            },
+            {
+              "id": "9f810e52-c932-43e3-a606-f96fc94daae7",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f4d0662c-fd32-4df4-b31b-8657444cb801",
+              "type": "quote",
+              "html": "<em>Literacy is power, but power is never absolute. Like other modes of communication it is moulded by codes or rules; and these constraints - of system, structure, and strategy - are the rules that are no game.</em>"
+            },
+            {
+              "id": "8dac3f19-8f21-4970-bfd6-e19001b761eb",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "405a3040-788c-4ec7-9603-a9c30006284d",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b1c11a8-6dcf-4c68-a2dc-4490436a6969",
+              "type": "image",
+              "src": "./assets/images/cover-d17485b2862d.webp",
+              "caption": "",
+              "alt": "cover.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0db9c4ee-83c9-4a67-b143-49a5454eaf6c",
+      "type": "divider"
+    },
+    {
+      "id": "371ff2a3-e1ae-4963-a4b1-b942044f44fd",
+      "type": "columns",
+      "children": [
+        {
+          "id": "708ff4e9-6b74-4327-bbea-0065af1720fa",
+          "type": "column",
+          "children": [
+            {
+              "id": "f78b8964-e83a-42c3-9150-71591d2eaa4b",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "82686a83-5ca4-4206-b6cf-05c3f2071c02",
+          "type": "column",
+          "children": [
+            {
+              "id": "4944703e-0550-4968-adba-f442c02fd3c8",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Rules-Are-No-Game-Communication/dp/0710098685/ref=sr_1_1?crid=2GS4UMQL7WRGJ&amp;keywords=the+rules+are+no+game+anthony+wilden&amp;qid=1671230702&amp;sprefix=the+rules+are+no+game+antho%2Caps%2C192&amp;sr=8-1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d2bb0556-12ae-4a5d-9914-2115519bec4b",
+      "type": "divider"
+    }
+  ]
+}

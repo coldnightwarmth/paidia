@@ -1,0 +1,126 @@
+{
+  "id": "26b8e478-f057-49cd-b929-da273491ad04",
+  "slug": "okay-hero",
+  "title": "Okay, Hero",
+  "icon": "./assets/images/document-gray-7f1467ecac3d.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Okay-Hero-26b8e478f05749cdb929da273491ad04?pvs=21",
+  "createdTime": 1664463821605,
+  "lastEditedTime": 1681312950104,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Essay/Article"
+      ]
+    ],
+    "title": [
+      [
+        "Okay, Hero"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-782d04dd5603.webp",
+  "blocks": [
+    {
+      "id": "e2e7be07-4c74-4852-a49c-5672e6bb2480",
+      "type": "divider"
+    },
+    {
+      "id": "0683b62a-4bb1-4e12-a876-511f57281b48",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "769b9bdc-8e67-4c12-a001-56bf89a183c0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b4a16448-8c37-4299-86a0-8ce7de2cde27",
+          "type": "column",
+          "children": [
+            {
+              "id": "57aabc52-0996-4ef9-9c8a-5d1787cc32d1",
+              "type": "paragraph",
+              "html": "<em><strong>Okay, Hero</strong></em> is a collection of essays edited by Reid McCarter, Ed Smith, &amp; Astrid Rose, published by Bullet Points, July 16, 2019."
+            },
+            {
+              "id": "90ad9c43-f03c-47b5-8f90-4563acc9f66a",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d9b7ccb0-1156-4979-9288-f86a13e46ff5",
+              "type": "quote",
+              "html": "<em>Violent. Funny. Weird. Sexy. Political. Historical. Gothic. Incomprehensible. Brilliant. Awful. Original. Lazy. The very best of games. The very worst of games. </em>Metal Gear Solid<em> is all of these things and more. For twenty years, it has incited as much as it has entertained—thrilled and inflamed in equal measure. It begs analysis while at the same time defying simple definitions. To make any sense of </em>Metal Gear Solid<em> would surely take an entire book.<br><br>Hence </em>Okay, Hero<em>. By looking at how its identity has gradually changed, and the social and pop cultural events that have influenced it, we, the Bullet Points editorial team of Reid McCarter, Ed Smith, and Astrid Rose attempt in </em>Okay, Hero<em> to pin down precisely what makes </em>Metal Gear Solid Metal Gear Solid<em>; to identify the inspirations behind its bizarre sci-fi design, untangle its fraught relationships with sex and gender, and hone in on its ideas about the modern world.</em>"
+            },
+            {
+              "id": "bc124b04-088f-4fb0-91f3-5873267cf03c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "82befe57-057d-4592-bf79-ad5985441733",
+          "type": "column",
+          "children": [
+            {
+              "id": "3c163ce7-6e43-47ed-bda5-809180e02aec",
+              "type": "image",
+              "src": "./assets/images/untitled-782d04dd5603.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cc96e251-a33b-4659-99e5-8fc32b949e06",
+      "type": "divider"
+    },
+    {
+      "id": "cd4cb0a5-cc77-49ab-a148-91613b6c15de",
+      "type": "columns",
+      "children": [
+        {
+          "id": "44515e2f-28e0-43c7-b4a3-b33a4cd8f536",
+          "type": "column",
+          "children": [
+            {
+              "id": "5dee65cb-d9f2-49fa-8d32-ba92108b2771",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f3015843-3c4e-4f09-ba84-4e35ea96903d",
+          "type": "column",
+          "children": [
+            {
+              "id": "473616ff-14ba-4d1b-ab16-5d43a82fc312",
+              "type": "callout",
+              "html": "<a href=\"https://bulletpoints.itch.io/okayhero\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7b4aa748-f2e8-46b6-b4d2-7f32f79ddec1",
+      "type": "divider"
+    }
+  ]
+}

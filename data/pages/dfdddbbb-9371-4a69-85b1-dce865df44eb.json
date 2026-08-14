@@ -1,0 +1,266 @@
+{
+  "id": "dfdddbbb-9371-4a69-85b1-dce865df44eb",
+  "slug": "serious-games",
+  "title": "Serious Games",
+  "icon": "./assets/images/gear-gray-0ec377f45914.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "5ee61c40-debd-4ed3-91d7-538153258c59",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/dfdddbbb93714a6985b1dce865df44eb",
+  "createdTime": 1666383284343,
+  "lastEditedTime": 1684451704881,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Concept"
+      ]
+    ],
+    "title": [
+      [
+        "Serious Games"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "1f6de78d-1b90-4e7f-a009-7199ceb6737c",
+      "type": "divider"
+    },
+    {
+      "id": "dcfdc022-ec0d-492c-8a21-bb90807f5983",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "b7996a6c-6b77-4ecb-b70c-4f3f1495ff58",
+      "type": "paragraph",
+      "html": "A <strong>serious game</strong> is a type of game that is designed with a primary purpose other than pure <a href=\"#/entertainment\">entertainment</a>. They can be used for a variety of purposes, such as <a href=\"#/educational-games\">education</a>, <a href=\"#/military-training\">training</a>, healthcare, <a href=\"#/marketing\">marketing</a>, <a href=\"#/art\">art</a>, and research (<em>see fig.1 below</em>). Serious games are often designed with the intention of being more engaging and <a href=\"#/immersion\">immersive</a> than traditional educational materials, and they can be a powerful <a href=\"#/what-video-games-have-to-teach-us-about-learning-and-literacy\">tool for learning</a> and <a href=\"#/theory-of-games-and-economic-behavior\">behavior</a> analysis."
+    },
+    {
+      "id": "c1849e89-5a3b-4bfc-9dc7-7754604e8e90",
+      "type": "paragraph",
+      "html": "Serious games are a growing field with various approaches becoming increasingly utilized over the past decades. As serious games continue to develop, they are likely to play an increasingly important role in various academic and professional fields."
+    },
+    {
+      "id": "d65307e7-dc5a-4362-b9fa-7f2343204dcf",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "09e8a94c-515b-4e3f-85ce-1c9fece39fe3",
+      "type": "table",
+      "columns": [
+        {
+          "id": "B`|s",
+          "width": 109.5625
+        },
+        {
+          "id": "~NC\\",
+          "width": 457
+        }
+      ],
+      "rows": [
+        {
+          "id": "423e866c-a81f-4004-89c2-e0aed759f9ab",
+          "cells": [
+            {
+              "columnId": "B`|s",
+              "html": "<u><strong><em>fig.1</em></strong></u>",
+              "text": "fig.1"
+            },
+            {
+              "columnId": "~NC\\",
+              "html": "<strong>Types of Serious Game</strong>",
+              "text": "Types of Serious Game"
+            }
+          ]
+        },
+        {
+          "id": "1c83c2d6-1c06-46e1-b220-473e06c6e464",
+          "cells": [
+            {
+              "columnId": "B`|s",
+              "html": "Educational games",
+              "text": "Educational games"
+            },
+            {
+              "columnId": "~NC\\",
+              "html": "<em>Designed to teach players about a specific subject. They can be used to teach students in the classroom, or they can be used by adults to learn new skills.</em>",
+              "text": "Designed to teach players about a specific subject. They can be used to teach students in the classroom, or they can be used by adults to learn new skills."
+            }
+          ]
+        },
+        {
+          "id": "792e27b1-6cd5-42d8-84bb-f2d674c65c14",
+          "cells": [
+            {
+              "columnId": "B`|s",
+              "html": "Training games",
+              "text": "Training games"
+            },
+            {
+              "columnId": "~NC\\",
+              "html": "<em>Designed to teach players specific skills, such as how to operate machinery or how to respond to emergencies. They are often used in the workplace, but they can also be used by the military and other organizations.</em>",
+              "text": "Designed to teach players specific skills, such as how to operate machinery or how to respond to emergencies. They are often used in the workplace, but they can also be used by the military and other organizations."
+            }
+          ]
+        },
+        {
+          "id": "b17e8e87-883d-4f0e-81cc-2e0cdb5e49c9",
+          "cells": [
+            {
+              "columnId": "B`|s",
+              "html": "Healthcare games",
+              "text": "Healthcare games"
+            },
+            {
+              "columnId": "~NC\\",
+              "html": "<em>Designed to help patients learn about their condition, to manage their symptoms, or to improve their overall health. They are often used in hospitals and clinics, but they can also be used by patients at home.</em>",
+              "text": "Designed to help patients learn about their condition, to manage their symptoms, or to improve their overall health. They are often used in hospitals and clinics, but they can also be used by patients at home."
+            }
+          ]
+        },
+        {
+          "id": "ebc990e4-2cef-4782-9ecf-189a53d28609",
+          "cells": [
+            {
+              "columnId": "B`|s",
+              "html": "Marketing games",
+              "text": "Marketing games"
+            },
+            {
+              "columnId": "~NC\\",
+              "html": "<em>Designed to promote a product or service. They can be used to generate leads, to increase brand awareness, or to encourage people to purchase a product.</em>",
+              "text": "Designed to promote a product or service. They can be used to generate leads, to increase brand awareness, or to encourage people to purchase a product."
+            }
+          ]
+        },
+        {
+          "id": "ed18f992-d696-46e3-902d-1dee14ed1e87",
+          "cells": [
+            {
+              "columnId": "B`|s",
+              "html": "Art games",
+              "text": "Art games"
+            },
+            {
+              "columnId": "~NC\\",
+              "html": "<em>Designed to communicate particular artistic vision. They may be displayed in galleries and explore sociocultural ideas and issues in distinct way from traditional gameplay or “fun”-focused games.</em>",
+              "text": "Designed to communicate particular artistic vision. They may be displayed in galleries and explore sociocultural ideas and issues in distinct way from traditional gameplay or “fun”-focused games."
+            }
+          ]
+        },
+        {
+          "id": "dc82ad1e-3029-4349-90c6-b6ee9a1c6c71",
+          "cells": [
+            {
+              "columnId": "B`|s",
+              "html": "Research Games",
+              "text": "Research Games"
+            },
+            {
+              "columnId": "~NC\\",
+              "html": "<em>Designed to simulate or test a behavior or environment for scientific research purposes. They may be given to study groups or students in order to gather experimental data on dynamics impossible or difficult to achieve physically.</em>",
+              "text": "Designed to simulate or test a behavior or environment for scientific research purposes. They may be given to study groups or students in order to gather experimental data on dynamics impossible or difficult to achieve physically."
+            }
+          ]
+        }
+      ],
+      "hasRowHeader": true,
+      "hasColumnHeader": false
+    },
+    {
+      "id": "bd03deef-be04-4821-9aac-bac40860cd4a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "66ac7546-fc17-4976-97be-20b07b25112b",
+      "type": "divider"
+    },
+    {
+      "id": "019a4338-5234-4b0e-afa8-5886331a0c20",
+      "type": "columns",
+      "children": [
+        {
+          "id": "67e3f322-5092-4c0f-b68a-795d0a918a4a",
+          "type": "column",
+          "children": [
+            {
+              "id": "7a2007be-2a36-4298-8809-b4c3adfab217",
+              "type": "paragraph",
+              "html": "<em>related reading:</em>"
+            },
+            {
+              "id": "a625de95-3cac-4bb1-ae4d-0496567b4022",
+              "type": "paragraph",
+              "html": "<a href=\"#/serious-leisure-and-nature\">Serious Games (2009)</a> (<em><em><em><em>book</em></em></em></em>)"
+            },
+            {
+              "id": "6d9d52c7-0c67-44b5-b2eb-3347eb7008ca",
+              "type": "paragraph",
+              "html": "<a href=\"#/serious-games-2009\">Serious Games (1970)</a> (<em><em><em><em>book</em></em></em></em>)"
+            },
+            {
+              "id": "3e510d1b-d25e-4984-a9f4-2d53747c04a5",
+              "type": "paragraph",
+              "html": "<a href=\"#/videogames-and-education\">Videogames &amp; Education</a> (<em><em><em><em>book</em></em></em></em>)"
+            }
+          ]
+        },
+        {
+          "id": "89864f45-d36d-4877-95dc-5d8bad85cb0d",
+          "type": "column",
+          "children": [
+            {
+              "id": "c389fa47-75eb-4c7b-a771-f9a9cec5c808",
+              "type": "paragraph",
+              "html": "<em>see also:</em>"
+            },
+            {
+              "id": "550c9dd5-d473-4531-ba5d-ef9abd2fe940",
+              "type": "paragraph",
+              "html": "<a href=\"#/educational-games\">Educational Games</a> (<em><em><em><em><em><em><em>concept</em></em></em></em></em></em></em>)"
+            },
+            {
+              "id": "8982a65b-b18d-4806-84a9-e829250f028a",
+              "type": "paragraph",
+              "html": "<a href=\"#/serious-leisure-and-nature\">Serious Leisure &amp; Nature</a> (<em><em><em><em>book</em></em></em></em>)"
+            },
+            {
+              "id": "d4a5c0af-8c51-46b2-9ef2-7c54b4211d4c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2bd33e8a-a761-4e2e-a999-6166f69738dd",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4ac4521d-30bd-469c-91cc-5a32007710e7",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "1d778d18-7ac7-4760-ac1a-93c2a63bedf0",
+      "type": "paragraph",
+      "html": "<a href=\"#/concept-wall\"><u>☜Concept Wall</u></a>"
+    },
+    {
+      "id": "11b9a0ac-0c1c-454c-aa98-1acc6818386c",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

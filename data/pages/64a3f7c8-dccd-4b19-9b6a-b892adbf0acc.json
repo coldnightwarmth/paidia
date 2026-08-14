@@ -1,0 +1,126 @@
+{
+  "id": "64a3f7c8-dccd-4b19-9b6a-b892adbf0acc",
+  "slug": "a-dictionary-of-sports-studies",
+  "title": "A Dictionary of Sports Studies",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "0130aded-f1ed-42e0-a6ef-db022ec3954a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/A-Dictionary-of-Sports-Studies-64a3f7c8dccd4b199b6ab892adbf0acc?pvs=21",
+  "createdTime": 1679667011636,
+  "lastEditedTime": 1681310218584,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A Dictionary of Sports Studies"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-bc1396463349.webp",
+  "blocks": [
+    {
+      "id": "62bebcb5-1554-4664-b58b-e6cf409e6aca",
+      "type": "divider"
+    },
+    {
+      "id": "411862ae-ba98-4792-8981-7bb8e4bbf266",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5dbd2104-4809-498a-8e8c-49eb65c7d0b6",
+      "type": "columns",
+      "children": [
+        {
+          "id": "4b7a037e-4d62-48c7-8f4f-b511af36310d",
+          "type": "column",
+          "children": [
+            {
+              "id": "50fe8ee0-6a22-414c-964f-330f4e7610e0",
+              "type": "paragraph",
+              "html": "<em><strong>A Dictionary of Sports Studies</strong></em> was written by Alan Tomlinson, published by Oxford University Press, March 4 2010."
+            },
+            {
+              "id": "099d912a-a6ad-4405-9fae-4df0364ac8e1",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "2972e381-56d3-4a40-a7da-44dcf1337591",
+              "type": "quote",
+              "html": "<em>This is the brand new Dictionary of Sports Studies. It contains over 1,100 clear, concise, and authoritative entries compiled by Professor Alan Tomlinson, a leading expert in the field. Wide-ranging coverage includes the social, political, economical, and cultural theory of sport, as well as entries relating to exercise, preparation, and performance psychology, and key scientific terms, including nutrition and anatomy. It also features biographies of key sportspeople, information on international organizations and institutions, and detailed appendices with lists of sporting events and winners, including the Summer and Winter Olympic Games. In addition, there are recommended web links for many entries, which are accessed and kept up to date via the Dictionary of Sports Studies companion website. Addressing the need for an A-Z reference guide in the field of sports studies, this dictionary is essential reading for students of sports studies and the related disciplines of leisure and recreation studies, sports science, and physical education. It is also ideal for the general reader with an interest in sport.</em>"
+            },
+            {
+              "id": "c61ef7a0-a841-4de6-8368-2e8301a40653",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5d3a1412-6e46-4b26-82ca-6615cf23b255",
+          "type": "column",
+          "children": [
+            {
+              "id": "149628dc-2ca1-4b81-8db5-ce8d1dbc8cb3",
+              "type": "image",
+              "src": "./assets/images/untitled-bc1396463349.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da624145-eefd-48ad-8e8e-7188404f8ccb",
+      "type": "divider"
+    },
+    {
+      "id": "5b42b935-27bb-48a2-9ea3-f87a569cb734",
+      "type": "columns",
+      "children": [
+        {
+          "id": "9215fbdd-950a-4b72-85da-96d6ebd6e51a",
+          "type": "column",
+          "children": [
+            {
+              "id": "05993e77-4f19-4cd8-aee1-d6674b5f0a1c",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7046c34b-40c1-4a3a-a5a1-7c2435c79c2f",
+          "type": "column",
+          "children": [
+            {
+              "id": "fd3056ef-2187-49f9-97ba-fc9b56608c50",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Dictionary-Sports-Studies-Alan-Tomlinson/dp/019921381X\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "343333d8-e0d7-436b-8456-9907fc31ffa1",
+      "type": "divider"
+    }
+  ]
+}

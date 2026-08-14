@@ -1,0 +1,141 @@
+{
+  "id": "66fe0148-3ec5-4a14-9540-bf45ce816963",
+  "slug": "religions-in-play",
+  "title": "Religions in Play",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "8aa603e4-2ed9-4d65-b1fc-cea418c71d6a",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Religions-in-Play-66fe01483ec54a149540bf45ce816963?pvs=21",
+  "createdTime": 1667261323073,
+  "lastEditedTime": 1681312727425,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Religions in Play",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-d82d543e65d2.webp",
+  "blocks": [
+    {
+      "id": "5247d7a3-ac3a-440c-b5e8-010edee80578",
+      "type": "divider"
+    },
+    {
+      "id": "55723aa9-28ab-4383-9aad-e16244732a09",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e5ef7bf3-7067-44aa-95b9-5e7841aac2f0",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0a3898e4-a0f1-4b1a-a928-2f7bbba3bfc7",
+          "type": "column",
+          "children": [
+            {
+              "id": "c9e5e1d2-6c6d-4088-bed4-e051e8305497",
+              "type": "paragraph",
+              "html": "<em><strong>Religions in Play: Games, Rituals, &amp; Virtual Worlds</strong></em> was written by Maya Burger, published by TVZ - Theologischer Verlag Z|rich, February 1, 2012."
+            },
+            {
+              "id": "073b5fcd-a24f-4f5a-86f5-0a8209dc414f",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "3e09c434-31a6-4f42-80db-e89dfe2fe5f1",
+              "type": "quote",
+              "html": "<em>Often dismissed as not serious, the notion of play has nevertheless been at the centre of classical theories of religion and ritual (</em><a href=\"#/johan-huizinga\"><em>Huizinga</em></a><em>, </em><a href=\"#/roger-caillois\"><em>Caillois</em></a><em>, Turner, Staal, etc.). What can be retained of those theories for the contemporary study of religions? Can a study of play or game bring new perspectives for the study of religions? The book deals with the history of games and their relation to religions, the links between </em><a href=\"#/divination\"><em>divination</em></a><em> and games, the relations between sport and </em><a href=\"#/ritual\"><em>ritual</em></a><em>, the pedagogical functions of games in religious education, and the interaction between games, media and religions. Richly illustrated, the book contributes to the study of religions, to ritual, game and media studies, and addresses an academic as well as a general public.</em>"
+            }
+          ]
+        },
+        {
+          "id": "90b7cc60-4a3c-4b23-a0de-1345a7395267",
+          "type": "column",
+          "children": [
+            {
+              "id": "da410664-c1c4-4931-843d-7e43c825ae5c",
+              "type": "image",
+              "src": "./assets/images/untitled-d82d543e65d2.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d393fc31-7842-4095-9fc9-b93c5c7ac638",
+      "type": "divider"
+    },
+    {
+      "id": "908676aa-8c39-4634-b000-311bb23fd4c2",
+      "type": "columns",
+      "children": [
+        {
+          "id": "1a6d3fc6-064c-46b1-8f44-c8e0e2d98d2a",
+          "type": "column",
+          "children": [
+            {
+              "id": "7996675f-a6d5-4a72-8883-1a20579904d4",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c79c2da7-ee85-4496-bd66-8f33c398730d",
+          "type": "column",
+          "children": [
+            {
+              "id": "de51087a-3aaf-4892-bbb8-c709a240ddc4",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SMtyQ8\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be55df59-6b08-4e87-b65d-c2be3a9c2663",
+      "type": "divider"
+    },
+    {
+      "id": "148dddc3-d4ea-4e5a-94bc-409acd22e1d1",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "760eaf4f-b0aa-4383-808a-34fe718588e5",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "e9c2e85f-6afc-43c8-a3c2-5cd121371aa4",
+      "type": "paragraph",
+      "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
+    }
+  ]
+}

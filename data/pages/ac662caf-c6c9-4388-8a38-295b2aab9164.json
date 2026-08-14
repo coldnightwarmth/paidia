@@ -1,0 +1,131 @@
+{
+  "id": "ac662caf-c6c9-4388-8a38-295b2aab9164",
+  "slug": "codename-revolution",
+  "title": "Codename Revolution",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "46177b24-2d03-4a55-945a-07bf7464a995",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Codename-Revolution-ac662cafc6c943888a38295b2aab9164?pvs=21",
+  "createdTime": 1651712817590,
+  "lastEditedTime": 1681311613509,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Codename Revolution",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-fe1652c65976.webp",
+  "blocks": [
+    {
+      "id": "24d7e7fb-cc28-4539-b94c-4e29efd6d7b8",
+      "type": "divider"
+    },
+    {
+      "id": "5ac37408-e1cc-4903-8585-f0bd32572edc",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "39117ed0-7eab-4e59-b4a9-25a7b64ca054",
+      "type": "columns",
+      "children": [
+        {
+          "id": "54148fb1-9ee2-4825-a3dc-ba483a61c0e8",
+          "type": "column",
+          "children": [
+            {
+              "id": "688937f4-65e0-45de-8571-0c70a3230f5a",
+              "type": "paragraph",
+              "html": "<em><strong>Codename Revolution: The Nintendo Wii Platform</strong></em> was written by Steven E. Jones &amp; George K. Thiruvathukal, published by The MIT Press, February 24, 2012."
+            },
+            {
+              "id": "a5843591-bcde-4699-882b-32914528b089",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "9c414417-1b61-426a-a693-5eb515c11174",
+              "type": "quote",
+              "html": "<em>Nintendo’s hugely popular and influential video game console system considered as technological device and social phenomenon.<br><br>The Nintendo Wii, introduced in 2006, helped usher in a moment of retro-reinvention in video game play. This hugely popular console system, codenamed Revolution during development, signaled a turn away from fully immersive, time-consuming MMORPGs or forty-hour FPS games and back toward family fun in the living room. Players using the wireless motion-sensitive controller (the Wii Remote, or “Wiimote”) play with their whole bodies, waving, swinging, swaying. The mimetic interface shifts attention from what's on the screen to what's happening in physical space.<br><br>This book describes the Wii’s impact in technological, social, and cultural terms, examining the Wii as a system of interrelated hardware and software that was consciously designed to promote social play in physical space. Each chapter of Codename Revolution focuses on a major component of the Wii as a platform: the console itself, designed to be low-powered and nimble; the iconic Wii Remote; Wii Fit Plus, and its controller, the Wii Balance Board; the Wii Channels interface and Nintendo’s distribution system; and the Wii as a social platform that not only affords multiplayer options but also encourages social interaction in shared physical space. Finally, the authors connect the Wii’s revolution in mimetic interface gaming—which eventually led to the release of Sony’s Move and Microsoft’s Kinect—to some of the economic and technological conditions that influence the possibility of making something new in this arena of computing and culture.</em>"
+            },
+            {
+              "id": "22d8045a-c4d9-41d2-861e-d121835d79e7",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "47363b32-a841-4bc4-b204-50c73c538f27",
+          "type": "column",
+          "children": [
+            {
+              "id": "446c06b5-8b46-4ccd-bf6d-11bd09e4de2e",
+              "type": "image",
+              "src": "./assets/images/untitled-fe1652c65976.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "254df592-4feb-4f6f-b09d-42537d3887ae",
+      "type": "divider"
+    },
+    {
+      "id": "311df217-1384-4d09-9378-35838d490a35",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c9b0c80b-cf51-439b-9547-ee9f30ee5cc6",
+          "type": "column",
+          "children": [
+            {
+              "id": "9fc5defc-aa7e-44d7-af9b-b0aad3720406",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3c8d3202-d331-460d-ae40-7ad143788cbe",
+          "type": "column",
+          "children": [
+            {
+              "id": "b4e5284a-b0bd-4576-b6d6-e50ffb4035a0",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3SVYNrO\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cee8fee-6f5c-40c1-b073-d1ee03f1b949",
+      "type": "divider"
+    }
+  ]
+}

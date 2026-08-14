@@ -1,0 +1,126 @@
+{
+  "id": "ad8859e1-a4e6-4912-973f-ecfc4103a61c",
+  "slug": "how-to-do-things-with-videogames",
+  "title": "How to Do Things With Videogames",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "948bc20c-6402-4c60-b526-5a373f90b6f0",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/ad8859e1a4e64912973fecfc4103a61c",
+  "createdTime": 1651703895602,
+  "lastEditedTime": 1681313958326,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "How to Do Things With Videogames"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-0160eb74befb.webp",
+  "blocks": [
+    {
+      "id": "8da3e48c-08ea-4d0f-be51-b36b6ac47576",
+      "type": "divider"
+    },
+    {
+      "id": "ad726230-3c94-4f67-9372-164b11b1d32f",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "21d7b16d-50e4-4000-9515-88023325254f",
+      "type": "columns",
+      "children": [
+        {
+          "id": "001b2d31-ae33-4715-a02f-39e37937775d",
+          "type": "column",
+          "children": [
+            {
+              "id": "35b27625-18dc-4a0c-98f5-212ea6e18432",
+              "type": "paragraph",
+              "html": "<em><strong>How to Do Things with Videogames</strong></em> was written by Ian Bogost, published by University Of Minnesota Press, August 5, 2011."
+            },
+            {
+              "id": "2cb81b1e-397c-4263-a58a-2ac148ed17cc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "5a012ef2-d4c8-4581-b4f4-88aa20c50731",
+              "type": "quote",
+              "html": "<em>In recent years, computer games have moved from the margins of popular culture to its center. Reviews of new games and profiles of game designers now regularly appear in the New York Times and the New Yorker, and sales figures for games are reported alongside those of books, music, and movies. They are increasingly used for purposes other than entertainment, yet debates about videogames still fork along one of two paths: accusations of debasement through violence and isolation or defensive paeans to their potential as serious cultural works. In </em>How to Do Things with Videogames<em>, Ian Bogost contends that such generalizations obscure the limitless possibilities offered by the medium’s ability to create complex simulated realities.<br><br>Bogost, a leading scholar of videogames and an award-winning game designer, explores the many ways computer games are used today: documenting important historical and cultural events; educating both children and adults; promoting commercial products; and serving as platforms for art, pornography, exercise, relaxation, pranks, and politics. Examining these applications in a series of short, inviting, and provocative essays, he argues that together they make the medium broader, richer, and more relevant to a wider audience.<br><br>Bogost concludes that as videogames become ever more enmeshed with contemporary life, the idea of gamers as social identities will become obsolete, giving rise to gaming by the masses. But until games are understood to have valid applications across the cultural spectrum, their true potential will remain unrealized. </em>How to Do Things with Videogames<em> offers a fresh starting point to more fully consider games’ progress today and promise for the future.</em>"
+            },
+            {
+              "id": "55a5b1b7-2e6d-4aac-be58-03742b9fa612",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "484bd52e-b134-4b15-be35-70f1d2e16134",
+          "type": "column",
+          "children": [
+            {
+              "id": "59d4008e-1813-4c7f-b723-76229c1fc74c",
+              "type": "image",
+              "src": "./assets/images/untitled-0160eb74befb.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1b9a270-e405-4d6b-93df-1e426a567368",
+      "type": "divider"
+    },
+    {
+      "id": "a1b4fc6d-697b-458c-aa52-a530bdacfd8c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "20dea71c-9000-49e0-a0ba-098925e7ea2e",
+          "type": "column",
+          "children": [
+            {
+              "id": "7784cd5a-7315-4ce5-b246-be0a8346381a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "592518c7-1116-498f-bc4e-0088d41cf045",
+          "type": "column",
+          "children": [
+            {
+              "id": "2162b021-f113-4c09-b90e-bc6b0fa3192c",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Drq1B1\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9fcc48fd-b73d-4d58-a995-8c843e4f9c3a",
+      "type": "divider"
+    }
+  ]
+}

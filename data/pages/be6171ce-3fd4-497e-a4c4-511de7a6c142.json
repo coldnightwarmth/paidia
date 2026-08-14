@@ -1,0 +1,131 @@
+{
+  "id": "be6171ce-3fd4-497e-a4c4-511de7a6c142",
+  "slug": "a-history-of-chess",
+  "title": "A History of Chess",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "c3580b79-8f9a-45c6-9831-472c37c516c6",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/A-History-of-Chess-be6171ce3fd4497ea4c4511de7a6c142?pvs=21",
+  "createdTime": 1668793830490,
+  "lastEditedTime": 1681310231617,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "A History of Chess",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-8dc135a5126b.webp",
+  "blocks": [
+    {
+      "id": "7d59c2a4-094e-4220-b43d-e98594310c84",
+      "type": "divider"
+    },
+    {
+      "id": "ccef6999-287b-4197-bde6-fa81d1a09cce",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "7b547729-7b7f-4958-9ac5-48ab4c1fe6d8",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8cb4f21c-c3c5-4c63-a440-a8b1537637d5",
+          "type": "column",
+          "children": [
+            {
+              "id": "ef2677a2-32aa-4a12-af1f-d4c816d88230",
+              "type": "paragraph",
+              "html": "<em><strong>A History of Chess</strong></em> was written by H. J. R. Murray, originally published in 1913."
+            },
+            {
+              "id": "f1f86a61-7814-4938-9be7-f58648c917bd",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "eae89982-1a0b-41aa-af95-28485cc526e4",
+              "type": "quote",
+              "html": "<em>An epic work that took more than a decade to complete, </em>A History of Chess<em>, originally published in 1913, is a historic undertaking that shattered preconceptions about the game upon publication. Over a century later, Murray’s research and conclusions, in which he argues that chess originated in India, are still widely accepted by most chess historians.<br><br>Undertaking such a pioneering task, the scope of which has never been attempted before or since, Murray taught himself to read Arabic in order to decipher historical manuscripts on the game and its beginnings. His study unravels the history of the game as it evolved from its Asiatic beginnings, through the role chess played in Europe during the Middle Ages, and up until the nineteenth century with the arrival of modern chess as we know it.<br><br></em>A History of Chess <em>includes transcribed diagrams of important games, as well as some of the more famous historical chess figurines, such as the Lewis chessmen. No single work on the game of chess has become close to touching Murray’s in breadth or significance.</em>"
+            },
+            {
+              "id": "95d13fe2-6b5d-4f4b-88c2-20bed3a02433",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "66610b3c-9196-4a88-a63c-c703ecf874f6",
+          "type": "column",
+          "children": [
+            {
+              "id": "d5f8b087-18f9-4b85-aee9-fc1f1d079575",
+              "type": "image",
+              "src": "./assets/images/untitled-8dc135a5126b.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c702b779-c365-4e9d-9723-e2bbcab96c73",
+      "type": "divider"
+    },
+    {
+      "id": "10f46de7-a8eb-4563-83c7-258819504f58",
+      "type": "columns",
+      "children": [
+        {
+          "id": "8346cbaf-7270-48e6-94bb-02f7cf760fc0",
+          "type": "column",
+          "children": [
+            {
+              "id": "97d29491-79c1-48a8-9fb3-548cafe53245",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "64abed17-ce98-4ecb-8e95-54104cb46017",
+          "type": "column",
+          "children": [
+            {
+              "id": "db6ebd03-2a4b-47f1-bf9c-dffd3af94f07",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/History-Chess-Original-1913/dp/163220293X\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0e96c04-629b-42aa-b7fa-6658c42c72ab",
+      "type": "divider"
+    }
+  ]
+}

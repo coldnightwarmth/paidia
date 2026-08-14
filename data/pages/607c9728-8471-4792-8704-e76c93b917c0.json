@@ -1,0 +1,121 @@
+{
+  "id": "607c9728-8471-4792-8704-e76c93b917c0",
+  "slug": "amusement-machines",
+  "title": "Amusement Machines",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "64047d4c-5176-4bb8-b68a-e220307b7ce5",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Amusement-Machines-607c9728847147928704e76c93b917c0?pvs=21",
+  "createdTime": 1658275800117,
+  "lastEditedTime": 1681310831863,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Amusement Machines",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-30408ea3d5a3.webp",
+  "blocks": [
+    {
+      "id": "81c5c4c8-587d-4d8f-9868-887acada1140",
+      "type": "divider"
+    },
+    {
+      "id": "192b26f8-d85f-47c0-b436-8a2429db605a",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "e4424583-8029-4119-8900-0509e69ba604",
+      "type": "columns",
+      "children": [
+        {
+          "id": "05ef2f7b-72bd-4809-b2c5-c49d373b69d1",
+          "type": "column",
+          "children": [
+            {
+              "id": "abf0cf3d-55a7-46ce-bc1b-61bc9c2300be",
+              "type": "paragraph",
+              "html": "<em><strong>Amusement Machines</strong></em> was written by Lynn F. Pearson, published by Shire, April 20, 2010."
+            },
+            {
+              "id": "6da5dce5-468e-4683-ab70-2675f06b64cd",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "d459e967-1398-4471-84a5-0b500be37ab7",
+          "type": "column",
+          "children": [
+            {
+              "id": "5e5b8995-265e-4803-8d37-e55bb030a646",
+              "type": "image",
+              "src": "./assets/images/untitled-30408ea3d5a3.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f86ced8-3ebb-46fd-a048-ba2ba059d2cb",
+      "type": "divider"
+    },
+    {
+      "id": "3a3c99d1-e2cd-44ff-a740-fb21781aba3c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "935c659c-c54f-4024-b331-a6f9be32da48",
+          "type": "column",
+          "children": [
+            {
+              "id": "02218beb-644a-47f0-9c9d-7c05034ed919",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fc56fddd-dcd4-42ba-9d7d-05db48ba1f78",
+          "type": "column",
+          "children": [
+            {
+              "id": "0fe340b1-a52c-449b-ad6f-36d437747d94",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3Pkjpcv\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ce4243c-7965-466d-86a2-237208757268",
+      "type": "divider"
+    }
+  ]
+}

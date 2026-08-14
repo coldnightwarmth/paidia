@@ -1,0 +1,53 @@
+{
+  "id": "5dec07f8-5d99-47d1-851c-13246d2bd826",
+  "slug": "monster",
+  "title": "Monster",
+  "icon": "./assets/images/gear-lightgray-208ac6e3cb74.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "4231da41-594a-42e5-b414-229c0a16aa23",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/5dec07f85d9947d1851c13246d2bd826",
+  "createdTime": 1683572027082,
+  "lastEditedTime": 1683572171709,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": null,
+  "properties": {
+    "Bjg@": [
+      [
+        "Concept"
+      ]
+    ],
+    "title": [
+      [
+        "Monster"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-96bfd581fa96.webp",
+  "blocks": [
+    {
+      "id": "83d34816-215c-4554-9315-be622f9c7dcf",
+      "type": "image",
+      "src": "./assets/images/untitled-96bfd581fa96.webp",
+      "caption": "",
+      "alt": "Untitled"
+    },
+    {
+      "id": "15f077ff-39d1-44ac-99e3-6c65acbdf2d9",
+      "type": "paragraph",
+      "html": "<strong>Player vs. Monster: The Making and Breaking of Video Game Monstrosity</strong>"
+    },
+    {
+      "id": "580e5b7a-bcd6-4f42-975e-8fd598c4efba",
+      "type": "paragraph",
+      "html": "pocket “monster” christian controversy"
+    },
+    {
+      "id": "0c2e281f-27c2-4f7d-b575-d083d89933e0",
+      "type": "divider"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "5a572c02-6d97-4b24-baa9-ae7974715e76",
+  "slug": "the-play-of-man",
+  "title": "The Play of Man",
+  "icon": "./assets/images/book-closed-brown-a546bac89467.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Play-of-Man-5a572c026d974b24baa9ae7974715e76?pvs=21",
+  "createdTime": 1659570828562,
+  "lastEditedTime": 1681313075998,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Play of Man",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-e4c2d7da0f4f.webp",
+  "blocks": [
+    {
+      "id": "183685f3-7c4c-43e9-ae1d-986f8d49754c",
+      "type": "divider"
+    },
+    {
+      "id": "ba9f23c4-85f6-4ce4-b03a-82b11710f8d6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2f29b3fd-2fc3-46ff-bfb0-ac0af10a4d08",
+      "type": "columns",
+      "children": [
+        {
+          "id": "ba67cdf6-4770-4985-a807-4240d406435b",
+          "type": "column",
+          "children": [
+            {
+              "id": "8b78fa50-ae70-4b8c-9983-771202eca613",
+              "type": "paragraph",
+              "html": "<em><strong>The Play of Man</strong></em><em> </em>was written by <a href=\"#/karl-groos\">Karl Groos</a>, originally published in 1899."
+            },
+            {
+              "id": "7f0e2a23-c249-45c8-8e06-bc961758c4b8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "b044f366-ec1c-4cad-a30f-e8d048089665",
+              "type": "quote",
+              "html": "<em>The Play of Man is a work by Karl Groos, philosopher and psychologist who proposed an </em><a href=\"#/evolution\"><em>evolutionary</em></a><em> </em><a href=\"#/instrument\"><em>instrumentalist</em></a><em> theory of play. The book suggests that play is a preparation for later life. The main idea is that play is basically useful, and so it can be explained by the normal process of evolution by natural selection. When we &quot;play&quot; we are practicing basic instincts, such as fighting, for survival, just like animals do.</em>"
+            },
+            {
+              "id": "6600f3b6-2ded-41a0-9dab-0feb245f245c",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "947ca3ce-61fe-444d-900e-a51120419c12",
+          "type": "column",
+          "children": [
+            {
+              "id": "c62a43c2-ecff-47d6-ad7a-416728e8fbce",
+              "type": "image",
+              "src": "./assets/images/untitled-e4c2d7da0f4f.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dabc602c-37a9-42f8-a094-f94ed21c8197",
+      "type": "divider"
+    },
+    {
+      "id": "43651b40-3a57-4032-89ce-60c2c684c135",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0f3ff2af-767e-4a75-927e-f48079827216",
+          "type": "column",
+          "children": [
+            {
+              "id": "28c2ff1a-b80c-4100-ad14-550dc3bd4eff",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "56b25090-3bf3-4660-b054-914c83ea7974",
+          "type": "column",
+          "children": [
+            {
+              "id": "b659cf1c-3aff-4085-bd30-6a93f1c32865",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3oQo4Ht\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe74a4ea-e915-45d2-a10c-1634296e5da2",
+      "type": "divider"
+    },
+    {
+      "id": "2b9b4a88-5d1b-4d7c-90fe-1ed5fe4363e6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "ac74a9f6-23c5-4e28-8f2a-f4faefccd028",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "9c3e3c58-5098-47ae-ad88-5934a743d614",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

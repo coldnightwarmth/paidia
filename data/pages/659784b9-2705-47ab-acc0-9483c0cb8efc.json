@@ -1,0 +1,127 @@
+{
+  "id": "659784b9-2705-47ab-acc0-9483c0cb8efc",
+  "slug": "game-loops",
+  "title": "Game loops",
+  "icon": "➿",
+  "cover": "",
+  "type": "page",
+  "parentId": "01323835-74dd-4c2d-bff5-d14e3a90761c",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/659784b9270547abacc09483c0cb8efc",
+  "createdTime": 1645263051300,
+  "lastEditedTime": 1645265220001,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Game loops"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-drawing-1-faad78116c41.webp",
+  "blocks": [
+    {
+      "id": "10403740-9ee8-4847-aad3-70ffca3768df",
+      "type": "paragraph",
+      "html": "In here write down your game loops. What does your player do moment by moment?"
+    },
+    {
+      "id": "7c39598c-193a-4535-8c2c-0aa4f226de62",
+      "type": "header",
+      "html": "Core game loop",
+      "anchorId": "core-game-loop"
+    },
+    {
+      "id": "464554b6-0554-4d52-b126-c54794c197ed",
+      "type": "paragraph",
+      "html": "For example:"
+    },
+    {
+      "id": "1b229df9-1b11-435a-b7e4-013aa263b8d3",
+      "type": "columns",
+      "children": [
+        {
+          "id": "c9ee9bd1-b036-4c3f-85a1-513e9d1e0b94",
+          "type": "column",
+          "children": [
+            {
+              "id": "0ab015c1-e695-48a7-9f8d-11ee663512c0",
+              "type": "paragraph",
+              "html": "<strong>Navigate a maze</strong>"
+            },
+            {
+              "id": "6c4aed28-6c53-4e71-84c7-d3ae634875f4",
+              "type": "paragraph",
+              "html": "The player can move up, down, left or right in a maze."
+            },
+            {
+              "id": "c1a5705c-c55c-49d6-b2ba-4db0dfe25d78",
+              "type": "paragraph",
+              "html": "<strong>Avoid ghosts</strong>"
+            },
+            {
+              "id": "586fda27-a5ad-4343-b32c-97b2385b7f8a",
+              "type": "paragraph",
+              "html": "The player has to avoid ghosts that follow them in the maze."
+            },
+            {
+              "id": "8b54e4c6-17f9-49dd-b965-f780745f4bb0",
+              "type": "paragraph",
+              "html": "<strong>Clear the dots in the maze</strong>"
+            },
+            {
+              "id": "5fd292f9-dea7-4bd5-8046-f1fa3c9eab01",
+              "type": "paragraph",
+              "html": "The player eats dots as they move around the maze."
+            }
+          ]
+        },
+        {
+          "id": "cd024b5b-e99f-4c1d-add7-e5227845e2fd",
+          "type": "column",
+          "children": [
+            {
+              "id": "8cbe52c1-dcc2-4e99-9f9b-511274764d18",
+              "type": "image",
+              "src": "./assets/images/untitled-drawing-1-faad78116c41.webp",
+              "caption": "",
+              "alt": "Untitled drawing (1).png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e43b3e4-ac3d-4ca1-8591-5e2283b83f74",
+      "type": "header",
+      "html": "Secondary loops",
+      "anchorId": "secondary-loops"
+    },
+    {
+      "id": "1ae8ad22-9b55-4805-9d4e-6455f61ba706",
+      "type": "paragraph",
+      "html": "If you have any secondary loops add them here."
+    },
+    {
+      "id": "1f891ccd-a878-42da-97f0-52a936d44bfc",
+      "type": "header",
+      "html": "Further reading",
+      "anchorId": "further-reading"
+    },
+    {
+      "id": "48fa7bcb-58e7-4f89-b373-f8e40d5780ec",
+      "type": "callout",
+      "html": "What are game loops?<br><a href=\"https://medium.com/@davengdesign/core-loops-c98b1197e93d\" target=\"_blank\" rel=\"noreferrer\">https://medium.com/@davengdesign/core-loops-c98b1197e93d</a>",
+      "icon": "📚",
+      "children": []
+    },
+    {
+      "id": "4684f74e-36b2-4ddc-81f5-54194b5150f0",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

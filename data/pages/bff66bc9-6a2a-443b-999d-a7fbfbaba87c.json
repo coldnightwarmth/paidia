@@ -1,0 +1,220 @@
+{
+  "id": "bff66bc9-6a2a-443b-999d-a7fbfbaba87c",
+  "slug": "ideation-workshops",
+  "title": "Ideation workshops",
+  "icon": "💡",
+  "cover": "",
+  "type": "page",
+  "parentId": "d02701b6-e3a0-42cc-aba7-e48629f57331",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/bff66bc96a2a443b999da7fbfbaba87c",
+  "createdTime": 1664380021207,
+  "lastEditedTime": 1767526620693,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Ideation workshops"
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/screenshot-2022-07-17-at-09-48-47-ce62369b38b1.webp",
+  "blocks": [
+    {
+      "id": "49bc4212-caa4-4ee2-82d0-192c872e044b",
+      "type": "paragraph",
+      "html": "Ideation is how designers come up with solutions to a particular problem."
+    },
+    {
+      "id": "8b89462d-085e-420f-881c-e862f8a86c93",
+      "type": "paragraph",
+      "html": "Ideation can happen solo or with a team. When ideating with a team, there will usually be a structure to the ideation session in the form of a workshop."
+    },
+    {
+      "id": "41302dfc-31f6-4e41-ad13-1155b9a91520",
+      "type": "header",
+      "html": "Workshop formats",
+      "anchorId": "workshop-formats"
+    },
+    {
+      "id": "fdc9728c-9da8-4864-9f05-a9189611ca62",
+      "type": "paragraph",
+      "html": "Here are some various ideation workshop formats that you could run in your team."
+    },
+    {
+      "id": "e3e3fe7d-4d72-41f0-8a47-ef8574c4419b",
+      "type": "subheader",
+      "html": "🗺️ Mind mapping",
+      "anchorId": "mind-mapping"
+    },
+    {
+      "id": "71576c0a-7ac2-4338-b627-b489372bead6",
+      "type": "paragraph",
+      "html": "<strong>Prep: </strong>Open up a new <a href=\"https://miro.com/\" target=\"_blank\" rel=\"noreferrer\">miro</a> board and write down the problem you are trying to solve. Add in any relevant context that might be useful. (Eg. concept art, research results, design brief, etc.)"
+    },
+    {
+      "id": "5080bf14-b7e4-4c54-bfbb-b9d2a4dd2c64",
+      "type": "paragraph",
+      "html": "<strong>During: </strong>Gather your team. Explain the problem and the context. Open the floor to the team and have everyone discuss solutions to the problem. Write down the ideas as post it notes on the board, creating a mind map."
+    },
+    {
+      "id": "a1b47b42-096d-4672-a09e-915e1270e657",
+      "type": "paragraph",
+      "html": "<strong>End: </strong>Summarise the design everyone’s agreed on and give everyone a chance to make any final comments."
+    },
+    {
+      "id": "e568fa13-5fe1-4b53-b6fa-80d02cb726b2",
+      "type": "paragraph",
+      "html": "<strong>After: </strong>Write down the summary on the board and share the board with the team."
+    },
+    {
+      "id": "31857b4e-92ee-435e-8f06-2ee6b273763b",
+      "type": "callout",
+      "html": "Mind mapping works best with teams who are quite chatty and full of ideas. Quieter members might struggle with this format.<br><br>Keep them in mind as you do this exercise and try to bring them into the conversation (eg. verbally give them space to add in any thoughts, request participants raise their hand when they have something to add, welcome ideas in the chat, etc.).",
+      "icon": "❗",
+      "children": []
+    },
+    {
+      "id": "36ca97eb-d663-42ee-8376-aca1a0364f97",
+      "type": "subheader",
+      "html": "🎡 Ideation circle",
+      "anchorId": "ideation-circle"
+    },
+    {
+      "id": "643944de-02fe-4761-a1a4-147d17bf48fb",
+      "type": "paragraph",
+      "html": "<strong>Prep: </strong>Open up a new <a href=\"https://miro.com/\" target=\"_blank\" rel=\"noreferrer\">miro</a> board and write down the problem you are trying to solve. Add in any relevant context that might be useful. (Eg. concept art, research results, design brief, etc.) Draw a circle out of boxes, one for every person in the team."
+    },
+    {
+      "id": "962c6f10-dda6-48d1-a6d7-fb5e5b8590bc",
+      "type": "paragraph",
+      "html": "<strong>During: </strong>Gather your team. Explain the problem and the context. Invite everyone onto the miro board."
+    },
+    {
+      "id": "7c02c769-4151-4c8c-ab30-423c6ba888ad",
+      "type": "paragraph",
+      "html": "Have each person pick a box to start at. Start the timer for 1-2 minutes and have everyone write down some ideas in the box. After the timer ends, ask everyone to move one square along clockwise."
+    },
+    {
+      "id": "ddedb560-6e37-4f00-835b-1c35ac69bc9e",
+      "type": "paragraph",
+      "html": "Start the timer again. Everyone reads the ideas that were left there by the last person and adds in new ideas to the square. After the timer ends, ask everyone to move one square along clockwise and repeat. "
+    },
+    {
+      "id": "93715c03-7e52-4963-8baa-ed70bc9d528c",
+      "type": "paragraph",
+      "html": "It ends when everyone has gone around the circle."
+    },
+    {
+      "id": "caa4846e-160f-4219-8bdf-677cb8ff844e",
+      "type": "paragraph",
+      "html": "<strong>End: </strong>Ask everyone to cast 1-3 votes on their favourite ideas using stickers or emojis. Drag the top voted into the center of the circle and discuss them with the team. Summarise the top winning idea or ideas you would like to take forward."
+    },
+    {
+      "id": "f34f31c5-ba39-450d-9651-aa9cffcd368f",
+      "type": "image",
+      "src": "./assets/images/screenshot-2022-07-17-at-09-48-47-ce62369b38b1.webp",
+      "caption": "",
+      "alt": "Screenshot 2022-07-17 at 09.48.47.png"
+    },
+    {
+      "id": "06e32a4f-facd-4512-91a4-dc20df77c505",
+      "type": "paragraph",
+      "html": "<strong>After: </strong>Share the board with the team."
+    },
+    {
+      "id": "6931a5d1-1783-404f-b206-956756c390c8",
+      "type": "callout",
+      "html": "The ideation circle ensures everyone in the team has an equal say. Works best for cross-discipline teams. Great for when you have a diverse mix of personalities in the room. Shake team members out of their usual ways of thinking and stimulate a lot of creative ideas.",
+      "icon": "❗",
+      "children": []
+    },
+    {
+      "id": "8f99e881-5db5-473d-94d4-540c53be624d",
+      "type": "subheader",
+      "html": "🎱 Crazy 8s",
+      "anchorId": "crazy-8s"
+    },
+    {
+      "id": "1edc9360-9b31-4996-98ae-e2c7f4a4b035",
+      "type": "paragraph",
+      "html": "<strong>Prep: </strong>Create a presentation explaining the problem you are trying to solve. Add in any relevant context that might be useful. (Eg. concept art, research results, design brief, etc.) Ask the team to bring paper and pen to the session."
+    },
+    {
+      "id": "9e34e991-e92a-4f94-b4a5-4563eee605c8",
+      "type": "paragraph",
+      "html": "<strong>During: </strong>Gather your team and run them through the presentation. Ask the team to fold their papers into 8 sections or number each page in a notebook 1 through 8."
+    },
+    {
+      "id": "479ee097-54b4-44fa-a2e9-f89a31ee58fe",
+      "type": "paragraph",
+      "html": "Start the timer for 1 minute and have everyone write down an idea in their first section. After the timer ends, ask everyone to move onto the next section and come up with a new idea. Repeat until everyone has 8 ideas on paper. These ideas are private, no one else needs to see them."
+    },
+    {
+      "id": "a1376901-f8e1-4590-b997-51a821c2023a",
+      "type": "image",
+      "src": "./assets/images/untitled-793af778c0e7.webp",
+      "caption": "",
+      "alt": "Untitled"
+    },
+    {
+      "id": "bb598af7-e6ad-4acf-8304-c656631b2dea",
+      "type": "paragraph",
+      "html": "Ask the team to pick their favourite idea from the 8 they just came up with. Give them an hour or two to think more deeply about their idea and flesh it out into a pitch."
+    },
+    {
+      "id": "179ccfe8-9ead-4c85-8291-36c9cffe2812",
+      "type": "paragraph",
+      "html": "After the one or two hours, have each person pitch their idea to the whole team."
+    },
+    {
+      "id": "b4b33a04-6ba3-4627-bf74-02eb88311074",
+      "type": "paragraph",
+      "html": "<strong>End: </strong>Ask everyone to cast 1-3 votes on their favourite ideas using stickers or emojis. Discuss the winning idea with the team and draw a UX flow together."
+    },
+    {
+      "id": "b245dc04-7cf6-48d4-aa8f-44983801623a",
+      "type": "image",
+      "src": "./assets/images/screenshot-2022-07-17-at-09-49-59-6d4b4e3bf815.webp",
+      "caption": "",
+      "alt": "Screenshot 2022-07-17 at 09.49.59.png"
+    },
+    {
+      "id": "f6108138-9b3a-4258-b002-c05ac0670b21",
+      "type": "paragraph",
+      "html": "<strong>After: </strong>Share the pitch and UX flow of the winning idea with the team."
+    },
+    {
+      "id": "5b972562-2b7c-424d-87cf-025ea27c049f",
+      "type": "callout",
+      "html": "Crazy 8s works best for quieter teams with a lot of deep thinkers. Great for generating one very well thought out idea.",
+      "icon": "❗",
+      "children": []
+    },
+    {
+      "id": "b053ced6-d6b2-444c-9eb3-64a75198b9bd",
+      "type": "header",
+      "html": "📚 Resources",
+      "anchorId": "resources"
+    },
+    {
+      "id": "27b4ea27-dd7a-499e-bc25-34bff9784efb",
+      "type": "paragraph",
+      "html": "Looking for more workshop formats? Check out the Atlassian Team Playbook:"
+    },
+    {
+      "id": "e8c378b7-1843-49e0-9505-a0478e145067",
+      "type": "bookmark",
+      "src": "",
+      "title": "Atlassian Team Playbook - Build strong teams with Plays"
+    },
+    {
+      "id": "1c03c76f-609e-420a-a830-0d7647f81af2",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

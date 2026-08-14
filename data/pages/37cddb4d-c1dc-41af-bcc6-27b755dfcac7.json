@@ -1,0 +1,131 @@
+{
+  "id": "37cddb4d-c1dc-41af-bcc6-27b755dfcac7",
+  "slug": "the-accident-of-art",
+  "title": "The Accident of Art",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e7dd0445-93d3-4f9a-93a7-e63374180afb",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/The-Accident-of-Art-37cddb4dc1dc41afbcc627b755dfcac7?pvs=21",
+  "createdTime": 1657139773093,
+  "lastEditedTime": 1681314253458,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "The Accident of Art",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-b3c7da319242.webp",
+  "blocks": [
+    {
+      "id": "1ad0babd-aba6-4db9-b6cc-4c1bd96f9071",
+      "type": "divider"
+    },
+    {
+      "id": "e1d64691-a0ea-4476-9c63-c1e22c65d1e6",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "af8b1c60-bcdb-4029-860b-2885e8f9c3b9",
+      "type": "columns",
+      "children": [
+        {
+          "id": "db93eeab-66fe-4007-887e-adea71da04fb",
+          "type": "column",
+          "children": [
+            {
+              "id": "8066b8f5-7bec-47bd-a69f-a1d4440935f1",
+              "type": "paragraph",
+              "html": "<em><strong>The Accident of Art</strong></em> was written by Sylvère Lotringer &amp; Paul Virilio, published by Semiotext(e), August 12, 2005."
+            },
+            {
+              "id": "46a624a3-bac4-4757-ae08-dc3fafec96a8",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d3fe5b13-b577-400c-87b8-ec1a03a7ba5e",
+              "type": "quote",
+              "html": "“There is a catastrophe within contemporary art. What I call the &quot;optically correct&quot; is at stake. The vision machine and the motor have triggered it, but the visual arts haven't learned from it. Instead, they've masked this failure with commercial success. This &quot;accident&quot; is provoking a reversal of values. In my view, this is positive: the accident reveals something important we would not otherwise know how to perceive<em>.” —Paul Virilio, </em>The Accident of Art<em><br><br>Urbanist and technological theorist Paul Virilio trained as a painter, studying under Henri Matisse, Georges Braque, Bazaine and de Stael. In </em>The Accident of Art<em>, his third extended conversation with Sylvère Lotringer, Virilio addresses the situation of art within technological society for the first time. This book completes a collaborative trilogy the two began in 1982 with </em>Pure War <em>and continued with </em>Crepuscular Dawn<em>, their 2002 work on architecture and biotechnology. In </em>The Accident of Art<em>, Virilio and Lotringer argue that a direct relation exists between war trauma and art. Why has art failed to reinvent itself in the face of technology, unlike performing art? Why has art simply retreated into painting, or surrendered to digital technology? Accidents, Virilio claims, can free us from speed's inertia. As technological catastrophes, accidents are inventions in their own right.</em>"
+            },
+            {
+              "id": "f89ecd35-6668-41a8-8452-70d11c51e615",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "5edd9968-93f1-4eb2-87c9-fdb8061e2875",
+          "type": "column",
+          "children": [
+            {
+              "id": "7fd11c31-bb57-475a-a985-00238538ff0c",
+              "type": "image",
+              "src": "./assets/images/untitled-b3c7da319242.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09521a78-eb0e-4601-86fd-aaa6eac45890",
+      "type": "divider"
+    },
+    {
+      "id": "9e7644c4-3784-456a-9a52-740a9e258e80",
+      "type": "columns",
+      "children": [
+        {
+          "id": "b5bd8dc4-fcb4-4038-94d9-23712cf3e5c1",
+          "type": "column",
+          "children": [
+            {
+              "id": "5497e074-ca0a-4ea7-bea8-c655301f2716",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "64233c08-8cac-497c-a94d-ff6449c2e7c5",
+          "type": "column",
+          "children": [
+            {
+              "id": "b2acd095-34a9-4c07-94c3-ab10a9286c7d",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3RhNtab\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd81c52a-7c87-4758-8161-ea194b7272c9",
+      "type": "divider"
+    }
+  ]
+}

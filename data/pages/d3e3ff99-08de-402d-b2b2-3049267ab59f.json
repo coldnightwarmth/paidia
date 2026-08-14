@@ -1,0 +1,51 @@
+{
+  "id": "d3e3ff99-08de-402d-b2b2-3049267ab59f",
+  "slug": "frameworks",
+  "title": "Frameworks",
+  "icon": "🖼️",
+  "cover": "",
+  "type": "page",
+  "parentId": "d02701b6-e3a0-42cc-aba7-e48629f57331",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/d3e3ff9908de402db2b23049267ab59f",
+  "createdTime": 1666121282179,
+  "lastEditedTime": 1679604312632,
+  "createdById": null,
+  "lastEditedById": null,
+  "properties": {
+    "title": [
+      [
+        "Frameworks"
+      ]
+    ]
+  },
+  "previewImage": "",
+  "blocks": [
+    {
+      "id": "a660347a-96f4-404e-a0c5-583f4d00f54b",
+      "type": "paragraph",
+      "html": "A collection of frameworks and tools to help you when designing. Use these to shake up your thinking or tackle a design problem."
+    },
+    {
+      "id": "01765ff5-8a66-4683-8b44-bfe14f6a3edc",
+      "type": "paragraph",
+      "html": "Know of a useful framework and want to add it? Reach out to me on my socials: <a href=\"https://twitter.com/moreelen\" target=\"_blank\" rel=\"noreferrer\">Twitter</a> | <a href=\"https://www.tiktok.com/@moreelen\" target=\"_blank\" rel=\"noreferrer\">TikTok</a> | <a href=\"https://www.linkedin.com/in/moreelen/\" target=\"_blank\" rel=\"noreferrer\">LinkedIn</a>."
+    },
+    {
+      "id": "fc1ad23d-b828-4b76-ac44-4d8599c9f64a",
+      "type": "collection_view",
+      "collectionId": "830aee37-08ea-4e49-8e5f-77d0bb10085a",
+      "viewIds": [
+        "50f9abbc-a0e0-4304-823c-9e72193ea218"
+      ],
+      "title": ""
+    },
+    {
+      "id": "7632bdc8-ed6a-4743-9bc2-b55bffe5df45",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}

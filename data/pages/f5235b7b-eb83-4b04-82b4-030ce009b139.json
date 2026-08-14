@@ -1,0 +1,126 @@
+{
+  "id": "f5235b7b-eb83-4b04-82b4-030ce009b139",
+  "slug": "football",
+  "title": "Football",
+  "icon": "./assets/images/book-closed-blue-11356cfaae5c.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "17d09f5f-ece8-4928-8131-c463981d3711",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Football-f5235b7beb834b0482b4030ce009b139?pvs=21",
+  "createdTime": 1653399442134,
+  "lastEditedTime": 1681313569244,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Football",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-cc3141dcc095.webp",
+  "blocks": [
+    {
+      "id": "4ce023a9-4b7f-49cb-ac4a-750a6b7dc56a",
+      "type": "divider"
+    },
+    {
+      "id": "c5d58f2a-f690-40be-a3de-88d3730148bf",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "84778744-fef7-4129-991b-635047467dbf",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7fc73b8b-7625-4e96-98a5-02bdbc730a36",
+          "type": "column",
+          "children": [
+            {
+              "id": "96af59b9-fe32-4011-ba23-384bfd8e5b87",
+              "type": "paragraph",
+              "html": "<em><strong>Football</strong></em> was written by Mark Yakich, published by Bloomsbury Academic, January 13, 2022."
+            },
+            {
+              "id": "274e4631-a67a-420e-979d-76fc52e1f314",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "20777950-f7b4-4a0e-9deb-913d4ba9955e",
+              "type": "quote",
+              "html": "<em>When is the &quot;beautiful game&quot; at its most beautiful? How does football function as a lens through which so many view their daily lives? What's right in front of fans that they never see? </em>Football <em>celebrates and scrutinizes the world's most popular sport—from top-tier professionals to children just learning the game.<br><br>As an American who began playing football in the 1970s as it gained a foothold in the States, Mark Yakich reflects on his own experiences alongside the sport's social and political implications, its narrative and documentary depictions, and its linguistic idiosyncrasies. Illustrating how football can be at once absolutely vital and &quot;only a game,&quot; this book will be surprising and insightful for the casual and diehard fan alike.</em>"
+            }
+          ]
+        },
+        {
+          "id": "7533be58-ef35-4e51-9a05-1c6a93698752",
+          "type": "column",
+          "children": [
+            {
+              "id": "915d30b5-9091-4171-a297-920d5534f845",
+              "type": "image",
+              "src": "./assets/images/untitled-cc3141dcc095.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20e18d64-915d-43ee-95bf-ecca4475b780",
+      "type": "divider"
+    },
+    {
+      "id": "667f388a-8a2e-4bf0-a97c-c8e4f2367723",
+      "type": "columns",
+      "children": [
+        {
+          "id": "2ae6b25b-18f7-4d38-b1b9-d886779efc6a",
+          "type": "column",
+          "children": [
+            {
+              "id": "a61401eb-a5f2-430f-9a53-74db79ec2b3a",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "edb215fd-5cd4-43f8-8cc2-0b7b1265177d",
+          "type": "column",
+          "children": [
+            {
+              "id": "48fd2ec7-7b1f-453b-afd0-ea1d9326dd81",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3OjO0GH\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f40fdb95-fa16-4a9d-b2ce-7b5a1698ac92",
+      "type": "divider"
+    }
+  ]
+}

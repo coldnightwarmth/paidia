@@ -1,0 +1,131 @@
+{
+  "id": "e20c9ede-a4d8-44a0-8a13-57f2b00b0afd",
+  "slug": "mathletics",
+  "title": "Mathletics",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "e866b4ce-5c5c-48d8-9f36-1e63618a73e1",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://www.notion.so/Mathletics-e20c9edea4d844a08a1357f2b00b0afd?pvs=21",
+  "createdTime": 1668710570919,
+  "lastEditedTime": 1681312484200,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Mathletics",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/51wltk58gsl-ac-sy780-0fc7420b25e1.webp",
+  "blocks": [
+    {
+      "id": "8bcb9efc-7116-499f-9fbf-8ed90e40e67b",
+      "type": "divider"
+    },
+    {
+      "id": "01cd8a6c-e119-4767-a429-db0cba426cf0",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "5da79111-d1e2-4b27-a254-27cd2a8b93b1",
+      "type": "columns",
+      "children": [
+        {
+          "id": "a9a29536-b16c-4b3d-ae5d-c74e6179e01f",
+          "type": "column",
+          "children": [
+            {
+              "id": "56529180-ff6f-45bc-8cf6-ecc60d07469c",
+              "type": "paragraph",
+              "html": "<em><strong>Mathletics: How Gamblers, Managers, and Sports Enthusiasts Use Mathematics in Baseball, Basketball, &amp; Football</strong></em> was written by Wayne L. Winston, originally published by Princeton University Press, September 28, 2009."
+            },
+            {
+              "id": "487d6dac-84de-4080-b6cc-e40abc7c3f48",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "f36cbb8d-9c9a-4301-9399-1ecab6267ea2",
+              "type": "quote",
+              "html": "Mathletics <em>is a remarkably entertaining book that shows readers how to use simple mathematics to analyze a range of statistical and probability-related questions in professional baseball, basketball, and football, and in sports gambling. How does professional baseball evaluate hitters? Is a singles hitter like Wade Boggs more valuable than a power hitter like David Ortiz? Should NFL teams pass or run more often on first downs? Could professional basketball have used statistics to expose the crooked referee Tim Donaghy? Does money buy performance in professional sports?<br><br>In </em>Mathletics<em>, Wayne Winston describes the mathematical methods that top coaches and managers use to evaluate players and improve team performance, and gives math enthusiasts the practical tools they need to enhance their understanding and enjoyment of their favorite sports--and maybe even gain the outside edge to winning bets. </em>Mathletics <em>blends fun math problems with sports stories of actual games, teams, and players, along with personal anecdotes from Winston's work as a sports consultant. Winston uses easy-to-read tables and illustrations to illuminate the techniques and ideas he presents, and all the necessary math concepts--such as arithmetic, basic statistics and probability, and Monte Carlo simulations--are fully explained in the examples.<br><br>After reading </em>Mathletics<em>, you will understand why baseball teams should almost never bunt, why football overtime systems are unfair, why points, rebounds, and assists aren’t enough to determine who’s the NBA’s best player--and much, much more.</em>"
+            },
+            {
+              "id": "d0aea67b-2780-4d1b-8604-539af2921cbb",
+              "type": "paragraph",
+              "html": ""
+            }
+          ]
+        },
+        {
+          "id": "ee5c88e3-c4d2-455c-8c53-3dcbcd843062",
+          "type": "column",
+          "children": [
+            {
+              "id": "c22c79dd-a3bf-4f40-9f95-3b94aae54439",
+              "type": "image",
+              "src": "./assets/images/51wltk58gsl-ac-sy780-0fc7420b25e1.webp",
+              "caption": "",
+              "alt": "51wLtk58gsL._AC_SY780_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2c434f8f-a319-48c5-b497-2dff205d462d",
+      "type": "divider"
+    },
+    {
+      "id": "894a5e6f-9234-42c4-9425-ace86d187c3c",
+      "type": "columns",
+      "children": [
+        {
+          "id": "18336987-f0c5-4a6b-83ee-116dc512172a",
+          "type": "column",
+          "children": [
+            {
+              "id": "50862a5a-7384-4bcf-86af-c295ad9e8f96",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3f54ad74-4cc3-4c30-aaa2-09cb4037c8d2",
+          "type": "column",
+          "children": [
+            {
+              "id": "6d375dea-51d9-45a0-a69d-dc785d403124",
+              "type": "callout",
+              "html": "<a href=\"https://www.amazon.com/Mathletics-Gamblers-Enthusiasts-Mathematics-Basketball/dp/069113913X/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=1666371411&amp;sr=8-3\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a61bbde4-2da9-4d1c-83ab-4384355bd02a",
+      "type": "divider"
+    }
+  ]
+}

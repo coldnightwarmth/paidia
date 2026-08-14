@@ -1,0 +1,156 @@
+{
+  "id": "a86f2af2-a98c-4506-9d45-61acf6976706",
+  "slug": "settlers-of-the-new-virtual-worlds",
+  "title": "Settlers of the New Virtual Worlds",
+  "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
+  "cover": "",
+  "type": "page",
+  "parentId": "2ef41e1c-a1c1-4026-9957-0fa91c3be10d",
+  "parentTable": "block",
+  "collectionId": null,
+  "viewIds": [],
+  "sourceUrl": "https://paidiasophia.notion.site/a86f2af2a98c45069d4561acf6976706",
+  "createdTime": 1657305935666,
+  "lastEditedTime": 1681313293509,
+  "createdById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "lastEditedById": "e0039eb9-eafc-4580-b4e0-48a52da9fa4e",
+  "properties": {
+    "Bjg@": [
+      [
+        "Book"
+      ]
+    ],
+    "title": [
+      [
+        "Settlers of the New Virtual Worlds",
+        [
+          [
+            "b"
+          ]
+        ]
+      ]
+    ]
+  },
+  "previewImage": "./assets/images/untitled-a3d1bf61eecb.webp",
+  "blocks": [
+    {
+      "id": "0a8ea956-fb67-41ff-b1a3-b73fd1394ecf",
+      "type": "divider"
+    },
+    {
+      "id": "66b44a70-9ae0-4d96-85dd-7026c2dda78c",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "2c75fca3-ad95-47f1-a119-bf87b0a22e42",
+      "type": "columns",
+      "children": [
+        {
+          "id": "0af82c4b-ebb1-4c0a-8676-7c6984741aea",
+          "type": "column",
+          "children": [
+            {
+              "id": "58abc39c-1aa4-4418-8972-1ddca1b04238",
+              "type": "paragraph",
+              "html": "<em><strong>Settlers of the New Virtual Worlds</strong></em> is a collection of essays edited by Erik Bethke &amp; Erin Hoffman, published by BookSurge Publishing, August 13, 2008."
+            },
+            {
+              "id": "9bf86c01-e32d-4e39-8dfa-f8b8a6d902fc",
+              "type": "paragraph",
+              "html": ""
+            },
+            {
+              "id": "d5e45cd1-d21a-4586-b828-23f59cda5a87",
+              "type": "quote",
+              "html": "<em>Today's users of virtual </em><a href=\"#/environment\"><em>environments</em></a><em> -- estimated to number 50 million by 2011 -- invest huge amounts of time, money, and heart into their online homes. But modern license agreements do not accord them any ownership over this investment. This book explores the complex relationships between </em><a href=\"#/the-virtual\"><em>virtual</em></a><em> world inhabitants, creators, worlds, and the real-world law that now is closing in to mediate between them. Joining editors Erik Bethke and Erin Hoffman are contibutors Julian Dibbell, Bill Fulton, Laura Genender, Andres Guadamuz, Link Hughes, Sean F. Kane, </em><a href=\"#/raph-koster\"><em>Raph Koster</em></a><em>, Heather and Susan Logas, Pétur Jóhannes Óskarsson, Russ Pitts, Cat Rambo, Chris Rettstatt, Ren Reynolds, and Allen Varney.</em>"
+            }
+          ]
+        },
+        {
+          "id": "8fa1d263-4d7d-4136-8b48-557647ffe86e",
+          "type": "column",
+          "children": [
+            {
+              "id": "1d48f595-aa5b-43d4-aea5-db76e04065c8",
+              "type": "image",
+              "src": "./assets/images/untitled-a3d1bf61eecb.webp",
+              "caption": "",
+              "alt": "Untitled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15c1dcb2-01ea-4afb-9d26-bfd7b6bb684f",
+      "type": "divider"
+    },
+    {
+      "id": "0e1b7cfe-07d6-46e3-8ba8-9ff420063064",
+      "type": "columns",
+      "children": [
+        {
+          "id": "7cacab17-1b03-4358-85ba-22e797501f3e",
+          "type": "column",
+          "children": [
+            {
+              "id": "8e61ba59-1618-40a5-b835-fa4f9f746df9",
+              "type": "callout",
+              "html": "<a href=\"https://www.librarything.com/catalog/paidiasophia\" target=\"_blank\" rel=\"noreferrer\">LibraryThing</a>",
+              "icon": "📚",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f4287a43-90e9-4f26-bc86-49a032d06937",
+          "type": "column",
+          "children": [
+            {
+              "id": "282fb904-040c-446b-9c5c-0b4d9fd2065e",
+              "type": "callout",
+              "html": "<a href=\"https://amzn.to/3yLDCkz\" target=\"_blank\" rel=\"noreferrer\">Link to purchase</a>",
+              "icon": "📕",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e45c10be-bed6-4c8a-8895-3b0c1dd4f2ef",
+      "type": "divider"
+    },
+    {
+      "id": "a24a8442-bfe4-43d0-b422-879dd80e85af",
+      "type": "paragraph",
+      "html": "<em><em><em><em><em><em><em><em><em>see also:</em></em></em></em></em></em></em></em></em>"
+    },
+    {
+      "id": "b6649e25-5b2f-4c2b-b5b4-b9c01a5000f0",
+      "type": "paragraph",
+      "html": "<a href=\"#/communities-of-play\">Communities of Play</a> (<em><em><em><em>book</em></em></em></em>)"
+    },
+    {
+      "id": "e76c410f-eb52-41bb-81bb-0119b58bb768",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "f04af043-3741-49ad-86f6-fb4ccece0377",
+      "type": "paragraph",
+      "html": ""
+    },
+    {
+      "id": "4e95f3b9-cec6-42c6-b57e-04eba56ec2b5",
+      "type": "paragraph",
+      "html": "<a href=\"#/books-9e20ddab\"><u>☜Books</u></a>"
+    },
+    {
+      "id": "615a0895-9648-4cfd-99df-1918ba4ec430",
+      "type": "paragraph",
+      "html": ""
+    }
+  ]
+}
