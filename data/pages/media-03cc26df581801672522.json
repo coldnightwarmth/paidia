@@ -1,0 +1,76 @@
+{
+  "id": "media-03cc26df581801672522",
+  "slug": "media-the-most-profound-moment-in-gaming-history",
+  "title": "The Most Profound Moment in Gaming History",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=jIYBod0ge3Y",
+  "previewImage": "https://i.ytimg.com/vi/jIYBod0ge3Y/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Most Profound Moment in Gaming History"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Max Derrat"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=jIYBod0ge3Y"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-03cc26df581801672522-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCj8orMezFWVcoN-4S545Wtw\" target=\"_blank\" rel=\"noreferrer\">Max Derrat</a></em>"
+    },
+    {
+      "id": "media-03cc26df581801672522-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/jIYBod0ge3Y?feature=oembed",
+      "title": "The Most Profound Moment in Gaming History",
+      "caption": ""
+    },
+    {
+      "id": "media-03cc26df581801672522-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=jIYBod0ge3Y\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

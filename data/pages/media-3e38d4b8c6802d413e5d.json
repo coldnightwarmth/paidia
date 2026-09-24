@@ -1,0 +1,76 @@
+{
+  "id": "media-3e38d4b8c6802d413e5d",
+  "slug": "media-video-game-fashion",
+  "title": "Video Game Fashion",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Ln86XGv1SiA",
+  "previewImage": "https://i.ytimg.com/vi/Ln86XGv1SiA/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Video Game Fashion"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "P-Bean"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Ln86XGv1SiA"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-3e38d4b8c6802d413e5d-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/PBean\" target=\"_blank\" rel=\"noreferrer\">P-Bean</a></em>"
+    },
+    {
+      "id": "media-3e38d4b8c6802d413e5d-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Ln86XGv1SiA?feature=oembed",
+      "title": "Video Game Fashion",
+      "caption": ""
+    },
+    {
+      "id": "media-3e38d4b8c6802d413e5d-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Ln86XGv1SiA\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

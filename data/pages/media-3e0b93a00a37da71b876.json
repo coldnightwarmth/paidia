@@ -1,0 +1,75 @@
+{
+  "id": "media-3e0b93a00a37da71b876",
+  "slug": "media-let-s-build-a-computer-in-conway-s-game-of-life",
+  "title": "Let’s BUILD a COMPUTER in CONWAY's GAME of LIFE ⠠⠵",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Kk2MH9O4pXY",
+  "previewImage": "https://i.ytimg.com/vi/Kk2MH9O4pXY/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Let’s BUILD a COMPUTER in CONWAY's GAME of LIFE ⠠⠵"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Alan Zucconi"
+      ]
+    ],
+    "Category": [
+      [
+        "Computer Media"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Computer Media, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Kk2MH9O4pXY"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Computer Media"
+    ],
+    "tags": [
+      "Computer Media",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-3e0b93a00a37da71b876-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC8Wrbf2aJkX63pu2bG5QiFg\" target=\"_blank\" rel=\"noreferrer\">Alan Zucconi</a></em>"
+    },
+    {
+      "id": "media-3e0b93a00a37da71b876-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Kk2MH9O4pXY?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "Let’s BUILD a COMPUTER in CONWAY's GAME of LIFE ⠠⠵",
+      "caption": ""
+    },
+    {
+      "id": "media-3e0b93a00a37da71b876-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Kk2MH9O4pXY\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

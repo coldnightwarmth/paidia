@@ -1,0 +1,75 @@
+{
+  "id": "media-81d064aa79aef9f48ce4",
+  "slug": "media-the-miracle-sudoku",
+  "title": "The Miracle Sudoku",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=yKf9aUIxdb4",
+  "previewImage": "https://i.ytimg.com/vi/yKf9aUIxdb4/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Miracle Sudoku"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Cracking The Cryptic"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=yKf9aUIxdb4"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-81d064aa79aef9f48ce4-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCC-UOdK8-mIjxBQm_ot1T-Q\" target=\"_blank\" rel=\"noreferrer\">Cracking The Cryptic</a></em>"
+    },
+    {
+      "id": "media-81d064aa79aef9f48ce4-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/yKf9aUIxdb4?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "The Miracle Sudoku",
+      "caption": ""
+    },
+    {
+      "id": "media-81d064aa79aef9f48ce4-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=yKf9aUIxdb4\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-78431e7c59d4e1a2da44",
+  "slug": "media-the-book-with-a-multiplayer-first-person-shooter-inside",
+  "title": "The book with a multiplayer first-person shooter inside",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=8SiUnqMJEVU",
+  "previewImage": "https://i.ytimg.com/vi/8SiUnqMJEVU/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The book with a multiplayer first-person shooter inside"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Questing Beast"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=8SiUnqMJEVU"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-78431e7c59d4e1a2da44-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/QuestingBeast\" target=\"_blank\" rel=\"noreferrer\">Questing Beast</a></em>"
+    },
+    {
+      "id": "media-78431e7c59d4e1a2da44-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/8SiUnqMJEVU?feature=oembed",
+      "title": "The book with a multiplayer first-person shooter inside",
+      "caption": ""
+    },
+    {
+      "id": "media-78431e7c59d4e1a2da44-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=8SiUnqMJEVU\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

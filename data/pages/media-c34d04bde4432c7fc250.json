@@ -1,0 +1,69 @@
+{
+  "id": "media-c34d04bde4432c7fc250",
+  "slug": "media-gdc",
+  "title": "GDC",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "GDC"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "GDC"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Lectures, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Lectures",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-c34d04bde4432c7fc250-creator",
+      "type": "paragraph",
+      "html": "<em>by GDC</em>"
+    },
+    {
+      "id": "media-c34d04bde4432c7fc250-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

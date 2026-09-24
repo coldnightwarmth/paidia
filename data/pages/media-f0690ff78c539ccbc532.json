@@ -1,0 +1,75 @@
+{
+  "id": "media-f0690ff78c539ccbc532",
+  "slug": "media-the-history-of-240p",
+  "title": "The History of 240p",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=zwDPx6hP_4Y",
+  "previewImage": "https://i.ytimg.com/vi/zwDPx6hP_4Y/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The History of 240p"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Displaced Gamers"
+      ]
+    ],
+    "Category": [
+      [
+        "Computer Media"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Computer Media, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=zwDPx6hP_4Y"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Computer Media"
+    ],
+    "tags": [
+      "Computer Media",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-f0690ff78c539ccbc532-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCWoSKWs8h6lFdiEDAjuIfpA\" target=\"_blank\" rel=\"noreferrer\">Displaced Gamers</a></em>"
+    },
+    {
+      "id": "media-f0690ff78c539ccbc532-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/zwDPx6hP_4Y?feature=oembed",
+      "title": "The History of 240p",
+      "caption": ""
+    },
+    {
+      "id": "media-f0690ff78c539ccbc532-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=zwDPx6hP_4Y\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-b48c43bfa90e27ee2741",
+  "slug": "media-how-the-appalachian-trail-began",
+  "title": "How the Appalachian Trail began",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=_AYc-3VCBLg",
+  "previewImage": "https://i.ytimg.com/vi/_AYc-3VCBLg/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "How the Appalachian Trail began"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Phil Edwards"
+      ]
+    ],
+    "Category": [
+      [
+        "Sports"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Sports, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=_AYc-3VCBLg"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "Sports",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-b48c43bfa90e27ee2741-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/PhilEdwardsInc\" target=\"_blank\" rel=\"noreferrer\">Phil Edwards</a></em>"
+    },
+    {
+      "id": "media-b48c43bfa90e27ee2741-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/_AYc-3VCBLg?feature=oembed",
+      "title": "How the Appalachian Trail began",
+      "caption": ""
+    },
+    {
+      "id": "media-b48c43bfa90e27ee2741-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=_AYc-3VCBLg\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

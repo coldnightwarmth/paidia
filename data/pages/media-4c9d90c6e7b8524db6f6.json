@@ -1,0 +1,74 @@
+{
+  "id": "media-4c9d90c6e7b8524db6f6",
+  "slug": "media-the-incredible-playable",
+  "title": "The Incredible Playable",
+  "icon": "🎙️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.alistairaitcheson.com/games/podcast.html",
+  "previewImage": "https://www.alistairaitcheson.com/images/name%20title%20treatment%20p3.png",
+  "properties": {
+    "title": [
+      [
+        "The Incredible Playable"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Alistair Aitcheson"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Series, Podcast"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.alistairaitcheson.com/games/podcast.html"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Series",
+      "Podcast"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-4c9d90c6e7b8524db6f6-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.alistairaitcheson.com/\" target=\"_blank\" rel=\"noreferrer\">Alistair Aitcheson</a></em>"
+    },
+    {
+      "id": "media-4c9d90c6e7b8524db6f6-description",
+      "type": "paragraph",
+      "html": "A search for artificial life by way of Jelle's Marble Runs and the work of Jess Marcotte and Dietrich &quot;Squinky&quot; Squinkifer Listen here Exploring surrealist artist Man Ray and how his work connects to hacking Sonic the Hedgehog Listen here Playing the TV quiz show University Challenge and turning it into performance art leads to an exploration of the game artist Cory Arcangel Listen here Did you know Yoko Ono made chess sets?"
+    },
+    {
+      "id": "media-4c9d90c6e7b8524db6f6-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.alistairaitcheson.com/games/podcast.html\" target=\"_blank\" rel=\"noreferrer\">Open original podcast</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-1bfe5c22b900e721c21b",
+  "slug": "media-the-world-is-open-for-play",
+  "title": "The World is Open for Play",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=9yVOd9TXNks",
+  "previewImage": "https://i.ytimg.com/vi/9yVOd9TXNks/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The World is Open for Play"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Nerdwriter1"
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=9yVOd9TXNks"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-1bfe5c22b900e721c21b-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg\" target=\"_blank\" rel=\"noreferrer\">Nerdwriter1</a></em>"
+    },
+    {
+      "id": "media-1bfe5c22b900e721c21b-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/9yVOd9TXNks?feature=oembed",
+      "title": "The World is Open for Play",
+      "caption": ""
+    },
+    {
+      "id": "media-1bfe5c22b900e721c21b-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=9yVOd9TXNks\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

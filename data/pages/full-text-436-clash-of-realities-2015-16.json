@@ -3,7 +3,7 @@
   "slug": "clash-of-realities-2015-16",
   "title": "Clash of Realities 2015/16",
   "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
-  "cover": "",
+  "cover": "./assets/images/clash-of-realities-2015-16-cover.jpg",
   "type": "page",
   "parentId": "8b00db95-6902-4675-93fb-bd8023cf5614",
   "parentTable": "block",
@@ -51,7 +51,7 @@
       ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/images/clash-of-realities-2015-16-cover.jpg",
   "blocks": [
     {
       "id": "full-text-436-clash-of-realities-2015-16-divider",

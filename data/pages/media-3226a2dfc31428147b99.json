@@ -1,0 +1,76 @@
+{
+  "id": "media-3226a2dfc31428147b99",
+  "slug": "media-cyberpunk-stream",
+  "title": "Cyberpunk Stream",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=fP-vDbaAI_A",
+  "previewImage": "https://i.ytimg.com/vi/fP-vDbaAI_A/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Cyberpunk Stream"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Break The Rules"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=fP-vDbaAI_A"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-3226a2dfc31428147b99-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCPKaSxQ7frxGAwgaQ29P9Eg\" target=\"_blank\" rel=\"noreferrer\">Break The Rules</a></em>"
+    },
+    {
+      "id": "media-3226a2dfc31428147b99-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/fP-vDbaAI_A?feature=oembed",
+      "title": "Cyberpunk Stream",
+      "caption": ""
+    },
+    {
+      "id": "media-3226a2dfc31428147b99-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=fP-vDbaAI_A\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "media-16c41986a507d40baef1",
+  "slug": "media-narrative-mechanics-how-missile-command-tells-a-story-extra-credits",
+  "title": "Narrative Mechanics - How Missile Command Tells a Story - Extra Credits",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=JQJA5YjvHDU",
+  "previewImage": "https://i.ytimg.com/vi/JQJA5YjvHDU/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Narrative Mechanics - How Missile Command Tells a Story - Extra Credits"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Extra Credits"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Design, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=JQJA5YjvHDU"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Design",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-16c41986a507d40baef1-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg\" target=\"_blank\" rel=\"noreferrer\">Extra Credits</a></em>"
+    },
+    {
+      "id": "media-16c41986a507d40baef1-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/JQJA5YjvHDU?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "Narrative Mechanics - How Missile Command Tells a Story - Extra Credits",
+      "caption": ""
+    },
+    {
+      "id": "media-16c41986a507d40baef1-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=JQJA5YjvHDU\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

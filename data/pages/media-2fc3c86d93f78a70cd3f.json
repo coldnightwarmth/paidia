@@ -1,0 +1,69 @@
+{
+  "id": "media-2fc3c86d93f78a70cd3f",
+  "slug": "media-roguelike-celebration",
+  "title": "Roguelike Celebration",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/channel/UCKv_QzXft4mD6TXmQBZtzIA/videos",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Roguelike Celebration"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Roguelike Celebration"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Lectures, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/channel/UCKv_QzXft4mD6TXmQBZtzIA/videos"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Lectures",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-2fc3c86d93f78a70cd3f-creator",
+      "type": "paragraph",
+      "html": "<em>by Roguelike Celebration</em>"
+    },
+    {
+      "id": "media-2fc3c86d93f78a70cd3f-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/channel/UCKv_QzXft4mD6TXmQBZtzIA/videos\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

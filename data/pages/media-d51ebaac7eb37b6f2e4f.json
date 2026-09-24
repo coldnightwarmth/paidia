@@ -1,0 +1,70 @@
+{
+  "id": "media-d51ebaac7eb37b6f2e4f",
+  "slug": "media-monty-python-philosophy-football",
+  "title": "Monty Python Philosophy Football",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=LfduUFF_i1A",
+  "previewImage": "https://i.ytimg.com/vi/LfduUFF_i1A/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Monty Python Philosophy Football"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        ""
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=LfduUFF_i1A"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-d51ebaac7eb37b6f2e4f-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/LfduUFF_i1A?feature=oembed",
+      "title": "Monty Python Philosophy Football",
+      "caption": ""
+    },
+    {
+      "id": "media-d51ebaac7eb37b6f2e4f-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=LfduUFF_i1A\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

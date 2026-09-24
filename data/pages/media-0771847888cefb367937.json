@@ -1,0 +1,75 @@
+{
+  "id": "media-0771847888cefb367937",
+  "slug": "media-the-national-videogame-museum",
+  "title": "The National Videogame Museum",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Le_aHIOZZNQ",
+  "previewImage": "https://i.ytimg.com/vi/Le_aHIOZZNQ/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The National Videogame Museum"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Gaming Historian"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Le_aHIOZZNQ"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-0771847888cefb367937-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg\" target=\"_blank\" rel=\"noreferrer\">Gaming Historian</a></em>"
+    },
+    {
+      "id": "media-0771847888cefb367937-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Le_aHIOZZNQ?feature=oembed",
+      "title": "The National Videogame Museum",
+      "caption": ""
+    },
+    {
+      "id": "media-0771847888cefb367937-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Le_aHIOZZNQ\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

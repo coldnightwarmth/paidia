@@ -1,0 +1,76 @@
+{
+  "id": "media-7a6ed5306669d1507bc2",
+  "slug": "media-is-language-a-virus-starring-punished-venom-snake",
+  "title": "Is Language a Virus? Starring Punished \"Venom\" Snake",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=8dNsI3cp6-k",
+  "previewImage": "https://i.ytimg.com/vi/8dNsI3cp6-k/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Is Language a Virus? Starring Punished \"Venom\" Snake"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "PBS Idea Channel"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=8dNsI3cp6-k"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-7a6ed5306669d1507bc2-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC3LqW4ijMoENQ2Wv17ZrFJA\" target=\"_blank\" rel=\"noreferrer\">PBS Idea Channel</a></em>"
+    },
+    {
+      "id": "media-7a6ed5306669d1507bc2-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/8dNsI3cp6-k?feature=oembed",
+      "title": "Is Language a Virus? Starring Punished \"Venom\" Snake",
+      "caption": ""
+    },
+    {
+      "id": "media-7a6ed5306669d1507bc2-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=8dNsI3cp6-k\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-a1e5acc4a550faadd32c",
+  "slug": "media-playful-strategy-weekly-man-play-and-games-2-1-paidia",
+  "title": "Playful Strategy Weekly: Man, Play, and Games 2.1 \"Paidia\"",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=4nsII139HWQ",
+  "previewImage": "https://i.ytimg.com/vi/4nsII139HWQ/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Playful Strategy Weekly: Man, Play, and Games 2.1 \"Paidia\""
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Ice Cream for Everyone"
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=4nsII139HWQ"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-a1e5acc4a550faadd32c-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@WillemvanderHorst\" target=\"_blank\" rel=\"noreferrer\">Ice Cream for Everyone</a></em>"
+    },
+    {
+      "id": "media-a1e5acc4a550faadd32c-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/4nsII139HWQ?rel=0",
+      "title": "Playful Strategy Weekly: Man, Play, and Games 2.1 \"Paidia\"",
+      "caption": ""
+    },
+    {
+      "id": "media-a1e5acc4a550faadd32c-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=4nsII139HWQ\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

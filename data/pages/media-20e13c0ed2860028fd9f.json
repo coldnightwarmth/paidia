@@ -1,0 +1,76 @@
+{
+  "id": "media-20e13c0ed2860028fd9f",
+  "slug": "media-the-legend-of-zelda-theology",
+  "title": "The Legend of Zelda & Theology",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=R8fDbOrbtPw",
+  "previewImage": "https://i.ytimg.com/vi/R8fDbOrbtPw/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Legend of Zelda & Theology"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Fourth Universalist Society"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=R8fDbOrbtPw"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-20e13c0ed2860028fd9f-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/FourthUniversalistSociety\" target=\"_blank\" rel=\"noreferrer\">Fourth Universalist Society</a></em>"
+    },
+    {
+      "id": "media-20e13c0ed2860028fd9f-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/R8fDbOrbtPw?feature=oembed",
+      "title": "The Legend of Zelda & Theology",
+      "caption": ""
+    },
+    {
+      "id": "media-20e13c0ed2860028fd9f-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=R8fDbOrbtPw\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-4667de6579ec9dbefca8",
+  "slug": "media-middle-earth-the-perils-of-worldbuilding",
+  "title": "Middle Earth & The Perils of Worldbuilding",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=mA6MQHNM2yE",
+  "previewImage": "https://i.ytimg.com/vi/mA6MQHNM2yE/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Middle Earth & The Perils of Worldbuilding"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Nerdwriter1"
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=mA6MQHNM2yE"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-4667de6579ec9dbefca8-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg\" target=\"_blank\" rel=\"noreferrer\">Nerdwriter1</a></em>"
+    },
+    {
+      "id": "media-4667de6579ec9dbefca8-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/mA6MQHNM2yE?feature=oembed",
+      "title": "Middle Earth & The Perils of Worldbuilding",
+      "caption": ""
+    },
+    {
+      "id": "media-4667de6579ec9dbefca8-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=mA6MQHNM2yE\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

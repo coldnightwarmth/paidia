@@ -1,0 +1,69 @@
+{
+  "id": "media-17ad580b76fb3f1e5578",
+  "slug": "media-gaijin-goombah",
+  "title": "Gaijin Goombah",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/c/GaijinGoombah",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Gaijin Goombah"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Gaijin Goombah"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Analysis, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/c/GaijinGoombah"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Analysis",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-17ad580b76fb3f1e5578-creator",
+      "type": "paragraph",
+      "html": "<em>by Gaijin Goombah</em>"
+    },
+    {
+      "id": "media-17ad580b76fb3f1e5578-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/c/GaijinGoombah\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

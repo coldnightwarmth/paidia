@@ -1,0 +1,75 @@
+{
+  "id": "media-949d5848ca8d35af6a05",
+  "slug": "media-games-without-players-by-paolo-pedercini",
+  "title": "\"Games without Players\" by Paolo Pedercini",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=YW-MHmtAEWw",
+  "previewImage": "https://i.ytimg.com/vi/YW-MHmtAEWw/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "\"Games without Players\" by Paolo Pedercini"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "InsideCreativeGaming"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=YW-MHmtAEWw"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-949d5848ca8d35af6a05-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/user/InsideCreativeGaming\" target=\"_blank\" rel=\"noreferrer\">InsideCreativeGaming</a></em>"
+    },
+    {
+      "id": "media-949d5848ca8d35af6a05-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/YW-MHmtAEWw?list=PL5CAZ8ptrr9BKX9NVDcz8kPD5tyjR-VGO",
+      "title": "\"Games without Players\" by Paolo Pedercini",
+      "caption": ""
+    },
+    {
+      "id": "media-949d5848ca8d35af6a05-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=YW-MHmtAEWw\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

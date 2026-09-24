@@ -1,0 +1,75 @@
+{
+  "id": "media-cf3d0c8c66c814aa085d",
+  "slug": "media-nick-sibicky-go-lecture-403-go-therapy",
+  "title": "Nick Sibicky Go Lecture #403 - Go Therapy",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=e9Vyl9b5s2I",
+  "previewImage": "https://i.ytimg.com/vi/e9Vyl9b5s2I/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Nick Sibicky Go Lecture #403 - Go Therapy"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Nick Sibicky"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=e9Vyl9b5s2I"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-cf3d0c8c66c814aa085d-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC_msctwlIh2cwM8yAtaju1A\" target=\"_blank\" rel=\"noreferrer\">Nick Sibicky</a></em>"
+    },
+    {
+      "id": "media-cf3d0c8c66c814aa085d-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/e9Vyl9b5s2I?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "Nick Sibicky Go Lecture #403 - Go Therapy",
+      "caption": ""
+    },
+    {
+      "id": "media-cf3d0c8c66c814aa085d-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=e9Vyl9b5s2I\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

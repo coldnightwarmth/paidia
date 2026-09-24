@@ -1,0 +1,76 @@
+{
+  "id": "media-4f88aaa6a5d6e1f00c70",
+  "slug": "media-0451",
+  "title": "0451",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=zAtAyycx-uY",
+  "previewImage": "https://i.ytimg.com/vi/zAtAyycx-uY/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "0451"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Errant Signal"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=zAtAyycx-uY"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-4f88aaa6a5d6e1f00c70-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCm4JnxTxtvItQecKUc4zRhQ\" target=\"_blank\" rel=\"noreferrer\">Errant Signal</a></em>"
+    },
+    {
+      "id": "media-4f88aaa6a5d6e1f00c70-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/zAtAyycx-uY?feature=oembed",
+      "title": "0451",
+      "caption": ""
+    },
+    {
+      "id": "media-4f88aaa6a5d6e1f00c70-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=zAtAyycx-uY\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

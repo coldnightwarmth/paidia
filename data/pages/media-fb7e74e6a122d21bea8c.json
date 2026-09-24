@@ -1,0 +1,75 @@
+{
+  "id": "media-fb7e74e6a122d21bea8c",
+  "slug": "media-the-beauty-of-hyrule-temple-in-super-smash-bros",
+  "title": "The Beauty of Hyrule Temple in Super Smash Bros.",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=_9zp8zuefiM",
+  "previewImage": "https://i.ytimg.com/vi/_9zp8zuefiM/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Beauty of Hyrule Temple in Super Smash Bros."
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "MockRock"
+      ]
+    ],
+    "Category": [
+      [
+        "Fighting Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Fighting Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=_9zp8zuefiM"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Fighting Games"
+    ],
+    "tags": [
+      "Fighting Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-fb7e74e6a122d21bea8c-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC3uTrMyKi0VsR3LfXPlI0UQ\" target=\"_blank\" rel=\"noreferrer\">MockRock</a></em>"
+    },
+    {
+      "id": "media-fb7e74e6a122d21bea8c-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/_9zp8zuefiM?feature=oembed",
+      "title": "The Beauty of Hyrule Temple in Super Smash Bros.",
+      "caption": ""
+    },
+    {
+      "id": "media-fb7e74e6a122d21bea8c-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=_9zp8zuefiM\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

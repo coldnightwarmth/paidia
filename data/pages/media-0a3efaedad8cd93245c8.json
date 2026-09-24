@@ -1,0 +1,76 @@
+{
+  "id": "media-0a3efaedad8cd93245c8",
+  "slug": "media-what-makes-a-game-immersive-vr-versus-physical-augmentation",
+  "title": "What Makes a Game Immersive – VR versus Physical Augmentation",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=lyAtdF6Ywis",
+  "previewImage": "https://i.ytimg.com/vi/lyAtdF6Ywis/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "What Makes a Game Immersive – VR versus Physical Augmentation"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Jon Back's Creative Geek"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Design, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=lyAtdF6Ywis"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Design",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-0a3efaedad8cd93245c8-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCgmeZjKCvLpJ4S4t4G1Lung\" target=\"_blank\" rel=\"noreferrer\">Jon Back's Creative Geek</a></em>"
+    },
+    {
+      "id": "media-0a3efaedad8cd93245c8-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/lyAtdF6Ywis?feature=oembed",
+      "title": "What Makes a Game Immersive – VR versus Physical Augmentation",
+      "caption": ""
+    },
+    {
+      "id": "media-0a3efaedad8cd93245c8-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=lyAtdF6Ywis\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

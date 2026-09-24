@@ -1,0 +1,78 @@
+{
+  "id": "media-bdac9c4af544a8a12dee",
+  "slug": "media-game-studies-at-20",
+  "title": "Game Studies at 20",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=8OhKOhZMOvM",
+  "previewImage": "https://i.ytimg.com/vi/8OhKOhZMOvM/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Game Studies at 20"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "NYU Game Center"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures, Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Podcasts & Interviews, Selected, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=8OhKOhZMOvM"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures",
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Lectures",
+      "Podcasts & Interviews",
+      "Selected",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-bdac9c4af544a8a12dee-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC1W7wuvErj9Q9Lu3kTju-RQ\" target=\"_blank\" rel=\"noreferrer\">NYU Game Center</a></em>"
+    },
+    {
+      "id": "media-bdac9c4af544a8a12dee-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/8OhKOhZMOvM?feature=oembed",
+      "title": "Game Studies at 20",
+      "caption": ""
+    },
+    {
+      "id": "media-bdac9c4af544a8a12dee-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=8OhKOhZMOvM\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

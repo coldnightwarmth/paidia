@@ -1,0 +1,75 @@
+{
+  "id": "media-26dfb2fdb0ba4449a220",
+  "slug": "media-no-need-for-perfection-the-value-of-climbing-ugly",
+  "title": "No Need for Perfection - The Value of Climbing Ugly",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=IEJG6wR7Gos",
+  "previewImage": "https://i.ytimg.com/vi/IEJG6wR7Gos/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "No Need for Perfection - The Value of Climbing Ugly"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Movement for Climbers"
+      ]
+    ],
+    "Category": [
+      [
+        "Sports"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Sports, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=IEJG6wR7Gos"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "Sports",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-26dfb2fdb0ba4449a220-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC6-rliFvsdCUTZndrZTQjMA\" target=\"_blank\" rel=\"noreferrer\">Movement for Climbers</a></em>"
+    },
+    {
+      "id": "media-26dfb2fdb0ba4449a220-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/IEJG6wR7Gos?feature=oembed",
+      "title": "No Need for Perfection - The Value of Climbing Ugly",
+      "caption": ""
+    },
+    {
+      "id": "media-26dfb2fdb0ba4449a220-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=IEJG6wR7Gos\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

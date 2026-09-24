@@ -24,8 +24,29 @@
       [
         "Simon"
       ]
+    ],
+    "Category": [
+      [
+        "Other Games & Toys"
+      ]
+    ],
+    "Tags": [
+      [
+        "Other Games & Toys"
+      ]
     ]
   },
   "previewImage": "",
-  "blocks": []
+  "blocks": [],
+  "catalog": {
+    "databaseId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+    "database": "games",
+    "categories": [
+      "Other Games & Toys"
+    ],
+    "tags": [
+      "Other Games & Toys"
+    ]
+  },
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
 }

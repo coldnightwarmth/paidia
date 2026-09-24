@@ -1,0 +1,76 @@
+{
+  "id": "media-88f4e2bda89af2cb19b3",
+  "slug": "media-the-new-gods-of-modern-storytelling-with-ben-hatke",
+  "title": "The New gods of Modern Storytelling | with Ben Hatke",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=OCl_UphiIR4",
+  "previewImage": "https://i.ytimg.com/vi/OCl_UphiIR4/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The New gods of Modern Storytelling | with Ben Hatke"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Jonathan Pageau"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=OCl_UphiIR4"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-88f4e2bda89af2cb19b3-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCtCTSf3UwRU14nYWr_xm-dQ\" target=\"_blank\" rel=\"noreferrer\">Jonathan Pageau</a></em>"
+    },
+    {
+      "id": "media-88f4e2bda89af2cb19b3-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/OCl_UphiIR4?feature=oembed",
+      "title": "The New gods of Modern Storytelling | with Ben Hatke",
+      "caption": ""
+    },
+    {
+      "id": "media-88f4e2bda89af2cb19b3-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=OCl_UphiIR4\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

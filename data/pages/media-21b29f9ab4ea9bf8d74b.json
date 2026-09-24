@@ -1,0 +1,76 @@
+{
+  "id": "media-21b29f9ab4ea9bf8d74b",
+  "slug": "media-the-future-of-writing-about-games",
+  "title": "The Future of Writing About Games",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Vr6pA15xuFc",
+  "previewImage": "https://i.ytimg.com/vi/Vr6pA15xuFc/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Future of Writing About Games"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Jacob Geller"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Vr6pA15xuFc"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-21b29f9ab4ea9bf8d74b-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCeTfBygNb1TahcNpZyELO8g\" target=\"_blank\" rel=\"noreferrer\">Jacob Geller</a></em>"
+    },
+    {
+      "id": "media-21b29f9ab4ea9bf8d74b-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Vr6pA15xuFc?feature=oembed",
+      "title": "The Future of Writing About Games",
+      "caption": ""
+    },
+    {
+      "id": "media-21b29f9ab4ea9bf8d74b-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Vr6pA15xuFc\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

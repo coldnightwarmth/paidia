@@ -1,0 +1,69 @@
+{
+  "id": "media-569fcd555e3d114d3d8b",
+  "slug": "media-stumblebee",
+  "title": "Stumblebee",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/channel/UCfqq4uagW1M5-2wsX4YqOCA",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Stumblebee"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Stumblebee"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Fighting Games, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/channel/UCfqq4uagW1M5-2wsX4YqOCA"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Fighting Games",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-569fcd555e3d114d3d8b-creator",
+      "type": "paragraph",
+      "html": "<em>by Stumblebee</em>"
+    },
+    {
+      "id": "media-569fcd555e3d114d3d8b-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/channel/UCfqq4uagW1M5-2wsX4YqOCA\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

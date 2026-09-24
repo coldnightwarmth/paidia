@@ -1,0 +1,69 @@
+{
+  "id": "media-3a0b9f423b187cd54e10",
+  "slug": "media-jeremy-parish-video-works",
+  "title": "Jeremy Parish | Video Works",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/c/JeremyParish/videos",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Jeremy Parish | Video Works"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Jeremy Parish | Video Works"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, History, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/c/JeremyParish/videos"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "History",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-3a0b9f423b187cd54e10-creator",
+      "type": "paragraph",
+      "html": "<em>by Jeremy Parish | Video Works</em>"
+    },
+    {
+      "id": "media-3a0b9f423b187cd54e10-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/c/JeremyParish/videos\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

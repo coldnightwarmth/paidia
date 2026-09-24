@@ -1,0 +1,76 @@
+{
+  "id": "media-490119a591db193ca285",
+  "slug": "media-nintendo-putting-play-first",
+  "title": "Nintendo - Putting Play First",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=2u6HTG8LuXQ",
+  "previewImage": "https://i.ytimg.com/vi/2u6HTG8LuXQ/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Nintendo - Putting Play First"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Game Maker's Toolkit"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Design, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=2u6HTG8LuXQ"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Design",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-490119a591db193ca285-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw\" target=\"_blank\" rel=\"noreferrer\">Game Maker's Toolkit</a></em>"
+    },
+    {
+      "id": "media-490119a591db193ca285-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/2u6HTG8LuXQ?feature=oembed",
+      "title": "Nintendo - Putting Play First",
+      "caption": ""
+    },
+    {
+      "id": "media-490119a591db193ca285-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=2u6HTG8LuXQ\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

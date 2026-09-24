@@ -1,0 +1,75 @@
+{
+  "id": "media-331c07f9e9dfad31c5df",
+  "slug": "media-the-debate-that-never-took-place",
+  "title": "The Debate That Never Took Place",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=xBN3R0m31bA",
+  "previewImage": "https://i.ytimg.com/vi/xBN3R0m31bA/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Debate That Never Took Place"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Errant Signal"
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=xBN3R0m31bA"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-331c07f9e9dfad31c5df-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCm4JnxTxtvItQecKUc4zRhQ\" target=\"_blank\" rel=\"noreferrer\">Errant Signal</a></em>"
+    },
+    {
+      "id": "media-331c07f9e9dfad31c5df-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/xBN3R0m31bA?feature=oembed",
+      "title": "The Debate That Never Took Place",
+      "caption": ""
+    },
+    {
+      "id": "media-331c07f9e9dfad31c5df-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=xBN3R0m31bA\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

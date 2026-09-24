@@ -1,4 +1,135 @@
+import { recordRowUpdates } from './recent-updates.js';
+import { renderHome } from "./home.js?v=20260923-static-home-brand";
+
 const DATA_CACHE_TOKEN = Date.now().toString(36);
+
+function removeTooltipAttributes(root) {
+  const elements = [];
+  if (root instanceof Element && root.hasAttribute("title")) elements.push(root);
+  if (root.querySelectorAll) elements.push(...root.querySelectorAll("[title]"));
+  for (const element of elements) {
+    const tooltip = element.getAttribute("title")?.trim();
+    const needsAccessibleName =
+      element.matches("button, iframe, [role='button']") &&
+      !element.hasAttribute("aria-label") &&
+      !element.hasAttribute("aria-labelledby");
+    if (tooltip && needsAccessibleName) element.setAttribute("aria-label", tooltip);
+    element.removeAttribute("title");
+  }
+}
+
+removeTooltipAttributes(document);
+new MutationObserver((mutations) => {
+  for (const mutation of mutations) {
+    if (mutation.type === "attributes") removeTooltipAttributes(mutation.target);
+    for (const node of mutation.addedNodes) removeTooltipAttributes(node);
+  }
+}).observe(document.documentElement, {
+  attributes: true,
+  attributeFilter: ["title"],
+  childList: true,
+  subtree: true,
+});
+
+const SCROLL_ENTRY_STATE_KEY = "paidiasophiaScrollEntry";
+const SCROLL_STORAGE_PREFIX = "paidiasophia:scroll:";
+let pendingRouteScrollMode = "restore";
+let scrollSaveFrame = 0;
+
+if ("scrollRestoration" in window.history) {
+  window.history.scrollRestoration = "manual";
+}
+
+function createScrollEntryId() {
+  return globalThis.crypto?.randomUUID?.() ??
+    `${Date.now().toString(36)}-${Math.random().toString(36).slice(2)}`;
+}
+
+function currentScrollEntryId(create = true) {
+  const currentState = window.history.state;
+  const existing = currentState?.[SCROLL_ENTRY_STATE_KEY];
+  if (existing || !create) return existing ?? "";
+  const entryId = createScrollEntryId();
+  window.history.replaceState(
+    { ...(currentState && typeof currentState === "object" ? currentState : {}), [SCROLL_ENTRY_STATE_KEY]: entryId },
+    "",
+    window.location.href,
+  );
+  return entryId;
+}
+
+function beginFreshScrollEntry() {
+  const currentState = window.history.state;
+  const entryId = createScrollEntryId();
+  window.history.replaceState(
+    { ...(currentState && typeof currentState === "object" ? currentState : {}), [SCROLL_ENTRY_STATE_KEY]: entryId },
+    "",
+    window.location.href,
+  );
+  return entryId;
+}
+
+function saveCurrentScrollPosition() {
+  const entryId = currentScrollEntryId();
+  try {
+    window.sessionStorage.setItem(
+      `${SCROLL_STORAGE_PREFIX}${entryId}`,
+      JSON.stringify({ x: window.scrollX, y: window.scrollY }),
+    );
+  } catch {}
+}
+
+function savedScrollPosition() {
+  const entryId = currentScrollEntryId(false);
+  if (!entryId) return { x: 0, y: 0 };
+  try {
+    const value = JSON.parse(window.sessionStorage.getItem(`${SCROLL_STORAGE_PREFIX}${entryId}`) ?? "null");
+    return {
+      x: Number.isFinite(value?.x) ? value.x : 0,
+      y: Number.isFinite(value?.y) ? value.y : 0,
+    };
+  } catch {
+    return { x: 0, y: 0 };
+  }
+}
+
+function applyRouteScroll(mode, version) {
+  const position = mode === "restore" ? savedScrollPosition() : { x: 0, y: 0 };
+  requestAnimationFrame(() => requestAnimationFrame(() => {
+    if (version !== renderVersion) return;
+    window.scrollTo({ left: position.x, top: position.y, behavior: "instant" });
+  }));
+}
+
+currentScrollEntryId();
+window.addEventListener("scroll", () => {
+  if (scrollSaveFrame) return;
+  scrollSaveFrame = requestAnimationFrame(() => {
+    scrollSaveFrame = 0;
+    saveCurrentScrollPosition();
+  });
+}, { passive: true });
+window.addEventListener("pagehide", saveCurrentScrollPosition);
+document.addEventListener("click", (event) => {
+  if (
+    event.defaultPrevented ||
+    event.button !== 0 ||
+    event.metaKey || event.ctrlKey || event.shiftKey || event.altKey
+  ) return;
+  const link = event.target.closest?.("a[href^='#/']");
+  if (!link || link.querySelector("[data-anchor-link]")) return;
+  saveCurrentScrollPosition();
+  const destination = new URL(link.href, window.location.href);
+  if (destination.hash === window.location.hash) {
+    window.scrollTo({ left: 0, top: 0, behavior: "instant" });
+    saveCurrentScrollPosition();
+    return;
+  }
+  pendingRouteScrollMode = "new";
+}, { capture: true });
+window.addEventListener("popstate", () => {
+  pendingRouteScrollMode = "restore";
+});
 
 function dataUrl(path) {
   const separator = path.includes("?") ? "&" : "?";
@@ -33,6 +164,7 @@ const FULL_TEXT_DATABASE_FALLBACK_COLUMNS = [
 ];
 const FOLKS_DATABASE_PAGE_ID = "292fe1df-a5bd-4b49-97aa-f336bf0ac103";
 const FOLKS_DATABASE_DATA_URL = "./data/folks-database.json";
+const FOLKS_DATABASE_STORAGE_KEY = "paidiasophia:folks-database-sheet:v1";
 const FOLKS_DATABASE_VIEW_STORAGE_KEY = "paidiasophia:folks-database-view:v1";
 const FOLKS_DATABASE_PAGE_SIZE = 100;
 const FOLKS_DATABASE_FALLBACK_COLUMNS = ["Name", "List"];
@@ -40,6 +172,7 @@ const SHORTFORM_DATABASE_PAGE_ID = "50eae52d-e10e-4677-a195-6f45f609aa5d";
 const SHORTFORM_ESSAYS_PAGE_ID = "71160b13-261c-43b4-9e7a-80771fb8debc";
 const SHORTFORM_POEMS_AND_STORIES_PAGE_ID = "f7a6ae5b-b1de-47e8-a0d3-7551c3a5399f";
 const SHORTFORM_DATABASE_DATA_URL = "./data/shortform-database.json";
+const SHORTFORM_DATABASE_STORAGE_KEY = "paidiasophia:shortform-database-sheet:v1";
 const SHORTFORM_DATABASE_VIEW_STORAGE_KEY = "paidiasophia:shortform-database-view:v1";
 const SHORTFORM_DATABASE_BOOKMARKS_STORAGE_KEY =
   "paidiasophia:shortform-database-bookmarks:v1";
@@ -51,6 +184,29 @@ const shortformNavigationItem = siteIndex.navigation.find(
   (item) => item.id === SHORTFORM_DATABASE_PAGE_ID,
 );
 if (shortformNavigationItem) shortformNavigationItem.title = "Shortform Texts";
+
+const CATALOG_DATABASES = new Map([
+  ["da0f6a33-7bc6-4708-9bf2-ad2d25c64734", { key: "video-audio", label: "Video+Audio" }],
+  ["549e6748-f2f1-4f8d-9243-68d0b9f00343", { key: "games", label: "Games" }],
+  ["7070e92d-6389-4c6c-88f2-0b38bc3d8e3a", { key: "other-media", label: "Other Media" }],
+  ["5c956dc7-7bd4-439f-973e-3d819d90149d", { key: "objects", label: "Objects" }],
+  ["2051fa00-5190-42a6-af57-6eca9f5b55d0", { key: "images", label: "Images" }],
+]);
+const CATALOG_ROUTES = new Map([
+  ["games", "games-549e6748"],
+  ["videogames-c299b845", "games-549e6748?category=Videogames"],
+  ["tabletop-games", "games-549e6748?category=Tabletop"],
+  ["tabletop-games-70aaf802", "games-549e6748?category=Tabletop"],
+  ["sports", "games-549e6748?category=Sports"],
+  ["other-games-and-toys", "games-549e6748?category=Other%20Games%20%26%20Toys"],
+  ["films-and-tv", "other-media?category=Films%20%26%20TV"],
+  ["anime-and-manga", "other-media?category=Anime%20%26%20Manga"],
+  ["music-bb4976cc", "other-media?category=Music"],
+  ["software-db7886e6", "other-media?category=Software"],
+  ["objects", "artifacts"],
+  ["groups-f82fec8f", "folks-292fe1df?list=Groups"],
+]);
+
 const pageCache = new Map();
 const collectionCache = new Map();
 const collectionViewState = new Map();
@@ -59,6 +215,7 @@ let folksDatabasePayload = null;
 let shortformDatabasePayload = null;
 
 let renderVersion = 0;
+let disposeHome = null;
 
 const sidebar = document.querySelector("#sidebar");
 const nav = document.querySelector("#site-nav");
@@ -77,6 +234,7 @@ const bookPreviewClose = document.querySelector("#book-preview-close");
 
 let activeBookPreviewPageId = null;
 let activeShortformPreviewPageId = null;
+let activeFolksPreviewPageId = null;
 let bookPreviewRenderVersion = 0;
 let spreadsheetViewportAbortController = null;
 let updateSpreadsheetFilterViewport = null;
@@ -122,7 +280,8 @@ function isSpreadsheetDatabasePage(pageSummary) {
   return (
     isFullTextDatabasePage(pageSummary) ||
     isFolksDatabasePage(pageSummary) ||
-    isShortformDatabasePage(pageSummary)
+    isShortformDatabasePage(pageSummary) ||
+    CATALOG_DATABASES.has(pageSummary?.id)
   );
 }
 
@@ -142,13 +301,17 @@ function setSidebarOpen(isOpen) {
   const canOpen = !document.body.classList.contains("page--home");
   const nextOpen = Boolean(isOpen) && canOpen;
 
+  document.body.classList.toggle("sidebar-open", nextOpen);
   sidebar.classList.toggle("is-open", nextOpen);
-  sidebarBackdrop.classList.toggle("is-visible", nextOpen);
+  sidebarBackdrop.classList.remove("is-visible");
   menuToggle.setAttribute("aria-expanded", nextOpen ? "true" : "false");
-  menuToggle.textContent = nextOpen ? "close" : "menu";
+  menuToggle.setAttribute("aria-label", nextOpen ? "Close menu" : "Open menu");
+  menuToggle.title = nextOpen ? "Close menu" : "Open menu";
 }
 
 function applyPageChrome(pageSummary) {
+  disposeHome?.();
+  disposeHome = null;
   const homePage = isHomePage(pageSummary);
   const spreadsheetPage = isSpreadsheetDatabasePage(pageSummary);
   document.body.classList.toggle("page--home", homePage);
@@ -277,12 +440,40 @@ function loadSpreadsheetRows(sourceRows, columns) {
   return sourceRows.map((row) => [...row]);
 }
 
-function saveSpreadsheetRows(rows, columns, sourceRows) {
+function saveSpreadsheetRows(rows, columns, sourceRows, rowMeta) {
   try {
+    const previousRows = loadSpreadsheetRows(sourceRows, columns);
     window.localStorage.setItem(
       FULL_TEXT_DATABASE_STORAGE_KEY,
       JSON.stringify({ columns, sourceRows: sourceRows.length, rows }),
     );
+    recordRowUpdates(previousRows, rows, rowMeta, columns);
+  } catch {}
+}
+
+function loadDatabaseRows(storageKey, sourceRows, columns) {
+  try {
+    const saved = JSON.parse(window.localStorage.getItem(storageKey) ?? "null");
+    if (
+      saved?.sourceRows === sourceRows.length &&
+      Array.isArray(saved?.columns) &&
+      saved.columns.join("\u0000") === columns.join("\u0000")
+    ) {
+      return normalizeSpreadsheetRows(saved.rows, columns);
+    }
+  } catch {}
+
+  return sourceRows.map((row) => [...row]);
+}
+
+function saveDatabaseRows(storageKey, rows, columns, sourceRows, rowMeta) {
+  try {
+    const previousRows = loadDatabaseRows(storageKey, sourceRows, columns);
+    window.localStorage.setItem(
+      storageKey,
+      JSON.stringify({ columns, sourceRows: sourceRows.length, rows }),
+    );
+    recordRowUpdates(previousRows, rows, rowMeta, columns);
   } catch {}
 }
 
@@ -426,6 +617,25 @@ function saveBookmarkedShortformIds(bookmarkedPageIds) {
       SHORTFORM_DATABASE_BOOKMARKS_STORAGE_KEY,
       JSON.stringify([...bookmarkedPageIds]),
     );
+  } catch {}
+}
+
+function loadBookmarkedDatabaseIds(storageKey) {
+  try {
+    const saved = JSON.parse(window.localStorage.getItem(storageKey) ?? "[]");
+    return new Set(
+      Array.isArray(saved)
+        ? saved.filter((pageId) => typeof pageId === "string" && pageId.trim())
+        : [],
+    );
+  } catch {
+    return new Set();
+  }
+}
+
+function saveBookmarkedDatabaseIds(storageKey, bookmarkedPageIds) {
+  try {
+    window.localStorage.setItem(storageKey, JSON.stringify([...bookmarkedPageIds]));
   } catch {}
 }
 
@@ -1625,6 +1835,7 @@ async function renderFullTextDatabaseSpreadsheet() {
     const visibleRows = sortedRows.slice(start, end);
 
     renderViewToggle();
+    renderEditToggle();
     renderFilterControls();
     renderSortHeaders();
     renderGallerySortControl();
@@ -1675,7 +1886,7 @@ async function renderFullTextDatabaseSpreadsheet() {
         rows[rowIndex][columnIndex],
       );
     }
-    saveSpreadsheetRows(rows, columns, sourceRows);
+    saveSpreadsheetRows(rows, columns, sourceRows, rowMeta);
   });
 
   tbody.addEventListener("keydown", (event) => {
@@ -1706,6 +1917,7 @@ async function renderFullTextDatabaseSpreadsheet() {
 
   viewToggle.addEventListener("click", () => {
     layoutMode = layoutMode === "gallery" ? "spreadsheet" : "gallery";
+    if (layoutMode === "gallery") editMode = false;
     pendingFocus = null;
     renderRows();
   });
@@ -1808,10 +2020,30 @@ async function renderFullTextDatabaseSpreadsheet() {
   return section;
 }
 
-async function renderFolksDatabaseSpreadsheet() {
-  const { columns, rows, rowMeta, lists } = await loadFolksDatabasePayload();
+async function renderFolksDatabaseSpreadsheet(config = null) {
+  const storageKey = config ? `paidiasophia:${config.key}:sheet:v1` : FOLKS_DATABASE_STORAGE_KEY;
+  const viewStorageKey = config ? `paidiasophia:${config.key}:view:v1` : FOLKS_DATABASE_VIEW_STORAGE_KEY;
+  const bookmarksEnabled = config?.key === "video-audio";
+  const bookmarksStorageKey = `paidiasophia:${config?.key ?? "folks"}:bookmarks:v1`;
+  const bookmarkedPageIds = bookmarksEnabled
+    ? loadBookmarkedDatabaseIds(bookmarksStorageKey)
+    : new Set();
+  const categoryColumn = config ? "Category" : "List";
+  const filterParam = config ? "category" : "list";
+  const label = config?.label ?? "People";
+  const nameSortValue = config ? titleSortValue : creatorSurnameSortValue;
+  let payload;
+  if (config) {
+    const response = await fetch(dataUrl(`./data/${config.key}-database.json`), { cache: "no-store" });
+    if (!response.ok) throw new Error(`Failed to load ${label}.`);
+    payload = await response.json();
+  } else {
+    payload = await loadFolksDatabasePayload();
+  }
+  const { columns, rows: sourceRows, rowMeta, lists } = payload;
+  const rows = loadDatabaseRows(storageKey, sourceRows, columns);
   const nameColumnIndex = Math.max(0, columns.indexOf("Name"));
-  const listColumnIndex = Math.max(0, columns.indexOf("List"));
+  const listColumnIndex = Math.max(0, columns.indexOf(categoryColumn));
   const defaultSortState = { columnIndex: nameColumnIndex, direction: "asc" };
   const rowIndexByRow = new Map(rows.map((row, rowIndex) => [row, rowIndex]));
   const availableListLabels = new Map(
@@ -1832,11 +2064,13 @@ async function renderFolksDatabaseSpreadsheet() {
   let savedState = {};
   try {
     savedState = JSON.parse(
-      window.localStorage.getItem(FOLKS_DATABASE_VIEW_STORAGE_KEY) ?? "{}",
+      window.localStorage.getItem(viewStorageKey) ?? "{}",
     );
   } catch {}
 
   let currentPage = Number.isInteger(savedState.currentPage) ? savedState.currentPage : 0;
+  let editMode = Boolean(savedState.editMode);
+  let pendingFocus = null;
   let layoutMode = savedState.layoutMode
     ? normalizeSpreadsheetLayoutMode(savedState.layoutMode)
     : "gallery";
@@ -1848,6 +2082,7 @@ async function renderFolksDatabaseSpreadsheet() {
       availableListLabels.has(key),
     ),
   );
+  let bookmarksOnly = bookmarksEnabled && Boolean(savedState.bookmarksOnly);
   let randomRowRanks = null;
   let searchQuery = "";
   let searchPopupOpen = false;
@@ -1855,22 +2090,16 @@ async function renderFolksDatabaseSpreadsheet() {
   let pageSearchIndexComplete = false;
 
   const route = currentHashRoute();
-  if (route.searchParams.has("list")) {
+  if (route.searchParams.has(filterParam)) {
     selectedLists = new Set(
       route.searchParams
-        .getAll("list")
+        .getAll(filterParam)
         .map(normalizeSpreadsheetTagKey)
         .filter((key) => availableListLabels.has(key)),
     );
     filtersOpen = true;
     currentPage = 0;
-    route.searchParams.delete("list");
-    const remainingQuery = route.searchParams.toString();
-    window.history.replaceState(
-      null,
-      "",
-      `${routeForPage(FOLKS_DATABASE_PAGE_ID)}${remainingQuery ? `?${remainingQuery}` : ""}`,
-    );
+
   }
 
   const rowListKeys = rows.map(
@@ -1882,14 +2111,11 @@ async function renderFolksDatabaseSpreadsheet() {
           .filter(Boolean),
       ),
   );
-  const rowSearchFields = rows.map((row) => [
-    normalizeSearchText(row[nameColumnIndex]),
-    normalizeSearchText(row[listColumnIndex]),
-  ]);
+  const rowSearchFields = rows.map((row) => row.map(normalizeSearchText));
   const pageContentSearchText = new Array(rows.length).fill("");
 
   const section = document.createElement("section");
-  section.className = "spreadsheet spreadsheet--folks";
+  section.className = `spreadsheet spreadsheet--folks${config ? ` spreadsheet--catalog spreadsheet--${config.key}` : ""}`;
 
   const toolbar = document.createElement("div");
   toolbar.className = "spreadsheet__toolbar";
@@ -1910,15 +2136,38 @@ async function renderFolksDatabaseSpreadsheet() {
   const viewToggle = document.createElement("button");
   viewToggle.type = "button";
   viewToggle.className = "spreadsheet__toolbar-view-toggle spreadsheet__view-toggle";
+
+  const bookmarkFilterToggle = document.createElement("button");
+  bookmarkFilterToggle.type = "button";
+  bookmarkFilterToggle.className = "spreadsheet__bookmark-filter-toggle";
+  bookmarkFilterToggle.setAttribute("aria-pressed", "false");
+  bookmarkFilterToggle.innerHTML = `
+    <svg aria-hidden="true" viewBox="0 0 24 24">
+      <path d="M7 4.5h10v15l-5-3-5 3v-15Z"></path>
+    </svg>
+  `;
+
   toolbarModes.append(filterToggle, viewToggle);
+  if (bookmarksEnabled) toolbarModes.append(bookmarkFilterToggle);
+
+  const editToggle = document.createElement("button");
+  editToggle.type = "button";
+  editToggle.className = "spreadsheet__action-toggle spreadsheet__edit-toggle";
+  editToggle.setAttribute("aria-pressed", "false");
+  editToggle.innerHTML = `
+    <svg aria-hidden="true" viewBox="0 0 24 24">
+      <path d="M4 20h4.4L19.2 9.2a2.1 2.1 0 0 0 0-3L17.8 4.8a2.1 2.1 0 0 0-3 0L4 15.6V20Z"></path>
+      <path d="m13.5 6.1 4.4 4.4"></path>
+    </svg>
+  `;
 
   const topPagination = document.createElement("nav");
   topPagination.className = "spreadsheet__pagination";
-  topPagination.setAttribute("aria-label", "Folks database pages");
+  topPagination.setAttribute("aria-label", `${label} database pages`);
 
   const bottomPagination = document.createElement("nav");
   bottomPagination.className = "spreadsheet__pagination spreadsheet__pagination--bottom";
-  bottomPagination.setAttribute("aria-label", "Folks database pages");
+  bottomPagination.setAttribute("aria-label", `${label} database pages`);
 
   const searchControls = document.createElement("div");
   searchControls.className = "spreadsheet__search";
@@ -1928,8 +2177,8 @@ async function renderFolksDatabaseSpreadsheet() {
   searchToggle.className = "spreadsheet__search-label spreadsheet__search-toggle";
   searchToggle.setAttribute("aria-controls", "folks-database-search-input");
   searchToggle.setAttribute("aria-expanded", "false");
-  searchToggle.setAttribute("aria-label", "Search folks");
-  searchToggle.title = "Search folks";
+  searchToggle.setAttribute("aria-label", `Search ${label.toLowerCase()}`);
+  searchToggle.title = `Search ${label.toLowerCase()}`;
   searchToggle.innerHTML = `
     <svg aria-hidden="true" viewBox="0 0 24 24">
       <circle cx="11" cy="11" r="7"></circle>
@@ -1944,8 +2193,8 @@ async function renderFolksDatabaseSpreadsheet() {
   searchInput.id = "folks-database-search-input";
   searchInput.className = "spreadsheet__search-input";
   searchInput.type = "search";
-  searchInput.placeholder = "Search folks";
-  searchInput.setAttribute("aria-label", "Search folks");
+  searchInput.placeholder = `Search ${label.toLowerCase()}`;
+  searchInput.setAttribute("aria-label", `Search ${label.toLowerCase()}`);
   searchInput.autocomplete = "off";
   searchInput.spellcheck = false;
   searchInputWrap.append(searchInput);
@@ -1957,7 +2206,7 @@ async function renderFolksDatabaseSpreadsheet() {
   const filterPanel = document.createElement("aside");
   filterPanel.id = "folks-database-filters";
   filterPanel.className = "spreadsheet__filter-panel";
-  filterPanel.setAttribute("aria-label", "Sort and filter folks");
+  filterPanel.setAttribute("aria-label", `Sort and filter ${label.toLowerCase()}`);
 
   const filterPanelInner = document.createElement("div");
   filterPanelInner.className = "spreadsheet__filter-panel-inner";
@@ -1976,7 +2225,7 @@ async function renderFolksDatabaseSpreadsheet() {
   const sortSelect = document.createElement("select");
   sortSelect.id = "folks-database-sort";
   sortSelect.className = "spreadsheet__filter-select";
-  sortSelect.setAttribute("aria-label", "Sort folks by");
+  sortSelect.setAttribute("aria-label", `Sort ${label.toLowerCase()} by`);
   sortSelectWrap.append(sortSelect);
   sortControls.append(sortLabel, sortSelectWrap);
 
@@ -1985,14 +2234,14 @@ async function renderFolksDatabaseSpreadsheet() {
 
   const filterListsHeading = document.createElement("h3");
   filterListsHeading.className = "spreadsheet__filter-heading";
-  filterListsHeading.textContent = "Lists";
+  filterListsHeading.textContent = "Categories";
 
   const clearListFilters = document.createElement("button");
   clearListFilters.type = "button";
   clearListFilters.className = "spreadsheet__clear-tag-filters is-hidden";
   clearListFilters.textContent = "×";
-  clearListFilters.title = "Clear all list filters";
-  clearListFilters.setAttribute("aria-label", "Clear all list filters");
+  clearListFilters.title = "Clear all category filters";
+  clearListFilters.setAttribute("aria-label", "Clear all category filters");
   filterListsHeader.append(filterListsHeading, clearListFilters);
 
   const filterLists = document.createElement("div");
@@ -2086,18 +2335,20 @@ async function renderFolksDatabaseSpreadsheet() {
   const gallery = document.createElement("div");
   gallery.className = "spreadsheet__gallery";
   gallery.setAttribute("role", "list");
-  gallery.setAttribute("aria-label", "Folks gallery");
+  gallery.setAttribute("aria-label", `${label} gallery`);
 
   function saveViewState() {
     try {
       window.localStorage.setItem(
-        FOLKS_DATABASE_VIEW_STORAGE_KEY,
+        viewStorageKey,
         JSON.stringify({
           currentPage,
+          editMode,
           layoutMode,
           filtersOpen,
           sortState,
           selectedLists: [...selectedLists],
+          bookmarksOnly,
         }),
       );
     } catch {}
@@ -2195,10 +2446,13 @@ async function renderFolksDatabaseSpreadsheet() {
 
     return rows.filter((row) => {
       const rowIndex = rowIndexByRow.get(row);
+      const pageId = rowMeta[rowIndex]?.pageId;
+      const matchesBookmarks =
+        !bookmarksEnabled || !bookmarksOnly || (pageId && bookmarkedPageIds.has(pageId));
       const matchesLists =
         selectedLists.size === 0 ||
         [...rowListKeys[rowIndex]].some((key) => selectedLists.has(key));
-      return matchesLists && rowMatchesSearch(rowIndex, terms);
+      return matchesBookmarks && matchesLists && rowMatchesSearch(rowIndex, terms);
     });
   }
 
@@ -2220,8 +2474,8 @@ async function renderFolksDatabaseSpreadsheet() {
           if (relevanceOrder) return relevanceOrder;
           return (
             compareSpreadsheetValues(
-              creatorSurnameSortValue(left.row[nameColumnIndex]),
-              creatorSurnameSortValue(right.row[nameColumnIndex]),
+              nameSortValue(left.row[nameColumnIndex]),
+              nameSortValue(right.row[nameColumnIndex]),
             ) || left.rowIndex - right.rowIndex
           );
         })
@@ -2239,8 +2493,8 @@ async function renderFolksDatabaseSpreadsheet() {
       .sort((left, right) => {
         const columnLabel = columns[sortState.columnIndex];
         const result = compareSpreadsheetValues(
-          spreadsheetSortValue(left.row[sortState.columnIndex], columnLabel),
-          spreadsheetSortValue(right.row[sortState.columnIndex], columnLabel),
+          (sortState.columnIndex === nameColumnIndex ? nameSortValue(left.row[sortState.columnIndex]) : spreadsheetSortValue(left.row[sortState.columnIndex], columnLabel)),
+          (sortState.columnIndex === nameColumnIndex ? nameSortValue(right.row[sortState.columnIndex]) : spreadsheetSortValue(right.row[sortState.columnIndex], columnLabel)),
         );
         const ordered = result || left.rowIndex - right.rowIndex;
         return sortState.direction === "asc" ? ordered : -ordered;
@@ -2298,6 +2552,17 @@ async function renderFolksDatabaseSpreadsheet() {
       : `<svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 5h5v5H5z"></path><path d="M14 5h5v5h-5z"></path><path d="M5 14h5v5H5z"></path><path d="M14 14h5v5h-5z"></path></svg>`;
   }
 
+  function renderEditToggle() {
+    section.classList.toggle("is-editing", editMode);
+    editToggle.classList.toggle("is-active", editMode);
+    editToggle.setAttribute("aria-pressed", editMode ? "true" : "false");
+    editToggle.setAttribute(
+      "aria-label",
+      editMode ? "Disable list editing" : "Enable list editing",
+    );
+    editToggle.title = editMode ? "Exit edit mode" : "Edit list";
+  }
+
   let filterListsResizeFrame = null;
   function sizeFilterListsToViewport() {
     if (filterListsResizeFrame !== null) cancelAnimationFrame(filterListsResizeFrame);
@@ -2325,10 +2590,10 @@ async function renderFolksDatabaseSpreadsheet() {
     filterToggle.setAttribute(
       "aria-label",
       filtersOpen
-        ? "Close sort and list filters"
+        ? "Close sort and category filters"
         : filtersActive
-          ? `Open sort and list filters, ${selectedLists.size} selected`
-          : "Open sort and list filters",
+          ? `Open sort and category filters, ${selectedLists.size} selected`
+          : "Open sort and category filters",
     );
     filterToggle.title = filtersOpen ? "Close filters" : "Sort and filter";
     filterPanel.setAttribute("aria-hidden", filtersOpen ? "false" : "true");
@@ -2337,7 +2602,7 @@ async function renderFolksDatabaseSpreadsheet() {
     clearListFilters.setAttribute("aria-hidden", filtersActive ? "false" : "true");
     clearListFilters.setAttribute(
       "aria-label",
-      `Clear all ${selectedLists.size} selected list filter${selectedLists.size === 1 ? "" : "s"}`,
+      `Clear all ${selectedLists.size} selected category filter${selectedLists.size === 1 ? "" : "s"}`,
     );
     filterLists.querySelectorAll("[data-list-key]").forEach((button) => {
       const selected = selectedLists.has(button.dataset.listKey);
@@ -2347,6 +2612,31 @@ async function renderFolksDatabaseSpreadsheet() {
     sizeFilterListsToViewport();
   }
 
+  function renderBookmarkControls() {
+    if (!bookmarksEnabled) return;
+    section.classList.toggle("is-bookmarks-only", bookmarksOnly);
+    bookmarkFilterToggle.classList.toggle("is-active", bookmarksOnly);
+    bookmarkFilterToggle.setAttribute("aria-pressed", bookmarksOnly ? "true" : "false");
+    bookmarkFilterToggle.setAttribute(
+      "aria-label",
+      bookmarksOnly
+        ? `Show all video and audio; currently showing ${bookmarkedPageIds.size} bookmarked item${bookmarkedPageIds.size === 1 ? "" : "s"}`
+        : `Show ${bookmarkedPageIds.size} bookmarked video and audio item${bookmarkedPageIds.size === 1 ? "" : "s"} only`,
+    );
+
+    gallery.querySelectorAll("[data-bookmark-id]").forEach((button) => {
+      const pageId = button.dataset.bookmarkId;
+      const isBookmarked = bookmarkedPageIds.has(pageId);
+      const title = button.dataset.bookTitle || "item";
+      button.classList.toggle("is-bookmarked", isBookmarked);
+      button.setAttribute("aria-pressed", isBookmarked ? "true" : "false");
+      button.setAttribute(
+        "aria-label",
+        isBookmarked ? `Remove ${title} from bookmarks` : `Add ${title} to bookmarks`,
+      );
+    });
+  }
+
   function renderSearchControls() {
     const hasSearch = searchTermsForQuery(searchQuery).length > 0;
     searchControls.classList.toggle("is-popup-open", searchPopupOpen);
@@ -2354,9 +2644,9 @@ async function renderFolksDatabaseSpreadsheet() {
     searchToggle.setAttribute("aria-expanded", searchPopupOpen ? "true" : "false");
     searchToggle.setAttribute(
       "aria-label",
-      hasSearch ? `Edit folks search: ${searchQuery.trim()}` : "Search folks",
+      hasSearch ? `Edit ${label.toLowerCase()} search: ${searchQuery.trim()}` : `Search ${label.toLowerCase()}`,
     );
-    searchToggle.title = hasSearch ? "Edit search" : "Search folks";
+    searchToggle.title = hasSearch ? "Edit search" : `Search ${label.toLowerCase()}`;
   }
 
   function setSearchPopupOpen(open, focusInput = true) {
@@ -2452,7 +2742,12 @@ async function renderFolksDatabaseSpreadsheet() {
 
       row.forEach((value, columnIndex) => {
         const td = document.createElement("td");
-        if (columnIndex === nameColumnIndex && metadata.href) {
+        td.contentEditable = editMode ? "true" : "false";
+        td.spellcheck = false;
+        td.dataset.row = String(rowIndex);
+        td.dataset.column = String(columnIndex);
+        td.dataset.placeholder = " ";
+        if (!editMode && columnIndex === nameColumnIndex && metadata.href) {
           const link = document.createElement("a");
           link.className = "spreadsheet__title-link";
           link.href = metadata.href;
@@ -2472,7 +2767,7 @@ async function renderFolksDatabaseSpreadsheet() {
       const rowIndex = rowIndexByRow.get(row);
       const metadata = rowMeta[rowIndex] ?? {};
       const name = columnValue(row, "Name") || "Untitled";
-      const listLabel = columnValue(row, "List");
+      const listLabel = columnValue(row, categoryColumn);
       const card = document.createElement("article");
       card.className = "spreadsheet__gallery-card";
       card.setAttribute("role", "listitem");
@@ -2497,18 +2792,74 @@ async function renderFolksDatabaseSpreadsheet() {
 
       const metadataLine = document.createElement("p");
       metadataLine.className = "spreadsheet__gallery-creator folks-database__list-meta";
-      metadataLine.textContent = listLabel;
+      if (config?.key === "video-audio") {
+        const creatorLine = document.createElement("p");
+        creatorLine.className = "spreadsheet__gallery-creator video-audio-database__creator";
+        creatorLine.textContent = columnValue(row, "Creator(s)");
+        if (creatorLine.textContent) card.append(creatorLine);
+      }
+      metadataLine.textContent = [
+        listLabel,
+        config?.key === "video-audio" ? columnValue(row, "Type") : "",
+        config ? columnValue(row, "Tags") : "",
+      ].filter(Boolean).join(" · ");
       card.append(metadataLine);
+
+      if (metadata.pageId) {
+        if (bookmarksEnabled) {
+          const bookmarkButton = document.createElement("button");
+          bookmarkButton.type = "button";
+          bookmarkButton.className = "spreadsheet__gallery-bookmark-button";
+          bookmarkButton.dataset.bookmarkId = metadata.pageId;
+          bookmarkButton.dataset.bookTitle = name;
+          bookmarkButton.innerHTML = `
+            <svg aria-hidden="true" viewBox="0 0 24 24">
+              <path d="M7 4.5h10v15l-5-3-5 3v-15Z"></path>
+            </svg>
+          `;
+          bookmarkButton.addEventListener("click", () => {
+            if (bookmarkedPageIds.has(metadata.pageId)) bookmarkedPageIds.delete(metadata.pageId);
+            else bookmarkedPageIds.add(metadata.pageId);
+            saveBookmarkedDatabaseIds(bookmarksStorageKey, bookmarkedPageIds);
+            if (bookmarksOnly) renderRows();
+            else renderBookmarkControls();
+          });
+          card.append(bookmarkButton);
+        }
+
+        const previewButton = document.createElement("button");
+        previewButton.type = "button";
+        previewButton.className = "spreadsheet__gallery-preview-button";
+        previewButton.dataset.folksPreviewId = metadata.pageId;
+        previewButton.setAttribute("aria-label", `Open ${name} in the page preview panel`);
+        previewButton.setAttribute("aria-pressed", "false");
+        previewButton.title = "Open page preview";
+        previewButton.innerHTML = `
+          <svg aria-hidden="true" viewBox="0 0 24 24">
+            <path d="M4.5 5h15v14h-15z"></path>
+            <path d="M14 5v14"></path>
+            <path d="m8.5 9 3 3-3 3"></path>
+          </svg>
+        `;
+        previewButton.addEventListener("click", () => {
+          openFolksPreview(metadata.pageId, name);
+        });
+        card.append(previewButton);
+      }
       gallery.append(card);
     });
   }
 
   function renderEmpty() {
-    const message = selectedLists.size
-      ? "No folks match the selected list filters."
-      : searchQuery.trim()
-        ? `No folks match "${searchQuery.trim()}".`
-        : "No folks to show.";
+    const message = bookmarksEnabled && bookmarksOnly
+      ? bookmarkedPageIds.size === 0
+        ? "No bookmarked video or audio yet."
+        : "No bookmarked video or audio matches the current filters."
+      : selectedLists.size
+        ? `No ${label.toLowerCase()} match the selected categories.`
+        : searchQuery.trim()
+          ? `No ${label.toLowerCase()} match "${searchQuery.trim()}".`
+          : `No ${label.toLowerCase()} yet.`;
     if (layoutMode === "gallery") {
       const empty = document.createElement("p");
       empty.className = "spreadsheet__empty";
@@ -2526,6 +2877,14 @@ async function renderFolksDatabaseSpreadsheet() {
   }
 
   function renderRows() {
+    const activeRoute = currentHashRoute();
+    const expectedPageId = config?.pageId ?? FOLKS_DATABASE_PAGE_ID;
+    if (resolvePageSummary()?.id === expectedPageId) {
+      activeRoute.searchParams.delete(filterParam);
+      for (const key of selectedLists) activeRoute.searchParams.append(filterParam, availableListLabels.get(key));
+      const query = activeRoute.searchParams.toString();
+      window.history.replaceState(null, "", `${routeForPage(expectedPageId)}${query ? `?${query}` : ""}`);
+    }
     const orderedRows = currentRows();
     const totalPages = Math.max(1, Math.ceil(orderedRows.length / FOLKS_DATABASE_PAGE_SIZE));
     if (currentPage >= totalPages) currentPage = totalPages - 1;
@@ -2534,6 +2893,7 @@ async function renderFolksDatabaseSpreadsheet() {
     const start = currentPage * FOLKS_DATABASE_PAGE_SIZE;
     const visibleRows = orderedRows.slice(start, start + FOLKS_DATABASE_PAGE_SIZE);
     renderViewToggle();
+    renderEditToggle();
     renderFilterControls();
     renderSortControls();
     renderSearchControls();
@@ -2544,10 +2904,76 @@ async function renderFolksDatabaseSpreadsheet() {
     if (layoutMode === "gallery") renderGalleryRows(visibleRows);
     else renderListRows(visibleRows);
     if (visibleRows.length === 0) renderEmpty();
+    renderBookmarkControls();
+
+    if (pendingFocus) {
+      const nextFocus = pendingFocus;
+      pendingFocus = null;
+      requestAnimationFrame(() => {
+        focusSpreadsheetCell(tbody, nextFocus.rowIndex, nextFocus.columnIndex);
+      });
+    }
   }
+
+  tbody.addEventListener("input", (event) => {
+    if (!editMode) return;
+    const cell = event.target.closest("[contenteditable='true']");
+    if (!cell) return;
+    const rowIndex = Number(cell.dataset.row);
+    const columnIndex = Number(cell.dataset.column);
+    if (!Number.isInteger(rowIndex) || !Number.isInteger(columnIndex)) return;
+
+    rows[rowIndex][columnIndex] = cell.textContent ?? "";
+    if (columnIndex === listColumnIndex) {
+      rowListKeys[rowIndex] = new Set(
+        String(rows[rowIndex][columnIndex] ?? "")
+          .split(",")
+          .map(normalizeSpreadsheetTagKey)
+          .filter(Boolean),
+      );
+    }
+    if (columnIndex === nameColumnIndex) {
+      rowSearchFields[rowIndex][0] = normalizeSearchText(rows[rowIndex][columnIndex]);
+    } else if (columnIndex === listColumnIndex) {
+      rowSearchFields[rowIndex][1] = normalizeSearchText(rows[rowIndex][columnIndex]);
+    }
+    rowSearchFields[rowIndex] = rows[rowIndex].map(normalizeSearchText);
+    saveDatabaseRows(storageKey, rows, columns, sourceRows, rowMeta);
+  });
+
+  tbody.addEventListener("keydown", (event) => {
+    if (!editMode) return;
+    const cell = event.target.closest("[contenteditable='true']");
+    if (!cell || event.key !== "Enter") return;
+    event.preventDefault();
+    const rowIndex = Number(cell.dataset.row);
+    const columnIndex = Number(cell.dataset.column);
+    if (!Number.isInteger(rowIndex) || !Number.isInteger(columnIndex)) return;
+    const orderedRows = currentRows();
+    const orderedIndex = orderedRows.indexOf(rows[rowIndex]);
+    const nextOrderedIndex = Math.min(orderedIndex + 1, orderedRows.length - 1);
+    const nextRowIndex = rows.indexOf(orderedRows[nextOrderedIndex]);
+    currentPage = Math.floor(nextOrderedIndex / FOLKS_DATABASE_PAGE_SIZE);
+    pendingFocus = { rowIndex: nextRowIndex, columnIndex };
+    renderRows();
+  });
+
+  editToggle.addEventListener("click", () => {
+    editMode = !editMode;
+    renderRows();
+  });
 
   viewToggle.addEventListener("click", () => {
     layoutMode = layoutMode === "gallery" ? "spreadsheet" : "gallery";
+    if (layoutMode === "gallery") editMode = false;
+    pendingFocus = null;
+    renderRows();
+  });
+
+  bookmarkFilterToggle.addEventListener("click", () => {
+    if (!bookmarksEnabled) return;
+    bookmarksOnly = !bookmarksOnly;
+    currentPage = 0;
     renderRows();
   });
 
@@ -2601,7 +3027,13 @@ async function renderFolksDatabaseSpreadsheet() {
   toolbar.append(toolbarModes, topPagination, searchControls);
   stage.append(scroll, gallery, bottomPagination);
   workspace.append(filterPanel, stage);
-  section.append(toolbar, workspace);
+  section.append(toolbar, workspace, editToggle);
+  if (config?.key === "video-audio") {
+    const seeAlso = document.createElement("p");
+    seeAlso.className = "database__see-also";
+    seeAlso.innerHTML = '<em>see also:</em> <a href="#/edits-and-clips">Edits &amp; Clips</a>';
+    section.append(seeAlso);
+  }
 
   spreadsheetViewportAbortController?.abort();
   spreadsheetViewportAbortController = new AbortController();
@@ -2624,7 +3056,9 @@ async function renderFolksDatabaseSpreadsheet() {
 }
 
 async function renderShortformDatabaseSpreadsheet() {
-  const { columns, rows, rowMeta, types, themes } = await loadShortformDatabasePayload();
+  const { columns, rows: sourceRows, rowMeta, types, themes } =
+    await loadShortformDatabasePayload();
+  const rows = loadDatabaseRows(SHORTFORM_DATABASE_STORAGE_KEY, sourceRows, columns);
   const titleColumnIndex = Math.max(0, columns.indexOf("Title"));
   const creatorColumnIndex = Math.max(0, columns.indexOf("Creator(s)"));
   const typeColumnIndex = Math.max(0, columns.indexOf("Type"));
@@ -2644,6 +3078,8 @@ async function renderShortformDatabaseSpreadsheet() {
   } catch {}
 
   let currentPage = Number.isInteger(savedState.currentPage) ? savedState.currentPage : 0;
+  let editMode = Boolean(savedState.editMode);
+  let pendingFocus = null;
   let layoutMode = savedState.layoutMode
     ? normalizeSpreadsheetLayoutMode(savedState.layoutMode)
     : "gallery";
@@ -2746,6 +3182,17 @@ async function renderShortformDatabaseSpreadsheet() {
     </svg>
   `;
   toolbarModes.append(filterToggle, viewToggle, bookmarkFilterToggle);
+
+  const editToggle = document.createElement("button");
+  editToggle.type = "button";
+  editToggle.className = "spreadsheet__action-toggle spreadsheet__edit-toggle";
+  editToggle.setAttribute("aria-pressed", "false");
+  editToggle.innerHTML = `
+    <svg aria-hidden="true" viewBox="0 0 24 24">
+      <path d="M4 20h4.4L19.2 9.2a2.1 2.1 0 0 0 0-3L17.8 4.8a2.1 2.1 0 0 0-3 0L4 15.6V20Z"></path>
+      <path d="m13.5 6.1 4.4 4.4"></path>
+    </svg>
+  `;
 
   const topPagination = document.createElement("nav");
   topPagination.className = "spreadsheet__pagination";
@@ -2924,6 +3371,7 @@ async function renderShortformDatabaseSpreadsheet() {
         SHORTFORM_DATABASE_VIEW_STORAGE_KEY,
         JSON.stringify({
           currentPage,
+          editMode,
           layoutMode,
           filtersOpen,
           sortState,
@@ -3134,6 +3582,17 @@ async function renderShortformDatabaseSpreadsheet() {
       : `<svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 5h5v5H5z"></path><path d="M14 5h5v5h-5z"></path><path d="M5 14h5v5H5z"></path><path d="M14 14h5v5h-5z"></path></svg>`;
   }
 
+  function renderEditToggle() {
+    section.classList.toggle("is-editing", editMode);
+    editToggle.classList.toggle("is-active", editMode);
+    editToggle.setAttribute("aria-pressed", editMode ? "true" : "false");
+    editToggle.setAttribute(
+      "aria-label",
+      editMode ? "Disable list editing" : "Enable list editing",
+    );
+    editToggle.title = editMode ? "Exit edit mode" : "Edit list";
+  }
+
   let filterResizeFrame = null;
   function sizeFiltersToViewport() {
     if (filterResizeFrame !== null) cancelAnimationFrame(filterResizeFrame);
@@ -3311,7 +3770,12 @@ async function renderShortformDatabaseSpreadsheet() {
       tr.append(visualCell);
       row.forEach((value, columnIndex) => {
         const td = document.createElement("td");
-        if (columnIndex === titleColumnIndex && metadata.href) {
+        td.contentEditable = editMode ? "true" : "false";
+        td.spellcheck = false;
+        td.dataset.row = String(rowIndex);
+        td.dataset.column = String(columnIndex);
+        td.dataset.placeholder = " ";
+        if (!editMode && columnIndex === titleColumnIndex && metadata.href) {
           const link = document.createElement("a");
           link.className = "spreadsheet__title-link";
           link.href = metadata.href;
@@ -3448,6 +3912,7 @@ async function renderShortformDatabaseSpreadsheet() {
     const start = currentPage * SHORTFORM_DATABASE_PAGE_SIZE;
     const visibleRows = orderedRows.slice(start, start + SHORTFORM_DATABASE_PAGE_SIZE);
     renderViewToggle();
+    renderEditToggle();
     renderFilterControls();
     renderSortControls();
     renderSearchControls();
@@ -3460,10 +3925,71 @@ async function renderShortformDatabaseSpreadsheet() {
     if (visibleRows.length === 0) renderEmpty();
     renderBookmarkControls();
     syncShortformPreviewButtons();
+
+    if (pendingFocus) {
+      const nextFocus = pendingFocus;
+      pendingFocus = null;
+      requestAnimationFrame(() => {
+        focusSpreadsheetCell(tbody, nextFocus.rowIndex, nextFocus.columnIndex);
+      });
+    }
   }
+
+  tbody.addEventListener("input", (event) => {
+    if (!editMode) return;
+    const cell = event.target.closest("[contenteditable='true']");
+    if (!cell) return;
+    const rowIndex = Number(cell.dataset.row);
+    const columnIndex = Number(cell.dataset.column);
+    if (!Number.isInteger(rowIndex) || !Number.isInteger(columnIndex)) return;
+
+    rows[rowIndex][columnIndex] = cell.textContent ?? "";
+    if (columnIndex === typeColumnIndex) {
+      rowTypeKeys[rowIndex] = fieldKeys(rows[rowIndex], typeColumnIndex);
+    }
+    if (columnIndex === themeColumnIndex) {
+      rowThemeKeys[rowIndex] = fieldKeys(rows[rowIndex], themeColumnIndex);
+    }
+    const searchFieldIndex = [
+      titleColumnIndex,
+      creatorColumnIndex,
+      typeColumnIndex,
+      themeColumnIndex,
+    ].indexOf(columnIndex);
+    if (searchFieldIndex >= 0) {
+      rowSearchFields[rowIndex][searchFieldIndex] = normalizeSearchText(
+        rows[rowIndex][columnIndex],
+      );
+    }
+    saveDatabaseRows(SHORTFORM_DATABASE_STORAGE_KEY, rows, columns, sourceRows, rowMeta);
+  });
+
+  tbody.addEventListener("keydown", (event) => {
+    if (!editMode) return;
+    const cell = event.target.closest("[contenteditable='true']");
+    if (!cell || event.key !== "Enter") return;
+    event.preventDefault();
+    const rowIndex = Number(cell.dataset.row);
+    const columnIndex = Number(cell.dataset.column);
+    if (!Number.isInteger(rowIndex) || !Number.isInteger(columnIndex)) return;
+    const orderedRows = currentRows();
+    const orderedIndex = orderedRows.indexOf(rows[rowIndex]);
+    const nextOrderedIndex = Math.min(orderedIndex + 1, orderedRows.length - 1);
+    const nextRowIndex = rows.indexOf(orderedRows[nextOrderedIndex]);
+    currentPage = Math.floor(nextOrderedIndex / SHORTFORM_DATABASE_PAGE_SIZE);
+    pendingFocus = { rowIndex: nextRowIndex, columnIndex };
+    renderRows();
+  });
+
+  editToggle.addEventListener("click", () => {
+    editMode = !editMode;
+    renderRows();
+  });
 
   viewToggle.addEventListener("click", () => {
     layoutMode = layoutMode === "gallery" ? "spreadsheet" : "gallery";
+    if (layoutMode === "gallery") editMode = false;
+    pendingFocus = null;
     renderRows();
   });
   filterToggle.addEventListener("click", () => {
@@ -3519,7 +4045,7 @@ async function renderShortformDatabaseSpreadsheet() {
   toolbar.append(toolbarModes, topPagination, searchControls);
   stage.append(scroll, gallery, bottomPagination);
   workspace.append(filterPanel, stage);
-  section.append(toolbar, workspace);
+  section.append(toolbar, workspace, editToggle);
   spreadsheetViewportAbortController?.abort();
   spreadsheetViewportAbortController = new AbortController();
   updateSpreadsheetFilterViewport = sizeFiltersToViewport;
@@ -4058,6 +4584,69 @@ function renderDatabaseGallery(collection, view, rows) {
   return wrapper;
 }
 
+function quoteDatabaseText(value) {
+  return String(value ?? "").replaceAll("~", "").trim();
+}
+
+function renderQuotesDatabase(collection, rows) {
+  const wrapper = document.createElement("div");
+  wrapper.className = "quotes-database";
+  wrapper.setAttribute("role", "list");
+  wrapper.setAttribute("aria-label", "Quotes");
+
+  if (rows.length === 0) {
+    wrapper.innerHTML = '<p class="database__empty">No quotes matched this view.</p>';
+    return wrapper;
+  }
+
+  const byProperty = Object.values(collection.schema ?? {}).find(
+    (property) => property.name?.toLocaleLowerCase() === "by",
+  );
+  const fromProperty = Object.values(collection.schema ?? {}).find(
+    (property) => property.name?.toLocaleLowerCase() === "from",
+  );
+
+  rows.forEach((page) => {
+    const card = document.createElement("article");
+    card.className = "quotes-database__card";
+    card.setAttribute("role", "listitem");
+
+    const quote = document.createElement("blockquote");
+    quote.className = "quotes-database__quote";
+    quote.textContent = quoteDatabaseText(page.title);
+    card.append(quote);
+
+    const byline = quoteDatabaseText(
+      plainText(page.properties?.[byProperty?.id]),
+    );
+    const source = quoteDatabaseText(
+      plainText(page.properties?.[fromProperty?.id]),
+    );
+
+    if (byline || source) {
+      const footer = document.createElement("footer");
+      footer.className = "quotes-database__meta";
+      if (byline) {
+        const author = document.createElement("span");
+        author.className = "quotes-database__author";
+        author.textContent = `— ${byline}`;
+        footer.append(author);
+      }
+      if (source) {
+        const sourceLine = document.createElement("cite");
+        sourceLine.className = "quotes-database__source";
+        sourceLine.textContent = source;
+        footer.append(sourceLine);
+      }
+      card.append(footer);
+    }
+
+    wrapper.append(card);
+  });
+
+  return wrapper;
+}
+
 function renderDatabaseList(collection, view, rows) {
   const properties = visibleViewProperties(view, collection, rows);
   const wrapper = document.createElement("div");
@@ -4189,6 +4778,10 @@ function renderDatabasePageView(view) {
 }
 
 function renderCollectionViewBody(collection, view, rows) {
+  if (collection?.name?.toLocaleLowerCase() === "quotes") {
+    return renderQuotesDatabase(collection, rows);
+  }
+
   switch (view?.type) {
     case "gallery":
       return renderDatabaseGallery(collection, view, rows);
@@ -4213,6 +4806,9 @@ async function hydrateCollectionView(section, block) {
   try {
     const collection = await loadCollection(block.collectionId);
     if (!section.isConnected || !collection) return;
+
+    const isQuotesDatabase = collection.name?.toLocaleLowerCase() === "quotes";
+    section.classList.toggle("block--quotes-database", isQuotesDatabase);
 
     const availableViews =
       (block.viewIds ?? []).length > 0
@@ -4274,7 +4870,7 @@ async function hydrateCollectionView(section, block) {
 
     section.innerHTML = "";
     section.append(header);
-    if (views.length > 1) section.append(viewSwitcher);
+    if (views.length > 1 && !isQuotesDatabase) section.append(viewSwitcher);
     section.append(body);
     renderActiveView();
   } catch (error) {
@@ -4372,6 +4968,26 @@ function renderHeroMarkup(page, fallbackTitle = "Untitled page") {
   `;
 }
 
+function renderCatalogMetadata(page, target) {
+  if (!page.catalog && !page.peopleCategory) return;
+  const metadata = document.createElement("nav");
+  metadata.className = "catalog-page__categories";
+  metadata.setAttribute("aria-label", "Item categories");
+  const databaseId = page.catalog?.databaseId ?? FOLKS_DATABASE_PAGE_ID;
+  const categories = page.catalog?.categories ?? [page.peopleCategory];
+  for (const category of categories) {
+    const link = document.createElement("a");
+    link.href = `${routeForPage(databaseId)}?${page.catalog ? "category" : "list"}=${encodeURIComponent(category)}`;
+    link.textContent = category;
+    metadata.append(link);
+  }
+  for (const tag of page.catalog?.tags ?? []) {
+    if (categories.includes(tag)) continue;
+    const span = document.createElement("span"); span.textContent = tag; metadata.append(span);
+  }
+  target.append(metadata);
+}
+
 function renderHero(page) {
   hero.innerHTML = renderHeroMarkup(page);
 }
@@ -4404,9 +5020,22 @@ function syncShortformPreviewButtons() {
   });
 }
 
+function syncFolksPreviewButtons() {
+  const previewOpen = document.body.classList.contains("book-preview-open");
+
+  document.querySelectorAll("[data-folks-preview-id]").forEach((button) => {
+    const isActive =
+      previewOpen && button.dataset.folksPreviewId === activeFolksPreviewPageId;
+    button.classList.toggle("is-active", isActive);
+    button.setAttribute("aria-pressed", isActive ? "true" : "false");
+    button.title = isActive ? "Close page preview" : "Open page preview";
+  });
+}
+
 function closeBookPreview() {
   activeBookPreviewPageId = null;
   activeShortformPreviewPageId = null;
+  activeFolksPreviewPageId = null;
   bookPreviewRenderVersion += 1;
   document.body.classList.remove("book-preview-open");
   bookPreviewPanel.setAttribute("aria-hidden", "true");
@@ -4416,6 +5045,7 @@ function closeBookPreview() {
   bookPreviewContent.classList.add("page__content--book");
   syncBookPreviewButtons();
   syncShortformPreviewButtons();
+  syncFolksPreviewButtons();
   updateSpreadsheetFilterViewport?.();
 }
 
@@ -4432,6 +5062,7 @@ async function openBookPreview(pageId, fallbackTitle = "Untitled book") {
 
   activeBookPreviewPageId = pageId;
   activeShortformPreviewPageId = null;
+  activeFolksPreviewPageId = null;
   const version = ++bookPreviewRenderVersion;
   const fallbackSummary = pageIndexMap.get(pageId) ?? {
     id: pageId,
@@ -4448,6 +5079,7 @@ async function openBookPreview(pageId, fallbackTitle = "Untitled book") {
   bookPreviewPanel.scrollTop = 0;
   syncBookPreviewButtons();
   syncShortformPreviewButtons();
+  syncFolksPreviewButtons();
   updateSpreadsheetFilterViewport?.();
 
   try {
@@ -4523,6 +5155,7 @@ async function openShortformPreview(pageId, fallbackTitle = "Untitled text") {
 
   activeBookPreviewPageId = null;
   activeShortformPreviewPageId = pageId;
+  activeFolksPreviewPageId = null;
   const version = ++bookPreviewRenderVersion;
   const fallbackSummary = pageIndexMap.get(pageId) ?? { id: pageId, title: fallbackTitle };
 
@@ -4536,6 +5169,7 @@ async function openShortformPreview(pageId, fallbackTitle = "Untitled text") {
   bookPreviewPanel.scrollTop = 0;
   syncBookPreviewButtons();
   syncShortformPreviewButtons();
+  syncFolksPreviewButtons();
   updateSpreadsheetFilterViewport?.();
 
   try {
@@ -4545,6 +5179,53 @@ async function openShortformPreview(pageId, fallbackTitle = "Untitled text") {
     bookPreviewHero.innerHTML = renderHeroMarkup(page, fallbackTitle);
     bookPreviewContent.innerHTML = "";
     renderShortformTextPage(page, pageSummary, bookPreviewContent);
+  } catch (error) {
+    if (version !== bookPreviewRenderVersion) return;
+    bookPreviewContent.innerHTML = `<p class="database__empty">${escapeHtml(error.message)}</p>`;
+  }
+}
+
+async function openFolksPreview(pageId, fallbackTitle = "Untitled page") {
+  if (!pageId) return;
+
+  if (
+    activeFolksPreviewPageId === pageId &&
+    document.body.classList.contains("book-preview-open")
+  ) {
+    closeBookPreview();
+    return;
+  }
+
+  activeBookPreviewPageId = null;
+  activeShortformPreviewPageId = null;
+  activeFolksPreviewPageId = pageId;
+  const version = ++bookPreviewRenderVersion;
+  const fallbackSummary = pageIndexMap.get(pageId) ?? { id: pageId, title: fallbackTitle };
+
+  document.body.classList.add("book-preview-open");
+  bookPreviewPanel.setAttribute("aria-label", "Page preview");
+  bookPreviewPanel.setAttribute("aria-hidden", "false");
+  bookPreviewContent.classList.remove(
+    "page__content--book",
+    "page__content--shortform-text",
+  );
+  bookPreviewHero.innerHTML = renderHeroMarkup(fallbackSummary, fallbackTitle);
+  bookPreviewContent.innerHTML = '<p class="database__empty">Loading page…</p>';
+  bookPreviewPanel.scrollTop = 0;
+  syncBookPreviewButtons();
+  syncShortformPreviewButtons();
+  syncFolksPreviewButtons();
+  updateSpreadsheetFilterViewport?.();
+
+  try {
+    const page = await loadPage(pageId);
+    if (version !== bookPreviewRenderVersion) return;
+    const pageSummary = pageIndexMap.get(page.id) ?? fallbackSummary;
+    bookPreviewHero.innerHTML = renderHeroMarkup(page, fallbackTitle);
+    bookPreviewContent.innerHTML = "";
+    renderCatalogMetadata(page, bookPreviewContent);
+    bookPreviewContent.append(renderChildren(page.blocks));
+    populateTableOfContents(pageSummary, bookPreviewContent);
   } catch (error) {
     if (version !== bookPreviewRenderVersion) return;
     bookPreviewContent.innerHTML = `<p class="database__empty">${escapeHtml(error.message)}</p>`;
@@ -4933,7 +5614,39 @@ function renderBlock(block) {
       return figure;
     }
     case "video":
-    case "embed":
+    case "embed": {
+      if (!block.src) return null;
+      if (/^https:\/\/(?:www\.)?youtube(?:-nocookie)?\.com\/embed\//i.test(block.src)) {
+        const figure = document.createElement("figure");
+        figure.className = "block block--video-embed";
+        const iframe = document.createElement("iframe");
+        iframe.className = "block__video-frame";
+        iframe.src = block.src;
+        iframe.title = block.title || "Embedded video";
+        iframe.loading = "lazy";
+        iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+        iframe.referrerPolicy = "strict-origin-when-cross-origin";
+        iframe.allowFullscreen = true;
+        figure.append(iframe);
+        if (block.caption) {
+          const caption = document.createElement("figcaption");
+          caption.innerHTML = localizeHtmlLinks(block.caption);
+          figure.append(caption);
+        }
+        return figure;
+      }
+      const link = document.createElement("a");
+      link.className = "block block--embed";
+      link.href = block.src;
+      link.target = "_blank";
+      link.rel = "noreferrer";
+      link.innerHTML = `
+        <span class="embed__label">${escapeHtml(block.title || block.type)}</span>
+        <span class="embed__url">${escapeHtml(block.src)}</span>
+        ${block.caption ? `<span class="embed__caption">${localizeHtmlLinks(block.caption)}</span>` : ""}
+      `;
+      return link;
+    }
     case "bookmark": {
       if (!block.src) return null;
       const link = document.createElement("a");
@@ -5056,7 +5769,16 @@ function populateTableOfContents(pageSummary, target = content) {
   }
 }
 
-async function renderCurrentRoute() {
+async function renderCurrentRoute(scrollMode = pendingRouteScrollMode ?? "new") {
+  pendingRouteScrollMode = null;
+  if (scrollMode === "new") {
+    beginFreshScrollEntry();
+    window.scrollTo({ left: 0, top: 0, behavior: "instant" });
+  } else {
+    currentScrollEntryId();
+  }
+  const catalogRedirect = CATALOG_ROUTES.get(currentHashRoute().path);
+  if (catalogRedirect) window.history.replaceState(null, "", `#/${catalogRedirect}`);
   let summary = resolvePageSummary();
   const route = currentHashRoute();
   if (
@@ -5110,8 +5832,12 @@ async function renderCurrentRoute() {
     content.innerHTML = "";
     content.classList.toggle("page__content--book", bookPage);
     content.classList.toggle("page__content--shortform-text", shortformTextPage);
-    if (isFullTextDatabasePage(page)) {
+    if (isHomePage(page)) {
+      disposeHome = renderHome({ content, siteIndex, escapeHtml });
+    } else if (isFullTextDatabasePage(page)) {
       content.append(await renderFullTextDatabaseSpreadsheet());
+    } else if (CATALOG_DATABASES.has(page.id)) {
+      content.append(await renderFolksDatabaseSpreadsheet({ ...CATALOG_DATABASES.get(page.id), pageId: page.id }));
     } else if (isFolksDatabasePage(page)) {
       content.append(await renderFolksDatabaseSpreadsheet());
     } else if (isShortformDatabasePage(page)) {
@@ -5121,14 +5847,17 @@ async function renderCurrentRoute() {
     } else if (shortformTextPage) {
       renderShortformTextPage(page, summary);
     } else {
+      renderCatalogMetadata(page, content);
       content.append(renderChildren(page.blocks));
       populateTableOfContents(summary);
     }
+    applyRouteScroll(scrollMode, version);
   } catch (error) {
     if (version !== renderVersion) return;
     hero.innerHTML = renderHeroMarkup(summary ?? {}, "Unavailable page");
     content.classList.remove("page__content--book");
     content.innerHTML = `<p class="database__empty">${escapeHtml(error.message)}</p>`;
+    applyRouteScroll(scrollMode, version);
   }
 }
 
@@ -5158,8 +5887,8 @@ window.addEventListener("keydown", (event) => {
 });
 
 window.addEventListener("hashchange", () => {
-  renderCurrentRoute();
+  renderCurrentRoute(pendingRouteScrollMode ?? "new");
   sidebar.classList.remove("is-open");
 });
 
-renderCurrentRoute();
+renderCurrentRoute("restore");

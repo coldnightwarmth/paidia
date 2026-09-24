@@ -1,0 +1,75 @@
+{
+  "id": "media-d64261bb74a08716ad86",
+  "slug": "media-the-first-video-game",
+  "title": "The First Video Game",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=uHQ4WCU1WQc",
+  "previewImage": "https://i.ytimg.com/vi/uHQ4WCU1WQc/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The First Video Game"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Ahoy"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=uHQ4WCU1WQc"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-d64261bb74a08716ad86-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCE1jXbVAGJQEORz9nZqb5bQ\" target=\"_blank\" rel=\"noreferrer\">Ahoy</a></em>"
+    },
+    {
+      "id": "media-d64261bb74a08716ad86-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/uHQ4WCU1WQc?start=2&feature=oembed&start=2",
+      "title": "The First Video Game",
+      "caption": ""
+    },
+    {
+      "id": "media-d64261bb74a08716ad86-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=uHQ4WCU1WQc\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

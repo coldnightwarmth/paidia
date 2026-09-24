@@ -2,7 +2,7 @@
   "id": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
   "slug": "games-549e6748",
   "title": "Games",
-  "icon": "🎲",
+  "icon": "./assets/home/videogames.png",
   "cover": "./assets/images/a-group-of-tibetan-herders-play-billiards-on-the-pasture-nea-40ba1b0def06.webp",
   "type": "page",
   "parentId": "9510bf90-3ac9-4424-974b-7424f3b33683",
@@ -90,5 +90,7 @@
         }
       ]
     }
-  ]
+  ],
+  "catalogDatabase": "games",
+  "parentPageId": "dcdce636-0430-48ea-98c8-b0c6e48368c3"
 }

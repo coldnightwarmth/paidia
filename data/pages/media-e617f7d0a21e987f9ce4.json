@@ -1,0 +1,75 @@
+{
+  "id": "media-e617f7d0a21e987f9ce4",
+  "slug": "media-super-mario-world-arbitrary-code-injection-at-agdq-2014",
+  "title": "Super Mario World: Arbitrary Code Injection At AGDQ 2014",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=jnZ2NNYySuE",
+  "previewImage": "https://i.ytimg.com/vi/jnZ2NNYySuE/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Super Mario World: Arbitrary Code Injection At AGDQ 2014"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Games Done Quick"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=jnZ2NNYySuE"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-e617f7d0a21e987f9ce4-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCI3DTtB-a3fJPjKtQ5kYHfA\" target=\"_blank\" rel=\"noreferrer\">Games Done Quick</a></em>"
+    },
+    {
+      "id": "media-e617f7d0a21e987f9ce4-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/jnZ2NNYySuE?feature=oembed",
+      "title": "Super Mario World: Arbitrary Code Injection At AGDQ 2014",
+      "caption": ""
+    },
+    {
+      "id": "media-e617f7d0a21e987f9ce4-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=jnZ2NNYySuE\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

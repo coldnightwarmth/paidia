@@ -1,0 +1,39 @@
+{
+  "id": "catalog-fcd06aa85b35c90adc7c",
+  "slug": "other-media-alien",
+  "title": "Alien",
+  "type": "page",
+  "icon": "./assets/home/media.png",
+  "parentId": "7070e92d-6389-4c6c-88f2-0b38bc3d8e3a",
+  "parentPageId": "7070e92d-6389-4c6c-88f2-0b38bc3d8e3a",
+  "properties": {
+    "title": [
+      [
+        "Alien"
+      ]
+    ],
+    "Category": [
+      [
+        "Films & TV"
+      ]
+    ],
+    "Tags": [
+      [
+        "Films & TV, Feature Film"
+      ]
+    ]
+  },
+  "blocks": [],
+  "catalogSourcePageId": "d3f43526-12ca-4bd6-992f-54a446745d82",
+  "catalog": {
+    "databaseId": "7070e92d-6389-4c6c-88f2-0b38bc3d8e3a",
+    "database": "other-media",
+    "categories": [
+      "Films & TV"
+    ],
+    "tags": [
+      "Films & TV",
+      "Feature Film"
+    ]
+  }
+}

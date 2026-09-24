@@ -1,0 +1,76 @@
+{
+  "id": "media-9729c323272ac401eb30",
+  "slug": "media-alphago-neo-confucianism-asian-philosophies",
+  "title": "AlphaGo & Neo-Confucianism -- Asian Philosophies",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=JaDVwqFz4tI",
+  "previewImage": "https://i.ytimg.com/vi/JaDVwqFz4tI/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "AlphaGo & Neo-Confucianism -- Asian Philosophies"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "52 Living Ideas"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=JaDVwqFz4tI"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-9729c323272ac401eb30-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCrlHpQRAmPFuuoAtG8qi6rQ\" target=\"_blank\" rel=\"noreferrer\">52 Living Ideas</a></em>"
+    },
+    {
+      "id": "media-9729c323272ac401eb30-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/JaDVwqFz4tI?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "AlphaGo & Neo-Confucianism -- Asian Philosophies",
+      "caption": ""
+    },
+    {
+      "id": "media-9729c323272ac401eb30-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=JaDVwqFz4tI\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

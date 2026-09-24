@@ -1,0 +1,78 @@
+{
+  "id": "media-8d49f1d81a710a109226",
+  "slug": "media-the-ludic-century-a-debate",
+  "title": "The Ludic Century: A Debate",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=VTZvak1lea4",
+  "previewImage": "https://i.ytimg.com/vi/VTZvak1lea4/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Ludic Century: A Debate"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "NYU Game Center"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures, Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Podcasts & Interviews, Selected, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=VTZvak1lea4"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures",
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Lectures",
+      "Podcasts & Interviews",
+      "Selected",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-8d49f1d81a710a109226-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC1W7wuvErj9Q9Lu3kTju-RQ\" target=\"_blank\" rel=\"noreferrer\">NYU Game Center</a></em>"
+    },
+    {
+      "id": "media-8d49f1d81a710a109226-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/VTZvak1lea4?feature=oembed",
+      "title": "The Ludic Century: A Debate",
+      "caption": ""
+    },
+    {
+      "id": "media-8d49f1d81a710a109226-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=VTZvak1lea4\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

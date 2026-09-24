@@ -1,0 +1,75 @@
+{
+  "id": "media-ed1cfe9c267bf5dabb41",
+  "slug": "media-2d-fighters-and-the-rough-transition-to-3d",
+  "title": "2D Fighters and the Rough Transition to 3D",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=gUC8uPzdHD4",
+  "previewImage": "https://i.ytimg.com/vi/gUC8uPzdHD4/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "2D Fighters and the Rough Transition to 3D"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "KBash"
+      ]
+    ],
+    "Category": [
+      [
+        "Fighting Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Fighting Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=gUC8uPzdHD4"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Fighting Games"
+    ],
+    "tags": [
+      "Fighting Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-ed1cfe9c267bf5dabb41-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCyZzcp3npuE3seKhIGBVyBQ\" target=\"_blank\" rel=\"noreferrer\">KBash</a></em>"
+    },
+    {
+      "id": "media-ed1cfe9c267bf5dabb41-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/gUC8uPzdHD4?start=1174&feature=oembed&start=1174",
+      "title": "2D Fighters and the Rough Transition to 3D",
+      "caption": ""
+    },
+    {
+      "id": "media-ed1cfe9c267bf5dabb41-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=gUC8uPzdHD4\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

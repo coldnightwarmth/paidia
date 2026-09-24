@@ -1,0 +1,69 @@
+{
+  "id": "media-4b869335162f282c8eb6",
+  "slug": "media-computer-history-museum",
+  "title": "Computer History Museum",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Computer History Museum"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Computer History Museum"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Lectures, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Lectures",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-4b869335162f282c8eb6-creator",
+      "type": "paragraph",
+      "html": "<em>by Computer History Museum</em>"
+    },
+    {
+      "id": "media-4b869335162f282c8eb6-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "media-4bd163d02d540e0101e9",
+  "slug": "media-games-as-lit-musings-renaming-the-medium",
+  "title": "Games as Lit. Musings - Renaming the Medium",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=ah4kBeP1Cus",
+  "previewImage": "https://i.ytimg.com/vi/ah4kBeP1Cus/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Games as Lit. Musings - Renaming the Medium"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Games As Literature"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=ah4kBeP1Cus"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-4bd163d02d540e0101e9-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/GamesAsLiterature\" target=\"_blank\" rel=\"noreferrer\">Games As Literature</a></em>"
+    },
+    {
+      "id": "media-4bd163d02d540e0101e9-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/ah4kBeP1Cus?feature=oembed",
+      "title": "Games as Lit. Musings - Renaming the Medium",
+      "caption": ""
+    },
+    {
+      "id": "media-4bd163d02d540e0101e9-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=ah4kBeP1Cus\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

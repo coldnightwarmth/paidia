@@ -1,0 +1,74 @@
+{
+  "id": "media-626654358832b25db550",
+  "slug": "media-serious-play",
+  "title": "Serious Play",
+  "icon": "🎙️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://podcasts.apple.com/us/podcast/serious-play/id1604181697",
+  "previewImage": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/a3/0e/40/a30e403c-1355-0aed-c71d-d0175386c528/mza_7810492750658801209.jpg/1200x630wp.png",
+  "properties": {
+    "title": [
+      [
+        "Serious Play"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Serious Play"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Series, Podcast"
+      ]
+    ],
+    "Source": [
+      [
+        "https://podcasts.apple.com/us/podcast/serious-play/id1604181697"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Series",
+      "Podcast"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-626654358832b25db550-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://podcasts.apple.com/us/podcast/serious-play/id1604181697\" target=\"_blank\" rel=\"noreferrer\">Serious Play</a></em>"
+    },
+    {
+      "id": "media-626654358832b25db550-description",
+      "type": "paragraph",
+      "html": "A podcast about tabletop role-playing games and academic research. Part of 'Serious Play: Exploring Role-Playing Games as Practice-Led Research', a project by Oliver Thurley, Asa Roast, Liz Stainforth, and Dominic O'Key. Supported by the LAHRI Sadler series, University of Leeds, 2021-22."
+    },
+    {
+      "id": "media-626654358832b25db550-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://podcasts.apple.com/us/podcast/serious-play/id1604181697\" target=\"_blank\" rel=\"noreferrer\">Open original podcast</a>"
+    }
+  ]
+}

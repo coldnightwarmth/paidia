@@ -1,0 +1,76 @@
+{
+  "id": "media-683e77b9cef80dbcf0dd",
+  "slug": "media-aspirational-play-adding-a-sense-of-wonder-to-game-design-extra-credits",
+  "title": "Aspirational Play - Adding a Sense of Wonder to Game Design - Extra Credits",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=sCA5oAeAIq8",
+  "previewImage": "https://i.ytimg.com/vi/sCA5oAeAIq8/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Aspirational Play - Adding a Sense of Wonder to Game Design - Extra Credits"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Extra Credits"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Design, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=sCA5oAeAIq8"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Design",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-683e77b9cef80dbcf0dd-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg\" target=\"_blank\" rel=\"noreferrer\">Extra Credits</a></em>"
+    },
+    {
+      "id": "media-683e77b9cef80dbcf0dd-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/sCA5oAeAIq8?start=390&feature=oembed&start=390",
+      "title": "Aspirational Play - Adding a Sense of Wonder to Game Design - Extra Credits",
+      "caption": ""
+    },
+    {
+      "id": "media-683e77b9cef80dbcf0dd-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=sCA5oAeAIq8\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

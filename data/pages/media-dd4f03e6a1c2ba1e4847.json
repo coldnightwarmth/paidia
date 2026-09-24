@@ -1,0 +1,69 @@
+{
+  "id": "media-dd4f03e6a1c2ba1e4847",
+  "slug": "media-vsauce",
+  "title": "Vsauce",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/c/vsauce1",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Vsauce"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Vsauce"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Other, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/c/vsauce1"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Other",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-dd4f03e6a1c2ba1e4847-creator",
+      "type": "paragraph",
+      "html": "<em>by Vsauce</em>"
+    },
+    {
+      "id": "media-dd4f03e6a1c2ba1e4847-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/c/vsauce1\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

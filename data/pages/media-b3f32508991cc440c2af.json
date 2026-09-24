@@ -1,0 +1,76 @@
+{
+  "id": "media-b3f32508991cc440c2af",
+  "slug": "media-religion-in-the-legend-of-zelda-the-ultimate-guide",
+  "title": "Religion in the Legend of Zelda: The Ultimate Guide",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=xdRG0443jYE",
+  "previewImage": "https://i.ytimg.com/vi/xdRG0443jYE/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Religion in the Legend of Zelda: The Ultimate Guide"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "ReligionForBreakfast"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=xdRG0443jYE"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-b3f32508991cc440c2af-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCct9aR7HC79Cv2g-9oDOTLw\" target=\"_blank\" rel=\"noreferrer\">ReligionForBreakfast</a></em>"
+    },
+    {
+      "id": "media-b3f32508991cc440c2af-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/xdRG0443jYE?feature=oembed",
+      "title": "Religion in the Legend of Zelda: The Ultimate Guide",
+      "caption": ""
+    },
+    {
+      "id": "media-b3f32508991cc440c2af-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=xdRG0443jYE\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

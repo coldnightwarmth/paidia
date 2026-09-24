@@ -1,0 +1,75 @@
+{
+  "id": "media-de58a26af011b3262b82",
+  "slug": "media-the-forgotten-story-of-modulex-lego-s-lost-cousin",
+  "title": "The Forgotten Story of Modulex: LEGO's Lost Cousin",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=x7O-gL3WzSk",
+  "previewImage": "https://i.ytimg.com/vi/x7O-gL3WzSk/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Forgotten Story of Modulex: LEGO's Lost Cousin"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Peter Dibble"
+      ]
+    ],
+    "Category": [
+      [
+        "Toys"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Toys, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=x7O-gL3WzSk"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Toys"
+    ],
+    "tags": [
+      "Toys",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-de58a26af011b3262b82-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@peterdibble\" target=\"_blank\" rel=\"noreferrer\">Peter Dibble</a></em>"
+    },
+    {
+      "id": "media-de58a26af011b3262b82-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/x7O-gL3WzSk?rel=0",
+      "title": "The Forgotten Story of Modulex: LEGO's Lost Cousin",
+      "caption": ""
+    },
+    {
+      "id": "media-de58a26af011b3262b82-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=x7O-gL3WzSk\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-a01b013fb572bd39eae9",
+  "slug": "media-the-theology-of-play",
+  "title": "The Theology of Play",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=IBt7ngFu1cY",
+  "previewImage": "https://i.ytimg.com/vi/IBt7ngFu1cY/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Theology of Play"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Daligoddess"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=IBt7ngFu1cY"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-a01b013fb572bd39eae9-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/user/daligoddess2006\" target=\"_blank\" rel=\"noreferrer\">Daligoddess</a></em>"
+    },
+    {
+      "id": "media-a01b013fb572bd39eae9-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/IBt7ngFu1cY?feature=oembed",
+      "title": "The Theology of Play",
+      "caption": ""
+    },
+    {
+      "id": "media-a01b013fb572bd39eae9-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=IBt7ngFu1cY\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "media-b43a1ccb3c47d518bb40",
+  "slug": "media-everest-pipkin",
+  "title": "Everest Pipkin",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/channel/UCL7USnCn5i9SzgTRV3VzS6A",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Everest Pipkin"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Everest Pipkin"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Other, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/channel/UCL7USnCn5i9SzgTRV3VzS6A"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Other",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-b43a1ccb3c47d518bb40-creator",
+      "type": "paragraph",
+      "html": "<em>by Everest Pipkin</em>"
+    },
+    {
+      "id": "media-b43a1ccb3c47d518bb40-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/channel/UCL7USnCn5i9SzgTRV3VzS6A\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

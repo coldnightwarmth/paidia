@@ -22,29 +22,34 @@
       sizes="174x174"
       href="./assets/favicon.png?v=20260814-nesting-doll-proportional"
     />
-    <link rel="stylesheet" href="./src/styles.css?v=20260814-crisp-shortform-icons" />
+    <link rel="stylesheet" href="./src/styles.css?v=20260923-video-audio-bookmarks-v1" />
   </head>
   <body class="page--spreadsheet">
-    <div class="site-shell">
-      <aside class="sidebar" id="sidebar">
-        <div class="sidebar__brand">
-          <p class="sidebar__eyebrow">research wiki</p>
-          <h1><a class="sidebar__home" id="site-home-link" href="./">Paidiasophia</a></h1>
-        </div>
-        <nav class="sidebar__nav" id="site-nav"></nav>
-        <div class="sidebar__status" id="site-status"></div>
-      </aside>
-      <button
-        class="sidebar-backdrop"
-        id="sidebar-backdrop"
-        type="button"
-        aria-label="Close menu"
-      ></button>
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar__brand">
+        <p class="sidebar__eyebrow">research wiki</p>
+        <h1><a class="sidebar__home" id="site-home-link" href="./">Paidiasophia</a></h1>
+      </div>
+      <nav class="sidebar__nav" id="site-nav"></nav>
+      <div class="sidebar__status" id="site-status"></div>
+    </aside>
+    <button
+      class="sidebar-backdrop"
+      id="sidebar-backdrop"
+      type="button"
+      aria-label="Close menu"
+    ></button>
 
+    <div class="site-shell">
       <main class="page">
         <header class="page__header">
-          <button class="page__menu" id="menu-toggle" type="button">
-            menu
+          <button
+            class="page__menu"
+            id="menu-toggle"
+            type="button"
+            aria-label="Open menu"
+          >
+            <img src="./assets/favicon.png" alt="" />
           </button>
           <div class="page__breadcrumbs" id="breadcrumbs"></div>
         </header>
@@ -65,7 +70,6 @@
             id="book-preview-close"
             type="button"
             aria-label="Close book preview"
-            title="Close book preview"
           >
             <svg aria-hidden="true" viewBox="0 0 24 24">
               <path d="m7 7 10 10"></path>
@@ -92,6 +96,6 @@
       </a>
     </template>
 
-    <script type="module" src="./src/app.js?v=20260814-home-links-quotes-restored"></script>
+    <script type="module" src="./src/app.js?v=20260923-video-audio-bookmarks-v1"></script>
   </body>
 </html>

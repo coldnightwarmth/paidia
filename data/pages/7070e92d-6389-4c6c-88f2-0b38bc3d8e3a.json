@@ -2,7 +2,7 @@
   "id": "7070e92d-6389-4c6c-88f2-0b38bc3d8e3a",
   "slug": "other-media",
   "title": "Other Media",
-  "icon": "💿",
+  "icon": "./assets/home/media.png",
   "cover": "./assets/images/bondi-blue-04086e5cb524.webp",
   "type": "page",
   "parentId": "9510bf90-3ac9-4424-974b-7424f3b33683",
@@ -182,5 +182,7 @@
       "type": "paragraph",
       "html": ""
     }
-  ]
+  ],
+  "catalogDatabase": "other-media",
+  "parentPageId": "dcdce636-0430-48ea-98c8-b0c6e48368c3"
 }

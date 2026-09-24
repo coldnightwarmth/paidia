@@ -1,0 +1,76 @@
+{
+  "id": "media-7deddd71cdb1356c9f6a",
+  "slug": "media-which-way-will-gamer-culture-go",
+  "title": "Which Way Will Gamer Culture Go?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=qvHdw82kSJI",
+  "previewImage": "https://i.ytimg.com/vi/qvHdw82kSJI/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Which Way Will Gamer Culture Go?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Break The Rules"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=qvHdw82kSJI"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-7deddd71cdb1356c9f6a-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCPKaSxQ7frxGAwgaQ29P9Eg\" target=\"_blank\" rel=\"noreferrer\">Break The Rules</a></em>"
+    },
+    {
+      "id": "media-7deddd71cdb1356c9f6a-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/qvHdw82kSJI?start=5&feature=oembed&start=5",
+      "title": "Which Way Will Gamer Culture Go?",
+      "caption": ""
+    },
+    {
+      "id": "media-7deddd71cdb1356c9f6a-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=qvHdw82kSJI\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

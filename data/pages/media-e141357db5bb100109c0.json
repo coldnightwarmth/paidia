@@ -1,0 +1,76 @@
+{
+  "id": "media-e141357db5bb100109c0",
+  "slug": "media-video-games-art-discussion-panel",
+  "title": "Video Games & Art Discussion Panel",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=ydvs-piHHRk",
+  "previewImage": "https://i.ytimg.com/vi/ydvs-piHHRk/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Video Games & Art Discussion Panel"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Smithsonian American Art Museum"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Interview"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Interview"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=ydvs-piHHRk"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Interview"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-e141357db5bb100109c0-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/smithsonianamericanartmuseum\" target=\"_blank\" rel=\"noreferrer\">Smithsonian American Art Museum</a></em>"
+    },
+    {
+      "id": "media-e141357db5bb100109c0-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/ydvs-piHHRk?start=34&feature=oembed&start=34",
+      "title": "Video Games & Art Discussion Panel",
+      "caption": ""
+    },
+    {
+      "id": "media-e141357db5bb100109c0-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=ydvs-piHHRk\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

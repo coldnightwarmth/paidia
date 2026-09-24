@@ -1,0 +1,76 @@
+{
+  "id": "media-5e85e94cd8fcb5c4bcc7",
+  "slug": "media-schmovement-in-video-games",
+  "title": "Schmovement in Video Games",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=5YZzh5xowJM",
+  "previewImage": "https://i.ytimg.com/vi/5YZzh5xowJM/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Schmovement in Video Games"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "RESPRiT"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=5YZzh5xowJM"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-5e85e94cd8fcb5c4bcc7-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@RESPRiT\" target=\"_blank\" rel=\"noreferrer\">RESPRiT</a></em>"
+    },
+    {
+      "id": "media-5e85e94cd8fcb5c4bcc7-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/5YZzh5xowJM?rel=0",
+      "title": "Schmovement in Video Games",
+      "caption": ""
+    },
+    {
+      "id": "media-5e85e94cd8fcb5c4bcc7-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=5YZzh5xowJM\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "media-7fa7168a0db9bcbec73f",
+  "slug": "media-mcluhan-videos",
+  "title": "MCLUHAN VIDEOS",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/channel/UC7JNZWLfbuBn194zqh9bDFw",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "MCLUHAN VIDEOS"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "MCLUHAN VIDEOS"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Other, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/channel/UC7JNZWLfbuBn194zqh9bDFw"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Other",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-7fa7168a0db9bcbec73f-creator",
+      "type": "paragraph",
+      "html": "<em>by MCLUHAN VIDEOS</em>"
+    },
+    {
+      "id": "media-7fa7168a0db9bcbec73f-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/channel/UC7JNZWLfbuBn194zqh9bDFw\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

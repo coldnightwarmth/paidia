@@ -1,0 +1,76 @@
+{
+  "id": "media-efb4b5545c705a73c8de",
+  "slug": "media-a-theory-of-beauty-for-games",
+  "title": "A Theory of Beauty for Games",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=pcqbIm7mnQ4",
+  "previewImage": "https://i.ytimg.com/vi/pcqbIm7mnQ4/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "A Theory of Beauty for Games"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "The Game Overanalyser"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=pcqbIm7mnQ4"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-efb4b5545c705a73c8de-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCZMF14eNxvuReRTceX_mbqQ\" target=\"_blank\" rel=\"noreferrer\">The Game Overanalyser</a></em>"
+    },
+    {
+      "id": "media-efb4b5545c705a73c8de-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/pcqbIm7mnQ4?feature=oembed",
+      "title": "A Theory of Beauty for Games",
+      "caption": ""
+    },
+    {
+      "id": "media-efb4b5545c705a73c8de-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=pcqbIm7mnQ4\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

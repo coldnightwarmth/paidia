@@ -1,0 +1,75 @@
+{
+  "id": "media-1b74c4a22bcf08ed95b2",
+  "slug": "media-superrt-realtime-raytracing-on-the-snes-short-demo",
+  "title": "SuperRT - Realtime raytracing on the SNES (short demo)",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=VeFF344NbZ4",
+  "previewImage": "https://i.ytimg.com/vi/VeFF344NbZ4/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "SuperRT - Realtime raytracing on the SNES (short demo)"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Shironeko Labs"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=VeFF344NbZ4"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-1b74c4a22bcf08ed95b2-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCgb-6uK5Ge_qgxXqZrU3IPg\" target=\"_blank\" rel=\"noreferrer\">Shironeko Labs</a></em>"
+    },
+    {
+      "id": "media-1b74c4a22bcf08ed95b2-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/VeFF344NbZ4?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "SuperRT - Realtime raytracing on the SNES (short demo)",
+      "caption": ""
+    },
+    {
+      "id": "media-1b74c4a22bcf08ed95b2-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=VeFF344NbZ4\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

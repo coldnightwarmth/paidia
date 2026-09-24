@@ -1,0 +1,75 @@
+{
+  "id": "media-e9e423759331a82831df",
+  "slug": "media-the-complete-history-of-twitch-plays-pokemon-pt-1",
+  "title": "The Complete History of Twitch Plays Pokemon (pt 1)",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=9cHsVq6n5Vs",
+  "previewImage": "https://i.ytimg.com/vi/9cHsVq6n5Vs/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Complete History of Twitch Plays Pokemon (pt 1)"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Schwam Games"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=9cHsVq6n5Vs"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-e9e423759331a82831df-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCiJOGHfcD-EjSmRRxJUQa-A\" target=\"_blank\" rel=\"noreferrer\">Schwam Games</a></em>"
+    },
+    {
+      "id": "media-e9e423759331a82831df-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/9cHsVq6n5Vs?feature=oembed",
+      "title": "The Complete History of Twitch Plays Pokemon (pt 1)",
+      "caption": ""
+    },
+    {
+      "id": "media-e9e423759331a82831df-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=9cHsVq6n5Vs\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

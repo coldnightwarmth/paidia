@@ -1,0 +1,76 @@
+{
+  "id": "media-be31b946f8e9cef36de8",
+  "slug": "media-who-finds-the-glitches-used-in-speedruns",
+  "title": "Who finds the Glitches used in Speedruns?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=PTsnblKvfqE",
+  "previewImage": "https://i.ytimg.com/vi/PTsnblKvfqE/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Who finds the Glitches used in Speedruns?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Lowest Percent"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=PTsnblKvfqE"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-be31b946f8e9cef36de8-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCxQrToVDBwHKuyIr47X04yA\" target=\"_blank\" rel=\"noreferrer\">Lowest Percent</a></em>"
+    },
+    {
+      "id": "media-be31b946f8e9cef36de8-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/PTsnblKvfqE?feature=oembed",
+      "title": "Who finds the Glitches used in Speedruns?",
+      "caption": ""
+    },
+    {
+      "id": "media-be31b946f8e9cef36de8-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=PTsnblKvfqE\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

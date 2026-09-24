@@ -1,0 +1,75 @@
+{
+  "id": "media-5f1bd5ce689d13402e2f",
+  "slug": "media-how-one-person-changed-indie-games-forever",
+  "title": "How One Person Changed Indie Games Forever",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=d0Lqt-BHbJ0",
+  "previewImage": "https://i.ytimg.com/vi/d0Lqt-BHbJ0/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "How One Person Changed Indie Games Forever"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "ThatGuyGlen"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=d0Lqt-BHbJ0"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-5f1bd5ce689d13402e2f-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@ThatGuyGlen\" target=\"_blank\" rel=\"noreferrer\">ThatGuyGlen</a></em>"
+    },
+    {
+      "id": "media-5f1bd5ce689d13402e2f-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/d0Lqt-BHbJ0?rel=0",
+      "title": "How One Person Changed Indie Games Forever",
+      "caption": ""
+    },
+    {
+      "id": "media-5f1bd5ce689d13402e2f-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=d0Lqt-BHbJ0\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

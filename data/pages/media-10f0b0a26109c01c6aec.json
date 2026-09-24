@@ -1,0 +1,69 @@
+{
+  "id": "media-10f0b0a26109c01c6aec",
+  "slug": "media-nerdwriter1",
+  "title": "Nerdwriter1",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/user/Nerdwriter1",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Nerdwriter1"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Nerdwriter1"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Other, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/user/Nerdwriter1"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Other",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-10f0b0a26109c01c6aec-creator",
+      "type": "paragraph",
+      "html": "<em>by Nerdwriter1</em>"
+    },
+    {
+      "id": "media-10f0b0a26109c01c6aec-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/user/Nerdwriter1\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-3f9cd25f41179b59e375",
+  "slug": "media-my-game-research-an-overview-of-resources-i-use-to-discover-and-learn-ab",
+  "title": "My Game Research - An overview of resources I use to discover and learn about historical games.",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=0nt_uiPAI_4",
+  "previewImage": "https://i.ytimg.com/vi/0nt_uiPAI_4/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "My Game Research - An overview of resources I use to discover and learn about historical games."
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "NewVenture Games"
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=0nt_uiPAI_4"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-3f9cd25f41179b59e375-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCkmm8sybZg1lkPA_ptkk-Mg\" target=\"_blank\" rel=\"noreferrer\">NewVenture Games</a></em>"
+    },
+    {
+      "id": "media-3f9cd25f41179b59e375-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/0nt_uiPAI_4?feature=oembed",
+      "title": "My Game Research - An overview of resources I use to discover and learn about historical games.",
+      "caption": ""
+    },
+    {
+      "id": "media-3f9cd25f41179b59e375-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=0nt_uiPAI_4\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

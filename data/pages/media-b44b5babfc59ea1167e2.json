@@ -1,0 +1,76 @@
+{
+  "id": "media-b44b5babfc59ea1167e2",
+  "slug": "media-freedom-in-games-a-philosophical-analysis",
+  "title": "FREEDOM in GAMES- A philosophical analysis",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=BAAuTgUxmUs",
+  "previewImage": "https://i.ytimg.com/vi/BAAuTgUxmUs/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "FREEDOM in GAMES- A philosophical analysis"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "littlegoblin"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=BAAuTgUxmUs"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-b44b5babfc59ea1167e2-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@littleweimin\" target=\"_blank\" rel=\"noreferrer\">littlegoblin</a></em>"
+    },
+    {
+      "id": "media-b44b5babfc59ea1167e2-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/BAAuTgUxmUs?rel=0&start=1",
+      "title": "FREEDOM in GAMES- A philosophical analysis",
+      "caption": ""
+    },
+    {
+      "id": "media-b44b5babfc59ea1167e2-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=BAAuTgUxmUs\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

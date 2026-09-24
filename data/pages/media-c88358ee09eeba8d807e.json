@@ -1,0 +1,68 @@
+{
+  "id": "media-c88358ee09eeba8d807e",
+  "slug": "media-nyu-game-center-lecture-series-playlist",
+  "title": "NYU Game Center Lecture Series (PLAYLIST)",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLAIAHfJvz15mO-Ir0Hcx4JZZEVMPcvfaw",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "NYU Game Center Lecture Series (PLAYLIST)"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "NYU Game Center"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/playlist?list=PLAIAHfJvz15mO-Ir0Hcx4JZZEVMPcvfaw"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-c88358ee09eeba8d807e-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC1W7wuvErj9Q9Lu3kTju-RQ\" target=\"_blank\" rel=\"noreferrer\">NYU Game Center</a></em>"
+    },
+    {
+      "id": "media-c88358ee09eeba8d807e-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/playlist?list=PLAIAHfJvz15mO-Ir0Hcx4JZZEVMPcvfaw\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

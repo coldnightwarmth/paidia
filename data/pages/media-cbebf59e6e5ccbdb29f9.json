@@ -1,0 +1,69 @@
+{
+  "id": "media-cbebf59e6e5ccbdb29f9",
+  "slug": "media-summoning-salt",
+  "title": "Summoning Salt",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Summoning Salt"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Summoning Salt"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, History, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "History",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-cbebf59e6e5ccbdb29f9-creator",
+      "type": "paragraph",
+      "html": "<em>by Summoning Salt</em>"
+    },
+    {
+      "id": "media-cbebf59e6e5ccbdb29f9-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

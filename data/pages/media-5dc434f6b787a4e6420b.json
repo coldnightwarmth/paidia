@@ -1,0 +1,75 @@
+{
+  "id": "media-5dc434f6b787a4e6420b",
+  "slug": "media-what-pac-man-brought-to-game-design-design-icons",
+  "title": "What Pac-Man Brought to Game Design | Design Icons",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=S4RHbnBkyh0",
+  "previewImage": "https://i.ytimg.com/vi/S4RHbnBkyh0/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "What Pac-Man Brought to Game Design | Design Icons"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Game Maker's Toolkit"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=S4RHbnBkyh0"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-5dc434f6b787a4e6420b-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw\" target=\"_blank\" rel=\"noreferrer\">Game Maker's Toolkit</a></em>"
+    },
+    {
+      "id": "media-5dc434f6b787a4e6420b-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/S4RHbnBkyh0?feature=oembed",
+      "title": "What Pac-Man Brought to Game Design | Design Icons",
+      "caption": ""
+    },
+    {
+      "id": "media-5dc434f6b787a4e6420b-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=S4RHbnBkyh0\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

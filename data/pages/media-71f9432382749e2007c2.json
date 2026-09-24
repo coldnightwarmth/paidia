@@ -1,0 +1,76 @@
+{
+  "id": "media-71f9432382749e2007c2",
+  "slug": "media-philosophers-on-twitch-discussing-nfts",
+  "title": "𒐪𒐪! (Philosophers on Twitch discussing NFTs)",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=bp21_zn1h2Q",
+  "previewImage": "https://i.ytimg.com/vi/bp21_zn1h2Q/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "𒐪𒐪! (Philosophers on Twitch discussing NFTs)"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Michael Curzi"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=bp21_zn1h2Q"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-71f9432382749e2007c2-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCt539OCS94n2Zo7dN7R2DKA\" target=\"_blank\" rel=\"noreferrer\">Michael Curzi</a></em>"
+    },
+    {
+      "id": "media-71f9432382749e2007c2-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/bp21_zn1h2Q?start=3605&feature=oembed&start=3605",
+      "title": "𒐪𒐪! (Philosophers on Twitch discussing NFTs)",
+      "caption": ""
+    },
+    {
+      "id": "media-71f9432382749e2007c2-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=bp21_zn1h2Q\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

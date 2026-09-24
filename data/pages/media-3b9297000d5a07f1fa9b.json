@@ -1,0 +1,75 @@
+{
+  "id": "media-3b9297000d5a07f1fa9b",
+  "slug": "media-petscop",
+  "title": "Petscop",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=6e6RK8o1fcs",
+  "previewImage": "https://i.ytimg.com/vi/6e6RK8o1fcs/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Petscop"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Petscop"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=6e6RK8o1fcs"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-3b9297000d5a07f1fa9b-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCZKQv0ZFHpeIUkOtNjtq4KA\" target=\"_blank\" rel=\"noreferrer\">Petscop</a></em>"
+    },
+    {
+      "id": "media-3b9297000d5a07f1fa9b-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/6e6RK8o1fcs?feature=oembed",
+      "title": "Petscop",
+      "caption": ""
+    },
+    {
+      "id": "media-3b9297000d5a07f1fa9b-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=6e6RK8o1fcs\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

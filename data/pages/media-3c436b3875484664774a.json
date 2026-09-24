@@ -1,0 +1,69 @@
+{
+  "id": "media-3c436b3875484664774a",
+  "slug": "media-didyouknowgaming",
+  "title": "DidYouKnowGaming?",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/channel/UCyS4xQE6DK4_p3qXQwJQAyA",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "DidYouKnowGaming?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "DidYouKnowGaming?"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, History, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/channel/UCyS4xQE6DK4_p3qXQwJQAyA"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "History",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-3c436b3875484664774a-creator",
+      "type": "paragraph",
+      "html": "<em>by DidYouKnowGaming?</em>"
+    },
+    {
+      "id": "media-3c436b3875484664774a-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/channel/UCyS4xQE6DK4_p3qXQwJQAyA\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-bf57db0e893ff3e579e2",
+  "slug": "media-game-studies-vs-play-studies-fanny-barnabe",
+  "title": "Game studies vs. Play studies - Fanny Barnabé",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=oerag3AjKTY",
+  "previewImage": "https://i.ytimg.com/vi/oerag3AjKTY/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Game studies vs. Play studies - Fanny Barnabé"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Université de Namur"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=oerag3AjKTY"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-bf57db0e893ff3e579e2-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCCUxAW2UWZHPuLZg3D4DVGg\" target=\"_blank\" rel=\"noreferrer\">Université de Namur</a></em>"
+    },
+    {
+      "id": "media-bf57db0e893ff3e579e2-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/oerag3AjKTY?feature=oembed",
+      "title": "Game studies vs. Play studies - Fanny Barnabé",
+      "caption": ""
+    },
+    {
+      "id": "media-bf57db0e893ff3e579e2-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=oerag3AjKTY\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

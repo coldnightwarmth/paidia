@@ -1,0 +1,76 @@
+{
+  "id": "media-8ae7b01b2c25cc485ba9",
+  "slug": "media-the-last-guardian-the-language-of-games",
+  "title": "The Last Guardian & the Language of Games",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Qot5_rMB8Jc",
+  "previewImage": "https://i.ytimg.com/vi/Qot5_rMB8Jc/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Last Guardian & the Language of Games"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Game Maker's Toolkit"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Qot5_rMB8Jc"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-8ae7b01b2c25cc485ba9-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw\" target=\"_blank\" rel=\"noreferrer\">Game Maker's Toolkit</a></em>"
+    },
+    {
+      "id": "media-8ae7b01b2c25cc485ba9-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Qot5_rMB8Jc?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=7",
+      "title": "The Last Guardian & the Language of Games",
+      "caption": ""
+    },
+    {
+      "id": "media-8ae7b01b2c25cc485ba9-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Qot5_rMB8Jc\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

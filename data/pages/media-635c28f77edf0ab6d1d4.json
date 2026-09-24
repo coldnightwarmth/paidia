@@ -1,0 +1,75 @@
+{
+  "id": "media-635c28f77edf0ab6d1d4",
+  "slug": "media-what-are-gamers",
+  "title": "What Are \"Gamers\"?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=q95DRjgqdaU",
+  "previewImage": "https://i.ytimg.com/vi/q95DRjgqdaU/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "What Are \"Gamers\"?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "LudusAndPaidia"
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=q95DRjgqdaU"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-635c28f77edf0ab6d1d4-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@ludusandpaidia8719\" target=\"_blank\" rel=\"noreferrer\">LudusAndPaidia</a></em>"
+    },
+    {
+      "id": "media-635c28f77edf0ab6d1d4-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/q95DRjgqdaU?rel=0",
+      "title": "What Are \"Gamers\"?",
+      "caption": ""
+    },
+    {
+      "id": "media-635c28f77edf0ab6d1d4-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=q95DRjgqdaU\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

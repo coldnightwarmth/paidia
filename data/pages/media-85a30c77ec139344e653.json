@@ -1,0 +1,69 @@
+{
+  "id": "media-85a30c77ec139344e653",
+  "slug": "media-neat-ai",
+  "title": "Neat AI",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/channel/UCSYWVv2BdiYbzSiwXZ2hx1Q",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Neat AI"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Neat AI"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Technology, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/channel/UCSYWVv2BdiYbzSiwXZ2hx1Q"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Technology",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-85a30c77ec139344e653-creator",
+      "type": "paragraph",
+      "html": "<em>by Neat AI</em>"
+    },
+    {
+      "id": "media-85a30c77ec139344e653-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/channel/UCSYWVv2BdiYbzSiwXZ2hx1Q\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

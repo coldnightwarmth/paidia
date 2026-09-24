@@ -1,0 +1,75 @@
+{
+  "id": "media-5d38da1f10a1a68faa3d",
+  "slug": "media-magic-the-gathering-turing-complete-a-demonstration",
+  "title": "Magic: The Gathering - Turing Complete - a Demonstration",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=HHimZMMVbx8",
+  "previewImage": "https://i.ytimg.com/vi/HHimZMMVbx8/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Magic: The Gathering - Turing Complete - a Demonstration"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "David Coffron"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=HHimZMMVbx8"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-5d38da1f10a1a68faa3d-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCCfLdWEm9iYZeFa9I4DZlJg\" target=\"_blank\" rel=\"noreferrer\">David Coffron</a></em>"
+    },
+    {
+      "id": "media-5d38da1f10a1a68faa3d-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/HHimZMMVbx8?feature=oembed",
+      "title": "Magic: The Gathering - Turing Complete - a Demonstration",
+      "caption": ""
+    },
+    {
+      "id": "media-5d38da1f10a1a68faa3d-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=HHimZMMVbx8\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

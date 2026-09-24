@@ -19,6 +19,16 @@
       [
         "Lord of the Rings"
       ]
+    ],
+    "Category": [
+      [
+        "Films & TV"
+      ]
+    ],
+    "Tags": [
+      [
+        "Films & TV, Feature Film"
+      ]
     ]
   },
   "previewImage": "",
@@ -66,5 +76,17 @@
       "type": "paragraph",
       "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
     }
-  ]
+  ],
+  "catalog": {
+    "databaseId": "7070e92d-6389-4c6c-88f2-0b38bc3d8e3a",
+    "database": "other-media",
+    "categories": [
+      "Films & TV"
+    ],
+    "tags": [
+      "Films & TV",
+      "Feature Film"
+    ]
+  },
+  "parentPageId": "7070e92d-6389-4c6c-88f2-0b38bc3d8e3a"
 }

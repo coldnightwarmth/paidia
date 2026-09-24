@@ -1,0 +1,75 @@
+{
+  "id": "media-c6037426f6ae63b6afa8",
+  "slug": "media-max-kreminski-gardening-as-a-mode-of-play",
+  "title": "Max Kreminski: Gardening as a Mode of Play",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=TvlZinAvpwg",
+  "previewImage": "https://i.ytimg.com/vi/TvlZinAvpwg/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Max Kreminski: Gardening as a Mode of Play"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Roguelike Celebration"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=TvlZinAvpwg"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-c6037426f6ae63b6afa8-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCKv_QzXft4mD6TXmQBZtzIA\" target=\"_blank\" rel=\"noreferrer\">Roguelike Celebration</a></em>"
+    },
+    {
+      "id": "media-c6037426f6ae63b6afa8-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/TvlZinAvpwg?feature=oembed",
+      "title": "Max Kreminski: Gardening as a Mode of Play",
+      "caption": ""
+    },
+    {
+      "id": "media-c6037426f6ae63b6afa8-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=TvlZinAvpwg\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

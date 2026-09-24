@@ -1,0 +1,75 @@
+{
+  "id": "media-85e446b7e4a45f20c846",
+  "slug": "media-play-the-glass-bead-game",
+  "title": "Play the Glass Bead Game",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=xfwTwbnTI7I",
+  "previewImage": "https://i.ytimg.com/vi/xfwTwbnTI7I/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Play the Glass Bead Game"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Gospel of Sophia"
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=xfwTwbnTI7I"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-85e446b7e4a45f20c846-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCoOTAo0oyvfwSIFKTf7e2Dw\" target=\"_blank\" rel=\"noreferrer\">Gospel of Sophia</a></em>"
+    },
+    {
+      "id": "media-85e446b7e4a45f20c846-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/xfwTwbnTI7I?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=13",
+      "title": "Play the Glass Bead Game",
+      "caption": ""
+    },
+    {
+      "id": "media-85e446b7e4a45f20c846-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=xfwTwbnTI7I\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "id": "2051fa00-5190-42a6-af57-6eca9f5b55d0",
   "slug": "images",
   "title": "Images",
-  "icon": "🖼️",
+  "icon": "./assets/home/image.png",
   "cover": "./assets/images/billboard-fariries-77e28baf2d06.webp",
   "type": "page",
   "parentId": "e0713fca-6e95-4df5-be44-8c3a75e00061",
@@ -48,5 +48,7 @@
       "type": "paragraph",
       "html": ""
     }
-  ]
+  ],
+  "catalogDatabase": "images",
+  "parentPageId": "dcdce636-0430-48ea-98c8-b0c6e48368c3"
 }

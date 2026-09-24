@@ -1,0 +1,76 @@
+{
+  "id": "media-cb5bb4a79a91c7341af2",
+  "slug": "media-a-failed-japanese-satire-of-america-earthbound",
+  "title": "A failed Japanese satire of America: Earthbound",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=ypAmdxyWM7o",
+  "previewImage": "https://i.ytimg.com/vi/ypAmdxyWM7o/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "A failed Japanese satire of America: Earthbound"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "J.J. McCullough"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=ypAmdxyWM7o"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-cb5bb4a79a91c7341af2-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/JJMcCullough\" target=\"_blank\" rel=\"noreferrer\">J.J. McCullough</a></em>"
+    },
+    {
+      "id": "media-cb5bb4a79a91c7341af2-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/ypAmdxyWM7o?feature=oembed",
+      "title": "A failed Japanese satire of America: Earthbound",
+      "caption": ""
+    },
+    {
+      "id": "media-cb5bb4a79a91c7341af2-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=ypAmdxyWM7o\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

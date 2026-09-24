@@ -1,0 +1,75 @@
+{
+  "id": "media-16a902b3b7a5d48dbc9c",
+  "slug": "media-history-of-game-design-part-1-race-games",
+  "title": "History Of Game Design Part 1: Race Games",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=2O0YSsqomwo",
+  "previewImage": "https://i.ytimg.com/vi/2O0YSsqomwo/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "History Of Game Design Part 1: Race Games"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Rempton Games"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=2O0YSsqomwo"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-16a902b3b7a5d48dbc9c-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/RemptonGames\" target=\"_blank\" rel=\"noreferrer\">Rempton Games</a></em>"
+    },
+    {
+      "id": "media-16a902b3b7a5d48dbc9c-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/2O0YSsqomwo?list=PL7Rkyli_tYGRHkX6ylsvq0qmAJbn9OsB4",
+      "title": "History Of Game Design Part 1: Race Games",
+      "caption": ""
+    },
+    {
+      "id": "media-16a902b3b7a5d48dbc9c-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=2O0YSsqomwo\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-f34a0bc159fc4263f988",
+  "slug": "media-roman-board-games",
+  "title": "Roman Board Games",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Ky2M0NyWIWA",
+  "previewImage": "https://i.ytimg.com/vi/Ky2M0NyWIWA/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Roman Board Games"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "The Historic Games Shop"
+      ]
+    ],
+    "Category": [
+      [
+        "Tabletop Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Tabletop Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Ky2M0NyWIWA"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Tabletop Games"
+    ],
+    "tags": [
+      "Tabletop Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-f34a0bc159fc4263f988-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@thehistoricgamesshop\" target=\"_blank\" rel=\"noreferrer\">The Historic Games Shop</a></em>"
+    },
+    {
+      "id": "media-f34a0bc159fc4263f988-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Ky2M0NyWIWA?rel=0&start=151",
+      "title": "Roman Board Games",
+      "caption": ""
+    },
+    {
+      "id": "media-f34a0bc159fc4263f988-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Ky2M0NyWIWA\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

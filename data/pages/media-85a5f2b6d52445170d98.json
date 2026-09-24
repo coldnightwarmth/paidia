@@ -1,0 +1,75 @@
+{
+  "id": "media-85a5f2b6d52445170d98",
+  "slug": "media-sonic-utopia-in-2020",
+  "title": "Sonic Utopia in 2020",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=BkI541FBbkQ",
+  "previewImage": "https://i.ytimg.com/vi/BkI541FBbkQ/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Sonic Utopia in 2020"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "The Original Gamer"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=BkI541FBbkQ"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-85a5f2b6d52445170d98-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCHT-2RU7RE6sRHvAn4aqMVQ\" target=\"_blank\" rel=\"noreferrer\">The Original Gamer</a></em>"
+    },
+    {
+      "id": "media-85a5f2b6d52445170d98-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/BkI541FBbkQ?feature=oembed",
+      "title": "Sonic Utopia in 2020",
+      "caption": ""
+    },
+    {
+      "id": "media-85a5f2b6d52445170d98-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=BkI541FBbkQ\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

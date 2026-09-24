@@ -1,0 +1,69 @@
+{
+  "id": "media-411e65d626f1ee787b8b",
+  "slug": "media-zer0-books",
+  "title": "Zer0 Books",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/channel/UCyoQK-mZXr2ws4C0nXGCH1w",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Zer0 Books"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Zer0 Books"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Other, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/channel/UCyoQK-mZXr2ws4C0nXGCH1w"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Other",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-411e65d626f1ee787b8b-creator",
+      "type": "paragraph",
+      "html": "<em>by Zer0 Books</em>"
+    },
+    {
+      "id": "media-411e65d626f1ee787b8b-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/channel/UCyoQK-mZXr2ws4C0nXGCH1w\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

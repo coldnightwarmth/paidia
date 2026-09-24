@@ -1,0 +1,69 @@
+{
+  "id": "media-153f1e5299cdccb0a9d2",
+  "slug": "media-gaming-historian",
+  "title": "Gaming Historian",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/c/gaminghistorian",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Gaming Historian"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Gaming Historian"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, History, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/c/gaminghistorian"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "History",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-153f1e5299cdccb0a9d2-creator",
+      "type": "paragraph",
+      "html": "<em>by Gaming Historian</em>"
+    },
+    {
+      "id": "media-153f1e5299cdccb0a9d2-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/c/gaminghistorian\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

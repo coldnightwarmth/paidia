@@ -1,0 +1,75 @@
+{
+  "id": "media-fb26adda0c86e3b0d37a",
+  "slug": "media-arcadia-100-years-of-gaming-history-from-penny-arcade-to-video-games",
+  "title": "Arcadia - 100 Years of Gaming History - From Penny Arcade to Video Games",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=_vmsCLnlaw0",
+  "previewImage": "https://i.ytimg.com/vi/_vmsCLnlaw0/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Arcadia - 100 Years of Gaming History - From Penny Arcade to Video Games"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Museum of the Game"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=_vmsCLnlaw0"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-fb26adda0c86e3b0d37a-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@museumofthegame\" target=\"_blank\" rel=\"noreferrer\">Museum of the Game</a></em>"
+    },
+    {
+      "id": "media-fb26adda0c86e3b0d37a-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/_vmsCLnlaw0?rel=0",
+      "title": "Arcadia - 100 Years of Gaming History - From Penny Arcade to Video Games",
+      "caption": ""
+    },
+    {
+      "id": "media-fb26adda0c86e3b0d37a-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=_vmsCLnlaw0\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

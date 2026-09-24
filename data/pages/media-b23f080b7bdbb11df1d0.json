@@ -1,0 +1,75 @@
+{
+  "id": "media-b23f080b7bdbb11df1d0",
+  "slug": "media-dream-of-hyrule-field",
+  "title": "Dream of Hyrule Field",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=nCltDbOvr8Y",
+  "previewImage": "https://i.ytimg.com/vi/nCltDbOvr8Y/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Dream of Hyrule Field"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Jonathan Fly"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=nCltDbOvr8Y"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-b23f080b7bdbb11df1d0-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCj5kYW_8gnU6lFEMSZyKq1Q\" target=\"_blank\" rel=\"noreferrer\">Jonathan Fly</a></em>"
+    },
+    {
+      "id": "media-b23f080b7bdbb11df1d0-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/nCltDbOvr8Y?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "Dream of Hyrule Field",
+      "caption": ""
+    },
+    {
+      "id": "media-b23f080b7bdbb11df1d0-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=nCltDbOvr8Y\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

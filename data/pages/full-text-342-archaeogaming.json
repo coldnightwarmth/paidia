@@ -3,7 +3,7 @@
   "slug": "archaeogaming",
   "title": "Archaeogaming",
   "icon": "./assets/images/book-closed-gray-ceb7ed0bbf9f.webp",
-  "cover": "",
+  "cover": "./assets/images/archaeogaming-cover.jpg",
   "type": "page",
   "parentId": "8b00db95-6902-4675-93fb-bd8023cf5614",
   "parentTable": "block",
@@ -51,7 +51,7 @@
       ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/images/archaeogaming-cover.jpg",
   "blocks": [
     {
       "id": "full-text-342-archaeogaming-divider",

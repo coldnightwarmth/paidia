@@ -1,0 +1,76 @@
+{
+  "id": "media-50906840884e5a5ca644",
+  "slug": "media-the-hidden-game-within-microsoft-flight-simulator",
+  "title": "The Hidden Game Within Microsoft Flight Simulator",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=ulVfzB2tiMU",
+  "previewImage": "https://i.ytimg.com/vi/ulVfzB2tiMU/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Hidden Game Within Microsoft Flight Simulator"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Writing on Games"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=ulVfzB2tiMU"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-50906840884e5a5ca644-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCPlWv88ZRMxCcK3BGjrX7ew\" target=\"_blank\" rel=\"noreferrer\">Writing on Games</a></em>"
+    },
+    {
+      "id": "media-50906840884e5a5ca644-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/ulVfzB2tiMU?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "The Hidden Game Within Microsoft Flight Simulator",
+      "caption": ""
+    },
+    {
+      "id": "media-50906840884e5a5ca644-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=ulVfzB2tiMU\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-d916f0dfa508004b2bb2",
+  "slug": "media-building-a-game-studies-community",
+  "title": "Building a Game Studies Community",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=ApVH_4VYsJg",
+  "previewImage": "https://i.ytimg.com/vi/ApVH_4VYsJg/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Building a Game Studies Community"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Sagefist"
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=ApVH_4VYsJg"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-d916f0dfa508004b2bb2-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCQ427CHSkJjDel-vDBDj8VA\" target=\"_blank\" rel=\"noreferrer\">Sagefist</a></em>"
+    },
+    {
+      "id": "media-d916f0dfa508004b2bb2-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/ApVH_4VYsJg?feature=oembed",
+      "title": "Building a Game Studies Community",
+      "caption": ""
+    },
+    {
+      "id": "media-d916f0dfa508004b2bb2-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=ApVH_4VYsJg\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

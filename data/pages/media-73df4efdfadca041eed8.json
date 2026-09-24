@@ -1,0 +1,76 @@
+{
+  "id": "media-73df4efdfadca041eed8",
+  "slug": "media-john-carmack-doom-quake-vr-agi-programming-video-games-and-rockets",
+  "title": "John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=I845O57ZSy4",
+  "previewImage": "https://i.ytimg.com/vi/I845O57ZSy4/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Lex Fridman"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=I845O57ZSy4"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-73df4efdfadca041eed8-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/lexfridman\" target=\"_blank\" rel=\"noreferrer\">Lex Fridman</a></em>"
+    },
+    {
+      "id": "media-73df4efdfadca041eed8-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/I845O57ZSy4?feature=oembed",
+      "title": "John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets",
+      "caption": ""
+    },
+    {
+      "id": "media-73df4efdfadca041eed8-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=I845O57ZSy4\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

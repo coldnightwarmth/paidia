@@ -24,6 +24,16 @@
       [
         "Grand Theft Auto"
       ]
+    ],
+    "Category": [
+      [
+        "Videogames"
+      ]
+    ],
+    "Tags": [
+      [
+        "Videogames, Action"
+      ]
     ]
   },
   "previewImage": "",
@@ -71,5 +81,17 @@
       "type": "paragraph",
       "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
     }
-  ]
+  ],
+  "catalog": {
+    "databaseId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+    "database": "games",
+    "categories": [
+      "Videogames"
+    ],
+    "tags": [
+      "Videogames",
+      "Action"
+    ]
+  },
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
 }

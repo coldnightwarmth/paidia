@@ -1,0 +1,69 @@
+{
+  "id": "media-e44e7d23afc793f3e27d",
+  "slug": "media-jacob-geller",
+  "title": "Jacob Geller",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/user/yacobg42",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Jacob Geller"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Jacob Geller"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Analysis, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/user/yacobg42"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Analysis",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-e44e7d23afc793f3e27d-creator",
+      "type": "paragraph",
+      "html": "<em>by Jacob Geller</em>"
+    },
+    {
+      "id": "media-e44e7d23afc793f3e27d-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/user/yacobg42\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

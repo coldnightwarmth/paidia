@@ -1,0 +1,76 @@
+{
+  "id": "media-6e473c37b92934155c41",
+  "slug": "media-sonic-the-hedgehog-s-esoteric-secrets-revealed",
+  "title": "Sonic The Hedgehog’s Esoteric Secrets REVEALED",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=7J8mxPAGbwM",
+  "previewImage": "https://i.ytimg.com/vi/7J8mxPAGbwM/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Sonic The Hedgehog’s Esoteric Secrets REVEALED"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Lev Polyakov"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=7J8mxPAGbwM"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-6e473c37b92934155c41-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/LevPolyakov\" target=\"_blank\" rel=\"noreferrer\">Lev Polyakov</a></em>"
+    },
+    {
+      "id": "media-6e473c37b92934155c41-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/7J8mxPAGbwM?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=2",
+      "title": "Sonic The Hedgehog’s Esoteric Secrets REVEALED",
+      "caption": ""
+    },
+    {
+      "id": "media-6e473c37b92934155c41-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=7J8mxPAGbwM\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

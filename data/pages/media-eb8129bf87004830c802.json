@@ -1,0 +1,69 @@
+{
+  "id": "media-eb8129bf87004830c802",
+  "slug": "media-nyu-game-center",
+  "title": "NYU Game Center",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/user/NYUGameCenter",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "NYU Game Center"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "NYU Game Center"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Lectures, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/user/NYUGameCenter"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Lectures",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-eb8129bf87004830c802-creator",
+      "type": "paragraph",
+      "html": "<em>by NYU Game Center</em>"
+    },
+    {
+      "id": "media-eb8129bf87004830c802-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/user/NYUGameCenter\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "media-a82901194422d08b53ec",
+  "slug": "media-what-is-the-human-potential-in-climbing-schooled-by-adam-ondra",
+  "title": "What is the human potential in Climbing? // Schooled by Adam Ondra",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=8-5yuVuDFzU",
+  "previewImage": "https://i.ytimg.com/vi/8-5yuVuDFzU/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "What is the human potential in Climbing? // Schooled by Adam Ondra"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Magnus Midtbø"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=8-5yuVuDFzU"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-a82901194422d08b53ec-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC_gSotrFVZ_PiAxo3fTQVuQ\" target=\"_blank\" rel=\"noreferrer\">Magnus Midtbø</a></em>"
+    },
+    {
+      "id": "media-a82901194422d08b53ec-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/8-5yuVuDFzU?start=487&feature=oembed&start=487",
+      "title": "What is the human potential in Climbing? // Schooled by Adam Ondra",
+      "caption": ""
+    },
+    {
+      "id": "media-a82901194422d08b53ec-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=8-5yuVuDFzU\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

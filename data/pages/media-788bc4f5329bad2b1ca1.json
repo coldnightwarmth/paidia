@@ -1,0 +1,75 @@
+{
+  "id": "media-788bc4f5329bad2b1ca1",
+  "slug": "media-satoru-iwata-heart-of-a-gamer",
+  "title": "Satoru Iwata - Heart of a Gamer",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=RMrj8gdUfCU",
+  "previewImage": "https://i.ytimg.com/vi/RMrj8gdUfCU/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Satoru Iwata - Heart of a Gamer"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "GDC"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=RMrj8gdUfCU"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-788bc4f5329bad2b1ca1-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\">GDC</a></em>"
+    },
+    {
+      "id": "media-788bc4f5329bad2b1ca1-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/RMrj8gdUfCU?feature=oembed",
+      "title": "Satoru Iwata - Heart of a Gamer",
+      "caption": ""
+    },
+    {
+      "id": "media-788bc4f5329bad2b1ca1-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=RMrj8gdUfCU\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

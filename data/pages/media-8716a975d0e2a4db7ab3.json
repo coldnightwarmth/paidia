@@ -1,0 +1,75 @@
+{
+  "id": "media-8716a975d0e2a4db7ab3",
+  "slug": "media-what-the-internet-did-to-undertale",
+  "title": "What The Internet did To Undertale",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=FFIs6LsV0a4",
+  "previewImage": "https://i.ytimg.com/vi/FFIs6LsV0a4/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "What The Internet did To Undertale"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Super Eyepatch Wolf"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=FFIs6LsV0a4"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-8716a975d0e2a4db7ab3-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCtGoikgbxP4F3rgI9PldI9g\" target=\"_blank\" rel=\"noreferrer\">Super Eyepatch Wolf</a></em>"
+    },
+    {
+      "id": "media-8716a975d0e2a4db7ab3-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/FFIs6LsV0a4?feature=oembed",
+      "title": "What The Internet did To Undertale",
+      "caption": ""
+    },
+    {
+      "id": "media-8716a975d0e2a4db7ab3-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=FFIs6LsV0a4\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

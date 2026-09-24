@@ -1,0 +1,76 @@
+{
+  "id": "media-5bed1aada28b6f816936",
+  "slug": "media-the-art-of-video-game-photography",
+  "title": "The Art of Video Game Photography",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=PWnLD39b6Y0",
+  "previewImage": "https://i.ytimg.com/vi/PWnLD39b6Y0/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Art of Video Game Photography"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "eurothug4000"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=PWnLD39b6Y0"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-5bed1aada28b6f816936-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/eurothug4000\" target=\"_blank\" rel=\"noreferrer\">eurothug4000</a></em>"
+    },
+    {
+      "id": "media-5bed1aada28b6f816936-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/PWnLD39b6Y0?feature=oembed",
+      "title": "The Art of Video Game Photography",
+      "caption": ""
+    },
+    {
+      "id": "media-5bed1aada28b6f816936-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=PWnLD39b6Y0\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

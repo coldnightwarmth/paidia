@@ -1,0 +1,76 @@
+{
+  "id": "media-9bbf445d378a622b9d6b",
+  "slug": "media-why-are-humans-suddenly-getting-better-at-tetris",
+  "title": "Why Are Humans Suddenly Getting Better at Tetris?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=twS0SrDg-fc",
+  "previewImage": "https://i.ytimg.com/vi/twS0SrDg-fc/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Why Are Humans Suddenly Getting Better at Tetris?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "vlogbrothers"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=twS0SrDg-fc"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-9bbf445d378a622b9d6b-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCGaVdbSav8xWuFWTadK6loA\" target=\"_blank\" rel=\"noreferrer\">vlogbrothers</a></em>"
+    },
+    {
+      "id": "media-9bbf445d378a622b9d6b-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/twS0SrDg-fc?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "Why Are Humans Suddenly Getting Better at Tetris?",
+      "caption": ""
+    },
+    {
+      "id": "media-9bbf445d378a622b9d6b-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=twS0SrDg-fc\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

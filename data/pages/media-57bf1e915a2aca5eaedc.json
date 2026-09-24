@@ -1,0 +1,75 @@
+{
+  "id": "media-57bf1e915a2aca5eaedc",
+  "slug": "media-declassified-processing-preserving-video-games",
+  "title": "#Declassified: Processing & Preserving Video Games",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=4Ws60mzHMyE",
+  "previewImage": "https://i.ytimg.com/vi/4Ws60mzHMyE/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "#Declassified: Processing & Preserving Video Games"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Library of Congress"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=4Ws60mzHMyE"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-57bf1e915a2aca5eaedc-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/loc\" target=\"_blank\" rel=\"noreferrer\">Library of Congress</a></em>"
+    },
+    {
+      "id": "media-57bf1e915a2aca5eaedc-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/4Ws60mzHMyE?feature=oembed",
+      "title": "#Declassified: Processing & Preserving Video Games",
+      "caption": ""
+    },
+    {
+      "id": "media-57bf1e915a2aca5eaedc-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=4Ws60mzHMyE\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

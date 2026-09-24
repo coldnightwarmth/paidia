@@ -1,0 +1,76 @@
+{
+  "id": "media-cbfa2bdf268253f18953",
+  "slug": "media-a-culture-of-combat",
+  "title": "A Culture Of Combat",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=xplyJKj_W94",
+  "previewImage": "https://i.ytimg.com/vi/xplyJKj_W94/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "A Culture Of Combat"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Leon Massey"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=xplyJKj_W94"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-cbfa2bdf268253f18953-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@LeonMassey\" target=\"_blank\" rel=\"noreferrer\">Leon Massey</a></em>"
+    },
+    {
+      "id": "media-cbfa2bdf268253f18953-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/xplyJKj_W94?rel=0&start=3",
+      "title": "A Culture Of Combat",
+      "caption": ""
+    },
+    {
+      "id": "media-cbfa2bdf268253f18953-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=xplyJKj_W94\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

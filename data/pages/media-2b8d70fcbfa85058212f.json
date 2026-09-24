@@ -1,0 +1,75 @@
+{
+  "id": "media-2b8d70fcbfa85058212f",
+  "slug": "media-games-after-the-crash",
+  "title": "Games After The Crash",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=3k6vn-i32OU",
+  "previewImage": "https://i.ytimg.com/vi/3k6vn-i32OU/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Games After The Crash"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Leon Massey"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=3k6vn-i32OU"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-2b8d70fcbfa85058212f-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCo8186mZYAY49flt6HkbqlQ\" target=\"_blank\" rel=\"noreferrer\">Leon Massey</a></em>"
+    },
+    {
+      "id": "media-2b8d70fcbfa85058212f-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/3k6vn-i32OU?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "Games After The Crash",
+      "caption": ""
+    },
+    {
+      "id": "media-2b8d70fcbfa85058212f-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=3k6vn-i32OU\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

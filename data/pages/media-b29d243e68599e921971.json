@@ -1,0 +1,74 @@
+{
+  "id": "media-b29d243e68599e921971",
+  "slug": "media-ludology",
+  "title": "Ludology",
+  "icon": "🎙️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "http://ludology.net/",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Ludology"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "GameTek & Biography of a Board Game"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Series, Podcast"
+      ]
+    ],
+    "Source": [
+      [
+        "http://ludology.net/"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Series",
+      "Podcast"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-b29d243e68599e921971-creator",
+      "type": "paragraph",
+      "html": "<em>by GameTek &amp; Biography of a Board Game</em>"
+    },
+    {
+      "id": "media-b29d243e68599e921971-description",
+      "type": "paragraph",
+      "html": "Ludology boardgame podcast"
+    },
+    {
+      "id": "media-b29d243e68599e921971-source",
+      "type": "paragraph",
+      "html": "<a href=\"http://ludology.net/\" target=\"_blank\" rel=\"noreferrer\">Open original podcast</a>"
+    }
+  ]
+}

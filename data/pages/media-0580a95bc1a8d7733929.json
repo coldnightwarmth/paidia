@@ -1,0 +1,76 @@
+{
+  "id": "media-0580a95bc1a8d7733929",
+  "slug": "media-how-many-super-mario-games-are-there",
+  "title": "how many Super Mario games are there?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=XejJ6PzPtEw",
+  "previewImage": "https://i.ytimg.com/vi/XejJ6PzPtEw/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "how many Super Mario games are there?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "jan Misali"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=XejJ6PzPtEw"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-0580a95bc1a8d7733929-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCJOh5FKisc0hUlEeWFBlD-w\" target=\"_blank\" rel=\"noreferrer\">jan Misali</a></em>"
+    },
+    {
+      "id": "media-0580a95bc1a8d7733929-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/XejJ6PzPtEw?start=17&feature=oembed&start=17",
+      "title": "how many Super Mario games are there?",
+      "caption": ""
+    },
+    {
+      "id": "media-0580a95bc1a8d7733929-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=XejJ6PzPtEw\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

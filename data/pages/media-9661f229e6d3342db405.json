@@ -1,0 +1,75 @@
+{
+  "id": "media-9661f229e6d3342db405",
+  "slug": "media-out-of-the-mud-the-origins-of-the-mmorpg",
+  "title": "Out of the MUD: The Origins of the MMORPG",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=JqC66POqhY4",
+  "previewImage": "https://i.ytimg.com/vi/JqC66POqhY4/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Out of the MUD: The Origins of the MMORPG"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Maniax Channel"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=JqC66POqhY4"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-9661f229e6d3342db405-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC2pltGPtLBNk6Zym18G5eOQ\" target=\"_blank\" rel=\"noreferrer\">Maniax Channel</a></em>"
+    },
+    {
+      "id": "media-9661f229e6d3342db405-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/JqC66POqhY4?start=11&feature=oembed&start=11",
+      "title": "Out of the MUD: The Origins of the MMORPG",
+      "caption": ""
+    },
+    {
+      "id": "media-9661f229e6d3342db405-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=JqC66POqhY4\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

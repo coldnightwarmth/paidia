@@ -1,0 +1,76 @@
+{
+  "id": "media-d1d2f6b221981833d395",
+  "slug": "media-espen-aarseth-game-studies-from-the-hobbit-to-minecraft",
+  "title": "Espen Aarseth: Game Studies From The Hobbit to Minecraft",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=QeLAXMYspT0",
+  "previewImage": "https://i.ytimg.com/vi/QeLAXMYspT0/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Espen Aarseth: Game Studies From The Hobbit to Minecraft"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "IT University of Copenhagen"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=QeLAXMYspT0"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-d1d2f6b221981833d395-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCHltQkEaLxwloqDVsVmfwUw\" target=\"_blank\" rel=\"noreferrer\">IT University of Copenhagen</a></em>"
+    },
+    {
+      "id": "media-d1d2f6b221981833d395-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/QeLAXMYspT0?feature=oembed",
+      "title": "Espen Aarseth: Game Studies From The Hobbit to Minecraft",
+      "caption": ""
+    },
+    {
+      "id": "media-d1d2f6b221981833d395-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=QeLAXMYspT0\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

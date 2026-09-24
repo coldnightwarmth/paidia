@@ -1,0 +1,75 @@
+{
+  "id": "media-7a3cd8b9ba670a57783e",
+  "slug": "media-the-nintendo-fication-of-jazz",
+  "title": "The Nintendo-fication of Jazz",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=oKWgLe-jQjc",
+  "previewImage": "https://i.ytimg.com/vi/oKWgLe-jQjc/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Nintendo-fication of Jazz"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Adam Neely"
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=oKWgLe-jQjc"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-7a3cd8b9ba670a57783e-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@AdamNeely\" target=\"_blank\" rel=\"noreferrer\">Adam Neely</a></em>"
+    },
+    {
+      "id": "media-7a3cd8b9ba670a57783e-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/oKWgLe-jQjc?rel=0",
+      "title": "The Nintendo-fication of Jazz",
+      "caption": ""
+    },
+    {
+      "id": "media-7a3cd8b9ba670a57783e-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=oKWgLe-jQjc\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

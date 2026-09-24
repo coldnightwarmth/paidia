@@ -1,0 +1,75 @@
+{
+  "id": "media-fd40bdbf984d36e42f50",
+  "slug": "media-silence-world-s-hardest-route-9c-adam-ondra",
+  "title": "Silence | World's Hardest Route 9c | Adam Ondra",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=ZRTNHDd0gL8",
+  "previewImage": "https://i.ytimg.com/vi/ZRTNHDd0gL8/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Silence | World's Hardest Route 9c | Adam Ondra"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Adam Ondra"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=ZRTNHDd0gL8"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-fd40bdbf984d36e42f50-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC8eNyF9eYwgr_K-Nl4gSHWw\" target=\"_blank\" rel=\"noreferrer\">Adam Ondra</a></em>"
+    },
+    {
+      "id": "media-fd40bdbf984d36e42f50-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/ZRTNHDd0gL8?feature=oembed",
+      "title": "Silence | World's Hardest Route 9c | Adam Ondra",
+      "caption": ""
+    },
+    {
+      "id": "media-fd40bdbf984d36e42f50-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=ZRTNHDd0gL8\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

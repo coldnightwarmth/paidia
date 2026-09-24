@@ -1,8 +1,8 @@
 {
   "id": "5c956dc7-7bd4-439f-973e-3d819d90149d",
   "slug": "artifacts",
-  "title": "Artifacts",
-  "icon": "🏺",
+  "title": "Objects",
+  "icon": "./assets/home/object.png",
   "cover": "",
   "type": "page",
   "parentId": "9510bf90-3ac9-4424-974b-7424f3b33683",
@@ -22,7 +22,7 @@
     ],
     "title": [
       [
-        "Artifacts"
+        "Objects"
       ]
     ]
   },
@@ -66,5 +66,7 @@
       "type": "paragraph",
       "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
     }
-  ]
+  ],
+  "catalogDatabase": "objects",
+  "parentPageId": "dcdce636-0430-48ea-98c8-b0c6e48368c3"
 }

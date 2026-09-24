@@ -1,0 +1,70 @@
+{
+  "id": "media-2ee8dfddb77c35db0a8e",
+  "slug": "media-mark-fisher-cybertime-crisis",
+  "title": "Mark Fisher : Cybertime Crisis",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=h4r9-AmfaDs",
+  "previewImage": "https://i.ytimg.com/vi/h4r9-AmfaDs/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Mark Fisher : Cybertime Crisis"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        ""
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=h4r9-AmfaDs"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-2ee8dfddb77c35db0a8e-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/h4r9-AmfaDs?feature=oembed",
+      "title": "Mark Fisher : Cybertime Crisis",
+      "caption": ""
+    },
+    {
+      "id": "media-2ee8dfddb77c35db0a8e-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=h4r9-AmfaDs\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

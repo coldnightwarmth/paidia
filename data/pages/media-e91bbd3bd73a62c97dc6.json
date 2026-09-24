@@ -1,0 +1,75 @@
+{
+  "id": "media-e91bbd3bd73a62c97dc6",
+  "slug": "media-nvidia-s-gancraft-ai-feels-like-magic",
+  "title": "NVIDIA’s GANCraft AI: Feels Like Magic!",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=jl0XCslxwB0",
+  "previewImage": "https://i.ytimg.com/vi/jl0XCslxwB0/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "NVIDIA’s GANCraft AI: Feels Like Magic!"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Two Minute Papers"
+      ]
+    ],
+    "Category": [
+      [
+        "Computer Media"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Computer Media, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=jl0XCslxwB0"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Computer Media"
+    ],
+    "tags": [
+      "Computer Media",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-e91bbd3bd73a62c97dc6-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg\" target=\"_blank\" rel=\"noreferrer\">Two Minute Papers</a></em>"
+    },
+    {
+      "id": "media-e91bbd3bd73a62c97dc6-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/jl0XCslxwB0?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "NVIDIA’s GANCraft AI: Feels Like Magic!",
+      "caption": ""
+    },
+    {
+      "id": "media-e91bbd3bd73a62c97dc6-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=jl0XCslxwB0\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

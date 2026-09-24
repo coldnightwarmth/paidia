@@ -1,0 +1,75 @@
+{
+  "id": "media-9fb96afeb5203c8b433b",
+  "slug": "media-the-history-of-custom-gamecube-controllers",
+  "title": "The History of Custom GameCube Controllers",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=f3sDTdsYoMM",
+  "previewImage": "https://i.ytimg.com/vi/f3sDTdsYoMM/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The History of Custom GameCube Controllers"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Seth Loves to Talk"
+      ]
+    ],
+    "Category": [
+      [
+        "Fighting Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Fighting Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=f3sDTdsYoMM"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Fighting Games"
+    ],
+    "tags": [
+      "Fighting Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-9fb96afeb5203c8b433b-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@SethLovestoTalk\" target=\"_blank\" rel=\"noreferrer\">Seth Loves to Talk</a></em>"
+    },
+    {
+      "id": "media-9fb96afeb5203c8b433b-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/f3sDTdsYoMM?rel=0",
+      "title": "The History of Custom GameCube Controllers",
+      "caption": ""
+    },
+    {
+      "id": "media-9fb96afeb5203c8b433b-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=f3sDTdsYoMM\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "media-c2128071b24cc6094a06",
+  "slug": "media-8000-years-of-board-game-history-in-43-minutes-shux-presents",
+  "title": "8000 Years of Board Game History in 43 Minutes - SHUX Presents",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Gov-qrjvOTc",
+  "previewImage": "https://i.ytimg.com/vi/Gov-qrjvOTc/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "8000 Years of Board Game History in 43 Minutes - SHUX Presents"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Shut Up & Sit Down"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures, Tabletop Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Tabletop Games, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Gov-qrjvOTc"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures",
+      "Tabletop Games"
+    ],
+    "tags": [
+      "Lectures",
+      "Tabletop Games",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-c2128071b24cc6094a06-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCyRhIGDUKdIOw07Pd8pHxCw\" target=\"_blank\" rel=\"noreferrer\">Shut Up &amp; Sit Down</a></em>"
+    },
+    {
+      "id": "media-c2128071b24cc6094a06-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Gov-qrjvOTc?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=515",
+      "title": "8000 Years of Board Game History in 43 Minutes - SHUX Presents",
+      "caption": ""
+    },
+    {
+      "id": "media-c2128071b24cc6094a06-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Gov-qrjvOTc\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

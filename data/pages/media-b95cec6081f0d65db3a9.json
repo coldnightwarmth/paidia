@@ -1,0 +1,76 @@
+{
+  "id": "media-b95cec6081f0d65db3a9",
+  "slug": "media-what-s-with-the-zone-flow-theory",
+  "title": "What's With The Zone? (Flow Theory)",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=KvD0dSPMLoA",
+  "previewImage": "https://i.ytimg.com/vi/KvD0dSPMLoA/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "What's With The Zone? (Flow Theory)"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "What's With Games"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Design, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=KvD0dSPMLoA"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Design",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-b95cec6081f0d65db3a9-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC-qto1ZFcRtvuL_PUIiC3Qg\" target=\"_blank\" rel=\"noreferrer\">What's With Games</a></em>"
+    },
+    {
+      "id": "media-b95cec6081f0d65db3a9-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/KvD0dSPMLoA?feature=oembed",
+      "title": "What's With The Zone? (Flow Theory)",
+      "caption": ""
+    },
+    {
+      "id": "media-b95cec6081f0d65db3a9-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=KvD0dSPMLoA\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

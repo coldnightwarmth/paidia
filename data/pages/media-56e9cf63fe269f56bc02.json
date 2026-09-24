@@ -1,0 +1,75 @@
+{
+  "id": "media-56e9cf63fe269f56bc02",
+  "slug": "media-the-8-bit-arcade-font-deconstructed",
+  "title": "The 8-bit arcade font, deconstructed",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=C5NiAoT3xsY",
+  "previewImage": "https://i.ytimg.com/vi/C5NiAoT3xsY/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The 8-bit arcade font, deconstructed"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Vox"
+      ]
+    ],
+    "Category": [
+      [
+        "Computer Media"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Computer Media, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=C5NiAoT3xsY"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Computer Media"
+    ],
+    "tags": [
+      "Computer Media",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-56e9cf63fe269f56bc02-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@Vox\" target=\"_blank\" rel=\"noreferrer\">Vox</a></em>"
+    },
+    {
+      "id": "media-56e9cf63fe269f56bc02-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/C5NiAoT3xsY?rel=0",
+      "title": "The 8-bit arcade font, deconstructed",
+      "caption": ""
+    },
+    {
+      "id": "media-56e9cf63fe269f56bc02-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=C5NiAoT3xsY\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

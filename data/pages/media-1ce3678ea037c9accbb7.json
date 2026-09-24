@@ -1,0 +1,75 @@
+{
+  "id": "media-1ce3678ea037c9accbb7",
+  "slug": "media-the-teenagers-who-taught-nintendo-how-to-make-starfox",
+  "title": "The Teenagers Who Taught Nintendo How to Make Starfox",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=to4Ekb0kXiE",
+  "previewImage": "https://i.ytimg.com/vi/to4Ekb0kXiE/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Teenagers Who Taught Nintendo How to Make Starfox"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "People Make Games"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=to4Ekb0kXiE"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-1ce3678ea037c9accbb7-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCZB6V9fUov0Mx_us3MWWILg\" target=\"_blank\" rel=\"noreferrer\">People Make Games</a></em>"
+    },
+    {
+      "id": "media-1ce3678ea037c9accbb7-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/to4Ekb0kXiE?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW&start=1",
+      "title": "The Teenagers Who Taught Nintendo How to Make Starfox",
+      "caption": ""
+    },
+    {
+      "id": "media-1ce3678ea037c9accbb7-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=to4Ekb0kXiE\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

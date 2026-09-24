@@ -1,0 +1,75 @@
+{
+  "id": "media-0ade66a793c2b6001612",
+  "slug": "media-how-playing-cards-look-around-the-world",
+  "title": "How playing cards look around the world",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=449aAvel8BI",
+  "previewImage": "https://i.ytimg.com/vi/449aAvel8BI/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "How playing cards look around the world"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "J.J. McCullough"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=449aAvel8BI"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-0ade66a793c2b6001612-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCyhOl6uRlxryALlT5yifldw\" target=\"_blank\" rel=\"noreferrer\">J.J. McCullough</a></em>"
+    },
+    {
+      "id": "media-0ade66a793c2b6001612-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/449aAvel8BI?feature=oembed",
+      "title": "How playing cards look around the world",
+      "caption": ""
+    },
+    {
+      "id": "media-0ade66a793c2b6001612-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=449aAvel8BI\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

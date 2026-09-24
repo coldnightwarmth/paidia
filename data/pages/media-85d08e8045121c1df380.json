@@ -1,0 +1,75 @@
+{
+  "id": "media-85d08e8045121c1df380",
+  "slug": "media-the-ai-of-creatures",
+  "title": "The AI of \"Creatures\"",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Y-6DzI-krUQ",
+  "previewImage": "https://i.ytimg.com/vi/Y-6DzI-krUQ/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The AI of \"Creatures\""
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Alan Zucconi"
+      ]
+    ],
+    "Category": [
+      [
+        "Computer Media"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Computer Media, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Y-6DzI-krUQ"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Computer Media"
+    ],
+    "tags": [
+      "Computer Media",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-85d08e8045121c1df380-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC8Wrbf2aJkX63pu2bG5QiFg\" target=\"_blank\" rel=\"noreferrer\">Alan Zucconi</a></em>"
+    },
+    {
+      "id": "media-85d08e8045121c1df380-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Y-6DzI-krUQ?start=182&feature=oembed&start=182",
+      "title": "The AI of \"Creatures\"",
+      "caption": ""
+    },
+    {
+      "id": "media-85d08e8045121c1df380-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Y-6DzI-krUQ\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

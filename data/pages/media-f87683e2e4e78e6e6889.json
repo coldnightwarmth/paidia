@@ -1,0 +1,75 @@
+{
+  "id": "media-f87683e2e4e78e6e6889",
+  "slug": "media-world-record-progression-sonic-adventure-2-battle",
+  "title": "World Record Progression: Sonic Adventure 2 Battle",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=vfFbui-9du8",
+  "previewImage": "https://i.ytimg.com/vi/vfFbui-9du8/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "World Record Progression: Sonic Adventure 2 Battle"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Summoning Salt"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=vfFbui-9du8"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-f87683e2e4e78e6e6889-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w\" target=\"_blank\" rel=\"noreferrer\">Summoning Salt</a></em>"
+    },
+    {
+      "id": "media-f87683e2e4e78e6e6889-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/vfFbui-9du8?feature=oembed",
+      "title": "World Record Progression: Sonic Adventure 2 Battle",
+      "caption": ""
+    },
+    {
+      "id": "media-f87683e2e4e78e6e6889-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=vfFbui-9du8\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

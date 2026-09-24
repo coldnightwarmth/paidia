@@ -1,0 +1,69 @@
+{
+  "id": "media-fb93f7030867339311d4",
+  "slug": "media-paradise-fm",
+  "title": "paradise.fm",
+  "icon": "🎙️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://youcanneverleave.art/radio/",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "paradise.fm"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "brin"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Series, Podcast"
+      ]
+    ],
+    "Source": [
+      [
+        "https://youcanneverleave.art/radio/"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Series",
+      "Podcast"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-fb93f7030867339311d4-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://brin.neocities.org/\" target=\"_blank\" rel=\"noreferrer\">brin</a></em>"
+    },
+    {
+      "id": "media-fb93f7030867339311d4-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://youcanneverleave.art/radio/\" target=\"_blank\" rel=\"noreferrer\">Open original podcast</a>"
+    }
+  ]
+}

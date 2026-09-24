@@ -1,0 +1,69 @@
+{
+  "id": "media-fbdd537befd7fc938bac",
+  "slug": "media-two-minute-papers",
+  "title": "Two Minute Papers",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Two Minute Papers"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Two Minute Papers"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Technology, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Technology",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-fbdd537befd7fc938bac-creator",
+      "type": "paragraph",
+      "html": "<em>by Two Minute Papers</em>"
+    },
+    {
+      "id": "media-fbdd537befd7fc938bac-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

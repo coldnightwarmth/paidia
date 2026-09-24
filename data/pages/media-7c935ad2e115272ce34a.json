@@ -1,0 +1,75 @@
+{
+  "id": "media-7c935ad2e115272ce34a",
+  "slug": "media-most-insane-ski-line-ever",
+  "title": "Most insane ski line EVER",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=aDEaAOcDKnA",
+  "previewImage": "https://i.ytimg.com/vi/aDEaAOcDKnA/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Most insane ski line EVER"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Matchstick Productions"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=aDEaAOcDKnA"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-7c935ad2e115272ce34a-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC_BxhpdU7sH-LEIHJ6V_CoQ\" target=\"_blank\" rel=\"noreferrer\">Matchstick Productions</a></em>"
+    },
+    {
+      "id": "media-7c935ad2e115272ce34a-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/aDEaAOcDKnA?feature=oembed",
+      "title": "Most insane ski line EVER",
+      "caption": ""
+    },
+    {
+      "id": "media-7c935ad2e115272ce34a-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=aDEaAOcDKnA\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

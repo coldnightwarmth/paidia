@@ -1,0 +1,76 @@
+{
+  "id": "media-932781a82dfea8efeb96",
+  "slug": "media-video-game-academics-alchemy-bloodborne-silent-hill-xenosaga-and-more",
+  "title": "Video Game Academics - Alchemy (Bloodborne, Silent Hill, Xenosaga, and More)",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=wtEmjKSm0lM",
+  "previewImage": "https://i.ytimg.com/vi/wtEmjKSm0lM/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Video Game Academics - Alchemy (Bloodborne, Silent Hill, Xenosaga, and More)"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Max Derrat"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=wtEmjKSm0lM"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-932781a82dfea8efeb96-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCj8orMezFWVcoN-4S545Wtw\" target=\"_blank\" rel=\"noreferrer\">Max Derrat</a></em>"
+    },
+    {
+      "id": "media-932781a82dfea8efeb96-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/wtEmjKSm0lM?feature=oembed",
+      "title": "Video Game Academics - Alchemy (Bloodborne, Silent Hill, Xenosaga, and More)",
+      "caption": ""
+    },
+    {
+      "id": "media-932781a82dfea8efeb96-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=wtEmjKSm0lM\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

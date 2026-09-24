@@ -1,0 +1,75 @@
+{
+  "id": "media-69de442615a82347444e",
+  "slug": "media-when-does-play-become-work",
+  "title": "When Does Play Become Work?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=quWtUnDA8Uk",
+  "previewImage": "https://i.ytimg.com/vi/quWtUnDA8Uk/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "When Does Play Become Work?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "PBS Idea Channel"
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=quWtUnDA8Uk"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-69de442615a82347444e-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC3LqW4ijMoENQ2Wv17ZrFJA\" target=\"_blank\" rel=\"noreferrer\">PBS Idea Channel</a></em>"
+    },
+    {
+      "id": "media-69de442615a82347444e-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/quWtUnDA8Uk?feature=oembed",
+      "title": "When Does Play Become Work?",
+      "caption": ""
+    },
+    {
+      "id": "media-69de442615a82347444e-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=quWtUnDA8Uk\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

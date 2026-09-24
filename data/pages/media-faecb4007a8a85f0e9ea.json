@@ -1,0 +1,74 @@
+{
+  "id": "media-faecb4007a8a85f0e9ea",
+  "slug": "media-the-video-game-history-hour",
+  "title": "The Video Game History Hour",
+  "icon": "🎙️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://gamehistory.org/the-video-game-history-hour/",
+  "previewImage": "https://gamehistory.org/wp-content/uploads/2020/10/widescreen_logo.png",
+  "properties": {
+    "title": [
+      [
+        "The Video Game History Hour"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "The Video Game History Foundation"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Series, Podcast"
+      ]
+    ],
+    "Source": [
+      [
+        "https://gamehistory.org/the-video-game-history-hour/"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Series",
+      "Podcast"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-faecb4007a8a85f0e9ea-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://gamehistory.org/\" target=\"_blank\" rel=\"noreferrer\">The Video Game History Foundation</a></em>"
+    },
+    {
+      "id": "media-faecb4007a8a85f0e9ea-description",
+      "type": "paragraph",
+      "html": "Computer and video game historian, NYU assistant professor, and all-around rad friend of the show Laine Nooney discusses their recent article One of the most important women in Apple's history never worked for Apple. In this episode: Bitcoin, ham radios, VR, and the Apple II - it's all related; Softalk magazine; the 1977 Trinity; and..."
+    },
+    {
+      "id": "media-faecb4007a8a85f0e9ea-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://gamehistory.org/the-video-game-history-hour/\" target=\"_blank\" rel=\"noreferrer\">Open original podcast</a>"
+    }
+  ]
+}

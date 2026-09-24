@@ -1,0 +1,75 @@
+{
+  "id": "media-1824cfcbcda6bb4821b1",
+  "slug": "media-the-most-action-packed-straight-line-mission-to-date-day-1-ferns-tractor",
+  "title": "The most action packed straight-line-mission to date (DAY 1: Ferns & Tractors)",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=alzC4vM64ok",
+  "previewImage": "https://i.ytimg.com/vi/alzC4vM64ok/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The most action packed straight-line-mission to date (DAY 1: Ferns & Tractors)"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "GeoWizard"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=alzC4vM64ok"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-1824cfcbcda6bb4821b1-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/GeoWizard\" target=\"_blank\" rel=\"noreferrer\">GeoWizard</a></em>"
+    },
+    {
+      "id": "media-1824cfcbcda6bb4821b1-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/alzC4vM64ok?feature=oembed",
+      "title": "The most action packed straight-line-mission to date (DAY 1: Ferns & Tractors)",
+      "caption": ""
+    },
+    {
+      "id": "media-1824cfcbcda6bb4821b1-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=alzC4vM64ok\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-b5783646a90e13714605",
+  "slug": "media-national-parks-history-timeline",
+  "title": "National Parks History | Timeline",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=afFsoffIjqE",
+  "previewImage": "https://i.ytimg.com/vi/afFsoffIjqE/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "National Parks History | Timeline"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Rad History"
+      ]
+    ],
+    "Category": [
+      [
+        "Sports"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Sports, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=afFsoffIjqE"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "Sports",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-b5783646a90e13714605-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCd7vfIsg4rElzdPrDWpHNJQ\" target=\"_blank\" rel=\"noreferrer\">Rad History</a></em>"
+    },
+    {
+      "id": "media-b5783646a90e13714605-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/afFsoffIjqE?feature=oembed",
+      "title": "National Parks History | Timeline",
+      "caption": ""
+    },
+    {
+      "id": "media-b5783646a90e13714605-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=afFsoffIjqE\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-4e5da5bb36ace2086887",
+  "slug": "media-the-glitch-fighting-games-kept",
+  "title": "The Glitch Fighting Games Kept",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=uj1B-a12sPU",
+  "previewImage": "https://i.ytimg.com/vi/uj1B-a12sPU/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Glitch Fighting Games Kept"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "TheoryFighter"
+      ]
+    ],
+    "Category": [
+      [
+        "Fighting Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Fighting Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=uj1B-a12sPU"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Fighting Games"
+    ],
+    "tags": [
+      "Fighting Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-4e5da5bb36ace2086887-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCmSXm8C4D_jq0nKMCzTTyLg\" target=\"_blank\" rel=\"noreferrer\">TheoryFighter</a></em>"
+    },
+    {
+      "id": "media-4e5da5bb36ace2086887-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/uj1B-a12sPU?start=4&feature=oembed&start=4",
+      "title": "The Glitch Fighting Games Kept",
+      "caption": ""
+    },
+    {
+      "id": "media-4e5da5bb36ace2086887-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=uj1B-a12sPU\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

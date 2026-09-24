@@ -1,0 +1,76 @@
+{
+  "id": "media-19eebaf447b062493de6",
+  "slug": "media-the-2017-experimental-gameplay-workshop",
+  "title": "The 2017 Experimental Gameplay Workshop",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Y4cCCgOXcNU",
+  "previewImage": "https://i.ytimg.com/vi/Y4cCCgOXcNU/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The 2017 Experimental Gameplay Workshop"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "GDC"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Y4cCCgOXcNU"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-19eebaf447b062493de6-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\">GDC</a></em>"
+    },
+    {
+      "id": "media-19eebaf447b062493de6-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Y4cCCgOXcNU?start=1202&feature=oembed&start=1202",
+      "title": "The 2017 Experimental Gameplay Workshop",
+      "caption": ""
+    },
+    {
+      "id": "media-19eebaf447b062493de6-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Y4cCCgOXcNU\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

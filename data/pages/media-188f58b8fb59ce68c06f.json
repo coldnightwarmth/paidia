@@ -1,0 +1,69 @@
+{
+  "id": "media-188f58b8fb59ce68c06f",
+  "slug": "media-they-create-worlds",
+  "title": "They Create Worlds",
+  "icon": "🎙️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://tcwpodcast.podbean.com/",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "They Create Worlds"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Alexander Smith"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Series, Podcast"
+      ]
+    ],
+    "Source": [
+      [
+        "https://tcwpodcast.podbean.com/"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Series",
+      "Podcast"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-188f58b8fb59ce68c06f-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://videogamehistorian.wordpress.com/about/\" target=\"_blank\" rel=\"noreferrer\">Alexander Smith</a></em>"
+    },
+    {
+      "id": "media-188f58b8fb59ce68c06f-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://tcwpodcast.podbean.com/\" target=\"_blank\" rel=\"noreferrer\">Open original podcast</a>"
+    }
+  ]
+}

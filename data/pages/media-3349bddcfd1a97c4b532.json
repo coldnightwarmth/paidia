@@ -1,0 +1,75 @@
+{
+  "id": "media-3349bddcfd1a97c4b532",
+  "slug": "media-how-a-pinball-machine-works-in-slow-motion-the-slow-mo-guys",
+  "title": "How a Pinball Machine works in Slow Motion - The Slow Mo Guys",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Tmg5WOvPKpU",
+  "previewImage": "https://i.ytimg.com/vi/Tmg5WOvPKpU/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "How a Pinball Machine works in Slow Motion - The Slow Mo Guys"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "The Slow Mo Guys"
+      ]
+    ],
+    "Category": [
+      [
+        "Extraordinary Play"
+      ]
+    ],
+    "Type": [
+      [
+        "Video"
+      ]
+    ],
+    "Tags": [
+      [
+        "Extraordinary Play, Video"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Tmg5WOvPKpU"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Extraordinary Play"
+    ],
+    "tags": [
+      "Extraordinary Play",
+      "Video"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-3349bddcfd1a97c4b532-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCUK0HBIBWgM2c4vsPhkYY4w\" target=\"_blank\" rel=\"noreferrer\">The Slow Mo Guys</a></em>"
+    },
+    {
+      "id": "media-3349bddcfd1a97c4b532-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Tmg5WOvPKpU?feature=oembed",
+      "title": "How a Pinball Machine works in Slow Motion - The Slow Mo Guys",
+      "caption": ""
+    },
+    {
+      "id": "media-3349bddcfd1a97c4b532-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Tmg5WOvPKpU\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

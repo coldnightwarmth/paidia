@@ -1,0 +1,75 @@
+{
+  "id": "media-c51bf532d1888a89c65e",
+  "slug": "media-satoru-iwata-ceo-game-developer-gamer",
+  "title": "Satoru Iwata: CEO, Game Developer, Gamer",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=VUHi-vlACJI",
+  "previewImage": "https://i.ytimg.com/vi/VUHi-vlACJI/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Satoru Iwata: CEO, Game Developer, Gamer"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "DidYouKnowGaming?"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=VUHi-vlACJI"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-c51bf532d1888a89c65e-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCyS4xQE6DK4_p3qXQwJQAyA\" target=\"_blank\" rel=\"noreferrer\">DidYouKnowGaming?</a></em>"
+    },
+    {
+      "id": "media-c51bf532d1888a89c65e-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/VUHi-vlACJI?feature=oembed",
+      "title": "Satoru Iwata: CEO, Game Developer, Gamer",
+      "caption": ""
+    },
+    {
+      "id": "media-c51bf532d1888a89c65e-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=VUHi-vlACJI\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

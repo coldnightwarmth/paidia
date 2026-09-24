@@ -1,0 +1,75 @@
+{
+  "id": "media-7c05300509be8b2feee8",
+  "slug": "media-the-beauty-of-degraded-media",
+  "title": "The Beauty of Degraded Media",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=gEygho_j5j0",
+  "previewImage": "https://i.ytimg.com/vi/gEygho_j5j0/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Beauty of Degraded Media"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Polyphonic"
+      ]
+    ],
+    "Category": [
+      [
+        "Computer Media"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Computer Media, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=gEygho_j5j0"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Computer Media"
+    ],
+    "tags": [
+      "Computer Media",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-7c05300509be8b2feee8-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ\" target=\"_blank\" rel=\"noreferrer\">Polyphonic</a></em>"
+    },
+    {
+      "id": "media-7c05300509be8b2feee8-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/gEygho_j5j0?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "The Beauty of Degraded Media",
+      "caption": ""
+    },
+    {
+      "id": "media-7c05300509be8b2feee8-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=gEygho_j5j0\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

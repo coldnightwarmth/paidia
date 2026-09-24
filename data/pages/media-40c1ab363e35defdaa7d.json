@@ -1,0 +1,75 @@
+{
+  "id": "media-40c1ab363e35defdaa7d",
+  "slug": "media-the-growing-pains-of-the-sixth-generation-playstation-2-xbox-and-gamecub",
+  "title": "The Growing Pains of the Sixth Generation (PlayStation 2, Xbox, and GameCube)",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=OQMZCohr4W8",
+  "previewImage": "https://i.ytimg.com/vi/OQMZCohr4W8/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Growing Pains of the Sixth Generation (PlayStation 2, Xbox, and GameCube)"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "The Geek Critique"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=OQMZCohr4W8"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-40c1ab363e35defdaa7d-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/GeekCritique\" target=\"_blank\" rel=\"noreferrer\">The Geek Critique</a></em>"
+    },
+    {
+      "id": "media-40c1ab363e35defdaa7d-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/OQMZCohr4W8?feature=oembed",
+      "title": "The Growing Pains of the Sixth Generation (PlayStation 2, Xbox, and GameCube)",
+      "caption": ""
+    },
+    {
+      "id": "media-40c1ab363e35defdaa7d-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=OQMZCohr4W8\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

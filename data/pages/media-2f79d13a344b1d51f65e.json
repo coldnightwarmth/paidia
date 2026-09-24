@@ -1,0 +1,75 @@
+{
+  "id": "media-2f79d13a344b1d51f65e",
+  "slug": "media-well-played-life-1-a-theology-of-play-for-the-overworked",
+  "title": "Well Played Life 1: A Theology of Play for the Overworked",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=duh4XbuKpGg",
+  "previewImage": "https://i.ytimg.com/vi/duh4XbuKpGg/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Well Played Life 1: A Theology of Play for the Overworked"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Matthew Stultz"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=duh4XbuKpGg"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-2f79d13a344b1d51f65e-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCMZr_6FtpFeH-BTfTynIhog\" target=\"_blank\" rel=\"noreferrer\">Matthew Stultz</a></em>"
+    },
+    {
+      "id": "media-2f79d13a344b1d51f65e-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/duh4XbuKpGg?feature=oembed",
+      "title": "Well Played Life 1: A Theology of Play for the Overworked",
+      "caption": ""
+    },
+    {
+      "id": "media-2f79d13a344b1d51f65e-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=duh4XbuKpGg\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

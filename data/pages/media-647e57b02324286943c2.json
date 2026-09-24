@@ -1,0 +1,75 @@
+{
+  "id": "media-647e57b02324286943c2",
+  "slug": "media-hacking-through-the-decades",
+  "title": "Hacking Through the Decades",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=71kJnYzkpy4",
+  "previewImage": "https://i.ytimg.com/vi/71kJnYzkpy4/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Hacking Through the Decades"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Sumsub"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=71kJnYzkpy4"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-647e57b02324286943c2-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/Sumsubcom\" target=\"_blank\" rel=\"noreferrer\">Sumsub</a></em>"
+    },
+    {
+      "id": "media-647e57b02324286943c2-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/71kJnYzkpy4?feature=oembed",
+      "title": "Hacking Through the Decades",
+      "caption": ""
+    },
+    {
+      "id": "media-647e57b02324286943c2-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=71kJnYzkpy4\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

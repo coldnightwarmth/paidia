@@ -1,0 +1,69 @@
+{
+  "id": "media-1ddf43d6b48a02dda9d3",
+  "slug": "media-games-as-literature",
+  "title": "Games As Literature",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/c/GamesAsLiterature/videos",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "Games As Literature"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Games As Literature"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Analysis, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/c/GamesAsLiterature/videos"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Analysis",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-1ddf43d6b48a02dda9d3-creator",
+      "type": "paragraph",
+      "html": "<em>by Games As Literature</em>"
+    },
+    {
+      "id": "media-1ddf43d6b48a02dda9d3-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/c/GamesAsLiterature/videos\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

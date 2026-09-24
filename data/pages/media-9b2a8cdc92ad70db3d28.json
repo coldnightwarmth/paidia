@@ -1,0 +1,74 @@
+{
+  "id": "media-9b2a8cdc92ad70db3d28",
+  "slug": "media-poetry-as-play",
+  "title": "Poetry as Play",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.poetryfoundation.org/podcasts/76848/poetry-as-play",
+  "previewImage": "https://s3.us-east-2.amazonaws.com/poetry-tpf-production/uploads/contentImages/_1200x630_crop_center-center_82_none/poetry-foundation-meta-image.png?mtime=1497301423",
+  "properties": {
+    "title": [
+      [
+        "Poetry as Play"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Poetry Off The Shelf"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.poetryfoundation.org/podcasts/76848/poetry-as-play"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-9b2a8cdc92ad70db3d28-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.poetryfoundation.org/podcasts/series/74636/poetryofftheshelf\" target=\"_blank\" rel=\"noreferrer\">Poetry Off The Shelf</a></em>"
+    },
+    {
+      "id": "media-9b2a8cdc92ad70db3d28-description",
+      "type": "paragraph",
+      "html": "Producer Helena de Groot explores the diverse world of contemporary poetry with readings by poets, interviews with critics, and short poetry documentaries. Nothing is off limits, and nobody is taken too seriously."
+    },
+    {
+      "id": "media-9b2a8cdc92ad70db3d28-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.poetryfoundation.org/podcasts/76848/poetry-as-play\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-9b18594deeeb68caff4e",
+  "slug": "media-does-dnd-need-rules",
+  "title": "Does DnD Need Rules?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=d4lvrC3ZBzM",
+  "previewImage": "https://i.ytimg.com/vi/d4lvrC3ZBzM/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Does DnD Need Rules?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Questing Beast"
+      ]
+    ],
+    "Category": [
+      [
+        "Tabletop Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Tabletop Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=d4lvrC3ZBzM"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Tabletop Games"
+    ],
+    "tags": [
+      "Tabletop Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-9b18594deeeb68caff4e-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/QuestingBeast\" target=\"_blank\" rel=\"noreferrer\">Questing Beast</a></em>"
+    },
+    {
+      "id": "media-9b18594deeeb68caff4e-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/d4lvrC3ZBzM?feature=oembed",
+      "title": "Does DnD Need Rules?",
+      "caption": ""
+    },
+    {
+      "id": "media-9b18594deeeb68caff4e-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=d4lvrC3ZBzM\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

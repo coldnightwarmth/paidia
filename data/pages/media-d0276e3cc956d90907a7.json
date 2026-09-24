@@ -1,0 +1,76 @@
+{
+  "id": "media-d0276e3cc956d90907a7",
+  "slug": "media-following-the-little-dotted-line",
+  "title": "Following the Little Dotted Line",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=FzOCkXsyIqo",
+  "previewImage": "https://i.ytimg.com/vi/FzOCkXsyIqo/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Following the Little Dotted Line"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Game Maker's Toolkit"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Design, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=FzOCkXsyIqo"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Design",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-d0276e3cc956d90907a7-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw\" target=\"_blank\" rel=\"noreferrer\">Game Maker's Toolkit</a></em>"
+    },
+    {
+      "id": "media-d0276e3cc956d90907a7-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/FzOCkXsyIqo?feature=oembed",
+      "title": "Following the Little Dotted Line",
+      "caption": ""
+    },
+    {
+      "id": "media-d0276e3cc956d90907a7-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=FzOCkXsyIqo\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

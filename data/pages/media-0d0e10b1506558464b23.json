@@ -1,0 +1,75 @@
+{
+  "id": "media-0d0e10b1506558464b23",
+  "slug": "media-classic-postmortem-the-making-of-myst",
+  "title": "Classic Postmortem: The Making Of Myst",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=7cULHgP8tmo",
+  "previewImage": "https://i.ytimg.com/vi/7cULHgP8tmo/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Classic Postmortem: The Making Of Myst"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "GDC"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=7cULHgP8tmo"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-0d0e10b1506558464b23-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\">GDC</a></em>"
+    },
+    {
+      "id": "media-0d0e10b1506558464b23-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/7cULHgP8tmo?feature=oembed",
+      "title": "Classic Postmortem: The Making Of Myst",
+      "caption": ""
+    },
+    {
+      "id": "media-0d0e10b1506558464b23-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=7cULHgP8tmo\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

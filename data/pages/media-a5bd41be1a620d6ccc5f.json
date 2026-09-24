@@ -1,0 +1,76 @@
+{
+  "id": "media-a5bd41be1a620d6ccc5f",
+  "slug": "media-finding-true-freedom-in-videogames",
+  "title": "Finding True Freedom In Videogames",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=k_YoP_dkMLk",
+  "previewImage": "https://i.ytimg.com/vi/k_YoP_dkMLk/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Finding True Freedom In Videogames"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Adam Millard - The Architect of Games"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=k_YoP_dkMLk"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-a5bd41be1a620d6ccc5f-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCY3A_5R_m3PXCn5XDhvBBsg\" target=\"_blank\" rel=\"noreferrer\">Adam Millard - The Architect of Games</a></em>"
+    },
+    {
+      "id": "media-a5bd41be1a620d6ccc5f-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/k_YoP_dkMLk?feature=oembed",
+      "title": "Finding True Freedom In Videogames",
+      "caption": ""
+    },
+    {
+      "id": "media-a5bd41be1a620d6ccc5f-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=k_YoP_dkMLk\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

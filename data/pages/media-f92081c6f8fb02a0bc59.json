@@ -1,0 +1,75 @@
+{
+  "id": "media-f92081c6f8fb02a0bc59",
+  "slug": "media-jonathan-blow-truth-in-game-design",
+  "title": "Jonathan Blow - Truth In Game Design",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=C5FUtrmO7gI",
+  "previewImage": "https://i.ytimg.com/vi/C5FUtrmO7gI/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Jonathan Blow - Truth In Game Design"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "GDC"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=C5FUtrmO7gI"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-f92081c6f8fb02a0bc59-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ\" target=\"_blank\" rel=\"noreferrer\">GDC</a></em>"
+    },
+    {
+      "id": "media-f92081c6f8fb02a0bc59-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/C5FUtrmO7gI?feature=oembed",
+      "title": "Jonathan Blow - Truth In Game Design",
+      "caption": ""
+    },
+    {
+      "id": "media-f92081c6f8fb02a0bc59-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=C5FUtrmO7gI\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

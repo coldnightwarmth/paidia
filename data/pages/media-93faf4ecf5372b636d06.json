@@ -1,0 +1,75 @@
+{
+  "id": "media-93faf4ecf5372b636d06",
+  "slug": "media-jump-arcs",
+  "title": "Jump Arcs",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=R1jFEMxGPzk",
+  "previewImage": "https://i.ytimg.com/vi/R1jFEMxGPzk/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Jump Arcs"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Leon Massey"
+      ]
+    ],
+    "Category": [
+      [
+        "Fighting Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Fighting Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=R1jFEMxGPzk"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Fighting Games"
+    ],
+    "tags": [
+      "Fighting Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-93faf4ecf5372b636d06-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCo8186mZYAY49flt6HkbqlQ\" target=\"_blank\" rel=\"noreferrer\">Leon Massey</a></em>"
+    },
+    {
+      "id": "media-93faf4ecf5372b636d06-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/R1jFEMxGPzk?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "Jump Arcs",
+      "caption": ""
+    },
+    {
+      "id": "media-93faf4ecf5372b636d06-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=R1jFEMxGPzk\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

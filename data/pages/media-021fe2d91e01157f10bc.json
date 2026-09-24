@@ -1,0 +1,75 @@
+{
+  "id": "media-021fe2d91e01157f10bc",
+  "slug": "media-postal-mediation-and-apocalyptic-game-studies",
+  "title": "Postal Mediation and Apocalyptic Game Studies",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=bgH9i7s4s98",
+  "previewImage": "https://i.ytimg.com/vi/bgH9i7s4s98/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Postal Mediation and Apocalyptic Game Studies"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "communicationplusone"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=bgH9i7s4s98"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures"
+    ],
+    "tags": [
+      "Lectures",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-021fe2d91e01157f10bc-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCv3hQW97gsU5sB1Pr3dRy4A\" target=\"_blank\" rel=\"noreferrer\">communicationplusone</a></em>"
+    },
+    {
+      "id": "media-021fe2d91e01157f10bc-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/bgH9i7s4s98?feature=oembed",
+      "title": "Postal Mediation and Apocalyptic Game Studies",
+      "caption": ""
+    },
+    {
+      "id": "media-021fe2d91e01157f10bc-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=bgH9i7s4s98\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

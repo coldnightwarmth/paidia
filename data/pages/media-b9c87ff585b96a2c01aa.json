@@ -1,0 +1,75 @@
+{
+  "id": "media-b9c87ff585b96a2c01aa",
+  "slug": "media-toys-and-games-in-ancient-greece",
+  "title": "Toys and Games in Ancient Greece",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=gLGkzQsxcWA",
+  "previewImage": "https://i.ytimg.com/vi/gLGkzQsxcWA/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Toys and Games in Ancient Greece"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Game For Thought"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=gLGkzQsxcWA"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-b9c87ff585b96a2c01aa-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/GameForThought\" target=\"_blank\" rel=\"noreferrer\">Game For Thought</a></em>"
+    },
+    {
+      "id": "media-b9c87ff585b96a2c01aa-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/gLGkzQsxcWA?feature=oembed",
+      "title": "Toys and Games in Ancient Greece",
+      "caption": ""
+    },
+    {
+      "id": "media-b9c87ff585b96a2c01aa-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=gLGkzQsxcWA\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

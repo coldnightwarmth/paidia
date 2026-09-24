@@ -1,0 +1,76 @@
+{
+  "id": "media-130b3a8bbee2e13c4fd4",
+  "slug": "media-the-dark-side-of-virtual-reality",
+  "title": "The Dark Side of Virtual Reality",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Tod1qMcWeMk",
+  "previewImage": "https://i.ytimg.com/vi/Tod1qMcWeMk/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Dark Side of Virtual Reality"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "BrandonFM"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Tod1qMcWeMk"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-130b3a8bbee2e13c4fd4-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCO39Y30rZQC1CiEYeOwlx4g\" target=\"_blank\" rel=\"noreferrer\">BrandonFM</a></em>"
+    },
+    {
+      "id": "media-130b3a8bbee2e13c4fd4-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Tod1qMcWeMk?feature=oembed",
+      "title": "The Dark Side of Virtual Reality",
+      "caption": ""
+    },
+    {
+      "id": "media-130b3a8bbee2e13c4fd4-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Tod1qMcWeMk\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

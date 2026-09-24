@@ -1,0 +1,69 @@
+{
+  "id": "media-431fd681e966ee707347",
+  "slug": "media-pbs-idea-channel",
+  "title": "PBS Idea Channel",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/user/pbsideachannel",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "PBS Idea Channel"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "PBS Idea Channel"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Analysis, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/user/pbsideachannel"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Analysis",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-431fd681e966ee707347-creator",
+      "type": "paragraph",
+      "html": "<em>by PBS Idea Channel</em>"
+    },
+    {
+      "id": "media-431fd681e966ee707347-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/user/pbsideachannel\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

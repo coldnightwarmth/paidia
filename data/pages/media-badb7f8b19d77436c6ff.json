@@ -1,0 +1,75 @@
+{
+  "id": "media-badb7f8b19d77436c6ff",
+  "slug": "media-working-at-valve-a-fearless-adventure-or-lord-of-the-flies",
+  "title": "Working at Valve: 'A Fearless Adventure' or 'Lord of the Flies'?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=s9aCwCKgkLo",
+  "previewImage": "https://i.ytimg.com/vi/s9aCwCKgkLo/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Working at Valve: 'A Fearless Adventure' or 'Lord of the Flies'?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "People Make Games"
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=s9aCwCKgkLo"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-badb7f8b19d77436c6ff-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@PeopleMakeGames\" target=\"_blank\" rel=\"noreferrer\">People Make Games</a></em>"
+    },
+    {
+      "id": "media-badb7f8b19d77436c6ff-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/s9aCwCKgkLo?rel=0",
+      "title": "Working at Valve: 'A Fearless Adventure' or 'Lord of the Flies'?",
+      "caption": ""
+    },
+    {
+      "id": "media-badb7f8b19d77436c6ff-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=s9aCwCKgkLo\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

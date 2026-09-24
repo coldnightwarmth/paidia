@@ -1,0 +1,75 @@
+{
+  "id": "media-6e2050b5d1789fea8b5e",
+  "slug": "media-ai-makes-video-game-after-watching-tennis-matches",
+  "title": "AI Makes Video Game After Watching Tennis Matches!",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=YCur6ir6wmw",
+  "previewImage": "https://i.ytimg.com/vi/YCur6ir6wmw/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "AI Makes Video Game After Watching Tennis Matches!"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Two Minute Papers"
+      ]
+    ],
+    "Category": [
+      [
+        "Computer Media"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Computer Media, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=YCur6ir6wmw"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Computer Media"
+    ],
+    "tags": [
+      "Computer Media",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-6e2050b5d1789fea8b5e-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg\" target=\"_blank\" rel=\"noreferrer\">Two Minute Papers</a></em>"
+    },
+    {
+      "id": "media-6e2050b5d1789fea8b5e-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/YCur6ir6wmw?feature=oembed",
+      "title": "AI Makes Video Game After Watching Tennis Matches!",
+      "caption": ""
+    },
+    {
+      "id": "media-6e2050b5d1789fea8b5e-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=YCur6ir6wmw\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

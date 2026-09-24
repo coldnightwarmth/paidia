@@ -1,0 +1,76 @@
+{
+  "id": "media-9bd3971671cdbbb8b72b",
+  "slug": "media-roundtable-discussion-what-s-the-point-of-game-studies",
+  "title": "Roundtable Discussion - What's the point of game studies?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=Y0dPoNLpWQ8",
+  "previewImage": "https://i.ytimg.com/vi/Y0dPoNLpWQ8/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Roundtable Discussion - What's the point of game studies?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Center for Computer Games Research"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Interview"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Interview"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=Y0dPoNLpWQ8"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Interview"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-9bd3971671cdbbb8b72b-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCRVJMmMMM_wKMejgdiwzZ9g\" target=\"_blank\" rel=\"noreferrer\">Center for Computer Games Research</a></em>"
+    },
+    {
+      "id": "media-9bd3971671cdbbb8b72b-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/Y0dPoNLpWQ8?feature=oembed",
+      "title": "Roundtable Discussion - What's the point of game studies?",
+      "caption": ""
+    },
+    {
+      "id": "media-9bd3971671cdbbb8b72b-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=Y0dPoNLpWQ8\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

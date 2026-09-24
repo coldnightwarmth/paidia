@@ -1,0 +1,76 @@
+{
+  "id": "media-5be30189f92b5d133c71",
+  "slug": "media-kulture-dads-002-the-rpg",
+  "title": "KULTURE DADS 002 — The RPG",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=SxK5WguZ6lQ",
+  "previewImage": "https://i.ytimg.com/vi/SxK5WguZ6lQ/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "KULTURE DADS 002 — The RPG"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Imperium Press"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Podcast Episode"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Podcast Episode"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=SxK5WguZ6lQ"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Podcast Episode"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-5be30189f92b5d133c71-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC0LwzH8A9m4Jj_74jl63cog\" target=\"_blank\" rel=\"noreferrer\">Imperium Press</a></em>"
+    },
+    {
+      "id": "media-5be30189f92b5d133c71-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/SxK5WguZ6lQ?feature=oembed",
+      "title": "KULTURE DADS 002 — The RPG",
+      "caption": ""
+    },
+    {
+      "id": "media-5be30189f92b5d133c71-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=SxK5WguZ6lQ\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

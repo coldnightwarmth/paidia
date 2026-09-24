@@ -1,0 +1,75 @@
+{
+  "id": "media-1d3a146cf230713592d8",
+  "slug": "media-things-of-beauty-super-smash-bros-as-spectator-sport",
+  "title": "Things of Beauty: Super Smash Bros. as Spectator Sport",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=8qxVDOc-oV8",
+  "previewImage": "https://i.ytimg.com/vi/8qxVDOc-oV8/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Things of Beauty: Super Smash Bros. as Spectator Sport"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Innuendo Studios"
+      ]
+    ],
+    "Category": [
+      [
+        "Fighting Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Fighting Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=8qxVDOc-oV8"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Fighting Games"
+    ],
+    "tags": [
+      "Fighting Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-1d3a146cf230713592d8-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC5fdssPqmmGhkhsJi4VcckA\" target=\"_blank\" rel=\"noreferrer\">Innuendo Studios</a></em>"
+    },
+    {
+      "id": "media-1d3a146cf230713592d8-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/8qxVDOc-oV8?start=3&feature=oembed&start=3",
+      "title": "Things of Beauty: Super Smash Bros. as Spectator Sport",
+      "caption": ""
+    },
+    {
+      "id": "media-1d3a146cf230713592d8-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=8qxVDOc-oV8\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "media-d98ec236940e7c61e1b3",
+  "slug": "media-jonathan-blow-on-contemporary-art",
+  "title": "Jonathan Blow on Contemporary Art",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=zpufWTt4YY0",
+  "previewImage": "https://i.ytimg.com/vi/zpufWTt4YY0/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Jonathan Blow on Contemporary Art"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        ""
+      ]
+    ],
+    "Category": [
+      [
+        "Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=zpufWTt4YY0"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-d98ec236940e7c61e1b3-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/zpufWTt4YY0?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "Jonathan Blow on Contemporary Art",
+      "caption": ""
+    },
+    {
+      "id": "media-d98ec236940e7c61e1b3-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=zpufWTt4YY0\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

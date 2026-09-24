@@ -1,0 +1,69 @@
+{
+  "id": "media-b5ed166f81052e9277ce",
+  "slug": "media-asumsaus",
+  "title": "AsumSaus",
+  "icon": "▶️",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/user/AsumSaus",
+  "previewImage": "",
+  "properties": {
+    "title": [
+      [
+        "AsumSaus"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "AsumSaus"
+      ]
+    ],
+    "Category": [
+      [
+        "YouTube Channels"
+      ]
+    ],
+    "Type": [
+      [
+        "YouTube Channel"
+      ]
+    ],
+    "Tags": [
+      [
+        "YouTube Channels, Fighting Games, YouTube Channel"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/user/AsumSaus"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "YouTube Channels"
+    ],
+    "tags": [
+      "YouTube Channels",
+      "Fighting Games",
+      "YouTube Channel"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-b5ed166f81052e9277ce-creator",
+      "type": "paragraph",
+      "html": "<em>by AsumSaus</em>"
+    },
+    {
+      "id": "media-b5ed166f81052e9277ce-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/user/AsumSaus\" target=\"_blank\" rel=\"noreferrer\">Open original channel</a>"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "media-689fd0a5dd16a63d1b43",
+  "slug": "media-the-greatest-moment-in-fighting-game-history",
+  "title": "The Greatest Moment In Fighting Game History",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=36m-teYaQmE",
+  "previewImage": "https://i.ytimg.com/vi/36m-teYaQmE/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Greatest Moment In Fighting Game History"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Akshon Esports"
+      ]
+    ],
+    "Category": [
+      [
+        "Fighting Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Fighting Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=36m-teYaQmE"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Fighting Games"
+    ],
+    "tags": [
+      "Fighting Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-689fd0a5dd16a63d1b43-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UC6dI8msF1_I9HuDSvMtk_nQ\" target=\"_blank\" rel=\"noreferrer\">Akshon Esports</a></em>"
+    },
+    {
+      "id": "media-689fd0a5dd16a63d1b43-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/36m-teYaQmE?feature=oembed",
+      "title": "The Greatest Moment In Fighting Game History",
+      "caption": ""
+    },
+    {
+      "id": "media-689fd0a5dd16a63d1b43-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=36m-teYaQmE\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

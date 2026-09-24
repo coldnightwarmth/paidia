@@ -29,6 +29,16 @@
           ]
         ]
       ]
+    ],
+    "Category": [
+      [
+        "Sports"
+      ]
+    ],
+    "Tags": [
+      [
+        "Sports"
+      ]
     ]
   },
   "previewImage": "",
@@ -76,5 +86,16 @@
       "type": "paragraph",
       "html": "<a href=\"#/paidiasophia-wiki\">🏠</a>"
     }
-  ]
+  ],
+  "catalog": {
+    "databaseId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+    "database": "games",
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "Sports"
+    ]
+  },
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
 }

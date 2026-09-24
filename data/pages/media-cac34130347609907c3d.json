@@ -1,0 +1,75 @@
+{
+  "id": "media-cac34130347609907c3d",
+  "slug": "media-the-intricacies-of-a-10-hit-combo",
+  "title": "The Intricacies of a 10-Hit Combo",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=qaIyBQAIx6E",
+  "previewImage": "https://i.ytimg.com/vi/qaIyBQAIx6E/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Intricacies of a 10-Hit Combo"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Rishi"
+      ]
+    ],
+    "Category": [
+      [
+        "Fighting Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Fighting Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=qaIyBQAIx6E"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Fighting Games"
+    ],
+    "tags": [
+      "Fighting Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-cac34130347609907c3d-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCZComqYxvfCD8qOcKN5cUvA\" target=\"_blank\" rel=\"noreferrer\">Rishi</a></em>"
+    },
+    {
+      "id": "media-cac34130347609907c3d-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/qaIyBQAIx6E?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "The Intricacies of a 10-Hit Combo",
+      "caption": ""
+    },
+    {
+      "id": "media-cac34130347609907c3d-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=qaIyBQAIx6E\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

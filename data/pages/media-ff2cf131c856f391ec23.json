@@ -1,0 +1,76 @@
+{
+  "id": "media-ff2cf131c856f391ec23",
+  "slug": "media-are-videogames-about-their-mechanics",
+  "title": "Are Videogames About Their Mechanics?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=RsybY6dcXAQ",
+  "previewImage": "https://i.ytimg.com/vi/RsybY6dcXAQ/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Are Videogames About Their Mechanics?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Extra Credits"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=RsybY6dcXAQ"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-ff2cf131c856f391ec23-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg\" target=\"_blank\" rel=\"noreferrer\">Extra Credits</a></em>"
+    },
+    {
+      "id": "media-ff2cf131c856f391ec23-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/RsybY6dcXAQ?feature=oembed",
+      "title": "Are Videogames About Their Mechanics?",
+      "caption": ""
+    },
+    {
+      "id": "media-ff2cf131c856f391ec23-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=RsybY6dcXAQ\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

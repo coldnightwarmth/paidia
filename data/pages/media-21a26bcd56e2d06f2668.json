@@ -1,0 +1,77 @@
+{
+  "id": "media-21a26bcd56e2d06f2668",
+  "slug": "media-game-design-lectures-playlist",
+  "title": "Game Design Lectures (PLAYLIST)",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=videoseries",
+  "previewImage": "https://i.ytimg.com/vi/videoseries/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Game Design Lectures (PLAYLIST)"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Rym DeCoster"
+      ]
+    ],
+    "Category": [
+      [
+        "Lectures, History"
+      ]
+    ],
+    "Type": [
+      [
+        "Lecture"
+      ]
+    ],
+    "Tags": [
+      [
+        "Lectures, History, Lecture"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=videoseries"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Lectures",
+      "History"
+    ],
+    "tags": [
+      "Lectures",
+      "History",
+      "Lecture"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-21a26bcd56e2d06f2668-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/RymDeCoster\" target=\"_blank\" rel=\"noreferrer\">Rym DeCoster</a></em>"
+    },
+    {
+      "id": "media-21a26bcd56e2d06f2668-embed",
+      "type": "video",
+      "src": "http://www.youtube.com/embed/videoseries?list=PL3eVql0CPrVhG2AeVE1l8hcNPSNmoeagK",
+      "title": "Game Design Lectures (PLAYLIST)",
+      "caption": ""
+    },
+    {
+      "id": "media-21a26bcd56e2d06f2668-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=videoseries\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

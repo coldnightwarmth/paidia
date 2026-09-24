@@ -1,0 +1,77 @@
+{
+  "id": "media-8e572961c932f004e447",
+  "slug": "media-the-joy-of-gunpla-meditation-for-otaku",
+  "title": "The Joy of GUNPLA: Meditation for Otaku",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=B6D1EcW-G60",
+  "previewImage": "https://i.ytimg.com/vi/B6D1EcW-G60/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The Joy of GUNPLA: Meditation for Otaku"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Michael Saba"
+      ]
+    ],
+    "Category": [
+      [
+        "Toys, Miscellaneous"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Toys, Miscellaneous, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=B6D1EcW-G60"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Toys",
+      "Miscellaneous"
+    ],
+    "tags": [
+      "Toys",
+      "Miscellaneous",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-8e572961c932f004e447-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@MichaelSaba\" target=\"_blank\" rel=\"noreferrer\">Michael Saba</a></em>"
+    },
+    {
+      "id": "media-8e572961c932f004e447-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/B6D1EcW-G60?rel=0&start=4",
+      "title": "The Joy of GUNPLA: Meditation for Otaku",
+      "caption": ""
+    },
+    {
+      "id": "media-8e572961c932f004e447-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=B6D1EcW-G60\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

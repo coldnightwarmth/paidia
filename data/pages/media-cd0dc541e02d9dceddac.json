@@ -1,0 +1,75 @@
+{
+  "id": "media-cd0dc541e02d9dceddac",
+  "slug": "media-is-wavedashing-a-glitch",
+  "title": "Is Wavedashing a Glitch?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=PQzhu35mR2w",
+  "previewImage": "https://i.ytimg.com/vi/PQzhu35mR2w/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Is Wavedashing a Glitch?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "AsumSaus"
+      ]
+    ],
+    "Category": [
+      [
+        "Fighting Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Fighting Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=PQzhu35mR2w"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Fighting Games"
+    ],
+    "tags": [
+      "Fighting Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-cd0dc541e02d9dceddac-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCk2KE7yg0BwsJfr8Dp9ivUQ\" target=\"_blank\" rel=\"noreferrer\">AsumSaus</a></em>"
+    },
+    {
+      "id": "media-cd0dc541e02d9dceddac-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/PQzhu35mR2w?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "Is Wavedashing a Glitch?",
+      "caption": ""
+    },
+    {
+      "id": "media-cd0dc541e02d9dceddac-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=PQzhu35mR2w\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

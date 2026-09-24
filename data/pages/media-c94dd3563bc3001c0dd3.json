@@ -1,0 +1,75 @@
+{
+  "id": "media-c94dd3563bc3001c0dd3",
+  "slug": "media-the-untold-story-of-climbing-s-first-superstar",
+  "title": "The UNTOLD Story Of Climbing's FIRST Superstar",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=uPBQ0cXKIK8",
+  "previewImage": "https://i.ytimg.com/vi/uPBQ0cXKIK8/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "The UNTOLD Story Of Climbing's FIRST Superstar"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Climbers Crag"
+      ]
+    ],
+    "Category": [
+      [
+        "Sports"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Sports, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=uPBQ0cXKIK8"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "Sports",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-c94dd3563bc3001c0dd3-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/ClimbersCrag\" target=\"_blank\" rel=\"noreferrer\">Climbers Crag</a></em>"
+    },
+    {
+      "id": "media-c94dd3563bc3001c0dd3-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/uPBQ0cXKIK8?feature=oembed",
+      "title": "The UNTOLD Story Of Climbing's FIRST Superstar",
+      "caption": ""
+    },
+    {
+      "id": "media-c94dd3563bc3001c0dd3-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=uPBQ0cXKIK8\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

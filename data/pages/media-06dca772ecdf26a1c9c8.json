@@ -1,0 +1,75 @@
+{
+  "id": "media-06dca772ecdf26a1c9c8",
+  "slug": "media-go-review-a-video-4-000-years-in-the-making",
+  "title": "Go Review - A video 4,000 years in the making",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=RRBjN8empIs",
+  "previewImage": "https://i.ytimg.com/vi/RRBjN8empIs/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Go Review - A video 4,000 years in the making"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Shut Up & Sit Down"
+      ]
+    ],
+    "Category": [
+      [
+        "Tabletop Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Tabletop Games, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=RRBjN8empIs"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Tabletop Games"
+    ],
+    "tags": [
+      "Tabletop Games",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-06dca772ecdf26a1c9c8-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/channel/UCyRhIGDUKdIOw07Pd8pHxCw\" target=\"_blank\" rel=\"noreferrer\">Shut Up &amp; Sit Down</a></em>"
+    },
+    {
+      "id": "media-06dca772ecdf26a1c9c8-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/RRBjN8empIs?list=PLQIrzBq8mdkaBLREhCiQZXKRWXt02gumW",
+      "title": "Go Review - A video 4,000 years in the making",
+      "caption": ""
+    },
+    {
+      "id": "media-06dca772ecdf26a1c9c8-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=RRBjN8empIs\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

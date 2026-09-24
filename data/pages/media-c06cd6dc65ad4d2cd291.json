@@ -1,0 +1,76 @@
+{
+  "id": "media-c06cd6dc65ad4d2cd291",
+  "slug": "media-are-video-games-a-legitimate-art-form",
+  "title": "Are Video Games A LEGITIMATE Art Form?",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=YWyG90qMV7U",
+  "previewImage": "https://i.ytimg.com/vi/YWyG90qMV7U/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Are Video Games A LEGITIMATE Art Form?"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Andrew Klavan"
+      ]
+    ],
+    "Category": [
+      [
+        "Video Games"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "Video Games, Analysis, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=YWyG90qMV7U"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Video Games"
+    ],
+    "tags": [
+      "Video Games",
+      "Analysis",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-c06cd6dc65ad4d2cd291-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/@AndrewKlavan\" target=\"_blank\" rel=\"noreferrer\">Andrew Klavan</a></em>"
+    },
+    {
+      "id": "media-c06cd6dc65ad4d2cd291-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/YWyG90qMV7U?rel=0",
+      "title": "Are Video Games A LEGITIMATE Art Form?",
+      "caption": ""
+    },
+    {
+      "id": "media-c06cd6dc65ad4d2cd291-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=YWyG90qMV7U\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

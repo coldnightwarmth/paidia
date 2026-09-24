@@ -1,0 +1,44 @@
+{
+  "id": "catalog-f80d831cd28a72b9e47f",
+  "slug": "other-media-sword-art-online",
+  "title": "Sword Art Online",
+  "type": "page",
+  "icon": "./assets/home/media.png",
+  "parentId": "7070e92d-6389-4c6c-88f2-0b38bc3d8e3a",
+  "parentPageId": "7070e92d-6389-4c6c-88f2-0b38bc3d8e3a",
+  "properties": {
+    "title": [
+      [
+        "Sword Art Online"
+      ]
+    ],
+    "Category": [
+      [
+        "Anime & Manga"
+      ]
+    ],
+    "Tags": [
+      [
+        "Anime & Manga"
+      ]
+    ]
+  },
+  "blocks": [
+    {
+      "id": "catalog-f80d831cd28a72b9e47f-source",
+      "type": "paragraph",
+      "html": "Sword Art Online"
+    }
+  ],
+  "catalogSourcePageId": "2f59e012-4f25-4241-ae5b-9c5cec38b0ba",
+  "catalog": {
+    "databaseId": "7070e92d-6389-4c6c-88f2-0b38bc3d8e3a",
+    "database": "other-media",
+    "categories": [
+      "Anime & Manga"
+    ],
+    "tags": [
+      "Anime & Manga"
+    ]
+  }
+}

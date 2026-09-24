@@ -1,0 +1,76 @@
+{
+  "id": "media-2c1d2fa9b84c3b29a9b5",
+  "slug": "media-guy-debord-s-le-jeu-de-la-guerre-part-1-interview-alex-galloway",
+  "title": "Guy Debord's \"le jeu de la guerre\" part 1: interview Alex Galloway",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/watch?v=CGjt8po_y4I",
+  "previewImage": "https://i.ytimg.com/vi/CGjt8po_y4I/hqdefault.jpg",
+  "properties": {
+    "title": [
+      [
+        "Guy Debord's \"le jeu de la guerre\" part 1: interview Alex Galloway"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Homo Ludens"
+      ]
+    ],
+    "Category": [
+      [
+        "Podcasts & Interviews"
+      ]
+    ],
+    "Type": [
+      [
+        "Interview"
+      ]
+    ],
+    "Tags": [
+      [
+        "Podcasts & Interviews, Selected, Interview"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/watch?v=CGjt8po_y4I"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "Podcasts & Interviews"
+    ],
+    "tags": [
+      "Podcasts & Interviews",
+      "Selected",
+      "Interview"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-2c1d2fa9b84c3b29a9b5-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/HomoLudens1871\" target=\"_blank\" rel=\"noreferrer\">Homo Ludens</a></em>"
+    },
+    {
+      "id": "media-2c1d2fa9b84c3b29a9b5-embed",
+      "type": "video",
+      "src": "https://www.youtube.com/embed/CGjt8po_y4I?list=PLI_JrJAEQsRdFexjsSwd1qUITH_VKc6v5",
+      "title": "Guy Debord's \"le jeu de la guerre\" part 1: interview Alex Galloway",
+      "caption": ""
+    },
+    {
+      "id": "media-2c1d2fa9b84c3b29a9b5-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/watch?v=CGjt8po_y4I\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}

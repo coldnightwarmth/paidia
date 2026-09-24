@@ -1,0 +1,73 @@
+{
+  "id": "media-ae1da3655e0e58527861",
+  "slug": "media-game-curation-history-of-video-games",
+  "title": "Game Curation | History of Video Games",
+  "icon": "📹",
+  "cover": "",
+  "type": "page",
+  "parentId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "parentPageId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLjhqGIT8M9XzQVUeUJdgfWWafwz6thHRL",
+  "previewImage": "https://i.ytimg.com/vi/wtki8cgs59k/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBAcVtAZkVhJeB9JSKF-LPzNvEPLQ&days_since_epoch=19119",
+  "properties": {
+    "title": [
+      [
+        "Game Curation | History of Video Games"
+      ]
+    ],
+    "Creator(s)": [
+      [
+        "Bits & Beats"
+      ]
+    ],
+    "Category": [
+      [
+        "History"
+      ]
+    ],
+    "Type": [
+      [
+        "Video Essay"
+      ]
+    ],
+    "Tags": [
+      [
+        "History, Video Essay"
+      ]
+    ],
+    "Source": [
+      [
+        "https://www.youtube.com/playlist?list=PLjhqGIT8M9XzQVUeUJdgfWWafwz6thHRL"
+      ]
+    ]
+  },
+  "catalog": {
+    "databaseId": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
+    "database": "video-audio",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "History",
+      "Video Essay"
+    ]
+  },
+  "videoAudioGenerated": true,
+  "blocks": [
+    {
+      "id": "media-ae1da3655e0e58527861-creator",
+      "type": "paragraph",
+      "html": "<em>by <a href=\"https://www.youtube.com/c/BitsBeats\" target=\"_blank\" rel=\"noreferrer\">Bits &amp; Beats</a></em>"
+    },
+    {
+      "id": "media-ae1da3655e0e58527861-description",
+      "type": "paragraph",
+      "html": "Share your videos with friends, family, and the world"
+    },
+    {
+      "id": "media-ae1da3655e0e58527861-source",
+      "type": "paragraph",
+      "html": "<a href=\"https://www.youtube.com/playlist?list=PLjhqGIT8M9XzQVUeUJdgfWWafwz6thHRL\" target=\"_blank\" rel=\"noreferrer\">Open original media</a>"
+    }
+  ]
+}
