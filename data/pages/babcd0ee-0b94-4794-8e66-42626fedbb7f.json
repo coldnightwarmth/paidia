@@ -3,7 +3,7 @@
   "slug": "wii-sports",
   "title": "Wii Sports",
   "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-  "cover": "",
+  "cover": "./assets/games/babcd0ee-0b94-4794-8e66-42626fedbb7f.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Nintendo EAD"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Nintendo"
+      ]
+    ],
+    "First Release": [
+      [
+        "2006-11-19"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/babcd0ee-0b94-4794-8e66-42626fedbb7f.webp",
   "blocks": [
+    {
+      "id": "game-description-babcd0ee-0b94-4794-8e66-42626fedbb7f-0",
+      "type": "paragraph",
+      "html": "Wii Sports collects simplified versions of tennis, baseball, bowling, golf, and boxing around the Wii Remote’s motion controls. Players swing, aim, or punch with gestures that resemble the represented activity, while the software handles much of the complexity of positioning and rules. Mii characters make local matches feel personal and immediately readable."
+    },
+    {
+      "id": "game-description-babcd0ee-0b94-4794-8e66-42626fedbb7f-1",
+      "type": "paragraph",
+      "html": "Released alongside the Wii in 2006 and bundled with it in many markets, the collection introduced the console through shared, physical play. Its approachable controls made the living room and the movements of the players an important part of the experience."
+    },
     {
       "id": "9663df90-43f6-4daf-ad86-f412416c7bf6",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "releaseDate": "2006-11-19",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Wii Sports",
+        "url": "https://en.wikipedia.org/wiki/Wii_Sports"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Wii_Sports_Sleeve_Cover_Art.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/5/54/Wii_Sports_Sleeve_Cover_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Nintendo",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Wii Sports — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "1c07f16c63953ffb7aae5cebebbf0f1aeae2b974bdf21546af837cc26c5aaabb"
 }

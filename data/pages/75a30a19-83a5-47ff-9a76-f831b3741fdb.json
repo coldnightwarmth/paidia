@@ -3,7 +3,7 @@
   "slug": "fishing",
   "title": "Fishing",
   "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-  "cover": "",
+  "cover": "./assets/games/75a30a19-83a5-47ff-9a76-f831b3741fdb.webp",
   "type": "page",
   "parentId": "28565453-030e-4ef0-902b-711c38f035e0",
   "parentTable": "block",
@@ -39,10 +39,30 @@
       [
         "Sports"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "No single inventor"
+      ]
+    ],
+    "Origin": [
+      [
+        "Long-established practice; recreational traditions vary by region"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/75a30a19-83a5-47ff-9a76-f831b3741fdb.webp",
   "blocks": [
+    {
+      "id": "game-description-75a30a19-83a5-47ff-9a76-f831b3741fdb-0",
+      "type": "paragraph",
+      "html": "Recreational fishing makes the pursuit of fish an activity of leisure, skill, and sometimes competition. Angling commonly uses a rod, line, hook, and bait or an artificial lure, but the wider practice includes several other methods. Reading water, weather, and animal behavior can be as important as casting technique."
+    },
+    {
+      "id": "game-description-75a30a19-83a5-47ff-9a76-f831b3741fdb-1",
+      "type": "paragraph",
+      "html": "Unlike a single designed game, fishing has no universal scoring system or inventor. Some participants value a catch, others the experience of waiting and observing, and organized events establish their own measures of success. It is distinct from fishing primarily for subsistence or commercial production."
+    },
     {
       "id": "ca60c8e7-b841-4231-afc4-9ab94e9c90a5",
       "type": "divider"
@@ -97,5 +117,29 @@
       "Sports"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "No single inventor",
+    "publisher": "",
+    "releaseDate": "",
+    "origin": "Long-established practice; recreational traditions vary by region",
+    "sources": [
+      {
+        "title": "Wikipedia: Recreational fishing",
+        "url": "https://en.wikipedia.org/wiki/Recreational_fishing"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Mete_(fiske)_-_Ystad-2018.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mete_%28fiske%29_-_Ystad-2018.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Foto: Jonn Leffmann",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "En man metar i solnedgången vid Ystads småbåtshamn 2 sep 2018.",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Fishing — representative photograph",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "e517fa87cde98ed5dfdac705fb585c02719cbf09ea2ffcb5297166011b5556ae"
 }

@@ -3,7 +3,7 @@
   "slug": "magic-the-gathering",
   "title": "Magic: The Gathering",
   "icon": "./assets/images/cards-gray-675db9d78eac.webp",
-  "cover": "",
+  "cover": "./assets/games/50e9bf32-1234-4249-a7e0-131a030cb95f.webp",
   "type": "page",
   "parentId": "70aaf802-4e58-4f10-b89b-e11ce8160ac2",
   "parentTable": "block",
@@ -34,10 +34,35 @@
       [
         "Tabletop"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Richard Garfield"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Wizards of the Coast"
+      ]
+    ],
+    "First Release": [
+      [
+        "1993"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/50e9bf32-1234-4249-a7e0-131a030cb95f.webp",
   "blocks": [
+    {
+      "id": "game-description-50e9bf32-1234-4249-a7e0-131a030cb95f-0",
+      "type": "paragraph",
+      "html": "Magic: The Gathering combines a card game with the construction of the deck used to play it. Lands provide mana, which pays for creatures, spells, and other effects; players seek ways to overcome an opponent’s defenses and win, often by reducing their life total to zero. Timing and interactions between cards can turn a small change in the board into a major advantage."
+    },
+    {
+      "id": "game-description-50e9bf32-1234-4249-a7e0-131a030cb95f-1",
+      "type": "paragraph",
+      "html": "Richard Garfield designed the game, first published by Wizards of the Coast in 1993. Its expandable card pool supports many formats, so the permitted cards, deck-building restrictions, and multiplayer arrangements depend on the version being played."
+    },
     {
       "id": "e2017708-450e-4966-9a54-462f036e6f73",
       "type": "divider"
@@ -92,5 +117,29 @@
       "Tabletop"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Richard Garfield",
+    "publisher": "Wizards of the Coast",
+    "releaseDate": "1993",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Magic: The Gathering",
+        "url": "https://en.wikipedia.org/wiki/Magic%3A_The_Gathering"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Magic_the_gathering-card_back.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Magic: The Gathering — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "2da61a9fa56f3f09acc3f0c15dc8ac12fcccb5dea0736e36e6ded4424a6e8856"
 }

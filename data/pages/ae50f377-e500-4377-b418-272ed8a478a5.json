@@ -3,7 +3,7 @@
   "slug": "basketball",
   "title": "Basketball",
   "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-  "cover": "",
+  "cover": "./assets/games/ae50f377-e500-4377-b418-272ed8a478a5.webp",
   "type": "page",
   "parentId": "28565453-030e-4ef0-902b-711c38f035e0",
   "parentTable": "block",
@@ -34,10 +34,30 @@
       [
         "Sports"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "James Naismith"
+      ]
+    ],
+    "Origin": [
+      [
+        "December 1891, Springfield, Massachusetts"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/ae50f377-e500-4377-b418-272ed8a478a5.webp",
   "blocks": [
+    {
+      "id": "game-description-ae50f377-e500-4377-b418-272ed8a478a5-0",
+      "type": "paragraph",
+      "html": "Basketball is a court game in which teams score by sending a ball through an elevated hoop. Passing and dribbling move the ball into shooting positions, while screens, cuts, and rebounds create new opportunities. Standard full-court play uses five players per side, but playground and other small-team forms are also central to its culture."
+    },
+    {
+      "id": "game-description-ae50f377-e500-4377-b418-272ed8a478a5-1",
+      "type": "paragraph",
+      "html": "James Naismith devised the game in Springfield, Massachusetts, in December 1891 as an indoor activity for his students. Its original peach baskets and simple rules developed into a fast sport in which spacing, coordination, and individual ball skills constantly interact."
+    },
     {
       "id": "f06246da-e0d5-4e38-85d0-55647d092faf",
       "type": "divider"
@@ -92,5 +112,29 @@
       "Sports"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "James Naismith",
+    "publisher": "",
+    "releaseDate": "",
+    "origin": "December 1891, Springfield, Massachusetts",
+    "sources": [
+      {
+        "title": "Wikipedia: Basketball",
+        "url": "https://en.wikipedia.org/wiki/Basketball"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_(2751923597).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_%282751923597%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "kris krüg from Vancouver, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "USA vs. China Mens Basketball - Beijing 2008 Olympic Games",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Basketball — representative photograph",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "0195d263614817f35d94d4ea0bceb0c0938fcdd00dd4c6d2c42e71452299212e"
 }

@@ -3,7 +3,7 @@
   "slug": "exquisite-corpse",
   "title": "Exquisite Corpse",
   "icon": "./assets/images/pencil-gray-b10130054cde.webp",
-  "cover": "",
+  "cover": "./assets/games/79e18161-ce08-44f3-bc75-38464cf02996.webp",
   "type": "page",
   "parentId": "05f8dc7a-3411-4896-ba6a-b02e65928607",
   "parentTable": "block",
@@ -34,10 +34,30 @@
       [
         "Other Games & Toys"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Surrealist artists and writers"
+      ]
+    ],
+    "Origin": [
+      [
+        "Paris, circa 1925"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/79e18161-ce08-44f3-bc75-38464cf02996.webp",
   "blocks": [
+    {
+      "id": "game-description-79e18161-ce08-44f3-bc75-38464cf02996-0",
+      "type": "paragraph",
+      "html": "Exquisite Corpse is a collaborative drawing or writing game in which participants add to a work without seeing all of the earlier contributions. A folded sheet can conceal each section while leaving a few connecting marks or words visible. Unfolding it reveals a composition that no single participant planned."
+    },
+    {
+      "id": "game-description-79e18161-ce08-44f3-bc75-38464cf02996-1",
+      "type": "paragraph",
+      "html": "Associated with Surrealist circles in 1920s Paris, the game turns restricted information and chance into tools for collective invention. It has no fixed winning condition: the unexpected whole, and the group’s response to it, are the point of the activity."
+    },
     {
       "id": "31cde599-32e4-461f-8277-6197d328495c",
       "type": "divider"
@@ -77,5 +97,33 @@
       "Other Games & Toys"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Surrealist artists and writers",
+    "publisher": "",
+    "releaseDate": "",
+    "origin": "Paris, circa 1925",
+    "sources": [
+      {
+        "title": "MoMA: Exquisite corpse",
+        "url": "https://www.moma.org/collection/terms/exquisite-corpse"
+      },
+      {
+        "title": "Wikipedia: Exquisite corpse",
+        "url": "https://en.wikipedia.org/wiki/Exquisite_corpse"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Exquisite_corpse_drawing_by_Noah_Ryan_and_Erica_Parrott.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Exquisite_corpse_drawing_by_Noah_Ryan_and_Erica_Parrott.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Ericaparrott",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Exquisite corpse (cadavre exquis) drawing by Noah Ryan and Erica Parrott, from Exquisite Corpse Zine img",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Exquisite Corpse — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "d51ea6492beb89a71bfda05fc0f2856f329852b6cd33768973e4e6029a8cde13"
 }

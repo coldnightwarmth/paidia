@@ -3,7 +3,7 @@
   "slug": "assassin-s-creed",
   "title": "Assassin’s Creed",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/5dcc9923-44f9-4272-9f1e-b9a8982bc161.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Ubisoft Montreal"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Ubisoft"
+      ]
+    ],
+    "First Release": [
+      [
+        "2007-11-13"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/5dcc9923-44f9-4272-9f1e-b9a8982bc161.webp",
   "blocks": [
+    {
+      "id": "game-description-5dcc9923-44f9-4272-9f1e-b9a8982bc161-0",
+      "type": "paragraph",
+      "html": "The original Assassin’s Creed follows Altaïr through a fictionalized Holy Land during the Third Crusade. Missions combine gathering information, approaching a target, carrying out an assassination, and escaping through streets and rooftops. Climbing and blending into crowds make the city itself part of the player’s toolkit."
+    },
+    {
+      "id": "game-description-5dcc9923-44f9-4272-9f1e-b9a8982bc161-1",
+      "type": "paragraph",
+      "html": "These historical adventures are framed as memories accessed by Desmond Miles through a machine called the Animus. The competing ideals of Assassins and Templars connect the two periods. This 2007 release established the series’ mixture of historical settings, parkour, and conspiracy fiction."
+    },
     {
       "id": "8095a4bc-a335-4377-ad35-b67ff48bb33c",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "releaseDate": "2007-11-13",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Assassin's Creed (video game)",
+        "url": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Assassin%27s_Creed.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Assassin%27s_Creed.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Assassin’s Creed — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "335971dc6bc4bdef347d06575b969e0b1b0daa8178c63d8bc2de7c1e074107ff"
 }

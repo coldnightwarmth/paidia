@@ -3,7 +3,7 @@
   "slug": "dungeons-and-dragons",
   "title": "Dungeons & Dragons",
   "icon": "./assets/images/cards-gray-675db9d78eac.webp",
-  "cover": "",
+  "cover": "./assets/games/312d6ee7-41d3-42ce-b8dc-1c86eb08e122.webp",
   "type": "page",
   "parentId": "70aaf802-4e58-4f10-b89b-e11ce8160ac2",
   "parentTable": "block",
@@ -34,10 +34,35 @@
       [
         "Tabletop"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Gary Gygax and Dave Arneson"
+      ]
+    ],
+    "Publisher": [
+      [
+        "TSR (original); Wizards of the Coast (later editions)"
+      ]
+    ],
+    "First Release": [
+      [
+        "1974"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/312d6ee7-41d3-42ce-b8dc-1c86eb08e122.webp",
   "blocks": [
+    {
+      "id": "game-description-312d6ee7-41d3-42ce-b8dc-1c86eb08e122-0",
+      "type": "paragraph",
+      "html": "Dungeons &amp; Dragons is a tabletop role-playing game in which players portray adventurers in a shared fantasy world. A Dungeon Master describes situations, plays other characters, and adjudicates the rules, while the group decides how to explore, negotiate, fight, and solve problems. Dice introduce uncertainty, but much of the activity takes place through conversation and collective imagination."
+    },
+    {
+      "id": "game-description-312d6ee7-41d3-42ce-b8dc-1c86eb08e122-1",
+      "type": "paragraph",
+      "html": "Created by Gary Gygax and Dave Arneson and first published by TSR in 1974, D&amp;D grew from miniature wargaming into a model for sustained character-based campaigns. Its many editions change particular mechanics, while retaining the interplay between written rules and a group’s unfolding story."
+    },
     {
       "id": "b100bbbe-f42f-4152-a45c-00bfd7879381",
       "type": "divider"
@@ -92,5 +117,29 @@
       "Tabletop"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Gary Gygax and Dave Arneson",
+    "publisher": "TSR (original); Wizards of the Coast (later editions)",
+    "releaseDate": "1974",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Dungeons & Dragons",
+        "url": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:D%26D_Game_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/D%26D_Game_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Philip Mitchell",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Dungeons & Dragons game in progress. Miniatures from Dungeons & Dragons Miniatures Game and others on Master Maze scenery by Dwarven Forge. Around the dungeon can be seen many multi-sided dice, a character sheet (bottom left) and a D&D manual (top right). Note that the circular template at the bottom is not from Dungeons & Dragons, but rather is from the futuristic wargame Warhammer 40,000.",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Dungeons & Dragons — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "cee4f60fcdb4af82c8191ea82127e596f655d9eea0b58f7328e945c40b201f13"
 }

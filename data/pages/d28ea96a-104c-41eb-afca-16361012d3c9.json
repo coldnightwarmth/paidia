@@ -3,7 +3,7 @@
   "slug": "bioshock",
   "title": "Bioshock",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/d28ea96a-104c-41eb-afca-16361012d3c9.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "2K Boston and 2K Australia; Ken Levine (creative lead)"
+      ]
+    ],
+    "Publisher": [
+      [
+        "2K Games"
+      ]
+    ],
+    "First Release": [
+      [
+        "2007-08-21"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/d28ea96a-104c-41eb-afca-16361012d3c9.webp",
   "blocks": [
+    {
+      "id": "game-description-d28ea96a-104c-41eb-afca-16361012d3c9-0",
+      "type": "paragraph",
+      "html": "BioShock takes place in Rapture, an underwater city whose promise of freedom has collapsed into violence. The player explores its ruined districts as Jack, combining firearms with genetic powers called plasmids. Hacking security systems, managing resources, and choosing how to approach enemies give encounters several possible solutions."
+    },
+    {
+      "id": "game-description-d28ea96a-104c-41eb-afca-16361012d3c9-1",
+      "type": "paragraph",
+      "html": "Much of the city’s history is encountered through its architecture, recordings, and surviving inhabitants. The game connects its dystopian setting to questions about ideology, coercion, and the player’s apparent freedom to act. This entry covers the original 2007 game."
+    },
     {
       "id": "c82c26d0-63b4-4ead-b0d4-24d0c3758615",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "2K Boston and 2K Australia; Ken Levine (creative lead)",
+    "publisher": "2K Games",
+    "releaseDate": "2007-08-21",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: BioShock",
+        "url": "https://en.wikipedia.org/wiki/BioShock"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:BioShock_cover.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/BioShock_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Bioshock — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "4497fae779898d32dbe7a5d7b028e1a09620f4bb90d589250f3eced113fd93ec"
 }

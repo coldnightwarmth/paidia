@@ -3,7 +3,7 @@
   "slug": "soccer",
   "title": "Soccer",
   "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-  "cover": "",
+  "cover": "./assets/games/372dfce2-b8d2-4bf3-9df3-34f8437480b0.webp",
   "type": "page",
   "parentId": "28565453-030e-4ef0-902b-711c38f035e0",
   "parentTable": "block",
@@ -42,10 +42,30 @@
       [
         "Sports"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Collective development; The Football Association codified rules"
+      ]
+    ],
+    "Origin": [
+      [
+        "1863 (Football Association rules, England)"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/372dfce2-b8d2-4bf3-9df3-34f8437480b0.webp",
   "blocks": [
+    {
+      "id": "game-description-372dfce2-b8d2-4bf3-9df3-34f8437480b0-0",
+      "type": "paragraph",
+      "html": "Soccer, or association football, is a team game organized around moving a ball into the opponent’s goal. Players primarily use their feet, with passing, dribbling, positioning, and coordinated movement creating attacking opportunities. Standard outdoor play uses eleven players per side, including a goalkeeper with special handling privileges within the penalty area."
+    },
+    {
+      "id": "game-description-372dfce2-b8d2-4bf3-9df3-34f8437480b0-1",
+      "type": "paragraph",
+      "html": "The Football Association’s 1863 rules were an important step in distinguishing association football from other football codes. The game itself developed collectively from earlier traditions, and informal versions adapt its recognizable goals and movement to streets, small pitches, and widely varying numbers of players."
+    },
     {
       "id": "6f00dbe0-26fb-4c3b-8747-6b242a80a0f6",
       "type": "divider"
@@ -100,5 +120,29 @@
       "Sports"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Collective development; The Football Association codified rules",
+    "publisher": "",
+    "releaseDate": "",
+    "origin": "1863 (Football Association rules, England)",
+    "sources": [
+      {
+        "title": "Wikipedia: Association football",
+        "url": "https://en.wikipedia.org/wiki/Association_football"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Rick Dikeman",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Association football (soccer), Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball at the goal or pass it across the field to a teammate in front of the goal.",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Soccer — representative photograph",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "d3a013469788d75018cae240ed6fb486577ca29f2224b892548e53549b524910"
 }

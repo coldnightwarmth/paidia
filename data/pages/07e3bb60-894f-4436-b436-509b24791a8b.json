@@ -3,7 +3,7 @@
   "slug": "quantum-break",
   "title": "Quantum Break",
   "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-  "cover": "",
+  "cover": "./assets/games/07e3bb60-894f-4436-b436-509b24791a8b.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Remedy Entertainment"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Microsoft Studios"
+      ]
+    ],
+    "First Release": [
+      [
+        "2016-04-05"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/07e3bb60-894f-4436-b436-509b24791a8b.webp",
   "blocks": [
+    {
+      "id": "game-description-07e3bb60-894f-4436-b436-509b24791a8b-0",
+      "type": "paragraph",
+      "html": "Quantum Break follows Jack Joyce after a failed experiment gives him time-manipulation powers. Gunfights incorporate temporary time stops, rapid movement, and protective effects, while exploration sequences use unstable time as an environmental puzzle. The conflict centers on the consequences of the experiment and competing attempts to respond to them."
+    },
+    {
+      "id": "game-description-07e3bb60-894f-4436-b436-509b24791a8b-1",
+      "type": "paragraph",
+      "html": "Remedy combines playable chapters with live-action episodes that show other sides of the story. Decisions at junction points affect material in those episodes, making the game an experiment in linking an action game with a television-style production."
+    },
     {
       "id": "e3ef554e-04af-4ebf-888c-a7ea63155896",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Remedy Entertainment",
+    "publisher": "Microsoft Studios",
+    "releaseDate": "2016-04-05",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Quantum Break",
+        "url": "https://en.wikipedia.org/wiki/Quantum_Break"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Quantum_Break_cover.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/Quantum_Break_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Quantum Break — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "36cd8bf877efd220c1da107fa920cc9dd7a7d9ba84f8c117eab15d77c39d61cb"
 }

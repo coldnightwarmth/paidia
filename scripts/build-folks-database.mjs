@@ -5,6 +5,7 @@ const DATA_DIR = path.resolve(process.env.SITE_DATA_DIR ?? "data");
 const PAGES_DIR = path.join(DATA_DIR, "pages");
 const SITE_INDEX_PATH = path.join(DATA_DIR, "site-index.json");
 const OUTPUT_PATH = path.join(DATA_DIR, "folks-database.json");
+const FOLKS_DATABASE_PAGE_ID = "292fe1df-a5bd-4b49-97aa-f336bf0ac103";
 
 const LIST_PAGES = [
   {
@@ -61,6 +62,11 @@ function surnameSortValue(value) {
 
 const siteIndex = await readJson(SITE_INDEX_PATH);
 const summariesById = new Map(siteIndex.pages.map((page) => [page.id, page]));
+const consolidatedSummariesByName = new Map(
+  siteIndex.pages
+    .filter((page) => page.parentPageId === FOLKS_DATABASE_PAGE_ID)
+    .map((page) => [plainText(page.title).toLocaleLowerCase(), page]),
+);
 const recordsByKey = new Map();
 
 for (const listPage of LIST_PAGES) {
@@ -101,13 +107,14 @@ for (const block of groupBlocks) {
   const name = plainText(block.html);
   if (!name) continue;
   const key = `group:${name.toLocaleLowerCase()}`;
+  const summary = consolidatedSummariesByName.get(name.toLocaleLowerCase());
   recordsByKey.set(key, {
     key,
     name,
     lists: [GROUPS_LABEL],
-    pageId: null,
-    href: "",
-    icon: "👥",
+    pageId: summary?.id ?? null,
+    href: summary ? `#/${summary.slug}` : "",
+    icon: summary?.icon ?? "👥",
     image: "",
   });
 }
@@ -115,6 +122,14 @@ for (const block of groupBlocks) {
 for (const record of recordsByKey.values()) {
   if (!record.pageId) continue;
   const page = await readJson(path.join(PAGES_DIR, `${record.pageId}.json`));
+  page.parentPageId = FOLKS_DATABASE_PAGE_ID;
+  await fs.writeFile(
+    path.join(PAGES_DIR, `${record.pageId}.json`),
+    `${JSON.stringify(page, null, 2)}\n`,
+    "utf8",
+  );
+  const summary = summariesById.get(record.pageId);
+  if (summary) summary.parentPageId = FOLKS_DATABASE_PAGE_ID;
   record.image = page.previewImage || page.cover || "";
   record.icon = page.icon || record.icon;
 }
@@ -140,6 +155,7 @@ const payload = {
 };
 
 await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
+await fs.writeFile(SITE_INDEX_PATH, `${JSON.stringify(siteIndex, null, 2)}\n`, "utf8");
 console.log(
   `built ${records.length} Folks records (${records.filter((record) => record.pageId).length} pages, ${records.filter((record) => !record.pageId).length} groups)`,
 );

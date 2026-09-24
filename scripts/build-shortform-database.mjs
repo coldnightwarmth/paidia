@@ -5,6 +5,7 @@ const DATA_DIR = path.resolve(process.env.SITE_DATA_DIR ?? "data");
 const PAGES_DIR = path.join(DATA_DIR, "pages");
 const SITE_INDEX_PATH = path.join(DATA_DIR, "site-index.json");
 const OUTPUT_PATH = path.join(DATA_DIR, "shortform-database.json");
+const SHORTFORM_DATABASE_PAGE_ID = "50eae52d-e10e-4677-a195-6f45f609aa5d";
 
 const ESSAYS_PAGE_ID = "71160b13-261c-43b4-9e7a-80771fb8debc";
 const POEMS_AND_STORIES_PAGE_ID = "f7a6ae5b-b1de-47e8-a0d3-7551c3a5399f";
@@ -101,6 +102,14 @@ for (const block of poemsAndStoriesPage.blocks) {
 
 for (const record of recordsByPageId.values()) {
   const page = await readJson(path.join(PAGES_DIR, `${record.pageId}.json`));
+  page.parentPageId = SHORTFORM_DATABASE_PAGE_ID;
+  await fs.writeFile(
+    path.join(PAGES_DIR, `${record.pageId}.json`),
+    `${JSON.stringify(page, null, 2)}\n`,
+    "utf8",
+  );
+  const summary = summariesById.get(record.pageId);
+  if (summary) summary.parentPageId = SHORTFORM_DATABASE_PAGE_ID;
   record.creators = introCreator(page);
   record.image = page.previewImage || page.cover || "";
   record.icon = crispNotionIconSource(page.icon || record.icon);
@@ -134,6 +143,7 @@ const payload = {
 };
 
 await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
+await fs.writeFile(SITE_INDEX_PATH, `${JSON.stringify(siteIndex, null, 2)}\n`, "utf8");
 console.log(
   `built ${records.length} Shortform Texts records (${records.filter((record) => record.types.includes(ESSAY_TYPE)).length} essays/articles/blogposts, ${records.filter((record) => record.types.includes("Poetry")).length} poems, ${records.filter((record) => record.types.includes("Short Story")).length} short stories)`,
 );

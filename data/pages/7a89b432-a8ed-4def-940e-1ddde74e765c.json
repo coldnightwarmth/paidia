@@ -3,7 +3,7 @@
   "slug": "ice-hockey",
   "title": "Ice Hockey",
   "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-  "cover": "",
+  "cover": "./assets/games/7a89b432-a8ed-4def-940e-1ddde74e765c.webp",
   "type": "page",
   "parentId": "28565453-030e-4ef0-902b-711c38f035e0",
   "parentTable": "block",
@@ -34,10 +34,30 @@
       [
         "Sports"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Collective development in Canada and earlier stick-and-ball traditions"
+      ]
+    ],
+    "Origin": [
+      [
+        "Modern organized form: 19th-century Canada; Montreal indoor game, 1875"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/7a89b432-a8ed-4def-940e-1ddde74e765c.webp",
   "blocks": [
+    {
+      "id": "game-description-7a89b432-a8ed-4def-940e-1ddde74e765c-0",
+      "type": "paragraph",
+      "html": "Ice hockey is played on skates, with teams using sticks to move a puck and shoot it into a goal. Rapid transitions, passing lanes, and positional coordination shape play, while substitutions allow teams to sustain a high pace. Standard full-strength play puts five skaters and a goaltender on each side."
+    },
+    {
+      "id": "game-description-7a89b432-a8ed-4def-940e-1ddde74e765c-1",
+      "type": "paragraph",
+      "html": "The modern organized sport developed in Canada from several earlier traditions. An indoor game held in Montreal in 1875 is an important landmark in its recorded history, rather than proof of a single moment of invention. Competitive rules standardize rink markings, periods, penalties, and equipment."
+    },
     {
       "id": "20a91b9e-a217-440c-863e-8186c3f244c1",
       "type": "divider"
@@ -92,5 +112,29 @@
       "Sports"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Collective development in Canada and earlier stick-and-ball traditions",
+    "publisher": "",
+    "releaseDate": "",
+    "origin": "Modern organized form: 19th-century Canada; Montreal indoor game, 1875",
+    "sources": [
+      {
+        "title": "Wikipedia: Ice hockey",
+        "url": "https://en.wikipedia.org/wiki/Ice_hockey"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Pittsburgh_Penguins,_Washington_Capitals,_Bryan_Rust_(33744033514).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Keith Allison from Hanover, MD, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Bryan Rust of the Pittsburgh Penguins scores a goal against the Washington Capitals in Game Seven of the Eastern Conference Second Round during the 2017 NHL Stanley Cup Playoffs at Verizon Center on May 10, 2017 in Washington, DC.",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Ice Hockey — representative photograph",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "116e9a6f18790ed005160cbcc2483c7452e3b10ce2bad467799446118a57eaba"
 }

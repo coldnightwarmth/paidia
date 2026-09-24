@@ -3,7 +3,7 @@
   "slug": "crysis",
   "title": "Crysis",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/5f307c05-65b4-4af7-8ec4-73c1b5838cd5.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Crytek"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Electronic Arts"
+      ]
+    ],
+    "First Release": [
+      [
+        "2007-11-13"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/5f307c05-65b4-4af7-8ec4-73c1b5838cd5.webp",
   "blocks": [
+    {
+      "id": "game-description-5f307c05-65b4-4af7-8ec4-73c1b5838cd5-0",
+      "type": "paragraph",
+      "html": "Crysis places the player in a tropical island conflict that develops into an encounter with an alien force. Its Nanosuit offers enhanced strength, speed, armor, and camouflage, allowing a soldier to switch between direct attacks, stealth, and mobile approaches to the terrain. Broad outdoor combat spaces invite players to choose routes and improvise with weapons, vehicles, and cover."
+    },
+    {
+      "id": "game-description-5f307c05-65b4-4af7-8ec4-73c1b5838cd5-1",
+      "type": "paragraph",
+      "html": "The original PC release became known both for its demanding graphics and for the flexibility of its combat. This entry concerns the 2007 game, rather than the later remaster or the series as a whole."
+    },
     {
       "id": "0e12d62c-510d-4128-8978-e18b5019f6ce",
       "type": "divider"
@@ -93,5 +118,33 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Crytek",
+    "publisher": "Electronic Arts",
+    "releaseDate": "2007-11-13",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Crytek: Crysis",
+        "url": "https://www.crytek.com/games/crysis"
+      },
+      {
+        "title": "Wikipedia: Crysis (video game)",
+        "url": "https://en.wikipedia.org/wiki/Crysis_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Crysis_Cover.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/e/e9/Crysis_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Crysis — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "9e5aaedb042710351fee5e8bb97960eca16679cede94a5acc7b91b3375d2e12f"
 }

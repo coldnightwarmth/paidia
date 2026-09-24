@@ -3,7 +3,7 @@
   "slug": "pac-man",
   "title": "Pac-Man",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/8ea55ed5-f1ba-43f8-8b39-e6cf70dedc5b.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Namco; Toru Iwatani (designer)"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Namco; Midway (North America)"
+      ]
+    ],
+    "First Release": [
+      [
+        "1980-05-22 (Japanese debut)"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/8ea55ed5-f1ba-43f8-8b39-e6cf70dedc5b.webp",
   "blocks": [
+    {
+      "id": "game-description-8ea55ed5-f1ba-43f8-8b39-e6cf70dedc5b-0",
+      "type": "paragraph",
+      "html": "Pac-Man asks the player to clear a maze of dots while avoiding four pursuing ghosts. Power pellets briefly reverse the relationship between hunter and hunted, opening opportunities to eat ghosts for extra points. Routes that look safe can become traps, making anticipation and an understanding of the ghosts’ behavior central to sustained play."
+    },
+    {
+      "id": "game-description-8ea55ed5-f1ba-43f8-8b39-e6cf70dedc5b-1",
+      "type": "paragraph",
+      "html": "Toru Iwatani designed the arcade game at Namco. Its readable characters, compact rules, and alternating moments of pursuit and escape gave it an identity distinct from the space-shooting games prominent around its 1980 debut."
+    },
     {
       "id": "d9ef51f8-1a7d-4286-9cf5-d5ed12faa561",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Namco; Toru Iwatani (designer)",
+    "publisher": "Namco; Midway (North America)",
+    "releaseDate": "1980-05-22 (Japanese debut)",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Pac-Man",
+        "url": "https://en.wikipedia.org/wiki/Pac-Man"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Pac_flyer.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/1/16/Pac_flyer.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Pac-Man — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "cdf47fffd241bfff538d4a63bb1d2745613aa9a6d4ee91dff3f8c7acaf165064"
 }

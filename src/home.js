@@ -116,6 +116,7 @@ export function renderHome({ content, siteIndex, escapeHtml }) {
   const link = (label, slug, cls = '') => `<a class="${cls}" href="#/${slug}">${label}</a>`;
   content.innerHTML = `
     <div class="home">
+      <img class="home__banner" src="./assets/home/monk-snowball-fight-banner.png?v=20260923-v2" alt="" aria-hidden="true">
       <section class="home__intro" aria-label="Welcome to Paidiasophia">
         <header class="home__brand">
           <button class="home__search-toggle" type="button" aria-label="Search the wiki"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6"/></svg></button>
@@ -133,7 +134,7 @@ export function renderHome({ content, siteIndex, escapeHtml }) {
         <div class="home__trinkets">${initialPlaythings.map(name=>`<button class="home__trinket" type="button" aria-label="Spin and randomize this play thing"><img src="./assets/home/playthings/${name}" alt="" width="80" height="80"></button>`).join('')}</div>
       </section>
       <section class="home__explore" id="home-explore" aria-labelledby="explore-heading"><h2 id="explore-heading"><span>Explore</span></h2><div class="home__explore-body"><div class="home__grid">${categories.map(([label,icon,slug])=>link(`<img src="./assets/home/${icon}.png" alt="" width="80" height="80"><span>${label}</span>`,slug,'home__tile')).join('')}<button type="button" class="home__tile home__timeline"><img src="./assets/home/timeline.png" alt="" width="80" height="80"><span>Timeline</span></button></div><div class="home__clouds" aria-hidden="true"><img src="./assets/home/marioclouds.gif" alt="" width="500" height="229"></div></div></section>
-      <footer class="home__footer"><a href="https://twitter.com/paidiasophia" target="_blank" rel="noreferrer"><img src="./assets/images/free-twitter-logo-icon-2429-thumb-075fe553cc64.webp" alt="" width="28" height="28">follow @paidiasophia</a><a href="https://tally.so/r/wb5Y9e" target="_blank" rel="noreferrer"><svg viewBox="0 0 30 22" aria-hidden="true"><path d="M1 1h28v20H1Z M1 1l14 12L29 1 M1 21l10-10 m8 0 10 10"/></svg>subscribe to e-mail list</a></footer>
+      <footer class="home__footer"><span class="home__footer-motto">ite et ludite!</span><div class="home__footer-links"><a href="https://twitter.com/paidiasophia" target="_blank" rel="noreferrer"><img src="./assets/images/free-twitter-logo-icon-2429-thumb-075fe553cc64.webp" alt="" width="28" height="28">follow @paidiasophia</a><a href="https://tally.so/r/wb5Y9e" target="_blank" rel="noreferrer"><svg viewBox="0 0 30 22" aria-hidden="true"><path d="M1 1h28v20H1Z M1 1l14 12L29 1 M1 21l10-10 m8 0 10 10"/></svg>subscribe to e-mail list</a></div></footer>
       <dialog class="home__dialog" aria-label="Explore the wiki"><button class="home__dialog-close" aria-label="Close" type="button">×</button><div class="home__dialog-body"></div></dialog>
     </div>`;
   content.querySelector('pre').textContent = ASCII;
@@ -146,11 +147,32 @@ export function renderHome({ content, siteIndex, escapeHtml }) {
   );
   const dialog = content.querySelector('dialog');
   const dialogBody = dialog.querySelector('.home__dialog-body');
+  let searchDialogCloseTimer = 0;
+  const closeSearchDialog = () => {
+    if (!dialog.open || dialog.classList.contains('is-closing')) return;
+    if (!dialog.classList.contains('home__dialog--search')) {
+      dialog.close();
+      return;
+    }
+    dialog.classList.add('is-closing');
+    searchDialogCloseTimer = window.setTimeout(() => dialog.close(), 180);
+  };
   dialog.querySelector('button').addEventListener('click', () => dialog.close());
-  dialog.addEventListener('click', event => { if (event.target === dialog) dialog.close(); });
-  dialogBody.addEventListener('click', event => { if (event.target.closest('a')) dialog.close(); });
+  dialog.addEventListener('click', event => { if (event.target === dialog) closeSearchDialog(); });
+  dialog.addEventListener('cancel', event => {
+    if (!dialog.classList.contains('home__dialog--search')) return;
+    event.preventDefault();
+    closeSearchDialog();
+  });
+  dialog.addEventListener('close', () => {
+    window.clearTimeout(searchDialogCloseTimer);
+    dialog.classList.remove('home__dialog--search', 'is-closing');
+  });
+  dialogBody.addEventListener('click', event => { if (event.target.closest('a')) closeSearchDialog(); });
   content.querySelector('.home__search-toggle').addEventListener('click', () => {
-    dialogBody.innerHTML = '<h2>Search the wiki</h2><label for="home-search">Titles, tags, and page contents</label><input id="home-search" type="search" placeholder="Find books, people, concepts…" autocomplete="off"><div class="home__search-results" aria-live="polite"><p>Loading the full-site search index…</p></div>';
+    dialog.classList.remove('is-closing');
+    dialog.classList.add('home__dialog--search');
+    dialogBody.innerHTML = '<div class="home__search-field"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6"/></svg><input id="home-search" type="search" aria-label="Search the wiki" placeholder="Find books, games, people, concepts…" autocomplete="off"></div><div class="home__search-results" aria-live="polite"></div>';
     const input = dialogBody.querySelector('input');
     const results = dialogBody.querySelector('.home__search-results');
     let searchTimer = 0;
@@ -166,7 +188,7 @@ export function renderHome({ content, siteIndex, escapeHtml }) {
       const rawQuery = input.value.trim();
       const query = normalizeSearchText(rawQuery);
       if (!query) {
-        results.innerHTML = '<p>Type a word or phrase to search every page.</p>';
+        results.replaceChildren();
         return;
       }
       results.innerHTML = '<p>Searching titles, tags, and page contents…</p>';
@@ -201,14 +223,11 @@ export function renderHome({ content, siteIndex, escapeHtml }) {
       clearTimeout(searchTimer);
       searchTimer = setTimeout(runSearch, 120);
     });
-    loadHomeSearchIndex().then(() => {
-      if (!input.value.trim() && results.isConnected) results.innerHTML = '<p>Type a word or phrase to search every page.</p>';
-    }).catch(() => {
-      if (results.isConnected) results.innerHTML = '<p>The search index could not be loaded. Please try again.</p>';
-    });
+    loadHomeSearchIndex().catch(() => {});
     dialog.showModal(); input.focus();
   });
   content.querySelector('.home__timeline').addEventListener('click', async () => {
+    dialog.classList.remove('home__dialog--search');
     dialogBody.innerHTML = '<h2>Books through time</h2><p>Loading publication timeline…</p>'; dialog.showModal();
     try {
       const response = await fetch('./data/full-text-database-books.json');

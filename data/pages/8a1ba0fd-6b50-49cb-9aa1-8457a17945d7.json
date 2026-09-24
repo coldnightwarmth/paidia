@@ -3,7 +3,7 @@
   "slug": "the-last-of-us",
   "title": "The Last of Us",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/8a1ba0fd-6b50-49cb-9aa1-8457a17945d7.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Naughty Dog; Neil Druckmann and Bruce Straley (directors)"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Sony Computer Entertainment"
+      ]
+    ],
+    "First Release": [
+      [
+        "2013-06-14"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/8a1ba0fd-6b50-49cb-9aa1-8457a17945d7.webp",
   "blocks": [
+    {
+      "id": "game-description-8a1ba0fd-6b50-49cb-9aa1-8457a17945d7-0",
+      "type": "paragraph",
+      "html": "The Last of Us follows Joel and Ellie across a United States transformed by a fungal pandemic. Encounters combine stealth, improvised tools, scavenging, and direct combat, with limited supplies making avoidance or preparation meaningful. Quiet stretches of travel and conversation connect the danger to the changing relationship between its two central characters."
+    },
+    {
+      "id": "game-description-8a1ba0fd-6b50-49cb-9aa1-8457a17945d7-1",
+      "type": "paragraph",
+      "html": "Naughty Dog released the original game for PlayStation 3 in 2013. This entry concerns that release rather than its later remaster, remake, sequel, or television adaptation."
+    },
     {
       "id": "fbea10c8-cbf1-470b-bd25-47768b74e9d6",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Naughty Dog; Neil Druckmann and Bruce Straley (directors)",
+    "publisher": "Sony Computer Entertainment",
+    "releaseDate": "2013-06-14",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: The Last of Us (video game)",
+        "url": "https://en.wikipedia.org/wiki/The_Last_of_Us_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Video_Game_Cover_-_The_Last_of_Us.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Video_Game_Cover_-_The_Last_of_Us.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "The Last of Us — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "6633f2d652ee18f33015c36b899139799fdb045f01ffcf80dcbe022f814ef17e"
 }

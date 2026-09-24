@@ -3,7 +3,7 @@
   "slug": "chibi-robo",
   "title": "Chibi-Robo",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/5bb8c9a3-9c62-4b57-aaa2-b3f965401737.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Skip Ltd."
+      ]
+    ],
+    "Publisher": [
+      [
+        "Nintendo"
+      ]
+    ],
+    "First Release": [
+      [
+        "2005-06-23"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/5bb8c9a3-9c62-4b57-aaa2-b3f965401737.webp",
   "blocks": [
+    {
+      "id": "game-description-5bb8c9a3-9c62-4b57-aaa2-b3f965401737-0",
+      "type": "paragraph",
+      "html": "Chibi-Robo! Plug Into Adventure! casts the player as a tiny household robot living with the Sanderson family. Ordinary domestic spaces become large environments to explore, with furniture to climb, messes to clean, and family members and living toys to help. Actions consume electricity, so finding outlets and managing the robot’s battery are recurring parts of play."
+    },
+    {
+      "id": "game-description-5bb8c9a3-9c62-4b57-aaa2-b3f965401737-1",
+      "type": "paragraph",
+      "html": "Released first in Japan for the GameCube, the game mixes platforming with errands and character stories. Progress comes through making others happy, giving routine care and small acts of assistance a central role in its adventure."
+    },
     {
       "id": "e22d03a8-1995-4238-8285-2b534e985600",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Skip Ltd.",
+    "publisher": "Nintendo",
+    "releaseDate": "2005-06-23",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Chibi-Robo! (video game)",
+        "url": "https://en.wikipedia.org/wiki/Chibi-Robo%21_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Chibi_Robo.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/Chibi_Robo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Chibi-Robo — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "61216a95998d04e1ebe866d190839823f4d386c359d1bd4c88d5c97bb42cc804"
 }

@@ -3,7 +3,7 @@
   "slug": "angry-birds",
   "title": "Angry Birds",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/5ff1b406-a231-4d09-a7d3-b1bc13e91de7.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -44,10 +44,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Rovio; Jaakko Iisalo (designer)"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Chillingo (original iOS release); Rovio"
+      ]
+    ],
+    "First Release": [
+      [
+        "2009-12-11"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/5ff1b406-a231-4d09-a7d3-b1bc13e91de7.webp",
   "blocks": [
+    {
+      "id": "game-description-5ff1b406-a231-4d09-a7d3-b1bc13e91de7-0",
+      "type": "paragraph",
+      "html": "Angry Birds turns a slingshot into a tool for small physics puzzles. Players choose the angle and strength of a launch, sending birds into constructions of wood, glass, and stone to eliminate the pigs sheltered inside. Different birds introduce abilities that reward timing as well as aim, while limited ammunition encourages experimentation with weak points and chain reactions."
+    },
+    {
+      "id": "game-description-5ff1b406-a231-4d09-a7d3-b1bc13e91de7-1",
+      "type": "paragraph",
+      "html": "The original mobile game grew from Jaakko Iisalo’s bird sketches at Rovio. Its brief, repeatable levels made it well suited to touchscreen play, and its success led to sequels, spin-offs, and a broader entertainment franchise. This entry refers to the original 2009 game."
+    },
     {
       "id": "85c80f26-3c3e-42e2-abdf-63652e56f801",
       "type": "divider"
@@ -103,5 +128,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Rovio; Jaakko Iisalo (designer)",
+    "publisher": "Chillingo (original iOS release); Rovio",
+    "releaseDate": "2009-12-11",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Angry Birds (video game)",
+        "url": "https://en.wikipedia.org/wiki/Angry_Birds_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Angry_Birds_promo_art.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/Angry_Birds_promo_art.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Angry Birds — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "f8b68648a01412a875afab1be7da98fb4a56240b9746e624ab25e9172cc246d1"
 }

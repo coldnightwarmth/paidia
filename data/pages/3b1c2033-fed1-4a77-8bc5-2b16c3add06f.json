@@ -3,7 +3,7 @@
   "slug": "space-invaders",
   "title": "Space Invaders",
   "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-  "cover": "",
+  "cover": "./assets/games/3b1c2033-fed1-4a77-8bc5-2b16c3add06f.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Taito; Tomohiro Nishikado"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Taito; Midway (North America)"
+      ]
+    ],
+    "First Release": [
+      [
+        "1978"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/3b1c2033-fed1-4a77-8bc5-2b16c3add06f.webp",
   "blocks": [
+    {
+      "id": "game-description-3b1c2033-fed1-4a77-8bc5-2b16c3add06f-0",
+      "type": "paragraph",
+      "html": "Space Invaders places a horizontally moving cannon beneath ranks of descending aliens. Players fire through gaps and use destructible shields for cover, trying to clear each formation before it reaches them. As the formation thins and speeds up, the same simple controls demand increasingly precise timing."
+    },
+    {
+      "id": "game-description-3b1c2033-fed1-4a77-8bc5-2b16c3add06f-1",
+      "type": "paragraph",
+      "html": "Tomohiro Nishikado designed the game at Taito, including the hardware needed to realize it. Its 1978 arcade release helped establish the fixed shooter as a major form of videogame play, with repeated waves and score chasing providing the central structure."
+    },
     {
       "id": "9e48d26f-7424-46c5-a4ec-e0b36d68fbf2",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Taito; Tomohiro Nishikado",
+    "publisher": "Taito; Midway (North America)",
+    "releaseDate": "1978",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Space Invaders",
+        "url": "https://en.wikipedia.org/wiki/Space_Invaders"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Space_Invaders_flyer,_1978.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/0/0f/Space_Invaders_flyer%2C_1978.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Space Invaders — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "e0ff0fbc9215b082615d1509218d0b9192a4980d9baa0660e805bede3c9b473e"
 }

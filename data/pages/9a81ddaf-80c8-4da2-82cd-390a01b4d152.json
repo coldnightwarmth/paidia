@@ -3,7 +3,7 @@
   "slug": "quake",
   "title": "Quake",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/9a81ddaf-80c8-4da2-82cd-390a01b4d152.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "id Software"
+      ]
+    ],
+    "Publisher": [
+      [
+        "GT Interactive (retail); id Software (shareware)"
+      ]
+    ],
+    "First Release": [
+      [
+        "1996-06-22 (shareware)"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/9a81ddaf-80c8-4da2-82cd-390a01b4d152.webp",
   "blocks": [
+    {
+      "id": "game-description-9a81ddaf-80c8-4da2-82cd-390a01b4d152-0",
+      "type": "paragraph",
+      "html": "Quake sends the player through military facilities and gothic spaces connected by slipgates. Its encounters combine projectile weapons, dangerous creatures, environmental hazards, and fast movement through three-dimensional levels. The dark architecture and unsettling sound design give its science-fiction premise the atmosphere of a horror adventure."
+    },
+    {
+      "id": "game-description-9a81ddaf-80c8-4da2-82cd-390a01b4d152-1",
+      "type": "paragraph",
+      "html": "The 1996 game brought fully polygonal environments and enemies to id Software’s shooter design and became influential in networked deathmatch and modification communities. Its original shareware release preceded the retail edition; this entry refers to the first Quake rather than its sequels."
+    },
     {
       "id": "d2dd12ce-2134-4406-a238-b4f975369bff",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "id Software",
+    "publisher": "GT Interactive (retail); id Software (shareware)",
+    "releaseDate": "1996-06-22 (shareware)",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Quake (video game)",
+        "url": "https://en.wikipedia.org/wiki/Quake_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Quake1cover.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Quake1cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Quake — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "6f2f2bee20ea759629b78cc908d0355e94521116b959781d586069977d2f67d7"
 }

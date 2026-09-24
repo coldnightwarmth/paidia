@@ -3,7 +3,7 @@
   "slug": "dance",
   "title": "Dance",
   "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-  "cover": "",
+  "cover": "./assets/games/1ea2a3ec-faf6-4c5c-bdd2-8db02c6e6979.webp",
   "type": "page",
   "parentId": "28565453-030e-4ef0-902b-711c38f035e0",
   "parentTable": "block",
@@ -34,10 +34,30 @@
       [
         "Sports"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Collective traditions across many cultures"
+      ]
+    ],
+    "Origin": [
+      [
+        "Ancient; no single origin or release date"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/1ea2a3ec-faf6-4c5c-bdd2-8db02c6e6979.webp",
   "blocks": [
+    {
+      "id": "game-description-1ea2a3ec-faf6-4c5c-bdd2-8db02c6e6979-0",
+      "type": "paragraph",
+      "html": "Dance organizes bodily movement into expressive, rhythmic, social, or ceremonial forms. It may follow established steps and choreography or develop through improvisation, and it can be performed alone, with a partner, or in groups. Music is a frequent companion, but movement can also establish its own timing."
+    },
+    {
+      "id": "game-description-1ea2a3ec-faf6-4c5c-bdd2-8db02c6e6979-1",
+      "type": "paragraph",
+      "html": "Dance is included here as a broad field of embodied play rather than one game with a universal rulebook. Social dances, performance traditions, and competitive dancesport place different values on participation, interpretation, technique, and judging. Their histories belong to many communities, so a single inventor or release date would be misleading."
+    },
     {
       "id": "45d113c4-0e87-4b4c-bcf7-5d0d03b57ad0",
       "type": "divider"
@@ -92,5 +112,29 @@
       "Sports"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Collective traditions across many cultures",
+    "publisher": "",
+    "releaseDate": "",
+    "origin": "Ancient; no single origin or release date",
+    "sources": [
+      {
+        "title": "Wikipedia: Dance",
+        "url": "https://en.wikipedia.org/wiki/Dance"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Two_dancers.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Two_dancers.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Barry Goyette from San Luis Obispo, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Greg Sample and Jennita Russo of Deyo Dances performing in the modern ballet  Brasileiro.",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Dance — representative photograph",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "5f6ba6138ba9c1915d5699cb399ebee1f56fd8585dee5a57cfd649939b018039"
 }

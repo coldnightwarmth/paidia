@@ -3,7 +3,7 @@
   "slug": "tetris",
   "title": "Tetris",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/a13a4790-85a8-4399-bdd9-623bb5d55532.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Alexey Pajitnov"
+      ]
+    ],
+    "Publisher": [
+      [
+        "No original commercial publisher; later editions have multiple publishers"
+      ]
+    ],
+    "First Release": [
+      [
+        "1984 (official dating; some historical sources give 1985)"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/a13a4790-85a8-4399-bdd9-623bb5d55532.webp",
   "blocks": [
+    {
+      "id": "game-description-a13a4790-85a8-4399-bdd9-623bb5d55532-0",
+      "type": "paragraph",
+      "html": "Tetris is a falling-block puzzle in which players rotate and position four-square pieces to complete horizontal lines. Completed lines disappear, creating space for further pieces; gaps and badly placed blocks make future placements harder. The game’s pressure comes from balancing immediate survival with the shape of the pile being built."
+    },
+    {
+      "id": "game-description-a13a4790-85a8-4399-bdd9-623bb5d55532-1",
+      "type": "paragraph",
+      "html": "Alexey Pajitnov created the original at a Soviet computing center before it spread through computer copies and commercial editions. The official history dates its creation to 1984, although some historical accounts place completion in 1985. Its many later versions differ in controls and extra systems while retaining the line-clearing core."
+    },
     {
       "id": "24b17b50-e90d-4b62-a553-1af18e728eaa",
       "type": "divider"
@@ -93,5 +118,33 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Alexey Pajitnov",
+    "publisher": "No original commercial publisher; later editions have multiple publishers",
+    "releaseDate": "1984 (official dating; some historical sources give 1985)",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Tetris: Official history",
+        "url": "https://tetris.com/news/the-history-of-tetris"
+      },
+      {
+        "title": "Wikipedia: Tetris",
+        "url": "https://en.wikipedia.org/wiki/Tetris"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Tetris_logo_2019.svg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Tetris_logo_2019.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "The Tetris Company",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Current logo of the Tetris video game brand, as used by rightsholder The Tetris Company, since 2019",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Tetris — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "5e35628dd188c1b7d3f9fea906484f09c155b89899da3a4dc6db3742e1e5ac6f"
 }

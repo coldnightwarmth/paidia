@@ -3,7 +3,7 @@
   "slug": "overwatch",
   "title": "Overwatch",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/af513933-9d43-47f8-98a0-12df5c9290f5.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Blizzard Entertainment"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Blizzard Entertainment"
+      ]
+    ],
+    "First Release": [
+      [
+        "2016-05-24"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/af513933-9d43-47f8-98a0-12df5c9290f5.webp",
   "blocks": [
+    {
+      "id": "game-description-af513933-9d43-47f8-98a0-12df5c9290f5-0",
+      "type": "paragraph",
+      "html": "The original Overwatch was a team-based shooter in which players selected heroes with markedly different weapons, movement abilities, and support tools. Its six-player teams competed over objectives such as escorting a payload or holding territory. Choosing complementary heroes and adapting to the opposing team were as important as individual accuracy."
+    },
+    {
+      "id": "game-description-af513933-9d43-47f8-98a0-12df5c9290f5-1",
+      "type": "paragraph",
+      "html": "Blizzard released the game in 2016 and expanded its roster and maps over time. This entry describes that original version; its live service was replaced by Overwatch 2 in 2022, so the original game’s team structure should not be confused with every later form of Overwatch."
+    },
     {
       "id": "a88d5898-e92e-4aea-abce-706059c69011",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "releaseDate": "2016-05-24",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Overwatch (2016 video game)",
+        "url": "https://en.wikipedia.org/wiki/Overwatch_%282016_video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Overwatch_cover_art.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/5/51/Overwatch_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Overwatch — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "519cb84a8a0a2a5eb5da0439acaaa24237bb31567a8ba10d5eabeb401d7fc902"
 }

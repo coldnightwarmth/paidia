@@ -3,7 +3,7 @@
   "slug": "halo",
   "title": "Halo",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/fbacd42f-5ab6-4dd0-9884-c9edcf4e6d43.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Bungie"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Microsoft Game Studios"
+      ]
+    ],
+    "First Release": [
+      [
+        "2001-11-15"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/fbacd42f-5ab6-4dd0-9884-c9edcf4e6d43.webp",
   "blocks": [
+    {
+      "id": "game-description-fbacd42f-5ab6-4dd0-9884-c9edcf4e6d43-0",
+      "type": "paragraph",
+      "html": "Halo: Combat Evolved follows Master Chief and the artificial intelligence Cortana onto an immense ring-shaped world. Fighting the Covenant involves alternating between infantry encounters and vehicles, managing a regenerating shield, and choosing which two weapons to carry. Open combat areas contrast with enclosed installations and the discoveries inside them."
+    },
+    {
+      "id": "game-description-fbacd42f-5ab6-4dd0-9884-c9edcf4e6d43-1",
+      "type": "paragraph",
+      "html": "Released with the Xbox in 2001, the game combined a science-fiction campaign with cooperative and competitive multiplayer. This entry uses the shorter title Halo for the original Combat Evolved, while recognizing that the name also identifies a much larger series."
+    },
     {
       "id": "01616b45-2783-41b9-93d0-e536dbc5fbcf",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Bungie",
+    "publisher": "Microsoft Game Studios",
+    "releaseDate": "2001-11-15",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Halo: Combat Evolved",
+        "url": "https://en.wikipedia.org/wiki/Halo%3A_Combat_Evolved"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Halo_-_Combat_Evolved_(XBox_version_-_box_art).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Halo — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "41a052a98a31ee402b064b5013ab44663dc2d36631d2878e31ac29aa834f3886"
 }

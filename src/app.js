@@ -1,5 +1,5 @@
 import { recordRowUpdates } from './recent-updates.js';
-import { renderHome } from "./home.js?v=20260923-static-home-brand";
+import { renderHome } from "./home.js?v=20260923-home-search-fade-v6";
 
 const DATA_CACHE_TOKEN = Date.now().toString(36);
 
@@ -118,6 +118,7 @@ document.addEventListener("click", (event) => {
   ) return;
   const link = event.target.closest?.("a[href^='#/']");
   if (!link || link.querySelector("[data-anchor-link]")) return;
+  if (link.closest(".home, .sidebar")) resetPersistedDatabaseFilters();
   saveCurrentScrollPosition();
   const destination = new URL(link.href, window.location.href);
   if (destination.hash === window.location.hash) {
@@ -205,6 +206,15 @@ const CATALOG_ROUTES = new Map([
   ["software-db7886e6", "other-media?category=Software"],
   ["objects", "artifacts"],
   ["groups-f82fec8f", "folks-292fe1df?list=Groups"],
+  ["writers-and-scholars", "folks-292fe1df?list=Writers%20%26%20Scholars"],
+  ["writers-and-scholars-be2ab5cc", "folks-292fe1df?list=Writers%20%26%20Scholars"],
+  ["gamedevs-and-artists", "folks-292fe1df?list=Gamedevs%20%26%20Artists"],
+  ["gamedevs-and-artists-ef69fc12", "folks-292fe1df?list=Gamedevs%20%26%20Artists"],
+  ["other-people", "folks-292fe1df?list=Other%20People"],
+  ["other-people-e3eefbac", "folks-292fe1df?list=Other%20People"],
+  ["essays-articles-and-blogposts", "shortform-writing?type=Essay%20%2F%20Article%20%2F%20Blogpost"],
+  ["essays-articles-and-blogposts-ecb76705", "shortform-writing?type=Essay%20%2F%20Article%20%2F%20Blogpost"],
+  ["poems-and-short-stories", "shortform-writing?type=Poetry&type=Short%20Story"],
 ]);
 
 const pageCache = new Map();
@@ -221,6 +231,7 @@ const sidebar = document.querySelector("#sidebar");
 const nav = document.querySelector("#site-nav");
 const status = document.querySelector("#site-status");
 const breadcrumbs = document.querySelector("#breadcrumbs");
+const breadcrumbUp = document.querySelector("#breadcrumb-up");
 const hero = document.querySelector("#page-hero");
 const content = document.querySelector("#page-content");
 const menuToggle = document.querySelector("#menu-toggle");
@@ -231,6 +242,7 @@ const bookPreviewPanel = document.querySelector("#book-preview-panel");
 const bookPreviewHero = document.querySelector("#book-preview-hero");
 const bookPreviewContent = document.querySelector("#book-preview-content");
 const bookPreviewClose = document.querySelector("#book-preview-close");
+const bookPreviewOpenPage = document.querySelector("#book-preview-open-page");
 
 let activeBookPreviewPageId = null;
 let activeShortformPreviewPageId = null;
@@ -504,6 +516,34 @@ function normalizeSpreadsheetSelectedTags(value) {
   if (!Array.isArray(value)) return [];
 
   return [...new Set(value.map(normalizeSpreadsheetTagKey).filter(Boolean))];
+}
+
+function resetPersistedDatabaseFilters() {
+  try {
+    const viewKeys = [];
+    for (let index = 0; index < window.localStorage.length; index += 1) {
+      const key = window.localStorage.key(index);
+      if (key?.startsWith("paidiasophia:") && key.endsWith("view:v1")) viewKeys.push(key);
+    }
+
+    for (const key of viewKeys) {
+      const saved = JSON.parse(window.localStorage.getItem(key) ?? "null");
+      if (!saved || typeof saved !== "object" || Array.isArray(saved)) continue;
+      window.localStorage.setItem(
+        key,
+        JSON.stringify({
+          ...saved,
+          currentPage: 0,
+          filtersOpen: false,
+          bookmarksOnly: false,
+          selectedTags: [],
+          selectedLists: [],
+          selectedTypes: [],
+          selectedThemes: [],
+        }),
+      );
+    }
+  } catch {}
 }
 
 function loadSpreadsheetViewState(sourceRows, columns) {
@@ -1650,6 +1690,24 @@ async function renderFullTextDatabaseSpreadsheet() {
       const coverCell = document.createElement("td");
       coverCell.className = "spreadsheet__cover-cell";
       coverCell.append(renderCoverFrame(metadata, title));
+      if (metadata.pageId) {
+        const previewButton = document.createElement("button");
+        previewButton.type = "button";
+        previewButton.className = "spreadsheet__list-preview-button";
+        previewButton.dataset.bookPreviewId = metadata.pageId;
+        previewButton.setAttribute("aria-label", `Open ${title} in the book preview panel`);
+        previewButton.setAttribute("aria-pressed", "false");
+        previewButton.innerHTML = `
+          <svg aria-hidden="true" viewBox="0 0 24 24">
+            <path d="M4.5 5h15v14h-15z"></path>
+            <path d="M14 5v14"></path>
+            <path d="m8.5 9 3 3-3 3"></path>
+          </svg>
+        `;
+        previewButton.addEventListener("click", () => openBookPreview(metadata.pageId, title));
+        coverCell.classList.add("has-list-preview-button");
+        coverCell.append(previewButton);
+      }
       tr.append(coverCell);
 
       row.forEach((value, columnIndex) => {
@@ -2297,7 +2355,7 @@ async function renderFolksDatabaseSpreadsheet(config = null) {
   const portraitHeader = document.createElement("th");
   portraitHeader.className = "spreadsheet__cover-header";
   portraitHeader.scope = "col";
-  portraitHeader.setAttribute("aria-label", "Portrait or icon");
+  portraitHeader.setAttribute("aria-label", config ? "Cover or representative image" : "Portrait or icon");
   headerRow.append(portraitHeader);
 
   columns.forEach((label, columnIndex) => {
@@ -2377,7 +2435,7 @@ async function renderFolksDatabaseSpreadsheet(config = null) {
         ? "spreadsheet__cover-thumb spreadsheet__cover-thumb--gallery folks-database__portrait folks-database__portrait--gallery"
         : "spreadsheet__cover-thumb folks-database__portrait";
       image.src = metadata.image;
-      image.alt = `${name} portrait`;
+      image.alt = config ? `${name} cover or representative image` : `${name} portrait`;
       image.loading = "lazy";
       frame.append(image);
       return frame;
@@ -2738,6 +2796,24 @@ async function renderFolksDatabaseSpreadsheet(config = null) {
       const visualCell = document.createElement("td");
       visualCell.className = "spreadsheet__cover-cell";
       visualCell.append(renderPersonVisual(metadata, name));
+      if (metadata.pageId) {
+        const previewButton = document.createElement("button");
+        previewButton.type = "button";
+        previewButton.className = "spreadsheet__list-preview-button";
+        previewButton.dataset.folksPreviewId = metadata.pageId;
+        previewButton.setAttribute("aria-label", `Open ${name} in the page preview panel`);
+        previewButton.setAttribute("aria-pressed", "false");
+        previewButton.innerHTML = `
+          <svg aria-hidden="true" viewBox="0 0 24 24">
+            <path d="M4.5 5h15v14h-15z"></path>
+            <path d="M14 5v14"></path>
+            <path d="m8.5 9 3 3-3 3"></path>
+          </svg>
+        `;
+        previewButton.addEventListener("click", () => openFolksPreview(metadata.pageId, name));
+        visualCell.classList.add("has-list-preview-button");
+        visualCell.append(previewButton);
+      }
       tr.append(visualCell);
 
       row.forEach((value, columnIndex) => {
@@ -2905,6 +2981,7 @@ async function renderFolksDatabaseSpreadsheet(config = null) {
     else renderListRows(visibleRows);
     if (visibleRows.length === 0) renderEmpty();
     renderBookmarkControls();
+    syncFolksPreviewButtons();
 
     if (pendingFocus) {
       const nextFocus = pendingFocus;
@@ -3767,6 +3844,24 @@ async function renderShortformDatabaseSpreadsheet() {
       const visualCell = document.createElement("td");
       visualCell.className = "spreadsheet__cover-cell";
       visualCell.append(renderTextVisual(metadata, title));
+      if (metadata.pageId) {
+        const previewButton = document.createElement("button");
+        previewButton.type = "button";
+        previewButton.className = "spreadsheet__list-preview-button";
+        previewButton.dataset.shortformPreviewId = metadata.pageId;
+        previewButton.setAttribute("aria-label", `Open ${title} in the text preview panel`);
+        previewButton.setAttribute("aria-pressed", "false");
+        previewButton.innerHTML = `
+          <svg aria-hidden="true" viewBox="0 0 24 24">
+            <path d="M4.5 5h15v14h-15z"></path>
+            <path d="M14 5v14"></path>
+            <path d="m8.5 9 3 3-3 3"></path>
+          </svg>
+        `;
+        previewButton.addEventListener("click", () => openShortformPreview(metadata.pageId, title));
+        visualCell.classList.add("has-list-preview-button");
+        visualCell.append(previewButton);
+      }
       tr.append(visualCell);
       row.forEach((value, columnIndex) => {
         const td = document.createElement("td");
@@ -4941,6 +5036,13 @@ function renderBreadcrumbs(pageSummary) {
         : `<a href="${routeForPage(item.id)}">${escapeHtml(label)}</a>`;
     })
     .join('<span class="crumb-sep">/</span>');
+
+  const parent = trail.at(-2);
+  breadcrumbUp.hidden = !parent;
+  if (parent) {
+    breadcrumbUp.href = routeForPage(parent.id);
+    breadcrumbUp.setAttribute("aria-label", `Go up to ${parent.id === siteIndex.rootPageId ? "Home" : parent.title}`);
+  }
 }
 
 function renderHeroMarkup(page, fallbackTitle = "Untitled page") {
@@ -4968,6 +5070,54 @@ function renderHeroMarkup(page, fallbackTitle = "Untitled page") {
   `;
 }
 
+function renderCatalogBody(page, target) {
+  const details = page.gameDetails;
+  if (!details) { target.append(renderChildren(page.blocks)); return; }
+  const contentBlocks = [...(page.blocks ?? [])].filter((block) => !(
+    block?.type === 'paragraph' &&
+    /href=["']#\//i.test(block.html ?? '') &&
+    /(?:☜|🏠)/u.test(block.html ?? '')
+  ));
+  while (
+    contentBlocks.length &&
+    (
+      contentBlocks.at(-1)?.type === 'divider' ||
+      (
+        contentBlocks.at(-1)?.type === 'paragraph' &&
+        !(contentBlocks.at(-1)?.html ?? '').replace(/<[^>]*>/g, '').trim()
+      )
+    )
+  ) contentBlocks.pop();
+  const layout = document.createElement('div');
+  layout.className = 'game-page';
+  const main = document.createElement('div');
+  main.className = 'game-page__body';
+  const facts = document.createElement('dl');
+  facts.className = 'game-page__facts';
+  for (const [label,value] of [['Creator / developer',details.creator],['Publisher / manufacturer',details.publisher],['First release',details.releaseDate],['Origins',details.origin]]) {
+    if (!value) continue;
+    const term = document.createElement('dt'); term.textContent = label;
+    const definition = document.createElement('dd'); definition.textContent = value;
+    facts.append(term, definition);
+  }
+  main.append(facts, renderChildren(contentBlocks));
+  const sources = document.createElement('details');
+  sources.className = 'game-page__sources';
+  const heading = document.createElement('summary'); heading.textContent = 'Sources';
+  const list = document.createElement('ul');
+  for (const source of details.sources ?? []) {
+    const item = document.createElement('li');
+    const link = document.createElement('a'); link.href = source.url; link.textContent = source.title;
+    item.append(link); list.append(item);
+  }
+  sources.append(heading,list); main.append(sources);
+  const cover = document.createElement('figure'); cover.className = 'game-page__cover';
+  const image = document.createElement('img'); image.src = page.previewImage || page.cover;
+  image.alt = details.imageAlt || page.title; image.decoding = 'async';
+  cover.append(image);
+  layout.append(main,cover); target.append(layout);
+}
+
 function renderCatalogMetadata(page, target) {
   if (!page.catalog && !page.peopleCategory) return;
   const metadata = document.createElement("nav");
@@ -4975,17 +5125,21 @@ function renderCatalogMetadata(page, target) {
   metadata.setAttribute("aria-label", "Item categories");
   const databaseId = page.catalog?.databaseId ?? FOLKS_DATABASE_PAGE_ID;
   const categories = page.catalog?.categories ?? [page.peopleCategory];
-  for (const category of categories) {
-    const link = document.createElement("a");
-    link.href = `${routeForPage(databaseId)}?${page.catalog ? "category" : "list"}=${encodeURIComponent(category)}`;
-    link.textContent = category;
-    metadata.append(link);
+  if (!page.gameDetails) {
+    for (const category of categories) {
+      const link = document.createElement("a");
+      link.href = `${routeForPage(databaseId)}?${page.catalog ? "category" : "list"}=${encodeURIComponent(category)}`;
+      link.textContent = category;
+      metadata.append(link);
+    }
+  } else {
+    metadata.classList.add("catalog-page__categories--game-tags");
   }
   for (const tag of page.catalog?.tags ?? []) {
     if (categories.includes(tag)) continue;
     const span = document.createElement("span"); span.textContent = tag; metadata.append(span);
   }
-  target.append(metadata);
+  if (metadata.childElementCount) target.append(metadata);
 }
 
 function renderHero(page) {
@@ -5043,6 +5197,7 @@ function closeBookPreview() {
   bookPreviewContent.innerHTML = "";
   bookPreviewContent.classList.remove("page__content--shortform-text");
   bookPreviewContent.classList.add("page__content--book");
+  bookPreviewOpenPage.removeAttribute("href");
   syncBookPreviewButtons();
   syncShortformPreviewButtons();
   syncFolksPreviewButtons();
@@ -5069,6 +5224,7 @@ async function openBookPreview(pageId, fallbackTitle = "Untitled book") {
     title: fallbackTitle,
   };
 
+  bookPreviewOpenPage.href = routeForPage(pageId);
   document.body.classList.add("book-preview-open");
   bookPreviewPanel.setAttribute("aria-label", "Book preview");
   bookPreviewPanel.setAttribute("aria-hidden", "false");
@@ -5159,6 +5315,7 @@ async function openShortformPreview(pageId, fallbackTitle = "Untitled text") {
   const version = ++bookPreviewRenderVersion;
   const fallbackSummary = pageIndexMap.get(pageId) ?? { id: pageId, title: fallbackTitle };
 
+  bookPreviewOpenPage.href = routeForPage(pageId);
   document.body.classList.add("book-preview-open");
   bookPreviewPanel.setAttribute("aria-label", "Shortform text preview");
   bookPreviewPanel.setAttribute("aria-hidden", "false");
@@ -5202,6 +5359,7 @@ async function openFolksPreview(pageId, fallbackTitle = "Untitled page") {
   const version = ++bookPreviewRenderVersion;
   const fallbackSummary = pageIndexMap.get(pageId) ?? { id: pageId, title: fallbackTitle };
 
+  bookPreviewOpenPage.href = routeForPage(pageId);
   document.body.classList.add("book-preview-open");
   bookPreviewPanel.setAttribute("aria-label", "Page preview");
   bookPreviewPanel.setAttribute("aria-hidden", "false");
@@ -5224,7 +5382,7 @@ async function openFolksPreview(pageId, fallbackTitle = "Untitled page") {
     bookPreviewHero.innerHTML = renderHeroMarkup(page, fallbackTitle);
     bookPreviewContent.innerHTML = "";
     renderCatalogMetadata(page, bookPreviewContent);
-    bookPreviewContent.append(renderChildren(page.blocks));
+    renderCatalogBody(page, bookPreviewContent);
     populateTableOfContents(pageSummary, bookPreviewContent);
   } catch (error) {
     if (version !== bookPreviewRenderVersion) return;
@@ -5848,7 +6006,7 @@ async function renderCurrentRoute(scrollMode = pendingRouteScrollMode ?? "new") 
       renderShortformTextPage(page, summary);
     } else {
       renderCatalogMetadata(page, content);
-      content.append(renderChildren(page.blocks));
+      renderCatalogBody(page, content);
       populateTableOfContents(summary);
     }
     applyRouteScroll(scrollMode, version);

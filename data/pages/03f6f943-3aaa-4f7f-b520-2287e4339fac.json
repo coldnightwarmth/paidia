@@ -3,7 +3,7 @@
   "slug": "chess-03f6f943",
   "title": "Chess",
   "icon": "./assets/images/cards-gray-675db9d78eac.webp",
-  "cover": "",
+  "cover": "./assets/games/03f6f943-3aaa-4f7f-b520-2287e4339fac.webp",
   "type": "page",
   "parentId": "70aaf802-4e58-4f10-b89b-e11ce8160ac2",
   "parentTable": "block",
@@ -34,10 +34,30 @@
       [
         "Tabletop"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "No single known inventor"
+      ]
+    ],
+    "Origin": [
+      [
+        "Indian predecessors by the 7th century; modern rules developed in late-15th-century Europe"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/03f6f943-3aaa-4f7f-b520-2287e4339fac.webp",
   "blocks": [
+    {
+      "id": "game-description-03f6f943-3aaa-4f7f-b520-2287e4339fac-0",
+      "type": "paragraph",
+      "html": "Chess is a two-player strategy game on an eight-by-eight board. Each kind of piece moves differently, and the central objective is to checkmate the opposing king. Because both players can see the whole position and no random device determines moves, play revolves around calculation, pattern recognition, and judging long-term advantages."
+    },
+    {
+      "id": "game-description-03f6f943-3aaa-4f7f-b520-2287e4339fac-1",
+      "type": "paragraph",
+      "html": "The game descends from earlier forms including Indian chaturanga and Persian shatranj. The powerful modern queen and bishop emerged in Europe near the end of the fifteenth century, with further standardization over subsequent centuries. Chess therefore has a long, collective history rather than a single creator or commercial release."
+    },
     {
       "id": "77844276-4cab-456c-be23-3c192963beaa",
       "type": "divider"
@@ -92,5 +112,29 @@
       "Tabletop"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "No single known inventor",
+    "publisher": "",
+    "releaseDate": "",
+    "origin": "Indian predecessors by the 7th century; modern rules developed in late-15th-century Europe",
+    "sources": [
+      {
+        "title": "Wikipedia: Chess",
+        "url": "https://en.wikipedia.org/wiki/Chess"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:ChessSet.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Alan Light",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Chess pieces – left to right: king, rook, queen, pawn, knight and bishop.",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Chess — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "7eb46d35c13e142645520b4e8b8c08f3ef01d2122437308ecf8b45518e9af940"
 }

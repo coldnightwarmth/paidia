@@ -3,7 +3,7 @@
   "slug": "the-legend-of-zelda",
   "title": "The Legend of Zelda",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/39ee7cbe-d7ce-422b-bfd7-a91c524b1188.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -39,10 +39,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Nintendo; Shigeru Miyamoto and Takashi Tezuka"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Nintendo"
+      ]
+    ],
+    "First Release": [
+      [
+        "1986-02-21"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/39ee7cbe-d7ce-422b-bfd7-a91c524b1188.webp",
   "blocks": [
+    {
+      "id": "game-description-39ee7cbe-d7ce-422b-bfd7-a91c524b1188-0",
+      "type": "paragraph",
+      "html": "The original Legend of Zelda sends Link across Hyrule to recover fragments of the Triforce of Wisdom and rescue Princess Zelda. An overworld connects dungeons, hidden entrances, shops, and other discoveries, while weapons and tools expand what the player can do. Exploration depends on remembering places and testing possibilities as much as defeating enemies."
+    },
+    {
+      "id": "game-description-39ee7cbe-d7ce-422b-bfd7-a91c524b1188-1",
+      "type": "paragraph",
+      "html": "Released first for Japan’s Famicom Disk System in 1986, it established an adventure structure in which a broad landscape and more tightly arranged dungeons inform one another. This entry refers to the first game in the series."
+    },
     {
       "id": "398614b8-9086-4d8e-b4d1-df24295cf839",
       "type": "divider"
@@ -98,5 +123,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Nintendo; Shigeru Miyamoto and Takashi Tezuka",
+    "publisher": "Nintendo",
+    "releaseDate": "1986-02-21",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: The Legend of Zelda (video game)",
+        "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Legend_of_zelda_cover_(with_cartridge)_gold.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "The Legend of Zelda — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "6b5b6bf36de225d5774ce99dfe1d8f4a3a9844ebf68ae1effea000174ca6a7e5"
 }

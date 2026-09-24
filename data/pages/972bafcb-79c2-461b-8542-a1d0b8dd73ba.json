@@ -3,7 +3,7 @@
   "slug": "grand-theft-auto",
   "title": "Grand Theft Auto",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/972bafcb-79c2-461b-8542-a1d0b8dd73ba.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "DMA Design"
+      ]
+    ],
+    "Publisher": [
+      [
+        "BMG Interactive"
+      ]
+    ],
+    "First Release": [
+      [
+        "1997-11-28"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/972bafcb-79c2-461b-8542-a1d0b8dd73ba.webp",
   "blocks": [
+    {
+      "id": "game-description-972bafcb-79c2-461b-8542-a1d0b8dd73ba-0",
+      "type": "paragraph",
+      "html": "The original Grand Theft Auto views its cities from above. Players move between walking and driving, accept criminal assignments, and accumulate points while navigating traffic and police attention. Missions coexist with a relatively open urban space, allowing detours and disruptive improvisation rather than a strictly linear route through every task."
+    },
+    {
+      "id": "game-description-972bafcb-79c2-461b-8542-a1d0b8dd73ba-1",
+      "type": "paragraph",
+      "html": "Created by DMA Design, the 1997 game established fictional cities and a structure that later Grand Theft Auto releases developed in three dimensions. Its original publisher was BMG Interactive; the later Rockstar identity should not be projected backward onto that first release."
+    },
     {
       "id": "9c2c067a-0ad1-4ee5-aa2d-ed210cca4f9d",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "DMA Design",
+    "publisher": "BMG Interactive",
+    "releaseDate": "1997-11-28",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Grand Theft Auto (video game)",
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:GTA_-_Box_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/e/e7/GTA_-_Box_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Grand Theft Auto — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "ae21558bdddb8ecbeacb0c5ebfa8ea0fe565670640a3c91a28800294cfee8007"
 }

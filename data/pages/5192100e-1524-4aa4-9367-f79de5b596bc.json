@@ -3,7 +3,7 @@
   "slug": "call-of-duty",
   "title": "Call of Duty",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/5192100e-1524-4aa4-9367-f79de5b596bc.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Infinity Ward"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Activision"
+      ]
+    ],
+    "First Release": [
+      [
+        "2003-10-29"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/5192100e-1524-4aa4-9367-f79de5b596bc.webp",
   "blocks": [
+    {
+      "id": "game-description-5192100e-1524-4aa4-9367-f79de5b596bc-0",
+      "type": "paragraph",
+      "html": "The first Call of Duty presents World War II through American, British, and Soviet campaigns. Rather than consistently treating the player as an isolated hero, its missions surround them with allied soldiers and staged battlefield events. Infantry combat is interspersed with vehicle sequences and objectives tied to the progress of a larger force."
+    },
+    {
+      "id": "game-description-5192100e-1524-4aa4-9367-f79de5b596bc-1",
+      "type": "paragraph",
+      "html": "Developed by Infinity Ward for Windows, the 2003 game began the series that later expanded into other periods and settings. Its emphasis on squad presence and cinematic pacing helped define the early franchise’s identity."
+    },
     {
       "id": "25bdd4de-8871-4609-8987-f1a2567605c5",
       "type": "divider"
@@ -93,5 +118,33 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Infinity Ward",
+    "publisher": "Activision",
+    "releaseDate": "2003-10-29",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Activision: original release announcement",
+        "url": "https://investor.activision.com/news-releases/news-release-details/activision-release-call-duty-october-29"
+      },
+      {
+        "title": "Wikipedia: Call of Duty (video game)",
+        "url": "https://en.wikipedia.org/wiki/Call_of_Duty_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Call_Of_Duty_(2003),Cover,Updated.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/7/7c/Call_Of_Duty_%282003%29%2CCover%2CUpdated.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Activision",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Call of Duty — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "c29834bf97095fe3e2ce7aa1b607e6ea8c333e1bd4da068962126030cfba4b39"
 }

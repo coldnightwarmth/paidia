@@ -3,7 +3,7 @@
   "slug": "guitar-hero",
   "title": "Guitar Hero",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/46452ebe-1d67-4f22-b12c-b69a0cdae7b1.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Harmonix"
+      ]
+    ],
+    "Publisher": [
+      [
+        "RedOctane"
+      ]
+    ],
+    "First Release": [
+      [
+        "2005-11-08"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/46452ebe-1d67-4f22-b12c-b69a0cdae7b1.webp",
   "blocks": [
+    {
+      "id": "game-description-46452ebe-1d67-4f22-b12c-b69a0cdae7b1-0",
+      "type": "paragraph",
+      "html": "Guitar Hero translates rock performance into a rhythm game played with a guitar-shaped controller. Players hold fret buttons and strum as notes reach a target line, maintaining timing through increasingly demanding patterns. The controller does not reproduce ordinary guitar technique, but it gives performance a physical, theatrical quality beyond pressing buttons on a standard pad."
+    },
+    {
+      "id": "game-description-46452ebe-1d67-4f22-b12c-b69a0cdae7b1-1",
+      "type": "paragraph",
+      "html": "The first game appeared on PlayStation 2 in 2005. Its mixture of familiar songs, difficulty levels, and performance feedback made practice and mastery legible to players while also making the game entertaining to watch."
+    },
     {
       "id": "b4340c74-3e9a-430e-b907-70bdd2c95346",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Harmonix",
+    "publisher": "RedOctane",
+    "releaseDate": "2005-11-08",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Guitar Hero (video game)",
+        "url": "https://en.wikipedia.org/wiki/Guitar_Hero_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Guitarhero-cover.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/Guitarhero-cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Guitar Hero — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "713ad97bf88866b8ae7bd44d547baa176b511c2b8e5bfb75dd65c919920bf667"
 }

@@ -3,7 +3,7 @@
   "slug": "street-fighter",
   "title": "Street Fighter",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/81e98792-136c-47b7-8e08-4d8867db71f5.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Capcom; Takashi Nishiyama and Hiroshi Matsumoto"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Capcom"
+      ]
+    ],
+    "First Release": [
+      [
+        "1987"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/81e98792-136c-47b7-8e08-4d8867db71f5.webp",
   "blocks": [
+    {
+      "id": "game-description-81e98792-136c-47b7-8e08-4d8867db71f5-0",
+      "type": "paragraph",
+      "html": "The first Street Fighter presents a succession of one-on-one fights, with Ryu as its central playable fighter and Ken available to a second player. Movement, attack timing, and command-based special moves provide the basis of its combat, including techniques that would become signatures of the series."
+    },
+    {
+      "id": "game-description-81e98792-136c-47b7-8e08-4d8867db71f5-1",
+      "type": "paragraph",
+      "html": "Capcom’s 1987 arcade game introduced the name and several core ideas, but Street Fighter II later greatly expanded the selectable cast and competitive format. This entry distinguishes the original release from that better-known sequel."
+    },
     {
       "id": "0376f7d4-f372-4fce-89ac-5baee416a898",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Capcom; Takashi Nishiyama and Hiroshi Matsumoto",
+    "publisher": "Capcom",
+    "releaseDate": "1987",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Street Fighter (video game)",
+        "url": "https://en.wikipedia.org/wiki/Street_Fighter_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Street_Fighter_game_flyer.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Street_Fighter_game_flyer.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Street Fighter — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "b4b2fb961b5f07283f4619cc1d9093930a566abcdd0cfc600ea5586783152639"
 }

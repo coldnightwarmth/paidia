@@ -3,7 +3,7 @@
   "slug": "doom",
   "title": "Doom",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/285d4905-306e-4c9c-ba78-256df7ea3781.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "id Software"
+      ]
+    ],
+    "Publisher": [
+      [
+        "id Software"
+      ]
+    ],
+    "First Release": [
+      [
+        "1993-12-10"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/285d4905-306e-4c9c-ba78-256df7ea3781.webp",
   "blocks": [
+    {
+      "id": "game-description-285d4905-306e-4c9c-ba78-256df7ea3781-0",
+      "type": "paragraph",
+      "html": "Doom sends a space marine through demon-infested bases and otherworldly spaces. Fast movement, weapon choice, and reading enemy attacks matter as much as aiming; levels also ask players to locate keys, switches, exits, and hidden areas. Its mixture of technological and infernal imagery makes the environment part of the game’s escalating rhythm."
+    },
+    {
+      "id": "game-description-285d4905-306e-4c9c-ba78-256df7ea3781-1",
+      "type": "paragraph",
+      "html": "The 1993 PC game circulated through a shareware model and supported networked cooperative play and deathmatch. Its editable WAD data files helped sustain a large community of custom maps and modifications. This entry covers that original game."
+    },
     {
       "id": "1fdb5467-9adc-41ee-b7d7-8f04ec1ee2c5",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "id Software",
+    "publisher": "id Software",
+    "releaseDate": "1993-12-10",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Doom (1993 video game)",
+        "url": "https://en.wikipedia.org/wiki/Doom_%281993_video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Doom_cover_art.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Doom — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "fd7d6a6718a57d0a9a15f0e2f5794f72b916048e1229b1e618bdb24129e71f35"
 }

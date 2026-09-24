@@ -3,7 +3,7 @@
   "slug": "simon",
   "title": "Simon",
   "icon": "./assets/images/die5-gray-6776fbd2bf77.webp",
-  "cover": "",
+  "cover": "./assets/games/07dd70cd-be4d-4efb-bb52-3e23e1f757d4.webp",
   "type": "page",
   "parentId": "05f8dc7a-3411-4896-ba6a-b02e65928607",
   "parentTable": "block",
@@ -34,10 +34,36 @@
       [
         "Other Games & Toys"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Ralph H. Baer and Howard J. Morrison; Lenny Cope (programming)"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Milton Bradley (original manufacturer)"
+      ]
+    ],
+    "First Release": [
+      [
+        "1978"
+      ]
     ]
   },
-  "previewImage": "",
-  "blocks": [],
+  "previewImage": "./assets/games/07dd70cd-be4d-4efb-bb52-3e23e1f757d4.webp",
+  "blocks": [
+    {
+      "id": "game-description-07dd70cd-be4d-4efb-bb52-3e23e1f757d4-0",
+      "type": "paragraph",
+      "html": "Simon is an electronic memory game with four illuminated colored buttons, each associated with a tone. The device plays a sequence and the player repeats it; successful repetitions extend the pattern. Difficulty comes from remembering and reproducing an increasingly long order rather than discovering a new rule."
+    },
+    {
+      "id": "game-description-07dd70cd-be4d-4efb-bb52-3e23e1f757d4-1",
+      "type": "paragraph",
+      "html": "Designed by Ralph Baer and Howard Morrison, with programming by Lenny Cope, Simon was launched by Milton Bradley in 1978. Its combination of sound, light, and touch makes memory into a visible and audible performance that can be played alone or shared with others."
+    }
+  ],
   "catalog": {
     "databaseId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
     "database": "games",
@@ -48,5 +74,29 @@
       "Other Games & Toys"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Ralph H. Baer and Howard J. Morrison; Lenny Cope (programming)",
+    "publisher": "Milton Bradley (original manufacturer)",
+    "releaseDate": "1978",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Simon (game)",
+        "url": "https://en.wikipedia.org/wiki/Simon_%28game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Simon_Electronic_Game.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Simon_Electronic_Game.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Shritwod",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Electronic Simon game, circa 1978",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Simon — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "f49cb966c2c6db4438940828d0f6006a2f2b6f1db21b419719761a37af8dc0fb"
 }

@@ -3,7 +3,7 @@
   "slug": "super-meat-boy",
   "title": "Super Meat Boy",
   "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-  "cover": "",
+  "cover": "./assets/games/ce9c0f97-1edc-41db-bbc4-f3ba559e9518.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Team Meat; Edmund McMillen and Tommy Refenes"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Team Meat"
+      ]
+    ],
+    "First Release": [
+      [
+        "2010-10-20"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/ce9c0f97-1edc-41db-bbc4-f3ba559e9518.webp",
   "blocks": [
+    {
+      "id": "game-description-ce9c0f97-1edc-41db-bbc4-f3ba559e9518-0",
+      "type": "paragraph",
+      "html": "Super Meat Boy is a precision platformer built from short, dangerous levels. Players run, jump, and cling to walls while avoiding saws, spikes, and other hazards on the way to Bandage Girl. Rapid restarts make failure part of practice, encouraging repeated attempts until a sequence of movements becomes reliable."
+    },
+    {
+      "id": "game-description-ce9c0f97-1edc-41db-bbc4-f3ba559e9518-1",
+      "type": "paragraph",
+      "html": "Edmund McMillen and Tommy Refenes developed the game as Team Meat, following the earlier browser game Meat Boy. Its tight movement and brief stages make demanding execution feel like an ongoing process of learning rather than a long return to a distant checkpoint."
+    },
     {
       "id": "e253f85b-3fce-4688-b869-cc19a08d7af7",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Team Meat; Edmund McMillen and Tommy Refenes",
+    "publisher": "Team Meat",
+    "releaseDate": "2010-10-20",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Super Meat Boy",
+        "url": "https://en.wikipedia.org/wiki/Super_Meat_Boy"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:SuperMeatBoy_cover.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/a/aa/SuperMeatBoy_cover.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Super Meat Boy — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "76fb10d572095fa697b8aac8157dd9a4b4bdff301969735d2d5faff62bf9117f"
 }

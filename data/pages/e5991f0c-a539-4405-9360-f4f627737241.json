@@ -3,7 +3,7 @@
   "slug": "spec-ops-the-line",
   "title": "Spec Ops: The Line",
   "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-  "cover": "",
+  "cover": "./assets/games/e5991f0c-a539-4405-9360-f4f627737241.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Yager Development"
+      ]
+    ],
+    "Publisher": [
+      [
+        "2K Games"
+      ]
+    ],
+    "First Release": [
+      [
+        "2012-06-26"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/e5991f0c-a539-4405-9360-f4f627737241.webp",
   "blocks": [
+    {
+      "id": "game-description-e5991f0c-a539-4405-9360-f4f627737241-0",
+      "type": "paragraph",
+      "html": "Spec Ops: The Line follows Captain Martin Walker and a small military team into a Dubai devastated by sandstorms. Its third-person combat uses cover, squad commands, and environmental hazards, but the campaign increasingly places pressure on the player’s expectations of a heroic military rescue."
+    },
+    {
+      "id": "game-description-e5991f0c-a539-4405-9360-f4f627737241-1",
+      "type": "paragraph",
+      "html": "The story draws on the journey into moral disintegration associated with Heart of Darkness and Apocalypse Now. Rather than simply celebrating effective combat, it asks how obedience, interpretation, and the desire to keep progressing can become entangled with destructive actions."
+    },
     {
       "id": "09ad848b-8dcb-4f74-a35b-b1a08a2278f9",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Yager Development",
+    "publisher": "2K Games",
+    "releaseDate": "2012-06-26",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Spec Ops: The Line",
+        "url": "https://en.wikipedia.org/wiki/Spec_Ops%3A_The_Line"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Spec_Ops_The_Line_cover.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/Spec_Ops_The_Line_cover.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Spec Ops: The Line — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "46c12b5a933ed97794e6fd4590e2a9cf885d137dca5811cf62d32bbee9fdec0b"
 }

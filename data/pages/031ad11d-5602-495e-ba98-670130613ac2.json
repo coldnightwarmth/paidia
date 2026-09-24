@@ -3,7 +3,7 @@
   "slug": "okami",
   "title": "Okami",
   "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-  "cover": "",
+  "cover": "./assets/games/031ad11d-5602-495e-ba98-670130613ac2.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Clover Studio; Hideki Kamiya (director)"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Capcom"
+      ]
+    ],
+    "First Release": [
+      [
+        "2006-04-20"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/031ad11d-5602-495e-ba98-670130613ac2.webp",
   "blocks": [
+    {
+      "id": "game-description-031ad11d-5602-495e-ba98-670130613ac2-0",
+      "type": "paragraph",
+      "html": "Ōkami follows the sun goddess Amaterasu in the form of a white wolf through a world drawn from Japanese mythology and folklore. Exploration, combat, and helping inhabitants restore damaged places are linked by the Celestial Brush, which lets players draw gestures onto the scene to affect it."
+    },
+    {
+      "id": "game-description-031ad11d-5602-495e-ba98-670130613ac2-1",
+      "type": "paragraph",
+      "html": "Its ink-painting-inspired appearance is more than a surface style: drawing becomes one of the central ways to act. Developed by Clover Studio and first released for PlayStation 2 in Japan in 2006, the game combines a large adventure with a playful relationship between images and the world they represent."
+    },
     {
       "id": "f5632b30-a506-40f3-832e-3c67c4baf160",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Clover Studio; Hideki Kamiya (director)",
+    "publisher": "Capcom",
+    "releaseDate": "2006-04-20",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Ōkami",
+        "url": "https://en.wikipedia.org/wiki/%C5%8Ckami"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:OkamiNTSCcoverFinal.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/OkamiNTSCcoverFinal.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Okami — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "7909deb123466dd7f16ced276c147f7b2d9de513d888ffbe3a49dc0dd3fe6ac6"
 }

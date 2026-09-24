@@ -3,7 +3,7 @@
   "slug": "fortnite",
   "title": "Fortnite",
   "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-  "cover": "",
+  "cover": "./assets/games/d4635683-4b5a-4d8e-850f-93109857e890.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Epic Games"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Epic Games"
+      ]
+    ],
+    "First Release": [
+      [
+        "2017-07-25 (Save the World early access); 2017-09-26 (Battle Royale)"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/d4635683-4b5a-4d8e-850f-93109857e890.webp",
   "blocks": [
+    {
+      "id": "game-description-d4635683-4b5a-4d8e-850f-93109857e890-0",
+      "type": "paragraph",
+      "html": "Fortnite brings several forms of online play into a shared visual and technical world. Save the World combines cooperative combat with building defenses, while Battle Royale places players in a shrinking arena where survival, equipment, positioning, and, in its building modes, construction shape each encounter."
+    },
+    {
+      "id": "game-description-d4635683-4b5a-4d8e-850f-93109857e890-1",
+      "type": "paragraph",
+      "html": "Its later creative tools expanded Fortnite into a platform for player-made spaces and experiences. The release dates here distinguish the original 2017 cooperative early-access launch from the separate arrival of Battle Royale, rather than assigning every part of Fortnite a single launch date."
+    },
     {
       "id": "59bcda47-c947-4213-b939-d6cb59d32eb0",
       "type": "divider"
@@ -93,5 +118,33 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Epic Games",
+    "publisher": "Epic Games",
+    "releaseDate": "2017-07-25 (Save the World early access); 2017-09-26 (Battle Royale)",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Epic Games: Battle Royale launch",
+        "url": "https://www.fortnite.com/news/fortnite-battle-royale-goes-free"
+      },
+      {
+        "title": "Wikipedia: Fortnite",
+        "url": "https://en.wikipedia.org/wiki/Fortnite"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://www.fortnite.com",
+      "originalUrl": "https://cdn2.unrealengine.com/links-admin-FNECO_42-10_Tailgate_Keyart_DiscoverTile_480x270-4bceb7c5.jpg",
+      "author": "Epic Games",
+      "license": "Copyrighted promotional image",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Fortnite — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "29072d82be6b594596a5639221dca759ea594488cef67dff26cf3211be1f9b5e"
 }

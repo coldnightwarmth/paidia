@@ -3,7 +3,7 @@
   "slug": "half-life",
   "title": "Half-Life",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/6b859622-718c-4056-afc7-13492d0da282.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Valve"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Sierra Studios (original release)"
+      ]
+    ],
+    "First Release": [
+      [
+        "1998-11-19"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/6b859622-718c-4056-afc7-13492d0da282.webp",
   "blocks": [
+    {
+      "id": "game-description-6b859622-718c-4056-afc7-13492d0da282-0",
+      "type": "paragraph",
+      "html": "Half-Life follows physicist Gordon Freeman after an experiment at Black Mesa opens the facility to hostile creatures. The player moves through laboratories, service spaces, and outdoor areas, using weapons alongside environmental puzzles and exploration. Encounters with survivors and military forces gradually reveal the scale of the disaster."
+    },
+    {
+      "id": "game-description-6b859622-718c-4056-afc7-13492d0da282-1",
+      "type": "paragraph",
+      "html": "Valve presents much of the story through events that occur around the player rather than repeatedly cutting away to separate cinematics. That continuity links combat, navigation, and narrative into a journey through one unfolding crisis. This entry concerns the original 1998 release."
+    },
     {
       "id": "03b3bda4-a109-43db-9c85-4d11c3a0572c",
       "type": "divider"
@@ -93,5 +118,33 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Valve",
+    "publisher": "Sierra Studios (original release)",
+    "releaseDate": "1998-11-19",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Valve: Half-Life 25th anniversary",
+        "url": "https://www.half-life.com/en/halflife/25th"
+      },
+      {
+        "title": "Wikipedia: Half-Life (video game)",
+        "url": "https://en.wikipedia.org/wiki/Half-Life_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Half-Life_Cover_Art.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Half-Life — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "4306fd304c14504cb39eff1516f0e636d3249cf99bd4e05ff65395656eb83219"
 }

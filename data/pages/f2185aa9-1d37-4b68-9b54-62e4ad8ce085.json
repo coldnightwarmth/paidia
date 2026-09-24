@@ -3,7 +3,7 @@
   "slug": "pong",
   "title": "Pong",
   "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-  "cover": "",
+  "cover": "./assets/games/f2185aa9-1d37-4b68-9b54-62e4ad8ce085.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Allan Alcorn; Atari"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Atari"
+      ]
+    ],
+    "First Release": [
+      [
+        "1972-11-29"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/f2185aa9-1d37-4b68-9b54-62e4ad8ce085.webp",
   "blocks": [
+    {
+      "id": "game-description-f2185aa9-1d37-4b68-9b54-62e4ad8ce085-0",
+      "type": "paragraph",
+      "html": "Pong reduces a table-tennis-like contest to two vertical paddles and a moving square ball. Players turn a control to intercept the ball and send it back, scoring when the opponent misses. The spare presentation makes the relationship between hand movement, screen position, and the next bounce immediately visible."
+    },
+    {
+      "id": "game-description-f2185aa9-1d37-4b68-9b54-62e4ad8ce085-1",
+      "type": "paragraph",
+      "html": "Allan Alcorn built the game at Atari, initially as a training assignment. Its successful arcade release in 1972 helped establish a commercial market for videogames. Pong was not the first videogame, and its design followed an electronic table-tennis game on the Magnavox Odyssey."
+    },
     {
       "id": "c59f9f20-3507-4342-9945-2dc8c684052b",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Allan Alcorn; Atari",
+    "publisher": "Atari",
+    "releaseDate": "1972-11-29",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Pong",
+        "url": "https://en.wikipedia.org/wiki/Pong"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Signed_Pong_Cabinet.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Signed_Pong_Cabinet.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Chris Rand",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Pong cabinet signed by Pong creator Allan Alcorn in the 'Golden Age of Video Games' exhibit at Neville Public Museum in Green Bay, Wisconsin.",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Pong — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "444cc372ed5c8730104b584c6b4f8dc72a7d790fc45cf08c8dad762cef4f5572"
 }

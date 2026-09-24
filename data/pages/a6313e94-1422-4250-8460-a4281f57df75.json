@@ -3,7 +3,7 @@
   "slug": "candy-crush",
   "title": "Candy Crush",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/a6313e94-1422-4250-8460-a4281f57df75.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "King"
+      ]
+    ],
+    "Publisher": [
+      [
+        "King"
+      ]
+    ],
+    "First Release": [
+      [
+        "2012-04-12"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/a6313e94-1422-4250-8460-a4281f57df75.webp",
   "blocks": [
+    {
+      "id": "game-description-a6313e94-1422-4250-8460-a4281f57df75-0",
+      "type": "paragraph",
+      "html": "Candy Crush Saga is a match-three puzzle game built around swapping adjacent sweets to form matching lines. Larger matches produce special pieces that can clear rows, columns, or areas, and combinations of those pieces create chain reactions. Each level sets an objective within a limited number of moves, turning a simple action into a problem of planning and resource use."
+    },
+    {
+      "id": "game-description-a6313e94-1422-4250-8460-a4281f57df75-1",
+      "type": "paragraph",
+      "html": "This entry focuses on Candy Crush Saga, the 2012 Facebook game that followed King’s earlier Candy Crush browser title. Mobile editions brought its short levels and progression map to touchscreen devices, with optional purchases supporting its free-to-play model."
+    },
     {
       "id": "a14e775e-1060-4ac3-82a4-266aad37032e",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "King",
+    "publisher": "King",
+    "releaseDate": "2012-04-12",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Candy Crush Saga",
+        "url": "https://en.wikipedia.org/wiki/Candy_Crush_Saga"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Candy_Crush_logo.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Candy_Crush_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Candy Crush — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "d9fa2619c894eac134d0926c3a654faa355a16380240397ac5bcadc1c68ba3b0"
 }

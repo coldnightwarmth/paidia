@@ -3,7 +3,7 @@
   "slug": "super-mario",
   "title": "Super Mario",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/6e17c123-5b13-4e59-ae60-910445ec7d0a.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Nintendo; Shigeru Miyamoto and Takashi Tezuka"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Nintendo"
+      ]
+    ],
+    "First Release": [
+      [
+        "1985-09-13 (Super Mario Bros., Japan)"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/6e17c123-5b13-4e59-ae60-910445ec7d0a.webp",
   "blocks": [
+    {
+      "id": "game-description-6e17c123-5b13-4e59-ae60-910445ec7d0a-0",
+      "type": "paragraph",
+      "html": "Super Mario is a platform-game series centered on movement through spaces filled with enemies, gaps, secrets, and power-ups. Its first installment, Super Mario Bros., sends Mario and Luigi through the Mushroom Kingdom, using jumping and momentum to turn a small set of controls into many kinds of challenge."
+    },
+    {
+      "id": "game-description-6e17c123-5b13-4e59-ae60-910445ec7d0a-1",
+      "type": "paragraph",
+      "html": "Released for the Famicom in Japan in 1985, Super Mario Bros. establishes ideas that later games vary in both two and three dimensions. The date here marks the start of the Super Mario series, not Mario’s earlier debut in Donkey Kong."
+    },
     {
       "id": "46a734ef-e201-4436-95de-336f766b8041",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Nintendo; Shigeru Miyamoto and Takashi Tezuka",
+    "publisher": "Nintendo",
+    "releaseDate": "1985-09-13 (Super Mario Bros., Japan)",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Super Mario Bros.",
+        "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros."
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Super_Mario_Bros._box.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Super Mario — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "ce064b6b8bdc56b815dd542fa47b06f1969dd2dcfbe1d2d250a66a6e3c6b6c5c"
 }

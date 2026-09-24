@@ -3,7 +3,7 @@
   "slug": "rock-paper-scissors",
   "title": "Rock/Paper/Scissors",
   "icon": "./assets/images/child-gray-07900fa6783e.webp",
-  "cover": "",
+  "cover": "./assets/games/4e8329a9-60ff-4603-bc70-2fc9c5d19b70.webp",
   "type": "page",
   "parentId": "05f8dc7a-3411-4896-ba6a-b02e65928607",
   "parentTable": "block",
@@ -39,10 +39,31 @@
       [
         "Other Games & Toys"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Traditional; no single known inventor"
+      ]
+    ],
+    "Origin": [
+      [
+        "Earlier Chinese hand games; modern form developed in Japan"
+      ]
     ]
   },
-  "previewImage": "",
-  "blocks": [],
+  "previewImage": "./assets/games/4e8329a9-60ff-4603-bc70-2fc9c5d19b70.webp",
+  "blocks": [
+    {
+      "id": "game-description-4e8329a9-60ff-4603-bc70-2fc9c5d19b70-0",
+      "type": "paragraph",
+      "html": "Rock/Paper/Scissors is a simultaneous-choice hand game with a circular relationship between its three options: rock beats scissors, scissors beats paper, and paper beats rock. Matching choices produce a tie. No option is always strongest, so repeated rounds can involve reading habits, creating expectations, and resisting predictable patterns."
+    },
+    {
+      "id": "game-description-4e8329a9-60ff-4603-bc70-2fc9c5d19b70-1",
+      "type": "paragraph",
+      "html": "It is also used to settle everyday choices without equipment. The familiar three-sign form developed through Japanese hand-game traditions with earlier Chinese precedents, and spread internationally; it has no single commercial publisher or release date."
+    }
+  ],
   "catalog": {
     "databaseId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
     "database": "games",
@@ -53,5 +74,29 @@
       "Other Games & Toys"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Traditional; no single known inventor",
+    "publisher": "",
+    "releaseDate": "",
+    "origin": "Earlier Chinese hand games; modern form developed in Japan",
+    "sources": [
+      {
+        "title": "Wikipedia: Rock paper scissors",
+        "url": "https://en.wikipedia.org/wiki/Rock_paper_scissors"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Rock-paper-scissors.svg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Original:  EnzoklopEdit:  OmegaFallon\nTranslations: \n\nAsturian: YoaRCentral Kurdish: AramCzech: PodzemnikGerman: Enzoklop  and AntonsusiSpanish: OrgullomooreFrench: JBHungarian: BencokeItalian: Number55Japanese: NesnadLatvian: TuraidsNorwegian: Enzoklop  and AntonsusiPolish: MesserWoland  and MareklugPortuguese: Nottimeeew00Romanian: MonicaAbrudanRussian: Orange-kunSwedish: Enzoklop  and AntonsusiUkrainian: Володимир ФSimplified Chinese: Taiwania JustoTraditional Chinese: Taiwania Justo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "A chart showing how the three game elements of \"Rock-paper-scissors\" interact.",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Rock/Paper/Scissors — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "d4ff631635f6431363004e8d7265e6f4512952f0500ebc8b5872efaf78701e9c"
 }

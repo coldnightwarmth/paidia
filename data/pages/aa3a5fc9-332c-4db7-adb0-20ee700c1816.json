@@ -3,7 +3,7 @@
   "slug": "train",
   "title": "Train",
   "icon": "./assets/images/cards-gray-675db9d78eac.webp",
-  "cover": "",
+  "cover": "./assets/games/aa3a5fc9-332c-4db7-adb0-20ee700c1816.webp",
   "type": "page",
   "parentId": "70aaf802-4e58-4f10-b89b-e11ce8160ac2",
   "parentTable": "block",
@@ -34,10 +34,35 @@
       [
         "Tabletop"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Brenda Romero"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Artist-made work; no commercial publisher"
+      ]
+    ],
+    "First Release": [
+      [
+        "2009-04-29"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/aa3a5fc9-332c-4db7-adb0-20ee700c1816.webp",
   "blocks": [
+    {
+      "id": "game-description-aa3a5fc9-332c-4db7-adb0-20ee700c1816-0",
+      "type": "paragraph",
+      "html": "Train is a handmade board game by Brenda Romero in which players initially compete to transport passengers efficiently. Its central revelation—that these journeys lead to Nazi concentration camps—changes the meaning of the actions the players have been taking. The work concerns the Holocaust and the relationship between procedures, obedience, and complicity."
+    },
+    {
+      "id": "game-description-aa3a5fc9-332c-4db7-adb0-20ee700c1816-1",
+      "type": "paragraph",
+      "html": "Part of Romero’s The Mechanic Is the Message series, Train uses participation to make players confront a system from within. It is an artist-made work rather than a mass-market railway game, and its purpose cannot be separated from the historical violence it asks players to recognize."
+    },
     {
       "id": "0e8fd2f3-f11d-4846-99fd-460e3da56344",
       "type": "divider"
@@ -92,5 +117,33 @@
       "Tabletop"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Brenda Romero",
+    "publisher": "Artist-made work; no commercial publisher",
+    "releaseDate": "2009-04-29",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Brenda Romero: Train",
+        "url": "https://brenda.games/train"
+      },
+      {
+        "title": "Wikipedia: Train (board game)",
+        "url": "https://en.wikipedia.org/wiki/Train_%28board_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://brenda.games/train",
+      "originalUrl": "https://images.squarespace-cdn.com/content/v1/5643900de4b0b0751fe7584a/1447269963430-LT3L0D2S6WQZJI1XUAY5/train4-850x566.jpg",
+      "author": "Brenda Romero",
+      "license": "Copyrighted promotional image",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Train — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "e974b0a7581e8aa1e02f1226af4281eb8c25ae3b22b9d7acf15327b56f04f204"
 }

@@ -3,7 +3,10 @@
     "Name",
     "Category",
     "Creator(s)",
-    "Tags"
+    "Tags",
+    "Publisher",
+    "First Release",
+    "Origin"
   ],
   "lists": [
     "Videogames",
@@ -15,308 +18,461 @@
     [
       "Angry Birds",
       "Videogames",
-      "",
-      "Action"
+      "Rovio; Jaakko Iisalo (designer)",
+      "Action",
+      "Chillingo (original iOS release); Rovio",
+      "2009-12-11",
+      ""
     ],
     [
       "Assassin’s Creed",
       "Videogames",
-      "",
-      "Action"
+      "Ubisoft Montreal",
+      "Action",
+      "Ubisoft",
+      "2007-11-13",
+      ""
     ],
     [
       "Baseball",
       "Sports",
+      "No single inventor; developed from earlier bat-and-ball games",
       "",
-      ""
+      "",
+      "",
+      "Modern form: 19th-century United States"
     ],
     [
       "Basketball",
       "Sports",
+      "James Naismith",
       "",
-      ""
+      "",
+      "",
+      "December 1891, Springfield, Massachusetts"
     ],
     [
       "Bioshock",
       "Videogames",
-      "",
-      "Action"
+      "2K Boston and 2K Australia; Ken Levine (creative lead)",
+      "Action",
+      "2K Games",
+      "2007-08-21",
+      ""
     ],
     [
       "Call of Duty",
       "Videogames",
-      "",
-      "Action"
+      "Infinity Ward",
+      "Action",
+      "Activision",
+      "2003-10-29",
+      ""
     ],
     [
       "Candy Crush",
       "Videogames",
-      "",
-      "Action"
+      "King",
+      "Action",
+      "King",
+      "2012-04-12",
+      ""
     ],
     [
       "Chess",
       "Tabletop",
+      "No single known inventor",
       "",
-      ""
+      "",
+      "",
+      "Indian predecessors by the 7th century; modern rules developed in late-15th-century Europe"
     ],
     [
       "Chibi-Robo",
       "Videogames",
-      "",
-      "Action"
+      "Skip Ltd.",
+      "Action",
+      "Nintendo",
+      "2005-06-23",
+      ""
     ],
     [
       "Crysis",
       "Videogames",
-      "",
-      "Action"
+      "Crytek",
+      "Action",
+      "Electronic Arts",
+      "2007-11-13",
+      ""
     ],
     [
       "Dance",
       "Sports",
+      "Collective traditions across many cultures",
       "",
-      ""
+      "",
+      "",
+      "Ancient; no single origin or release date"
     ],
     [
       "Donkey Kong",
       "Videogames",
-      "",
-      "Action"
+      "Nintendo; Shigeru Miyamoto and Gunpei Yokoi",
+      "Action",
+      "Nintendo",
+      "1981",
+      ""
     ],
     [
       "Doom",
       "Videogames",
-      "",
-      "Action"
+      "id Software",
+      "Action",
+      "id Software",
+      "1993-12-10",
+      ""
     ],
     [
       "Dungeons & Dragons",
       "Tabletop",
+      "Gary Gygax and Dave Arneson",
       "",
+      "TSR (original); Wizards of the Coast (later editions)",
+      "1974",
       ""
     ],
     [
       "Exquisite Corpse",
       "Other Games & Toys",
+      "Surrealist artists and writers",
       "",
-      ""
+      "",
+      "",
+      "Paris, circa 1925"
     ],
     [
       "Fishing",
       "Sports",
+      "No single inventor",
       "",
-      ""
+      "",
+      "",
+      "Long-established practice; recreational traditions vary by region"
     ],
     [
       "Football",
       "Sports",
+      "Collective development; Walter Camp was a major rules contributor",
       "",
-      ""
+      "",
+      "",
+      "19th-century United States; major rules changes from 1880"
     ],
     [
       "Fortnite",
       "Videogames",
-      "",
-      "Action"
+      "Epic Games",
+      "Action",
+      "Epic Games",
+      "2017-07-25 (Save the World early access); 2017-09-26 (Battle Royale)",
+      ""
     ],
     [
       "Grand Theft Auto",
       "Videogames",
-      "",
-      "Action"
+      "DMA Design",
+      "Action",
+      "BMG Interactive",
+      "1997-11-28",
+      ""
     ],
     [
       "Guitar Hero",
       "Videogames",
-      "",
-      "Action"
+      "Harmonix",
+      "Action",
+      "RedOctane",
+      "2005-11-08",
+      ""
     ],
     [
       "Half-Life",
       "Videogames",
-      "",
-      "Action"
+      "Valve",
+      "Action",
+      "Sierra Studios (original release)",
+      "1998-11-19",
+      ""
     ],
     [
       "Halo",
       "Videogames",
-      "",
-      "Action"
+      "Bungie",
+      "Action",
+      "Microsoft Game Studios",
+      "2001-11-15",
+      ""
     ],
     [
       "Hunting",
       "Sports",
+      "No single inventor",
       "",
-      ""
+      "",
+      "",
+      "Prehistoric; sporting traditions developed across cultures"
     ],
     [
       "Ice Hockey",
       "Sports",
+      "Collective development in Canada and earlier stick-and-ball traditions",
       "",
-      ""
+      "",
+      "",
+      "Modern organized form: 19th-century Canada; Montreal indoor game, 1875"
     ],
     [
       "Lego",
       "Other Games & Toys",
+      "The LEGO Group; Ole Kirk Christiansen and Godtfred Kirk Christiansen",
       "",
+      "The LEGO Group (manufacturer)",
+      "1949 (plastic bricks); 1958 (modern coupling system)",
       ""
     ],
     [
       "LittleBigPlanet",
       "Videogames",
-      "",
-      "Action"
+      "Media Molecule",
+      "Action",
+      "Sony Computer Entertainment",
+      "2008-10-27",
+      ""
     ],
     [
       "Magic: The Gathering",
       "Tabletop",
+      "Richard Garfield",
       "",
+      "Wizards of the Coast",
+      "1993",
       ""
     ],
     [
       "Mixed Martial Arts",
       "Sports",
+      "No single inventor; developed from multiple fighting traditions",
       "",
-      ""
+      "",
+      "",
+      "Modern competitive forms developed during the 20th century"
     ],
     [
       "Monopoly",
       "Tabletop",
+      "Lizzie Magie (predecessor); Charles Darrow and earlier community variants",
       "",
+      "Parker Brothers (1935 edition); Hasbro (later editions)",
+      "1935 (Parker Brothers edition)",
       ""
     ],
     [
       "Okami",
       "Videogames",
-      "",
-      "Action"
+      "Clover Studio; Hideki Kamiya (director)",
+      "Action",
+      "Capcom",
+      "2006-04-20",
+      ""
     ],
     [
       "Overwatch",
       "Videogames",
-      "",
-      "Action"
+      "Blizzard Entertainment",
+      "Action",
+      "Blizzard Entertainment",
+      "2016-05-24",
+      ""
     ],
     [
       "Pac-Man",
       "Videogames",
-      "",
-      "Action"
+      "Namco; Toru Iwatani (designer)",
+      "Action",
+      "Namco; Midway (North America)",
+      "1980-05-22 (Japanese debut)",
+      ""
     ],
     [
       "Pong",
       "Videogames",
-      "",
-      "Action"
+      "Allan Alcorn; Atari",
+      "Action",
+      "Atari",
+      "1972-11-29",
+      ""
     ],
     [
       "Prince of Persia",
       "Videogames",
-      "",
-      "Action"
+      "Jordan Mechner",
+      "Action",
+      "Brøderbund",
+      "1989-10-03",
+      ""
     ],
     [
       "Quake",
       "Videogames",
-      "",
-      "Action"
+      "id Software",
+      "Action",
+      "GT Interactive (retail); id Software (shareware)",
+      "1996-06-22 (shareware)",
+      ""
     ],
     [
       "Quantum Break",
       "Videogames",
-      "",
-      "Action"
+      "Remedy Entertainment",
+      "Action",
+      "Microsoft Studios",
+      "2016-04-05",
+      ""
     ],
     [
       "Rock Band",
       "Videogames",
-      "",
-      "Action"
+      "Harmonix",
+      "Action",
+      "MTV Games; Electronic Arts (distribution)",
+      "2007-11-20",
+      ""
     ],
     [
       "Rock/Paper/Scissors",
       "Other Games & Toys",
+      "Traditional; no single known inventor",
       "",
-      ""
+      "",
+      "",
+      "Earlier Chinese hand games; modern form developed in Japan"
     ],
     [
       "Simon",
       "Other Games & Toys",
+      "Ralph H. Baer and Howard J. Morrison; Lenny Cope (programming)",
       "",
+      "Milton Bradley (original manufacturer)",
+      "1978",
       ""
     ],
     [
       "Soccer",
       "Sports",
+      "Collective development; The Football Association codified rules",
       "",
-      ""
+      "",
+      "",
+      "1863 (Football Association rules, England)"
     ],
     [
       "Space Invaders",
       "Videogames",
-      "",
-      "Action"
+      "Taito; Tomohiro Nishikado",
+      "Action",
+      "Taito; Midway (North America)",
+      "1978",
+      ""
     ],
     [
       "Spec Ops: The Line",
       "Videogames",
-      "",
-      "Action"
+      "Yager Development",
+      "Action",
+      "2K Games",
+      "2012-06-26",
+      ""
     ],
     [
       "Street Fighter",
       "Videogames",
-      "",
-      "Action"
+      "Capcom; Takashi Nishiyama and Hiroshi Matsumoto",
+      "Action",
+      "Capcom",
+      "1987",
+      ""
     ],
     [
       "Super Mario",
       "Videogames",
-      "",
-      "Action"
+      "Nintendo; Shigeru Miyamoto and Takashi Tezuka",
+      "Action",
+      "Nintendo",
+      "1985-09-13 (Super Mario Bros., Japan)",
+      ""
     ],
     [
       "Super Meat Boy",
       "Videogames",
-      "",
-      "Action"
+      "Team Meat; Edmund McMillen and Tommy Refenes",
+      "Action",
+      "Team Meat",
+      "2010-10-20",
+      ""
     ],
     [
       "Tetris",
       "Videogames",
-      "",
-      "Action"
+      "Alexey Pajitnov",
+      "Action",
+      "No original commercial publisher; later editions have multiple publishers",
+      "1984 (official dating; some historical sources give 1985)",
+      ""
     ],
     [
       "The Last of Us",
       "Videogames",
-      "",
-      "Action"
+      "Naughty Dog; Neil Druckmann and Bruce Straley (directors)",
+      "Action",
+      "Sony Computer Entertainment",
+      "2013-06-14",
+      ""
     ],
     [
       "The Legend of Zelda",
       "Videogames",
-      "",
-      "Action"
+      "Nintendo; Shigeru Miyamoto and Takashi Tezuka",
+      "Action",
+      "Nintendo",
+      "1986-02-21",
+      ""
     ],
     [
       "Track & Field",
       "Sports",
+      "Collective athletic traditions",
       "",
-      ""
+      "",
+      "",
+      "Ancient precedents; modern organized forms developed in the 19th century"
     ],
     [
       "Train",
       "Tabletop",
+      "Brenda Romero",
       "",
+      "Artist-made work; no commercial publisher",
+      "2009-04-29",
       ""
     ],
     [
       "Wii Sports",
       "Videogames",
-      "",
-      "Action"
+      "Nintendo EAD",
+      "Action",
+      "Nintendo",
+      "2006-11-19",
+      ""
     ]
   ],
   "rowMeta": [
@@ -325,357 +481,357 @@
       "pageId": "5ff1b406-a231-4d09-a7d3-b1bc13e91de7",
       "href": "#/angry-birds",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/5ff1b406-a231-4d09-a7d3-b1bc13e91de7.webp"
     },
     {
       "key": "5dcc9923-44f9-4272-9f1e-b9a8982bc161",
       "pageId": "5dcc9923-44f9-4272-9f1e-b9a8982bc161",
       "href": "#/assassin-s-creed",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/5dcc9923-44f9-4272-9f1e-b9a8982bc161.webp"
     },
     {
       "key": "170657c4-7a80-4198-a540-860c8c2456b9",
       "pageId": "170657c4-7a80-4198-a540-860c8c2456b9",
       "href": "#/baseball",
       "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-      "image": ""
+      "image": "./assets/games/170657c4-7a80-4198-a540-860c8c2456b9.webp"
     },
     {
       "key": "ae50f377-e500-4377-b418-272ed8a478a5",
       "pageId": "ae50f377-e500-4377-b418-272ed8a478a5",
       "href": "#/basketball",
       "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-      "image": ""
+      "image": "./assets/games/ae50f377-e500-4377-b418-272ed8a478a5.webp"
     },
     {
       "key": "d28ea96a-104c-41eb-afca-16361012d3c9",
       "pageId": "d28ea96a-104c-41eb-afca-16361012d3c9",
       "href": "#/bioshock",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/d28ea96a-104c-41eb-afca-16361012d3c9.webp"
     },
     {
       "key": "5192100e-1524-4aa4-9367-f79de5b596bc",
       "pageId": "5192100e-1524-4aa4-9367-f79de5b596bc",
       "href": "#/call-of-duty",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/5192100e-1524-4aa4-9367-f79de5b596bc.webp"
     },
     {
       "key": "a6313e94-1422-4250-8460-a4281f57df75",
       "pageId": "a6313e94-1422-4250-8460-a4281f57df75",
       "href": "#/candy-crush",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/a6313e94-1422-4250-8460-a4281f57df75.webp"
     },
     {
       "key": "03f6f943-3aaa-4f7f-b520-2287e4339fac",
       "pageId": "03f6f943-3aaa-4f7f-b520-2287e4339fac",
       "href": "#/chess-03f6f943",
       "icon": "./assets/images/cards-gray-675db9d78eac.webp",
-      "image": ""
+      "image": "./assets/games/03f6f943-3aaa-4f7f-b520-2287e4339fac.webp"
     },
     {
       "key": "5bb8c9a3-9c62-4b57-aaa2-b3f965401737",
       "pageId": "5bb8c9a3-9c62-4b57-aaa2-b3f965401737",
       "href": "#/chibi-robo",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/5bb8c9a3-9c62-4b57-aaa2-b3f965401737.webp"
     },
     {
       "key": "5f307c05-65b4-4af7-8ec4-73c1b5838cd5",
       "pageId": "5f307c05-65b4-4af7-8ec4-73c1b5838cd5",
       "href": "#/crysis",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/5f307c05-65b4-4af7-8ec4-73c1b5838cd5.webp"
     },
     {
       "key": "1ea2a3ec-faf6-4c5c-bdd2-8db02c6e6979",
       "pageId": "1ea2a3ec-faf6-4c5c-bdd2-8db02c6e6979",
       "href": "#/dance",
       "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-      "image": ""
+      "image": "./assets/games/1ea2a3ec-faf6-4c5c-bdd2-8db02c6e6979.webp"
     },
     {
       "key": "16b6dbd0-3834-4112-9e53-696adbbb7034",
       "pageId": "16b6dbd0-3834-4112-9e53-696adbbb7034",
       "href": "#/donkey-kong",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/16b6dbd0-3834-4112-9e53-696adbbb7034.webp"
     },
     {
       "key": "285d4905-306e-4c9c-ba78-256df7ea3781",
       "pageId": "285d4905-306e-4c9c-ba78-256df7ea3781",
       "href": "#/doom",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/285d4905-306e-4c9c-ba78-256df7ea3781.webp"
     },
     {
       "key": "312d6ee7-41d3-42ce-b8dc-1c86eb08e122",
       "pageId": "312d6ee7-41d3-42ce-b8dc-1c86eb08e122",
       "href": "#/dungeons-and-dragons",
       "icon": "./assets/images/cards-gray-675db9d78eac.webp",
-      "image": ""
+      "image": "./assets/games/312d6ee7-41d3-42ce-b8dc-1c86eb08e122.webp"
     },
     {
       "key": "79e18161-ce08-44f3-bc75-38464cf02996",
       "pageId": "79e18161-ce08-44f3-bc75-38464cf02996",
       "href": "#/exquisite-corpse",
       "icon": "./assets/images/pencil-gray-b10130054cde.webp",
-      "image": ""
+      "image": "./assets/games/79e18161-ce08-44f3-bc75-38464cf02996.webp"
     },
     {
       "key": "75a30a19-83a5-47ff-9a76-f831b3741fdb",
       "pageId": "75a30a19-83a5-47ff-9a76-f831b3741fdb",
       "href": "#/fishing",
       "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-      "image": ""
+      "image": "./assets/games/75a30a19-83a5-47ff-9a76-f831b3741fdb.webp"
     },
     {
       "key": "228f16dd-d582-48b9-a987-a0c996442fac",
       "pageId": "228f16dd-d582-48b9-a987-a0c996442fac",
       "href": "#/football-228f16dd",
       "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-      "image": ""
+      "image": "./assets/games/228f16dd-d582-48b9-a987-a0c996442fac.webp"
     },
     {
       "key": "d4635683-4b5a-4d8e-850f-93109857e890",
       "pageId": "d4635683-4b5a-4d8e-850f-93109857e890",
       "href": "#/fortnite",
       "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-      "image": ""
+      "image": "./assets/games/d4635683-4b5a-4d8e-850f-93109857e890.webp"
     },
     {
       "key": "972bafcb-79c2-461b-8542-a1d0b8dd73ba",
       "pageId": "972bafcb-79c2-461b-8542-a1d0b8dd73ba",
       "href": "#/grand-theft-auto",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/972bafcb-79c2-461b-8542-a1d0b8dd73ba.webp"
     },
     {
       "key": "46452ebe-1d67-4f22-b12c-b69a0cdae7b1",
       "pageId": "46452ebe-1d67-4f22-b12c-b69a0cdae7b1",
       "href": "#/guitar-hero",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/46452ebe-1d67-4f22-b12c-b69a0cdae7b1.webp"
     },
     {
       "key": "6b859622-718c-4056-afc7-13492d0da282",
       "pageId": "6b859622-718c-4056-afc7-13492d0da282",
       "href": "#/half-life",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/6b859622-718c-4056-afc7-13492d0da282.webp"
     },
     {
       "key": "fbacd42f-5ab6-4dd0-9884-c9edcf4e6d43",
       "pageId": "fbacd42f-5ab6-4dd0-9884-c9edcf4e6d43",
       "href": "#/halo",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/fbacd42f-5ab6-4dd0-9884-c9edcf4e6d43.webp"
     },
     {
       "key": "cbe0aa59-ccdb-45f8-b169-bbea72acce16",
       "pageId": "cbe0aa59-ccdb-45f8-b169-bbea72acce16",
       "href": "#/hunting",
       "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-      "image": ""
+      "image": "./assets/games/cbe0aa59-ccdb-45f8-b169-bbea72acce16.webp"
     },
     {
       "key": "7a89b432-a8ed-4def-940e-1ddde74e765c",
       "pageId": "7a89b432-a8ed-4def-940e-1ddde74e765c",
       "href": "#/ice-hockey",
       "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-      "image": ""
+      "image": "./assets/games/7a89b432-a8ed-4def-940e-1ddde74e765c.webp"
     },
     {
       "key": "d3d57ee9-2457-4981-a28e-a4d2c21389c6",
       "pageId": "d3d57ee9-2457-4981-a28e-a4d2c21389c6",
       "href": "#/lego",
       "icon": "./assets/images/die3-gray-d7c8c6b316a2.webp",
-      "image": ""
+      "image": "./assets/games/d3d57ee9-2457-4981-a28e-a4d2c21389c6.webp"
     },
     {
       "key": "9116ee19-4417-41ba-abb4-fc134e59847d",
       "pageId": "9116ee19-4417-41ba-abb4-fc134e59847d",
       "href": "#/littlebigplanet",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/9116ee19-4417-41ba-abb4-fc134e59847d.webp"
     },
     {
       "key": "50e9bf32-1234-4249-a7e0-131a030cb95f",
       "pageId": "50e9bf32-1234-4249-a7e0-131a030cb95f",
       "href": "#/magic-the-gathering",
       "icon": "./assets/images/cards-gray-675db9d78eac.webp",
-      "image": ""
+      "image": "./assets/games/50e9bf32-1234-4249-a7e0-131a030cb95f.webp"
     },
     {
       "key": "ccc1bdfd-5ffe-44d9-bf26-f989dc3b942f",
       "pageId": "ccc1bdfd-5ffe-44d9-bf26-f989dc3b942f",
       "href": "#/mixed-martial-arts",
       "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-      "image": ""
+      "image": "./assets/games/ccc1bdfd-5ffe-44d9-bf26-f989dc3b942f.webp"
     },
     {
       "key": "ab465676-abec-4ce8-92da-09c08a88badc",
       "pageId": "ab465676-abec-4ce8-92da-09c08a88badc",
       "href": "#/monopoly",
       "icon": "./assets/images/cards-gray-675db9d78eac.webp",
-      "image": ""
+      "image": "./assets/games/ab465676-abec-4ce8-92da-09c08a88badc.webp"
     },
     {
       "key": "031ad11d-5602-495e-ba98-670130613ac2",
       "pageId": "031ad11d-5602-495e-ba98-670130613ac2",
       "href": "#/okami",
       "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-      "image": ""
+      "image": "./assets/games/031ad11d-5602-495e-ba98-670130613ac2.webp"
     },
     {
       "key": "af513933-9d43-47f8-98a0-12df5c9290f5",
       "pageId": "af513933-9d43-47f8-98a0-12df5c9290f5",
       "href": "#/overwatch",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/af513933-9d43-47f8-98a0-12df5c9290f5.webp"
     },
     {
       "key": "8ea55ed5-f1ba-43f8-8b39-e6cf70dedc5b",
       "pageId": "8ea55ed5-f1ba-43f8-8b39-e6cf70dedc5b",
       "href": "#/pac-man",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/8ea55ed5-f1ba-43f8-8b39-e6cf70dedc5b.webp"
     },
     {
       "key": "f2185aa9-1d37-4b68-9b54-62e4ad8ce085",
       "pageId": "f2185aa9-1d37-4b68-9b54-62e4ad8ce085",
       "href": "#/pong",
       "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-      "image": ""
+      "image": "./assets/games/f2185aa9-1d37-4b68-9b54-62e4ad8ce085.webp"
     },
     {
       "key": "39112d38-b2c5-4166-89b3-dda46a89df59",
       "pageId": "39112d38-b2c5-4166-89b3-dda46a89df59",
       "href": "#/prince-of-persia",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/39112d38-b2c5-4166-89b3-dda46a89df59.webp"
     },
     {
       "key": "9a81ddaf-80c8-4da2-82cd-390a01b4d152",
       "pageId": "9a81ddaf-80c8-4da2-82cd-390a01b4d152",
       "href": "#/quake",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/9a81ddaf-80c8-4da2-82cd-390a01b4d152.webp"
     },
     {
       "key": "07e3bb60-894f-4436-b436-509b24791a8b",
       "pageId": "07e3bb60-894f-4436-b436-509b24791a8b",
       "href": "#/quantum-break",
       "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-      "image": ""
+      "image": "./assets/games/07e3bb60-894f-4436-b436-509b24791a8b.webp"
     },
     {
       "key": "57beacc8-b89b-4573-bbb1-1bf8236fb987",
       "pageId": "57beacc8-b89b-4573-bbb1-1bf8236fb987",
       "href": "#/rock-band",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/57beacc8-b89b-4573-bbb1-1bf8236fb987.webp"
     },
     {
       "key": "4e8329a9-60ff-4603-bc70-2fc9c5d19b70",
       "pageId": "4e8329a9-60ff-4603-bc70-2fc9c5d19b70",
       "href": "#/rock-paper-scissors",
       "icon": "./assets/images/child-gray-07900fa6783e.webp",
-      "image": ""
+      "image": "./assets/games/4e8329a9-60ff-4603-bc70-2fc9c5d19b70.webp"
     },
     {
       "key": "07dd70cd-be4d-4efb-bb52-3e23e1f757d4",
       "pageId": "07dd70cd-be4d-4efb-bb52-3e23e1f757d4",
       "href": "#/simon",
       "icon": "./assets/images/die5-gray-6776fbd2bf77.webp",
-      "image": ""
+      "image": "./assets/games/07dd70cd-be4d-4efb-bb52-3e23e1f757d4.webp"
     },
     {
       "key": "372dfce2-b8d2-4bf3-9df3-34f8437480b0",
       "pageId": "372dfce2-b8d2-4bf3-9df3-34f8437480b0",
       "href": "#/soccer",
       "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-      "image": ""
+      "image": "./assets/games/372dfce2-b8d2-4bf3-9df3-34f8437480b0.webp"
     },
     {
       "key": "3b1c2033-fed1-4a77-8bc5-2b16c3add06f",
       "pageId": "3b1c2033-fed1-4a77-8bc5-2b16c3add06f",
       "href": "#/space-invaders",
       "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-      "image": ""
+      "image": "./assets/games/3b1c2033-fed1-4a77-8bc5-2b16c3add06f.webp"
     },
     {
       "key": "e5991f0c-a539-4405-9360-f4f627737241",
       "pageId": "e5991f0c-a539-4405-9360-f4f627737241",
       "href": "#/spec-ops-the-line",
       "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-      "image": ""
+      "image": "./assets/games/e5991f0c-a539-4405-9360-f4f627737241.webp"
     },
     {
       "key": "81e98792-136c-47b7-8e08-4d8867db71f5",
       "pageId": "81e98792-136c-47b7-8e08-4d8867db71f5",
       "href": "#/street-fighter",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/81e98792-136c-47b7-8e08-4d8867db71f5.webp"
     },
     {
       "key": "6e17c123-5b13-4e59-ae60-910445ec7d0a",
       "pageId": "6e17c123-5b13-4e59-ae60-910445ec7d0a",
       "href": "#/super-mario",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/6e17c123-5b13-4e59-ae60-910445ec7d0a.webp"
     },
     {
       "key": "ce9c0f97-1edc-41db-bbc4-f3ba559e9518",
       "pageId": "ce9c0f97-1edc-41db-bbc4-f3ba559e9518",
       "href": "#/super-meat-boy",
       "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-      "image": ""
+      "image": "./assets/games/ce9c0f97-1edc-41db-bbc4-f3ba559e9518.webp"
     },
     {
       "key": "a13a4790-85a8-4399-bdd9-623bb5d55532",
       "pageId": "a13a4790-85a8-4399-bdd9-623bb5d55532",
       "href": "#/tetris",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/a13a4790-85a8-4399-bdd9-623bb5d55532.webp"
     },
     {
       "key": "8a1ba0fd-6b50-49cb-9aa1-8457a17945d7",
       "pageId": "8a1ba0fd-6b50-49cb-9aa1-8457a17945d7",
       "href": "#/the-last-of-us",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/8a1ba0fd-6b50-49cb-9aa1-8457a17945d7.webp"
     },
     {
       "key": "39ee7cbe-d7ce-422b-bfd7-a91c524b1188",
       "pageId": "39ee7cbe-d7ce-422b-bfd7-a91c524b1188",
       "href": "#/the-legend-of-zelda",
       "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-      "image": ""
+      "image": "./assets/games/39ee7cbe-d7ce-422b-bfd7-a91c524b1188.webp"
     },
     {
       "key": "bfcf3b65-18ad-4b89-b04a-3a9c1baede49",
       "pageId": "bfcf3b65-18ad-4b89-b04a-3a9c1baede49",
       "href": "#/track-and-field",
       "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-      "image": ""
+      "image": "./assets/games/bfcf3b65-18ad-4b89-b04a-3a9c1baede49.webp"
     },
     {
       "key": "aa3a5fc9-332c-4db7-adb0-20ee700c1816",
       "pageId": "aa3a5fc9-332c-4db7-adb0-20ee700c1816",
       "href": "#/train",
       "icon": "./assets/images/cards-gray-675db9d78eac.webp",
-      "image": ""
+      "image": "./assets/games/aa3a5fc9-332c-4db7-adb0-20ee700c1816.webp"
     },
     {
       "key": "babcd0ee-0b94-4794-8e66-42626fedbb7f",
       "pageId": "babcd0ee-0b94-4794-8e66-42626fedbb7f",
       "href": "#/wii-sports",
       "icon": "./assets/images/video-game-gray-12cb2baa8134.webp",
-      "image": ""
+      "image": "./assets/games/babcd0ee-0b94-4794-8e66-42626fedbb7f.webp"
     }
   ]
 }

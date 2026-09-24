@@ -3,7 +3,7 @@
   "slug": "donkey-kong",
   "title": "Donkey Kong",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/16b6dbd0-3834-4112-9e53-696adbbb7034.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Nintendo; Shigeru Miyamoto and Gunpei Yokoi"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Nintendo"
+      ]
+    ],
+    "First Release": [
+      [
+        "1981"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/16b6dbd0-3834-4112-9e53-696adbbb7034.webp",
   "blocks": [
+    {
+      "id": "game-description-16b6dbd0-3834-4112-9e53-696adbbb7034-0",
+      "type": "paragraph",
+      "html": "The original Donkey Kong is an arcade platform game about climbing through a construction site to rescue Pauline. The player controls the character later known as Mario, timing jumps and ladder movements around rolling barrels and other hazards. Its distinct stage layouts make each climb a different arrangement of routes, obstacles, and moving threats."
+    },
+    {
+      "id": "game-description-16b6dbd0-3834-4112-9e53-696adbbb7034-1",
+      "type": "paragraph",
+      "html": "Designed at Nintendo under Shigeru Miyamoto and Gunpei Yokoi, the game introduced characters that became central to Nintendo’s identity. This entry refers to the 1981 arcade title, rather than the later Donkey Kong Country games."
+    },
     {
       "id": "3fc6e93f-71b1-438b-abf4-3e1b6d95b249",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Nintendo; Shigeru Miyamoto and Gunpei Yokoi",
+    "publisher": "Nintendo",
+    "releaseDate": "1981",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Donkey Kong (1981 video game)",
+        "url": "https://en.wikipedia.org/wiki/Donkey_Kong_%281981_video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Donkey_Kong_flier.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/1/14/Donkey_Kong_flier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Donkey Kong — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "9f982c1af1bf99e420a71c8e1c0db70e1e91a1f9921f7585f8dda3afdc6b8f6b"
 }

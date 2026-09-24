@@ -1,3 +1,4 @@
+import { applyGameEnrichment } from './lib/game-enrichment.mjs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
@@ -6,6 +7,8 @@ const dataDir = path.resolve(process.env.SITE_DATA_DIR ?? 'data');
 const read = async name => JSON.parse(await fs.readFile(path.join(dataDir, name), 'utf8'));
 const write = async (name, value) => fs.writeFile(path.join(dataDir, name), `${JSON.stringify(value, null, 2)}\n`);
 const index = await read('site-index.json');
+let gameEnrichment = {entries:{}};
+try { gameEnrichment = await read('game-enrichment.json'); } catch (error) { if (error.code !== 'ENOENT') throw error; }
 const summaries = new Map(index.pages.map(page => [page.id, page]));
 const pages = new Map();
 const load = async id => {
@@ -88,6 +91,7 @@ for(const definition of definitions) {
   const rows=[...records.get(definition.key).values()].sort((a,b)=>a.page.title.localeCompare(b.page.title));
   for(const record of rows) {
     const {page,categories,tags}=record;
+    if (definition.key === 'games') applyGameEnrichment(page, gameEnrichment.entries[page.id]);
     page.catalog = {databaseId:definition.id,database:definition.key,categories,tags:[...new Set([...categories,...tags])]};
     page.properties.Category=[[categories.join(', ')]];
     page.properties.Tags=[[page.catalog.tags.join(', ')]];
@@ -96,8 +100,8 @@ for(const definition of definitions) {
     page.parentPageId=definition.id;
     await write(`pages/${page.id}.json`,page);
   }
-  const payload={columns:['Name','Category','Creator(s)','Tags'],lists:definition.categories,
-    rows:rows.map(({page,categories,tags})=>[page.title,categories.join(', '),tokens(page.properties?.ZLnP),tags.join(', ')]),
+  const payload={columns:definition.key === 'games' ? ['Name','Category','Creator(s)','Tags','Publisher','First Release','Origin'] : ['Name','Category','Creator(s)','Tags'],lists:definition.categories,
+    rows:rows.map(({page,categories,tags})=>[page.title,categories.join(', '),page.gameDetails?.creator || tokens(page.properties?.ZLnP),tags.join(', '),...(definition.key === 'games' ? [page.gameDetails?.publisher || '',page.gameDetails?.releaseDate || '',page.gameDetails?.origin || ''] : [])]),
     rowMeta:rows.map(({page})=>({key:page.id,pageId:page.id,href:`#/${page.slug}`,icon:page.icon||root.icon,image:page.previewImage||page.cover||''}))};
   await write(`${definition.key}-database.json`,payload); await write(`pages/${root.id}.json`,root);
   console.log(`${definition.title}: ${rows.length} items`);

@@ -3,7 +3,7 @@
   "slug": "track-and-field",
   "title": "Track & Field",
   "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-  "cover": "",
+  "cover": "./assets/games/bfcf3b65-18ad-4b89-b04a-3a9c1baede49.webp",
   "type": "page",
   "parentId": "28565453-030e-4ef0-902b-711c38f035e0",
   "parentTable": "block",
@@ -34,10 +34,30 @@
       [
         "Sports"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Collective athletic traditions"
+      ]
+    ],
+    "Origin": [
+      [
+        "Ancient precedents; modern organized forms developed in the 19th century"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/bfcf3b65-18ad-4b89-b04a-3a9c1baede49.webp",
   "blocks": [
+    {
+      "id": "game-description-bfcf3b65-18ad-4b89-b04a-3a9c1baede49-0",
+      "type": "paragraph",
+      "html": "Track and field groups contests of running, jumping, and throwing within a shared athletics setting. Races compare finishing times and order, while field events measure height or distance. Combined events test performance across several disciplines rather than one specialty."
+    },
+    {
+      "id": "game-description-bfcf3b65-18ad-4b89-b04a-3a9c1baede49-1",
+      "type": "paragraph",
+      "html": "Although running and throwing contests have ancient histories, modern track and field developed through standardized events, equipment, measurement, and organized competition. It is a family of sports rather than a single game, so there is no one creator, publisher, or release date."
+    },
     {
       "id": "2576058e-e5f5-4a94-892b-0d63f55541d8",
       "type": "divider"
@@ -92,5 +112,29 @@
       "Sports"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Collective athletic traditions",
+    "publisher": "",
+    "releaseDate": "",
+    "origin": "Ancient precedents; modern organized forms developed in the 19th century",
+    "sources": [
+      {
+        "title": "Wikipedia: Track and field",
+        "url": "https://en.wikipedia.org/wiki/Track_and_field"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Track_and_field_stadium.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Track_and_field_stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Eija",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Helsinki Stadium track and field",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Track & Field — representative photograph",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "0f15b72ccfb472c69c4bd4740b3e2e8851c2d40c83256042956928dd7372317f"
 }

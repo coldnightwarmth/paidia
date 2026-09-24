@@ -3,7 +3,7 @@
   "slug": "hunting",
   "title": "Hunting",
   "icon": "./assets/images/trophy-gray-457fa5a2ef3c.webp",
-  "cover": "",
+  "cover": "./assets/games/cbe0aa59-ccdb-45f8-b169-bbea72acce16.webp",
   "type": "page",
   "parentId": "28565453-030e-4ef0-902b-711c38f035e0",
   "parentTable": "block",
@@ -34,10 +34,30 @@
       [
         "Sports"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "No single inventor"
+      ]
+    ],
+    "Origin": [
+      [
+        "Prehistoric; sporting traditions developed across cultures"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/cbe0aa59-ccdb-45f8-b169-bbea72acce16.webp",
   "blocks": [
+    {
+      "id": "game-description-cbe0aa59-ccdb-45f8-b169-bbea72acce16-0",
+      "type": "paragraph",
+      "html": "Hunting involves locating and pursuing wild animals, and can serve subsistence, livelihood, cultural, or recreational purposes. Its sporting forms emphasize abilities such as tracking, observation, patience, and familiarity with a landscape. Equipment, quarry, customs, and the meaning attached to a successful hunt vary considerably."
+    },
+    {
+      "id": "game-description-cbe0aa59-ccdb-45f8-b169-bbea72acce16-1",
+      "type": "paragraph",
+      "html": "This is a broad practice rather than one designed game. Its place in a collection about play concerns the transformation of pursuit into recreation, ritual, or competition, without treating every form of hunting as sport. No single creator, publisher, or release date applies."
+    },
     {
       "id": "3da1178f-949c-4705-a902-ac5d1c1a9c3b",
       "type": "divider"
@@ -92,5 +112,29 @@
       "Sports"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "No single inventor",
+    "publisher": "",
+    "releaseDate": "",
+    "origin": "Prehistoric; sporting traditions developed across cultures",
+    "sources": [
+      {
+        "title": "Wikipedia: Hunting",
+        "url": "https://en.wikipedia.org/wiki/Hunting"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Paul_Childerley_driven_hunt_Finland_04.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Paul_Childerley_driven_hunt_Finland_04.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "FieldsportsChannel.tv",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "British professional hunter Paul Childerley on a driven deer hunt organized by the outfitter \"Kartanon Riista\" on the \"Kytäjän Kartano\" hunting estate, west of en:Hyvinkää, Finland, 2017",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Hunting — representative photograph",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "ca1c0fe1085091ca0260f874f29baa4de8ae2d87dbba60b2c493c573606a1255"
 }

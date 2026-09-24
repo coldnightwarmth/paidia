@@ -67,3 +67,21 @@ Content Modified, Tags Added/Edited, Title Edited, or Details Edited. Multiple
 changes can appear together. Added content means new blocks or previously empty
 fields; edits inside existing blocks count as Content Modified. Older revisions
 without detailed history use Page Updated rather than guessing a change type.
+
+## Researched game entries
+
+All 51 Games entries have an original two-paragraph introduction, locally stored
+WebP cover/thumbnail, source links, and image attribution. Creator/developer,
+publisher/manufacturer, first release, and historical origins are stored separately;
+traditional sports and games use origin notes instead of invented release dates.
+Franchise-like titles identify the original release discussed in their description.
+
+`data/game-enrichment.json` contains the researched additions and image provenance.
+`npm run build:catalogs` applies changed enrichment records, preserves existing page
+material, and writes the additional Games database columns. An unchanged enrichment
+record does not overwrite subsequent edits made directly to the page. Sources and
+image credits are available in expandable sections on each game page, including
+license links for Wikimedia images. Image files are in `assets/games/`.
+
+Run `node --test tests/*.test.mjs` to check all game descriptions, fact fields,
+image assets, links, catalog relationships, and preservation behavior.

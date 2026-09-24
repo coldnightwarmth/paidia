@@ -3,7 +3,7 @@
   "slug": "rock-band",
   "title": "Rock Band",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/57beacc8-b89b-4573-bbb1-1bf8236fb987.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Harmonix"
+      ]
+    ],
+    "Publisher": [
+      [
+        "MTV Games; Electronic Arts (distribution)"
+      ]
+    ],
+    "First Release": [
+      [
+        "2007-11-20"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/57beacc8-b89b-4573-bbb1-1bf8236fb987.webp",
   "blocks": [
+    {
+      "id": "game-description-57beacc8-b89b-4573-bbb1-1bf8236fb987-0",
+      "type": "paragraph",
+      "html": "Rock Band turns a song into a coordinated group performance. Players take guitar, bass, drum, or vocal parts, following visual cues and maintaining timing or pitch with instrument-shaped controllers and a microphone. Different difficulty levels allow people with unequal experience to participate in the same performance."
+    },
+    {
+      "id": "game-description-57beacc8-b89b-4573-bbb1-1bf8236fb987-1",
+      "type": "paragraph",
+      "html": "The first game was developed by Harmonix and released in 2007. Its emphasis on an ensemble shifted the social experience from a single guitar solo toward shared rhythm, recovery from mistakes, and the spectacle of playing together."
+    },
     {
       "id": "7789870f-0ce4-46bc-8db7-935e0050d409",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Harmonix",
+    "publisher": "MTV Games; Electronic Arts (distribution)",
+    "releaseDate": "2007-11-20",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: Rock Band (video game)",
+        "url": "https://en.wikipedia.org/wiki/Rock_Band_%28video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:Rock_band_cover.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rock_band_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Rock Band — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "eac442668bd78c45f82c84f0b374a137cb0c28e293b1043722785dc54a67d272"
 }

@@ -3,7 +3,7 @@
   "slug": "littlebigplanet",
   "title": "LittleBigPlanet",
   "icon": "./assets/images/video-game-green-6a60ffd51d8e.webp",
-  "cover": "",
+  "cover": "./assets/games/9116ee19-4417-41ba-abb4-fc134e59847d.webp",
   "type": "page",
   "parentId": "a26e119e-af46-4ce4-bc67-a108ebc9f1a5",
   "parentTable": "collection",
@@ -34,10 +34,35 @@
       [
         "Videogames, Action"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Media Molecule"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Sony Computer Entertainment"
+      ]
+    ],
+    "First Release": [
+      [
+        "2008-10-27"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/9116ee19-4417-41ba-abb4-fc134e59847d.webp",
   "blocks": [
+    {
+      "id": "game-description-9116ee19-4417-41ba-abb4-fc134e59847d-0",
+      "type": "paragraph",
+      "html": "LittleBigPlanet is a platform game with the appearance of a handmade world of fabric, cardboard, and found objects. Players guide Sackboy through levels whose moving parts and physical materials are also building blocks for making new spaces. Its editor lets players arrange scenery, hazards, mechanisms, and challenges using many of the same ideas encountered in the campaign."
+    },
+    {
+      "id": "game-description-9116ee19-4417-41ba-abb4-fc134e59847d-1",
+      "type": "paragraph",
+      "html": "The original PlayStation 3 game organized its identity around playing, creating, and sharing. Its historical significance includes that connection between authored levels and player construction; the original online sharing service is no longer available."
+    },
     {
       "id": "5e409d93-7380-417d-a3e6-9073919c5555",
       "type": "divider"
@@ -93,5 +118,29 @@
       "Action"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Media Molecule",
+    "publisher": "Sony Computer Entertainment",
+    "releaseDate": "2008-10-27",
+    "origin": "",
+    "sources": [
+      {
+        "title": "Wikipedia: LittleBigPlanet (2008 video game)",
+        "url": "https://en.wikipedia.org/wiki/LittleBigPlanet_%282008_video_game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://en.wikipedia.org/wiki/File:LittleBigPlanetOfficialUKBoxArt.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/c/c1/LittleBigPlanetOfficialUKBoxArt.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "See image source",
+      "license": "Fair use",
+      "licenseUrl": "",
+      "description": "",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "LittleBigPlanet — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "7ee635ad43f470f84ec5a72e7783c237a87620b329033a1ae975ee89d7ac5a01"
 }

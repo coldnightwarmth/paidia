@@ -3,7 +3,7 @@
   "slug": "monopoly",
   "title": "Monopoly",
   "icon": "./assets/images/cards-gray-675db9d78eac.webp",
-  "cover": "",
+  "cover": "./assets/games/ab465676-abec-4ce8-92da-09c08a88badc.webp",
   "type": "page",
   "parentId": "70aaf802-4e58-4f10-b89b-e11ce8160ac2",
   "parentTable": "block",
@@ -34,10 +34,35 @@
       [
         "Tabletop"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "Lizzie Magie (predecessor); Charles Darrow and earlier community variants"
+      ]
+    ],
+    "Publisher": [
+      [
+        "Parker Brothers (1935 edition); Hasbro (later editions)"
+      ]
+    ],
+    "First Release": [
+      [
+        "1935 (Parker Brothers edition)"
+      ]
     ]
   },
-  "previewImage": "",
+  "previewImage": "./assets/games/ab465676-abec-4ce8-92da-09c08a88badc.webp",
   "blocks": [
+    {
+      "id": "game-description-ab465676-abec-4ce8-92da-09c08a88badc-0",
+      "type": "paragraph",
+      "html": "Monopoly turns movement around a board into a contest over property, rent, and cash flow. Players buy and trade locations, complete color groups, and build houses or hotels that make future visits more expensive for opponents. Dice and event cards introduce uncertainty, while bargaining and decisions about reserves shape the longer contest."
+    },
+    {
+      "id": "game-description-ab465676-abec-4ce8-92da-09c08a88badc-1",
+      "type": "paragraph",
+      "html": "The familiar commercial game has a history extending back to Lizzie Magie’s The Landlord’s Game and many community-made variants. Charles Darrow’s version was published by Parker Brothers in 1935. That lineage matters: a game often associated with accumulating wealth developed from a predecessor intended to criticize the effects of land monopoly."
+    },
     {
       "id": "4ce5efd6-12ac-4608-b86a-8f5919548e79",
       "type": "divider"
@@ -92,5 +117,33 @@
       "Tabletop"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "Lizzie Magie (predecessor); Charles Darrow and earlier community variants",
+    "publisher": "Parker Brothers (1935 edition); Hasbro (later editions)",
+    "releaseDate": "1935 (Parker Brothers edition)",
+    "origin": "",
+    "sources": [
+      {
+        "title": "The Strong: Monopoly",
+        "url": "https://www.museumofplay.org/toys/monopoly/"
+      },
+      {
+        "title": "Wikipedia: Monopoly (game)",
+        "url": "https://en.wikipedia.org/wiki/Monopoly_%28game%29"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:Monopoly_board_on_white_bg.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Monopoly_board_on_white_bg.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "fir0002  flagstaffotos [at] gmail.com\n\t\tCanon 20D + Canon 70-200mm f/2.8 L",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "description": "Monopoly Board on a white background",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Monopoly — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "85c008adef3d7ad94f642e33e6d4f0219bd7bfa5f367aef65380a2b016a2dd99"
 }

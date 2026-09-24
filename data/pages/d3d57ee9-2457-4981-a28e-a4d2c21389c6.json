@@ -3,7 +3,7 @@
   "slug": "lego",
   "title": "Lego",
   "icon": "./assets/images/die3-gray-d7c8c6b316a2.webp",
-  "cover": "",
+  "cover": "./assets/games/d3d57ee9-2457-4981-a28e-a4d2c21389c6.webp",
   "type": "page",
   "parentId": "05f8dc7a-3411-4896-ba6a-b02e65928607",
   "parentTable": "block",
@@ -34,10 +34,36 @@
       [
         "Other Games & Toys"
       ]
+    ],
+    "Creator(s)": [
+      [
+        "The LEGO Group; Ole Kirk Christiansen and Godtfred Kirk Christiansen"
+      ]
+    ],
+    "Publisher": [
+      [
+        "The LEGO Group (manufacturer)"
+      ]
+    ],
+    "First Release": [
+      [
+        "1949 (plastic bricks); 1958 (modern coupling system)"
+      ]
     ]
   },
-  "previewImage": "",
-  "blocks": [],
+  "previewImage": "./assets/games/d3d57ee9-2457-4981-a28e-a4d2c21389c6.webp",
+  "blocks": [
+    {
+      "id": "game-description-d3d57ee9-2457-4981-a28e-a4d2c21389c6-0",
+      "type": "paragraph",
+      "html": "LEGO is a construction system built around reusable interlocking pieces. A set can be assembled from instructions, redesigned, or combined with other pieces to make something unrelated to the original model. This balance between a provided design and open-ended recombination supports building, storytelling, collecting, and collaborative play."
+    },
+    {
+      "id": "game-description-d3d57ee9-2457-4981-a28e-a4d2c21389c6-1",
+      "type": "paragraph",
+      "html": "The company began producing plastic building bricks in 1949, drawing on earlier interlocking-brick designs. The modern stud-and-tube coupling system followed in 1958. Those dates describe the toy system rather than the company’s founding or any one LEGO set."
+    }
+  ],
   "catalog": {
     "databaseId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
     "database": "games",
@@ -48,5 +74,33 @@
       "Other Games & Toys"
     ]
   },
-  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343"
+  "parentPageId": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
+  "gameDetails": {
+    "creator": "The LEGO Group; Ole Kirk Christiansen and Godtfred Kirk Christiansen",
+    "publisher": "The LEGO Group (manufacturer)",
+    "releaseDate": "1949 (plastic bricks); 1958 (modern coupling system)",
+    "origin": "",
+    "sources": [
+      {
+        "title": "LEGO: History",
+        "url": "https://www.lego.com/en-us/history"
+      },
+      {
+        "title": "Wikipedia: Lego",
+        "url": "https://en.wikipedia.org/wiki/Lego"
+      }
+    ],
+    "imageCredit": {
+      "url": "https://commons.wikimedia.org/wiki/File:LEGO_logo.svg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/LEGO_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "The Lego Group",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Lego logo",
+      "changes": "Resized and converted to WebP"
+    },
+    "imageAlt": "Lego — cover or representative image",
+    "researchedAt": "2026-09-23"
+  },
+  "gameEnrichmentRevision": "5abb4a7963925673f6565e45711a79ad52fa7bd1a72b357a9536b698ce4a63f2"
 }
