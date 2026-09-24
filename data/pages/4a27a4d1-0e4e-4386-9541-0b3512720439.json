@@ -49,6 +49,150 @@
       "html": "~"
     },
     {
+      "type": "paragraph",
+      "html": "No GAME BOY. (Image credit: Future) In the early 1980s, even as oil and gas companies hushed up research about the climate impact of fossil fuel consumption, Japanese electronics manufacturer Bandai released a handheld videogame console that runs on solar energy. Reminiscent of Nintendo's much later DS consoles, but with a strip of photovoltaic cells in place of the top screen, the LCD Solarpower range offered simple, built-in games like spook 'em up Terror House or prison caper Breakout, rendered with jaunty, \"painted-on\" 2D graphics.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0001"
+    },
+    {
+      "type": "paragraph",
+      "html": "While all but forgotten today, Bandai's machines have countless spiritual descendants in the world of homebrew development and hardware modding - from this decidedly impractical $1,400 (£1,200 / AU$2,200) \"Solar-powered mobile Wii for DIY freaks\" to RunTinyRun, an ATtiny10-based dinosaur platformer running on a thumb-sized OLED screen. Setting aside the nerd appeal of using the sun to play Pokémon Sun, the concept of a solar-powered handheld seems worth pursuing during a well-advanced climate crisis. But mass-produced, shop-sold cousins of the LCD Solarpower are few and far between: indeed, I'm not sure there has even been a machine quite like this from another videogame manufacturer.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0002"
+    },
+    {
+      "type": "paragraph",
+      "html": "Limits of the sun The reasons for that are a mix of market dynamics and basic physical limitations. As Josiah David Hester, associate professor in the College of Computing at Georgia Tech explains, the problem with solar-powered computing is that solar and battery technology haven't matched the \"exponential\" growth in processor capability over the past half-century. There is no equivalent in renewables or energy storage for the so-called \"Moore's law\" - Intel co-founder Gordon Moore's infamous 1965 prediction that the number of transistors in a chip would double every two years.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0003"
+    },
+    {
+      "type": "paragraph",
+      "html": "\"Once the incredible utility of a single transistor showed itself, it was just the amount of investment that went into shrinking and shrinking and shrinking them - because there was no physical minimum, 50 years ago, that was anywhere near achievable,\" Hester says. \"We knew we could scale these things down to nanometers, a long time ago. It was all about heat dissipation and the voltage level, and we had a long horizon to shrink these things, just by improving manufacturing processes.\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0004"
+    },
+    {
+      "type": "paragraph",
+      "html": "If you take the best solar panels indoors they'll break or shatter, they're so sensitive. Josiah David Hester This jump in computing capability came at a higher electricity cost, of course, and renewable energy generation hasn't kept pace. The increase in solar and battery performance has been \"linear\" rather than exponential, Hester says: with battery efficiency versus computing power especially, \"you can't even superimpose them on the same graph.\" With solar power, there's also an unfortunate correlation between not just \"efficiency and cost, but also brittleness - the best solar panels, if you shine an LED flashlight on them, they'll break. If you take them indoors, they'll break or shatter, because they're so sensitive.\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0005"
+    },
+    {
+      "type": "paragraph",
+      "html": "Games often require a lot of energy, relative to other kinds of software: the challenges of running them on solar were visible even at the time of the LCD Solarpower. \"[Bandai's designers] didn't have a very rich application programming interface or capability of their microcontroller, so a lot of the games have the same basic concepts that they kind of mash together,\" Hester goes on. \"They rely on only repainting small parts of the screen to save a bunch of energy.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0006"
+    },
+    {
+      "type": "paragraph",
+      "html": "\"Whereas with the Game Boy [which came out in 1989] you could make almost anything, and you have a bunch of supporting infrastructure. That's why there's a huge variety of games on that platform. But that jump in capability came at a price double-A batteries.\" Power in your hands (Image credit: Northwestern University) Nonetheless, hobbyists are still chasing the dream of a fully off-the-grid videogame console. Among the most ambitious efforts today is Hester's own project, the Engage, a mutant grandchild of the Game Boy developed by a team of researchers at Northwestern University, Illinois and TU Delft in the Netherlands. The Engage isn't a pure solar-powered machine: it combines miniature photovoltaic panels around the screen with kinetic energy-harvesting, generating power from button presses during play.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0007"
+    },
+    {
+      "type": "paragraph",
+      "html": "The Engage is a proof-of-concept response to the high per-capita emissions cost of gaming, and especially the environmental impact of batteries, as the creators outline in an accompanying paper. Its secret sauce as a gaming platform is its cunning memory architecture, which allows it to suspend your game state when power is intermittent. It supports all existing Game Boy games via software emulation, but with compromises. There isn't enough juice for audio, and the reliance on button presses and sunlight suits some genres more than others: a thumb-testing round of Tetris naturally carries much less risk of a power-out than a turn-based RPG.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0008"
+    },
+    {
+      "type": "paragraph",
+      "html": "A thumb-testing round of Tetris carries less risk of a power-out than a turnbased RPG Needless to say, the Engage won't run Crysis anytime soon: Hester reiterates that solar energy and battery storage capabilities have been \"lapped 100 times over\" by jumps in computing power. But he suggests that the gap is slowly shrinking. The performance gains for new panels have increased dramatically in the past ten years, buoyed by demand both from affluent northern states trying to hit their emissions targets, and emerging markets in countries near the equator, where solar yields are higher.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0009"
+    },
+    {
+      "type": "paragraph",
+      "html": "\"The cost of solar equipment is falling quite considerably and the panels are improving,\" says Keith Sonnet, chief executive of charity ComputerAid, which works to bring computer access to poorer parts of South Africa, Sierra Leone, Colombia, and Mexico City. \"Some panels don't require as much sunlight to perform efficiently. The equipment also has a long life with 25-year guarantees for the panels. The main issue is the life of the batteries which isn't so great, about five to eight years.\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0010"
+    },
+    {
+      "type": "paragraph",
+      "html": "abrido ore pinize (Image credit: Computeraid) ComputerAid has partnered with Dell to create \"Solar Learning Labs\", which consist of converted shipping crates with thin client PCs running Windows 10 over a wifi network, all powered by solar energy. \"The hubs and the digital resources they provide can be used for a wide variety of purposes [at different times] such as a farmer trainer centre, and sexual and reproductive health education for the local community,\" Sonnet says.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0011"
+    },
+    {
+      "type": "paragraph",
+      "html": "While he can't recall any examples of locals using the labs for gaming, they're more than welcome to. \"We don't put a bar on what the equipment is used for, providing it is legal. I am of the Amartya Sen school of thought that development should be about providing the capabilities to allow people to do things that they have reason to value and not to dictate what they should, or should not, do.\" Computer Aid's solarpowered hubs speak to the idea that local access to renewable power might have an enduring social impact (though any utopian thinking in this vein needs to acknowledge that, right now, many \"green\" devices come from the same abuseridden systems of exploitation as \"dirty\" technology). In Sonnet's words, the labs are as much graffiti-covered \"gathering places\" as a means of accessing Microsoft Office.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0012"
+    },
+    {
+      "type": "paragraph",
+      "html": "Casting a long shadow Next to initiatives like the above, solar-powered game consoles might seem, at best, an indulgence, at worst, an outright waste of expertise and resources. But as Hester notes, the insight required to get something as demanding as a videogame running on small-scale renewable power can be reapplied. \"We should be building things that give people joy. But this could also be useful for really long-lived wearable devices for health, devices that might be deployed in harsh environments, wildfire technology that can't have a battery because that's going to burn up.\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0013"
+    },
+    {
+      "type": "paragraph",
+      "html": "For the Engage, there are some obvious routes for improvement, such as rebuilding the device as a brand new console rather than mimicking Nintendo's handheld. \"if we had set out to design [our own gaming platform], it could have been much more energy-efficient, because we completely emulate the Game Boy to the point that we're basically faking the microcontroller, the CPU, the processor within our own processor, and that adds a bunch of overhead.\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0014"
+    },
+    {
+      "type": "paragraph",
+      "html": "Hester suggests that the Engage team could have produced a \"Switch-level experience\" if they had designed the whole system around a single, bespoke game with 3D graphics. \"Maybe we'll be able to do something like a solar Switch in five or ten years, but I'm not sure we'll ever catch up to what you can do if you're plugged into the wall.\" The question is, should the developers of solar-powered games really try to match today's blockbusters? Or should they make games that embrace solar energy's peculiar constraints, much as, say, Playdate developers have built novel concepts around the latter console's signature handcrank? Kara Stone, an indie designer and assistant professor at Alberta University of the Arts, is exploring this strange new horizon in the form of a 24/7 solar-powered streaming game server, running on her apartment balcony.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0015"
+    },
+    {
+      "type": "paragraph",
+      "html": "solarserver games @sOlarserv3r • Follow Solar Server is up and running! You can visit the website See more \"I think a lot of games about the climate crisis kind of push it all onto the player,\" she comments. \"You know, trying to activate the player into having greener behaviors, without necessarily addressing the high carbon cost of a lot of videogaming culture, like streaming and high file sizes and so forth. So I was working on this upcoming project and I... experimenting with ways of making things that try to divest from fossil fuels.\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0016"
+    },
+    {
+      "type": "paragraph",
+      "html": "Building on her track record for creative, low-resource artworks like UnearthU, Stone aims not just to publish her games using solar energy, but to think about the implications of this for their design. In particular, she's devising aesthetics that promote file size compression to lower the server's electricity needs. \"I'm not making a regular game with a high frame rate, super-realistic graphics or whatever, and just putting it on solar power and having it be really draining, but trying to design a game that is actually quite limited and small.\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0017"
+    },
+    {
+      "type": "paragraph",
+      "html": "The Track Uncle's House The Garden (Image credit: Kara Stone) The first of these games is Known Mysteries, a troubled near-future adventure in which a woman wrestles with life in the shadow of a fictional energy company (the inspirations are close to home: Stone describes Alberta as \"the oil capital of Canada\"). The game's graphics consist of carefully compressed and dithered stock video sourced from public documentaries, with player interactions such as choosing where to spend time and writing in your diary. It isn't worlds away from the recent NORCO, another wistful, woeful story from the heart of oil country.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0018"
+    },
+    {
+      "type": "paragraph",
+      "html": "Design experiments aside, Stone's solar-powered server project is also a gentle rebuttal of inherently energy-intensive streaming and cloud services that teach us to expect every release on tap. Rather than being a Game Pass-style ever-expanding archive, the server only hosts one game at a time. \"The idea is that things don't have to run 100% of the time, especially access to a game - it's really not crucial for anyone's life. So even if the server was down every night in my timezone - which it shouldn't be - I think that's fine.\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0019"
+    },
+    {
+      "type": "paragraph",
+      "html": "This emphasis on restraint notwithstanding, Stone wants to question the idea that making and playing games in a sustainable way is a question of self-denial. \"It's this philosophical push that the environmental movement doesn't have to be about cutting things away,\" she says, citing Kate Soper's book Post-Growth Living: For an Alternative Hedonism. \"[lt's] actually trying to find pleasure in sustainability.\" While it might discourage power-hogging graphics techniques such as ray-tracing, games that run on renewable power can also nurture \"different forms of experimentation, different things that come about through whatever constraints. Because there are always constraints. Even if you're working at a triple-A studio, there's something constraining the game and making it the way that it is.\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0020"
+    },
+    {
+      "type": "paragraph",
+      "html": "Let constraints lead design Hester agrees that, rather than trying to bring solar-powered games up to spec with fossil-fuel blockbusters, \"it's often much more interesting to ask: can we design games around this kind of embodiment and understanding of energy, and its availability in different places?\" He posits a Pokemon Go-style experience based around lighting conditions. Players might have to find the sunniest spot on a hillside to harvest coins, keys, tools, or ammunition, perhaps generating additional energy through motion. \"You have different types of toys that have that intersection of physical gaming mechanics with energy harvesting. I'm surprised Nintendo hasn't done that yet. It seems very Nintendo, honestly.\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0021"
+    },
+    {
+      "type": "paragraph",
+      "html": "(Image credit: Konami) Energy harvesting could even play a part in multiplayer, Hester goes on. \"The change of the environment, and maybe environment synching, and then physical motion in that environment, and then maybe there are collaborative things - you can link up with other folks and share energy as a group exercise. You could transmit the power wirelessly. Oh, I have energy - I'm gonna send that to my buddy who's fighting the zombies in this other quadrant nearby.\" A game in this vein already exists, though it doesn't actually run on renewable power - Boktai: The Sun is in your Hand for Game Boy Advance, produced by no less than Metal Gear Solid creator Hideo Kojima, which uses a cartridge sunlight sensor to alter in-game weather conditions and \"charge\" the player's weapons.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0022"
+    },
+    {
+      "type": "paragraph",
+      "html": "Where Stone regards solar power as an incentive to decouple the quality of a game's aesthetics from the amount of electricity consumed, Hester views it as an opportunity for more sociable play. Again, these may seem like trivial enterprises next to, say, running a city's infrastructure on renewable energy, but transiting away from fossil fuels is a complex endeavor that requires a host of responses, little and large. Solar-powered consoles are one piece of a puzzle that extends beyond questions of technological capability to lifestyle expectations and cultural factors that might be investigated, and challenged, through artworks such as games. \"The work is not completely technical,\" Hester sums up. \"It has a human component.\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0023"
+    },
+    {
+      "type": "paragraph",
+      "html": "Edwin Evans-Thirlwell",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-4a27a4d1-0e4e-4386-9541-0b3512720439-0024"
+    },
+    {
       "id": "236d78e3-ec81-4224-88d4-14b0ab02f754",
       "type": "file",
       "kind": "pdf",

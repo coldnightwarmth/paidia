@@ -49,6 +49,474 @@
       "html": "~"
     },
     {
+      "type": "paragraph",
+      "html": "independent study group at the NYU Game Center. The meeting took place over Zoom and Miro, on April 1st 2022. [introduction, Soft Valkyrie, Wagner, villians, Oikospiel] MM: So yeah - we have this independent study we're running where we do gamefeel-related conversation. We talked about a bunch of gamefeel stuff, your work came up a couple of times, especially Proteus and Oikospiel. We played Oikospiel last week in the library.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0001"
+    },
+    {
+      "type": "paragraph",
+      "html": "Especially the menu was a big thing that we did a lot of messing around with. And your texts - like from the blog, wombflashforest - a lot of texts have come up in different conversations, in this class, and other classes. So we decided that talking to you would be an interesting thing. DK: Yeah, thanks for having me. MM: I wrote a little intro, but if you want to talk about yourself a little bit that would be great - we can get up to speed on whatever you're up to now.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0002"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: OK totally yeah. Thanks for having me so much. I'm really flattered by the Miro board here, it's really fun seeing old things show up here, the old DK key and everything. I'm kind of distracted just reading around this, maybe I should stop reading briefly. But yeah - some of my games are up here. I guess Proteus was the first game that I worked on, as a composer, music designer. A lot of gamefeel involved in that, trying to bring the interactions to life with music. Since then I've done work on other games, interactive music composing. And then of course there's Oikospiel which was my first quasi-solo game. Not totally solo because I had Fernando Ramallo, who I did Panoramical with, made the tools for me that I was able to build it with. And then of course I used all of these assets, both legally and illegally, that other people made, so it was kind of a big virtual collaboration, in a way, that I was in charge of. And then yeah I see these other things, like the Gesamtkunstwerk, and the Soft Valkyrie icon. This is something that's been very cool for me during these pandemic years, is that I've been doing this arrangement of the Wagner",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0003"
+    },
+    {
+      "type": "paragraph",
+      "html": "Valkyrie opera, which is famous for the - [hums motif from 'Ride of the Valkyries']. But more significantly, I think related to my work, is Wagner is famous for this Gesamtkunstwerk idea, total artwork, synthesis of different mediums. And honestly I think he has a lot to say about gamefeel in a way. And also he's known as kind of a 'wicked figure', which is kind of an interest of mine, I think. It comes out in Oikospiel, through this 'Donkey Koch', 'Koch Brothers'. I think I'm very interested in the 'problematic' nature of videogames. I think Proteus was - you know people make these 'wholesome games' now - Proteus was kind of a wholesome game ahead of its time, in a way. But I'm very interested in how the videogame industry relates to the military industry - the game theory, military wargaming which went into Dungeons and Dragons... So Wagner's also very interesting to me in that sense - he's sort of a musician, composer - great composer, but that people are wary of, because he was virulently anti-Semitic, and he allegedly inspired Hitler, he inspired a lot of people - but so he's an interesting example of music where people think,",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0004"
+    },
+    {
+      "type": "paragraph",
+      "html": "this is dangerous music. I think that's interesting because a lot of times music doesn't exert so much power to even be dangerous, let alone life-changing or whatever. So anyway, we've gotten into... Donkey Kong, of course, was a villain, in the original Mario games. Anyway, this is not much - I'm still looking at the Miro board here, digressing a lot, trying to bring these things together.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0005"
+    },
+    {
+      "type": "paragraph",
+      "html": "But yeah - what I am working on right now, I am finishing up this opera, arrangement of it, which has been quite a trip, because it's - these old operas are long, like it's four hours long and so it's the longest continuous piece of music I've ever worked on. And I do have another game project going on. And I've been working on this Zelda essay for a long time, that's kind of my research focus now. Zelda was one of the first games I loved - so anyway, if we go down a Zelda rabbit hole ever, I have a lot to say about that too.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0006"
+    },
+    {
+      "type": "paragraph",
+      "html": "Maybe that's a good introduction, cause I think we've got a lot on this board to go off of. FR [in chat]: would love to go down a Zelda rabbit hole DK: [laughing] We would love to go down a Zelda rabbit hole, OK - [Oikospiel, readymade assets, collaborating with Fernando Ramallo] MM: One question that's related to what you just said that's on the board is the collaboration with Fernando, and the assets in Oikospiel - knowing that, when we played Oikospiel a couple of weeks ago, we were like... how does that work, what was the process for that?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0007"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: So you're just wanting a little more detail about the Oikospiel process? I'll just start from the beginning, which is that I was working with Fernando on Panoramical, and at some point - I didn't touch any code with Proteus - I did have a little bit of coding experience, but I didn't touch any code at any point. And at some point Fernando was like, OK, I think you should start working in Unity. And I was really annoyed at first.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0008"
+    },
+    {
+      "type": "paragraph",
+      "html": "Because I was used to - I liked to just say, here's how it should work, just implement this, or whatever. But he was like, it's easy enough, come here in Unity, I'll show you how to do this stuff, you'll be able to implement this stuff. So that's what got me into Unity, and I was implementing the audio, but then I started playing around with his visual things, just sort of changing them because I could, and I thought, wow this is really fun. And he said - \"yeah it is really fun, I can show you how to do this more, I think you could do a whole thing on your own, it's a lot easier than you think\". And he showed me a little more, and then at some point I was like, I'd love to be able to do X, and he said \"yeah, I can do that, but it takes a while... you can make any tool you want in Unity\". And so at some point I said - Proteus was fairly successful, so I did have some spare capital lying around - so I said, well how about I commission a set of tools that can do all these different things? And he said yeah that sounds great. And they were very simple too, some of them are just like, triggering things from a collision, that probably is very easy to do without Fernando's tools too, but he",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0009"
+    },
+    {
+      "type": "paragraph",
+      "html": "made a very usable, kind of kid-friendly, set of tools for me. And I started using them, and right away - or maybe even before he made the tools, I had already started downloading 3D models, free assets from the asset store, and also places like The Models Resource. You guys know this? The Models Resource is - they've got scraped assets from all kinds of games - still very exciting to me, I think it's an incredible untapped resource. But they've got countless assets - this is where I got the Zelda assets from, in Oikospiel. So I started getting some of those too, and that was kind of the beginning of the process. And then I just spent, while I was working on some other projects - doing music, and finishing up Panoramical this was just my little playground, that I kind of became obsessed with, fell in love with the Unity tools, and sort of, associated a lot of these processes that I was using with different concepts I was interested in too - you know, 'Oikos' is the root of 'ecosystem', 'ecology', 'economy'. And so it was an opportunity to kind of explore those themes of nature, money, power, these kinds of things. So - I just got obsessed with it, and kept using the tools, and",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0010"
+    },
+    {
+      "type": "paragraph",
+      "html": "made all these little scenes - I guess that's the root of it, is I - this is how I've done music for most of my life, really, is just sit down and make something, and it's pretty much done, like I might spend fifteen minutes to an hour on it. And I've always struggled with developing something, it's like I know how to make a sketch, and I always didn't really know how to develop a sketch - I could try, but then it would feel like it was overworked, or something.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0011"
+    },
+    {
+      "type": "paragraph",
+      "html": "So with Oikospiel it was the same thing, I had just dozens of these little Unity scenes, and then eventually I - at first I was thinking, each of these is its own game, I didn't think it was all one game at first - but then eventually I was like, oh, these could be brought together. And I think once I was weaving them together it started getting this global scope to it that felt operatic, and maybe that's where the dog opera idea came from. For the second half of development it was really about bringing the sketches together and unifying them. Any other questions about that? I don't know if that actually answered much.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0012"
+    },
+    {
+      "type": "paragraph",
+      "html": "MM: That was good. [liquid transitions, Schoenberg, grain] TC: Maybe just a quick followup - in the second half of development, when you were bringing all your sketches together, how much did the individual sketches end up changing were there any that got significantly reworked, or they kind of were as-is? DK: I think so, I think definitely reworking, but a huge part of - more or less every sketch, a majority of the sketches, there was work that I would have to put into their... intro and outro basically. So I think I would rework - even in the midst of a sketch, I would try to work on the transitions. And that's something that I'm fascinated with too - that's kind of a musical concept too - I remember first reading, like a decade ago - Schoenberg, who's a famous early 20th century composer, early modernist, twelve-tone system - he talked about 'transition liquidation'. And I remember being like, whoa, what a beautiful idea. And that's been kind of a guiding principle for me, in many things, I think even before, probably honestly in Proteus and Panoramical and things too, is just transitions. You know, with",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0013"
+    },
+    {
+      "type": "paragraph",
+      "html": "computers, the digital, binary quality makes it possible, and in some way 'with the grain', to have transitions that are just instantaneous - here we are, and then we flip a switch and here we are somewhere else. But I guess I was interested in this 'transition liquidation' - what does a transition look like that is liquid, either like you're pouring two liquids together, or the transitions that are happening biologically, which are of course fueled by water and all the nutrients that it's carrying, too. So more kind of organic transitions. But yeah, I do think I would go and change things in the midst, but definitely a lot of transition work too. And it's like a DJ set too, cause this is how I - I did choose which scenes to put in, but to some degree I feel like you could stitch together any scenes in the whole world - you know, one of them could be chess... chess feeds into football feeds into the ballet. And it's just a matter figuring out how that transition works.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0014"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sorry - speaking of transition, my cat is trying to transition out of the room, so she's scratching up the carpet. I'll be back in five seconds. Sorry about that, she hates when I start talking loudly. But yeah, I think that was it. Transitions, love em. So I could go down - there's a rabbit hole there. I think it's very related to gamefeel too, because - you look at Steve Swink's book of Game Feel, and there's these curves of, if you press a button, how long does it take for an event to happen. Or even - I'm not a Dark Souls guy, I really would like to be, it sounds amazing - but it seems like a lot of people like this, there's this sense of - you press a button, how long is it gonna take for your weapon to actually swing after you press the button, how long for it to deal the damage.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0015"
+    },
+    {
+      "type": "paragraph",
+      "html": "And to me that all is in the realm of transition, you know, here's an event, and then what little micro-events happen before it's sort of finished unleashing its consequences. [grain, Unity, dollhouses] DV: With the thing about, going against the grain, like liquidy transitions being something that's 'against the grain' of the computer, is that like something that you were consciously trying to do with Oikospiel? Or more just like, that's the stuff you wanted and it happened to be against the grain.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0016"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: That's a good question - I was definitely going for the liquidy transitions. Honestly I felt like, I think this where the tools I was working with were crucial, is that I did not feel like I was trying to - I guess I felt like maybe I was trying to go against the grain of like, design conventions, but in terms of the actual working process, I felt like I was very much 'carving with the grain'. I started thinking of Unity as like - when I immediately started working with it, I was just like, Oh, Unity is just a dollhouse, and that's its grain. So if you're wanting to make some kind of systems thing with that, that's against the grain, but if you just want to make a dollhouse, that's what Unity's for. So I basically, just like I was a little kid or whatever, playing with dolls in the dollhouse, I had these very simple scripts, which would be the equivalent of a kid saying like \"now the horse moves over here\" or whatever. So actually the working process felt like it was very much within the grain of Unity, and the tools that I was using. And I really do think that Unity's grain is 'dollhouse'.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0017"
+    },
+    {
+      "type": "paragraph",
+      "html": "And so despite the fact that it's based on a computational substrate, I don't think that's its grain, and people that want to make games that are more computational, systems-heavy - I think a lot of times they don't really like Unity, because it's a dollhouse [laughing]. [music, Dyad, making way too much content] MM: I have a question, sort of about Oikospiel, but I guess about your games in general what is the musical... all your games are very like, music, they're like musical compositions, how do you approach doing that in Unity? You said Unity is a dollhouse but you also did a lot of sound, playing with sound with that, did you use any specific tools for that?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0018"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: Right. Well again, Fernando's tools. And - I'm trying to think how to describe what the most common tools of his that I used - I mean again, they're very simple. There's so many tools that are just like, a collision happens, and that's either gonna trigger a one-off sound - a 'boing' or whatever - and of course, a one-off sound, is not just gonna be a 'boing' sound effect, but it can also be a very beautiful arpeggiated chord, it can be any sound whatsover.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0019"
+    },
+    {
+      "type": "paragraph",
+      "html": "With the games I'd worked on up to that point, and I would say especially Dyad, I cultivated a kind of tolerance for just making way too much content. I remember when I was working on Dyad with Shawn, he'd say \"this is crazy, based on this thing that you proposed, you're gonna need to make like a hundred one-shots with these different timbres, different chords...\" And I'm just like, OK fine, that's what I gotta do. I mean people do all kinds of things that take a lot of busy work or whatever. Yeah I mean there's so much in other games I've done, and in Oikospiel, that's just a simple, trigger a sound, but have like hundreds of sounds to work with. So if you're looking at a piece of music. Actually I have some Zelda sheet music here. You can count - here, these are the harps at the beginning of the fairy fountain [hums fairy fountain harps] - you can just say, there's six harps there, let's export that six times. And of course in Oikospiel you've got this mechanic where you can touch things [notes on a score] and it makes the music. But even if we weren't talking about the score like that, I just see the score as built of all of these little cells, or objects, which, to be",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0020"
+    },
+    {
+      "type": "paragraph",
+      "html": "used in a game, need to be cut up into small pieces. And then, how would it come back together, is a lot of fun. [special moments] MM: There is one question that I think is related - is there any particular specific moment, or thing that you did, in any of these games - like you tweaked something in how the game felt, or you tweaked some kind of sound that happened in a specific moment - any memorable like 'this was so smart, this was so good'.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0021"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: Oh, get really excited about something. Probably, I mean that kind of moment fuels me I think, kind of chasing things like that. Definitely tried to front-load some of that stuff in the game, too. I mean, from the very beginning there's the windmills that spin as you move your mouse - I was very excited about that because it was this like, it had a philosophical content too, because that's Power - I was interested in this - reading about science vocabulary things, and power, in science, basically means, how much work can be done in a given amount of time. So I was interested in work, and you know, this is what 'opera' means, works in the plural, but also in the labor aspect of work, there's the union in it, but there's also just all the work that I was stealing, being kind of a villian. So then to put that into time, I was very excited about the windmill metaphor. I was very excited about the first scene where you're a chicken and then get eaten by a fox. But yeah, my goal is to kind of chase that sensation, and try to build things that have that kind of peak experience as much as possible. Which maybe can be too much, too, I mean Oikospiel's kind of dense with - it",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0022"
+    },
+    {
+      "type": "paragraph",
+      "html": "could probably use some kind of lower-intensity gamefeel emotions or whatever. But yeah anyway, I think probably most scenes felt that with something, and that's why they made it in. But that chicken and the fox is definitely a big one. [being done, Donald Winnicott, 'good enough'] MM: I have one final Oikospiel-related question, and then we can move onto some other topic, which is - how do you know when it's done? And I guess this maybe applies to Proteus too. How do you know when to stop?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0023"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: Totally. Well, I think the short answer is, you kind of don't, you just have to stop at some point. I've been trying to work with another friend to get Oikospiel, the Unity project, working again, so that I can put up a new version, because there were a few bugs I never fixed. Basically, I think that the released version calls itself a beta. So in a sense I was aware that it needed some more work, but I never got to go back to it. Cause I think I released it, and I was pretty burned out, honestly, so I released it and I crashed, I didn't want to see it again, for years. But yeah, I mean that's kind of a cop-out answer too, because there is a sense... I think that 'good enough' is a concept that I think is really important, that shows up in psychoanalysis. This psychoanalyst Donald Winnicott, he's kind of famous in 'play culture', because he wrote a book called Playing and Reality, which is very interesting. He talked about, parents should just worry about being good enough, rather than being great parents. You stress yourself out trying to be great. So, I think that, in terms of releasing something, being ready with it, for me I feel like it's just like, figuring out what your",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0024"
+    },
+    {
+      "type": "paragraph",
+      "html": "threshold for good enough is, and then realising that, there's a lot of people out there who are gonna have something that's good enough, but they're gonna want to keep working on it for years after that, because they think it's going to become perfect - it's not going to become perfect, nothing's perfect. So I think that the 'good enough' threshold - and I mean, it's a personal thing, right, I mean, if you're really lazy, 'good enough' could be extraordinarily simple - it's a personal threshold, I think that's the thing that you gotta find in yourself, just feel what's good enough. I think you can feel that to some degree. That's how it feels to me. And part of good enough is like, it shouldn't crash while you're playing it.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0025"
+    },
+    {
+      "type": "paragraph",
+      "html": "There's all these kind of technical things. Obviously if something's crashing all the time. There's one part of Oikospiel that is certainly not good enough, that I never fixed, which is that one of the scenes fails to connect to it's next scene, so it's like a broken transition. So I would say that that was not good enough, and yet there it is. So there's technical good enough, but then there's a feeling good enough, you know, play through, and - I don't know, that is harder to say, but - yeah, you just kind of feel it. And I think you feel it in relation to whatever else is going on in life too, because it needs to balance with those things, it's like, OK, I'm working on something but there's these other things going on in life that need my attention too, well, maybe the good enough threshold's gotta be a little lower, because you know, you don't want to kill yourself trying to be a perfectionist or whatever.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0026"
+    },
+    {
+      "type": "paragraph",
+      "html": "[the keyboard, the mouse, Paul Klee] JS: How do you feel about the keyboard, as an input, a medium between you and the computer? DK: Keyboard, awesome input. Inspired by the piano keyboard, I believe. So, excellent eternally good input device. With certain qualities. It's a digital input, in both senses, it's a binary on and off, and it uses our digits. Honestly I think that Oikospiel - the keyboard mechanic that I put in it, I don't know if you got to the part where you can just type, and any text comes out. That's probably my favorite keyboard mechanic. I was very pleased with that. Just because I felt like it, for me, got at the percussive quality of the keyboard, the sense - you know, I've got a piano keyboard here [mashing keys] and I like to, just kind of well it's not on right now, but you know, just kind of be an animal on it or whatever. I think that's a lot of fun. I think that there could be more games that use the full keyboard, too. I don't know the deep history of it, but I do believe that the typewriter keyboard was inspired by the piano keyboard. And the first typewriters were in one row, rather than in several",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0027"
+    },
+    {
+      "type": "paragraph",
+      "html": "rows. I think that more games that appreciate every key as a tactile object, would be a lot of fun. TC: A secondary question to that - how do you feel about the mouse? And how do you relate those two kinds of input together. DK: Totally. I mean the mouse also has its digital buttons. Which, there's like a, you know, in Unity, whether it's a keyboard event or a mouse event, it registers the same. But there's obviously a physical difference between a mouse click, and a keyboard event. So that's very interesting because it's not actually in the code at all, but it's a very distinctive, qualitative difference, both in the material, and also in the associations, of course, that we have with it, from how we're used to using the things, day to day. But then of course the mouse also has the, this just delightful, continuous, 2D, planar thing, where we're all running around on Miro here. And that's amazing, too. I think that the keyboard and mouse - I'm fascinated with how their everyday usages are, in my opinion, are more playful than their uses in game design, where everything becomes even more constrained. I mean here I'm looking at DV",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0028"
+    },
+    {
+      "type": "paragraph",
+      "html": "moving around on the Miro, and... I think it's great, you know. I don't know if you guys know the artist Paul Klee, who was like a proto-Bauhaus kind of guy. He has his book, Paul Klee's notebooks are really great, he talks about drawing as 'taking a line for a walk'. And that's how I feel about the mouse, I guess, it's not just a pointer, but it's like a drawing tool, of course, if you do draw with it. But even if you're not leaving a trace you're still drawing with it, I guess is how I feel. So there's a lot of kind of aesthetic, illustrative, musical, dancelike quality in the mouse movement. And then, the mouse buttons, the mouse scroll wheel, man, there's all this kind of stuff in there. But I do think in terms of a binary, in terms of there's digital inputs and there's continuous inputs. And you know, the mouse has got both of those on it, and its continuous input is different from the MIDI-slider continious input you know, anyway, I think it's very interesting. I love the everyday inputs, I think they're really great.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0029"
+    },
+    {
+      "type": "paragraph",
+      "html": "[exercise machines, gymfeel] DV: Maybe the natural next question, I didn't write it but someone wrote - if you had no hardware limitations, how would you like to physically interact with a video game? For example Oikospiel. DK: Well, I think with Oikospiel, definitely the keyboard and mouse. I think that the everyday, quotidian quality of the keyboard and mouse is very important for that game in particular.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0030"
+    },
+    {
+      "type": "paragraph",
+      "html": "I don't know, I'm not one of these - Oh, there's a Paul Klee figure on the Miro now. I'm not one of these people who thinks you need wild new input things, so much. I mean, I could imagine unique, fun input things. Something that I'm fascinated with is exercise equipment. I was on the rowing team in high school, so I used these mechanical rowers a lot. I don't know if you guys ever saw this show Rocco's Modern Life? There was a rowing episode, where Rocco's rowing, and there's a big screen in front of him, and it's like a river it's a very exciting, he's rowing down the river - then I think it comes out and splashes him or whatever, and it's a lot of fun. I think they have this new famous bike, that everyone was buying during the pandemic, the Peloton or something? I think that maybe has a screen on it or something too. I'm fascinated by the idea of input devices that require substantial amounts of work. I would be fascinated with like, a whole gym with all of these things plugged into a LAN, like a gym LAN party. In terms of fanciful interfaces...",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0031"
+    },
+    {
+      "type": "paragraph",
+      "html": "JH: That's what Peloton is doing now, they have, five blocks from here, there's a big gym you can go to with other people on Pelotons, and you're all looking at your screens - at each other, but also going on the same track - it's super weird. DK: Interesting... and you're all racing against each other, I guess? JH: Yeah, something like that, I've never been inside.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0032"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: Oh, wild. I would for sure go there to try it out. I feel like I would - I mean, I'm always inclined towards something that's a stranger game design than just a race, or whatever. In that circumstance, I'd rather something that, everyone feels some kind of agency, not just racing but... But honestly, if I were there I'd go check out the Peloton bar, as a new game design thing.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0033"
+    },
+    {
+      "type": "paragraph",
+      "html": "TC: Maybe everybody could be pulling a really gigantic block... DK: [laughing] I just remember with the rowing machines, you pull, and it has a fan on it, and it makes this really amazing noise, it's like vrooom, vrooom - it's like a car that you're powering yourself, and that was always a kind of intense experience too, just the sound of that. But you could imagine that's like a... cool rave synth instead. So if you had a musical gym or whatever, instead of being in a race with everyone, all these different gestures would produce some musical effect, and everyone would be having some big chaotic jam or whatever. And they all feel so different, whether you're pulling on something or you're on the step machine - I mean, the gym is kind of a gamefeel paradise, in terms of, between mechanism, and more on the way to, just natural - nature itself of course is a gamefeel paradise too, but - for mechanism design, a gym is kind of interesting.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0034"
+    },
+    {
+      "type": "paragraph",
+      "html": "MM: Do a gymfeel trip. [laughing] [competition, goals, Cobra, Ape Out] MM: I have a tangential question. I don't even know if it's a question, it's probably more... One of the big things that I guess, reading your stuff and playing your games, inspired my personal making of games, is this idea you just said, like not making just a competition, I read some stuff - this idea of being more musical, being more dance-like, borrowing stuff from playground games. If I have a question here it's mostly like - have you seen these as trends in contemporary games, have you seen these as trends that are not in contemporary games, but could borrow from - like, if it's happening in music - is Cobra still the coolest thing?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0035"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: [laughing] Cobra might still be the coolest thing. Cobra is amazing. Honestly, there's probably someone else who could give all kinds of great examples that I don't know about. Cobra - it really is fun. And it's a lot of fun even for non-musicians, there are mechanical rules that allow you to make noise together, have a good time. But yeah, that's a great question. Honestly for me, I feel like it's more like I've enjoyed a lot of games that have a goal-oriented component, or a competitive component, but I've enjoyed just the sort of, raw movement. And I don't really enjoy necessarily - I enjoy some goal-oriented competitive stuff - but it's more that I just really think that they do movement beautifully. Mario Galaxy was the first game like that that really blew me away, just in terms of its kinesthetics. Or I mean, the first game that I was really conscious of, cause I guess playing it as a kid I probably felt that too. But yeah, I think there's so many games, and I'm actually really excited to try playing this Elden Ring, because the way that people talk about these Souls games and everything, it really sounds very musical, like dance - you know, it's all about the",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0036"
+    },
+    {
+      "type": "paragraph",
+      "html": "precise timing and all these things. I'm fascinated by that, but I don't want to be forced into, you know, you gotta compete, you gotta kill the monster, or whatever. Like I played Breath of the Wild and I probably played that game for twenty hours before - well, first I played and I was like, I don't like this, I was struggling with the combat for some reason, it's not that hard but I'm not really good at this stuff - but then I realised, oh, I can just run away from everything. So I just ran away from everything for like twenty hours, and then finally I was like, OK, now that I've kind of 'grown up' in this game, I'm ready to like 'wage warfare' or whatever. But I don't like this kind of, here's a whole new movement system, and you're on the spot now, you're in trouble if you don't do a good job. But I think that, just imagining taking that layer away. I think it's... Game designers know what they're doing. People that are tuned into this, whether it's a competitive game or not, if they're paying attention to gamefeel - there's such amazing gamefeel in all kinds of games. Pikuniku comes to mind",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0037"
+    },
+    {
+      "type": "paragraph",
+      "html": "too, just kind of out of the blue, I was just thinking about that for something else - I don't play a lot of games, too, so I don't have an encyclopedic... I'd think about Ape Out, which I think is by some NYU profs there, which, wonderful gamefeel too, and that was something else that I kind of tolerated the goals of it, to enjoy the music, and the feel of it, which was just incredible, both of them. And then it got too hard for me pretty quickly, and I'm just like, eh, whatever, I've got better ways to spend my time than trying to get good at this. I'm not saying that's a bad way to spend time, but for me - if I could have just had 'Ape Out Playground', I'd probably play in that more.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0038"
+    },
+    {
+      "type": "paragraph",
+      "html": "Yeah, so - I don't know if that was a great example. So what was the - yeah, Cobra still is the best music game. It's copyright, John Zorn won't let anyone else play it, but I think that should give us all some pleasure in playing it. And then count so many games that aren't marketed as musical games, but feel like dances to me, and have amazing kinesthetics, I feel like.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0039"
+    },
+    {
+      "type": "paragraph",
+      "html": "[grain, level design, architecture, A Pattern Language, 'pure gamefeel'] FR: I have a question I wanted to ask. I've been sort of thinking about this since you were talking about Oikospiel. Cause you just mentioned Ape Out, talking about these music games, like games that have - or like Proteus, games that are sort of reactive to how you interact with them, and have different musical reactions. And I feel like a lot of that is your bag. But also you were talking about how you feel that what Unity is good at, is being like a dollhouse, and it's not about trying to put in complex scripting, or - more like just, arranging things like dolls and walking around in it. And I'm wondering if you feel like there's a tension between like, gamefeel - cause you mentioned Ape Out has great gamefeel. So, between having, this really nice responsive game that feels nice and reactive, versus like a dollhouse that feels a little bit less responsive, more like flat, or something.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0040"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: Totally, yeah. And I should say too, I felt like the dollhouse was Unity's grain in my experience, at least. And I sense it just because the Scene View puts the dollhouse at the fore. But just because something's the grain, doesn't mean I think that that's all you should do with it. Once again, here's the piano, and I guess the grain of the piano, to some degree is just like: [mashing piano keys], like how cats play the piano, just play it all at once or whatever, anything goes. That doesn't mean you shouldn't, you know - if you like beautiful, harmonious, music, maybe learn about harmony or whatever, play things differently. So similarly I think that, even if the grain is this 3D scene view, dollhouse environment, that's not gonna give you good gamefeel, certainly in this mechanical sense. I think there's an actually alarming amount of good gamefeel that sort of virtually manifests from level design. It's not feel quite in this atomic sense that we talk about in terms of input and response, all these kinds of things. But I do feel like level design - maybe this is outside of the working group topic, cause level design obviously is its own thing - but I feel like it's all",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0041"
+    },
+    {
+      "type": "paragraph",
+      "html": "on a continuum, a continuum of how does something - a form - evolve through time. So I think that there could be someone that uses just the simplest basic Unity controller, that maybe just feels like utter shit, but still ends up feeling good in a global sense, because the environment has good feeling, in terms of, what are the spaces that you're pressing up against, what are the vistas that open up. Like there's that, I love the book 'A Pattern Language'. I don't know if you guys know that - describing little cells of architecture, that all have a wonderful kind of gamefeel, in a way. Maybe I'm abusing the term or whatever, but it does feel related. But yeah, I think that Ideally, by my preference, you'd have a strong architectural aspect like that, and then the controls itself would be... you know, even if that's against the dollhouse grain, that's by no means against the grain of actually playing the game. I mean I guess those are two things, too. There's always the development grain, and then the player-side grain. End-user grain or whatever. And for the end user, they're in the gamefeel - I mean the dollhouse does become kind of secondary for the end user, the player.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0042"
+    },
+    {
+      "type": "paragraph",
+      "html": "But you know, gamefeel can make an incredible... I want to return to - do some abstract games some time. Cause I would love to do just a pure gamefeel game, that's just about envelope response times and things, and sounds, and... That has no architectural interest whatsoever. Cause I think in the same way that architecture can create an experience of positive gamefeel, just through the architecture, I think that just through gamefeel, you might be able to create a sense of virtual architecture in that same way. Even when there's no space, I don't know. Like a game for the blind or something, you know.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0043"
+    },
+    {
+      "type": "paragraph",
+      "html": "FR: Right. Well thank you. DK: Yeah, of course. [ilinx, alea, agon, simulation, realism, Roger Caillois, vertigo, Wagner] MM: We can always just fall into the zelda rabbit hole, if we need to. [laughing] DV: Yeah, or if there's any question on that Miro board that catches your eye, feel free to bounce off - DK: OK yeah, I'll zoom back into Miro here. Oh ok, this is fun: \"This might be an old one, but I noticed your bandcamp is called ilinxgroup. What do you think is the role of ilinx in contemporary videogame design?\"",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0044"
+    },
+    {
+      "type": "paragraph",
+      "html": "So actually that's not my bandcamp per se, but I have a project with a friend, ilinxgroup.bandcamp.com, and it was all pretty much improvised computer music. Lot of fun, very formative experience. Haven't done it in a long time. But ilinx is famously one of the four play categories from Roger Caillois, 'Man, Play and Games', and I think it's incredibly significant, I think that is the gamefeel dimension, of those four categories, if we're going to stuff it into those. So the categories, to review, are - what is it - it's like, alea which is like aleatoric, chance-based play - there's - what's alea's complement, cause I know there's simulation and ilinx - anyway, chance goes with something else - DV: Competition - agon is the other...",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0045"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: Agon, right. So then alea and agon are of course - that's like the gamer value space. But then the other pole is simulation and ilinx, which is like the dollhouse space, or whatever. Cause simulation is dollhouse, - it's dollhouse, it's realism, it's what's the symbolic resonance of what's going on, is how I think of it. It's not just, this is simulating a system, but I think about more broadly, what are the symbolic resonances. But then ilinx is this dizziness, vertigo. So ilinx plays out majorly going skiing or whatever, going down the hill fast. It's in all these runner games. It's in Fortnite when you're dropping from the sky. It's all these kind of visceral pleasures. And kind of dizzying, vertiginous, pleasure. And I think that's important too - it's vertiginous, so it's on the end of being disgusting, too, so it's almost too much - being on the merry-go-round, and all these kinds of things. But no, I think it's huge. And I think that ilinx is present in more subtle ways - like at the keyboard, in music harmony, I think, has a little bit of ilinx to it. So you play a chord [playing Cmaj7], and then",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0046"
+    },
+    {
+      "type": "paragraph",
+      "html": "you go [A7, F+maj7]. Like this chord [A7] has a little bit of ilinx to it. I mean not just dissonance, but these kind of unresolved chords. Dissonance, it's got that ilinx, it's got a little bit of dizziness to it. And Wagner's full of harmonic ilinx in this sense. That's his most famous legacy, in the music theory class room or whatever, is his destabilisation of tonality.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0047"
+    },
+    {
+      "type": "paragraph",
+      "html": "But I think also in terms of the gamefeel - I guess I'd come to associate ilinx with the actual materiality of the game, and in its most extreme sense, it's like the dizziness that we get from a rollercoaster, or whatever. But in very subtle senses, it's tiny little harmonic shifts like that, and it's - I think it's gamefeel, the varieties of different like envelope curves, maybe Dark Souls weapons or whatever. And one of my favorite things too, of course, is the - this doesn't need saying cause it's kind of the... but the riding in Breath of the Wild is, I think is the best part of that, and that's pure ilinx too.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0048"
+    },
+    {
+      "type": "paragraph",
+      "html": "Oh yeah, so - what role does ilinx have? I think that it's hugely significant. Honestly I think that, as soon as game studies privileged videogames, I think that ilinx should be the number one most important category of those things. Otherwise you - if you're doing alea or agon, you're better playing sports, or poker, or whatever. If you're doing simulation, you're probably better reading fiction, you know, I don't know. But ilinx is a very special thing, I don't know... I'm trying to find the Miro board again here.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0049"
+    },
+    {
+      "type": "paragraph",
+      "html": "So, please speak up if you have another question, I'm just gonna keep browsing the board I guess. [fidget mechanics, butt-stomps, musical fidgeting, Skyward Sword] \"What's your favorite fidget?\" I don't know what this means, sounds fun though. Is that like a fidget spinner? JS: At one point we discussed in class, fidgeting in games, for example, things you do while you're waiting, or you're... - the main example we had was in CS:GO, people switch weapons, or like you jump in platformers, even if you're not jumping for the sake of the game, just because it feels good, you're just jumping to fidget. So if you have any one that came to mind in particular - DK: Yeah, I love em all. If there's a fidget available, I'm all about it. I mean, that's once again, that becomes like the, almost like the core of the game for me. Definitely jumping all the time, rolling in the old Zeldas, bunny hopping in Half Life, whatever. Love it. I mean the fidget, that's a great question, cause I think that really gets to the heart of gamefeel too.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0050"
+    },
+    {
+      "type": "paragraph",
+      "html": "Favorite fidgeting of all time, um... I don't know, I think back to like Mario 64, these buttstomps and things. I think I would do that a lot, which takes a lot of time, it's like, it's definitely a waste of time, too - it's not like, oh I'm jumping on the way somewhere - I'm just gonna butt-stomp and the game's gonna freeze for a couple of seconds... but I like doing that...",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0051"
+    },
+    {
+      "type": "paragraph",
+      "html": "[1:00:01] JH: Just kind of bouncing off of that, fidgeting, do you think that there's space to make purposeful, musical, fidgeting, almost. Like sometimes if I was waiting, in first-person shooters, I'd bob my virtual head to the music, to the tempo - I guess what are your thoughts around that. DK: Absolutely. I think that there could be so much musical fidgeting. The sky's the limit, honestly. It seems like a fidget is just like an input possibilty that's just pretty much almost available. So of course you could have a little musical thing that just plays a little 'boing' or whatever. But you could also have, you know famously when people start playing the piano, or whatever, [arpeggiating black keys] the black keys all sound very good together. So a lot of games have something - it's called the pentatonic scale. There are games that have this kind of pentatonic fidgeting. I'm trying to remember, I feel like it's not uncommon either.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0052"
+    },
+    {
+      "type": "paragraph",
+      "html": "But yeah I mean the sky's the limit. One of the interesting Zelda things I discovered recently was - I had not played Skyward Sword when it came out, but I played that recently, and the harp is actually a wonderful little fidget. Because it basically allows you to arpeggiate, which is [arpeggiating on piano], play along with a chord. But it changes along with the background music, so it's different from any other Zelda instruments in that it's reactive in this sense, and it has this sort of logic stream feeding into it, that must have all of the background music in the game tagged harmonically - says, this is a G major chord, now we play G minor - so it's a lot of work that they put in - it's probably actually not that much work, it probably took like less than a week or whatever - but a fair amount of work in terms of tagging all the background music, allowing you to fidget on the harp in that wonderful way. But it's not brought to the surface in the game very well. So it actually took me a while of having the harp to even realise that I could do this. But yeah, musical fidgeting, absolutely, so much there. I mean I'll just fidget",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0053"
+    },
+    {
+      "type": "paragraph",
+      "html": "on my keyboard too, when I watch stuff on the screen here, I'll just watch the news and just play crap on the keyboard, it's the same kind of thing. [readymade tools, 'mixed mechanics', ilinx, 100, surrealism, realism, 19thcentury arts] [1:02:57] DK: So please once again, feel free to speak up. I'm looking again... So here's one thing - \"I once read that you mostly use readymade tools for the implementation of your games, but playing them always boggles me technically\" I'm flattered to hear that. I think that, depending on what the games are - there are some of them which are just, someone else who's implemented the stuff, and boggling technically. But in the case of Oikospiel, that was the one where I did the readymade tools, and - I do think there's something a little bit boggling about, what I call 'mixed mechanics', which is what I tried to do in Oikospiel, that the mechanics are always changing. So even though it's basically pretty simple things all the time - and this is an ilinx effect, too, of course, that it's sort of dizzying, disorienting - but yeah, I think that there might be something that's sort of boggling, technically, about being",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0054"
+    },
+    {
+      "type": "paragraph",
+      "html": "in a disorienting variety of systems, as opposed to one system. And I think there's a lot here, in game design, that's possible, too, because - this is something else I love about Zelda, is that it's like - all the objects that you can get in Zelda, are like simple little containers, that everyone understands what they do, but they boggle - they have an ilinx effect, in that they change the mechanical scope of the game, and suddenly it's like a new game, in a way, but you get it, because it's an object. So you're not like - why is this happening? why is this now an archery game? - it holds it together in a nice way. But I do think there's something boggling about mechanical shifts, and I think there's something very exciting about it, too. I know about ten years ago, the discourse in games, it felt like there was a lot of stuff about, there should be a core mechanic, and it should all come together around the core mechanic, and everything should sort of emphasize the integrity of that, and design should be convergent, not divergent. But I think that's just one way of doing things, and I think that it's",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0055"
+    },
+    {
+      "type": "paragraph",
+      "html": "not the ilinx way [laughing], so to speak. DV [in chat]: have you played 100? lots of mechanic mixing DK: I have not played 100. Great image, 100's cover image. I have not played 100, I'm very interested though. I think I've heard of it though, it sounds... there's maybe a hundred different mechanics or something? DV: It's like a hundred little games kind of stuck together.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0056"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: Oh amazing, cool. I'm gonna keep this up and try play it. [laughing] Great cover image... [1:06:16] So yeah, mixed mechanics, I feel like that's my biggest hobby-horse... I'm fascinated by, whether it's in music, or reading books... I'm actually very interested in 19th-century art forms too, that were like pre-cinema. Because I think that there's this tendency to think - probably not in your gamefeel workshop - but there's a lot of talk in games to compare things to movies or whatever. But it's too - it gets you stuck, because a game is a movie. It's just a movie that you can play - it has a screen, so it's like a movie just with buttons. So it's too close to home. But if you go into the older, these sort of decadent 19th century arts, like Wagner, or Dickens, or Balzac, a Jane Austen novel or whatever. And get this sense of - because again, I think that simulation - so, in that Caillois taxonomy, these things are like paired dialectics - like the agon and chance, you can't have too much chance or else it's not fun competition, you can't have too much competition, or else it's not fun chance - like for instance monopoly capitalism or whatever, would be the example of,",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0057"
+    },
+    {
+      "type": "paragraph",
+      "html": "not enough change for the free market to be fun, or whatever. But likewise with simulation and ilinx, I do think that ilinx - I think he was right to ally ilinx to simulation. And I don't know a lot about him, but I know that he was associated with Surrealism to some degree, too. And \"surrealism\" means \"above realism\". And this one of the interesting things about surrealism, I think, is that it always has this strong realistic component, whether its just like Dali's, really good realistic paintings, so there's all this melting stuff that's realistic, or this sort of Max Ernst collages, or even the Duchamp urinal, it's a real urinal...",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0058"
+    },
+    {
+      "type": "paragraph",
+      "html": "So Surrealism isn't just weird, it's realism, but it's above realism. So I see that as, it's realism that takes the reality of the dream world into consideration too, because dreams are real, we all have dreams, so this is not something that shouldn't be included in realism. But this is to say - I think that simulation is a really valuable guide for mixed mechanic, ilinx, development. Because if you just look at an old novel - the way that it's shifting modes is really striking. There might be a descriptive passage, that just describes a scene, and then there might be a digression into the history of that - and you can imagine, in terms of game design terms, these are already two totally different games - dollhouse game, kind of historical, how things came to be, just-so story - and then dialogue starts and now we're in a visual novel - and then, there's sort of kinesthetic descriptions, and now it's an action game or whatever.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0059"
+    },
+    {
+      "type": "paragraph",
+      "html": "But I do think, for me there's something very valuable about thinking about these old, even pre-cinematic forms, as - how would this be, like, the outcome of a game that was played? And I think it usually turns out that, if there was a game that produced that, it would be a game with an incredible number of mechanics - I mean, cause this is what reality is too.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0060"
+    },
+    {
+      "type": "paragraph",
+      "html": "But I do think that that's - I don't think that ilinx, on its own, is so powerful - cause you just like, ah, let's do something that's weird, haha, you know, weird, let's, it's quirky, it's gonna be whimsical, and everything's gonna be different. But I think it's very powerful, to ground it in, sort of, an attempted realism, even if that's sur-realism or whatever.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0061"
+    },
+    {
+      "type": "paragraph",
+      "html": "I don't know how I got to that, either, but... [learning, teaching, history, Zelda, 'Playing at the World'] [1:11:27] [looking at Miro board] OK, so here's a thing - \"what do you think about learning and teaching, separately and together? If you could teach any class, including none, what would it be?\" That's a fun question. I love learning, I'm crazy about it. I love just like, reading Wikipedia, reading books, whatever. And I think it's very important. And I think that's kind of related to the last thing I was saying, too, in terms of - I see learning as sort of like reading the dungeon master's guide to the world, or whatever. It's like the lore of our planet. It's like, the Earth is one big game, and there's just endless things to learn in it. I just get a lot of pleasure out of it on its own, but I do feel like I always try to relate it to my work, and games and things, so... But yeah, learning's excellent. Teaching... I have not done much teaching - I actually just started teaching a private composition student for the first time, which has been fun, too. But I think - you all can probably tell that I kind of have a joy of going off on",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0062"
+    },
+    {
+      "type": "paragraph",
+      "html": "things, so - I think I might enjoy teaching... \"If you could teach any class, what would it be?\" Honestly, might teach a Zelda class right now, I think that I could teach a Zelda... kind of lore, in a way. So that would probably be my choice class, right now. Look at all the - this thing [the Miro board] is just growing, we've got Pikuniku, Ape Out, here. I can see why you all love Miro, this is - I've never seen it in action. I think I got it once, cause I loved Infinite Sketchpad, and I thought, maybe I'll use this myself - but it's really supposed to be a multiplayer thing, huh. It's incredible, seeing how this all...",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0063"
+    },
+    {
+      "type": "paragraph",
+      "html": "[1:13:53] TC: So what's your pitch for the Zelda class, then? DK: Well, so my - so with Zelda, I... Let's see, I don't have a pitch ready, this is kind of a sprawling study on it. But, basically what I'm trying to do with the Zelda study, is kind of try to take game history back, further - try to make a case for game history that can connect with normal history, basically. Cause in my experience studying game history, it's either, there's all this board game stuff, you read Homo Ludens, and all these game studies books, and then it's like, videogames were invented, or whatever. And, to me, I want to see a game history that's able to kind of - again, we're watching - a videogame is like a movie with inputs, and a movie is like a Gesamtkunstwerk or whatever, that has its dramatic element, its musical element, its kinesthetic element, all of these things... And so I do have this image of the Triforce as - so the image is that, the Triforce that would guide this class is - Image, Music, and Text [gesturing to the three triangles in an imaginary Triforce] around System [gesturing to the hole in the center], and System is kind of the void in the middle. So I guess",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0064"
+    },
+    {
+      "type": "paragraph",
+      "html": "this is kind of related to the gamefeel, too - instead of thinking about System as this substance, that you build these other things on - this idea would be, what are these long, deep, beautiful human traditions, and how do those create a virtual, kind of empty system when they come together, and then how can that be sculpted... Anyway, that's not that Zelda-related. With Zelda, I've been interested in tracing, the sort of symbolic resonances of it, back into real history. For instance, Zelda 1, Link is shown with a cross, right, so what do we gather from that - Link's a Crusader - he's a Frank - he's a Crusader, getting indulgences from the Catholic Church, or whatever - and he's fighting, going off to Jerusalem, to try to fight Muslims. Or he's - he's also an Aryan, so he's - Japan German alliance, World War Two, is kind of a spooky resonance of Link, and the Crusaders were also very anti-Semitic, they would kill whole villages of Jews, just on the way to Jerusalem, just horrible things. So Zelda has these dark resonances, too - and so, where do I go with that, we've got Link the Crusader, and it keeps connecting with things. So I don't know if you've heard this, but - the",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0065"
+    },
+    {
+      "type": "paragraph",
+      "html": "original title music for Zelda 1, was Bolero, a piece from Ravel, which some of you may know - [hums Bolero]. And this was a piece that Ravel wrote, based on Spain. He had Spanish ancestry but he'd never been to Spain, and he wrote it as a kind of, Spanish Orientalism, in a way. And it has this famous first section, that's very tuneful. And there's a second section - [hums second section] - and it has these kind of - frankly, it's just Orientalism, it's like this B-section, that sort of, brings to mind the fact that the Iberian peninsula used to be controlled by the Muslims. So I hear now Bolero, as - I was like, oh, this is perfect, this is why they wanted to use Bolero, because Bolero is this piece of music, that has its Christian A-section, and its 'Other' B-section, its Muslim B-section. So then, the Spanish Crusades, which were actually called the Reconquista. So when we think of, what's Link doing - he's an Aryan, with a cross on his shield, this is not ahistorical symbolism. So anyway, that's one thing.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0066"
+    },
+    {
+      "type": "paragraph",
+      "html": "And then I traced - they allegedly de-historicized his shield, when it - maybe I should pull up my thing here - they allegedly de-historicized it with the Hyrule Shield. But I have done some snooping, and I think I've analyzed the Hyrule Shield as also following this pattern. So let me share my screen briefly - sorry, you guys tickled my little... So check this out - so we know Link's Christian shield.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0067"
+    },
+    {
+      "type": "paragraph",
+      "html": "So the German state evolved out of the Holy Roman Empire, which was based in Central Europe, and here's their insane coat of arms, at first. We've got Jesus in the middle, we've got this scary red-eyed hawk, and then covered in all the heraldry, including Link's old shield. So this the Holy Roman Empire. And Brandenburg, specifically, is where we get this red bird. This is Brandenburg, where Berlin is located. And that's - basically, that's where we get the red bird on Link's shield, and - OK, fine, I can make up little games all I want well, where do we get these other things? Where do we get this blue?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0068"
+    },
+    {
+      "type": "paragraph",
+      "html": "This is a very particular shade of blue called Prussian blue, which also became popular in Japanese printmaking, this famous Hokusai's Great Wave, uses Prussian blue. Of course, Prussia was the German empire, which took off after Napoleon, and sort of conslidated German confederacy, in 1870. And so there's the blue. We've got two symbols, then, that bring us back to that area. And I also think, as a tangent, this is interesting, because A - the Japanese-German alliance during World War Two, and then B - the Cold War, which Berlin, of course, was the center of. You know, East Berlin, West Berlin, kind of thing. And I'm fascinated with the Cold War, related to Zelda via wargaming. You know, they did all these war games, you know, how many nuclear bombs can we bomb them with before, whatever all this horrible stuff. But wargames were very popular, and Dungeons and Dragons evolved out of that. Wargaming also comes from Prussian kriegspiel, that was the origin of the wargaming tradition.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0069"
+    },
+    {
+      "type": "paragraph",
+      "html": "And this is a little more of a, fanciful, far-fetched - but I was thinking, maybe the Triforce is a cousin of Mitsubishi, because Nintendo is an ancient company, they've been around since 1888, and Mitsubishi was founded in 1884. And so they're both kind of symbols of this Meiji-era Japan, which is when the Prussian blue came to Japan. Prussia also was a big ally Japanese ally at the time, that helped train their military, in a way that led up to their belligerent colonial aspirations in the 30s or whatever. But anyway, there's my little equation - Prussian blue, plus Brandenburg eagle, plus an inverted Mitsubishi, equals the Hyrule shield.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0070"
+    },
+    {
+      "type": "paragraph",
+      "html": "And of course that's a bridge from the Holy Roman Empire... Anyway, thank you for indulging my... So, that's one little clip of my Zelda fun... But there's a lot more. [laughing] So that was all about teaching, huh. So yeah, I love learning, I love teaching myself, in a way. And I love writing essays and things, as a way to try to condense learning into something that maybe could be teaching to people who - however questionable these things are - I think there's something to it, but... There is this amazing book, too, just while we're on the teaching topic, that I think sent me down this path a little bit, I don't know if any of you have heard of 'Playing at the World', by Jon Peterson? This is extraordinary, this is like the best game history book, I think. It's a history of D&amp;D, but it's like a deep prehistory of it. So it starts with the creators of D&amp;D, who were like Avalon Hill wargamers, during the Cold War - which of course, Zelda was released at the end of the Cold War, too, so this is very much - Zelda's a war game too, it's a violent game, but it's 'cold' in the sense that it's 'not real violence'... Anyway, this 'Playing at the World' is just extraordinary, because it's the",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0071"
+    },
+    {
+      "type": "paragraph",
+      "html": "deep history of D&amp;D, and I really think D&amp;D more than just inspiring computer RPGs, and of course Zelda by proxy - D&amp;D's like Zelda's grandparent or whatever - but I think D&amp;D has a very unappreciated major influence on all computer games, in some way, this kind of combination of systems and imagination. But, highest recommendation - 'Playing at the World' by Jon Peterson. If anyone's in the mood for a game history kind of thing.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0072"
+    },
+    {
+      "type": "paragraph",
+      "html": "Shall I dig back in to the notes here - any suggestions...? [a game you hate] [1:25:55] MM: We went through most of the notes that are there... I feel like there's one - a classic one that we've asked in another independent study, which is - what is a game that you feel like, shouldn't be there, shouldn't exist. You don't like it, you think it's wrong, it's well - I don't know, whatever - what's a game you hate?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0073"
+    },
+    {
+      "type": "paragraph",
+      "html": "DK: Well the first thing that comes to mind is war itself, because, I'm in the minority here, but like, I believe that war is actually a game. And some people say, ah, war is not a game, games are all safe and everything, but I think war is a game, and we're in a very belligerent atmosphere right now, obviously Putin or whatever is excited to wage war, but I think there's a lot of people who are excited to wage war in different senses, and - that's maybe not a great example, but it is a game that I hate. The question - Clausewitz, who maybe some of you have heard of, he's a famous war theorist, wrote 'On War', he fought Napoleon starting when he was like eight years old or something, I mean this is crazy shit, you know, I mean these - war is fought by children, too, historically, and very young people now, like your age or younger. But Clausewitz started fighting in the Prussian army when he was like eight or something, but you know, he loved it. And one of his lines from 'On War', this famous war theory book, is 'War is a game, both subjectively and objectively'. And this is just one of the most sort of haunting bits of game theory out there. And I remember I read",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0074"
+    },
+    {
+      "type": "paragraph",
+      "html": "that and I was like 'well, I don't know' - but then I was like, OK, let's just stick with that. Because I think it's important to think that games aren't just like safe, good things. They can be good or bad, and they can be extraordinarily bad. And I do think that the sort of warmongering impulse - it is a game in some sense, it's only not a game if you insist that a game needs to be separate from the world, and safe. But anyway, so that's one kind of outrageous response. I don't know, maybe I'll just leave it at that response. I think, compared to that, nothing else - you know, how can you really hate another game?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0075"
+    },
+    {
+      "type": "paragraph",
+      "html": "And I think most actual, safe games, you know, that aren't hurting people, even games that I really don't like, I'm kind of interested to like. I kind of think, you know, I'd like to appreciate that more. [secret game] [1:28:58] DV: Can you tell us anything about the game that you're working on at the moment? DK: I think I'd better not, just because... Just trying to keep it under wraps, trying to do the whole, fundraising and all these kinds of things, which is kind of new for me. So I would love to, but I must respectfully decline.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0076"
+    },
+    {
+      "type": "paragraph",
+      "html": "DV: Well we're all very excited, I think, so look forward to find out about it. DK: Oh cool, thank you. Well I can tell you a little bit, I'm back to - I am working with some more people, which is really great, cause Oikospiel really was a burnout kind of project, like it was a lot - happy I did it, but it definitely left me wiped out, and I'm excited to be working with other people again. It is a pleasure to collaborate, so.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0077"
+    },
+    {
+      "type": "paragraph",
+      "html": "[nostalgia, Zelda, history] [1:30:03] [looking at Miro] I mean there's all kinds of notes, little cards still on here, so if you guys have a choice. 'Games you played as a child', yep that would be Zelda, so that was kind of a, return to the past thing. You know, that's another thing on Zelda too, there's so much nostalgia in games culture. And I'm fascinated - I feel like that's the beginning of the seed of historical interest. It's like, oh, I remember when I was a kid, or whatever. But I'm very interested in history, broadly. So I think that that's why, Zelda for me felt like this little path from nostalgia, which is like this very familiar gamer kind of emotion, to history, that ideally connects to natural history or whatever. That human history goes all the way back to, history of Earth and all of its species, and everything...",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-601239e0-7568-4894-bd40-ac44ce2f80cb-0078"
+    },
+    {
       "id": "0e82383a-2c56-4800-8ebe-37f42adb284b",
       "type": "file",
       "kind": "pdf",

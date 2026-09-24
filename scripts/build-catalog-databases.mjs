@@ -21,7 +21,7 @@ const slugify = value => value.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace
 const escape = value => String(value).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 const definitions = [
   {key:'games',id:'549e6748-f2f1-4f8d-9243-68d0b9f00343',title:'Games',slug:'games-549e6748',icon:'videogames',categories:['Videogames','Tabletop','Sports','Other Games & Toys']},
-  {key:'other-media',id:'7070e92d-6389-4c6c-88f2-0b38bc3d8e3a',title:'Other Media',slug:'other-media',icon:'media',categories:['Films & TV','Anime & Manga','Music','Software']},
+  {key:'other-media',id:'7070e92d-6389-4c6c-88f2-0b38bc3d8e3a',title:'Other',slug:'other',icon:'media',categories:['Films & TV','Anime & Manga','Music','Software']},
   {key:'objects',id:'5c956dc7-7bd4-439f-973e-3d819d90149d',title:'Objects',slug:'artifacts',icon:'object',categories:[]},
   {key:'images',id:'2051fa00-5190-42a6-af57-6eca9f5b55d0',title:'Images',slug:'images',icon:'image',categories:[]},
 ];
@@ -81,12 +81,12 @@ await collectLinks('bb4976cc-8007-43b7-a2e2-013b3a4d8f57',media,'Music');
 
 for(const definition of definitions) {
   const root=await load(definition.id);
-  root.title=definition.title; root.icon=`./assets/home/${definition.icon}.png`;
+  root.title=definition.title; root.slug=definition.slug; root.icon=`./assets/home/${definition.icon}.png`;
   root.properties.title=[[definition.title]];
   root.catalogDatabase=definition.key;
   root.parentPageId=index.rootPageId;
-  Object.assign(summaries.get(root.id),{title:root.title,icon:root.icon,catalogDatabase:definition.key,parentPageId:index.rootPageId});
-  const nav=index.navigation.find(p=>p.id===root.id);if(nav)nav.title=root.title;
+  Object.assign(summaries.get(root.id),{title:root.title,slug:root.slug,icon:root.icon,catalogDatabase:definition.key,parentPageId:index.rootPageId});
+  const nav=index.navigation.find(p=>p.id===root.id);if(nav)Object.assign(nav,{title:root.title,slug:root.slug});
   else index.navigation.push({id:root.id,slug:root.slug,title:root.title});
   const rows=[...records.get(definition.key).values()].sort((a,b)=>a.page.title.localeCompare(b.page.title));
   for(const record of rows) {
@@ -119,6 +119,21 @@ for(let i=0;i<folks.rows.length;i++) {
   folks.rowMeta[i]={...folks.rowMeta[i],pageId:page.id,href:`#/${page.slug}`,icon:page.icon};
 }
 await write('folks-database.json',folks);
+index.navigation = index.navigation.filter(item => item.id !== '907a3709-7f78-4bb3-87ce-ee1c5985483c');
+const imagesNav = index.navigation.find(item => item.id === '2051fa00-5190-42a6-af57-6eca9f5b55d0');
+if (imagesNav) {
+  index.navigation = index.navigation.filter(item => item.id !== imagesNav.id);
+  index.navigation.splice(index.navigation.findIndex(item => item.id === '5c956dc7-7bd4-439f-973e-3d819d90149d') + 1, 0, imagesNav);
+}
+for (const [id, afterId] of [
+  ['292fe1df-a5bd-4b49-97aa-f336bf0ac103', '2051fa00-5190-42a6-af57-6eca9f5b55d0'],
+  ['2b9dc0d1-2d66-4aeb-b050-fb9835b1338a', '292fe1df-a5bd-4b49-97aa-f336bf0ac103'],
+]) {
+  const item = index.navigation.find(item => item.id === id);
+  if (!item) continue;
+  index.navigation = index.navigation.filter(item => item.id !== id);
+  index.navigation.splice(index.navigation.findIndex(item => item.id === afterId) + 1, 0, item);
+}
 await write('site-index.json',index); await write('site.json',index);
 const { refreshPageUpdates } = await import('./lib/page-updates.mjs');
 if (process.env.DEFER_PAGE_UPDATES !== '1') await refreshPageUpdates(dataDir);

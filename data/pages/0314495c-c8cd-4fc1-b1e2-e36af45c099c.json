@@ -43,6 +43,378 @@
       "html": ""
     },
     {
+      "type": "subheader",
+      "html": "Abstract",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0001"
+    },
+    {
+      "type": "paragraph",
+      "html": "Speedrunning is the practice of completing a game in the shortest amount of time possible. In spite of its popularity, it has received comparatively little attention in academic contexts. This article examines various ways of determining what techniques and strategies should be allowed in so-called glitchless speedruns, where players aim to complete the game without relying on bugs and glitches. I expound existing theories on speedrunning and show that they contain several crucial flaws and cannot adjudicate on the viability of techniques commonly used by speedrunners. I then employ theories from the philosophy of sport and show that, although they have some elucidating potential, they too fail in providing good models for establishing rules in glitchless speedruns. Finally, I apply theories from the philosophy of fiction and show that although these are still insufficient for settling all potential issues, they provide significantly more consistent and clear principles for assessing the viability of any given technique.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0002"
+    },
+    {
+      "type": "paragraph",
+      "html": "Keywords: speedrun, speedrunning, exploit, glitch, narratology, philosophy of fiction, philosophy of sport, strategic fouls, formalism, interpretivism.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0003"
+    },
+    {
+      "type": "subheader",
+      "html": "Introduction",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0004"
+    },
+    {
+      "type": "paragraph",
+      "html": "The topic of speedrunning, although often mentioned in literature on video games, has been comparatively neglected in academic contexts. In an article entirely dedicated to the topic, Rainforest Scully-Blaker (2014) outlines and discusses the concept of speedrunning, defined as “the practice of players or ‘runners’ attempting to ‘travel’ from a game’s opening state at its first necessary button input to the game’s conclusion at its last necessary button input in the smallest amount of time possible” (2014). As groundbreaking and informative as the article may be, it includes a comparatively brief discussion on different kinds of speedruns, and does not make any substantial claims on what is allowed in different categories. In this article I show that the definitions provided by Scully-Blaker are insufficient for resolving issues raised by so-called “glitchless runs” and allow for either too many or too few viable strategies. I then apply theories from the philosophy of sport and show that these too are insufficient, giving sets of rules that are either too broad or too narrow. Finally, I apply theories from the philosophy of fiction on some of Scully-Blaker’s",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0005"
+    },
+    {
+      "type": "paragraph",
+      "html": "theories and provide a more refined framework that resolves these issues and can be employed when determining what should be allowed in a glitchless speedrun of any given game. The Problem with Glitches and Exploits Many games are divided into different speedrunning categories according to what strategies are permitted. The Legend of Zelda: Ocarina of Time (Nintendo EAD, 1998; henceforth OoT) includes a total of 8 major categories (https://www.speedrun.com/oot#Any), of which glitchless is probably the most complex and problematic one in terms of how the rules are to be defined. As indicated by the name, speedruns of this kind are not supposed to include any glitches, but there is a clarification of the rules in which it is stated that it is hard to define exactly what counts as a glitch, and that current rules, although imperfect, are a result of voting; the only underlying principle that seems to motivate this adjudication is: “If the means are not a glitch, neither are the ends” followed by a list of which specific techniques are allowed and banned respectively. [1] Scully-Blaker presents two categories of his own: finesse runs and",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0006"
+    },
+    {
+      "type": "paragraph",
+      "html": "deconstructive runs. Finesse runs are runs where no game-breaking glitches are used, and “in which the player interacts with the game as an extreme extension of what a game designer may consider an ‘ideal’ player”; deconstructive runs are those “in which the player exploits glitches within the game to break scripted sequences and potentially skip several hours of gameplay altogether” (Scully-Blaker, 2014).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0007"
+    },
+    {
+      "type": "paragraph",
+      "html": "Scully-Blaker does not define what he means by a “game-breaking” glitch, but implies that this is linked to the narrative of a given game when he says that a specific exploit in Super Mario Bros. is not gamebreaking for the reason that it does not “threaten the physical boundaries of the gameworld as established by the game’s narrative” (Scully-Blaker, 2014). He also distinguishes between what he calls implicit and explicit rules. When talking about OoT, he explains that the realism of the game would make the average player “assume that their in-game avatar could not phase through doors” -- that is, it is an implicit rule that one cannot do so -- but the game’s explicit rules do allow players to phase through certain doors (Scully-Blaker, 2014). [2] Scully-Blaker’s categories seem to correspond roughly to what speedrunners often refer to as any%-runs and glitchless runs respectively (where “any%” means that any percentage of the game must be completed for the run to be considered valid, the implied goal being to complete the lowest amount possible in order to finish the game quicker). However, his definitions of speedrun categories are",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0008"
+    },
+    {
+      "type": "paragraph",
+      "html": "insufficient for formulating specific rules as to what should be allowed, as there are significant problems with his explanations of them. First, he primarily offers examples of implicit and explicit rules without elaborating in much detail on their definitions, making it less clear what exactly constitutes an implicit and explicit rule respectively. Moreover, he considers it to be “more fruitful [...] to conceive of rules from the perspective of the runner” (Scully-Blaker, 2014), but this seems to make matters more problematic: if implicit rules are to be defined in terms of the expectations possessed by the average player, it is difficult, if not outright impossible, to assess what is to count as an implicit rule in games without a very realistic setting. Since OoT has a high-fantasy setting, there is no telling what assumptions the average player makes about the rules of the fictional world, and it is ironic that Scully-Blaker chose phasing through objects as something forbidden by the game’s implicit rules, as an entire dungeon in the game is replete with walls that appear to be solid but through which",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0009"
+    },
+    {
+      "type": "paragraph",
+      "html": "the player has to phase in order to progress. Scully-Blaker’s appeal to the so-called “average player” is also problematic since it is not clear how this player is to be defined; is it the average view of the set of all players of a given game? Or the set of players that first played it when the game was first released? If by “average player” one means the average of players currently playing the game it follows that the implicit rules change across time, making it a contingent matter which could undermine the distinction between these and explicit rules.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0010"
+    },
+    {
+      "type": "paragraph",
+      "html": "Second, if by “explicit rules” one means anything permitted by the game’s code, it would follow that the use of cheat codes should be permitted in glitchless runs -- since they cannot be considered to be game-breaking glitches -- but they seem to be categorically rejected in all kinds of speedruns. Third, he does not define what a glitch is, the vague definition of which is the very cause of confusion and debate in the speedrunning community; he merely states that they are used in a deconstructive run, but provides no details on what constitutes a glitch. Fourth, he does not say how much of the game has to be completed in order for a playthrough to be considered “ideal” in the sense he uses the word. The player often does not have to defeat enemies to progress and can save time by running past them, but intuitively we would not say that an ideal player avoids combat as much as possible (except, perhaps, in stealth games).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0011"
+    },
+    {
+      "type": "paragraph",
+      "html": "Furthermore, many games contain optional sidequests, and speedrunners therefore distinguish between, among other things, any%-runs, where one only has to reach the end of the game in any way not explicitly prohibited by the agreed-upon rules, and 100%runs, where the player has to complete all side-quests, acquire all weapons and items, and so forth. Scully-Blaker’s definitions do not shed any light on which of these categories reflects the playthrough of an ideal player.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0012"
+    },
+    {
+      "type": "paragraph",
+      "html": "Moreover, numerous techniques seem to diverge from the game designer’s conception of an ideal player yet cannot be considered to be glitches, which prevents runs including them from being classified both as finesse runs and deconstructive runs. For instance, in OoT, it is common among speedrunners to walk backwards, since this is faster than walking forwards. There are also numerous techniques that exploit game mechanics in ways not prescribed by the game. For example, if Link stands too close to an exploding bomb he will be pushed away by the explosion. Players can abuse this fact by jumping from a ledge whilst carrying a bomb, and if they time it well so the bomb explodes mid-jump Link will be pushed even further, extending the reach of his jump (so-called “damage boost”). When fighting, Link can perform a jump-slash (jumping forward and cutting vertically with his sword). If Link performs a jump-slash midair, he will gain extra height and distance. Both of these techniques allow Link to reach areas earlier than intended by the designers. If Link dies, he is resurrected at one out of several possible geographic locations in the",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0013"
+    },
+    {
+      "type": "paragraph",
+      "html": "game; similarly, if one saves and quits the game one will start the game at one of these locations when reloading the save-file. A player who does not wish to traverse a long distance can thus either save, quit, and reload the game, alternatively he/ she can intentionally kill Link and be teleported there instantly (which is called “savewarping” and “deathwarping” respectively). In the Fire Temple the player is supposed to jump between platforms to avoid the lava below, but in some rooms of the temple it is faster to run across the lava, taking a small amount of damage. An ideal player arguably never dies or takes damage, especially not on purpose, so a speedrun including these strategies is disqualified from being a finesse run. However, since the designers clearly intended for these mechanics to work the way they do, they cannot be called glitches, which prevents such a run from being a deconstructive run. Lastly, it is not uncommon to complete various tasks of a given game in an order different from that intended by the designer (“sequence breaking”) which prevents it from being a finesse run -- as it does not conform to the playthrough of an ideal",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0014"
+    },
+    {
+      "type": "paragraph",
+      "html": "player -- as well a deconstructive run, as the strategy in itself is not a glitch (although particular instances of sequence breaking may require using glitches). The distinction between glitches and unintended use of correctly functioning mechanics is thus important, but seems to have been neglected, not only by Scully-Blaker, but other scholars as well. Bainbridge and Bainbridge (2007) offer a helpful taxonomy of various glitches, but not even this suffices to settle the issue, since all of their categories seem to pertain to what Scully-Blaker would probably consider game-breaking rules. The youtuber EZScape has made a surprisingly insightful and elucidating video on the topic of glitchless speedruns, and he makes a distinction between glitches and what he calls “exploits.” The former he defines as an unintended mechanic with an unintended result, and the latter as an intended mechanic with an unintended result. These terms and definitions are more useful than Scully-Blaker’s implicit and explicit rules, and will therefore be used throughout the article. The question that has to be answered is thus",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0015"
+    },
+    {
+      "type": "paragraph",
+      "html": "whether exploits should be allowed in a glitchless run, and if so, how one can formulate a set of rules that allows for exploits without including glitches and/ or cheat codes. Formalism, Conventionalism, and Interpretivism Seeing how both sports and games consist of rules regulating what actions are permissible in order to attain a lusory goal, theories from the philosophy of sport could potentially offer a solution on how to categorize speedruns, and it is worth considering the three perhaps largest schools of thought regarding sports and rules. [3] In the philosophy of sport, formalism holds that a sport is defined entirely by its rules; in other words, to play a game is to follow its formal rules, whereas to not abide by its rules is equivalent to not playing the game at all (d’Agostino, 1981, p.7; Simon, 2000, p.2, 2004, 46; Fraleigh, 2003, p.166). Some of Scully-Blaker’s lines of reasoning are reminiscent of formalism, as he says that “explicit rules cannot be broken” (2014). Contrary to Scully-Blaker’s models, formalism would allow for exploits since they do not, strictly speaking, break any rules.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0016"
+    },
+    {
+      "type": "paragraph",
+      "html": "However, there are fundamental problems with formalism that are carried over when applied to video games. As Fred d’Agostino (1981) explains (drawing on Michael Quinn): if to play a game is equivalent to following the rules of said game, we would lose the distinction between playing according to the rules and playing tout court, from which it follows that it makes little sense to penalize cheaters (since they are, ex hypothesi, not playing the game at all) (p.9). For this reason, formalism does not capture the distinction between glitches and exploits: if one considers the game’s code to be its rules, the rules cannot be broken (as argued by both formalists and Scully- Blaker), but then it follows that anything that can be done in the game is allowed for by its rules, including exploits and glitches alike.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0017"
+    },
+    {
+      "type": "paragraph",
+      "html": "Furthermore, since the game’s code is its rules, formalism would also allow for the use of cheat codes, as these are included in the code by the original programmers. [4] Lastly, formalism does not shed any light on how much of the game has to be completed. [5] Conventionalism, on the other hand, states that the rules of the game are defined at least in part by the conventions agreed upon by players, sometimes called the “ethos” of the game; insofar as these conventions are accepted by everyone, and all players share the knowledge regarding both the conventions and the fact that all agree on them, no player gains an unfair advantage by using exploits (d’Agostino, 1981 p.7, p.15-16; Lehman, 1981, p.43; Simon, 2000, p.4, 2005, pp.87-8; Dixon, 2003, p.107; Fraleigh, 2003, p.166). [6] One advantage of conventionalism is that it easily accommodates alternative ways of playing a game: Fraleigh explains that two teams playing basketball may agree to alter the rules, and by doing so, agree to play a modified game (2003, p.167). [7] The same can be said about speedrunners: they agree to play a modified game which",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0018"
+    },
+    {
+      "type": "paragraph",
+      "html": "includes techniques that would normally be considered cheating in a casual playthrough. Conventionalism allows for glitchless runs and the use of exploits -- provided that there is an agreement to that effect -and rules out the use of cheat codes. Conventionalism also settles issues on how much of a game has to be completed, by virtue of agreements between players, and therefore does not oblige players to complete all side-quests -- insofar as players agree that this is not necessary. One problem with conventionalism is that it is descriptive rather than normative, which renders rules quite arbitrary. Some problems noted by Nicholas Dixon (2003) include the fact that a conventionalist cannot criticize a widely accepted practice, and should a new one be accepted, said conventionalist would have to endorse it in the same way as the old one without being able to defend either (p.107). The result is that rules become arbitrary and contingent, and the only reason why glitches are not allowed in glitchless runs is because of a temporary agreement. This agreement can change, meaning that the very same run can be disqualified or set a new world",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0019"
+    },
+    {
+      "type": "paragraph",
+      "html": "record, depending only on when it is executed. Interpretivism maintains that there are normative principles underlying sports, which cannot be reduced to conventions or rules (Torres, 2012, p.299). A key feature of interpretivism is its emphasis on the best interpretation of a sport and/ or its key elements, including, for instance, the skills it is supposed to test (Simon, 2000, p.8-9; Torres 2012, pp.301-2). [8] As Dixon has noted, interpretivists are in a position to evaluate proposed rule changes in relation to the purpose of a given sport (or game, in our case) “in order to determine whether a proposed change would constitute an improvement” (2003, p.107). Interpretivism thus allows us to rule out the use of cheat codes, since the very name “cheat code” indicates that use thereof would amount to a heterodox playthrough. Further, many cheat codes intuitively alter the nature of the test of the given game so as to reduce the challenge significantly, or even remove it entirely; codes that make the avatar invincible or provides an abundance of extra lives are irreconcilable with the purpose of games where the test",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0020"
+    },
+    {
+      "type": "paragraph",
+      "html": "consists in avoiding taking damage and dying. However, in spite of its general advantages, one could argue that interpretivism is potentially detrimental to the concept of speedrunning: the best interpretation of the rules of most games is that it is not a lusory goal to complete the given game in in as short amount of time as possible. One could object that speedrunners are effectively playing an entirely different game than casual players, and that they therefore are not limited by the game’s rules in the same way, but that only exacerbates the problem: if we cannot appeal to the rules of a casual playthrough, it follows that speedrunners have to make up all rules, which allows them to include/ exclude any glitches and exploits they want, effectively a return to conventionalism.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0021"
+    },
+    {
+      "type": "paragraph",
+      "html": "One solution to this problem would be that we need not take the lusory goal of the entire game into account when formulating the rules; decisions on what to allow can be made for each specific mechanic and area of the game. That is, we can adopt the goal of completing the game as quickly as possible -- in spite of the purpose and underlying principle of the game suggesting otherwise -- whilst respecting the restriction imposed by the game for any given challenge and thus refrain from, for instance, clipping through walls or using damage boosts and deathwarps to attain this goal. In brief, one can disregard the fact that games are (usually) not supposed to be completed as quickly as possible and still respect boundaries present in casual playthroughs, limiting the use of glitches.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0022"
+    },
+    {
+      "type": "paragraph",
+      "html": "There is still the problem that intepretivism, like formalism, potentially fails to capture the difference between glitches and exploits. We could apply interpretivism on each individual mechanic and assess it relative to its use in casual playthroughs, so that if the mechanic in question is not intended to be used in a casual playthrough it may not be used in a glitchless speedrun. [9] The advantage of this strategy is that it would rule out the use of all glitches whilst still allowing for exploits such as sequence breaking, avoiding combat, skipping side-quests etc, as they all can make use of the same mechanics in the ways intended: the running-mechanic in OoT does not in and of itself encourage or discourage confronting enemies, so a player could run past them whilst respecting the rules regarding running in a casual playthrough. One issue with this approach is that it would rule out far too many exploits, as they use mechanics in ways contrary to casual playthroughs, arguably requiring deliberate “misinterpretation” of them: although it is clear that dying is “permitted” in some sense of the word, and that Link is supposed to be transported to a specific",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0023"
+    },
+    {
+      "type": "paragraph",
+      "html": "location whenever he dies, the best interpretation of the dyingmechanic is that it is to be avoided in casual playthroughs and not used as a mode of transport. Likewise, although one may run across lava or use the shock wave from a bomb to reach a distant ledge, casual players are not prescribed by the game to deliberately expose themselves to either, as they are both punishments and not means.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0024"
+    },
+    {
+      "type": "paragraph",
+      "html": "[10] Thus, if we formulate the underlying principle with reference to the goals of casual playthroughs, we would nonetheless end up with something very similar to finesse runs. In brief, it seems like formalism, conventionalism, and interpretivism would all rule out glitchless speedruns whilst shedding little light on how much of a game must be completed and what strategies may be used for the run to be valid.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0025"
+    },
+    {
+      "type": "paragraph",
+      "html": "Cheating and Strategic Fouls In this section I will focus on another possibility of defending exploits in glitchless runs (momentarily setting aside the issue of how much of a given game one must complete in order for it to count as a valid speedrun). One could potentially draw a parallel between exploits and the concept of intentional tactical rule violations (ITRV), or “strategic fouls” as they are often called. It is important to distinguish between ITRV and cheating. Fraleigh defines the latter as “an intentional act that violates an appropriate interpretation of the rules shared by the participants, done to gain advantage for oneself and/ or one’s teammates, while trying to avoid detection so as to escape penalty” (2003, p.168). ITRV, on the other hand, consists of breaking a rule with the intention of getting penalized because of strategic advantages to be gained from the penalty (Fraleigh, 2003, p.169; Simon, 2005, p.87). Since the player expects to be detected and penalized, Fraleigh asserts that ITRV is not cheating (2003, p.169).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0026"
+    },
+    {
+      "type": "paragraph",
+      "html": "This definition shows that glitches must be classified as cheating in some sense, since players avoid detection when, for instance, phasing through walls: the game’s code attempts to “detect” where the avatar is in relation to a physical object so as to prevent him/ her from clipping through walls, and the player attempts to avoid detection by traversing various sorts of “blindspots” not covered by the code.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0027"
+    },
+    {
+      "type": "paragraph",
+      "html": "Exploits, however, are not necessarily cheating according to this definition, since they do not break any rules, and when acting in an “inappropriate” way the player expects to be penalized. The difference between cheating and ITRV is illustrated by different ways of incorporating the death of the avatar in a speedrun: in The Legend of Zelda: The Wind Waker (Nintendo EAD, 2002; henceforth Wind Waker) the player can make Link reach zero health points but make him pick up a heart (a healing item) before the death is registered by the game; this is clearly cheating, as the player prevents the game from detecting Link’s death. Deathwarp, on the other hand, is more akin to ITRV, as the player intentionally kills Link, yet expects the game to detect this and make him respawn in a location closer to the next objective, significantly reducing the amount of time spent traveling. Similarly, when walking across the lava in the Fire Temple in OoT, the speedrunner does not try to avoid taking damage, but accepts the penalty of losing some health points in order to traverse the room quicker.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0028"
+    },
+    {
+      "type": "paragraph",
+      "html": "There has been a lot of debate surrounding the practice of ITRV and whether it should be accepted, and the same question arises in speedruns: should exploits, in their capacity of ITRV, be allowed? One way of justifying them is by appealing to the skills required to perform them. Torres argues that there are so-called constitutive skills and regulative skills, the former being “the ones gamewrights presumably wanted to promote and, in terms of which, performers would test and distinguish themselves” (2000, p.85). Restorative skills are linked to what Torres calls regulative rules, the set of rules that prescribe precise penalties and methods for reestablishing the lusory project, but in doing so they generate additional skills that are employed during what may be labeled the regulative phase of the game, the period during which an interruption occurs and a need arises to put the game back on track. (Torres 2000, p.85) Torres explains that, in a game of basketball, constitutive skills include such things as passing, throwing, and dribbling the ball, whereas restorative skills, in soccer, include throw-in and penalty kick.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0029"
+    },
+    {
+      "type": "paragraph",
+      "html": "It has been argued that ITRV should not be allowed since it changes the nature of the competition and measures a different set of skills than originally intended (Torres, 2000, p.85; Simon, 2005, p.89-90). This is not an issue in speedrunning, on the contrary, the very purpose of a speedrun is to assess a different set of skills than those employed in a casual playthrough, so ITRV cannot be ruled out in speedruns only on the basis that they do not test constitutive skills. It has also been objected that ITRV requires less skill than constitutive skills, but, as Simon has argued, executing strategic fouls “may be as psychologically complex and difficult as exercising constitutive skills in the normal course of play” (2005, p.90). Simon further adds that a game may become more interesting due to the set of complex options generated by strategic fouling, and that one must therefore “distinguish between the complexity of an action during a game [...] and the strategic complexities generated by the possibility of strategically fouling” (2005, p.90), and he goes so far as to argue that “a sports contest in which restorative skills are employed can be a",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0030"
+    },
+    {
+      "type": "paragraph",
+      "html": "better test of more varied abilities than one in which only constitutive skills are employed” (2005, p.91). Similarly, Breivik (2016) has criticized Torres’ characterization and gradation of restorative and constitutive skills, arguing that although constitutive skills “may be closer to the heart of what defines a sport”, restorative skills may be no less important or central than the latter “when it comes to influencing the results of the contests in that sport” (226). [11] Similar lines of reasoning may be applied on video games: although any given exploit may be simple in itself, when incorporated in a speedrun it could generate a set of complex options which renders the run more interesting for runners as well as spectators, and some exploits clearly require more skills than the strategies intended by the game designers. Conversely, Simon argues, sports played completely according to the rules can be an uninteresting and poor display of skills, such as a player dribbling out the clock (Simon, 2005, p.90).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0031"
+    },
+    {
+      "type": "paragraph",
+      "html": "The same thing can be said for games where players use a safe but uninteresting strategy in lieu of exploits. Simon does primarily argue, however, that strategic fouls may be used when the two teams are equal in terms of constitutive skills, and then only at the end of a game, when the only other option would be for the losing team to let the leading team run out the clock and the strategic fouls can be regarded as a price to pay, rather than a punishment (2005, p.94-5). If we are to apply Simon’s line of reasoning on speedruns, it would mean that exploits would only be allowed when a given runner cannot possibly attain the desired time by any other means, something that would severely limit runners at the start of every run; further, it would give rise to the difficult task of determining at exactly which point in the run the runner is allowed to start using exploits. Russell has objected to Simon, asserting that if strategic fouls may be used to settle a close game in the final seconds, it is unclear why the losing team may not use strategic fouls earlier in the game before the outcome of the game is in jeopardy",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0032"
+    },
+    {
+      "type": "paragraph",
+      "html": "(Russell, 2017, pp.28-9). This is even more motivated in video games, where the possibility to practice and master segments with little to no variation between playthroughs allows for careful planning and evaluation before the game begins. If players know they will never be able to beat the record if they play a given section in the way intended by the designers, it makes little sense not to decide right from the start that they should use exploits. We can then conclude that exploits can be allowed as they require skills equivalent to or exceeding those in a casual playthrough, and as there may be no other way of achieving the desired score. Furthermore, since the input of cheat codes requires no skills, we also have a valid reason to rule out cheating in speedruns.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0033"
+    },
+    {
+      "type": "paragraph",
+      "html": "Nevertheless, one can object that not all speedrunning strategies require skills exceeding or equivalent to those tested in a casual playthrough. Simon notes that exercise of constitutive skills can be uninteresting, but one could potentially use this argument, not the way Simon does -- in order to justify the exercise of restorative skills - - but in order to limit the use of constitutive skills. If strategies are to be allowed or prohibited based on the skills they require, one would have to preclude uninteresting use of constitutive and restorative skills alike. For example, in Devil May Cry (Capcom Production Studio 4, 2001) the player can use the item Holy Water to instantly kill all enemies onscreen. If strategies must require skill, the use of Holy Water must be prohibited, even though it is permitted in casual playthroughs and cannot be classed as a glitch or an exploit. One could perhaps take it even further and say that speedrunners must always use weapons dealing the least amount of damage, as that requires more skills than using more powerful ones. The objection is, then, that if we are to regulate strategies in light of the skills required,",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0034"
+    },
+    {
+      "type": "paragraph",
+      "html": "we would have to prohibit the use of many other common strategies that do not require skills, the result of which would be speedruns that are far more time-consuming and not as entertaining. One could also argue that exploits should be allowed since they increase the aesthetic appeal of speedruns. Yet again, Russell has objected to strategic fouls on the ground that they make the game less aesthetically appealing (2017, pp.30-1), and Torres argues that interpretivism “presupposes not only moral but also aesthetic principles and values” (2012, p.300; emphasis added), and asserts that arguments about strategic fouling in basketball need to take aesthetics into account (2012, p.314). Simon objects to strategic fouling for several reasons, one being that it interrupts the flow of the game (2005, pp.91, 93), and since he sees basketball as a game of flow, he seems to imply that it is aesthetically inferior to a game without fouls and, consequently, with more flow.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0035"
+    },
+    {
+      "type": "paragraph",
+      "html": "Similarly, one could argue that glitchless speedruns may include exploits, insofar as they increase the aesthetic value; the site speedrun.com even includes “entertainment” as one of the purposes of performing a speedrun (https://www.speedrun.com/about). There is undeniably something aesthetically appealing in a well-performed speedrun, partly because of the increased flow of the game. As opposed to basketball, flow is actually increased through use of exploits, if nothing else because long stretches of transportation are reduced in number and/ or duration. If the runner is able to get past segments of traveling through the use of exploits and thus increase the aesthetic appeal, he/ she should be allowed to do so.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0036"
+    },
+    {
+      "type": "paragraph",
+      "html": "However, this argument “backfires” in the same way as the one before, inasmuch as it either includes or excludes too many strategies. First of all, one could argue that the employment of some glitches is more aesthetically appealing than refraining from using them, for instance because they increase the flow even further, which would rule out glitchless speedruns altogether in their capacity as aesthetically inferior runs. Second, many techniques used by speedrunners interrupt the flow of the game, and arguably result in an aesthetically less appealing display of skills. For example, in Wind Waker the player can gain a significant amount of speed when swimming by constantly changing the direction Link is facing; the player builds up speed incrementally through this process until the desired velocity is attained. However, this technique requires pausing the game each time Link changes direction, and since it takes a couple of minutes to build up enough speed, this section consists of watching Link swim back and forth, constantly interrupted by a pausescreen. In the same game, the player at one point has to prepare a",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0037"
+    },
+    {
+      "type": "paragraph",
+      "html": "glitch by crouching and standing up 70 times in a row. In Grand Theft Auto: Vice City (Rockstar North, 2002), one can avoid carrying out a certain set of missions by going back and forth between two locations, starting and canceling two specific missions a certain number of times, which is less time consuming than carrying out said missions, but not as entertaining to watch. If strategies are to be limited by their aesthetic contribution, one would have to prohibit these strategies, as they are detrimental to the aesthetical value of speedruns insofar as they break the flow. Moreover, there may be cheat codes that could increase the aesthetic value of a speedrun.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0038"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ultimately, discussions about ITRV do not offer much guidance on how to formulate rules for glitchless speedruns. Besides, one could argue that the comparison with strategic fouls breaks down in some cases. One important aspect of strategic fouls is the penalty and the player’s readiness to accept it, but many exploits have no punitive element, and therefore do not fall under that category. Another significant issue is that many exploits cannot be considered to be violations of the rules in any strict sense of the word. For instance, in some places in OoT it is possible to reach high ledges by jumping from specific spots and aiming for the right part of said ledge, although it is evident that this was not intended by the designers. Yet again we face the problem that if one is allowed to diverge from the designer’s intentions, it seems arbitrary to rule out glitches but not exploits, but if one has to adhere to the designer’s intentions most speedruns would arguably lose much of their appeal. [12] Narratology So far, I have shown that neither Scully-Blaker’s theories nor the philosophy of sport provide satisfactory answers to the question of",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0039"
+    },
+    {
+      "type": "paragraph",
+      "html": "what should be allowed in a glitchless speedrun, but in this section I return to Scully-Blaker and elaborate on some of his claims in order to create a more cogent, refined principle. Scully-Blaker briefly mentions the narratological dimension of games, explaining that implicit rules “deal more with a player’s understanding of a game on a narrative level” and that a finesse run “largely respects the game’s ‘narrative boundaries’ while navigating them with an extreme level of efficiency” (2014). As already mentioned above, he does not consider a specific technique in Super Mario Bros. to be game-breaking for the reason that it does not “threaten the physical boundaries of the gameworld as established by the game’s narrative” (Scully-Blaker, 2014). This indicates another potential solution: one could use the game’s narrative in order to establish what should be allowed. Scully-Blaker does not elaborate on the nature and specific properties of narrative boundaries, and therefore does not disambiguate his claims. One question that has to be answered is what it means to “respects the game’s ‘narrative boundaries’” and",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0040"
+    },
+    {
+      "type": "paragraph",
+      "html": "what could potentially threaten them. We could perhaps create a new principle which is based on Scully-Blaker’s narratological perspective but excludes his requirement that the game be played in an ideal fashion: Mechanic m in game g is allowed in a glitchless speedrun if and only if use of m does not contradict the story of g. The problem with this principle is that the story arguably corresponds to the playthrough of an ideal player, which would make glitchless runs retain the issues of finesse runs and impose too severe restrictions on what players may and must do. One fundamental problem with this principle as well as Scully-Blaker’s definition of finesse runs is that both use too holistic a conception of a given game and its narrative, forcing the player to reject more efficient strategies in favor of the ones intended by designers. Instead, I suggest that we use fictional truth as a point of reference.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0041"
+    },
+    {
+      "type": "paragraph",
+      "html": "Fictional truth is often defined in terms of prescriptions of makebelieve (see e.g. Currie 1990; Walton 1990; Stock 2017). Makebelieve does not pertain exclusively to the chain of events that constitute the story, but also such things as the natural laws governing the fictional world in which said events take place. For instance, it is fictionally true in OoT that magic exists, so whenever a character uses magical powers, we know that the events are (fictionally) true; as opposed to stories set in more naturalistic worlds where the same events would have to be conceived as, for instance, unreliable narration, or some kind of illusion. On my model, the rules are therefore not to be evaluated in relation to the performance of an ideal player, nor the story in its entirety, but in terms of what the narrative prescribes players to make-believe regarding what is physically possible in the fictional world, even if this does not necessarily correspond to what should intuitively be part of the story or an ideal playthrough. My principle can thus be summarized as follows: Mechanic m in game g is allowed in a glitchless",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0042"
+    },
+    {
+      "type": "paragraph",
+      "html": "speedrun if and only if use of m does not contradict the fictional truth regarding the world in which the story of g takes place. This definition, as opposed to the one above, is only limited to specific mechanics and their use, not their ramifications for the story. Hence, although it would be odd to say that in the story -- and an ideal playthrough, for that matter -- Link jumped with a bomb so as to be propelled further and reach a platform, it is nevertheless fictionally true that if Link is too close to an exploding bomb, he is pushed by the shockwave; thus, damage boost is allowed according to my model.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0043"
+    },
+    {
+      "type": "paragraph",
+      "html": "Similarly, although sequence breaking would contradict the story of OoT, there is no natural law in the fictional land of Hyrule that obliges Link to visit different places in a specific order. [13] In addition, my model also gives a valid reason as to why cheat codes are not allowed, as there is nothing in the story of most games indicating that the main character is invincible, has infinite ammunition, and so forth. Another advantage with my model is that it does not require runners to complete too much of the game for it to be an interesting run. Since my model applies primarily to individual mechanics, not the game as a whole, it follows that any sidequest, task, or mission may be skipped insofar as it is not required for completion of the game and can be skipped through the use of mechanics that are reconcilable with the game’s narrative.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0044"
+    },
+    {
+      "type": "paragraph",
+      "html": "There are possible objections to my model. First, one may object that although Scully-Blaker’s concept of finesse runs is perhaps less developed and refined than my theory, our theories are reconcilable on a charitable reading. As I hope to have shown, that is not entirely true: his demand that one play as an ideal player radically changes the nature of the run, a demand absent in my model. Further, his theory, as it stands, is too vague to be of any practical use when assessing which specific strategies should be permitted.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0045"
+    },
+    {
+      "type": "paragraph",
+      "html": "Second, one could claim that my model does not settle all issues. For instance, is it fictional that Link may extend the reach of his jump by performing a jump-slash whilst mid-air? Possibly, as it could be argued that he uses the weight of the sword to increase his momentum, perhaps not a very realistic explanation, but one reconcilable with the unrealistic setting. Nevertheless, my model is clearer and more consistent than those currently used by speedrunners as well as that presented by Scully-Blaker. I do not purport to provide a perfect and flawless theory, only one significantly less problematic than the ones currently available.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0046"
+    },
+    {
+      "type": "paragraph",
+      "html": "Third, one could object that my model differs too much from current speedrunning practices. Numerous techniques currently allowed in glitchless runs would be prohibited on my model, and would entail radical changes in rules, disqualifying most runs on current lists. That would be a poor objection in the light of the point I made earlier, that current practices prove to be quite arbitrary; it is preferable to “bite the bullet” and adopt a new, more solid framework where the skills tested derive from underlying principles, not merely a list of techniques which is the result of current, contingent consensus.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0047"
+    },
+    {
+      "type": "paragraph",
+      "html": "Further, since consensus is the source of rules used at present, the latter will change as the former does, invalidating current records regardless. Finally, runners have always needed to re-run a given game as new techniques and strategies have been found and developed in order to incorporate these techniques into their runs. Updating strategies is already integral to speedrunning, not a consequence unique to my model.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0048"
+    },
+    {
+      "type": "paragraph",
+      "html": "Fourth, one could object that my model only applies to games set in a fictional world and that it therefore offers no guidance regarding abstract games. I concede this point, yet maintain that my model is still superior to other alternatives. However, a large majority of the most popular games among speedrunners have a fictional world, so whilst my model cannot be used for abstract games, it nonetheless elucidates matters in most cases.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0049"
+    },
+    {
+      "type": "paragraph",
+      "html": "On a related note, there is also the worry that some specific questions will not be resolved easily, if at all; for instance, could not fans of OoT argue that the glitches should be construed as magic, rather than flaws in the code? [14] This issue, however, is not unique to my model but permeates philosophy of fiction as a whole, and therefore does not challenge my model specifically but all epistemological questions of the discipline. As long as one strives for interpreting a work in the way the work itself prescribes, not adding anything one is not licensed to do, many issues should be resolved with relative ease. Moreover, I do not claim that this model is completely without problems, only that it is less problematic than others currently available.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0050"
+    },
+    {
+      "type": "paragraph",
+      "html": "Fifth, as my arguments often refer to the intentions of the designer, they are open to accusations of committing the so-called “Intentional Fallacy,” i.e. of equating the creator’s intentions with the correct interpretation, thus neglecting the fact that creators do not always successfully convey these. [15] However, this objection is not as threatening as it may seem. First of all, more recent versions of socalled Actual Intentionalism take the author’s fallibility into account, and are thus not susceptible to that objection in the same way as older ones were. [16] Should one nonetheless refuse to take the actual designer’s views into account, one can still discern the views of a hypothetical one. According to so-called Hypothetical Intentionalism, “the interpreter is to surmise what a hypothetical author could have intended the work to mean” (S. Davies 2006, pp.223-4). Similar views have already been presented in relation to games, where some scholars have referred to a so-called “implied designer” (Klevjer, 2002; Thon 2009). Thus, regardless of whether one accepts or rejects the intentions of actual designers, one may still act according to the",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0051"
+    },
+    {
+      "type": "paragraph",
+      "html": "intentions conveyed by the game in question, as these may be ascribed to either an actual or merely a hypothetical designer. [17] Should one wish to avoid talking of authors altogether, hypothetical and actual alike, one may simply adopt Kendall Walton’s (1990) conception of fictional truth as prescriptions of make-believe, without conceiving these prescriptions as intentions.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0052"
+    },
+    {
+      "type": "paragraph",
+      "html": "This conception, in turn, circumvents objections to my assumption that there is a single (set of) correct way(s) to play a game: insofar as one can discern an intention (or set thereof) regarding how one is supposed to play, it is irrelevant that there are multiple ways of playing the game, or that casual players, speedrunners and scholars approach games differently. Just as one can interpret a novel/ movie in a way that diverges from the prescriptions of the work itself, one can play a game in ways not prescribed by it, but in neither case is one therefore obliged to consider all ways as equally true, or to deny the very existence of a correct interpretation/ style of play as determined by the novel/ movie/ game itself. This position is very much in line with the claim made by some scholars that there is an ‘ideal path’ that the player should follow (King 2002, p.51; King and Krzywinska 2002, p.23; Atkins 2003, p.41; Aarseth 2004, p.366-7; Schott 2006, pp.133-4; Saklofske 2007, p.142). As a consequence, we also avoid issues pertaining to Scully-Blaker’s appeal to the average player, as the traits of the average player depend on",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0053"
+    },
+    {
+      "type": "paragraph",
+      "html": "subjective, contingent and transitory properties, whereas the properties of the hypothetical author/ designer supervene on the stable properties of the given game. [18] In conclusion, I have presented a tenable principle for assessing viable strategies in glitchless speedruns of video games, one which should be a good point of departure for future research on speedrunning and which may be adopted by speedrunners in debates on which specific mechanics should be allowed so as to produce non-arbitrary sets of rules for glitchless speedruns.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0054"
+    },
+    {
+      "type": "paragraph",
+      "html": "Endnotes [1] The difficulty of defining what is to count as a glitch is further illustrated by the fact that even glitchless speedruns of OoT are divided into two subcategories, Any% and Any% Unrestricted, where the latter allows for some techniques prohibited in the former. For a discussion on similar issues, regarding the permissibility of different strategies in an online multiplayer game, see Carter, Gibbs and Arnold’s (2015).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0055"
+    },
+    {
+      "type": "paragraph",
+      "html": "[2] Scully-Blaker’s definition of explicit rules is similar to what Carter, Gibbs and Arnold (2015) refer to as coded rules. [3] See also Moeller, Esplin and Conway (2009) for more parallels between games and sports. [4] Cheat devices such as Game Shark and other means of altering the code of the game would still be excluded. [5] One could further argue that speedrunning is against the very purpose of most games, but as Lehman has noted, it is problematic to claim that the purpose of a game can be arrived at only by studying its rules [1981, p.45]. This line of reasoning is more pertinent in relation to interpretivism [q.v.].",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0056"
+    },
+    {
+      "type": "paragraph",
+      "html": "[6] Carter, Gibbs and Arnold (2015) also discuss the rules agreed upon by players, which they call informal rules. [7] For an equivalent example of this in video games, see Parker [2008]; note that Parker himself mentions speedruns as an example of a game where players impose additional rules on an already existing game to create a new one. [8] See Carter, Gibbs and Arnold (2015) for a similar argument, but in relation to an online multiplayer game.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0057"
+    },
+    {
+      "type": "paragraph",
+      "html": "[9] Thanks to an anonymous reviewer for raising this point. [10] There are possible exceptions: in some games it is impossible to avoid taking damage, for instance turn-based RPGs, but even then players are encouraged to lose as little HP as possible, not to use it as a resource in the same way as consumable items. [11] For a response to both Simon’s and Breivik’s objections, see Torres (2018). Note that Simon goes so far as to say that the distinction between constitutive and restorative skills may be blurred (90). For the sake of argument, we may ignore this point.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0058"
+    },
+    {
+      "type": "paragraph",
+      "html": "[12] For a discussion of the ethical aspects of ITRV, see Flynn (2017) and Moore (2017). [13] There may be natural laws that prevent Link from reaching certain areas before the designer intends him to, my point is only that the order as such is not part of the natural laws of Hyrule. [14] Thanks to an anonymous reviewer for raising this point. [15] Thanks to an anonymous reviewer for raising this point.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0059"
+    },
+    {
+      "type": "paragraph",
+      "html": "[16] For a good defense of Extreme Actual Intentionalism, the view that the author invariably determines the correct interpretation, see Stock (2017) and Irwin (2015). For criticism of both, see Ricksand (2020, chapter 3). For more on Moderate Actual Intentionalism, the view that the author’s intentions only determine the correct interpretations when supported by the work, see e.g. Iseminger (1996); Livingston (1998); Carroll (2000, 2002, 2011); Trivedi (2001, 2015); Lintott (2002); S.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0060"
+    },
+    {
+      "type": "paragraph",
+      "html": "Davies (2006); Irvin (2006). [17] I would argue that Hypothetical Intentionalism is the most advantageous model. If it turned out that the actual designers of a given game deliberately chose to include glitches for whatever reason, and authorial intentions are what license the use of any given mechanic, we would face the problem of having to find out the reason why any given glitch in a game is present in order to assess whether it was intended and therefore permitted. With Hypothetical Intentionalism, all glitches are ruled out regardless of what the actual designers intended, as they seem so “out of place” and contrary to both the game’s rules and story.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0061"
+    },
+    {
+      "type": "paragraph",
+      "html": "[18] Although many modern games are updated regularly, this need not undermine my argument -- as one can regard each version as having its own (hypothetical) designer.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-0314495c-c8cd-4fc1-b1e2-e36af45c099c-0062"
+    },
+    {
       "id": "d7c9c343-f937-4da2-8008-f3c4a33558a3",
       "type": "file",
       "kind": "pdf",

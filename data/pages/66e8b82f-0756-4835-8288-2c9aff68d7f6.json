@@ -43,6 +43,426 @@
       "html": ""
     },
     {
+      "type": "paragraph",
+      "html": "Looking for Group: A collective chapter writing game 207 The Interactive Past Community Levelling Up: The playful promise of interactive pasts 225 Angus A.A. Mol, Csilla E. Ariese-Vandemeulebroucke, Krijn H.J. Boom &amp; Aris Politopoulos Afterword 233 Colleen Morgan 185majewski The Potential for Modding Communities in Cultural Heritage Jakub Majewski",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0001"
+    },
+    {
+      "type": "subheader",
+      "html": "Introduction",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0002"
+    },
+    {
+      "type": "paragraph",
+      "html": "The concept of applying video game technology for the exploration and popularization of cultural heritage is both powerful and obvious. The educational potential of video games has been much discussed (Egenfeldt-Nielsen 2006), and practical attempts to use video game technology for education and training have been made across a range of different fields, including secondary and university education, medicine, and military training. It is unsurprising, therefore, that the same technology has been extensively discussed in regards to heritage (Champion 2011; Champion 2015).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0003"
+    },
+    {
+      "type": "paragraph",
+      "html": "Besides a myriad of maths and typing skill games, some of the earliest attempts at educational games, in particular The Oregon Trail (MECC 1971), explored history and heritage. Such educational games could be considered a part of the broader group of serious games, a category typically defined as games whose core design goal is something other than entertainment (Djaouti et al. 2011).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0004"
+    },
+    {
+      "type": "paragraph",
+      "html": "T oday, serious games are a vital plank in virtual heritage: the exploration of heritage through digital means (Champion 2011; Champion 2015). While researchers in this field often concentrate on relatively simple virtual recreations of heritage sites or objects (e.g. Anderson et al. 2009; Arnab et al. 2011; Ch’ng 2007; Flynn 2012), where only the technology and occasionally methods of navigation are drawn from games, the influence of video games can be identified in even the least game-like heritage applications.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0005"
+    },
+    {
+      "type": "paragraph",
+      "html": "At the more game-like end of virtual heritage, a robust discussion continues on what aspects of commercial games can be used to enhance depictions of heritage in serious games (e.g. Champion 2012b; Champion 2015; Granström 2013; Kardan 2006), with some researchers going as far as to modify existing games for the purposes of creating virtual heritage (Francis 2011; Goins et al. 2013).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0006"
+    },
+    {
+      "type": "paragraph",
+      "html": "Yet, serious problems may emerge when scholars draw inspiration from commercial games. One problem is what Champion (2011) has aptly labelled as the ‘Indiana Jones dilemma:’ much as in the case of the Indiana Jones films which popularized archaeology in a bastardized form through adventure cinema, the most engaging, and therefore most useful, aspects of video games are the ones that are oriented at destruction rather than education. The financial aspect is also problematic, as illustrated by Granström (2013), who employed a literature review to construct a matrix of 17 game elements deemed most useful for cultural heritage (see Table 12.1), and then matched these elements to several popular video games.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0007"
+    },
+    {
+      "type": "paragraph",
+      "html": "The game that emerged as the most successful case from Granström’s comparison was The Elder Scrolls V: Skyrim (Bethesda Game Studios 2011); an unsurprising result, given the emerging scholarly discourse at the intersection between heritage and the Elder Scrolls series (Bethesda Game Studios 1994-2016; e.g. Daun 2014; DiPietro 2014; Johnson 2013). As Granström points out, however, whatever design inspirations could be drawn from Skyrim into the virtual heritage space, these will be constrained by the fact that the game was developed with an $85 million budget. Given the virtual impossibility of any serious game project obtaining such funding, Granström concludes, “where there is will, but not enough money, there is no way” (2013: 34).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0008"
+    },
+    {
+      "type": "paragraph",
+      "html": "However, scholarly, and even commercial development efforts need not be constrained by money. The rise of the internet and the consequent opening up of media production in what Jenkins and colleagues (Jenkins et al. 2009) refer to as participatory culture, has in fact resulted in a tremendous burst of media created Category Element Description Interactivity Interactivity Ability to affect, use or communicate.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0009"
+    },
+    {
+      "type": "paragraph",
+      "html": "Interactivity Exploration Openly navigable environment. Interactivity Tasks Assignments, errands, missions, quests, challenges. Interactivity Dialogue Communication/conversation between player and non-player character. Interactivity Quiz Test with questions. Depth of Meaning Culture &amp; history Intangible heritage. Cultural expressions, rituals, traditions, customs, skills, beliefs, values. Historical events and developments.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0010"
+    },
+    {
+      "type": "paragraph",
+      "html": "Depth of Meaning Story Plot/narrative. Characters Roleplay The player assuming the role of the player character. Characters Avatar Visual representation of the player character. Characters Personalized avatar Possibility to alter the appearance of the player character. Characters Other characters Real or virtual characters/actors. Characters Multiplayer Ability to play with other players in the same environment.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0011"
+    },
+    {
+      "type": "paragraph",
+      "html": "Accuracy &amp; Realism Cultural &amp; historical Cultural and historical correctness. Accuracy &amp; Realism Visual &amp; behavioural 3D models, textures, shaders. Animation, artificial intelligence, crowd simulation, physics. Accuracy &amp; Realism Environmental Weather, day and night cycle, wildlife, vegetation. Accuracy &amp; Realism Auditory Sound. Accuracy &amp; Realism Olfactory Smell.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0012"
+    },
+    {
+      "type": "paragraph",
+      "html": "Table 12.1: A matrix of 17 game elements that are useful for cultural heritage (based on Granström 2013). 187majewski and shared online by willing but unpaid users. 1 One particular emanation of such works are game modifications, or mods. Players have modified games for virtually as long as video games themselves have existed (Christiansen 2012), sometimes using the game as a vehicle for self-expression, but often also driven by a desire to enhance a specific aspect of the game in question. Among these aspects, culture is a recurring theme; many mods aim to add new cultural content into a game, or to make existing content more accurate. 2 Just one example of such efforts would be Csatádi’s Visual and Historical Mod (Csatádi 2011) for Mount &amp; Blade: With Fire &amp; Sword (Sich Studio &amp; TaleWorlds 2011). Csatádi’s mod is an example of a production that makes no attempt to add any significant new content to its host game, but instead revises existing content for a particular purpose – in this case, historical accuracy. The mod alters the game in many small ways, by revising the game’s economy, changing the equipment combinations used by various troop",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0013"
+    },
+    {
+      "type": "paragraph",
+      "html": "types, replacing some of the visuals for weapons, armour and clothing, as well as adding various new items. In all cases, there is no guarantee that the new content indeed more accurately represents the game’s historical setting; what is important is that this was the modder’s explicit goal. Given the financial constraints on virtual heritage, mods present an interesting possibility of expanding the breadth and depth of heritage without necessarily increasing costs. While the benefits of modifying existing games for scholarly purposes have already been explored (Champion 2012a; Francis 2011), the possibilities afforded by direct collaboration with modders ‘in the wild,’ or even of simply drawing inspiration from modding communities, are virtually unexamined. This paper aims to address these possibilities, and to shed more light on several existing game mods that, while developed outside of the virtual heritage arena, can be classified as heritage products by virtue of their content. The main examples discussed in this paper, Brytenwalda (Brytenwalda-DevT eam 2010) and Suvarnabhumi Mahayuth (Rasiya T eam 2012) have been chosen because they",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0014"
+    },
+    {
+      "type": "paragraph",
+      "html": "exhibit an attention to cultural detail and historical accuracy, and have succeeded in reaching a relatively broad public. An investigation of modding in heritage also opens up other possible benefits, which in the long term may prove even more important than the financial aspect. Heritage studies today are increasingly aware of the importance of engaging with the public in a collaborative relationship that does not merely co-opt the public, but actively solicits its support. The benefits of such collaboration have been noted elsewhere in heritage studies, such as for the transcription of archival materials (Ridge 2014). Similarly, historical re-enactment, where members of the public dress in costumes to re-enact historical events and activities, is coming under 1 This, naturally, has in turn triggered a burst of protests from Marxist scholars, driven by ideology into a desperate search for a new proletariat to ‘liberate.’ Unsurprisingly, these scholars have found their new proletariat entirely uncooperative, and happy to be ‘exploited’ (De Kosnik 2013; T erranova 2013). False consciousness strikes again?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0015"
+    },
+    {
+      "type": "paragraph",
+      "html": "2 Accuracy, realism, and authenticity are ever-problematic concepts in heritage, given the inherent uncertainty associated with studying the past (Champion 2011). In this case, however, what matters is not whether the mods are indeed more accurate, but the fact that their creators specifically desired historical accuracy. increasing scrutiny of heritage scholars (De Groot 2016). In general, heritage studies are shifting away from what Smith (2006) has labelled the ‘authorized heritage discourse,’ an institutionalized, top-down approach to the exposition and interpretation of heritage, which also had a tendency to prioritize tangible cultural objects over the intangible. Thus, the time seems ripe to start this discussion also in regards to video game-based cultural heritage. This chapter advances the conversation not by drawing any strong conclusions or recommendations, but rather by inviting further questions regarding the viability of a mod-inspired approach. In order to approach mods, however, some space needs to be first devoted to an overview of other approaches to heritage through games technology,",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0016"
+    },
+    {
+      "type": "paragraph",
+      "html": "especially commercial and serious games. Four Models of Cultural Heritage through Games Broadly speaking, games that explore cultural heritage can be classified into four categories (Majewski 2015). T wo of these, commercial and serious games, are polar opposites representing the two ends of a very broad bi-axial spectrum, with commercial games aiming to maximize their entertainment value and to reach the broadest possible audience, while serious games seek to maximize education rather than entertainment, and do not typically concern themselves with reaching a broad audience. The remaining two categories, culture-centric games and game mods, are in a sense hybrid forms which emerge out of either serious or commercial games, and thus form the middle ground. For the purposes of this categorization, culture-centric games are those that, unlike serious games, seek to reach a broad audience, but simultaneously make heritage either a key objective, or a key selling point, and thus in some ways emphasize heritage information over entertainment value. Conversely, game mods, as modifications of existing commercial games,",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0017"
+    },
+    {
+      "type": "paragraph",
+      "html": "tend to aim to reach only a small audience, and are created for entertainment, indeed often purely for the entertainment of their creators. These four categories may be plotted on a bi-axial graph (see Figure 12.1), with one axis defined by their focus either on entertainment or education, in this case culture, and the other by their emphasis on either a mass market audience or a small, narrowly targeted audience.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0018"
+    },
+    {
+      "type": "paragraph",
+      "html": "These categories have been previously explored by the author (Majewski 2015), and the two main categories of commercial and serious games require little additional contextualization, particularly in light of the scholarly attention they generally receive (Champion 2015; De Groot 2016). It is enough to state that heritage-related topics are indeed explored in some commercial games, with especially the Assassin’s Creed series (Ubisoft Montréal 2007-2015) earning praise from historians for its meticulously recreated settings (Whitaker &amp; Andress 2015; Whitaker &amp; Glass 2013; Whitaker &amp; Luther 2014). Commercial games have even been adopted on an experimental basis to teach history (Egenfeldt-Nielsen 2007). However, many commercial games invoke heritage only in a shallow and stereotypical manner (Majewski 2014; Sołtysiak 2015). Mythologies, legends, and works of literature have been widely exploited as convenient tropes, with evidently little desire to draw anything more than recognizable names from the adapted objects, as exemplified by the God of War series (SIE Santa Monica Studio 2005- 189majewski 2015), where Greek mythology is quite literally destroyed through the player’s",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0019"
+    },
+    {
+      "type": "paragraph",
+      "html": "progressive killing of key deities in the Greek pantheon. While many commercial games take an interest in heritage, serious games valorize education value without necessarily eschewing entertainment value (Sawyer &amp; Smith 2008), making for an inherently fuzzy distinction between the two. This fuzzy middle ground between commercial and serious games is occupied by culture-centric games. This category includes those serious games that have consciously attempted to imitate the practice of commercial games in order to make their educational aspect more enjoyable, as well as those commercial games that have consciously attempted to invoke cultural content typical of serious games, usually with the purpose of gaining a significant selling point (Majewski 2015).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0020"
+    },
+    {
+      "type": "paragraph",
+      "html": "It must be noted that the category of culture-centric games is purely theoretical; in practice, the developers of culture-centric games would see their products either as commercial or as serious games. Nonetheless, this construct facilitates an examination of what exactly occurs at the intersection between commercial and serious games, and the way these two approaches sometimes converge.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0021"
+    },
+    {
+      "type": "paragraph",
+      "html": "Firstly, culture-centric games can emerge from efforts to improve serious games by incorporating gameplay aspects from commercial games. This approach results in games like Ohana (University of Hawaii Academy of Creative Media",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0022"
+    },
+    {
+      "type": "subheader",
+      "html": "2006) or World of T emasek (Magma Studios 2011), which retain a serious game-",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0023"
+    },
+    {
+      "type": "paragraph",
+      "html": "like concern with detailed and accurate cultural information, but seek to transmit this information in a commercial game-like package with fun gameplay and mass appeal. Possibly the most successful example of this approach is Never Alone (Upper One Games 2014), a game developed to transmit the heritage of the Iñupiaq indigenous people of Alaska (see Cook Inlet T ribal Council, this volume; Roberts 2015). It is noteworthy that while the total Iñupiaq population is estimated to be around 13,500 people (University of Alaska Fairbanks 2007), according to the data aggregation portal SteamSpy (2017) Never Alone has sold more than 400,000 copies via the Steam platform. Even taking into account that only about 220,000 of those Figure 12.1: A graph of approaches to cultural heritage in games (image by: Jakub Majewski).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0024"
+    },
+    {
+      "type": "paragraph",
+      "html": "copies are estimated to have actually been played, Never Alone’s impact is equivalent to every member of the Iñupiaq community talking to 16 people for several hours about Iñupiaq culture. This impact is further magnified when it is considered that comparatively few of the Iñupiat would have both the knowledge and the time for such a public service engagement. Conversely, Never Alone also shows the limitations of such an approach; the game’s puzzle-platformer mechanics indicate that Never Alone was designed to fit within the constraints of a relatively small budget. These constraints have also prevented the game from exploring Iñupiaq culture at the deeper level of procedural rhetoric (Bogost 2007), where cultural content could be conveyed not only through video cut-scenes and the visual layer of the experience, but also through the rules and mechanics of the game.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0025"
+    },
+    {
+      "type": "paragraph",
+      "html": "Culture-centric games can also arise when a commercial game chooses to place a stronger than usual emphasis on culture, typically in order to leverage heritage as a selling point. Even though such products could potentially be developed at a grandiose scale, in most cases the financial constraints observed with Never Alone remain an issue. For instance, although the budget for the RPG game Mount &amp; Blade: With Fire &amp; Sword is unknown, its production values indicate a comparatively small budget. This particular game made a conscious effort to depict itself as a loose adaptation of the classic Polish historical novel With Fire and Sword originally by Nobel laureate Henryk Sienkiewicz. Although the depth of the game’s depiction of its setting was ultimately rather limited (Majewski 2014), it was the cultural setting that was used to distinguish between this title and other similar games: culture was a crucial selling point. Similarly, Sangokushi Online (Koei 2008; English title: Romance of the Three Kingdoms Online ) attempted to set itself apart from other massively multiplayer online games by strongly referencing the classical",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0026"
+    },
+    {
+      "type": "paragraph",
+      "html": "14th century Chinese work Romance of the Three Kingdoms by Luo Guanzhong. The other category of heritage games poised in the middle ground between serious and commercial, is modding. Like culture-centric games, modding can in some ways be a hybrid between commercial and serious games. The derivative relationship between game mods and commercial games is clear enough: mods are simply packages of additional materials designed to expand a particular commercial game. Unlike typical downloadable content (DLC) expansion packs produced and sold by commercial game developers, game mods are typically produced by players.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0027"
+    },
+    {
+      "type": "paragraph",
+      "html": "Modding itself has garnered some scholarly attention as a cultural phenomenon (Newman 2008), an inspiration for education (Gee 2013), a world-building/ prototyping tool (Bostan 2005), and finally as a very useful classroom technique, particularly in teaching games design (Champion 2012b). There is also an overlap between game mods and serious games, as a number of serious game projects are actually modifications of existing games, as in the case of Hysteria! (Rochester Institute of T echnology c. 2012; Goins et al. 2013) and Revolution (MIT Education Arcade 2004; Francis 2011). However, with the exception of mod-based serious game projects, the mods themselves do not attract scholarly attention. It would appear that while the process of modding is of interest to scholars, the results of the process are considered irrelevant.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0028"
+    },
+    {
+      "type": "paragraph",
+      "html": "191majewski Nonetheless, from a heritage perspective, these results can be very relevant, as many mods explore heritage topics. Modding strongly interfaces with serious game concerns. While modders typically work mainly for their own gratification and indeed entertainment, it is not unusual to find modders whose stated objective is specifically to improve the cultural detail or historical accuracy in a given title.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0029"
+    },
+    {
+      "type": "paragraph",
+      "html": "One such example, already mentioned, is Csatádi’s Visual and Historical Mod for Mount &amp; Blade: With Fire &amp; Sword. Players also engage in efforts to adapt a game into an entirely new setting, and here again the Mount &amp; Blade series (TaleWorlds Entertainment 2007-2015) provides notable examples, especially the mods Brytenwalda and Suvarnabhumi Mahayuth. Of these, the former adapts the game into 7th century Britain, while the latter is set in 16 th century continental Southeast Asia. Brytenwalda has indeed been successful enough to entice the publisher of the Mount &amp; Blade series to collaborate with the modding team behind it on a new expansion, Mount &amp; Blade: Warband – Viking Conquest (TaleWorlds Entertainment &amp; Brytenwalda 2014). It explores the broader North Sea area encompassing Great Britain, Ireland and parts of continental Europe in the 8 th-9th century, and bridges the gap between mods and culture-centric games. The attention to heritage content in these mods is evident, with Viking Conquest even employing live-action historical re-enactment in its marketing. In spite of this, both projects remain",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0030"
+    },
+    {
+      "type": "paragraph",
+      "html": "outside of the interest of cultural heritage scholars; as far as the author was able to ascertain, no archaeologist or historian has attempted to explore and discuss the cultural depictions seen in these titles. Such a discussion is beyond the scope of this paper; the author merely hopes to bring these works to the attention of other heritage scholars for further investigation.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0031"
+    },
+    {
+      "type": "paragraph",
+      "html": "The large-scale efforts evident in Brytenwalda also demand an explanation of the process of modding. It is evident that projects of this size could not be developed without any organization. Therefore, there is a need to explain how players converge into communities and teams around particular projects, allowing them to succeed in the development of projects that, in a commercial environment, would require not inconsiderable budgets.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0032"
+    },
+    {
+      "type": "paragraph",
+      "html": "Modding and the Affinity Space Education scholar James Paul Gee (2013), in discussing how games drive their players to learn, proposes the term ‘passionate affinity space’ (PAS) to describe how players collaborate. Players, regardless of their age, ethnicity, or gender, converge around a strong common interest – their passionate affinity – in a real or online space, such as a website or forum. The PAS as described by Gee is not a community but rather a space, where individuals come and go freely. Social status exists in the PAS, but can be achieved in different ways, and is often informal.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0033"
+    },
+    {
+      "type": "paragraph",
+      "html": "Leadership is porous. The leaders often owe their high status to cultural capital or technical skill, and are more of a resource than a hierarchy for the community. The PAS does not prescribe forms of participation to its members, and while some members will only consume, the PAS also facilitates production of new items or knowledge. Knowledge in the PAS is distributed among individuals, but those who hold tacit knowledge, the ability to do things, are encouraged to transform it into explicit knowledge for the benefit of others. The PAS as a site of production is transformative, so the content of the PAS changes as a result of user actions.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0034"
+    },
+    {
+      "type": "paragraph",
+      "html": "An example of a PAS is a fan website revolving around a particular game, or an academic site of learning and dissemination (Squire 2011). The potential scope of PAS knowledge practices is illustrated most clearly with examples of online collaborative encyclopaedias. A prominent example is the WoWWiki, serving the 10 million member community (Kollar 2014) for World of Warcraft (Blizzard Entertainment 2004). WoWWiki features more than 100,000 articles and is currently the second-biggest English language wiki-based encyclopaedia in the world, second only to the general Wikipedia (Dybwad 2008). The Unofficial Elder Scrolls Pages (UESP), an Elder Scrolls Wikipedia, has 42,000 articles, and its content goes far beyond the official game guides licensed by the game developers.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0035"
+    },
+    {
+      "type": "paragraph",
+      "html": "These encyclopaedist efforts to catalogue the lore of the Warcraft and Elder Scrolls universes along with in-depth gameplay information are not constrained to the gathering of data. Considerable analysis is involved, with extensive debates and often a near-academic insistence on solid referencing (Hunter 2011). These debates, and the ultimate power for certain members with administrative privileges to make final decisions, demonstrate that perhaps, Gee’s (2013) concept of the PAS as a site without formal organization overly simplifies such sites. Indeed, some fan websites, including large-scale wikis, remain under the permanent control of their original founders, often because they are the ones who continue to cover the costs of website hosting, as is currently the case for the UESP. Thus, while for the overwhelming bulk of the participants in any given PAS, Gee’s description of porous membership and fluid leadership will remain accurate, it must be noted that the PAS is not at its core an anarchistic concept; online technology will usually render anarchy impractical, as ultimately, there will be someone setting up a website",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0036"
+    },
+    {
+      "type": "paragraph",
+      "html": "or Facebook page, arranging server access, and managing discussion forums. Beyond data collection and analysis, players also engage in creativity and expression (Wirman 2007). This may include YouT ube videos (Puente &amp; T osca 2013), fan fiction, fan art or even fan-produced videos, and finally, mods (Christiansen 2012). Many of these works require collaboration between players.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0037"
+    },
+    {
+      "type": "paragraph",
+      "html": "In the same way that online technologies facilitate collaboration on knowledge repositories exemplified by the wikis, they also facilitate complex collaborative arrangements on creative projects. Players readily exploit modern collaborative platforms like GitHub, and have their own online distribution networks, such as NexusMods and ModDB. In some cases, development is further streamlined through the use of bug-tracking systems which enable players to report issues encountered when playing a particular mod, and for the developers to assign these issues to individual team members for resolution. 3 Far from anarchistic or disorganized, the large teams behind complex mods such as Brytenwalda or Suvarnabhumi Mahayuth, employ such means to maintain a reasonably organized, though certainly still fluid and porous development environment. In some cases, 3 An example of this may be found in the bug-tracking page for the Unofficial Skyrim Patch mod 193majewski collaboration may even occur between PAS participants and commercial game developers, a concept John Banks (2013) describes as co-creation.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0038"
+    },
+    {
+      "type": "paragraph",
+      "html": "These methodological aspects are worth highlighting as an area in which scholarly collaboration is typically still lagging behind. In particular, the academic serious games scene is highly fragmented (Champion 2015). It is quite common for serious game projects to never properly disseminate the finished product. Many projects are only described in an academic paper, with no direct access to the game.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0039"
+    },
+    {
+      "type": "paragraph",
+      "html": "By extension, there is little possibility of external parties joining in to collaborate on a project in progress, because the typical serious game projects will only be described after its completion (e.g. Anderson et al. 2009; Arnab et al. 2011; Ch’ng 2007; Goins et al. 2013; Kardan 2006). The features of mods developed in PAS environments, and the potential to draw from them for heritage dissemination, may best be illustrated by comparing two works that share similar subject matter, with one being a culture-centric or serious game, the other being a mod. For the purposes of this paper, a comparison will be drawn between two titles concentrating on Southeast Asia, namely the aforementioned Suvarnabhumi Mahayuth and World of T emasek. The latter title was chosen as an example of a particularly advanced and well-developed culture-centric game, while Suvarnabhumi Mahayuth, as a player-developed mod encompassing a similar cultural area, makes for an apt comparison.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0040"
+    },
+    {
+      "type": "paragraph",
+      "html": "A Mod and Serious Game Comparison: Suvarnabhumi Mahayuth and World of Temasek Suvarnabhumi Mahayuth (see Figure 12.2) represents what is typically called a total conversion mod, i.e. a game mod that seeks to replace the main setting and most of the content of a particular game, retaining only the game mechanics and re-purposing some of the graphical assets. In this case, the fantasy world depicted in Mount &amp; Blade: Warband (TaleWorlds Entertainment 2010) is converted into 16th century Southeast Asia, while retaining the combat-centric role-playing game model of the original game. The player creates a character and is then free to roam in an open environment, in this case constrained to the continental portion of Southeast Asia. In order to prosper in these explorations, the player is encouraged to gradually build up a retinue of warriors, and to join one of the political factions. Suvarnabhumi Mahayuth concentrates on Thailand, and it was indeed developed mainly by Thai players who enjoyed the original Warband, but wished to see its gameplay play out across their own history and geography. The team was",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0041"
+    },
+    {
+      "type": "paragraph",
+      "html": "comparatively tiny, with less than ten members active at any one time, although the actual labour that went into the mod is amplified by the subsidiary integration of other smaller mods into the complete package. The other object of comparison, World of T emasek (see Figure 12.3), is a culturecentric title developed through a collaboration between Singapore’s governmental Media Development Authority, the private company Magma Studios, and Singaporean heritage scholars, particularly archaeologists (Lim 2012). This collaboration had as its purpose the development of a massively multiplayer online role-playing game (MMORPG) which could be used in Singapore’s schools as part of the national curriculum to teach Singaporean history, and particularly the 14th century period which is depicted in the game (Wu &amp; Jones 2010). Although Magma Studios does not seem to be an especially large company, the manpower available for World of T emasek is incomparable to Suvarnabhumi Mahayuth.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0042"
+    },
+    {
+      "type": "paragraph",
+      "html": "World of T emasek seems to have been part of a broader regional trend, with two other government-backed MMOs developed in the same timeframe: Thailand’s King Naresuan Online (PromptNow 2011) and Indonesia’s Nusantara Online (Sangkuriang Internasional &amp; T elegraph Studio 2011). All three games appeared to draw substantial inspiration from commercial MMORPGs like World of Warcraft.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0043"
+    },
+    {
+      "type": "paragraph",
+      "html": "Thus, even though T emasek is designed from the ground up for its intended purpose of transmitting heritage, its design is nonetheless constrained to some extent by commercial genre conventions. Figure 12.2: Mount &amp; Blade: Warband (top) and Suvarnabhumi Mahayuth (bottom) with the original game’s pseudo-Nordic architecture visible as part of the palatial structure in the centre of the second image; also evident is the creative manner in which such graphical assets are modified almost beyond recognition (images by: Jakub Majewski).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0044"
+    },
+    {
+      "type": "paragraph",
+      "html": "195majewski In comparing Suvarnabhumi Mahayuth with World of T emasek, it is immediately clear the latter is the more highly polished of the two. The game was developed with careful pre-production and high attention to historic detail ensured by collaboration with scholars. Importantly, the game smoothly integrates heritage and gameplay, in the sense that all parts of the game were designed to complement the whole. The game also contains particular features that made it strongly adaptable for educational purposes, with a component of the game, Magmaflow, being designed as a quest-building kit to allow educators to tailor the experience for their own students (Tan 2009). It must also be noted that the game was not designed solely for classroom education, being also released on a free-to-play basis to the public via a browser-based client on the game website.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0045"
+    },
+    {
+      "type": "paragraph",
+      "html": "While less polished, and constrained by the combat-oriented gameplay framework of the original game for which it was developed, Suvarnabhumi Mahayuth still holds some advantages over T emasek. Despite being developed without any funding, the mod has a far broader scope than T emasek: while the latter revolves only around the geographic and cultural area of Singapore, the former encompasses the entirety of Southeast Asia. Suvarnabhumi Mahayuth depicts characters and locations from Burmese, Thai, Chinese, Vietnamese, Cambodian, Laotian and Malay cultures, as well as confronting these with the Portuguese colonial forces that had seized the port city of Malacca shortly before the timeframe of the mod’s historical setting. However, because the underlying gameplay of Mount &amp; Blade forces the mod to concentrate on battles, cultural depictions concentrate on depicting the enormous diversity of military formations and armament styles of the period.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0046"
+    },
+    {
+      "type": "paragraph",
+      "html": "Figure 12.3: World of Temasek (image by: Magma Studios). An arguably weak point of the mod are the cities which, in many cases, are merely the same models as in the original Warband, simply covered with different textures. Consequently, a fantasy building styled upon Scandinavian architecture might show up with new textures in Suvarnabhumi Mahayuth, posing as a Thai palace. Under these circumstances, and also in the light of the gameplay mechanics that drive the game towards ahistorical events, the mod does not conform to realism understood as historical accuracy. In this respect, T emasek certainly represents a much stronger effort to reconstruct historical reality, even if a truly accurate reconstruction of a 14 th century city is a self-evident impossibility. Nonetheless, Suvarnabhumi Mahayuth still manages to convey some level of immersion in what feels like a historical environment.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0047"
+    },
+    {
+      "type": "paragraph",
+      "html": "One final aspect of this comparison needs to be mentioned, namely that World of T emasek is effectively dead as a game. In personal communications with the developers, the author was informed that subsequent changes to the educational curriculum effectively rendered the game irrelevant, ending its usage in schools (pers. comm. with Aroon Tan, 2015). Consequently, there is no funding for its continued development or even technical support, and while the game is still available to be played, the author found that it suffers from serious visual problems on modern hardware. As far as can be determined, the game is not being played.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0048"
+    },
+    {
+      "type": "paragraph",
+      "html": "Indeed, the game’s community forum contains around 100 posts and no further conversations since August 2011 – a strong indication the game never actually had a statistically significant audience. Conversely, Suvarnabhumi Mahayuth lives on. Modding teams are dynamic and fluid, and while the original founder of the mod seems to have disappeared, the mod is being continued by what is effectively a completely new team. New features and enhancements continue to be added in new versions of the mod, and while the mod’s audience is relatively small, with around 29,500 subscribers on Steam and a further 10,000 downloads on ModDB, it is still incomparably more popular than T emasek. This point is not intended as criticism of World of T emasek or its team, whose efforts were curtailed by a change in external circumstances. However, such problems are not uncommon in serious games development; indeed, almost every aspect of the comparison between World of T emasek and Suvarnabhumi Mahayuth could be repeated for King Naresuan Online and Nusantara Online. University and public funding priorities are subject to change, leaving projects stranded in mid-development. From this",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0049"
+    },
+    {
+      "type": "paragraph",
+      "html": "perspective, player-driven modding efforts are potentially more sustainable: unlike a centrally-organized university project, mods tend to be network-based, bringing together multiple actors, all potentially capable of continuing mod development if the currently-recognized mod leaders leave. The author may add, from personal modding experience, that while long-term mod development is naturally as emotionally and physically exhausting as any large-scale game project, the tension associated with financial management is delightfully non-existent. Paradoxically, the absence of a budget means that money is never a problem, and considerable energy otherwise spent on financial concerns can instead be funnelled into creative concerns.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0050"
+    },
+    {
+      "type": "paragraph",
+      "html": "197majewski Questions and Conclusions The comparison between World of T emasek and Suvarnabhumi Mahayuth presented here is a simplification. A deeper comparison would not only examine the cultural content and the gameplay mechanics of both games in far greater detail, but would also investigate the technological limitations imposed on both games. In particular, it must be acknowledged that World of T emasek was developed at a time when lowcost commercial games development was a far more challenging proposition. The industry has changed dramatically in the five years since T emasek’s release, becoming far more open to low-cost and independent game development (Egenfeldt-Nielsen et al. 2015). One example of these changes may be found in Unity, the game engine employed by T emasek. In 2010, this engine was far less well-developed than it is today, in terms of efficiency, feature range, and overall sophistication. An important aspect of the Unity development ecosystem, the Unity Asset Store, was only launched at the end of 2010, and thus could play no part in the development of T emasek. T oday, the Unity Asset Store contains numerous items ranging from",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0051"
+    },
+    {
+      "type": "paragraph",
+      "html": "graphical objects to code packages that integrate specific features into the game engine; the availability of these diverse assets greatly accelerates development, reduces costs, and overall allows developers to do more with the same budget. Simultaneously, other engines, such as Unreal and the CryEngine, have aggressively pushed into low-cost development, with the latter even offering a pay-what-youwant model for its customers (Graft 2016). Newer heritage projects such as Never Alone and Virtual Meanjin (Brett Leavy 2015), both built on Unity, have been able to take advantage of these changes to great effect. Other novelties in games development, such as the advent of crowdfunding, hold the promise to enhance existing possibilities by potentially providing heritage developers with sources of funding alternative to public grants.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0052"
+    },
+    {
+      "type": "paragraph",
+      "html": "In light of these changes, the potential benefits of integrating modding into the development of cultural heritage games should not be understood as a condemnation of serious games development from the ground up, nor as an argument for concentrating on modding as a means of development. Games development is today a far more reasonable proposition even for scholars with their limited grant-based budgets.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0053"
+    },
+    {
+      "type": "paragraph",
+      "html": "Nonetheless, many of the difficulties of games development remain, and a sophisticated heritage project, if it were indeed trying to draw inspiration from Skyrim as suggested by Granström (2013), would inevitably find funding issues to be a painful constraint. Consequently, the possibilities of modding raise a number of questions well worth investigating. Firstly, are there any barriers preventing scholars and heritage practitioners from engaging with modding communities? Could such collaboration provide a tangible benefit in terms of bringing heritage to the public? Certainly, there are procedural difficulties, with many universities now employing very robust ethics policies on any research involving external participants potentially vulnerable to exploitation or harm; where collaborating with a commercial entity is relatively uncomplicated in this sense, the case becomes much different for collaboration with individual (voluntary) modders. A situation where the researcher benefits significantly from the labour of modders without providing them with demonstrably commensurate benefits in return may be viewed as ethically unacceptable. Other difficulties may",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0054"
+    },
+    {
+      "type": "paragraph",
+      "html": "arise from the fact that projects distributed as mods on top of a commercial game in some ways become vehicles for the promotion of the commercial game itself; furthermore, if such a mod were to be displayed as part of a museum exhibit, it may require complex licensing agreements between the museum and the original game’s publisher. In the case of wider distribution of a mod-based project, the need for members of the public to buy a commercial game in order to experience the mod would create an additional step between the public and the heritage experience; this may not always be acceptable to the stakeholders. Another question worth asking is to what degree would modders be open to taking advice from experts?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0055"
+    },
+    {
+      "type": "paragraph",
+      "html": "Given the meritocratic nature of modding communities as discussed by Gee (2013), such collaboration would need to begin with experts simply doing their best to prove themselves useful to the community, and especially learning some of the technical skills involved. Modders have little patience for people who enter the community and immediately seek to impose their views on how the mod should be shaped without at least showing some capacity to perform the technical tasks involved in realizing these views. Heritage experts seeking to establish connections with modders must also recall the truism that first impressions can only be made once, so any mistakes made early on in dealing with the community might require a much more substantial effort to mend later.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0056"
+    },
+    {
+      "type": "paragraph",
+      "html": "Secondly, if such collaboration were possible and fruitful, could it be pushed even further through judicious use of grant monies? For instance, could a researcher at a Southeast Asian institution obtain funding explicitly for the purpose of financing the production of more appropriate and more attractive assets for a mod like Suvarnabhumi Mahayuth? Indeed, would mod integration be a viable outlet for the assets created in more traditional virtual heritage research? The benefits of such collaboration are clear for modders. Given the shortcuts taken with architectural objects in Suvarnabhumi Mahayuth, where many prominent buildings are simply re-textured versions of original objects from Mount &amp; Blade, the mod’s cities could gain a lot in visual quality and authenticity if the traditional Malay architectural objects developed by Ibrahim and Azmi (2013) could be incorporated. Meanwhile, for scholars like Ibrahim and Azmi, the benefit lies in enhanced dissemination, as their virtual reconstructions become accessible to a greater public and potentially in a more effective way. A good example here is the virtual reconstruction of",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0057"
+    },
+    {
+      "type": "paragraph",
+      "html": "Nieszawa, a medieval Polish city (Jaworski 2014), which is currently only presented to the public in the form of a pre-rendered animation. It is easy to imagine this city being implemented in a mod set in medieval Poland, and thus allowing players to interact with the reconstruction more fully. The difference between watching a video and interacting with a game is vast, and arguably is the driving force behind all investigations of game-based heritage, whether in serious or commercial games.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0058"
+    },
+    {
+      "type": "paragraph",
+      "html": "It also seems almost rhetorical to ask whether a heritage game like World of T emasek could grow in depth and scope by providing the possibility of integrating user-generated mods. Collaboration may work in both directions, with academics stepping in to advise on modding projects, but also with academics and developers organizing their own projects in such a way as to invite the attentions of modders.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0059"
+    },
+    {
+      "type": "paragraph",
+      "html": "However, in the latter case, there remain many implications that require serious 199majewski consideration. Foremost among these is the often controversial nature of game mods, which emerge from an often controversial gaming culture (Madigan 2016). One only needs to review a sample of existing Skyrim mods to realize the potential risks: for some modders, cultural content would not be considered as important as the incorporation of more sexually enticing female characters. A proliferation of sexually explicit mods for a heritage project would not only attract negative media attention and reflect badly on the researchers involved, but in the case of projects exploring the heritage of historically repressed groups such as indigenous peoples, could cause greater harm by pushing these groups away from interactive media. As Zimmerman (2007) notes, indigenous groups already have a history of frustrating experiences with heritage scholars and practitioners; considering this history, a project that depicts an indigenous group’s heritage and invites all players to modify it could certainly provide ample opportunities for further frustrations.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0060"
+    },
+    {
+      "type": "paragraph",
+      "html": "Could such problems be managed well enough to ensure that the benefits would ultimately outweigh the risks? The examples of World of T emasek and Suvarnabhumi Mahayuth have angled the discussion towards Southeast Asia. Naturally, scholars in other parts of the world will do well to examine mods that explore their heritage. A British archaeologist might find Brytenwalda and Viking Conquest exceedingly interesting, both as objects to be examined in their own right, and as potential sites of collaboration.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0061"
+    },
+    {
+      "type": "paragraph",
+      "html": "As a Polish scholar, the author finds himself looking at another culture-centric game, Skarb Sobieskiego (Calaris Studios 2013), funded by a local government body with exceedingly poor results, and asking: why try to develop a new game on an abysmally low budget, when the same locations and stories could have been implemented as a mod for an existing game such as Mount &amp; Blade: With Fire &amp; Sword, or indeed even Skyrim?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0062"
+    },
+    {
+      "type": "paragraph",
+      "html": "While this paper has concentrated on the potential financial benefits of collaborative approaches, a deeper investigation of the other aspects of such collaboration may ultimately prove that it is the engagement with the public that is the biggest potential benefit. Modding expands game development beyond the small circle of trained developers, allowing the public and experts from other fields to enter.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0063"
+    },
+    {
+      "type": "paragraph",
+      "html": "One can imagine that some British Brytenwalda modders may have been driven not only by an interest in the broad national cultural heritage, but also more specifically by a desire to virtually recreate parts of their local heritage. Others may have already been engaged in history or historical re-enactment, and sought to transfer their knowledge of the period’s weapons and other artefacts into virtual form. There seems to be no reason why such efforts should not proliferate in the future.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0064"
+    },
+    {
+      "type": "paragraph",
+      "html": "It is also almost certain that some of the modders out there are already heritage scholars or scholars in training: postgraduate students of archaeology, history, or other allied disciplines. Other, younger modders, may choose to study in these fields because the research they engaged in for a historical mod ignites a previously dormant interest. In the author’s personal communications with Csatádi, the creator of Csatádi’s Visual and Historical Mod, he indicated that he had indeed collaborated with heritage scholars on his mods. It seems, however, that such modding efforts are kept separate from scholarly work. There are remarkably few publications where a scholar-modder would discuss the mod they produced in the same way serious game projects are discussed. This paper cannot draw any conclusions on the reasons for this separation, but it certainly must be challenging to justify modding as a scholarly endeavour when there is no awareness of the heritage value inherent in mods that currently exist. For this reason, one important avenue of investigation would be to evaluate particular mods like Brytenwalda, Suvarnabhumi Mahayuth,",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0065"
+    },
+    {
+      "type": "paragraph",
+      "html": "or Viking Conquest – among others – from the perspective of cultural heritage, while also investigating the motivations of the modders involved. A final consideration is that even if scholars and practitioners see no reason to engage with modders for their particular projects, there may still be advantages to a close examination of modding methodologies. Serious game projects could potentially improve in effectiveness by adopting mod-inspired methodologies, and the broader community of heritage-oriented serious game developers could also benefit from mod-inspired collaboration. Co-creation does not necessarily have to be limited to the relations between gamers and game developers: it could and should occur also between scholars. Above all, infrastructural solutions analogous to ModDB could help to resolve some of the fragmentation problems in serious games that Champion (2015) has pointed out.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0066"
+    },
+    {
+      "type": "paragraph",
+      "html": "It is worthwhile to return at this point to Granström’s poignant remark that “where there is will, but not enough money, there is no way” (2013: 34). Is there truly no way? Is it inconceivable that somebody could create a cultural heritage game attaining the quality level of Skyrim? Recently, the German modding team SureAI released Enderal (2016). As a total conversion mod, Enderal creates a completely new fantasy world by re-using Skyrim’s engine, game mechanics, and some graphical assets, while also introducing enormous amounts of new materials.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0067"
+    },
+    {
+      "type": "paragraph",
+      "html": "Enderal’s peculiarity lies in the fact that it is the third in a series of total conversion mods for The Elder Scrolls games developed by the same team. Although the team’s website gives them the appearance of a commercial game studio, team members are in fact volunteers. Given Enderal’s reliance on Skyrim, the only possibility of commercial publication for Enderal would be if its creators were able to persuade the developers of Skyrim, Bethesda Game Studios, to pick up the mod for publication. While such commercialization is not uncommon, in this case there is no evidence that anyone has even attempted to open such discussions. Given the team’s track record of two previous, similar, non-commercial mods for earlier Elder Scrolls games, it seems Enderal is a labour of love, even if its developers do encourage fans to support them with donations.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0068"
+    },
+    {
+      "type": "paragraph",
+      "html": "Enderal appears to be set in a fairly typical, even generic, high fantasy world, and probably has no direct value from a heritage perspective. Nonetheless, its existence ought to arouse academic interest. The possibilities signalled by such ambitious volunteer-driven works are enormous, and absolutely warrant further exploration, but also demand something of a paradigm shift in cultural heritage practice, a move from ‘bringing heritage to the public’ to ‘creating heritage with the public.’",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0069"
+    },
+    {
+      "type": "paragraph",
+      "html": "201majewski",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-66e8b82f-0756-4835-8288-2c9aff68d7f6-0070"
+    },
+    {
       "id": "c656f3c3-b5c1-4d2a-a56f-c5965d4cee77",
       "type": "file",
       "kind": "pdf",

@@ -43,6 +43,84 @@
       "html": ""
     },
     {
+      "type": "paragraph",
+      "html": "This was part of an indiecade 2015 panel entitled ‘why _____ matters’. I filled in my _____ with ‘spambots’. Okay so some of you are probably like- do spambots matter? I mean, really matter? Could there possibly be much use for these things other than pushing the boundaries of invasive advertising into personal inboxes? And, I mean- fair. Despite the occasional moment of stunning generative beauty (like this email I received a few weeks ago) they’re mostly pretty annoying.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0001"
+    },
+    {
+      "type": "paragraph",
+      "html": "Still. Even annoying makes echoes. I would like to make the argument that the proliferation of generative text (inside of spam folders, but also in games, bots in social spaces, subtitled materials, the list goes on) provides a foundational platform for new shifts in human language to occur. As a culture we have learned how to understand and to communicate with these writing machines, even if it is not always a cognizant shift.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0002"
+    },
+    {
+      "type": "paragraph",
+      "html": "To illustrate this point, I have an iphone. And, occasionally, I’ll ask Siri to look up information relevant to my needs. If I were speaking casually, I may have said something like “hey siri! could you look up.. um.. that place.. it was like Thai or something.. maybe a Thai food place? called mountain something?” And she’d respond with this- Which, of course, is a ridiculous example because we /do not/ talk to our devices that way (at least if we are looking for coherent results). Instead, we say “mountain Thai restaurant” or “food mountain” or whatever other brief phrase to encapsulate our knowledge we can come up with, and hope for the best.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0003"
+    },
+    {
+      "type": "paragraph",
+      "html": "text of an email received mid-2015 We speak to them differently. This can be seen across multiple spaces- not just Siri or other service bots, but really with anything programmed that we wish to understand us, especially those that do not process language as we do. I would argue that such learning is not forgotten when we write to one another, when we return to fully human conversations. Rather, we are meeting in a stylistic middlea contemporary lexicon that contains within it all the kernels of of this adapted language with which we communicate with our machines.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0004"
+    },
+    {
+      "type": "paragraph",
+      "html": "I would like to switch tracks and talk about another kind of bot, the twitterbots that first started me thinking about language in this way. Many of you have probably brushed up against these, or even made them. There are countless construction methods (ad-libs methodologies, webspiders seeking interesting material, neural nets, the list goes on) but they’re maybe most ubiquitously known by the ‘ebooks’ format, which uses a markov chain to mash past tweets together in new ways.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0005"
+    },
+    {
+      "type": "paragraph",
+      "html": "Markov chains work by analyzing input text (in this case an entire history of twitter use) and building a grammar tree of probable changes- for example, “the” might usually follow “of”, or “sky” may follow “blue”. These grammars can use big pieces ( like whole sentences) or small ones ( like single letters). Which brings me to my second point- Language can be broken into elementary particles. These fundamental fragments (the word, the letter, the phoneme, the accent) act as building blocks of meaning, constructors that compound into clarity. When working with generative text, one begins to think in this way; language falls apart into grammars or rulesets, just as those grammars may reassemble into new permutations.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0006"
+    },
+    {
+      "type": "paragraph",
+      "html": "There is much to be learned in the practice of working with algorithmic textboth about how bots and systems deal with human speech, and also about how we feel that bots and systems should deal with human speech. We make rules that we think will produce language that is ‘human’ or ‘natural’; and often these fail spectacularly. As is so often the case, some of the most interesting material here rises from human errors replicated quite perfectly by the machines we have handed them to. These best-intention human systems work perfectly by their own rulesets and break by human standards at the same time.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0007"
+    },
+    {
+      "type": "paragraph",
+      "html": "For example, in an effort to keep a source text from flavoring the meaning of a project too heavily, I recently decided that every time there was a very declarative sentiment, I should try to soften the absolutism somehow. “This is” should be “this is perhaps”, etc. I ran some very very simple sentiment analysis over words I manually defined as ‘strongly worded’, with a variety of possible changes for different formats. What it spit back was 100 lines shaped like this: -this is a sea. (or this is not a sea.)",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0008"
+    },
+    {
+      "type": "paragraph",
+      "html": "-there is no answer to this order of reasoning, except to advise a little wider perception, and extension of the too narrow horizon of habitual ideas. (or there is an answer to this order of reasoning.) -but in this well world there is no star to cheer the silver and cold solitude of the immense vacuum. (or there is a star to cheer.) Spambots take this a step farther, because they are not attempting to fool you, the human, of their humanness- instead, they are written to fool a machine (the spam filter) who has been told to make distinctions between human and nonhuman interactions. When set in motion, it is a closed system. We’ve handed this automata our own best guesses, and now they talk to one another.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0009"
+    },
+    {
+      "type": "paragraph",
+      "html": "text from an email in the (amazing) spam archive, which has been collecting spam emails since 1998 A wonder of human language is that even when a phrase is ‘broken’ (syntactically, grammatically, or otherwise) a reader is often still able to parse some meaning out of the text. This process- of finding new meaning out of surprising word juxtaposition, or odd grammatical forms, or strange subject shifts — should not be overlooked.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0010"
+    },
+    {
+      "type": "paragraph",
+      "html": "a page from dom sylvester houedard’s 1967 ‘tantric poems perhaps’ It is a practice fundamental to historical developments in poetry, experimental literature, and speech conventions, and its predecessors can be tied to weird twitter, or magnetic poetry, or ad-libs; but also dada, and the cut-ups movement made popular by William Burroughs, concrete poetry and typewriter art and other forms much older, like the Melitzah- a medieval form of Hebrew literature, in which a mosaic of liturgical fragments are fitted together in new ways to transfer holy meanings to current expression.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0011"
+    },
+    {
+      "type": "paragraph",
+      "html": "And it remains important to the ways in which we deal with contemporary written text on a day to day basis. Our language now is influenced by these algorithms that sound almost human, almost coherent- some small piece of how we communicate in the world is beholden to these new systems that we have (almost) got right. And the almost is important here- the moment of failure, or muddy translation, or attempt to be helpful or informative that falls down- those fissures in in the status-quo have always been where the seeds of new kinds of artistic production and cultural change can send out shoots. The almost matters- spambots and all.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0012"
+    },
+    {
+      "type": "paragraph",
+      "html": "Unlisted",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-59f45414-8af8-4c14-96fd-1b2bb8c74ca9-0013"
+    },
+    {
       "id": "811fbf1b-92f8-4bff-bc0f-b85f118798a1",
       "type": "file",
       "kind": "pdf",

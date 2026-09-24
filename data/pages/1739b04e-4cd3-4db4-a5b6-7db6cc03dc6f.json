@@ -54,6 +54,168 @@
       "html": "~"
     },
     {
+      "type": "paragraph",
+      "html": "Mark J. P. Wolf Mechademia, Volume 1, 2006, pp. 78-85 (Article) Published by University of Minnesota Press For additional information about this article Access provided by Emory University Libraries (17 Aug 2013 10:58 GMT) With the increasing amount of scholarship on video games, one might ask how analyses of video games diff er (or should diff er) from analyses of other media forms. Lacking an organized tradition of game analysis, critics are likely to draw on other disciplines in media studies to make their assessments. Although such methods may be productive to some degree, mediaspecifi c biases will likely also be present. Just as early fi lm theory drew on psychology and literary theory, resulting in analyses centered on character and narrative, video game analyses are in danger of becoming dominated by fi lm theory and other theories currently in use (and in vogue) in media studies. It is useful, then, to consider what areas of overlap do exist between analyses of video games and other media as well as what areas of video game analysis are new and unique.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0001"
+    },
+    {
+      "type": "paragraph",
+      "html": "At present, two excellent essays suggest methodologies for analyzing video games. Lars Konzack (2002) divides game analysis into seven diff erent areas: hardware, program code, functionality, gameplay, meaning, referentiality, and socioculture. Espen Aarseth (2003) looks at diff erent game research perspectives and other typologies that broadly address game analysis. In this chapter, I focus much more narrowly on a single area of video game design: Assessing Interactivity in Video Game Design MARK J. P. WOLF assessing interactivity in video game design 79 that aspect of user participation commonly referred to as interactivity, in which the player’s choices determine the course of the game. As a subject of analysis, this alone could produce enough material for an entire book, so I can begin to sketch out only some of the issues to be considered in this area.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0002"
+    },
+    {
+      "type": "paragraph",
+      "html": "CONTEXT AND CONSTRAINTS Like most aspects of video games (and media in general), interactivity depends on when and where the game appeared. To place a video game into its historical context, one should take into account the hardware, software, and cultural constraints determining what was possible, or at least typical, at the time when the game was made. Such constraints are often intertwined; for example, a whole generation of home games similar to PONG (1972) was produced using the AY-3-8500 chip, which had four video outputs (one for each player, the ball, and the playing fi eld). A diff erent color could have been used for each output, but economic constraints because of competitive pricing kept most systems from using color. As David Winter (2005) explains on his Web site, Th is chip has an interesting feature: the use of several video outputs....",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0003"
+    },
+    {
+      "type": "paragraph",
+      "html": "Th is gives the possibility of using a black and white video signal, as well as using one color for each output. Th us, it could be possible for example to draw the playing fi eld in white with a green background, one player in blue and the other player in red. However, the electronic components allowing this were not cheap at this time, and due to the number of manufacturers of PONG systems, the price was a very important feature that could either result in a success, or a failure. Th is is why most of the systems equipped with the AY-3-8500 used black and white display, sometimes with grayscales (gray background, white playing fi eld and scores, etc.).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0004"
+    },
+    {
+      "type": "paragraph",
+      "html": "Providing historical context can also help one to appreciate the limitations and diffi culties faced by programmers, and the programming feats necessary to accomplish what today appear to be simple games. Th e Atari VCS 2600, for example, which appeared in 1977, had only 128 bytes of RAM (and no disk storage), a graphics clock that ran at roughly 1.2 MHz, and plenty of other programming limitations that had to be overcome with a limited amount of code, since early cartridges had only 2 or 4 kilobytes of ROM.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0005"
+    },
+    {
+      "type": "paragraph",
+      "html": "(Th ese and other programming constraints are described in detail on pages",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0006"
+    },
+    {
+      "type": "subheader",
+      "html": "80 mark j. p. wolf",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0007"
+    },
+    {
+      "type": "paragraph",
+      "html": "54–56 of Wolf 2003.) For any system, knowing the amounts of memory used (whether RAM, ROM, or disk space), the processor speed, the kinds of input and output devices available, and the software capabilities (including the functions possible within the coding language used) helps show whether a game was making maximum use of the resources available and how it compared with other games of its day, so that its value can be appreciated. Th e cultural constraints of a particular time period, which are much harder to defi ne and measure, determine what was considered acceptable to players at the time and are also an infl uence on game design. For example, the controls of the fi rst arcade game, Computer Space (1971), were considered confusing at the time, whereas today they would be intuitively understood by today’s players who are familiar with a broad range of game conventions established over the last three decades. In this sense, the design of a game’s interactivity can rely on player expectations and experience, sometimes infl uencing (or limiting) the design even more than technological constraints.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0008"
+    },
+    {
+      "type": "paragraph",
+      "html": "INTERACTIVE DESIGN CONSIDERATIONS Once the game analysis is framed in a historical context, one can begin looking at the structure of the interactivity itself. To compare interactive structures, we can fi rst consider mapping how a player’s decisions are related. Th e smallest unit of interactivity is the choice, which consists of two or more options from which the player chooses. Choices are made in time, which gives us a two-dimensional grid of interactivity that can be drawn for any game.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0009"
+    },
+    {
+      "type": "paragraph",
+      "html": "First, in the horizontal direction, we have the number of simultaneous (parallel) options that constitute the choice that a player is confronted with at any given moment. Second, in the vertical direction, we have the number of sequential (serial) choices made by a player over time until the end of the game. Obviously, the player’s choices will alter the options and choices available later in the game in both of these dimensions, and in most cases a game’s complete grid would be enormous. Even board games like chess and checkers have huge trees of moves that have never been mapped in their entirety. But one does not need to map the entire tree of a game to get an overall sense of how its interactivity is structured.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0010"
+    },
+    {
+      "type": "paragraph",
+      "html": "A game’s replayability often depends on its having a good number of options and choices, in at least one of the two dimensions mentioned above. Simple action games, for example, have large grids along the vertical dimension, while the number of options off ered simultaneously may be small (at assessing interactivity in video game design 81 any given moment in Space Invaders [1978], the player has only four options: move left, move right, fi re, or wait [do nothing]). Puzzle games, on the other hand, may have a wide variety of options open at any given moment, but need only a few dozen correct choices to be made for the game to be won.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0011"
+    },
+    {
+      "type": "paragraph",
+      "html": "Th e speed at which options must be considered and choices made is also crucial to examining a game’s interactive structure. Action games have a nearcontinuous stream of choices for the player, who may be in constant motion battling opponents while avoiding danger. Although the serial choices are made one after another so quickly that they appear to be continuous, they are in fact still made in discrete fashion because of the nature of the computer clock that regulates the game (and the number of choices made per second can depend on clock speed). In the genre of interactive movies, a player’s choices are often spread out in time with video clips, sometimes as long as several minutes each, coming in between the moments during which a player must make a choice. Some games that involve navigation or the solving of puzzles may accept a fast series of choices to be input (e.g., a player moving through a location quickly) but at the same time not require quick decisions.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0012"
+    },
+    {
+      "type": "paragraph",
+      "html": "Th e time pressure under which a player must play determines whether the player’s choices are made as a result of refl ex action or refl ection (at least during the initial playing; in fast-action games, more refl ection can occur on subsequent playing once the player knows what to expect). Games requiring both refl ection and refl ex action may also increase their replayability, since players will need more playing experience and a foreknowledge of what they are facing in order to make the right choices at a fast enough rate. Even in some early arcade games and Atari 2600 games (like Activision’s Stampede [1981], which features a horizontally scrolling track of cattle to be roped), a player always encountered the same scenarios or patterns of opponents, so that it was possible to memorize where they would appear next and anticipate their presence; indeed, at higher speeds, this would be the only way to keep from getting defeated. Whether the game conditions include a series of events or character positions that diff er from one playing to the next should also be considered in the analysis of a game, since that af-",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0013"
+    },
+    {
+      "type": "paragraph",
+      "html": "fects how prior knowledge of a game changes gameplay. in some early arcade games a player always encountered the same scenarios or patterns of opponents, so that it was possible to memorize where they would appear next and anticipate their presence; indeed, at higher speeds, this would be the only way to keep from getting defeated.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0014"
+    },
+    {
+      "type": "subheader",
+      "html": "82 mark j. p. wolf",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0015"
+    },
+    {
+      "type": "paragraph",
+      "html": "Prior knowledge, gained from multiple playings, may also be crucial if some of the choices available to the player at a given time are hidden. Th e options that are included in a choice can occur anywhere on a spectrum from apparent or obvious ones to options completely unknown to the player. Certain navigational paths, such as roadways, indicate an obvious course of action, while hidden doorways, chambers, or objects may require thorough searches to be found, or even an elaborate sequence of actions that the player is unlikely to perform inadvertently and must learn from the game or some outside source. Such inside knowledge encourages players by rewarding them for their eff orts and invites them to search further. Th e intentionally hidden Easter eggs and unintentional bugs found in games also may add to a gaming experience as a player fi nds them and learns to exploit them (or becomes frustrated by them). Such hidden features add to a game’s replayability, as well as the playing of a game not to win or complete an objective but rather to explore the game’s world and how the game functions.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0016"
+    },
+    {
+      "type": "paragraph",
+      "html": "Th e above discussion of the timing given for the making of choices suggests that several layers of choices can be present at diff erent scales. Some fast-action refl ex decisions, like those in a fi ght or shoot-out, are made instantly and are determined by other, more large-scale choices that the player considers and executes over a longer period of time, such as where to go or what strategy to use. Some choices aff ecting all aspects of a game may even be made before the gameplay itself begins (e.g., in some adventure games, the choosing of an avatar and that avatar’s various attributes). Depending on the speed of the action, a player may need to engage in short-term and long-term decision making almost simultaneously, as the player switches back and forth between diff erent objectives (e.g., fending off attackers, fi nding certain treasures or supplies, and managing health levels), all while navigating through locations and gaining information that may be needed for larger decisions which determine the game’s narrative direction.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0017"
+    },
+    {
+      "type": "paragraph",
+      "html": "Th is leads to the next important area in analyzing the player’s choices: what are the consequences of the choices made? Some choices may be trivial and have little or no consequences (e.g., wandering in a well-known area where there are no dangers, without any time pressure), while others may determine whether the game ends immediately (e.g., when a player’s character In many fast-action games, the majority of choices are made to keep the playercharacter from getting killed, including the dodging of projectiles and the evading or killing of attackers and opponents.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0018"
+    },
+    {
+      "type": "paragraph",
+      "html": "assessing interactivity in video game design 83 gets killed). Looking at the game’s interactive structure, then, each choice can be considered for its importance (what are the consequences of the choice made?), its diffi culty (fending off attackers rather than letting them kill you is an easy choice to make, whereas deciding what to do to get into a locked room or which character to trust may be much more diffi cult to decide), and the amount of time given for the player to decide (refl ex action versus refl ection, and how much time for refl ection). One could also consider how much information the player is given on which to base a choice, and sometimes only in retrospect does the player realize whether all of the available pertinent information was collected or even recognized.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0019"
+    },
+    {
+      "type": "paragraph",
+      "html": "Th e importance of consequences also depends on the irreversibility of the actions that caused them. After a choice is made, can whatever has been done be undone, and can the game return to the same state as it was before the choice was made? Irreversibility may play a greater role in more narrative-based games or games involving strategy, where a tree of moves leading to win-loss scenarios is navigated, making a return to a previous game state more unlikely or diffi cult. Many turn-based games, like adaptations of board games, may feature an “undo” command similar to what one might fi nd in utility-based software, and others, like the games of the Blinx series, even allow the player to “rewind” action sequences and go back in time, allowing for more exploration and experimentation even into situations harmful to the player-character.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0020"
+    },
+    {
+      "type": "paragraph",
+      "html": "Every arcade game, console-based game, and cartridge-based game can of course be restarted and replayed from its beginning, returning the game to its initial state. Th is, however, is not true of large-scale networked games (massively multiplayer online role-playing games, or MMORPGs), which contain persistent worlds with thousands of players. Th e ongoing nature of these games and their continually developing worlds make the consequences of players’ actions much more long lasting, and the time and money invested in them raise the stakes of play and the seriousness of player termination. Many MMORPGs have areas that do not allow player-characters to be killed, and the acquisition of experience and game-world objects and abilities, as well as the building of virtual communities within the game’s world, are pursued as long-term objectives stretching over months or even years. Th e irreversibility of players’ actions and their consequences weighs heavily in considering the choices faced by the MMORPG player.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0021"
+    },
+    {
+      "type": "paragraph",
+      "html": "Finally, an analysis of a game’s interactivity would have to include a look at the motivation and the basis by which choices are made within a game. What are the game’s objectives and how are they linked to the choices that",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0022"
+    },
+    {
+      "type": "subheader",
+      "html": "84 mark j. p. wolf",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0023"
+    },
+    {
+      "type": "paragraph",
+      "html": "the player is asked to make? And which options within choices are considered to be the correct ones, and why? In many fast-action games, the majority of choices are made to keep the player-character from getting killed, including the dodging of projectiles and the evading or killing of attackers and opponents. Th e motivation behind the decision making required in a game can be complex and hierarchical, as the player must complete a number of smaller objectives in order to complete other larger ones. Sometimes this can result in actions that appear to run counter to the larger objectives of which they are a part (e.g., killing large numbers of people and destroying property in order to save the world). In almost all cases, the overall motivation behind gameplay is the completion or mastery of the game, either by solving all its puzzles, or by having the highest score or fastest time, or by seeing all the possible endings and outcomes. In short, the player’s goal is to exhaust all the challenges the game has to off er.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0024"
+    },
+    {
+      "type": "paragraph",
+      "html": "THE OVERALL INTERACTIVE EXPERIENCE Th e structure of a game’s interactivity and the nature of the choices that make it up are at the heart of the gaming experience and the subjective assessment as to whether a game is considered fun. Games that are too easy may bore a player, while games that are too diffi cult may cause the player to give up in frustration. Th e network of choices within a game should be confi gured so that each time the player plays there is enough incremental advancement toward an objective to keep the player moving along the learning curve, yet just slow enough to keep the game interesting. While things like cheat codes and walk-throughs are often viewed negatively, since they destroy the puzzle-solving experience or allow players to skip over certain problem areas of a game, they may also be seen as correctives allowing players to stay in a game that would have otherwise frustrated them to the point at which they would have left the game altogether. As players vary greatly in their skill levels, problem-solving abilities, hand-eye coordination, and amount of patience, games must either contain a variable level of dif-",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0025"
+    },
+    {
+      "type": "paragraph",
+      "html": "fi culty or have carefully designed puzzles and interactivity that balance the advances and obstacles that players encounter in a game. Th is balance then becomes a part of the construction of a generalized player position, in much the same way that cinematic imagery constructs a generalized viewer position, for example, with a default point of view that matches what a person of average height might experience.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0026"
+    },
+    {
+      "type": "paragraph",
+      "html": "assessing interactivity in video game design 85 An awareness of the generalized player position being constructed is necessary for game analysis, and it is interesting to consider how this position changes from game to game, or in general over time as video game technology develops and video game conventions develop (a detailed analysis of player positioning, however, is beyond the scope of this chapter). Whatever the genre, time period, or style of game one considers, the structure of a game’s interactivity determines much of the game’s experience and should be an important part of scholarly video game analysis.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-1739b04e-4cd3-4db4-a5b6-7db6cc03dc6f-0027"
+    },
+    {
       "id": "9b3e2a32-5e5d-4824-b291-303f887c0181",
       "type": "file",
       "kind": "pdf",

@@ -43,6 +43,330 @@
       "html": ""
     },
     {
+      "type": "paragraph",
+      "html": "Max Kreminski and Michael Mateas University of California, Santa Cruz, Santa Cruz CA 95060, USA {mkremins,mmateas}@ucsc.edu Abstract. Interactive narrative systems are often embedded in games: works of playable media that enable players to participate in or experience a story through game mechanics. But play practices directed toward the expressive creation of story seem to challenge a games-centric understanding of narrative play. Consequently, we propose that some interactive narrative systems can be better understood as a different form of playable media: narrative instruments, analogous to musical instruments in their provision of support for authorship-oriented forms of play.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0001"
+    },
+    {
+      "type": "paragraph",
+      "html": "Keywords: Emergent narrative · Retellings · IDN theory.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0002"
+    },
+    {
+      "type": "subheader",
+      "html": "1 Narrative Instruments",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0003"
+    },
+    {
+      "type": "paragraph",
+      "html": "Recently, several parallel developments in the study of interactive emergent narrative (IEN) games have suggested that some players view these games primarily as expressive tools for the creation of new stories [15], rather than as devices for experiencing or participating in a partly pre-authored story or “multiform plot” [22, p. 347]. The study of retellings [7], or player-created stories about gameplay experiences, has highlighted play practices in which players make use of IEN games as tools for expressive story-making, while extensively embellishing the resulting stories by adding detail not modeled by the game itself [14, 21] or even ironically commenting on the flaws or limitations of the game as a storytelling tool within the resulting retellings [33]. Ryan’s work on simulationdriven IEN [26] has drawn a distinction between emergent narrative (a particular telling or representation of a series of game events) and the raw narrative material produced by simulation directly, which is only transformed into narrative by a process of curation—often undertaken by the player. And several recent",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0004"
+    },
+    {
+      "type": "paragraph",
+      "html": "IEN play experiences [29, 11–13] have been explicitly designed with the goal of supporting player storytelling practices. In light of these developments, new design perspectives may be warranted to help us create IEN play experiences that prioritize the use of IEN systems for player storytelling. To this end, we propose that some IEN systems may be better viewed not quite as narrative games but as another form of playable narrative media, namely as narrative instruments. Like musical instruments, narrative instruments require a player to operate them; afford certain expressive possibilities through their design while discouraging others; may be played more virtuosically by more practiced players; may be played solely for the player’s own",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0005"
+    },
+    {
+      "type": "subheader",
+      "html": "2 Max Kreminski and Michael Mateas",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0006"
+    },
+    {
+      "type": "paragraph",
+      "html": "enjoyment, or for a wider audience; are often played as part of a larger ensemble, in concert with other instruments; and may be modified or creatively misused by their players to achieve novel or unexpected effects. Why instruments? We take inspiration in the use of this analogy from several other scholars who have tried to characterize what makes instruments special— distinguishing them from tools on one side and from toys on the other. Writing in the context of creativity support tools [31], or computational tools intended to support human creative practices, Nakakoji [23] contends that some creativity support systems may be better characterized as instruments. For Nakakoji, a creativity support system may be more of an instrument than a tool if it is often used playfully and if its designers prioritize the creation of a particular user experience over maximal efficiency. Tanaka [34] further unpacks the distinction between instruments and tools, suggesting that musical instruments succeed not by maximizing the efficiency of musical creation, but by contributing a particular desirable “personality” or “voice” to the music they are used to create:",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0007"
+    },
+    {
+      "type": "paragraph",
+      "html": "The term tool implies that an apparatus takes on a specific task, utilitarian in nature, carried out in an efficient manner. A tool can be improved to be more efficient, can take on new features to help in realizing its task, and can even take on other, new tasks not part of the original design specification. In the ideal case, a tool expands the limits of what it can do. It should be easy to use, and be accessible to a wide range of naive users. Limitations or defaults are seen as aspects that can be improved upon.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0008"
+    },
+    {
+      "type": "paragraph",
+      "html": "A musical instrument’s raison-d’etre, on the other hand, is not at all utilitarian. It is not meant to carry out a single well defined task in the way that a tool is. Instead, a musical instrument often changes context, withstanding changes of musical style played on it while maintaining its identity. A tool gets better as it attains perfection in realizing its tasks.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0009"
+    },
+    {
+      "type": "paragraph",
+      "html": "The evolution of an instrument is less driven by practical concerns, and is motivated instead by the quality of sound the instrument produces. In this regard, it is not so necessary for an instrument to be perfect as much as it is important for it to display distinguishing characteristics, or “personality”. What might be considered imperfections or limitations from the perspective of tool design often contribute to a “voice” of a musical instrument.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0010"
+    },
+    {
+      "type": "paragraph",
+      "html": "This argument for instruments as succeeding or failing on the basis of the characteristic voice they provide may help to explain why games that exhibit strong, recurring narrative texture across multiple playthroughs—such as the recurring “gradual rise followed by sudden precipitous decline” arc of many Dwarf Fortress stories—do not disqualify these games from use by players as storymaking tools. What might be a weakness from a perspective that privileges a tool’s generality—the way that these stories bend characteristically toward disaster—may actually represent a key desirable attribute of Dwarf Fortress as an instrument. From the narrative instruments perspective, the perceptibility of Toward Narrative Instruments 3 an instrument’s grain in the stories that it is used to create marks not a failure of generality, but a success of voice.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0011"
+    },
+    {
+      "type": "paragraph",
+      "html": "Moreover, Wardrip-Fruin has written extensively about the instrument metaphor in the context of what he calls textual instruments [36]: playable “systems for language to inhabit” that facilitate textual performance by a human operator, who uses these systems to arrange and rearrange text in expressive and playful ways.1 Wardrip-Fruin finds it useful to distinguish instruments not just from games, but also from the less rules-oriented form of playable media known as toys. For Wardrip-Fruin, the key distinguishing feature of instruments is that they “seek a lyric engagement”—they invite expressive use, and are meant to be used for expression first and foremost. It is here that instruments cease to resemble toys, which might or might not be used for expressive purposes—whereas if you pick up an instrument, the odds are good that you have some sort of expressive use in mind.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0012"
+    },
+    {
+      "type": "paragraph",
+      "html": "For the remainder of this paper, we will position our definition of instruments between Tanaka’s and Wardrip-Fruin’s. We argue that both a characteristic voice and a primarily lyric mode of engagement are key distinguishing features of instruments as playable media. We do not intend to assert that narrative instruments must necessarily be used for live performance, nor do we intend to assert that narrative instrument play must be targeted at an audience other than the players themselves—indeed, musical instruments themselves need not be played in live performance or for an audience. However, we do hope that the term “instrument” carries some of the connotations of how musical instruments are used socially: for instance, that learning to play an instrument may take some time; that instrument-play may be a deeply skilled and socially valued activity; that instruments are often played alongside other instruments; and that instruments are often modified by their players with specific expressive goals in mind.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0013"
+    },
+    {
+      "type": "subheader",
+      "html": "2 Case Studies",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0014"
+    },
+    {
+      "type": "paragraph",
+      "html": "To explore the implications of treating IEN systems as narrative instruments, consider the following brief case studies of narrative instruments in action.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0015"
+    },
+    {
+      "type": "subheader",
+      "html": "2.1 Bad News",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0016"
+    },
+    {
+      "type": "paragraph",
+      "html": "Bad News [30] is a computationally supported immersive theater experience that involves two highly-trained human performers (an “actor” and a “wizard”) and a third untrained participant. The participant is tasked with entering a fictional small American town generated by the Talk of the Town simulation engine [27], locating the next of kin of a simulated character who has recently died, and informing them of the bad news. As the participant makes their way through",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0017"
+    },
+    {
+      "type": "subheader",
+      "html": "1 Though the systems Wardrip-Fruin highlights here are textual, they are not narra-",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0018"
+    },
+    {
+      "type": "paragraph",
+      "html": "tive; therefore we depart from his term in attempting to characterize the class of instrumental playable systems that produce narrative structure as narrative, rather than textual, instruments.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0019"
+    },
+    {
+      "type": "subheader",
+      "html": "4 Max Kreminski and Michael Mateas",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0020"
+    },
+    {
+      "type": "paragraph",
+      "html": "the simulated world, they may speak to any of the simulated characters they encounter; during a conversation with the participant, these characters are embodied by the actor, who improvises a personality and dialogue for each character based on the character’s role and traits within the simulation. During conversation, the wizard provides the actor with a live feed of relevant information about the identity of the character they are playing and the state of the simulated storyworld—including the network of social relationships and the history of the town’s development—with the goal of subtly directing the participant toward discovery of narratively charged situations currently active within the town.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0021"
+    },
+    {
+      "type": "paragraph",
+      "html": "The Bad News performers make use of at least three distinct narrative instruments: the Talk of the Town simulation, which is run at the start of a performance to generate the storyworld in which the performance will take place; the “wizard console”, a command line-based sifting tool used to investigate the storyworld, operated backstage by the wizard during a performance; and the actor interface operated by the actor, which allows them to quickly access information about the character they are currently playing and chat with the wizard to request additional information as needed. These instruments were designed to be played in concert, and each has a crucial role in enabling Bad News to be performed.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0022"
+    },
+    {
+      "type": "paragraph",
+      "html": "The importance of the wizard in this performance context stems from the fact that leaving a simulation to run (regardless of the simulation’s narrative potency) does not in and of itself produce compelling narrative directly. Instead, some agent—often a human, as in the case of Bad News —is required to sift through the storyworld state to surface and narrativize the interesting situations that emerge. Since improvisationally performing as a character based on a relatively limited amount of background information requires the actor’s full attention, the wizard is needed to perform this narrativization function. This division of labor suggests that a wide variety of new narrative authorship play experiences may be enabled by a willingness to examine and divide up the tasks that existing tabletop roleplaying games (for instance) tend to bundle up within a single player role. Additionally, it is interesting to examine theBad News performance team as something like a touring narrative band. Due to the high degree of skill involved in performing the actor and wizard roles, almost all past performances of Bad",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0023"
+    },
+    {
+      "type": "paragraph",
+      "html": "News have featured the same two highly-trained individuals (Ben Samuel and James Ryan) in the actor and wizard roles respectively. This performance crew has traveled the world to perform Bad News at a diverse array of venues, and they have become renowned, virtuosic operators of their narrative instruments in the process.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0024"
+    },
+    {
+      "type": "subheader",
+      "html": "2.2 Dwarf Fortress",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0025"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dwarf Fortress [2] offers several distinct narrative instruments—namely the world simulation, Fortress Mode, and Adventurer Mode—packaged within a single piece of software. Each of these instruments presents the player with different story-making affordances: the world simulation can be run for variable lengths of time to produce worlds with different depths of backstory as narrative starting points, while the Fortress and Adventurer mode allow the player to take up Toward Narrative Instruments 5 different roles in guiding the narrative evolution of an already-generated world.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0026"
+    },
+    {
+      "type": "paragraph",
+      "html": "The popular third-party tool Legends Viewer [16] is another narrative instrument with different affordances again, intended to be played in concert with the first three; some players use Legends Viewer to sift stories from worlds generated in a totally nonineractive context, while others use it to get additional perspective on a world in which they have actively interfered. Dwarf Grandpa [8] is a sort of narrative effects pedal for Legends Viewer: an add-on that shapes its affordances to aid in the creation of stories with a particular tone, centered on the doings of certain sorts of vampires. And of course, players who intend to construct retellings can also make use of conventional text, image, audio and video capture and editing tools to stitch their stories together. Dwarf Fortress has attracted a number of virtuosic retellers, many of whom employ elaborate assemblages of narrative instruments to do their work: Kruggsmash uses a wide variety of instruments (including mods, custom tilesets, drawing tools, and video editing software) to produce his video retellings [17]; Tim Denee used a different",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0027"
+    },
+    {
+      "type": "paragraph",
+      "html": "set of instruments to produce his Dwarf Fortress comics [5, 6]; and the lengthy episodic multimedia Dwarf Fortress retelling Matul Remrit [32] was produced by a sort of four-person narrative jam band that made use of many different narrative instruments in concert to weave an elaborate story through text, screenshots, video, and audio.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0028"
+    },
+    {
+      "type": "subheader",
+      "html": "2.3 Blaseball",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0029"
+    },
+    {
+      "type": "paragraph",
+      "html": "Blaseball [35] is a live narrative idlegame driven by a simulation of a surrealist fantasy baseball league. Uncommonly for an emergent narrative game, Blaseball provides a single simulation instance that is shared between all players, rather than spinning up a new simulation instance for each game or playthrough. Every week of real time represents a single “season” of storyworld time, with a season consisting of approximately 1000 simulated baseball games between different pairs of teams. Characters in the storyworld are procedurally generated baseball players, frequently with humorous names (e.g., “Jessica Telephone”, “Gerund Pantheocide”), and have a mix of visible and hidden numerical “stats” that run the gamut from the practical (e.g., “baserunning”) to the absurd (e.g., “Shakespearianism”). The simulation juxtaposes typical baseball game events (like a simulated baseball player scoring a run or striking out) with much stranger events (such as players being incinerated by “rogue umpires”, swapped to the opposing team mid-game due to “weather conditions”, or trapped in giant peanut shells).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0030"
+    },
+    {
+      "type": "paragraph",
+      "html": "Additionally, members of the game’s fan community are given the chance to earn virtual money by betting on the outcomes of simulated games, which they can then spend to increase the likelihood that their favored team will receive certain “blessings” at the start of the next season; to temporarily change the rules of baseball as they apply to specific simulated teams; or to pursue various kinds of collective community progression in the game’s overarching metanarrative.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0031"
+    },
+    {
+      "type": "paragraph",
+      "html": "The blessings and metanarrative options available in the end-of-season election, as well as some scripted metanarrative event sequences, are crafted in nearrealtime by the game’s developers, and influenced heavily by the stories that",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0032"
+    },
+    {
+      "type": "subheader",
+      "html": "6 Max Kreminski and Michael Mateas",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0033"
+    },
+    {
+      "type": "paragraph",
+      "html": "fans have woven around the various simulated characters. These user-created stories, meanwhile, often extrapolate dramatically from the information actually modeled in the simulated storyworld. Familial, romantic, friendship, rivalry, and other significant relationships between characters (for instance) make no appearance in the simulation mechanics, but have been documented in extensive and remarkably consistent detail by the fan community, for instance via the Players pages [3] on the fan-maintained Blaseball Wiki.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0034"
+    },
+    {
+      "type": "paragraph",
+      "html": "At the heart of this communal improvisatory process, the Blaseball simulation functions as the narrative equivalent of a programmable drum machine, providing a repetitive but time-varying narrative backbone that is occasionally adjusted by the game’s developers as they introduce new systems and units of content to the ongoing simulation. The Blaseball fan community structures their narrative improvisations around this backbone, using it to achieve a degree of coordination between a large number of narrative co-constructors operating in a largely decentralized and bottom-up fashion. This coordination, while apparently successful overall, also has its limits; as the Blaseball fanbase has grown, some prominent Blaseball fans who have taken active roles in the communal construction of narrative have noted that the sheer number of co-authors has resulted in a diminished sense of individual ability to meaningfully contribute to the shared narrative consensus.2 With too many improvisers in the same band, it becomes impossible to avoid accidentally contradicting another’s improvisations, and the overall result begins to sound less like music and more like cacophony.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0035"
+    },
+    {
+      "type": "paragraph",
+      "html": "Promoting the creation of a larger number of smaller bands, each with their own narrative drum machines, might be a design goal worth pursuing for narrative instrument designers going forward.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0036"
+    },
+    {
+      "type": "subheader",
+      "html": "2.4 T abletop Roleplaying Groups",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0037"
+    },
+    {
+      "type": "paragraph",
+      "html": "Tabletop roleplaying groups are often skilled in the appropriation of systems as narrative instruments. Many groups are prone to modifying officially published rulesets and books of material through house-ruling; building up custom rulesets through bricolage, or accumulation of favorite rules, subsystems, and content from a variety of different roleplaying systems; and sometimes even designing their own systems to flesh out the aspects of the collaboratively constructed narrative that they would like to explore further. Additionally, they may make use of story-making games likeMicroscope [25], The Quiet Year [1], or the Engine of the Ages system in The Book of Ages [28] as worldbuilding tools in a larger story-making pipeline [9]; for instance, a tabletop roleplaying group in which one of the authors is a participant has made extensive use of these games to establish setting and background for later exploration via more conventional characteroriented roleplaying systems. These processes could also be augmented by the use of digital tools like Imaginarium [10] to define and use new, simple constraint-",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0038"
+    },
+    {
+      "type": "paragraph",
+      "html": "based procedural content generators (for things like encounters with enemies,",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0039"
+    },
+    {
+      "type": "subheader",
+      "html": "2 As related to us by Cat Manning, a high-profile member of the Blaseball fan commu-",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0040"
+    },
+    {
+      "type": "paragraph",
+      "html": "nity who has also worked together with theBlaseball team on systemic and narrative design directions for the game. Toward Narrative Instruments 7 NPCs, and so on) as the course of the story demands. In this way, tabletop roleplaying groups focused on storytelling may serve as natural testing grounds for new kinds of narrative instruments. TTRPG groups can perhaps be viewed as the narrative equivalent of garage bands: their members gather to co-construct narrative on an ongoing basis largely due to enjoyment of the process, but they may occasionally produce narrative artifacts that are suitable for consumption by a wider audience.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0041"
+    },
+    {
+      "type": "paragraph",
+      "html": "In addition, the importance of a characteristic voice to the success or failure of an instrument may help to explain why later and more restricted storymaking tabletop games (such as Fiasco [4], Microscope, and The Quiet Year ) have proven more successful as narrative instruments than the apparently more general story-making tools presented by games like the earlier Universalis [19].",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0042"
+    },
+    {
+      "type": "paragraph",
+      "html": "In its aspirations to generality, Universalis attempts to avoid fixing any part of the storyworld or narrative structure in place, instead leaving everything up to the players—in sharp contrast to later systems, which all impart a certain distinctive texture on the stories they are used to construct.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0043"
+    },
+    {
+      "type": "subheader",
+      "html": "3 Discussion and Conclusion",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0044"
+    },
+    {
+      "type": "paragraph",
+      "html": "All of these case studies demonstrate the active use of IEN systems by players with the explicit goal of crafting stories: in other words, the use of IEN systems as narrative instruments. In the context of Louchart and Aylett’s taxonomy of user roles in emergent narrative [18], the systems with which we are concerned primarily position the user as an author of narrative, rather than a spectator or participant.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0045"
+    },
+    {
+      "type": "paragraph",
+      "html": "From a narrative instruments perspective, non-interactive emergent narrative systems that position the user as a spectator (such as non-interactive story generators like Tale-Spin [20]) resemble the narrative equivalent of windchimes: they produce a kind of pretty but uncomplicated ambient background narrativity that fades in and out of the spectator’s awareness, with most generated stories or events failing to arouse much interest because of their great similarity to one another. These narrative generation systems are at an inherent disadvantage due to their need to compete for attention with stories that a human author had some role in crafting; unlike participatory or authorship-focused emergent narrative experiences, they can’t easily trade on the interactor’s sense of involvement to make the stories they produce seem special. Nevertheless, low-stakes ambient narrativity is worth exploring further, especially in concert with other forms of narrativity that may demand or benefit from more active player involvement.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0046"
+    },
+    {
+      "type": "paragraph",
+      "html": "The play-pleasures of participatory IEN are more like the pleasures of going to a concert. At the lower end of involvement, you might listen more or less passively. But you might also dance, mosh, headbang, or otherwise move along with the music; sing along with familiar lyrics; participate in call-and-response rituals led by the band; call for the performance of specific songs from the band’s own back catalog, or for covers of songs by other bands; capture images or video of key moments in the show, as a sharable souvenir; exchange shouted dialogue",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0047"
+    },
+    {
+      "type": "subheader",
+      "html": "8 Max Kreminski and Michael Mateas",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0048"
+    },
+    {
+      "type": "paragraph",
+      "html": "with the band members between songs; or generally “vibe with” the band in a wide variety of ways. The band, in turn, rarely ignores the audience completely: instead, they pay attention to the energy of the crowd, allowing it to bleed into the music in various ways, and engage with the audience in ways that foster a sense of involvement or participation without ceding the stage entirely.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0049"
+    },
+    {
+      "type": "paragraph",
+      "html": "And then there are the play-pleasures of authorship, which are most closely analogous to the play-pleasures of making music yourself. It is here that we want to particularly focus our attention. Both spectatorship and participation have formed the groundwork for a number of compelling emergent narrative experiences—but what we are most interested in is exposing more people to the joys of making narrative, and in expanding the set of instruments available for casual narrative play. Existing story-making tabletop games have begun to map out the contours of this design space, but the prominence and growth of IENdriven retelling practices also indicates player demand for narrative instruments that leverage digital computation to provide forms of creativity support that would not be possible or feasible without it.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0050"
+    },
+    {
+      "type": "paragraph",
+      "html": "The narrative instruments framing perhaps helps to clarify why participation tends to bleed into spectatorship at one end of the involvement spectrum and into authorship at the other. Some bands are much more interactive or responsive toward the audience than others, and in extreme cases a band may either ignore the audience completely (leading to an experience that resembles spectatorship) or permit the audience to play a significant role in determining the tone and flow of the concert (leading to an experience that resembles authorship). Moreover, nothing can stop a sufficiently dedicated member of the narrative avant-garde from grabbing a set of narrative windchimes and operating them in some unexpected way, leveraging a system designed for spectatorship as an unlikely narrative instrument to produce an experience of authorship for themselves. But narrative instruments, like musical instruments, are nevertheless designed to be used in certain ways—and the design of narrative instruments to afford novel forms of narrative expression has as many nuances and complexities as the design of musical instruments to afford novel forms of musical expression.3",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0051"
+    },
+    {
+      "type": "paragraph",
+      "html": "More broadly, we find the idea of narrative instruments compelling. As an explanatory framework, it helps us make sense of several recent IEN projects that challenge our traditional design categories, but that nevertheless seem to be compelling to players. As a design metaphor, it suggests future directions for the development of new IEN systems. And as a provocative genre label, it centers play practices and experiences that had previously been treated as marginal in interactive narrative research communities. Altogether, we believe that the creation of narrative instruments represents an ambitious new potential goal for our research community—one that we are excited to develop further.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0052"
+    },
+    {
+      "type": "subheader",
+      "html": "3 In fact, there exists an entire academic conference—New Interfaces for Musical Ex-",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0053"
+    },
+    {
+      "type": "paragraph",
+      "html": "pression (NIME)—dedicated to the development of experiential new musical instruments. Parrish’s New Interfaces for Textual Expression project [24] extends the NIME ethos to the development of textual instruments, much like those called for by Wardrip-Fruin in his own writing on the subject. Toward Narrative Instruments 9",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-ccef3cec-f8f0-4c69-aca9-f84bf3f351ba-0054"
+    },
+    {
       "id": "375b24cf-bc0c-4c98-9878-dab8d7a6a3b8",
       "type": "file",
       "kind": "pdf",

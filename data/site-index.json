@@ -1066,19 +1066,9 @@
       "title": "Shortform Writing"
     },
     {
-      "id": "2b9dc0d1-2d66-4aeb-b050-fb9835b1338a",
-      "slug": "quotes",
-      "title": "Quotes"
-    },
-    {
       "id": "da0f6a33-7bc6-4708-9bf2-ad2d25c64734",
       "slug": "audio-visual-content",
       "title": "Video+Audio"
-    },
-    {
-      "id": "292fe1df-a5bd-4b49-97aa-f336bf0ac103",
-      "slug": "folks-292fe1df",
-      "title": "Folks"
     },
     {
       "id": "549e6748-f2f1-4f8d-9243-68d0b9f00343",
@@ -1087,13 +1077,28 @@
     },
     {
       "id": "7070e92d-6389-4c6c-88f2-0b38bc3d8e3a",
-      "slug": "other-media",
-      "title": "Other Media"
+      "slug": "other",
+      "title": "Other"
     },
     {
       "id": "5c956dc7-7bd4-439f-973e-3d819d90149d",
       "slug": "artifacts",
       "title": "Objects"
+    },
+    {
+      "id": "2051fa00-5190-42a6-af57-6eca9f5b55d0",
+      "slug": "images",
+      "title": "Images"
+    },
+    {
+      "id": "292fe1df-a5bd-4b49-97aa-f336bf0ac103",
+      "slug": "folks-292fe1df",
+      "title": "Folks"
+    },
+    {
+      "id": "2b9dc0d1-2d66-4aeb-b050-fb9835b1338a",
+      "slug": "quotes",
+      "title": "Quotes"
     },
     {
       "id": "06fab234-721e-48d5-a0a1-5bc744ea4f8d",
@@ -1104,16 +1109,6 @@
       "id": "256bd3bc-0374-4378-8e4d-40d1675709ee",
       "slug": "lists-256bd3bc",
       "title": "Lists"
-    },
-    {
-      "id": "907a3709-7f78-4bb3-87ce-ee1c5985483c",
-      "slug": "wavdashcore-blog-907a3709",
-      "title": ".Wavdashcore blog"
-    },
-    {
-      "id": "2051fa00-5190-42a6-af57-6eca9f5b55d0",
-      "slug": "images",
-      "title": "Images"
     }
   ],
   "pages": [
@@ -9868,8 +9863,8 @@
     },
     {
       "id": "7070e92d-6389-4c6c-88f2-0b38bc3d8e3a",
-      "slug": "other-media",
-      "title": "Other Media",
+      "slug": "other",
+      "title": "Other",
       "icon": "./assets/home/media.png",
       "parentId": "9510bf90-3ac9-4424-974b-7424f3b33683",
       "parentTable": "block",

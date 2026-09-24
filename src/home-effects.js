@@ -494,3 +494,86 @@ export function enablePlaythingShuffle(container, manifestUrl) {
     activeAnimations.clear();
   };
 }
+
+// Decorative, page-local trail. Distance is consumed even when a spawn is excluded.
+export function enableCursorGifs(content) {
+  const events = new AbortController();
+  const motion = matchMedia('(prefers-reduced-motion: reduce)');
+  const layer = document.createElement('div');
+  layer.className = 'home-cursor-gifs';
+  layer.setAttribute('aria-hidden', 'true');
+  document.body.append(layer);
+  const exclusions = '.home__search-toggle, .home__brand > img, .home__brand > div, .home__quote, .home__welcome, .home__updates, .home__trinket, .home__tile, .home__footer-links a';
+  let gifs = [];
+  let previous = null;
+  let distance = 0;
+  let scrollPosition = { x: window.scrollX, y: window.scrollY };
+  let lastGif = '';
+  let disposed = false;
+  const timers = new Set();
+  fetch('./data/home-cursor-gifs.json', { signal: events.signal })
+    .then(response => response.ok ? response.json() : [])
+    .then(items => { gifs = items; })
+    .catch(() => {});
+
+  const reset = () => {
+    previous = null;
+    distance = 0;
+    scrollPosition = { x: window.scrollX, y: window.scrollY };
+  };
+  const clear = () => {
+    reset();
+    for (const timer of timers) clearTimeout(timer);
+    timers.clear();
+    layer.replaceChildren();
+  };
+  const trySpawn = point => {
+    if (distance < window.innerWidth * .4) return;
+    distance = 0;
+    if (!gifs.length || !content.isConnected || document.querySelector('dialog[open]') || document.body.classList.contains('sidebar-open')) return;
+    // Use bounds as decorative banner images may have pointer-events disabled.
+    const excluded = [...content.querySelectorAll(exclusions)].some(element => {
+      const box = element.getBoundingClientRect();
+      const padding = element.matches('.home__search-toggle, .home__brand > img, .home__brand > div') ? 24 : 0;
+      return box.width && box.height && point.x >= box.left - padding && point.x <= box.right + padding && point.y >= box.top - padding && point.y <= box.bottom + padding;
+    });
+    if (excluded) return;
+    const choices = gifs.filter(src => src !== lastGif);
+    const image = new Image();
+    image.alt = '';
+    image.className = 'home-cursor-gif';
+    image.style.left = `${point.x + window.scrollX}px`;
+    image.style.top = `${point.y + window.scrollY}px`;
+    image.onload = () => {
+      if (disposed || motion.matches) return;
+      // Bound concurrent decorations during unusually fast pointer movement.
+      if (layer.children.length >= 12) layer.firstElementChild.remove();
+      layer.style.height = `${document.documentElement.scrollHeight}px`;
+      layer.append(image);
+      const timer = setTimeout(() => { image.remove(); timers.delete(timer); }, 5000);
+      timers.add(timer);
+    };
+    image.src = lastGif = choices[Math.floor(Math.random() * choices.length)] ?? gifs[0];
+  };
+  document.addEventListener('pointermove', event => {
+    if (event.pointerType !== 'mouse') { reset(); return; }
+    if (disposed || motion.matches || document.hidden) return;
+    const point = { x: event.clientX, y: event.clientY };
+    if (previous) distance += Math.hypot(point.x - previous.x, point.y - previous.y);
+    previous = point;
+    trySpawn(point);
+  }, { signal: events.signal, passive: true });
+  window.addEventListener('scroll', () => {
+    const next = { x: window.scrollX, y: window.scrollY };
+    const traveled = Math.hypot(next.x - scrollPosition.x, next.y - scrollPosition.y);
+    scrollPosition = next;
+    if (disposed || motion.matches || document.hidden || !previous) return;
+    distance += traveled;
+    trySpawn(previous);
+  }, { signal: events.signal, passive: true });
+  document.documentElement.addEventListener('pointerleave', reset, { signal: events.signal });
+  window.addEventListener('blur', reset, { signal: events.signal });
+  document.addEventListener('visibilitychange', clear, { signal: events.signal });
+  motion.addEventListener('change', clear, { signal: events.signal });
+  return () => { disposed = true; events.abort(); clear(); layer.remove(); };
+}

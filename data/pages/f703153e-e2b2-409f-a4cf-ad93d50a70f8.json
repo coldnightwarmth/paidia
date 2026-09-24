@@ -49,6 +49,66 @@
       "html": "~"
     },
     {
+      "type": "paragraph",
+      "html": "A pril 9, 2011 By Frank Lantz M y talk from GDC 2011 has been m ade free in the GDC vault, you can see it here. One of the frequent com m ents I’ve heard is that people are confused by m y discussion of w hat I call “Donkeyspace” so I thought I should try to clarify. The things about Poker that m ake it a m ore interesting AI problem than som ething like Chess or Go are the aspects of hidden inform ation and psychology. Really, these are the sam e thing, because the im portant inform ation that’s hidden from you is your opponent’s psychology, her state of m ind, her tendencies and plans, her strategy. Of course, the cards in your opponent’s hand are hidden from you, as are the order of cards in the deck, but this kind of uncertainty doesn’t really add that m uch interest to the gam e’s AI problem, since it just adds som e sim ple probability calculations (sim ple for a com puter). W hat m akes Poker so m uch w eirder and cooler is the w ay in w hich players infer from their opponent’s actions w hat’s going on in their opponent’s m inds and then adjust their ow n strategies accordingly.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-f703153e-e2b2-409f-a4cf-ad93d50a70f8-0001"
+    },
+    {
+      "type": "paragraph",
+      "html": "You can look at every gam e as a problem to be solved. W e say a gam e is solved w hen w e can describe how to play perfectly play from any position. Tic Tac Toe is solved. Connect Four is solved. Checkers is solved. It’s easy to im agine w hat it w ould m ean for Chess or Go to be solved in this w ay. Once you have instructions you can follow to achieve the best outcom e from any position there’s really nothing left.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-f703153e-e2b2-409f-a4cf-ad93d50a70f8-0002"
+    },
+    {
+      "type": "paragraph",
+      "html": "But w hat does it m ean to solve Rock Paper Scissors? It’s easy to articulate a strategy w hich w ill guarantee that you can’t be beaten, just pick random ly. W hen I say you “can’t be beaten” I don’t m ean you’re guaranteed to w in, I m ean no-one can have any better strategy, there is no w ay of playing that w ill do better against you. But if you enter a RPS tournam ent and w ant to w in, you should be able to do better than that.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-f703153e-e2b2-409f-a4cf-ad93d50a70f8-0003"
+    },
+    {
+      "type": "paragraph",
+      "html": "You should recognize w hen you’re up against a drunk dude w ho only throw s Rock and adjust your strategy to take advantage of him. Then, w hen you’re up against som eone throw ing pure random you adjust back to random yourself to guarantee at least an even chance of w inning. This is the situation that Poker is in. It’s easy to im agine a “solved” version of sim ple form s of poker. And using this perfect strategy you could gurantee that no-one in the w orld can have an edge on you, no-one can outplay you. But that’s not the actual goal of Poker. The goal of Poker is to get that money. If you play “pefectly” against a drunk tourist, a \u0000sh, a donkey, you are throwing money away. So the real AI problem of poker is this inference problem of recognizing w hat type of player you are up against and adjusting your play to m axim ize your edge against their strategy.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-f703153e-e2b2-409f-a4cf-ad93d50a70f8-0004"
+    },
+    {
+      "type": "paragraph",
+      "html": "Im agine all the possible strategies you could be up against plotted in a m ultidim ensional space, over here is the “perfect” strategy, unexploitable, there’s nothing you can do against it but play it yourself. But all around it are the vast, diverse spectrum of sub-optim al strategies that people actually use. This is Donkeyspace, and your goal is to place your opponent as accurately as possible at a point in this space, and then m aneuver yourself to the point that takes m axim al advantage of him.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-f703153e-e2b2-409f-a4cf-ad93d50a70f8-0005"
+    },
+    {
+      "type": "paragraph",
+      "html": "But guess w hat? Your opponent is doing to the sam e thing to you. As you m aneuver through D-Space to lock onto your target, your target is sim ultaneously m aneuvering around to get the drop on you. At the highest levels, poker is all about this dance. W hen Viktor Blom and Tom Dw an play, not only are they struggling like Chess players to discover perfect play, they are also m oving through chaotic orbits around this undiscovered point, adjusting to their perceptions of each other’s \u0000aw ed m odels, and then adjusting to the adjustm ents. This sim ultaneous, second-order problem solving is the big, juicy problem of Poker AI. It touches on deep, underlying dynam ics of social interaction, the w ay w e constantly interpret and adapt to the behavior of the people",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-f703153e-e2b2-409f-a4cf-ad93d50a70f8-0006"
+    },
+    {
+      "type": "subheader",
+      "html": "7 thoughts on “Donkeyspace”",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-f703153e-e2b2-409f-a4cf-ad93d50a70f8-0007"
+    },
+    {
+      "type": "paragraph",
+      "html": "Logan April 11, 2011 at 5:13 am Som eone from the Go forum ‘lifein19x19’ posted your video. Do have an idea of what your strength is in the gam e (e.g. 5k or 5d)? As som eone who played \u0000ghting games I rem em ber the David Sirlin book and his yom i concept. Are you/have you also been into the \u0000ghting game culture Frank? Frank Lantz April 11, 2011 at 3:43 pm Logan, I think I’m around 7k or 8k. Big fan of \u0000ghting games. Looking forward to the NYU Spring Fighter event this weekend: gludion May 9, 2011 at 2:23 pm Hello go friend!!",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-f703153e-e2b2-409f-a4cf-ad93d50a70f8-0008"
+    },
+    {
+      "type": "paragraph",
+      "html": "I’m a go player too (bubulle on KGS). Your speech about Go and Poker was around us. It is, as com puter scientists like to say, “non-trivial”. I think w e can also call it beautiful. A Conversation with Jerem y Pope PREVIOUS POST Things Look Strange NEXT POST very good:) misterTOAST January 22, 2012 at 1:35 pm this concept rem inds m e of the Cournot Equilibrium, but in poker.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-f703153e-e2b2-409f-a4cf-ad93d50a70f8-0009"
+    },
+    {
+      "type": "paragraph",
+      "html": "F-Nanaya April 27, 2015 at 4:23 am warui ne DSpace January 7, 2020 at 4:28 pm Frank, I really want to \u0000nd out: Why did you call it DONKEYspace? Leave a Reply Your em ail address will not be published. Comment * Name Pingback: Skill Compensation – BrainGoodBlog",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-f703153e-e2b2-409f-a4cf-ad93d50a70f8-0010"
+    },
+    {
       "id": "39ce921d-2369-478b-9ba1-c5cad70b7fbb",
       "type": "file",
       "kind": "pdf",

@@ -1,5 +1,5 @@
 import { enableRecentUpdates } from './recent-updates.js';
-import { enableRandomQuote, enableAsciiInteraction, enableExplorePixelation, enablePlaythingShuffle } from './home-effects.js?v=20260923-clickable-playthings';
+import { enableRandomQuote, enableAsciiInteraction, enableExplorePixelation, enablePlaythingShuffle, enableCursorGifs } from './home-effects.js?v=20260924-cursor-gifs-brand-padding';
 
 const ASCII = `                                                           ....:-~--..
                                                       ..:.:....:::.:.. ...
@@ -40,7 +40,7 @@ const categories = [
   ['Video+Audio', 'video', 'audio-visual-content'], ['Videogames', 'videogames', 'games-549e6748?category=Videogames'],
   ['Tabletop', 'tabletop', 'games-549e6748?category=Tabletop'], ['Objects', 'object', 'artifacts'],
   ['Images', 'image', 'images'], ['Sports', 'sports', 'games-549e6748?category=Sports'],
-  ['Other Media', 'media', 'other-media'], ['People', 'people', 'folks-292fe1df?list='],
+  ['Other', 'media', 'other'], ['People', 'people', 'folks-292fe1df?list='],
   ['Quotes', 'quotes', 'quotes'], ['Groups', 'groups', 'folks-292fe1df?list=Groups'],
   ['Concepts', 'concepts', 'concept-wall'], ['Lists', 'list', 'lists-256bd3bc'],
 ];
@@ -64,7 +64,7 @@ const normalizeSearchText = value => String(value ?? '')
 
 function loadHomeSearchIndex() {
   if (!searchIndexPromise) {
-    searchIndexPromise = fetch('./data/home-search-index.json?v=20260923-full-site-search')
+    searchIndexPromise = fetch('./data/home-search-index.json?v=20260924-shortform-pdf-text')
       .then(response => {
         if (!response.ok) throw new Error('Search index unavailable');
         return response.json();
@@ -134,10 +134,11 @@ export function renderHome({ content, siteIndex, escapeHtml }) {
         <div class="home__trinkets">${initialPlaythings.map(name=>`<button class="home__trinket" type="button" aria-label="Spin and randomize this play thing"><img src="./assets/home/playthings/${name}" alt="" width="80" height="80"></button>`).join('')}</div>
       </section>
       <section class="home__explore" id="home-explore" aria-labelledby="explore-heading"><h2 id="explore-heading"><span>Explore</span></h2><div class="home__explore-body"><div class="home__grid">${categories.map(([label,icon,slug])=>link(`<img src="./assets/home/${icon}.png" alt="" width="80" height="80"><span>${label}</span>`,slug,'home__tile')).join('')}<button type="button" class="home__tile home__timeline"><img src="./assets/home/timeline.png" alt="" width="80" height="80"><span>Timeline</span></button></div><div class="home__clouds" aria-hidden="true"><img src="./assets/home/marioclouds.gif" alt="" width="500" height="229"></div></div></section>
-      <footer class="home__footer"><span class="home__footer-motto">ite et ludite!</span><div class="home__footer-links"><a href="https://twitter.com/paidiasophia" target="_blank" rel="noreferrer"><img src="./assets/images/free-twitter-logo-icon-2429-thumb-075fe553cc64.webp" alt="" width="28" height="28">follow @paidiasophia</a><a href="https://tally.so/r/wb5Y9e" target="_blank" rel="noreferrer"><svg viewBox="0 0 30 22" aria-hidden="true"><path d="M1 1h28v20H1Z M1 1l14 12L29 1 M1 21l10-10 m8 0 10 10"/></svg>subscribe to e-mail list</a></div></footer>
+      <footer class="home__footer"><span class="home__footer-motto">ite et ludite!<img class="home__footer-fox" src="./assets/home/fox.gif" alt="" width="72" height="53"></span><div class="home__footer-links"><a href="https://twitter.com/paidiasophia" target="_blank" rel="noreferrer"><img src="./assets/images/free-twitter-logo-icon-2429-thumb-075fe553cc64.webp" alt="" width="28" height="28">follow @paidiasophia</a><a href="https://tally.so/r/wb5Y9e" target="_blank" rel="noreferrer"><svg viewBox="0 0 30 22" aria-hidden="true"><path d="M1 1h28v20H1Z M1 1l14 12L29 1 M1 21l10-10 m8 0 10 10"/></svg>subscribe to e-mail list</a></div></footer>
       <dialog class="home__dialog" aria-label="Explore the wiki"><button class="home__dialog-close" aria-label="Close" type="button">×</button><div class="home__dialog-body"></div></dialog>
     </div>`;
   content.querySelector('pre').textContent = ASCII;
+  const stopCursorGifs = enableCursorGifs(content);
   const stopAscii = enableAsciiInteraction(content.querySelector('.home__art pre'));
   const stopQuote = enableRandomQuote(content.querySelector('.home__quote'));
   const stopExplorePixelation = enableExplorePixelation(content.querySelector('.home__grid'));
@@ -148,6 +149,10 @@ export function renderHome({ content, siteIndex, escapeHtml }) {
   const dialog = content.querySelector('dialog');
   const dialogBody = dialog.querySelector('.home__dialog-body');
   let searchDialogCloseTimer = 0;
+  const setSearchScrollLock = locked => {
+    document.documentElement.classList.toggle('home-search-open', locked);
+    document.body.classList.toggle('home-search-open', locked);
+  };
   const closeSearchDialog = () => {
     if (!dialog.open || dialog.classList.contains('is-closing')) return;
     if (!dialog.classList.contains('home__dialog--search')) {
@@ -166,6 +171,7 @@ export function renderHome({ content, siteIndex, escapeHtml }) {
   });
   dialog.addEventListener('close', () => {
     window.clearTimeout(searchDialogCloseTimer);
+    setSearchScrollLock(false);
     dialog.classList.remove('home__dialog--search', 'is-closing');
   });
   dialogBody.addEventListener('click', event => { if (event.target.closest('a')) closeSearchDialog(); });
@@ -224,6 +230,7 @@ export function renderHome({ content, siteIndex, escapeHtml }) {
       searchTimer = setTimeout(runSearch, 120);
     });
     loadHomeSearchIndex().catch(() => {});
+    setSearchScrollLock(true);
     dialog.showModal(); input.focus();
   });
   content.querySelector('.home__timeline').addEventListener('click', async () => {
@@ -240,6 +247,8 @@ export function renderHome({ content, siteIndex, escapeHtml }) {
   });
   const stopUpdates = enableRecentUpdates(content.querySelector('.home__update-list'), siteIndex);
   return () => {
+    setSearchScrollLock(false);
+    stopCursorGifs();
     stopAscii();
     stopQuote();
     stopExplorePixelation();

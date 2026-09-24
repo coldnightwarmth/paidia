@@ -43,6 +43,762 @@
       "html": ""
     },
     {
+      "type": "subheader",
+      "html": "355 South End Ave #2B",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0001"
+    },
+    {
+      "type": "paragraph",
+      "html": "New York, NY 10280, USA (646) 489–8609 costik@costik.com I fi rst heard the term “gameplay” when I interviewed for a job at Atari in",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0002"
+    },
+    {
+      "type": "subheader",
+      "html": "1982. It was used by someone who had just played a new arcade game,",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0003"
+    },
+    {
+      "type": "paragraph",
+      "html": "Zaxxon, I think. “It has good gameplay.” Since then, the term has become ubiquitous in the fi eld. People talk about gameplay, as if it’s some magical, mystical thing that games need to possess. Game designers like to paint themselves as “someone who understand gameplay,” unlike all you coders and management types and artists. But actually, few do – because “gameplay” itself is a nebulous, and therefore pretty useless term. Saying “it has good gameplay” is about as useful as saying “that’s a good book.” Calling something “good” doesn’t help us understand what’s good about it, what pleasures it provides, and how to go about doing something else good.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0004"
+    },
+    {
+      "type": "paragraph",
+      "html": "THE GAME IS PLASTIC “The game” is an amazingly plastic medium. It’s adaptable to any and every technology, from the neolithic to the high tech. And an amazing variety of games have been developed over the years... Boardgames, wargames, tabletop roleplaying games, computer and console roleplaying games, massively multiplayer online games, live-action roleplaying games, MUDs, MUSHes, MOOs, card games, collectible card games, play-by-mail games, play-byemail games, miniatures, sims, fl ight sims, vehicle sims, text adventures, graphic adventures, action adventures, shooters, sneakers, dancers, drivers, real-time strategy, turn-based strategy, god games, platformers, fantasy sports, sidescrollers, maze games, trivia games, puzzle games, wireless games, location-based entertainments, gambling, paintball, sports, and the horses....",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0005"
+    },
+    {
+      "type": "paragraph",
+      "html": "They’re all games. But how to make sense of this amazingly disparate fi eld? What is it about all these games that makes them interesting? Do they even have anything in common, when you get down to it? To understand games, to talk about them intelligently, and to design better ones, we need to understand what a game is, and to break “gameplay” down into identifi able chunks. We need, in short, a critical vocabulary for games INTERACTION Back in 1982, Chris Crawford published what remains one of the few decent books published about game design, The Art of Computer Game Design. In his book, Chris Crawford contrasts what he calls “games” with “puzzles.”",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0006"
+    },
+    {
+      "type": "paragraph",
+      "html": "Puzzles are static; they present the “player” with a logic structure to be solved with the assistance of clues. “Games,” by contrast, are not static, but change with the player’s actions. Some puzzles are obviously so; no one would call a crossword a “game.” But, according to Crawford, some “games” a really just puzzles – Zork (Lebling &amp; Blank), for instance. The game’s sole objective is the solution of puzzles: fi nding objects and using them in particular ways to cause desired changes in the game-state. There is no opposition, there is no roleplaying, and there are no resources to manage; winning is solely a consequence of puzzle solving.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0007"
+    },
+    {
+      "type": "paragraph",
+      "html": "Crawford overstates the case, I think; adventure games, the category to which Zork belongs, are more than mere puzzles. They do change state in response to player actions; you fi nd yourself in a new location, the solution of a puzzle opens up new opportunities. In later games – Zork is among the earliest successful computer games – character interaction and story development are more important. Personally, I’d be reluctant to relegate Zork to the status of “not a game, for shame;” it’s a game with strong puzzle elements.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0008"
+    },
+    {
+      "type": "paragraph",
+      "html": "Almost every game has some degree of puzzle-solving; even a pure military strategy game requires players to, e.g., solve the puzzle of making an optimum attack at this point with these units. In fact, if a game involves any kind of decision making, or trade-offs between different kinds of resources, people will treat these as “puzzle elements,” trying to devise optimal solutions. Even in deathmatch play of a fi rst-person shooter, players will seek to use cover and terrain for advantage – ‘solving the puzzle’ posed by the current positions of opponents and the nature of the surrounding environment, if you will. You can’t extract puzzle from game entirely.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0009"
+    },
+    {
+      "type": "paragraph",
+      "html": "But still, Crawford’s distinction is a useful one: A puzzle is static. A game is interactive. This may ring a bell in the back of some readers’ heads; isn’t “interactive” a term that refers to computer media? And aren’t many games non-digital? Is Monopoly (Charles Darrow) interactive? Of course it is. You choose whether or not to buy a property you land on; the game state changes in response to your decision. The outcome of the game will differ depending on your decision. The game interacts with the players (and the players with each other), changing state as they play.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0010"
+    },
+    {
+      "type": "paragraph",
+      "html": "Monopoly is interactive at its core. That’s true of every game. If it isn’t interactive, it’s a puzzle, not a game. Some time ago, I was asked to teach a course on “Interactive Games.” I’ve heard the term used before, by people who think they’re talking about electronic games – arcade, console, and computer. They aren’t. Every game is interactive; “interactive game” is a redundancy.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0011"
+    },
+    {
+      "type": "paragraph",
+      "html": "GOALS But what does “interaction” mean, really? Not much, actually. A light switch is interactive. You fl ick it up, the light turns on. You fl ick it down, the light turns off. That’s interaction. A light switch is not a game, obviously. Interaction has no game value in itself. Interaction must have a purpose. Suppose we have a thing that’s interactive. At some point, you are faced with a choice: You may choose to do A, or to do B. The state of the thing will change depending on your decision.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0012"
+    },
+    {
+      "type": "paragraph",
+      "html": "But what makes A better than B? Or is B better than A at some times but not at others? What factors go into the decision? What resources are to be managed? What’s the eventual goal? Aha! Now we’re not talking about “interaction.” Now we’re talking about decision making – interaction with a purpose. What makes a thing into a game is the need to make decisions. Consider Chess: It has few of the aspects that make games appealing – no simulation elements, no roleplaying, and damn little color. What it’s got is the need to make decisions. The rules are tightly constrained, the objectives clear, and victory requires you to think several moves ahead. Excellence in decision making is what brings success.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0013"
+    },
+    {
+      "type": "paragraph",
+      "html": "Perhaps decision making is too strong a concept; you can certainly think about Chess or Civilization III or Dungeons &amp; Dragons as games that depend at their core on decision making. But in faster-moving games, like Quake or Mario, winning depends more on quick response and interface mastery than careful planning. There are still, certainly, decisions to be made – which way to go, where and how to avoid opponents – but the basic style of interaction is less cerebral, more dependent on fi ne motor coordination and training in particular skills. Nonetheless, even for skill-and-action games, interaction is purposeful.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0014"
+    },
+    {
+      "type": "paragraph",
+      "html": "What does a player do in any game? Some things depend on the medium. In some games, he or she rolls dice. In some games, he chats with his friends. In some games, he whacks at a keyboard. In some games, he fi dgets with the controller. But in every game, he responds in a fashion calculated to help him achieve his objectives. At every point, he or she considers the game state. That might be what he sees on the screen. Or it might be what the gamemaster has just told him.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0015"
+    },
+    {
+      "type": "paragraph",
+      "html": "Or it might be the arrangement on the pieces on the board. He considers his objectives, and the game tokens and resources available to him; he considers his opposition, the forces he must struggle against. He tries to decide on the best course of action. And he responds as best he can to achieve his objectives – his goals. Does every game have goals? Most do, very obviously; most games have an explicit win-state, a set of victory conditions (to use a term from board wargaming). The basic transaction we make with games is to agree to behave as if achieving victory is important, to let the objective guide our behavior in the game. There’s little point, after all, in playing a game without making that basic commitment.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0016"
+    },
+    {
+      "type": "paragraph",
+      "html": "But some games do not have explicit goals. Some years ago, Will Wright, in a speech at the Game Developers Conference, described SimCity, which he designed, as a software toy. He offered a ball as an illuminating comparison: It offers many interesting behaviors, which you may explore. You can bounce it, twirl it, throw it, dribble it. And, if you wish, you may use it in a game: soccer, or basketball, or whatever. But the game is not intrinsic in the toy; it is a set of player-defi ned objectives overlaid on the toy.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0017"
+    },
+    {
+      "type": "paragraph",
+      "html": "Just so SimCity. Like many computer games, it creates a world that the player may manipulate, but unlike most games, it provides no explicit goal. Oh, you may choose one: to see if you can build a city without slums, perhaps, or one that relies solely on mass transit. But SimCity itself has no victory conditions, no objectives; it is a software toy. That’s true – and in a sense, that is a failing. Some of Wright’s other designs provide an illuminating contrast – SimEarth, for example. SimEarth is a model of the evolution of life on Earth. It begins with a few single-celled creatures, replicating in the ocean at the dawn of life. Over time, they evolve into more complex animals, establishing a foothold on the land, spreading, responding to changes in their environment, dealing with occasional catastrophes. The game ends when intelligent life evolves.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0018"
+    },
+    {
+      "type": "paragraph",
+      "html": "SimEarth was published in 1990; it was a failure on the market. SimCity has become a perennial, periodically updated, always selling strongly; SimEarth has disappeared. Why? Both games provide the player with a few parameters to manipulate, a few things to do; both of them allow you to sit back and watch the model beaver away for long periods of time. Unlike most games, neither requires you to be continually and actively engaged. But there is one vital difference between the two: SimCity supports a wide choice in goals. SimEarth allows none; SimEarth has no goal, really. Ultimately, unless you purposefully set out to thwart it, intelligent life will evolve, and the game will end.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0019"
+    },
+    {
+      "type": "paragraph",
+      "html": "“Playing” SimEarth is like fl icking a light switch and down. There isn’t any point. SimCity, by contrast, lets you choose what kind of city you want, and to struggle to make your city stable. You can try to build a suburban utopia, with commuters using cars and no big central district. You can try to build a centralized city with good mass transit and no heavy industry. You can try a million things – and it’s always interesting to play again, because you can always try something new.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0020"
+    },
+    {
+      "type": "paragraph",
+      "html": "Will is right; SimCity is, in a way, no game at all, a mere software toy. But it, like a ball, is a good toy – it’s susceptible to so many goal-directed behaviors that it is a good game despite the fact that it has no inherent “win state,” no explicit, built-in goal for the game. SimCity works because it allows players to choose their own goal, and supports a wide variety of possible goals.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0021"
+    },
+    {
+      "type": "paragraph",
+      "html": "SimCity is a game – at least when a user plays it as a game; SimEarth, despite the similarities, is not. SimCity is far from the only game to lack explicit goals. The same is true of all paper roleplaying games – and of online MUDs, including graphical MUDs like Ultima Online and EverQuest. In both roleplaying games and MUDs, you control a single character in an imaginary world. You often meet and group with other players, working together in the world; non-player characters are either controlled by the gamemaster (in paper RPGs) or automated systems (in MUDs).",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0022"
+    },
+    {
+      "type": "paragraph",
+      "html": "In both types of games, character improvement is a key concept; through play, your character can become more powerful, gaining hit points, skills, spells, equipment, whatever. In many games, power is achieved by killing things – that’s true in both Dungeons &amp; Dragons and EverQuest, for instance. In some games, power is achieved by fulfi lling quests or reaching story objectives, or by using skills whether they are used in combat or in some other way. But whatever mechanism is used to enable character improvement, character improvement remains fundamental to both RPGs and MUDs.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0023"
+    },
+    {
+      "type": "paragraph",
+      "html": "We have a goal here already, notice; players are motivated to improve their characters. MUDs and RPGs are multi-player, social games; in both game styles, you meet other player characters (PCs) and interact with them. You establish ongoing relations with other players. You learn about the world itself – and inevitably, you acquire other goals as a result. One of your friends may have a task he or she wishes to accomplish – and likely, there will be opportunities for you to become more powerful along the way, if you help them out.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0024"
+    },
+    {
+      "type": "paragraph",
+      "html": "The nature of the world itself (if well designed, or well conceived by the gamemaster) and the connections you make with other characters provide you with alternative goals. There are times, in games of this type, when players feel lost. They’re not certain what to do next, where to go, how to reach the next level of power – or even if the motivation of reaching the next level is suffi cient.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0025"
+    },
+    {
+      "type": "paragraph",
+      "html": "As a roleplayer, there are times when I’ve been bored – when my character has been sitting around an inn with other PCs, arguing about what to do. In MUDs, there are times when I’ve felt bored at the prospect of going out and killing more gnolls, and wondered what else there was to do. What’s going on here? Just this: these moments result from the fact that goals aren’t explicit in MUDs or RPGs. The goal of character advancement is implicit, but at times that isn’t enough. I’m trying to fi nd the next interesting thing to do; I’m searching for a goal.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0026"
+    },
+    {
+      "type": "paragraph",
+      "html": "In other words: The game is failing me. In the case of an RPG, it’s failing me because my gamemaster isn’t being a good gamemaster at that moment. A good gamemaster will sense when his players are getting bored, and give them something to do. If nothing else, he can have a bunch of orcs show up at the inn and start busting heads; that gives the PCs a goal right quick – self-preservation is a good goal. In the case of a MUD, its because the design isn’t supporting an adequate diversity of goals – simply slaying monsters and taking their treasure does pall after a time, and a well-run MUD will provide other mechanisms for character advancement.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0027"
+    },
+    {
+      "type": "paragraph",
+      "html": "In an RPG or a MUD, players ultimately choose their own goals. The job of the game isn’t to provide explicit goals; it is instead to allow for a diversity of goals, allowing players to pick and choose among them, to fi nd one that appeals. But that is not to deny the existence of goals; goals are as fundamental to a MUD or RPG as they are to gamestyles that have explicit win-conditions.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0028"
+    },
+    {
+      "type": "paragraph",
+      "html": "Indeed, when players begin to feel they don’t have a goal worth striving for, they begin to get restless. Games are goal-directed interaction. But goals alone are not enough.... STRUGGLE Every so often, the politically correct attack games as being “competitive” and therefore bad. They have winners. They have losers. This is bad; we’re supposed to nurture and support others. Why can’t we have cooperative games?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0029"
+    },
+    {
+      "type": "paragraph",
+      "html": "“Cooperative games” generally seem to be variants of “let’s all throw a ball around.” Oh, golly. What fun. I’ll stop blowing deathmatch opponents into gibs for that, you betcha. But are we really talking about competition? No, we’re talking about struggle. Here’s a game. It’s called Plucky Little England, and it simulates the situation faced by the United Kingdom after the fall of France in World War II. Your goal: preserve liberty and democracy and defeat the forces of darkness and oppression. You have a choice: A. Surrender.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0030"
+    },
+    {
+      "type": "paragraph",
+      "html": "B. Spit in Hitler’s eye! Rule Britannia! England never ever ever shall be slaves! Which did you choose? You chose B? Wow, good choice. Congratulations. You won! Wasn’t that satisfying? Ah, the thrill of victory. There is no thrill of victory, of course; it was all too easy, wasn’t it? There wasn’t any struggle. Competition is one way of make a game a struggle. In a two-player, head-to-head game, your opponent is the opposition, your struggle against him; the game is direct competition. And this is a fi rst-rate way of making the game a struggle. Nothing is as sneaky and as hard to overcome as a determined human opponent. Chess is such a strong game precisely because every move and every thought is dictated by the need to anticipate and deal with the moves and thoughts of the opponent; there is no struggle other than competition in Chess, but this is quite suffi cient to make for a compelling game.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0031"
+    },
+    {
+      "type": "paragraph",
+      "html": "But – competition isn’t the only way to create struggle. Let’s make an analogy to fi ction. The ur-story, the Standard Model Narrative, works like this: Our protagonist has a goal. He faces obstacles A, B, C, and D. He struggles with each in turn, growing as a person as he does. Ultimately, he overcomes the last and greatest obstacle and brings about some satisfying resolution.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0032"
+    },
+    {
+      "type": "paragraph",
+      "html": "Do these obstacles all need to be The Villain, The Bad Guy, The Opponent, The Foe? No, though a good villain makes for a fi rst rate obstacle. The forces of nature, cantankerous mothers-in-law, crashing hard-drives, and the protagonist’s own feelings of inadequacy can make for good obstacles, too. Just so in games. In a tabletop roleplaying game like Dungeons &amp; Dragons, you sit around a table with perhaps a half dozen other players and a gamemaster. Each player has a single character in the game world. You all want to become more powerful, and many of you have other objectives you wish to achieve as well.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0033"
+    },
+    {
+      "type": "paragraph",
+      "html": "But by the nature of RPGs, you are expected to cooperate with each other, at least under most circumstances, in mutual support of your goals. You have no “opponent,” at least not in the form of other players. There is no direct competition among players (although arguments have been known to break out when it’s time to divide up the treasure). What provides the struggle in D&amp;D? Monsters and non-player characters (NPCs), for the most part. Your characters go “adventuring” together; the adventure is a plot skeleton, a series of possible encounters and rewards. You spend a fair bit of time slaying monsters and taking their treasure – D&amp;D’s experience system depends on this kind of behavior – as well as interacting with NPCs, and trying to fi gure out the plot and bring it to a satisfactory resolution.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0034"
+    },
+    {
+      "type": "paragraph",
+      "html": "Part of the struggle lies in the opposition posed by monsters and NPCs; part of it in exploration of the world and the story; part of it in traps or puzzles posed in the game’s physical world, or in social diffi culties posed in the game’s social realm. A roleplaying game has a gamemaster, responsible for adjudicating the rules, playing NPCs, describing the world, and guiding the story in a way that the players fi nd satisfying; he serves, in some sense, as a combination of referee and playwright. Because RPGs are so fl exible – and because a gamemaster exists – they can pose virtually as wide a variety of obstacles as fi ction.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0035"
+    },
+    {
+      "type": "paragraph",
+      "html": "Roleplaying games don’t need direct player opposition; they have plenty of other obstacles for players to struggle with. Gaining power or achieving your other objectives is always a struggle. If it isn’t, the gamemaster isn’t doing his job – since he has so much control over events in the game, he ought to be ensuring that it is a struggle, that his players are enjoying the game.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0036"
+    },
+    {
+      "type": "paragraph",
+      "html": "In graphic adventures like Grim Fandango, the struggle is not competitive, either – you do not compete against other real players, or against computercontrolled “opponents,” for that matter. Graphic adventures are essentially animated stories held apart by puzzles. There are cut scenes, but most animation is performed by the game engine itself, in response to the player’s actions. The story is not entirely linear; at each point in the game, the player has freedom to wander about a fairly large space, interacting with several characters, with several puzzles to solve. Some puzzles depend on solving others, but some can be solved in any order. Ultimately, solving the puzzles in a space allows the player to transit to the next space in the game, and encounter a new set of puzzles.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0037"
+    },
+    {
+      "type": "paragraph",
+      "html": "You can, if you want, play a graphic adventure purely for the story – and indeed, some adventures are good enough stories that playing them this way is fun (Grim Fandango qualifi es). You can go out and buy a hint book, or download a walkthrough from the Web, and solve the puzzles by the book. You’ll get the story that way, and won’t have to think about the puzzles.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0038"
+    },
+    {
+      "type": "paragraph",
+      "html": "So – why don’t they just get rid of the puzzles? Why not just make it an interactive story? For one thing, you’d turn a thirty hour game into a four hour story – and personally, I’m not going to pay $50 for four hours of entertainment. But never mind that; without the puzzles, it’s no longer a game. There’s no longer any struggle, no real work to getting through the game. The puzzles, and the struggle involved in solving them, is what makes Grim Fandango a game.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0039"
+    },
+    {
+      "type": "paragraph",
+      "html": "Computer and console game developers are constantly grappling with the notion of struggle; they know that if the game is too hard, players will fi nd it frustrating. Contrariwise, if it is too easy, they will fi nd it dull. Developers take considerable care – and spend quite a lot of time testing – to try to ensure that the game is reasonably balanced. When feasible, they include a way for players to alter the diffi culty to suit – if it’s too easy, turn the diffi culty up; if it’s too hard, turn it down.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0040"
+    },
+    {
+      "type": "paragraph",
+      "html": "Whatever goals you set players in a game, you must make them work to achieve their goals. Setting them against each other is one way to do that, but not the only one. And even when a player has an opponent, putting other obstacles in the game can increase its richness and emotional appeal. STRUGGLE (CON’T) The desire for “cooperative games” is the desire for an end to strife. But there can be none. Life is the struggle for survival and growth. There is no end to strife, not this side of the grave. A game without struggle is a game that’s dead.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0041"
+    },
+    {
+      "type": "paragraph",
+      "html": "That may seem puzzling, at fi rst. Making something diffi cult makes it more enjoyable? That’s not how we view everyday life; if you make my job easier, I’ll thank you. Making my commute more of a struggle does not make it more fun. We equate struggle and work and obstacles with pain, not pleasure. But it is absolutely true of games. We want games to challenge us. We want to work at them. They aren’t any fun if they’re too simple, too easy, if we zip through them and get to the endscreen without being challenged. We don’t feel any sense of accomplishment, of mastery, of victory, if it comes too easily.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0042"
+    },
+    {
+      "type": "paragraph",
+      "html": "That isn’t to say that we want them too tough, either. We feel frustrated if, despite our best efforts, we wind up being slogged again and again. There needs to be game balance – a term, incidentally that means very different things for solitaire and multiplayer games. In a multiplayer game, it means that the players need to feel that they’re on a level, that no one has an unfair advantage; in a solitaire game, it means that the player has a reasonable shot at winning, and that the harder he works and the cleverer he is and the better he’s mastered the game, the better chance he has of winning.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0043"
+    },
+    {
+      "type": "paragraph",
+      "html": "Some time ago, I went to purchase cheese and paté at a shop in Greenwich Village. After I ordered the paté, the counterman asked if I wanted cornichons – a kind of small pickle the French eat with paté. Waving an arm grandly, he said, “There can be no paté without cornichons.” He made a sale. Well – there can be no game without struggle. A game requires players to struggle interactively toward a goal.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0044"
+    },
+    {
+      "type": "paragraph",
+      "html": "STRUCTURE My friend Eric Zimmerman likes to say, “Games are structures of desire.” I don’t like the phrase, for two reasons. Firstly, it’s pretty obscure; it needs to be explained before you ‘get’ it. Second, it makes games sound like a whorehouse. But Eric is on to something here. By “desire,” he means that games have goals, and players mutually agree to behave as if the goal is important to them when they play – the game creates a desire to achieve the game’s own goals.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0045"
+    },
+    {
+      "type": "paragraph",
+      "html": "By structure, he means that the interaction of the game’s rules, components, software, etc. create a structure within which people play. Children frequently invent their own imaginative games. “Cops and robbers,” if you will, though my children are more fond of pretending that they can change into animal form, or that they are 19th century children magically transported to the modern era. There is, actually, not a great deal of distinction between childhood “let’s pretend” and a commercial paper roleplaying game; in both, each player takes the role of a single character in an imaginary world. The main difference is that “let’s pretend” has minimal structure. It doesn’t have complicated tables, algorithms, magic rules, or character advancement; it doesn’t have an impartial gamemaster; and the plot, to the degree there is one, is invented on the spur of the moment.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0046"
+    },
+    {
+      "type": "paragraph",
+      "html": "Yet even kids playing “let’s pretend” feel a need for some structure; they invent rules for themselves, as problems arise. You can only transform into a bird when you’re on the climbing structure in the park. If you want to attack someone, you have to ‘tag’ them. Our enemies, the ice giants, live in that statue over there, and we have to sneak around when we go near it. The structure, like the plot, is invented as needed – but kids do feel the need for structure, at times. Often, the structures they invent are preserved for the next session of play; and when “let’s pretend” breaks down, it’s usually because the kids can’t agree on a proposed rule. (“Bang bang, you’re dead.”",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0047"
+    },
+    {
+      "type": "paragraph",
+      "html": "“No, I’m not! Who says? Why am I dead?”) That’s deadly to any game; we all have to think we’re playing the same thing, working by the same rules, within the same structure. “Let’s pretend” has about the least structure of any game. In other game styles, structure can be intensively codifi ed, even rigid in nature. That’s true of board wargames, for instance. Wargames are played on boards printed with a hexagonal grid; the hexagonal grid works much like the square grid of a chessboard. Military units are represented by cardboard counters placed in the hexagons (or “hexes”) of the board.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0048"
+    },
+    {
+      "type": "paragraph",
+      "html": "One of the basic wargame structures is the “zone of control” (or “ZOC”). A unit’s zone of control consists of the six hexes directly surrounding it. Some wargames use what’s called a locking zone of control. A zone of control is “locking” if a unit gets “locked” when it moves into another unit’s zone. Like this: You have a unit in a hex. During my turn, I move one of my units next to yours. I can’t move any further – and can’t move my unit away, or into any other hex, because I’m “locked” in place by your zone of control.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0049"
+    },
+    {
+      "type": "paragraph",
+      "html": "Later on, we’ll resolve combat – and that might result in your unit being killed and removed from play, or I might be killed, or one of the units might be forced to retreat. Then, we’d no longer be adjacent, and my unit could move on its next turn (assuming it survived). But so long as the units remain adjacent, neither of them can move. All right, that’s one form of zone of control. Rigid zones of control work a little differently, although the basic concept – a unit’s zone is the six hexes that surround it – remains unchanged. A unit must still stop moving if it enters a rigid zone of control; but if it begins its move in a controlled hex, it can move out of the zone of control, into an uncontrolled hex, and continue moving. It is never allowed to move directly from one controlled hex to another, though.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0050"
+    },
+    {
+      "type": "paragraph",
+      "html": "A petty little distinction, right? But that petty distinction produces very different styles of play. Locking zones of control tend to breed rigid, World War I-like front lines, because once a unit is committed to the front, it’s hard to reassign it. Rigid zones of control tend to produce much more fl uid, World War II-like games, because a unit can always be withdrawn and devoted to an attack elsewhere.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0051"
+    },
+    {
+      "type": "paragraph",
+      "html": "These aren’t the only kinds of zones of control, either. When I was a teenager, I worked for a wargame publisher called SPI; at one point, I put together a huge tome consisting of rules culled from all of SPI’s different games – a reference for game designers, who could look at it to see what techniques other wargame designers had previously invented. There were at least a dozen different kinds of zones of control – I don’t even remember all the terms we used for them all: semi-rigid, fl uid, god knows what.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0052"
+    },
+    {
+      "type": "paragraph",
+      "html": "So? So this: a zone of control is a building block for a wargame. Most, but not all, wargames use them. Most also use terrain effects charts, and combat results tables, and movement points – a whole series of concepts specifi c to the board wargame. By combining these “rule mechanics,” you build a structure. You build a conceptual framework that defi nes the working of the game – and guides the players’ behavior within the game. Trivial differences in the specifi c mechanics you use can produce major differences in player behavior – as we saw with the difference between locking and rigid zones of control.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0053"
+    },
+    {
+      "type": "paragraph",
+      "html": "In a boardgame, the structure is mostly contained in the literal rules, although aspects may be contained in the topology of the board, information printed on pieces or cards or other components, etc. The structure is therefore directly perceivable by the player, although understanding it requires effort on his part – he or she must learn and master the rules. Electronic games work differently; much of their structure is invisible to the user. It’s contained in compiled software code. In a boardgame, players are responsible for operating the game as well as playing it, if you will; when a calculation must be made or an algorithm applied, they must do so, referring to the rules if necessary. In an electronic game, the “rules” are incorporated in the software; a player gains understanding of them through experience, by playing the game, and may well remain in ignorance of their specifi c details, instead gaining a “gut,” intuitive understanding of their operation.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0054"
+    },
+    {
+      "type": "paragraph",
+      "html": "But the structure is there – and, to reinforce the point that game design is different from graphic design – it is independent of the specifi c graphical form in which the structure is represented to the player. The gameplay algorithms, the “rules,” the numerical data that controls the behavior of game items is independent from the image bitmaps or 3D models, the code that displays them onscreen, the animations that indicate to the player that a certain event has occurred.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0055"
+    },
+    {
+      "type": "paragraph",
+      "html": "Do electronic game structures affect player behavior in the same fashion as boardgame rules? Unquestionably. For example, Ultima Online and EverQuest are, in many ways, very similar games. Both are massively multiplayer online games – graphical MUDs – set in fantasy worlds. In both, characters advance mainly by killing monsters. In both, characters tend to accumulate a lot of stuff that has real game value – weapons and armor and magic items.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0056"
+    },
+    {
+      "type": "paragraph",
+      "html": "The two games have one seemingly minor difference; in Ultima Online, you may attack and kill other player-characters. In EverQuest, you may not. In both games, characters almost always have more valuable stuff on them than monsters of equivalent power. Thus, in Ultima Online, the quickest way to advance is to kill other player-characters. You get all those weapons and armor and magic items.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0057"
+    },
+    {
+      "type": "paragraph",
+      "html": "As a result, Ultima Online is, under most circumstances, a Hobbesian war of all against all, the game fi lled with a palpable fear as people fl ee from one another, trying to avoid potentially deadly encounters. In EverQuest, by contrast, players frequently stop to help each other out, strike up conversations with random passers-by and in general behave with a degree of social solidarity.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0058"
+    },
+    {
+      "type": "paragraph",
+      "html": "Clearly, I prefer the latter – although Ultima has its strengths, too, particularly in the fact that gamemasters are more actively involved in creating interesting things for players to do. And there are players who prefer Ultima’s style; in some ways, after all, it serves to create virtual communities more effectively, since you have a much better chance of surviving if you join with a group of others.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0059"
+    },
+    {
+      "type": "paragraph",
+      "html": "The point here, however, is that a small change in structure breeds a big change in player behavior. Literary criticism often speaks of the “structure” of a novel, but storystructure is very different from game structure. The literary concept of structure has to do with viewpoint; the treatment of time (whether the story is told in a single, forward-moving narrative, or as fl ashbacks, or from viewpoints wandering in time); and the way in which the story builds and releases tension. The structure of the story, however, creates a single, unchanging narrative that the reader cannot alter. Narrative structure is one dimensional, because you can follow only a single path through a story.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0060"
+    },
+    {
+      "type": "paragraph",
+      "html": "Game structure has to do with the means by which a game shapes player behavior. But a game shapes player behavior; it does not determine it. Indeed, a good game provides considerable freedom for the player to experiment with alternate strategies and approaches; a game structure is multi-dimensional, because it allows players to take many possible paths through the “game space.”",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0061"
+    },
+    {
+      "type": "paragraph",
+      "html": "It is important, however, to understand how and why game structures do shape player behavior; indeed, understanding this is fundamental to mastering the craft of game design. You cannot simply throw together a bunch of different game elements, and expect them to cohere; you must consciously set out to decide what kind of experiences you want to impart to your players, and create systems that enable those experiences.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0062"
+    },
+    {
+      "type": "paragraph",
+      "html": "As an example of an artistic failure in this regard, consider again Ultima Online’s encouragement of player-on-player confl ict (called “player-killing” or “PKing”). Did Garriott choose to encourage PKing, believing that this would make for a more engaging game, that this is what players would want in Ultima Online? Did he structure the game with intentionality, rewarding PKing because he wished to encourage it?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0063"
+    },
+    {
+      "type": "paragraph",
+      "html": "Clearly not. His previous (solitaire) Ultima games made careful, conscientious efforts to guide players into prosocial, moral paths. Garriott takes the idea that games can have moral subtext very seriously. He was doubtless appalled at the level of player-character murder in his game. Why, then, did he design a game that encourages murder? Presumably out of a libertarian desire to grant players free will, to allow them to perform despicable acts if they so desire. EverQuest’s contrasting prohibition of PKing is, to be sure, heavy handed; its sole justifi cation is that it works. But there are more sophisticated ways of structuring player incentives to the same end.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0064"
+    },
+    {
+      "type": "paragraph",
+      "html": "You could establish a heavy-handed government, with powerful non-player characters who hunt down and execute murderers. You could establish a high bounty that makes hunting and killing murderers more rewarding than murder. You could try to recreate, in the context of the game, the same kind of kinship and community ties among people that prevent us from murdering each other even in the absence of the police.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0065"
+    },
+    {
+      "type": "paragraph",
+      "html": "What you cannot do is assume that order will spontaneously arise through the good will of players – at least, not when the rewards for murder are intense and personal, while the rewards for acting like a good citizen accrue mainly to others, are slight and diffuse. The structure of a game is analogous to the structure of economics. Economists assume that people respond to the economic incentives they face, and attempt to “maximize their utility.” By that, they don’t necessarily mean that everyone tries to make the most money; money is only one incentive people face. The desire for power or prestige or love can often outweigh pure monetary considerations. But economists do assume that people behave rationally, by and large.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0066"
+    },
+    {
+      "type": "paragraph",
+      "html": "The same applies in games. By and large, you can expect that a player will respond to the incentives a game provides. Not always; players sometimes delight in doing the perverse. But as I’ve said, one of the basic transactions we make with a game is to agree to act as if its goals matter to us; thus, most of the time, players will seek to exploit the structure to achieve their goals, and that means responding to its incentives.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0067"
+    },
+    {
+      "type": "paragraph",
+      "html": "It helps, in other words, to think of a game’s structure as akin to an economy, or an ecosystem; a complex, interacting system that does not dictate outcomes but guides behavior through the need to achieve a single goal: energy, in the case of ecosystems; money, in the case of economics; victory, in the case of a game. Indeed, if I had my way, a solid grounding in economics would be required of anyone seeking to learn about game design.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0068"
+    },
+    {
+      "type": "paragraph",
+      "html": "A game is an interactive structure that requires players to struggle toward goals. ENDOGENOUS MEANING You may have noticed that I’ve been using pretty simple language, for a pretentious twit who thinks something as childish as videogames can be subjected to critical analysis like real works of art. I mean, instead of using words like “goals” or “struggle,” I could have coined highfalutin, sesquipedalian words that would make it easier for me to impress academics.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0069"
+    },
+    {
+      "type": "paragraph",
+      "html": "But I haven’t been able to think of a simpler term than “endogenous” here, so I’m afraid you’re stuck with it. Endogenous meaning; what the hell does that mean? According to the dictionary, one defi nition of endogenous is “caused by factors inside the organism or system.” Just so. A game’s structure creates its own meanings. The meaning grows out of the structure; it is caused by the structure; it is endogenous to the structure.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0070"
+    },
+    {
+      "type": "paragraph",
+      "html": "Suppose you’re walking down the street, and someone gives you a $100 in Monopoly money. This means nothing to you; Monopoly money has no meaning in the real world. The guy who gave you the bill is probably some kind of lunatic. Yet when you’re playing Monopoly, Monopoly money has value; Monopoly is played until all players are bankrupt but one, who is the winner. In Monopoly, the gaily colored little bills that come with the game are the determinant of success or failure. Monopoly money has meaning endogenous to the game of Monopoly – meaning that is vitally important to its players, so much so that you have to watch your little sister like a hawk to make sure she doesn’t swipe bills from the bank when you aren’t looking.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0071"
+    },
+    {
+      "type": "paragraph",
+      "html": "Another example: My EverQuest character, when 7th level, was given a Bloodforge hammer by someone who was leaving the game and decided to give the weapon to me. It’s possible to earn a Bloodforge hammer yourself, by fulfi lling a fairly involved quest in the game; I had little chance of succeeding in such a quest at 7th level. The Bloodforge hammer was a truly awesome weapon, for me, and instrumental in allowing my character to advance quickly.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0072"
+    },
+    {
+      "type": "paragraph",
+      "html": "The Bloodforge hammer exists solely as an 3D model rendered on the screen as you play EverQuest, and as a set of numerical and logical values used in processing by EverQuest’s game servers. It has no concrete, real-world expression, and no value in any context other than the game of EverQuest. That’s not quite true; I could go to eBay, and auction off the Bloodforge hammer, if I wished, and earn tangible money for it. I have no idea how much, actually, but I’m sure it’s possible; people do frequently auction off characters or possessions or game money from Ultima Online and EverQuest.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0073"
+    },
+    {
+      "type": "paragraph",
+      "html": "So one can argue that the Bloodforge hammer has ‘real world meaning,’ since I can transform it to hard US currency. Nonetheless, its real-world value exists only in the context of EverQuest; if Verant, EverQuest’s publisher and operator, goes out of business tomorrow, and the EverQuest servers shut down, my notional possession of a Bloodforge hammer will immediately cease to have meaning – and no one will be willing to pay money for it.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0074"
+    },
+    {
+      "type": "paragraph",
+      "html": "Do we have a complete and hermetic defi nition of “game” yet? An interactive structure of endogenous meaning that requires players to struggle toward a goal? Sometimes, it’s useful to test a defi nition to make sure it includes all the things we want to include, and excludes those we don’t. Thus: Is the stock market a game? A stock market is interactive; if you trade a stock, you affect the price for the stock. Most of the time, you affect it marginally, but if the stock is thinly traded, or you are an institutional investor and are trading a great many shares, you will move the stock quite noticeably.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0075"
+    },
+    {
+      "type": "paragraph",
+      "html": "The stock market certainly has a structure – one enshrined in law, in fact. Trading in the stock market is certainly a struggle; it’s not easy to outperform the S&amp;P 500, as any investment manager can attest. And the stock market certainly has a goal; “players” seek to make money. But the stock market’s meaning is not endogenous. What we trade on the market – shares in companies – would still have meaning even if the stock market evaporated tomorrow. True, if the New York Stock Exchange disappears tomorrow, it will be diffi cult for me to sell my shares in General Motors; the stock market provides a liquid, responsive, easily-reached market for shares. But the stock market is not the only market for shares; people do buy and sell shares in privately-held corporations, ones that have no stock-market listing, for existence. Venture capitalists do that every day, taking part ownership of the companies they provide the capital for.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0076"
+    },
+    {
+      "type": "paragraph",
+      "html": "It’s hard to fi nd buyers or sellers of shares in companies that are not publicly traded – and it’s hard to determine a ‘fair market value,’ because there is no active, liquid market in the shares of such companies. But the shares have real world value: They represent part control of a company, and a stake in its dividends and future growth. The stock market is a mechanism for making trading easier; it is not the creator of meaning for the shares traded through the market.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0077"
+    },
+    {
+      "type": "paragraph",
+      "html": "The difference between the stock market and a game is the difference between non-fi ction and fi ction. Both non-fi ction and fi ction are prose works; many of the same writing techniques apply to both, and (high quality) non-fi ction writing is deemed worthy of the name “literature,” just as fi ction is. But there is a fundamental distinction between them: non-fi ction at least attempts to be “about” the real world, while fi ction is fantasy.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0078"
+    },
+    {
+      "type": "paragraph",
+      "html": "Games are fantasy. I don’t mean that all games are about orcs and elves and magic spells, although far too many are; I mean that they ain’t real. The fact that they aren’t real is part of the point. Like fi ction, games provide their own context; in a novel, a writer paints a picture of the world, portrays characters, provides context for the reader. Even if much of what the novel contains is drawn from the real world, the reader is expected to understand that this is not an accurate portrayal of real events; instead, he is supposed to be drawn into this unreal context, to take enjoyment from the events and characters described, and from the artist’s skill in describing them.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0079"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sometimes, fi ction recontextualizes everyday things in an unexpected way; as Samuel R. Delaney points out, the phrase “Her world exploded” has a very different meaning in a science fi ction novel from in a realistic fi ction novel – and still yet another meaning in a porn novel. Games do the same. “Bloodforge hammer” has no meaning, except in the context of EverQuest. The word “pawn” certainly has a meaning external to Chess, but it has a specifi c meaning in the context of the game that is thematically linked but otherwise independent to the external meaning of the word. A royal fl ush is a meaningless set of pasteboard cards, except in the context of Poker. Achieving a kill in a Quake deathmatch will do nothing for you in the real world, but may elicit glee or satisfaction when you’re playing the game.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0080"
+    },
+    {
+      "type": "paragraph",
+      "html": "I should note that the likeness between games and fi ction should not be taken too far; many games are “non-fi ction,” in the sense that they are attempts to portray or simulate real-world events with some level of accuracy. Fifteen years ago, I worked on a game called Imperium Romanum II (Albert A. Nofi ), which was a serious and scholarly attempt to simulate the Roman civil wars from the confl ict between Marius and Sulla to Justinian’s attempt to reconquer the Empire; the designer’s research and his meticulous attention to detail was amazing. I maintain, quite forcefully, that you can learn more about the Roman military, its changes over the course of the Late Republic and the Empire, and the nature of internal confl ict in the Empire, by studying Nofi ’s game than from any six books on the subject. In some cases, games are better than narrative, because they allow you to explore a system, to experiment with alternatives, while linear narrative must stick to the literal events and not the possibilities.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0081"
+    },
+    {
+      "type": "paragraph",
+      "html": "Imperium Romanum II is a non-fi ction game; but game it is. The concept of a legion has external reality, but in the context of the game, it is a diecut cardboard counter with certain numerical values and capabilities. The concept of a Roman road is drawn from the real world, but in the game it reduces the movement point cost for entering hexes in certain provinces.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0082"
+    },
+    {
+      "type": "paragraph",
+      "html": "The concept of a province is real, but in the game, a province is a collection of hexes that jointly provide tax revenue to the player that owns it. Imperium Romanum II is drawn from reality, but it recontextualizes that reality to establish its own, endogenous, meanings. INTERACTIVE ENTERTAINMENT At last we have a functional defi nition of “game”: an interactive structure of endogenous meaning that requires players to struggle toward a goal.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0083"
+    },
+    {
+      "type": "paragraph",
+      "html": "A question almost immediately arises: If “the game” is a subset of “interactive entertainment,” what forms of interactive entertainment are excluded by our defi nition? My answer: None. Or none worth the powder to blow them to hell, anyway. Many people would disagree. There are any number of “interactive entertainment” sites on the Internet, for instance, that are entirely devoid of games. But if you explore them, you’ll fi nd that they are nothing of the kind; rather, they are using Internet technologies to provide a non-interactive experience. A site that provides articles for you to read, or video clips to watch, or music to download is indeed providing entertainment – but it does not allow you to interact with the entertainment in any meaningful sense. You can get the same material from print, videocassette, or CD.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0084"
+    },
+    {
+      "type": "paragraph",
+      "html": "“An interactive structure of endogenous meaning that requires players to struggle toward a goal.” What kind of interactive entertainment could be something other than this? It could be unstructured. But I have a hard time to imagine a completely freeform, unstructured form of entertainment, unless it be simple conversation – and certainly people fi nd online chat entertaining. But merely because I fi nd something entertaining does not mean that it is entertainment; I read quite a lot of history, for instance, because I fi nd it entertaining to do so – yet no one views a work of history as entertainment, however entertaining they may fi nd reading it. History has its own value – it has exogenous meaning, if you will. Entertainment is a side effect, not the purpose. Similarly, conversation may be entertaining, but it is not entertainment in se.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0085"
+    },
+    {
+      "type": "paragraph",
+      "html": "To be a form of entertainment, you require some kind of structure – and you require endogenous meaning. The form must contextualize itself, it must provide meanings that make sense in the context of the work itself – fi lm and music and novels all do so. Only if the meaning has direct, one to one connection with the real world is it not “endogenous” – as is the case with history, or the stock market. And if the meaning is directly connected to the real world, you have something of practical value; not an entertainment form.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0086"
+    },
+    {
+      "type": "paragraph",
+      "html": "Perhaps our non-game “interactive entertainment” can eschew struggle? This is feasible; works like Just Grandma and Me, an interactive storybook for children, involve no particular struggle. You click on an icon, get a cute little animation, read the words, and go on to the next page. Four year olds fi nd this entertaining. And many of the old Voyager CD-ROM products essentially did the same thing for adults; click on something, watch something cute, go on. This seems pretty darn tedious to me – and it is, perhaps, indicative that “entertainment CD-ROMs” basically no longer exist, except as games.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0087"
+    },
+    {
+      "type": "paragraph",
+      "html": "Or perhaps we can have “interactive entertainment” without a goal? Again, in principle you can; you can have a pointless entertainment product, an interactive thing that has no goal, no reason to interact with it, no objective, no meaning. This is, er, pointless. Theodore Sturgeon, a science fi ction writer, grew up in a highly literary family; as he tells the story, his parents used to read all kinds of fi ction to the children, including rather adult works like Moby Dick. When Sturgeon was a boy, he (in all innocence) bought a copy of Astounding Stories, the fi nest science fi ction magazine of its day, with his own money, and brought it home.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0088"
+    },
+    {
+      "type": "paragraph",
+      "html": "His father seized it, tore it in half, and threw it in the trash. “That’s what we do with garbage in this house,” he said. Samuel Delaney calls literature that engenders such extreme repugnance “paraliterature.” “This is an extreme reaction to a text,” he says – and it is. Doubtless, much of what was in that issue of Astounding was drivel – but Astounding also published some of the best science fi ction of the 40s and 50s, much of which is still in print today. One can debate the merits of science fi ction as a whole, but unquestionably, some science fi ction has real literary merit.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0089"
+    },
+    {
+      "type": "paragraph",
+      "html": "The search for “interactive entertainment” that isn’t games is motivated by repugnance for games – those cheap, gaudy, violent, unpleasant, degraded pop-culture entertainments for ill-read, ill-mannered little boy brats. It’s a search by those who wish to achieve something “higher” and of greater merit and value than can possibly be achieved among such a puerile and repulsive form as “the game.”",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0090"
+    },
+    {
+      "type": "paragraph",
+      "html": "In short, the search for non-game interactive entertainment is wrongheaded, inspired by a failure to apprehend games and a foolish, refl exive response to what they represent, in our culture, at this point in time. Any form of “interactive entertainment” that isn’t a game must be noninteractive; or not entertainment; or pointless. Art can be achieved in interactive entertainment; it has been, and it will be, and towering works of imaginative creativity will inevitably be produced in the fi eld as it matures. But if you’re looking away from games, you’re looking in the wrong place.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0091"
+    },
+    {
+      "type": "paragraph",
+      "html": "Interactive entertainment means games. LEBLANC’S TAXONOMY So we have a functional defi nition of games, one that provides some insight into what we need to do to create compelling games – provide goals, create endogenous meanings, establish a structure, make sure you make the player struggle. But we still need to look at what it is about games that people fi nd compelling, and to that end, I think it’s useful to borrow Marc LeBlanc’s taxonomy of game pleasures. He says there are eight: one is sensation, by which he means sensory pleasure.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0092"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sensation Good visuals provide one form of sensory pleasure; we like pretty games. Audio is important. For some games, tactile pleasure is important, too; sometimes a game’s controls just feel right. For some games, muscle pleasure is important as well – sports, obviously, but perhaps that’s part of the appeal of Japanese arcade dance games, like Dance Dance Revolution.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0093"
+    },
+    {
+      "type": "paragraph",
+      "html": "As an example of the difference that mere sensation can make, consider the boardgame Axis &amp; Allies. I fi rst bought it when it was published by Nova Games, an obscure publisher of hobby games. It had an extremely garish board, and ugly cardboard counters to represent the military units. I played it once, thought it was pretty dumb, and put it away. Some years later, it was bought and republished by Milton Bradley, with an elegant new board, and with hundreds of plastic pieces in the shapes of aircraft, ships, tanks, and infantrymen – I’ve played it many times since. It’s the sheer tactile joy of pushing around little military fi gures on the board that makes the game fun to play.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0094"
+    },
+    {
+      "type": "paragraph",
+      "html": "It’s important to recognize, however, that graphic design, or media design more generally, is not in itself game design. This is a fallacy many who do not understand games make – because what they see when they watch someone playing a game is motion on a screen. It’s natural to think that game design is like screenwriting, or movie production. On many occasions, people from Hollywood have tried to move into our fi eld, claiming that they “understand entertainment” – which they do, at least, they understand visual, linear entertainment. They tend to produce beautiful but dull games.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0095"
+    },
+    {
+      "type": "paragraph",
+      "html": "Creating sensory pleasure is important, and when you design, it’s worth thinking about how you will do so. But it’s a supporting factor, not the essence of design. Beautiful games can, in fact, be virtually devoid of sensory pleasure. In my opinion, NetHack is one of the fi nest games ever developed; it’s a game I still play, and have had on every computer I’ve owned for more than 15 years.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0096"
+    },
+    {
+      "type": "paragraph",
+      "html": "And it’s pure ASCII graphics. Fantasy LeBlanc’s second category of pleasure is fantasy. By this he does not literally mean a setting with orcs and elves and magic spells, but something analogous to the fi ctional concept of suspension of disbelief. Just as it is fun to lose yourself in a novel, whether it is set in the present day, with characters you might encounter at the mall, or set in some past, future, or entirely imaginary world, so it is fun to lose yourself in the fi ctional constructed world of a game.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0097"
+    },
+    {
+      "type": "paragraph",
+      "html": "Abstract games, like chess, do not do well on this score; because they have so few points of connection to anything other than their own endogenous meanings, they offer little fantasy appeal. That’s not a fl aw; I don’t think chess would benefi t from a beginning cut scene explaining about how the game is a war between two brothers. But when you’re designing games, it’s important to think about how everything you do helps sustain a sense of place, of immersion in the universe of the game. Simple things, like writing in appropriate language, or using a graphic style appropriate to the setting, or using systems that feel like they simulate some aspect of the setting, all help reinforce the fantasy of the game.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0098"
+    },
+    {
+      "type": "paragraph",
+      "html": "Narrative The question of whether or not games are, or should be, or should not be story-telling engines is a contentious one – there are those who maintain that every game requires a story, and those who claim that game and story are in direct opposition, and those who say that story is a useful element in some, but not all games. Personally, I tend toward the latter opinion – Chess would not be improved by adding a cut scene at the beginning, explaining how the game is about a war between brothers – but a graphic adventure without a story would be dull indeed.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0099"
+    },
+    {
+      "type": "paragraph",
+      "html": "But by “narrative,” LeBlanc doesn’t literally mean attachment to a story. What he means is something closer to this: games should support a sense of drama. Doubtless you’ve been in English classes in which your teacher diagrammed a story’s arc – typically, it’s a sense of rising tension, leading to a climax. That’s a useful way to think about games, too; rising tension, leading to a climax and a sense of accomplishment. Sometimes, lots of little peaks of tension, with moments to catch your breath between.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0100"
+    },
+    {
+      "type": "paragraph",
+      "html": "This is easier to accomplish in prescripted games, like graphic adventures, than in more algorithm-driven games, like Civilization. But even in such games, it’s worth thinking about how you can drive a sense of increasing tension and drama over time. Challenge LeBlanc’s fourth category is challenge, which is equivalent to our notion of struggle. As I’ve argued, this is at the heart of any game; you may be able to dispense with fantasy, or narrative, but you cannot dispense with challenge. And when designing, you need to identify what it is that players are going to fi nd challenging about your game, and why that challenge will be compelling.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0101"
+    },
+    {
+      "type": "paragraph",
+      "html": "And as I’ve said, you need to tune the challenge – quite likely during testing, rather than at the spec level – to avoid making the game either too easy or too hard. This, incidentally, is one area where wireless games, and more generally, networked games can do better than conventional games. In the world of boxed product, you are stuck with what you ship – yes, you can offer a patch, at least for PC titles, but most people won’t install it. If you made your game too easy or too hard, you can’t change it later. In a networked environment, you can watch to see how players react, and modify the game if necessary.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0102"
+    },
+    {
+      "type": "paragraph",
+      "html": "Fellowship LeBlanc’s concept of fellowship is close to what people in online gaming call community. Community is central to the appeal to such games; as Gordon Walton, head of the Sims Online project says, “They come for the game, they stay for the community.” As an example, consider the game Air Warrior, originally launched in 1984 on the old Genie commercial online service; and still in use today on EA.com. There are people in the game who have subscribed to it continuously for close to two decades – and there are people who continue to subscribe, but list themselves as “Captain so-and-so, retired” – meaning they no longer actually fl y in the game, but come just to hang out in the chat rooms and visit with their buddies..",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0103"
+    },
+    {
+      "type": "paragraph",
+      "html": "More generally, shared intense experiences breed a sense of fellowship. Think about what you talk about with your friends – maybe it’s sports, maybe it’s shopping, maybe its books you’ve both read or TV shows you’ve seen. But for gamers, it’s often the games they’ve played. Even offl ine, where the experience is not shared directly, shared experiences provide points of contact with other people, and reasons to feel friendly toward them.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0104"
+    },
+    {
+      "type": "paragraph",
+      "html": "Discovery Discovery is another big part of the appeal of many games. In some cases, it’s literal: exploring the world of the game. There’s something very emotionally compelling at the start of Civilization, for instance; a little square of light about your lone settler, surrounded by a vast dark world you have yet to explore. There’s something exciting about entering a new dungeon in EverQuest, hesitantly exploring the corridors and caverns, alert at every moment for an unexpected, and potentially lethal, monster at every turn.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0105"
+    },
+    {
+      "type": "paragraph",
+      "html": "But discovery can also be about revealing hidden information; that’s part of the appeal of Poker, for instance, trying to fi gure out what someone else’s downcard might be, or biting your lip as the dealer deals you a card that might or might not complete your fl ush. And it can be a result of the sheer variety of the game space – Magic: The Gathering is a good example here. There are so many different Magic cards that if you play a lot, you’re always encountering one you hadn’t seen before – and encountering decks that combine familiar cards in unexpected and clever ways.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0106"
+    },
+    {
+      "type": "paragraph",
+      "html": "Expression By this, LeBlanc really means “self expression”. Some, but by no means all, games, give players a way to express themselves, to choose how they present themselves in the context of the game. This is obviously true of tabletop RPGs and MUDs and MMORPGs, for instance. By the way we talk with others, by our choice of name, even in our choice of dress, we say something about ourselves to others. And in many cases, those interactions with others, whether in or out of character, become one of the main reasons we play.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0107"
+    },
+    {
+      "type": "paragraph",
+      "html": "That’s true in classic games, as well; we play Hearts or Poker not so much to experience the game itself, but to engage in a social activity with others. Tabletalk is as important as play. But it’s true, to a degree, in many soloplay games as well. In Deus Ex, say, you can win as a violent bastard, shooting anything that gets in the way – or win by sneaking around, persuading NPCs to help you, and avoiding a gun whatever you do. In Black &amp; White, you can choose the path of evil, or of virtue. In Civilization, you can conquer the world, or win through technological superiority, or make friends and get elected head of the UN.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0108"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sometimes little tricks go a long way here. Even so little a thing as allowing a choice of character name can give people a modest means of selfexpression. Or as another example, Dark Ages of Camelot lets people buy dyes, to change the color of the clothing and armor they wear – something that has no game effect, and costs ingame money, but gives people a means of self expression. And they use it, too – they willingly spend money they could spend actually improving their character’s weapons or armor, on something so trivial as virtual fashion.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0109"
+    },
+    {
+      "type": "paragraph",
+      "html": "Masochism This is an odd choice of words on Marc’s part, but perhaps not an entirely inappropriate one. I remarked previously that we don’t want life to be a struggle – but we do want our games to be. What Marc means is that there’s a pleasure to be gained by submitting yourself to the structure of a game. Submission to a game’s structure is the basic transaction we make when we play. We don’t really care whether or not we get Monopoly money, but when we play, we agree to act like we do. We don’t really care whether we level up tonight in EverQuest, but we do our darndest to do so. We don’t really care whether the Yankees beat the Giants... well, okay, maybe we do care.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0110"
+    },
+    {
+      "type": "paragraph",
+      "html": "In fact, it’s awfully frustrating to play with someone who doesn’t make that transaction, who doesn’t submit himself to the game’s structure. It’s no fun playing Quake with someone who just stands around and makes snarky comments in the chat. It’s no fun dragooning your little sister into playing Stratego with you, if she just moves her pieces at random. And it’s for damn sure frustrating to play with someone who cheats – someone who pursues the game’s goals while seeking to violate its structure.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0111"
+    },
+    {
+      "type": "paragraph",
+      "html": "Figuring out the structure, and fi guring out how to beat it, or manipulate it to beat your opponents, or gain your goals in the gameworld, is what gameplay is all about. ARTISTS... Artists – and a game designer, is an artist, working in the medium of games – artists begin with imitation. If you want to be a comic book illustrator, you begin by trying to draw Spiderman, or Superman, or like the Hernandez brothers. If want to be a rock musician, you begin by copying the stylings of guitarists you admire. If you’re a writer, you begin by writing fan fi c, or trying to imitate the style of writers you adore. And if you’re a game designer, you begin by trying to design a game like one you enjoy.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0112"
+    },
+    {
+      "type": "paragraph",
+      "html": "They then move on to mastery of technique. You use the techniques you mastered, and try to combine them in novel ways – to borrow this aspect of an RPG in a real-time strategy game, or think about how better you can sustain a sense of fantasy, or take a novel setting to an established game style. And ultimately, artists work with a sense of intentionality. They understand their medium thoroughly, and they seek not to imitate existing work, or improve on it incrementally – but to conceive the effects they want from the beginning of a project, to understand what techniques lend themselves to those effects, and to execute the work so that each and every aspect of it supports the desired goals.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0113"
+    },
+    {
+      "type": "paragraph",
+      "html": "In this fi eld – in any fi eld – there are only a handful of masters who have achieved that fi nal stage, who work with intentionality, and create, as a result, polished and innovative product. WHAT MAKES IT A GAME? When designing a game – or playing one and trying to understand its appeal – you won’t do badly if you start with the tools I’ve discussed here – both the defi nition I’ve provided for the game, and Marc LeBlanc’s taxonomy of game pleasures.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0114"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ask yourself: How does the player interact with the game? Are those interactions meaningful? Is the process of interaction itself enjoyable – or tedious, and if so, how could it be made it less so? What kinds of goals does the game support? Is there a single winning condition, or several? Or does it provide player-selectable goals, and if so, what kinds of playstyles do you want to support, and what kinds of goals should you therefore allow?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0115"
+    },
+    {
+      "type": "paragraph",
+      "html": "Do the algorithms that govern the games support what the designer is trying to do with the game? Do they “feel right” in the context of the game world, and the fantasy it attempts to sustain? Are they both complex enough to pose diffi cult choices to the players, and simple enough that the player will not be mystifi ed by the game’s behavior? Where does the struggle lie? What obstacles must the player overcome?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0116"
+    },
+    {
+      "type": "paragraph",
+      "html": "How is the game enriched by alternative, or subsidiary problems? Is it too hard, or too easy on the player? What meanings does the game create? Does it make the player care about how he does? What points of connection exist between game objects and the real world? What insights does the player come to as he plays? What Pleasures does it provide? And what pleasures does the game provide?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0117"
+    },
+    {
+      "type": "paragraph",
+      "html": "Do the visuals dovetail with the theme and approach of the game? Can they be made more beautiful? Does the voice acting suck? Should you employ a professional writer for your dialog? Is the music great, or does it make players start to fl inch after fi fteen minutes? Do the controls feel right, or do people keep forgetting which button does what, or does it give you carpal tunnel syndrome?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0118"
+    },
+    {
+      "type": "paragraph",
+      "html": "Does the game background sound like towering, heroic fantasy, giving you the butterfl y-stomach feeling you had when you fi rst read Tolkien, or is it lame, stereotyped orcs and elves? Do players get immersed in the everyday suburban world, its very familiarity helping make them care about the characters, or is it simply dull? Do players get so into being the autocrat of a banana republic that they start to talk in Spanish accents, or do they feel like they’re playing some abstract force and don’t really connect with the game?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0119"
+    },
+    {
+      "type": "paragraph",
+      "html": "What fantasy does the game provide, and do the systems make players feel that fantasy? If there’s a story to the game, is it emotionally satisfying? Does it feel that there’s a dramatic sweep to the game, or is the endgame dull, with your opponents on the run as you grind out the last few conquest to get to a win? When do players’ hearts pound, and why – and if the answer is “never,” what do you have to do to get them on the edge of their seats?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0120"
+    },
+    {
+      "type": "paragraph",
+      "html": "Is the game a challenge, or too easy, or too tough for most people who play? Does the game create connections between the players, or do they never feel a need to communicate with each other or talk about the game? How can you create and sustain a sense of fellow-feeling, of shared experience, of community in the game? Are their structures you can build around the game – Richard Garfi eld’s notion of the metagame – to build a greater sense of ongoing participation? What are the social uses of your game?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0121"
+    },
+    {
+      "type": "paragraph",
+      "html": "How do players fi nd things out in the game? What new things do they encounter over time? Is there a suffi cient sense of variability and novelty as the game progresses, or does it become more of the same-old same-old after time? How can you make exploring the game space more interesting? What opportunities for self-expression does the game provide? How else can you provide them, without encouraging your players to become profane or antisocial?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0122"
+    },
+    {
+      "type": "paragraph",
+      "html": "Does it feel like fun to accept the strictures of the game, or do your testers just hate some restriction? What feels arbitrary about the game, and how can you make that aspect feel more like part of a coherent whole, a more natural evocation of the game’s aesthetic and worldview? Where do you fi nd yourself saying, “Damn, I wish I could do THIS....” And is there a way to let your players do precisely that?",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0123"
+    },
+    {
+      "type": "paragraph",
+      "html": "FINAL QUOTE I want to leave you with this fi nal quote from Jung: “One of the most diffi cult tasks people can perform, however much others may despise it, is the invention of good games.” From the outside, game design looks easy. From the outside, writing looks easy, and everyone in Hollywood wants to screw with the script. But actually, this is among the most diffi cult creative disciplines, precisely because we’re creating structures that people are going to use in every possible way, and use in ways we cannot anticipate. Games are an artform unlike any other, because the product is not passively received, it is not something specifi ed to the last splotch of paint and every comma. Rather, a game, as it is played, is a collaboration between the developers and the players, a journey of mutual discovery, a democratic artform in which the shape of the game is created by the artist, but the experience of the game is created by the player.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0124"
+    },
+    {
+      "type": "paragraph",
+      "html": "Game design is, therefore, the creative attempt to imagine, a priori, the kinds of experiences players will have with your game, and through that act of imagination, to create a structure to point them toward the kinds of experiences you’d like them to feel. In fact, game design is not merely diffi cult; it is impossible. That is, it is impossible, or virtually impossible, to spec a game at the beginning of a project, and have it work beautifully, wonderfully, superbly from the moment a playable prototype is available. There’s just too much going on here, too many ways for it to fail. Game design is ultimately a process of iterative refi nement, continuous adjustment during testing, until, budget and schedule and management willing, we have a polished product that does indeed work beautifully, wonderfully, superbly.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0125"
+    },
+    {
+      "type": "paragraph",
+      "html": "But your changes of getting that beautiful, wonderful, superb game will be much higher if you begin with intentionality, begin by thinking about the experiences you want your players to have, understand what makes a game, and understand what pleasures people fi nd in them.",
+      "source": "pdf-text-extraction",
+      "id": "pdf-text-03da6082-25da-494e-9882-6b0c4f34a386-0126"
+    },
+    {
       "id": "ba52e804-0463-4069-841b-08e23769fb55",
       "type": "file",
       "kind": "pdf",

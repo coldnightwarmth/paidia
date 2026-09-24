@@ -1,5 +1,6 @@
+import { renderQuoteLibrary } from './quotes.js?v=20260924-quote-viewer-wrapping';
 import { recordRowUpdates } from './recent-updates.js';
-import { renderHome } from "./home.js?v=20260923-home-search-fade-v6";
+import { renderHome } from "./home.js?v=20260924-cursor-gifs-brand-padding";
 
 const DATA_CACHE_TOKEN = Date.now().toString(36);
 
@@ -189,7 +190,7 @@ if (shortformNavigationItem) shortformNavigationItem.title = "Shortform Texts";
 const CATALOG_DATABASES = new Map([
   ["da0f6a33-7bc6-4708-9bf2-ad2d25c64734", { key: "video-audio", label: "Video+Audio" }],
   ["549e6748-f2f1-4f8d-9243-68d0b9f00343", { key: "games", label: "Games" }],
-  ["7070e92d-6389-4c6c-88f2-0b38bc3d8e3a", { key: "other-media", label: "Other Media" }],
+  ["7070e92d-6389-4c6c-88f2-0b38bc3d8e3a", { key: "other-media", label: "Other" }],
   ["5c956dc7-7bd4-439f-973e-3d819d90149d", { key: "objects", label: "Objects" }],
   ["2051fa00-5190-42a6-af57-6eca9f5b55d0", { key: "images", label: "Images" }],
 ]);
@@ -200,10 +201,11 @@ const CATALOG_ROUTES = new Map([
   ["tabletop-games-70aaf802", "games-549e6748?category=Tabletop"],
   ["sports", "games-549e6748?category=Sports"],
   ["other-games-and-toys", "games-549e6748?category=Other%20Games%20%26%20Toys"],
-  ["films-and-tv", "other-media?category=Films%20%26%20TV"],
-  ["anime-and-manga", "other-media?category=Anime%20%26%20Manga"],
-  ["music-bb4976cc", "other-media?category=Music"],
-  ["software-db7886e6", "other-media?category=Software"],
+  ["films-and-tv", "other?category=Films%20%26%20TV"],
+  ["anime-and-manga", "other?category=Anime%20%26%20Manga"],
+  ["music-bb4976cc", "other?category=Music"],
+  ["software-db7886e6", "other?category=Software"],
+  ["other-media", "other"],
   ["objects", "artifacts"],
   ["groups-f82fec8f", "folks-292fe1df?list=Groups"],
   ["writers-and-scholars", "folks-292fe1df?list=Writers%20%26%20Scholars"],
@@ -226,6 +228,7 @@ let shortformDatabasePayload = null;
 
 let renderVersion = 0;
 let disposeHome = null;
+let disposeQuotes = null;
 
 const sidebar = document.querySelector("#sidebar");
 const nav = document.querySelector("#site-nav");
@@ -283,6 +286,7 @@ function isShortformDatabasePage(pageSummary) {
 
 function isShortformTextPage(pageSummary) {
   return (
+    pageSummary?.parentPageId === SHORTFORM_DATABASE_PAGE_ID ||
     pageSummary?.parentPageId === SHORTFORM_ESSAYS_PAGE_ID ||
     pageSummary?.parentPageId === SHORTFORM_POEMS_AND_STORIES_PAGE_ID
   );
@@ -293,6 +297,7 @@ function isSpreadsheetDatabasePage(pageSummary) {
     isFullTextDatabasePage(pageSummary) ||
     isFolksDatabasePage(pageSummary) ||
     isShortformDatabasePage(pageSummary) ||
+    pageSummary?.id === "2b9dc0d1-2d66-4aeb-b050-fb9835b1338a" ||
     CATALOG_DATABASES.has(pageSummary?.id)
   );
 }
@@ -305,8 +310,13 @@ function pagePropertyTokens(page) {
 }
 
 function isBookPage(page) {
+  // Database ancestry is authoritative; a shared book/bookmark icon is not.
+  const summary = pageIndexMap.get(page?.id) ?? page;
+  if (isShortformTextPage(summary)) return false;
+  const parentId = summary?.parentPageId ?? summary?.parentId;
+  if (parentId === FOLKS_DATABASE_PAGE_ID || CATALOG_DATABASES.has(parentId)) return false;
   const icon = page?.icon ?? "";
-  return /book/i.test(icon) || pagePropertyTokens(page).some((token) => token === "Book");
+  return /book(?!mark)/i.test(icon) || pagePropertyTokens(page).some((token) => token === "Book");
 }
 
 function setSidebarOpen(isOpen) {
@@ -322,6 +332,8 @@ function setSidebarOpen(isOpen) {
 }
 
 function applyPageChrome(pageSummary) {
+  disposeQuotes?.();
+  disposeQuotes = null;
   disposeHome?.();
   disposeHome = null;
   const homePage = isHomePage(pageSummary);
@@ -1844,7 +1856,7 @@ async function renderFullTextDatabaseSpreadsheet() {
           </svg>
         `;
         previewButton.addEventListener("click", () => {
-          openBookPreview(metadata.pageId, title);
+          preserveGalleryRow(card, () => openBookPreview(metadata.pageId, title));
         });
         card.append(previewButton);
       }
@@ -2918,7 +2930,7 @@ async function renderFolksDatabaseSpreadsheet(config = null) {
           </svg>
         `;
         previewButton.addEventListener("click", () => {
-          openFolksPreview(metadata.pageId, name);
+          preserveGalleryRow(card, () => openFolksPreview(metadata.pageId, name));
         });
         card.append(previewButton);
       }
@@ -3962,7 +3974,7 @@ async function renderShortformDatabaseSpreadsheet() {
           </svg>
         `;
         previewButton.addEventListener("click", () => {
-          openShortformPreview(metadata.pageId, title);
+          preserveGalleryRow(card, () => openShortformPreview(metadata.pageId, title));
         });
         card.append(previewButton);
       }
@@ -5186,6 +5198,41 @@ function syncFolksPreviewButtons() {
   });
 }
 
+let stopGalleryPositionRestore = null;
+
+function preserveGalleryRow(card, changePreview) {
+  stopGalleryPositionRestore?.();
+  const originalTop = card.getBoundingClientRect().top;
+  const originalOverflowAnchor = document.documentElement.style.overflowAnchor;
+  document.documentElement.style.overflowAnchor = 'none';
+  let frame;
+  let stopped = false;
+  const deadline = performance.now() + 450;
+  const stop = () => {
+    if (stopped) return;
+    stopped = true;
+    cancelAnimationFrame(frame);
+    document.documentElement.style.overflowAnchor = originalOverflowAnchor;
+    for (const type of ['wheel', 'touchstart', 'pointerdown', 'keydown']) window.removeEventListener(type, stop, true);
+    if (stopGalleryPositionRestore === stop) stopGalleryPositionRestore = null;
+  };
+  stopGalleryPositionRestore = stop;
+  const restore = () => {
+    if (stopped) return;
+    if (!card.isConnected || !card.getClientRects().length || !card.closest('.page')?.getClientRects().length) { stop(); return; }
+    const delta = card.getBoundingClientRect().top - originalTop;
+    if (Math.abs(delta) > .5) window.scrollBy({ top: delta, left: 0, behavior: 'instant' });
+    if (performance.now() < deadline) frame = requestAnimationFrame(restore);
+    else stop();
+  };
+  for (const type of ['wheel', 'touchstart', 'pointerdown', 'keydown']) window.addEventListener(type, stop, { capture: true, passive: true });
+  try {
+    changePreview();
+    // Correct the initial reflow before painting, then follow layout settling.
+    restore();
+  } catch (error) { stop(); throw error; }
+}
+
 function closeBookPreview() {
   activeBookPreviewPageId = null;
   activeShortformPreviewPageId = null;
@@ -5992,6 +6039,14 @@ async function renderCurrentRoute(scrollMode = pendingRouteScrollMode ?? "new") 
     content.classList.toggle("page__content--shortform-text", shortformTextPage);
     if (isHomePage(page)) {
       disposeHome = renderHome({ content, siteIndex, escapeHtml });
+    } else if (page.id === "2b9dc0d1-2d66-4aeb-b050-fb9835b1338a") {
+      const response = await fetch(dataUrl('./data/collections/9427dd13-de2f-4626-8176-6ac9df6b65c4.json'));
+      if (!response.ok) throw new Error('Quotes could not be loaded.');
+      const collection = await response.json();
+      if (version !== renderVersion) return;
+      const library = renderQuoteLibrary(collection, escapeHtml);
+      disposeQuotes = library.dispose;
+      content.append(library.element);
     } else if (isFullTextDatabasePage(page)) {
       content.append(await renderFullTextDatabaseSpreadsheet());
     } else if (CATALOG_DATABASES.has(page.id)) {
